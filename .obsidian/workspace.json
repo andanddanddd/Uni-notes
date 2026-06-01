@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +224,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0b2f1eb4366b1b1b",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Fag/Ernæring og endokrinologi.md",
     "Flashcards/Molekylær biologi/Caseuge 5/Uge 3 efter fertilisering.md",
     "Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Elektrokardiogram.md",
     "GIT",
@@ -254,7 +256,6 @@
     "Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Højre venstre dominans i coronararterier.md",
     "Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Perfusion af hjertet.md",
     "Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Sinus coronarius.md",
-    "Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/A. coronaria dextra.md",
     "Billeder/Hjerte, lunge, nyrer I/hjertes venstre inderside.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertets højre inderside.png",
     "Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/Slides -Hjertet_Ana_Fys.pdf",
