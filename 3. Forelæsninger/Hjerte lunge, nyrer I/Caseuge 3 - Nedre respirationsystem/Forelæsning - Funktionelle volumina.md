@@ -84,7 +84,7 @@
 - Hvilke strukture indeholder anatomisk dead space?
 ?
 - Næse [[Næsen]]
-- Pharynx [[Flashcards/Hjerte. lunge, nyrer I/Caseuge 2 - Øvre respirationsystem/Svælget|Svælget]]
+- Pharynx [[4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 2 - Øvre respirationsystem/Svælget|Svælget]]
 - Larynx [[Strubehovedet]]
 - Trachea [[Luftrøret]]
 - Broncier [[Bronkier]]

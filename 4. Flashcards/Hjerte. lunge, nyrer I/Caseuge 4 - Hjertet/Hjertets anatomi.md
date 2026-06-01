@@ -43,7 +43,7 @@
 ![[Sulci cordis]]
 
 
-![[Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Hjerteklapperne]]
+![[4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Hjerteklapperne]]
 
 ![[Perfusion af hjertet]]
 
