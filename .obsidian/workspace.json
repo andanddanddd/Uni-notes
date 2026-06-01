@@ -191,9 +191,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "945ea038d11ce39a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,7 +223,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
     "Flashcards/Molekylær biologi/Caseuge 5/Uge 3 efter fertilisering.md",
     "Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Elektrokardiogram.md",
