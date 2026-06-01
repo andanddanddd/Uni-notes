@@ -1,0 +1,13 @@
+[[Cellekernen]]
+[[Cellemembran]]
+[[Centrosom]]
+[[Cytoplasma]]
+[[Cytoskelet]]
+[[Endoplasmatisk retikulum]]
+[[Golgi apparatet]]
+[[Lysosomer]]
+[[Peroxisomer]]
+[[Proteasom]]
+[[Transportmekanismer]]
+[[Mitrokondria]]
+

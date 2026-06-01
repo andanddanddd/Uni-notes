@@ -1,0 +1,7 @@
+[[Arvemasse organisering]]
+[[Genetisk kode]]
+[[DNA]]
+[[RNA]]
+[[Baser i nukleinsyre]]
+[[Karyotype]]
+[[DNA replikation]]

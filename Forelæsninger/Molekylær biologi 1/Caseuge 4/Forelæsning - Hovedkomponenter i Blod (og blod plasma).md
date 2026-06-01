@@ -1,0 +1,10 @@
+[[Apolipoproteiner]]
+[[Albumin]]
+[[C-reaktivt protein]]
+[[Erytrocytter]]
+[[Hæmoglobin]]
+[[Immunoglobuliner]]
+[[Koagulationsystemet]]
+[[Komplementsystemet]]
+[[Leukocytter]]
+

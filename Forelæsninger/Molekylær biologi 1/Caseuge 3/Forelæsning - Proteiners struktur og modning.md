@@ -1,0 +1,2 @@
+[[Aminosyre]]
+[[Proteiner]]

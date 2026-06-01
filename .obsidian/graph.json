@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Fag/\"",
+      "color": {
+        "a": 1,
+        "rgb": 22662
+      }
+    },
+    {
+      "query": "path:\"Caseuger/\"",
+      "color": {
+        "a": 1,
+        "rgb": 33437
+      }
+    },
+    {
+      "query": "path:\"Forelæsninger/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 44452
+      }
+    },
+    {
+      "query": "path:\"Flashcards/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2349200
+      }
+    },
+    {
+      "query": "path:\"De allervigtigste/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2699094
+      }
+    },
+    {
+      "query": "path:\"Excalidraw/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11336304
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.45260416666667,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.333333333333333,
+  "repelStrength": 16.6666666666667,
+  "linkStrength": 0.828125,
+  "linkDistance": 30,
+  "scale": 0.08687870943924816,
+  "close": true
+}

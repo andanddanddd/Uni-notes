@@ -1,0 +1,3 @@
+- Hvad betyder Processus?:: Fremspring eller udløber
+- Hvad betyder hiatus?:: Åbning eller hulrum
+- Hvad betyder conus på latin?:: Kegle
