@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#flashcards/h",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "path:\"Fag/\"",
       "color": {
         "a": 1,
-        "rgb": 22662
+        "rgb": 16711680
       }
     },
     {
@@ -51,7 +51,7 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.45260416666667,
   "lineSizeMultiplier": 1,
@@ -60,6 +60,6 @@
   "repelStrength": 17.8125,
   "linkStrength": 0.90625,
   "linkDistance": 30,
-  "scale": 0.08717026051869872,
+  "scale": 0.0856092833520252,
   "close": false
 }
