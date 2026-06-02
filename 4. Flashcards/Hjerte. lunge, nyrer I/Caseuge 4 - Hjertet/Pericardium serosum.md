@@ -6,3 +6,5 @@
 - Lamina visceralis (epicardiet)
 - Cavitas pericadiaca
 - Lamina parietalis
+
+- Hvad er indeni cavitas pericadiaca?:: Væske

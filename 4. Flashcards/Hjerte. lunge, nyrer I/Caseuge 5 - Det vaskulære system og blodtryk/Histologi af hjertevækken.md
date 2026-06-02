@@ -6,10 +6,5 @@
 1. Endocardium
 2. Myocardium
 3. Pericardiet
-        - 
-    - Myocardium
-        - 
-    - Pericardiet
-        - 
 
 ![[Endocardium]]![[Myocardium]]![[Pericardium]]
