@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preload i hjertet.md",
+                "file": "Histologi af hjertevækken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preload i hjertet"
+              "title": "Histologi af hjertevækken"
             }
           }
         ]
@@ -222,18 +222,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "fad5a835389a5094",
   "lastOpenFiles": [
-    "Preload i hjertet.md",
-    "Slagvolumen.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Mikroanatomi af det vaskulære system.md",
+    "Histologi af hjertevækken.md",
+    "0. De allervigtigste/Latin.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Frank-Starling.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Kontrol af blodtryk.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Modstand.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Total perifer modstand (TPR).md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Poiseuilles lov.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hjertefrekvens.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Pasted image 20260602191511.png",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Minutvolumen.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Afterload i hjertet.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slagvolumen.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hjertets Kontraktilitet.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Preload i hjertet.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Baroreceptorer.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Kemoreceptorer.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Regulering af hjertefrekvens.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hjertefrekvens.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Strækreceptorer.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Respiratorisk center.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Kontrol af blodtryk.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Minutvolumen.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
@@ -251,15 +261,6 @@
     "GIT",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/Forelæsning - Hjertets rytme.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Actionspotentialer i hjertet.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Sinusknuden.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Hjertets anatomi.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/Forelæsning - Hjertets anatomi og fysiologi 1.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Konstriktion af muskler.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/T-tubuli.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Hjertets faser.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium fibrosum.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium serosum.md",
     "Billeder/Hjerte, lunge, nyrer I/hjertet bagfra.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertet forfra.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
@@ -269,7 +270,6 @@
     "Billeder/Hjerte, lunge, nyrer I/lunge 2.png",
     "Billeder/Hjerte, lunge, nyrer I/strubehovedet 2.png",
     "Billeder/Hjerte, lunge, nyrer I/strubehovedet 1.png",
-    "Billeder/Hjerte, lunge, nyrer I/Svælget.png",
     "Untitled.canvas"
   ]
 }

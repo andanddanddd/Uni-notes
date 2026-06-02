@@ -10,10 +10,7 @@
         - 
             
     - Kontraktilitet/inotropy
-        - Hvad er kontraktilitet?→Den slut-systoliske volumen
-        - Hvad er kontraktiliteten afhængig af?
-            - Aktivering i det sympatiske nervesystem
-            - Adrenalin i blodet
+        - 
     - Afterload
         - Hvad er afterload?→Modstanden i aorta
 
