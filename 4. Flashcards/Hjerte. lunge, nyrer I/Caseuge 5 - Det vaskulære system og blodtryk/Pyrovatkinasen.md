@@ -1,0 +1,1 @@
+- Hvordan hæmmes pyrovatkinasen

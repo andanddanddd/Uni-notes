@@ -3,3 +3,5 @@
 ![[Transport af glykose]]
 
 ![[Glykolysen]]
+
+![[Erytrocytters livscylklus]]
