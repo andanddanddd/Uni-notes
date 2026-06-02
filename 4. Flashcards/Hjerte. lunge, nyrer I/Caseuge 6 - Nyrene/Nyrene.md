@@ -2,6 +2,7 @@
 
 [[Anatomi af nyrene]]
 [[Histologi af nyrene]]
+[[Nyrenes kar og nerveforsyning]]
 
 ![[Nyrelogen]]
 

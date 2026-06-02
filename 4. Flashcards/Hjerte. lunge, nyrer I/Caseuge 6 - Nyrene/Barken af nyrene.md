@@ -7,5 +7,6 @@
 - Mellem pyramiderne [[Nyre pyramider]]
 
 - Hvad hedder den del af marven som er mellem pyramiderne?:: Columnae renalis
+- Hvad kendetegner udseendet af barken mellem nyrepyramiderne og hvorfor?:: De ser fint kornet ud grundet nyregameter
+- Hvad kaldes nyregameter også?:: Corpuscula renalis
 - 
-- Barken mellem nyrepyramiderne ser {{9255824340729886::fint kornet}} ud pga {{5980597274649384::små nyregameter}} også kaldet {{6114485062785509::corpuscula renalis}}
