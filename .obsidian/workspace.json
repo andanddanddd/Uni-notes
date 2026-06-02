@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Kontrol af blodtryk.md",
+                "file": "Regulering af hjertefrekvens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Kontrol af blodtryk"
+              "title": "Regulering af hjertefrekvens"
             }
           }
         ]
@@ -222,8 +222,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fad5a835389a5094",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Regulering af hjertefrekvens.md",
+    "Hjertefrekvens.md",
+    "Kemoreceptorer.md",
+    "Strækreceptorer.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Respiratorisk center.md",
+    "Baroreceptorer.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Kontrol af blodtryk.md",
+    "Minutvolumen.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
@@ -252,17 +260,9 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium serosum.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Diastolen.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Systolen.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Ventrikler.md",
-    "Excalidraw/Hjerte lunge nyrer I/Hjertet bagfra.md",
-    "Excalidraw/Hjerte lunge nyrer I/Hjertet forfra.md",
     "Billeder/Hjerte, lunge, nyrer I/hjertet bagfra.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertet forfra.png",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Hjerteklapperne.md",
-    "Excalidraw/Hjerte lunge nyrer I/Hjerteklapperne.md",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Atria cordis.md",
-    "Excalidraw/Hjerte lunge nyrer I/Hjertets venstre inderside.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Højre venstre dominans i coronararterier.md",
     "Billeder/Hjerte, lunge, nyrer I/hjertes venstre inderside.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertets højre inderside.png",
     "Billeder/Hjerte, lunge, nyrer I/lunge 1.png",
