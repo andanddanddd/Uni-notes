@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vasculogenese.md",
+                "file": "Angiogenese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vasculogenese"
+              "title": "Angiogenese"
             }
           },
           {
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,8 +240,12 @@
   "active": "fad5a835389a5094",
   "lastOpenFiles": [
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Udvikling af det vaskulære system.md",
-    "Vasculogenese.md",
     "Embryologi af hjertet.md",
+    "Angiogenese.md",
+    "Vasculogenese.md",
+    "Vasculogenese ændringer ved lateral foldning.md",
+    "Hemocytoblast.md",
+    "Angioblast.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Septum cordis.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aerob glykolyse.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
@@ -260,11 +265,7 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Tunica media.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Tunica intima.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Mikroanatomi af det vaskulære system.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hjertets impulsledningssystem.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Autonom innervering af hjertet.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Purkinfibre.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Etopisk pacemaker.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
     "msoE72D.tmp",
