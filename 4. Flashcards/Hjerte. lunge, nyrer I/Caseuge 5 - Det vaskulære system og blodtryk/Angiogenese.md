@@ -3,3 +3,7 @@
 - Hvad er angiogenesis?:: Processen hvor nye blodkar dannes udfra eksisterende blodkar
 
 ![[Embryologi af hjertet]]
+
+![[Aortabuer]]
+
+![[Decending aorta]]
