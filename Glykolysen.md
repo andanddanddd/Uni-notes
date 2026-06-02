@@ -8,11 +8,12 @@
 ![[Aerob glykolyse]]
 
 ![[Anaerob glykolyse]]
-    - 
-- Transport af glukose
-    - 
+
 - Hvad er de 3 overordnede trin i glykolysen?
-    - Invisteringsfasen
+?
+- Invisteringsfasen
+- Spaltningsfasen
+- Afkastningsfasen
         - Hvor mange reaktioner sker i invisteringsfasen?→3
         - Trin 1
             - Hvad sker i trin 1?→fosforylering af glykose
@@ -65,3 +66,9 @@
             - Hvad sker i trin 10?→Dannelse af ATP
             - Er trin 10 reversibel?―Nej
             - Opskriv reaktionskema for trin 10→$$\ce{fosfoenolpyrovat->[ADP->ATP]Pyrovat}$$
+
+![[Invisteringsfasen af glykolyse]]
+
+![[Spaltningsfasen af glykolyse]]
+
+![[Afkastningsfasen af glykolyse]]

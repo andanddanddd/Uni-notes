@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transport af glykose.md",
+                "file": "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transport af glykose"
+              "title": "Forelæsning - Erytrocytters funktion"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glykolysen.md",
+                "file": "Afkastningsfasen af glykolyse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glykolysen"
+              "title": "Afkastningsfasen af glykolyse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b1a8900c95e600bd",
@@ -236,11 +237,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fad5a835389a5094",
+  "active": "f6e9219caacfb9bc",
   "lastOpenFiles": [
+    "Glykolysen.md",
+    "Afkastningsfasen af glykolyse.md",
+    "Spaltningsfasen af glykolyse.md",
+    "Invisteringsfasen af glykolyse.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
     "Transport af glykose.md",
-    "Glykolysen.md",
     "Anaerob glykolyse.md",
     "Aerob glykolyse.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Histologi af blodkar.md",
@@ -262,9 +266,6 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Histologi af hjerteklapperne.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Histologi af hjertevækken.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Myocardium.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium serosum.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Pericardium fibrosum.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
     "msoE72D.tmp",
