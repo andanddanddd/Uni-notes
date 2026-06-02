@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vitaline vener.md",
+                "file": "4. Flashcards/Molekylær biologi/Caseuge 1/Transportmekanismer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vitaline vener"
+              "title": "Transportmekanismer"
             }
           }
         ]
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/Hjerte-lunge-nyrer-I",
+                "query": "#flashcards/molekulær_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,34 +223,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fad5a835389a5094",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Udvikling af det venøse system.md",
-    "Vitaline vener.md",
-    "v. umbilicalis sin..md",
-    "v. umbilicalis dxt..md",
-    "Højre fælles kardinavene.md",
-    "Venstre fælles kardinalvene.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Udvikling af det vaskulære system.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aortabuer.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Septum cordis.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Embryologi af septum cordis.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Embryologi af hjertet.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Cardiac looping.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Angiogenese.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Decending aorta.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hjerterøret.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Ductus arteriosis.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Sinus venosus.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Angioblast.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Atrium primum.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Ventriculus primum.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Bulbus cordis.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Truncus arteriosis.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aortic sack.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Vasculogenese.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Vasculogenese ændringer ved lateral foldning.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hemocytoblast.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Transportmekanismer.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Golgi apparatet.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Metabolisme.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Centrosom.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Endoplasmatisk retikulum.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Cytoplasma.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Cellemembran.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Cellekernen.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 4/Immunoglobuliner.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Mitrocondrielt DNA.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Virus.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 5/Uge 3 efter fertilisering.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 3/tRNA.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Sukker.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 2/Stamtræer.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 3/Ribosomer.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Proteiner.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 2/Non-disjunction.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Lysosomer.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Lipider.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 4/Komplementsystemet.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Kirtler.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Immunhistokemi.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 2/Hardy-Weinberg loven.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 3/Epigenetik.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 2/DNA replikation.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",

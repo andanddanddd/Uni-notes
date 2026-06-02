@@ -1,5 +1,4 @@
-#flashcards/molekulær_biologi 
-
+#flashcards/Molekulær-biologi 
 ## Ru endoplasmatisk retikulum
 - Hvordan er strukturen af ru ER er?:: membranafgrænsede hulrum der danner anastomerede tubuli små sække
 - Hvad hedder de små sække på ru ER?:: cisterner

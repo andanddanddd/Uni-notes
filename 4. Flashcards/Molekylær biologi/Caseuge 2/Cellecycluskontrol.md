@@ -1,5 +1,4 @@
-#molekulær_biologi
-
+#flashcards/Molekulær-biologi 
 [[Cellecyclus]]
 
 - Hvad omfatter cellecykluskontrol?:: Den omfatter de processer der får en celle til at gå fr en fase til en anden

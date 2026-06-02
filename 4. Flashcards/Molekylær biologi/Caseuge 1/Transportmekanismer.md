@@ -1,4 +1,4 @@
-#flashcards/molekulær_biologi 
+#flashcards/Molekulær-biologi 
 
 ## Den elektrokemiske gradient
 - Hvilke 2 dele består den elektrokemiske gradient af?:: Den kemiske og elektriskegradient

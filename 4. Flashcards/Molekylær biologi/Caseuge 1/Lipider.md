@@ -1,4 +1,4 @@
-#molekulær_biologi
+#flashcards/Molekulær-biologi 
 
 #### Palmitinsyre
 Hvordan ser palmitinsyre ud?:: 16:0

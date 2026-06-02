@@ -1,5 +1,4 @@
-#flashcards/molekulær_biologi 
-
+#flashcards/Molekulær-biologi 
 
 - Hvad er cellekernens funktion?:: At opbevare og beskytte cellens genetiske materiale (DNA), derudover laver mRNA.
 - Hvilket organel sidder på den ydre membran af cellekernen?:: ru-ER

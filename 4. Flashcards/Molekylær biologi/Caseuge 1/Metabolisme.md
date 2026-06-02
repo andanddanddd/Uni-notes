@@ -1,4 +1,4 @@
-#flashcards/molekulær_biologi
+#flashcards/Molekulær-biologi 
 
 Hvad betyder metabolisme?:: Omdannelse af stof
 <!--SR:!2026-06-01,4,270-->

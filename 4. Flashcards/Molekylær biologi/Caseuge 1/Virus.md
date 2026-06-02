@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi #flashcards/a
+#flashcards/Molekulær-biologi 
 
 
 - Definer virus?: Ikke-levende organisme med genetisk matriale der ikke selv kan formere sig

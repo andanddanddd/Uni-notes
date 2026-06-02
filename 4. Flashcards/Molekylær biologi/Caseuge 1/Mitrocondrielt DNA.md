@@ -1,6 +1,5 @@
 [[Mitrokondria]]
-#flashcards/Molekulær-biologi 
-#flashcards/Genetik
+#flashcards/Molekulær-biologi #flashcards/4/Genetik 
 
 - Hvilken form har mitrokondrielt DNA?:: En doppeltstrenged ring der ikke er pakket omkring nuckleosomer
 - Hvor mange gener indeholde mtDNA?::37

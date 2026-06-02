@@ -1,4 +1,4 @@
-#flashcards/molekulær_biologi 
+#flashcards/Molekulær-biologi 
 
 - Hvor tyk er cellemembranen?:: Ca 8 nm
 <!--SR:!2026-06-01,4,270-->

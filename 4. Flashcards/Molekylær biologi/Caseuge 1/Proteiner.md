@@ -1,4 +1,4 @@
-#molekulær_biologi
+#flashcards/Hjerte-lunge-nyrer-I 
 
 Hvad er et proteiner?:: Peptidkæder på mere end 50 aminosyre
 <!--SR:!2026-06-01,4,270-->

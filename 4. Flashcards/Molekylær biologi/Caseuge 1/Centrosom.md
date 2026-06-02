@@ -1,4 +1,4 @@
-#flashcards/molekulær_biologi 
+#flashcards/Molekulær-biologi 
 
 
 - Hvad er indei centrosomet?:: Centrioler

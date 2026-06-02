@@ -1,4 +1,4 @@
-#molekulær_biologi
+#flashcards/Molekulær-biologi 
 
 - Hvilken form har lysosomer?:: Rundt organel
 - Hvilken funktion har lysosomer?:: Nedbryde proteiner, lipider, carbohydrater og nukleinsyre

@@ -1,4 +1,4 @@
-#molekulær_biologi
+#flashcards/Molekulær-biologi 
 
 Hvad er et anomer carbonatom?::Det carbonatom hvorved en ringslutning af en carbohydrat foregår
 <!--SR:!2026-05-31,4,270-->

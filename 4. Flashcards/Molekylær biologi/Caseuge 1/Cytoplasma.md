@@ -1,4 +1,4 @@
-#flashcards/molekulær_biologi 
+#flashcards/Molekulær-biologi 
 
 - Hvad er cytoplasma?:: Alt der er afgrænset af cellemembranen udenfor cellekernen
 <!--SR:!2026-06-01,4,270-->

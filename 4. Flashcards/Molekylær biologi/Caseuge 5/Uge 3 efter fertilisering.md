@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi #flashcards/a 
+#flashcards/Molekulær-biologi 
 
 
 

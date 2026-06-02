@@ -1,4 +1,4 @@
-#molekulær_biologi
+#flashcards/Molekulær-biologi 
 [[Endoplasmatisk retikulum]]
 
 

@@ -1,4 +1,4 @@
-#molekulær_biologi
+#flashcards/Molekulær-biologi 
 
 [[Proteiner]]
 [[Forelæsning - Struktur og funktion af makromolekyler i metabolismen]]

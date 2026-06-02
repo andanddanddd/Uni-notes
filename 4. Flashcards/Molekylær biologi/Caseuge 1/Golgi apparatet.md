@@ -1,4 +1,4 @@
-#flashcards/molekulær_biologi 
+#flashcards/Molekulær-biologi 
 
 - Hvor er golgi apparattet?:: Nær cellekernen
 - Hvordan er strukturen af golgi komplekset?:: Det består af 3-10 cisterer i en stabel

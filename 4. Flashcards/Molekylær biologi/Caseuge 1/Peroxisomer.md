@@ -8,4 +8,4 @@
 - Hvor store er peroxisomer?:: 0,5μm
 <!--SR:!2026-06-01,4,270-->
 - Hvordan dannes peroxisomer?:: Peroxisomer dannes ved vækst af eksisterende peroxisomer
-<!--SR:!2026-06-01,4,270-->
+<!--SR:!2026-06-17,15,290-->
