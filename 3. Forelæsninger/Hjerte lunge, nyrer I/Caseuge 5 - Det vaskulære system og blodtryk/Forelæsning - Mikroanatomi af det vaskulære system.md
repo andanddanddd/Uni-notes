@@ -5,3 +5,5 @@
 ![[Histologi af hjerteklapperne]]
 
 ![[Hjertets impulsledningssystem]]
+
+![[Histologi af blodkar]]

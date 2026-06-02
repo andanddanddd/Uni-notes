@@ -6,6 +6,7 @@
 - Anterior internodal pathway
 - Middle internodal pathway
 - Posterior internodal pathway
+
 ![[Purkinfibre]]
 
 ![[Sinusknuden]]
