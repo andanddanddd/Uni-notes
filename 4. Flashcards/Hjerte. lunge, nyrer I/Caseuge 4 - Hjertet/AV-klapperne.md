@@ -9,6 +9,6 @@
 - Trikuspidalklappen
 - Mitralklappen
 
-![[Trikuspidalklappel]]
+![[Trikuspidalklappen]]
 
  ![[Mitralklappen]]
