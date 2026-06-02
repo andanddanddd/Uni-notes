@@ -8,6 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fad5a835389a5094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Kontrol af blodtryk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Kontrol af blodtryk"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1a8900c95e600bd",
+        "type": "tabs",
+        "children": [
+          {
             "id": "714fcb5e056f2a6d",
             "type": "leaf",
             "pinned": true,
@@ -198,11 +218,22 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "fad5a835389a5094",
   "lastOpenFiles": [
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
+    "msoE72D.tmp",
+    "msoDF3D.tmp",
+    "msoA59D.tmp",
+    "msoA1F2.tmp",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - blodtryk.pdf",
+    "erytrocytter.pptx",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides histologi af det vaskulære system.pdf",
     "Excalidraw/Hjerte lunge nyrer I/indre næse 1.md",
     "1. Fag/Ernæring og endokrinologi.md",
     "4. Flashcards/Molekylær biologi/Caseuge 5/Uge 3 efter fertilisering.md",
@@ -232,18 +263,8 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Atria cordis.md",
     "Excalidraw/Hjerte lunge nyrer I/Hjertets venstre inderside.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Højre venstre dominans i coronararterier.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Perfusion af hjertet.md",
     "Billeder/Hjerte, lunge, nyrer I/hjertes venstre inderside.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertets højre inderside.png",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/Slides -Hjertet_Ana_Fys.pdf",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/2024 Hjertet_Ana_Fys.pptx",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/Slides-Hjertes Rytme 1.pdf",
-    "Forelæsninger/Hjerte lunge, nyrer I/Caseuge 4 - Hjertet/2024-Hjertes Rytme.pdf",
-    "4. Flashcards/2024 Hjertet_Ana_Fys.pptx",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Slides gastransport.pdf",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Slides - kemisk regulering af ventilation.pdf",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Slides funktionelle volumnia.pdf",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Slides alveoler.pdf",
     "Billeder/Hjerte, lunge, nyrer I/lunge 1.png",
     "Billeder/Hjerte, lunge, nyrer I/lunge 2.png",
     "Billeder/Hjerte, lunge, nyrer I/strubehovedet 2.png",
