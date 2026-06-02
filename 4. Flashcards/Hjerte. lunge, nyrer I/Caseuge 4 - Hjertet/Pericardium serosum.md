@@ -3,6 +3,6 @@
 - Hvad er formålet med pericadium serosum?:: Give hjertet fri bevægelighed
 - Hvad hedder de 3 lag i pericadium serosum (indefra og ud)?
 ?
-- Lamina visceralis
+- Lamina visceralis (epicardiet)
 - Cavitas pericadiaca
 - Lamina parietalis

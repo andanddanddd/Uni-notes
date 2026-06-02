@@ -1,30 +1,15 @@
 #flashcards/Hjerte-lunge-nyrer-I 
 
 - Hvilket lag af hjertevæggen er tykkest?:: Myocardium
-- Hvilke lag består hjertevæggen af? (Indefra og ud)
-    - Endocardium
-        - Endocardiet er en {{8874537472098614::tynd hinde}},der beklæder den {{2697850286273713::indvendige}} {{7682364688052765::overflade}} af {{5171288833304237::atrier}} og {{5171288833304237::ventrikkler}}
-        - Hvilke 3 lag består endocardiet af? (Inderst til yderst)
-            - Afladede polyginale endotelceller
-            - Basalmembran/tætbindevæv
-                - Det tætte bindevæv består af{{29108369590069527::Kollagene fibre}}, {{488320051118033::elastiske fibre}} og {{22936584664516624::glatte muskelceller}}
-            - Løst bindevæv
-                - Hvad er formålet med det løse bindevæv?→At binde det øvre endocardium med myocaridiet
-                - Hvad indeholder endocardiet?
-                    - Blodkar
-                    - Nerver
-                    - Impulsledningssystemet (kun i ventrikler)
+- Hvilke lag består hjertevæggen af? (Indefra og ud)?
+?
+1. Endocardium
+2. Myocardium
+3. Pericardiet
+        - 
     - Myocardium
-        - Hvad består myocardiet primært af?→Hjertemuskelfibre (myocytter)
-        - Hvor i myocardiet er der flest elastiske fibre?→I atrierne
+        - 
     - Pericardiet
-        - Hvilke lag består pericardiet af?
-            - Viceral pericardium (epicardiet)
-                - Hvilke 2 lag består epicardiet af?
-                    - 1 lag mesotelceller
-                    - Løst bindevæv
-            - Pericardial hulrum
-                - Hvad er i det pericardielle hulrum?→Væske
-            - Parietal pericardium
-            - Fibrøst pericaridum
-                - Hvad består det fibrøse pericardium af?→Tæt bindevæv med tykke kollagene fibre
+        - 
+
+![[Endocardium]]![[Myocardium]]![[Pericardium]]
