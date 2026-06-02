@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Septum cordis.md",
+                "file": "Vitaline vener.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Septum cordis"
+              "title": "Vitaline vener"
             }
           }
         ]
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/Hjerte-lunge-nyrer-I",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,14 +224,22 @@
   },
   "active": "fad5a835389a5094",
   "lastOpenFiles": [
-    "Embryologi af septum cordis.md",
+    "Udvikling af det venøse system.md",
+    "Vitaline vener.md",
+    "v. umbilicalis sin..md",
+    "v. umbilicalis dxt..md",
+    "Højre fælles kardinavene.md",
+    "Venstre fælles kardinalvene.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Udvikling af det vaskulære system.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aortabuer.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Septum cordis.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Embryologi af septum cordis.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Embryologi af hjertet.md",
-    "Cardiac looping.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Cardiac looping.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Angiogenese.md",
-    "Decending aorta.md",
-    "Hjerterøret.md",
-    "Aortabuer.md",
-    "Ductus arteriosis.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Decending aorta.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hjerterøret.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Ductus arteriosis.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Sinus venosus.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Angioblast.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Atrium primum.md",
@@ -240,17 +247,9 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Bulbus cordis.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Truncus arteriosis.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aortic sack.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Udvikling af det vaskulære system.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Vasculogenese.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Vasculogenese ændringer ved lateral foldning.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hemocytoblast.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/Septum cordis.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aerob glykolyse.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Forelæsning - Erytrocytters funktion.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Erytrocytters livscylklus.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Erytropoiese.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Regulering af glykolyse.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Pyrovatkinasen.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
