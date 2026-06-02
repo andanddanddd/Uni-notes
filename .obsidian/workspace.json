@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Molekylær biologi/Caseuge 1/Transportmekanismer.md",
+                "file": "Anatomi af nyrene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transportmekanismer"
+              "title": "Anatomi af nyrene"
             }
           }
         ]
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +222,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "fad5a835389a5094",
   "lastOpenFiles": [
+    "Nyrene.md",
+    "Anatomi af nyrene.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Forelæsning - Nyreanatomi og histologi.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Slides - The Urinary system - lecture 1-2.pdf",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Slides - The Urinary system - lecture 3-4.pdf",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Embryologi af nyrene.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Histologi af nyrene.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Transportmekanismer.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Golgi apparatet.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Metabolisme.md",
@@ -246,11 +252,6 @@
     "4. Flashcards/Molekylær biologi/Caseuge 1/Lysosomer.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Lipider.md",
     "4. Flashcards/Molekylær biologi/Caseuge 4/Komplementsystemet.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 1/Kirtler.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 1/Immunhistokemi.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 2/Hardy-Weinberg loven.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 3/Epigenetik.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 2/DNA replikation.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - erytrocytter.pdf",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - udvikling af det vaskulære system.pdf",
@@ -260,8 +261,6 @@
     "msoA1F2.tmp",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides - blodtryk.pdf",
     "erytrocytter.pptx",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Slides histologi af det vaskulære system.pdf",
-    "GIT",
     "Billeder/Hjerte, lunge, nyrer I/hjertet bagfra.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertet forfra.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
