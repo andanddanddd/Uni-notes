@@ -57,21 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labia majora.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Labia majora"
-            }
-          },
-          {
-            "id": "f413d090f68a2863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ydre kvindelige kønsorganer.md",
+                "file": "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ydre kvindelige kønsorganer.md",
                 "mode": "source",
                 "source": false
               },
@@ -80,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "b1a8900c95e600bd",
@@ -281,12 +267,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f413d090f68a2863",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ydre kvindelige kønsorganer.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Vestibulum vaginae.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Bulbus vestibuli.md",
+    "Glandula vestibulares majore/minore.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Glandula vestibulares majore-minore.md",
+    "Glandula vestibulares majore",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Clitoris.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Glans clitoridis.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Crura clitoridis.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus clitoridis.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Labia majora.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Labia minora.md",
     "3. Forelæsninger/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Forelæsning - Female reproduktive anatomy.md",
-    "Labia majora.md",
-    "Ydre kvindelige kønsorganer.md",
-    "Mons pubis.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Mons pubis.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Anatomi af moderskeden.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Moderskedens kar og nerveforsyning.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Moderskeden.md",
@@ -300,15 +296,6 @@
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Histologi af livmoderen.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Perimetrium.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endocervix.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Myometrium.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endometrium.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Exocervix.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endometriets ændringer i menustrationscyclus.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endometriet karforsyning.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Stratium functionale.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Stratium basale.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Anatomi af livmoderen.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Mesometrium.md",
     "4. Flashcards/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "4. Flashcards/Reproduktion/Caseuge 3 - Embryologi og fertilisation",
@@ -318,7 +305,6 @@
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion",
     "3. Forelæsninger/Reproduktion/Caseuge 1 - Kvindelig reproduktion",
     "2. Caseuger/Reproduktion",
-    "3. Forelæsninger/Reproduktion",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertet bagfra.png",
     "Billeder/Hjerte, lunge, nyrer I/hjertet forfra.png",
