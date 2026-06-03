@@ -247,14 +247,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b89363055cc55d74",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Livmoderen.md",
     "Histologi af livmoderen.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Livmoderen.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Anatomi af livmoderen.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Cervix uteri.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Lig. latum uteri.md",
