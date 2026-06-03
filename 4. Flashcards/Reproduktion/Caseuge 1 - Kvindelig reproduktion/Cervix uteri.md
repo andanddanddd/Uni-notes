@@ -6,4 +6,3 @@
 ?
 - **[[Portio supravaginalis cervicis]]**
 - **[[Portio vaginalis cervicis]]**
-        - 

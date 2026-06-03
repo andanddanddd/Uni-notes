@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histologi af livmoderen.md",
+                "file": "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Histologi af livmoderen.md",
                 "mode": "source",
                 "source": false
               },
@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myometrium.md",
+                "file": "Moderskeden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Myometrium"
+              "title": "Moderskeden"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#flashcards/molekulær_",
+                "query": "tag:#flashcards/4/Reproduktion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,20 +269,25 @@
   },
   "active": "e5fc10b323555fe9",
   "lastOpenFiles": [
-    "Histologi af livmoderen.md",
-    "Myometrium.md",
-    "Endometrium.md",
-    "Exocervix.md",
-    "Endocervix.md",
-    "Endometriets ændringer i menustrationscyclus.md",
-    "Endometriet karforsyning.md",
-    "Stratium functionale.md",
-    "Stratium basale.md",
+    "Anatomi af moderskeden.md",
+    "Moderskeden.md",
+    "Moderskeden kar og nerveforsyning.md",
+    "Histologi af moderskeden.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Livmoderen.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Anatomi af livmoderen.md",
     "3. Forelæsninger/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Forelæsning - Female reproduktive anatomy.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Mesometrium.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Cervix uteri.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Histologi af livmoderen.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Perimetrium.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endocervix.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Myometrium.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endometrium.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Exocervix.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endometriets ændringer i menustrationscyclus.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Endometriet karforsyning.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Stratium functionale.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Stratium basale.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Anatomi af livmoderen.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Mesometrium.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Lig. latum uteri.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Portio vaginalis cervicis.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Portio supravaginalis cervicis.md",
@@ -290,11 +295,6 @@
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Indre kvindelige kønsorganer.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Tunica muskularis (tuba uterina).md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Tunica mucosa.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Æggelederne.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Histologi af æggelederne.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Tunika serosa.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Pars uterina.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Isthmus tuba uterina.md",
     "4. Flashcards/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "4. Flashcards/Reproduktion/Caseuge 3 - Embryologi og fertilisation",
