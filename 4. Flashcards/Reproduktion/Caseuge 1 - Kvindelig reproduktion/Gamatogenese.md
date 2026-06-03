@@ -1,4 +1,4 @@
-#flashcards/4/Reproduktion 
+#flashcards/4/Reproduktion #flashcards/4/Genetik 
 
 - Hvad kaldes kønsceller overordnet?:: **Gametter**
 - Hvor produceres gametter?:: **Gonader**
@@ -11,6 +11,6 @@
 - Hvad sker med de primoridale kønsceller på deres tur til de fremtidige gonader?:: **Mitose**
 - Hvad hedder de 2 typer gamatogenese?
 ?
-- [[Oogenese]]
+- ![[Oogenese]]
 - [[Spermatogenese]]
 - 

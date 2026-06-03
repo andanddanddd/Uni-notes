@@ -1,0 +1,1 @@
+- Hvad sker under anafase 1?:: Kromosomerne bevæger sig mod polerne

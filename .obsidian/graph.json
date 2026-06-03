@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "cellecy",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.45260416666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.395833333333333,
+  "centerStrength": 0.255208333333333,
   "repelStrength": 17.0833333333333,
   "linkStrength": 1,
   "linkDistance": 103,
-  "scale": 0.4503872587170398,
+  "scale": 0.20342221594757104,
   "close": false
 }
