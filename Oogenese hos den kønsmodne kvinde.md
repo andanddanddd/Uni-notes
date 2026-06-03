@@ -2,7 +2,7 @@
 
 
 - Hvor mange folikler modnes hver mdr?:: 15-20
-- - Hvad sker med de omkringliggende epitelceller når primordialfolliklerne begynder at vokse?:: De går fra at være flade til kubiske, og enlaget til flerlaget
+- Hvad sker med de omkringliggende epitelceller når primordialfolliklerne begynder at vokse?:: De går fra at være flade til kubiske, og enlaget til flerlaget
 - Hvad kaldes folikkelen når epitelet går fra at være pladeepitel til at være kubisk?:: **Primær folikel**
 - Hvad sker under folikelmodningen?:: Der dannes mange lag granulosaceller og væske begynder at ophobes
 - Hvad kaldes væsken heri?:: **[[Liquor follikel]]**
