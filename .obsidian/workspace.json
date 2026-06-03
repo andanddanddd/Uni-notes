@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cortex ovarii.md",
+                "file": "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Oocytten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cortex ovarii"
+              "title": "Oocytten"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Æggestokkene.md",
+                "file": "Anatomi af æggelederne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Æggestokkene"
+              "title": "Anatomi af æggelederne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b1a8900c95e600bd",
@@ -236,11 +237,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fad5a835389a5094",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Histologi af æggestokkene.md",
-    "Cortex ovarii.md",
+    "Anatomi af æggelederne.md",
+    "Æggelederne.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Cortex ovarii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Æggestokkene.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Oocytten.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Histologi af æggestokkene.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Medulla ovarii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Æggestokkenes kar og nerveforsyning.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Hilum ovarii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Indre kvindelige kønsorganer.md",
@@ -260,10 +265,6 @@
     "3. Forelæsninger/Reproduktion/Caseuge 3 - Embryologi og fertilisation/Forelæsning - Pathways to men and women.md",
     "3. Forelæsninger/Reproduktion/Caseuge 3 - Embryologi og fertilisation/Forelæsning - Fertilization and implantation.md",
     "2. Caseuger/Reproduktion/Caseuge 2 - Mandelig reproduktion.md",
-    "4. Flashcards/Reproduktion/Caseuge 2 - Mandelig reproduktion/Mandlig fysiologi.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 2 - Mandelig reproduktion/Forelæsning - Sexologi.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 2 - Mandelig reproduktion/Forelæsning - Spermatogenese.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 2 - Mandelig reproduktion/Forelæsning - Anatomi af de mandlige kønsorganer.md",
     "4. Flashcards/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "4. Flashcards/Reproduktion/Caseuge 3 - Embryologi og fertilisation",
