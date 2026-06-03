@@ -8,4 +8,3 @@
 - [[Livmoderen]]
 - [[Moderskeden]]
 
-![[Æggestokkene]]
