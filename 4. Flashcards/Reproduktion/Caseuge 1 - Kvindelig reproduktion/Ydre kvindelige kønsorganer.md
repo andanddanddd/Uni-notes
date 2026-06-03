@@ -14,3 +14,5 @@
 - [[Bulbus vestibuli]]
 - [[Glandula vestibulares majore-minore]]
 - [[Vestibulum vaginae]]
+
+![[De ydre kvindelige kønsorganers kar og nerveforsyning]]
