@@ -6,3 +6,4 @@
 - Hvordan ses liquor follikel histologisk?:: Granuleret eosinophil masse
 - Hvad kendetegner liquor follikel sammensætning?:: Den har et højt osmotisk tryk dermed siver der mere væske derind så den fortætter med at vokser
 - Hvilken syre indeholder liquor follikel?:: Hyalyronsyre
+- Hvad kaldes hulrummet liquor follikel ophobes i?:: **Antrum**
