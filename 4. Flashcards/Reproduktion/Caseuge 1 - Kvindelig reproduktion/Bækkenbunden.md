@@ -5,6 +5,6 @@
 - Hvilke overordnede typer af strukture består bækkenbunden af?
     - Hud
     - Muskler [[Musklerne i bækkenbunden]]
-    - Bindevæv
+    - Bindevæv [[Fascier i bækkenbunden]]
 
 - 
