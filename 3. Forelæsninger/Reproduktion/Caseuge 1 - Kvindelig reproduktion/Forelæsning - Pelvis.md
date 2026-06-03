@@ -8,3 +8,4 @@
 - [[Pelvis minor (cavitas pelvis)]]
 
 [[Knoglerne i pelvis]]
+[[Ligamenterne i pelvis]]
