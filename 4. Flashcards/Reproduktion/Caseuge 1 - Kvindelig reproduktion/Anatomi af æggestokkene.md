@@ -33,6 +33,5 @@
 - Hvad hedder de 3 ligamenter der fiksere æggestokkene?
 ?
 - [[Lig. ovarii proprium]]
-            - 
 - [[Lig. suspensorium ovarii]]
 - [[Mesovariet]]
