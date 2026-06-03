@@ -12,15 +12,8 @@
 - Hvilke 3 overordnede dele består os coxae af?
 ?
 - [[Os pubis]]
-        - 
-    - Os ischii
-        - Hvor er det overordnet?:: Under foramen obturatum
-        - Hvilke 2 dele består os ischii overordnet af?
-            - Corpus ossis ischii
-                - Hvad er det?:: Delen der binder til de andre "knogler" af oscoxae (acetabulum)
-            - Ramus ossis ischii
-                - Hvad er det overordnet?:: Den tyndere del af af os ischii der binder til os pubis
-    - Os ilium
+- [[Os ischii]]
+- [[Os ilium]]
         - Hvor er det overordnet?:: Den store skål
         - Hvilke 2 dele inddeles os ilium i?
             - Corpus ossis ilii
