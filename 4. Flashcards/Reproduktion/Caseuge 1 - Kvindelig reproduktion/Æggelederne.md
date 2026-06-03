@@ -1,6 +1,6 @@
 #flashcards/4/Reproduktion 
 
-- Hvad hedder delen af [[lig. latum uteri]] som tuba uterina ligger i?:: [[Mesosalpinx]]
+- Hvad hedder delen af [[Lig. latum uteri]] som tuba uterina ligger i?:: [[Mesosalpinx]]
 - Hvad hedder æggelederne på latin?:: **Tubae uterinae** eller **Salpinx**
 ![[Anatomi af æggelederne]]
 
