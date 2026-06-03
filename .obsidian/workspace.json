@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ampulla tuba uterina.md",
+                "file": "Tunika serosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ampulla tuba uterina"
+              "title": "Tunika serosa"
             }
           }
         ],
@@ -237,10 +237,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "b89363055cc55d74",
   "lastOpenFiles": [
-    "Ampulla tuba uterina.md",
+    "Histologi af æggelederne.md",
+    "Tunika serosa.md",
+    "Tunica muskularis.md",
+    "Tunica mucosa.md",
     "Æggelederne.md",
+    "Pars uterina.md",
+    "Isthmus tuba uterina.md",
+    "Ampulla tuba uterina.md",
     "Infundibulum tuba uterina.md",
     "Æggeledernes kar og nerveforsyning.md",
     "Anatomi af æggelederne.md",
@@ -259,12 +265,6 @@
     "2. Caseuger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel.md",
     "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel/Forelæsning - Social ulighed i sundhed.md",
     "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel/Forelæsning - Fosterdefekter og diagnostik.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel/Forelæsning - Lægemidler i graviditet.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel/Forelæsning - Den normale fødsel.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel/Forelæsning - Graviditet er ikke en sygdom.md",
-    "2. Caseuger/Reproduktion/Caseuge 3 - Embryologi og fertilisation.md",
-    "4. Flashcards/Reproduktion/Caseuge 3 - Embryologi og fertilisation/Placenta.md",
-    "3. Forelæsninger/Reproduktion/Caseuge 3 - Embryologi og fertilisation/Forelæsning - Infertility.md",
     "4. Flashcards/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "3. Forelæsninger/Reproduktion/Caseuge 4+5 - Graviditet og fødsel",
     "4. Flashcards/Reproduktion/Caseuge 3 - Embryologi og fertilisation",

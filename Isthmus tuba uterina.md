@@ -1,0 +1,1 @@
+- Hvor på æggelederen ligger isthmus?:: Mellem ampulla og pars uterina [[Ampulla tuba uterina]], [[Pars uterina]]

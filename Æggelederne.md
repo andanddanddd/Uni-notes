@@ -6,6 +6,7 @@
 
 ![[Æggeledernes kar og nerveforsyning]]
 
+![[Histologi af æggelederne]]
 
 - Hvad hedder de 4 dele af æggelederne? (fra [[Æggestokkene]] til [[Livmoderen]])
 ?
@@ -13,13 +14,4 @@
 2. [[Ampulla tuba uterina]]
 3. [[Isthmus tuba uterina]]
 4. [[Pars uterina]]
-    
-- Ampulla
-    - 
-- Isthmus
-    - Hvor på æggelederen ligger isthmus?:: Mellem ampulla og pars uterina
-- Pars uterina
-    - Hvor starter pars uterina?:: Ved **uterinhjørnet**
-    - Hvad hedder hullet hvor pars uterina passere ind genenm uterinvæggen?:: **Ostium uterinum**
-        - Hvor stort er hullet?:: 0,5-1 mm
-    - Hvor er pars uterina?:: I uterinvæggen
+
