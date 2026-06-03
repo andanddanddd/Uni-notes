@@ -10,6 +10,9 @@
 - Hvor migrere de primodale kønsceller hen fra blommesækken?:: Hen til de fremtidige gonader
 - Hvad sker med de primoridale kønsceller på deres tur til de fremtidige gonader?:: **Mitose**
 - Hvad hedder de 2 typer gamatogenese?
+
+
+
 ?
 - ![[Oogenese]]
 - [[Spermatogenese]]
