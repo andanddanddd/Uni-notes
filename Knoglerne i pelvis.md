@@ -1,0 +1,60 @@
+#flashcards/4/Reproduktion 
+
+- Hvilke knogler består bækkenet af?
+?
+- [[Os coxae]]
+        - Hvad er det overordnet?→De store hofteknogler
+        - Hvilke 2 strukture forbidner de 2 ossa coxae?
+            - Sympysis pubica
+                - Hvilken type led er dette?→Symfyse (sekundær synkondrose)
+            - Os sacrum
+                - Hvad kaldes dette led?→Articulatio sacroiliaca
+                - Hvilken type led er dette?→Synovialled (måske glideled)
+        - Hvilke 3 overordnede dele består os coxae af?
+            - Os pubis
+                - Hvor er det overordnet?→Over foramen obturatum
+                - Hvad kaldes os pubis på dansk?→Skambenet
+                - Hvilke 3 dele består os pubis af?
+                    - Corpus ossis pubis
+                        - Hvad er det?→Delen der stødder op mod symfysen eller delen ind mod acetabulum ingen kan blive enige
+                    - Ramus inf ossis pubis
+                        - Hvad er det?→Delen under corpus der møder ramus ossis ischii
+                    - Ramus sup ossis pubis
+                        - Hvad er det?→Delen der går ind mod resten af os coxys (acetabulum) eller delen der danner symfyse ingen kan blive enige
+            - Os ischii
+                - Hvor er det overordnet?→Under foramen obturatum
+                - Hvilke 2 dele består os ischii overordnet af?
+                    - Corpus ossis ischii
+                        - Hvad er det?→Delen der binder til de andre "knogler" af oscoxae (acetabulum)
+                    - Ramus ossis ischii
+                        - Hvad er det overordnet?→Den tyndere del af af os ischii der binder til os pubis
+            - Os ilium
+                - Hvor er det overordnet?→Den store skål
+                - Hvilke 2 dele inddeles os ilium i?
+                    - Corpus ossis ilii
+                        - Hvad er det?→Delen der binder til de nedre dele af os coxae (acetabulum)
+                    - Ala ossis ilii
+                        - Hvad er det?→Den øverste hvifteformede del
+                        - Hvad kaldes den øvre kant af ala?→Crista iliaca
+                        - Hvilke 2 strukture afgrænser critsa iliaca?
+                            - Spina iliace ant sup
+                            - Spina iliaca post sup
+                        - Hvad hedder de 3 sider af ala?
+                            - Facies glutea
+                            - Facies sacropelvina
+                            - Fossa iliaca
+        - Hvornår vokser de 3 dele af os coxae sammen?→I slutningen af puberteten
+            - Hvad hedder punktet hvor de vokser sammen?→Acetabulum
+        - Hvad kaldes hullet i den nedre del af os coxae?→Foramen obturatum
+        - Hvad kaldes den foreste vinkel under symfysen?→Angulus subpubicus
+        - Billeder
+            - ![](https://remnote-user-data.s3.amazonaws.com/1Iv6TpZWEfhSD5zFFVrfHxGTJ51Pzb9ykFi4rk5ay3BnluWkMgTZkGnc-60uYey75yHhppJOt2Ll1pZbM3Ce-poYHbbU9wJOjvJSiqrdVbjn5K9aJnsMwpnWRHjankFz.png)
+            - ![](https://remnote-user-data.s3.amazonaws.com/ITtPxYKY-uYFNP3sgGf7trowgkQN9aw9Wyu_55vKVk4BbqDCM53so7AO9zdte9XOb-SOKf2eGbVgo5AMv2wWpI55pfIZ_1Z2SJfvf9GpaHWdLmZ2heTCGo2csVs6ofN_.png)
+            - ![](https://remnote-user-data.s3.amazonaws.com/eRuw4eUPBj-8ketzfFZIMJbNDfGnBI_wmS2NcTtwrGEnhF4ujGig2jKL4UQwwKV9FSoR4ZciiVYDSu6ze6wu9_sXx3rcEkrGcO5cguOsVUGiXto0wgJbEcjjyC1aXXFL.png)
+            - ![](https://remnote-user-data.s3.amazonaws.com/8mZYExzHRtFBCmAKh2IxwqyuoNo6X34T_NjNikDgkFyQw7nLeCW7avgWm3etyMwhHWJR1-KpXd-lkVq7TOYT3Pet7ofFEWbkPHScWGb_JOmvydXPdW1A_bviOG1Es6Do.png)
+            - ![](https://remnote-user-data.s3.amazonaws.com/2ZfBF4bX7YD4Nc5N_pE90--nv-CqQcrPiC9gBfWeWgavrjIZHGntCKfbXCSyvRqcXfzI5vVLQLEjGw3SLdy3X0TSBPRlk5Rr-TlWqf8vLhXV9UFd8NAlWOKYzfKrl_4B.png)
+            - ![](https://remnote-user-data.s3.amazonaws.com/FsxFW-D6ISf2bkYbk2W2HvL5ESvJqWVzO1HRO_GRUbJg_92q1FjUf12Ufn5e16JSEftoWf2LfMeVsfsd5X4_MzxeAQwyXg_jifjQ3PnBiDH9AXiNrFqeUyAvaabtewhK.png)
+    - Os sacrum
+        - Hvad er det overordnet?→En del af rygraden (S1-S5)
+    - Os coccygix
+        - Hvad er det overodnet?→Den nederste del af rygraden
