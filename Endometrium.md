@@ -6,38 +6,20 @@
 - Hvilken type epitel er i endometriekirtlerne?:: **Enlaget cylindrisk**
 - Hvad sker med endometriekirtlerne i løbet af en cylus?:: De bliver længere eftersom der er længere til overfladen derudover bliver udførselsgangene og snoet og til sidst savtakkede
 - Hvad secenere endometriekirtlerne?:: Næringsstoffer til et evt embryon [[Den embryonale periode]]
-- Hvilke 2 typer epitelceller består endometriet af?:: Villiebærende og sekretoriske
-
-    - Cilliebærende celler
-        - Hvilken retning slår cillierne på overlfaden?:: **Mod vagina**
-        - Hvilken retning slår cilierne i kirtlerne?:: **Mod overfladen**
-        - Hvad øger antallet af cilier?:: Østrogen
-    - Sekretoriske celler
+- Hvilke 2 typer epitelceller består endometriet af?:: Cilliebærende og sekretoriske
+- Hvilken retning slår cillierne på overfladen af livmoderen?:: **Mod vagina**
+- Hvilken retning slår cilierne i endometriekirtlerne?:: **Mod overfladen**
+- Hvad øger antallet af cilier livmoderen?:: [[Østrogen]]
 - Hvad består bindevævet i endometriet overordnet af?:: Retikulære fibre
 - Hvilke 2 dele indedeles endometriumstromaet i?
-    - Stratium basale
-        - Hvad kendetegner stratium basale strukturelt?:: Meget cellerigt
-        - Hvilke cyckliske forandringer gennemgår stratium basale?:: Ingen (det udskilles ikke ved menustration)
-        - Hvilken overordnet funktino har stratium basale?:: Regenerere stratium funktinale
-    - Stratium funktionale
-        - Hvilke cycliske forandringer gennemgår stratium funktionale overordnet?:: Det bliver udskilt med menustration
-- Hvad kaldes arterierne der løber ind i endometriet?:: **Aa. radiales**
-    - Hvad skifter de navn til i endometriet?:: **Spiralarterier**
-        - Hvor meget deler spiralarterierne sig?:: Næsten ikke maks 2 gange før de når overladen hvor de deler sig meget
-    - Hvad kaldes de små grene af Aa. radiales der afgives i bunden af endometriet?:: **Basalarterier**
-- Hvad sker overodnet med endometriet i den folikulære fase?:: Cellerne i stratium basale laver mitose
-- Hvor meget vokser endometriet i den folikulære fase?:: Fra 2 mm (fra 1 til 3)
-- Hvor meget vokser endometriet i den luteale fase?:: 2-3 mm (den er nu 6-7 mm høj)
-- Hvad sker med spiralarterierne i den lutale fase?:: De vokser indtil de trækker sig tilbage 2 dage inden menustration
-- Hvordan starter emnustration?:: **Spiralarterierne** brister så blod siver ud gennem endometriet og river det døde matriale med sig
+?
+- [[Stratium basale]]
+- [[Stratium functionale]]
+
+![[Endometriet karforsyning]]
+
+![[Endometriets ændringer i menustrationscyclus]]
+
 - Hvordan er endometriet i istmus?:: Tyndere end i corpus men har samme karaktertræk og følger cylus på samme måde
-- Hvad kaldes endometrium i portio supravaginalis cervicis?:: **Endocervix**
-    - Hvor tyk er den?:: 3-5 mm
-    - Hvilken retning er folderne i endocervix?:: Alle retninger
-    - Hvad kaldes folderne i endocervix?:: **Plicae palmatae**
-    - Hvilken type epitel er i endocervix?:: **Højt cylindrisk epitel**
-    - Hvordan ændre endocervixes secret sig med cyclus?:: Det er meget midnre viskøst ved ovulation
-- Hvad kaldes endometrium i portio vaginalis cervicis?:: **Exocervix**
-    - Hvilken type epitel er i exocervix?:: **Flerlaget pladeepitel**
-- ![](https://remnote-user-data.s3.amazonaws.com/Ohsm8RVlREDCPzy4xCl6UwoZgRj2myF40ShQByoOG5hynEeqTc7ekAq40SY25KtK8luaG_nwOqfyBc3ueFvf1CXUOQEfWOtXYnm0vRXRy8AQRRQolnaBcRJB48rKC-E0.png)
-- ![](https://remnote-user-data.s3.amazonaws.com/Kw-GbRntGM8NTQmOs22vGX-zN7hj0svnN3Xr9MBrH4SqWZsptCzDzrvA5FuitlZaintHaMsg0lhZWC_0jdKuBMYNYQEUX-jqUiiEBBfJRXLWlXTsyY4Qj4RAOhuwdeX7.png)
+- Hvad kaldes endometrium i portio supravaginalis cervicis?:: **[[Endocervix]]**
+- Hvad kaldes endometrium i portio vaginalis cervicis?:: **[[Exocervix]]**

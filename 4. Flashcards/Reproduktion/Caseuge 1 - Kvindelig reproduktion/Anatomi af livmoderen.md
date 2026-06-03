@@ -20,4 +20,5 @@
 - Hvor på livmoderen binder [[Lig. teres uteri]]?:: Nedadtil fortil
 - Hvor på livmoderen binder [[Lig. ovarii proprium]]?:: Nedadtil bagtil
 - Hvad bruges til fiksation af livmoderen?:: Musklerne i pelvisbunden [[Pelvis muskulatur]]
-- ![[Lig. latum uteri]]
+
+![[Lig. latum uteri]]
