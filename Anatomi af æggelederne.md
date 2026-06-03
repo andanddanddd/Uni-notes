@@ -20,4 +20,4 @@
 - [[Blæren]]
 - [[Rectum]]
 - Tarmslynger
-    - Hvad hedder delen af lig. latum uteri som tuba uterina ligger i?:: Mesosalpinx
+
