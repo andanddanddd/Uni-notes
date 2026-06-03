@@ -5,4 +5,4 @@
 - Vesica urinaria [[Blæren]]
 - Vagina [[Moderskeden]]
 - Uterus [[Livmoderen]]
-- Rectum 
+- [[Rectum]]
