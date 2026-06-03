@@ -2,7 +2,7 @@
 
 - Hvad hedder livmoderen på latin?:: **Uterus**
 - ![[Anatomi af livmoderen]]
-###### 
+![[Histologi af livmoderen]]
 
 ![[Corpus uteri]]
     
