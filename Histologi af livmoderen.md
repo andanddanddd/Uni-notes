@@ -2,7 +2,10 @@
 
 - Hvor tyk er livmodervæggen?:: 1 - 1,5 cm
 - Hvilke 3 overordnede lag består livmoderen af?
-    - Endometrium
+?
+- [[Endometrium]]
+- [[Myometrium]]
+- [[Perimetrium]]
         - Hvilken type epitel er heri?:: Enlaget cylindrinsk
         - Hvad består endometriet overordnede af?:: Epitel med et tykt lag underliggende bindevæv med kirtler
             - Hvad hedder kirtlerne?:: **Endometriekirtler**
