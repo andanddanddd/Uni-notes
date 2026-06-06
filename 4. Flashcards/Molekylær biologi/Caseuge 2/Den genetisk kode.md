@@ -1,6 +1,6 @@
 #flashcards/Molekulær-biologi 
 
-![[Gen]]
+![[Gener]]
 
 
 ## Regulatoriske områder
@@ -9,3 +9,5 @@
 ## Interjenic/junk DNA
 - Hvilke funtioner af interjenic DNA?:: Det fungere som mutationsbuffer
 - Hvad er den historiske grund til interjenic DNA?:: En stor del af intergenic DNA har tidligere kodet for noget men er blevet efterlade af evolution
+
+![[Repetetivt DNA]]

@@ -6,3 +6,5 @@
 ![[Nukleinsyre]]
 
 ![[Den genetisk kode]]
+
+![[Epigenetik]]

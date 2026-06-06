@@ -11,3 +11,10 @@
 - [[Exons]]
 
 - Hvilken del af generne er har stort set altid samme DNA-sekvens? (mellem gener):: [[Splejssites]]
+- - Hvad kaldes orienteringen af gener der følger [[Kromosomer]] retningsangivelse? ::: Hvad er **forward orientering**?
+- Hvad kaldes orienteringen af gener der **ikke** følger [[Kromosomer]] retningsangivelse? ::: Hvad er **reverse orientering**?
+- Hvor er gener hvis de er "inden i hinanden"?:: De er i hinandens [[Introns]] og i modsatte rætninger af hinanden
+![[Multigenfamilier]]
+
+![[Pseudogener]]
+
