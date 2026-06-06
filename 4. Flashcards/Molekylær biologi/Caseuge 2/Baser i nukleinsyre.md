@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/4/Genetik 
 [[DNA]]
 [[RNA]]
 
