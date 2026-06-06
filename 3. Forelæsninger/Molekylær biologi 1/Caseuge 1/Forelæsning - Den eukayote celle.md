@@ -1,6 +1,6 @@
 [[Cellekernen]]
 [[Cellemembran]]
-[[Centrosom]]
+[[Centrosomer]]
 [[Cytoplasma]]
 [[Cytoskelet]]
 [[Endoplasmatisk retikulum]]

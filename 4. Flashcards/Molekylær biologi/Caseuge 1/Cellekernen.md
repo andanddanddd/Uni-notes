@@ -7,10 +7,7 @@
 <!--SR:!2026-06-01,4,270-->
 - Hvad kaldes DNA i nucleus?:: Det nucleære genom
 
-## Nucleolemma
-- Hvad er nukleolemma?:: Kernemembranen
-- Hvordan er nukleolemma opbygget?:: 2 doppelt lipidlag med kerneporer der forbinder dem
-<!--SR:!2026-06-01,4,270-->
+![[Nucleolemma]]
 
-## Kernelegemet
-- Hvad er en kernelegemet?(nucleolis på engelsk):: En struktur inde i nucklus der producere rRNA og ribosomer
+
+![[Kernelegemet]]

@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/4/Genetik 
 
 - Hvad sker overordnet i interfasen?:: Cellen vokser, replikerer sit DNA og forbereder sig på celledeling.
 

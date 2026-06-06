@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/4/Genetik 
 
 - Hvad sker med DNAet under S-fasen?:: DNA-replikation finder sted, hvor hver kromosom duplikeres.
 - Hvad sker der med størelsen af cellekernen under S-fasen?:: Cellekernen ændre ikke udssende eller forstørres

@@ -1,13 +1,12 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/4/Genetik 
 
-## Profase
-- Hvad sker under Profasen?:: Kromosomer begynder at kondensere
-- Hvad sker med centrosomerne under profasen?:: Centrosomerne bevæger sig mod polerne af cellen.
-- Hvilke 3 ting kan mikrotubuli gøre under profasen?:: De kan binde sig til kromosomerne, binde sig til den anden pol og bare stråle ud forskelige retninger
+- Hvor i mitosen er det vigtigste checkpint?:: [[Metafase]]
 
-## Prometafase
-- Hvad definere overgangen til prometafasen?:: Det tidspunkt hvor nukleolemma ikke længere kan skelnes
-- Hvor bevæger kromosomerne sig hen under prometafasen?:: Kromosomerne bevæger sig mod ækvatorialplanet i cellen, altså midt imellem de 2 poler.
+![[Profase]]
+
+
+![[Prometafase]]
+
 
 ## Metafase
 - Hvad sker i metafasen?:: Kromoserme bliver holdt fast i ævatorialplanet
