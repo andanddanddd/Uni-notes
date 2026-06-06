@@ -17,3 +17,4 @@
 
 ![[Varianters effekt på proteiner]]
 
+![[Strukturelle kromosomabnomiteter]]

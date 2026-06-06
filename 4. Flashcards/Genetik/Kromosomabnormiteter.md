@@ -3,3 +3,5 @@
 ![[Autosomale kromosomabnomiteter]]
 
 ![[Kønskromosom abnormiteter]]
+
+![[Strukturelle kromosomabnomiteter]]
