@@ -10,3 +10,10 @@
 - Hvad kaldes nye varianter?:: De-novo-varianter
 
 ![[Varianttyper]]
+
+![[Årsager til varianttyper]]
+
+![[Beskrivelse af sekvenser]]
+
+![[Varianters effekt på proteiner]]
+
