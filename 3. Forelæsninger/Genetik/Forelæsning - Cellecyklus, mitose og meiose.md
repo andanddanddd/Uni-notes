@@ -7,3 +7,7 @@
 ![[DNA replikation]]
 
 ![[Mitose]]
+
+![[Meiose]]
+
+![[Kromosomabnormiteter]]
