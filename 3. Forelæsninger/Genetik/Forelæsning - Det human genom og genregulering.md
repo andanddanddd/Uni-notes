@@ -8,3 +8,5 @@
 ![[Den genetisk kode]]
 
 ![[Epigenetik]]
+
+![[DNA repair]]

@@ -1,3 +1,2 @@
 #flashcards/4/Genetik 
 
-![[Cellecyclus]]
