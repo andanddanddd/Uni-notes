@@ -5,3 +5,5 @@
 - Hvor mange gener indeholde mtDNA?::37
 - Hvor stor en andel af proteinerne i mitrocondrierne syntetiseres derinde?::5%
 - Hvordan dannes mitrokondrier?:: Ved celledeling der ligner bakteriers
+- Hvad kaldes DNA i mitrokondrierne?:: Det mitrokondrielle genom
+- Hvor mange DNA-molekyler er der i hver mitrokondrie?:: Det varierer fra mitrokondrie til mitrokondrie

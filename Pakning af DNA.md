@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/4/Genetik 
 
 - Hvad er Histoner?:: Proteiner, der hjælper med at pakke og organisere DNA i kromosomer.
 - Hvad er et nucleosom?:: Struktur bestående af DNA viklet omkring histonproteiner, samt "linker DNA" mellem histonproteinerne, det organiserer DNA i eukaryote celler.

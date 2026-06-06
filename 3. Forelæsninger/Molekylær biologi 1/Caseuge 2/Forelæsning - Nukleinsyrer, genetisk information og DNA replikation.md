@@ -1,4 +1,4 @@
-[[Arvemasse organisering]]
+[[Arvemassens organisering]]
 [[Genetisk kode]]
 [[DNA]]
 [[RNA]]

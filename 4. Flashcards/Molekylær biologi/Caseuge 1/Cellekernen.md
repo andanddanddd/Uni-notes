@@ -5,9 +5,10 @@
 - Hvad er kromatin?:: Strukturen der indeholder og pakker selve DNAet
 - Hvor stor er cellekernen?:: 5-10μm i diameter
 <!--SR:!2026-06-01,4,270-->
+- Hvad kaldes DNA i nucleus?:: Det nucleære genom
 
 ## Nucleolemma
-- Hvad er nukleolemma?→Kernemembranen
+- Hvad er nukleolemma?:: Kernemembranen
 - Hvordan er nukleolemma opbygget?:: 2 doppelt lipidlag med kerneporer der forbinder dem
 <!--SR:!2026-06-01,4,270-->
 
