@@ -1,5 +1,5 @@
 [[Arvemassens organisering]]
-[[Genetisk kode]]
+[[Den genetisk kode]]
 [[DNA]]
 [[RNA]]
 [[Baser i nukleinsyre]]

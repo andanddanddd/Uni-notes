@@ -4,3 +4,5 @@
 
 
 ![[Nukleinsyre]]
+
+![[Den genetisk kode]]

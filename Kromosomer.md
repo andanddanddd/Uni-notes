@@ -7,3 +7,7 @@
 - Hvad kaldes den korte arm af kromosomet?:: p-armen
 - Hvad kaldes den lange arm af kromosomet?:: q-armen
 - Hvad er en karyotype?:: Samling af kromosomer
+- Hvad kaldes kromosomer der er kondenseret?↔Hvad er **metafasekromosomer?**
+- Hvad kaldes de 2 kromatider et et metafasekromosom?↔Hvad er **søsterkromatider?**
+- Hvad kaldes tingen i der holder de 2 søsterkromatider sammen?↔Hvad er **centrosomet?**
+- Hvad kaldes enderne af kromatiderne?↔Hvad er **Telomere?**

@@ -7,3 +7,5 @@
 - Hvordan dannes mitrokondrier?:: Ved celledeling der ligner bakteriers
 - Hvad kaldes DNA i mitrokondrierne?:: Det mitrokondrielle genom
 - Hvor mange DNA-molekyler er der i hver mitrokondrie?:: Det varierer fra mitrokondrie til mitrokondrie
+- Hvordan arves mitrokondriel DNA og hvorfor?:: Kun fra moderen fordi fares bliver nedbrudt eller trænger ikke ind i ægget
+- Hvad er forskellen på strukturen af gener i mtDNA og det nucleære genom?:: Der er ikke [[Introns]] i mtDNA
