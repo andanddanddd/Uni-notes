@@ -11,3 +11,7 @@
 ![[Meiose]]
 
 ![[Kromosomabnormiteter]]
+
+![[Overkrydsning]]
+
+![[Genetisk afstand]]
