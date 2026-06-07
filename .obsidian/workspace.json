@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sanger-sekventering.md",
+                "file": "Fragmentanalyser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sanger-sekventering"
+              "title": "Fragmentanalyser"
             }
           }
         ]
@@ -226,10 +226,20 @@
   },
   "active": "b89363055cc55d74",
   "lastOpenFiles": [
-    "Sekventeringsmetoder.md",
-    "Sanger-sekventering.md",
     "3. Forelæsninger/Genetik/Forelæsning - Genetisk diagnostik og laboratoriemetoder.md",
+    "Fragmentanalyser.md",
     "1. Fag/Genetik.md",
+    "Mikroarrays.md",
+    "Ekspressions array.md",
+    "Single nulceotid polymorphism array(SNP-array).md",
+    "Array-comparative genomic hybridization (aCGH).md",
+    "Sekventeringsmetoder.md",
+    "Long read sekventering.md",
+    "PacBio-sekventering.md",
+    "Nanopore-sekventering.md",
+    "Next generation sequencing.md",
+    "Sanger-sekventering.md",
+    "ddNTP.md",
     "4. Flashcards/Genetik/RT-PCR.md",
     "4. Flashcards/Genetik/PCR.md",
     "qPCR.md",
@@ -242,16 +252,6 @@
     "4. Flashcards/Genetik/Carcinogenese.md",
     "4. Flashcards/Genetik/Udviklingen af cancer.md",
     "4. Flashcards/Genetik/Årsager til cancer.md",
-    "4. Flashcards/Genetik/Tumor supressor genes.md",
-    "4. Flashcards/Genetik/Protooncogener.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Populationsgenetik.md",
-    "4. Flashcards/Genetik/X-kromosom inaktivering.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 2/Hardy-Weinberg loven.md",
-    "4. Flashcards/Genetik/Panmixi.md",
-    "4. Flashcards/Genetik/Ingen selektion.md",
-    "4. Flashcards/Genetik/Genetisk drift.md",
-    "4. Flashcards/Genetik/Founder effekt.md",
-    "4. Flashcards/Genetik/Fænokopier.md",
     "Excalidraw/Genetik",
     "Billeder/Genetik",
     "4. Flashcards/Genetik",

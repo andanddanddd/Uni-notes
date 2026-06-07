@@ -4,3 +4,7 @@
 - Hvad er WGS en forkortelse for?:: Whole genome sequencing
 
 ![[Sanger-sekventering]]
+
+![[Next generation sequencing]]
+
+![[Long read sekventering]]
