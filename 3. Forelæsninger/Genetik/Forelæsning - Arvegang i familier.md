@@ -1,5 +1,7 @@
 #flashcards/4/Genetik 
 
+
+- Hvad kaldes "firkanten" der bruges til at bestemme et barns mulige genotyper?:: Punnet-square
 ![[Pseudoautosomale regioner]]
 
 ![[Mendels love]]
@@ -19,3 +21,13 @@
 ![[Mosaicisme]]
 
 ![[Uniparental disomi]]
+
+![[Imprinting]]
+
+![[Andre arvegange]]
+
+![[Heteregenicitet]]
+
+![[Stamtræer]]
+
+![[Fænokopier]]
