@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autosomal dominant arvegang.md",
+                "file": "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autosomal dominant arvegang"
+              "title": "Forelæsning - Arvegang i familier"
             }
           }
         ]
@@ -218,14 +218,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b89363055cc55d74",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
     "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
     "Autosomal dominant arvegang.md",
+    "Autosomal reccesiv arvegang.md",
+    "Pseudodominant arvegang.md",
+    "Penetrans.md",
     "Mendels love.md",
     "Pseudoautosomale regioner.md",
     "3. Forelæsninger/Genetik/Forelæsning - Genetisk variatino og mutationer.md",
@@ -247,9 +249,6 @@
     "Genetisk afstand.md",
     "4. Flashcards/Genetik/Overkrydsning.md",
     "4. Flashcards/Genetik/Kønskromosom abnormiteter.md",
-    "4. Flashcards/Genetik/Anafase.md",
-    "4. Flashcards/Genetik/Doppelt Y.md",
-    "4. Flashcards/Genetik/Triple X.md",
     "Excalidraw/Genetik",
     "Billeder/Genetik",
     "4. Flashcards/Genetik",

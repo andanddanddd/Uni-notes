@@ -6,6 +6,6 @@
 
 ![[Autosomal dominant arvegang]]
 
-
+![[Autosomal reccesiv arvegang]]
 
 
