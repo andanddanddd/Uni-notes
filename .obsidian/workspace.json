@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fragmentanalyser.md",
+                "file": "Liability thresshold model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragmentanalyser"
+              "title": "Liability thresshold model"
             }
           }
         ]
@@ -226,9 +226,14 @@
   },
   "active": "b89363055cc55d74",
   "lastOpenFiles": [
+    "3. Forelæsninger/Genetik/Forelæsning - Monogene og kromosomale sygdomme.md",
+    "Liability thresshold model.md",
+    "Tvilligestudier.md",
+    "Heritabilitet.md",
+    "Dikotome træk.md",
+    "1. Fag/Genetik.md",
     "3. Forelæsninger/Genetik/Forelæsning - Genetisk diagnostik og laboratoriemetoder.md",
     "Fragmentanalyser.md",
-    "1. Fag/Genetik.md",
     "Mikroarrays.md",
     "Ekspressions array.md",
     "Single nulceotid polymorphism array(SNP-array).md",
@@ -247,11 +252,6 @@
     "4. Flashcards/Genetik/Anneling.md",
     "4. Flashcards/Genetik/Elongering.md",
     "4. Flashcards/Genetik/Denaturering.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Cancergenetik.md",
-    "4. Flashcards/Genetik/Behandling af cancer.md",
-    "4. Flashcards/Genetik/Carcinogenese.md",
-    "4. Flashcards/Genetik/Udviklingen af cancer.md",
-    "4. Flashcards/Genetik/Årsager til cancer.md",
     "Excalidraw/Genetik",
     "Billeder/Genetik",
     "4. Flashcards/Genetik",
