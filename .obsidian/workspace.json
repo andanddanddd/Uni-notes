@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
+                "file": "Uniparental disomi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Arvegang i familier"
+              "title": "Uniparental disomi"
             }
           }
         ]
@@ -218,12 +218,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "b89363055cc55d74",
   "lastOpenFiles": [
     "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
+    "Uniparental disomi.md",
+    "Mosaicisme.md",
+    "Repetationsygdomme.md",
+    "Dynamiske varianter.md",
+    "Kønsbundet dominant arvegang.md",
+    "X-kromosom inaktivering.md",
+    "X-bundet recessiv arvegang.md",
     "Autosomal dominant arvegang.md",
     "Autosomal reccesiv arvegang.md",
     "Pseudodominant arvegang.md",
@@ -239,16 +247,9 @@
     "Beskrivelse af sekvenser.md",
     "Årsager til varianttyper.md",
     "Transposition.md",
-    "Dynamiske varianter.md",
     "Skæv overkrydsning.md",
     "Replikation slippage.md",
     "Varianttyper.md",
-    "Substitutioner.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Det human genom og genregulering.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Cellecyklus, mitose og meiose.md",
-    "Genetisk afstand.md",
-    "4. Flashcards/Genetik/Overkrydsning.md",
-    "4. Flashcards/Genetik/Kønskromosom abnormiteter.md",
     "Excalidraw/Genetik",
     "Billeder/Genetik",
     "4. Flashcards/Genetik",

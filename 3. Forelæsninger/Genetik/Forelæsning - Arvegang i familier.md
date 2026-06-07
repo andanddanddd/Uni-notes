@@ -8,4 +8,14 @@
 
 ![[Autosomal reccesiv arvegang]]
 
+![[X-bundet recessiv arvegang]]
 
+![[X-kromosom inaktivering]]
+
+![[Kønsbundet dominant arvegang]]
+
+![[Repetationsygdomme]]
+
+![[Mosaicisme]]
+
+![[Uniparental disomi]]
