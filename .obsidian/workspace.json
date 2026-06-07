@@ -6,6 +6,7 @@
       {
         "id": "b9876a43ee540e65",
         "type": "tabs",
+        "dimension": 51.90355329949239,
         "children": [
           {
             "id": "b89363055cc55d74",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fag/Genetik.md",
+                "file": "Sanger-sekventering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genetik"
+              "title": "Sanger-sekventering"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "b1a8900c95e600bd",
         "type": "tabs",
+        "dimension": 48.09644670050762,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -222,34 +224,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "b89363055cc55d74",
   "lastOpenFiles": [
-    "1. Fag/Genetik.md",
-    "RT-PCR.md",
-    "PCR.md",
-    "Elongering.md",
-    "Anneling.md",
-    "Denaturering.md",
+    "Sekventeringsmetoder.md",
+    "Sanger-sekventering.md",
     "3. Forelæsninger/Genetik/Forelæsning - Genetisk diagnostik og laboratoriemetoder.md",
+    "1. Fag/Genetik.md",
+    "4. Flashcards/Genetik/RT-PCR.md",
+    "4. Flashcards/Genetik/PCR.md",
+    "qPCR.md",
+    "1. Fag/Hjerte, lunge, nyrer I.md",
+    "4. Flashcards/Genetik/Anneling.md",
+    "4. Flashcards/Genetik/Elongering.md",
+    "4. Flashcards/Genetik/Denaturering.md",
     "3. Forelæsninger/Genetik/Forelæsning - Cancergenetik.md",
-    "Behandling af cancer.md",
-    "Carcinogenese.md",
-    "Udviklingen af cancer.md",
-    "Årsager til cancer.md",
-    "Tumor supressor genes.md",
-    "Protooncogener.md",
+    "4. Flashcards/Genetik/Behandling af cancer.md",
+    "4. Flashcards/Genetik/Carcinogenese.md",
+    "4. Flashcards/Genetik/Udviklingen af cancer.md",
+    "4. Flashcards/Genetik/Årsager til cancer.md",
+    "4. Flashcards/Genetik/Tumor supressor genes.md",
+    "4. Flashcards/Genetik/Protooncogener.md",
     "3. Forelæsninger/Genetik/Forelæsning - Populationsgenetik.md",
     "4. Flashcards/Genetik/X-kromosom inaktivering.md",
     "4. Flashcards/Molekylær biologi/Caseuge 2/Hardy-Weinberg loven.md",
-    "Panmixi.md",
-    "Ingen selektion.md",
-    "Genetisk drift.md",
-    "Founder effekt.md",
+    "4. Flashcards/Genetik/Panmixi.md",
+    "4. Flashcards/Genetik/Ingen selektion.md",
+    "4. Flashcards/Genetik/Genetisk drift.md",
+    "4. Flashcards/Genetik/Founder effekt.md",
     "4. Flashcards/Genetik/Fænokopier.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 2/Stamtræer.md",
-    "4. Flashcards/Genetik/Heteregenicitet.md",
-    "4. Flashcards/Genetik/Andre arvegange.md",
     "Excalidraw/Genetik",
     "Billeder/Genetik",
     "4. Flashcards/Genetik",
