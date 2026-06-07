@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protooncogener.md",
+                "file": "1. Fag/Genetik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protooncogener"
+              "title": "Genetik"
             }
           }
         ]
@@ -222,12 +222,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b89363055cc55d74",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Årsager til cancer.md",
-    "Protooncogener.md",
-    "Carcinogenese.md",
+    "1. Fag/Genetik.md",
+    "RT-PCR.md",
+    "PCR.md",
+    "Elongering.md",
+    "Anneling.md",
+    "Denaturering.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Genetisk diagnostik og laboratoriemetoder.md",
     "3. Forelæsninger/Genetik/Forelæsning - Cancergenetik.md",
+    "Behandling af cancer.md",
+    "Carcinogenese.md",
+    "Udviklingen af cancer.md",
+    "Årsager til cancer.md",
+    "Tumor supressor genes.md",
+    "Protooncogener.md",
     "3. Forelæsninger/Genetik/Forelæsning - Populationsgenetik.md",
     "4. Flashcards/Genetik/X-kromosom inaktivering.md",
     "4. Flashcards/Molekylær biologi/Caseuge 2/Hardy-Weinberg loven.md",
@@ -240,16 +250,6 @@
     "4. Flashcards/Molekylær biologi/Caseuge 2/Stamtræer.md",
     "4. Flashcards/Genetik/Heteregenicitet.md",
     "4. Flashcards/Genetik/Andre arvegange.md",
-    "4. Flashcards/Genetik/Imprinting.md",
-    "4. Flashcards/Genetik/Uniparental disomi.md",
-    "4. Flashcards/Genetik/Mosaicisme.md",
-    "4. Flashcards/Genetik/Repetationsygdomme.md",
-    "4. Flashcards/Genetik/Dynamiske varianter.md",
-    "4. Flashcards/Genetik/Kønsbundet dominant arvegang.md",
-    "4. Flashcards/Genetik/X-bundet recessiv arvegang.md",
-    "4. Flashcards/Genetik/Autosomal dominant arvegang.md",
-    "4. Flashcards/Genetik/Autosomal reccesiv arvegang.md",
-    "4. Flashcards/Genetik/Pseudodominant arvegang.md",
     "Excalidraw/Genetik",
     "Billeder/Genetik",
     "4. Flashcards/Genetik",

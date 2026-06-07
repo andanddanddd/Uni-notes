@@ -10,4 +10,4 @@
 - Hvad hedder de 2 typer cancergener?
 ?
 - [[Protooncogener]]
-- Tumor supressor genes
+- [[Tumor supressor genes]]

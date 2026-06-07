@@ -8,5 +8,5 @@
 - Genamplifikation/flere kopier af genet (fører til overproduktion)
 - Kromosomal translokation (Ny kontrol af genet som kan fører til overproduktion) [[Kromosomabnormiteter]]
 - Demethylering af genets promoter (fører til overproduktion) [[Epigenetik]]
-- 
-- Eksempel på protooncogen:: RAS
+
+- Eksempel på protooncogen:: [[RAS]]

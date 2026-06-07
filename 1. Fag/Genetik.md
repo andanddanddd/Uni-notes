@@ -2,6 +2,7 @@
 [[Forelæsning - Cancergenetik]]
 [[Forelæsning - Cellecyklus, mitose og meiose]]
 [[Forelæsning - Det human genom og genregulering]]
+[[Forelæsning - Genetisk diagnostik og laboratoriemetoder]]
 [[Forelæsning - Genetisk variatino og mutationer]]
 [[Forelæsning - Genterapi, farmakogenetik og personlig medicin]]
 [[Forelæsning - Monogene og kromosomale sygdomme]]
