@@ -9,5 +9,5 @@
 - Migration
 
 - Hvad er populationsflaskehalse?:: En pludselig og drastisk reduktion i en populations størrelse, som medfører tab af genetisk variation og øget genetisk drift
-![[F]]
-- Hvad er founder effekt?:: En stor reduktion i population hvor de overlevende har en sjælden patogen sygdom som nu vil blive mere udbreds (eks på færørene)
+
+![[Founder effekt]]
