@@ -4,5 +4,5 @@
 ?
 - [[Absorbsion]]
 - [[Distribution]]
-- [[Metabolisme
-- Ekskretion
+- Metabolisme [[Metabolismen af lægemidler]]
+- [[Ekskretion]]
