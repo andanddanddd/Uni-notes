@@ -8,3 +8,17 @@
 ![[Metfomin]]
 
 ![[Atorvastatin]]
+
+![[Losartan]]
+
+![[Kaliumklorid]]
+
+![[Amlopidin]]
+
+![[Metoprolol]]
+
+![[Salbutamol]]
+
+![[Pantoprazol]]
+
+![[Levothyroxinnatrium]]
