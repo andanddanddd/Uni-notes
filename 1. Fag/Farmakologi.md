@@ -1,7 +1,7 @@
 
 
 [[Klassifikation af lægemidler]]
-[[Forelæsning - farmakodynamik]]
+[[Forelæsning - Farmakodynamik]]
 [[Forelæsning - Farmakokinetik]]
 [[Forelæsning - Toksologi og forgiftninger]]
 [[Forelæsning - Lægemiddelinteraktioner]]
