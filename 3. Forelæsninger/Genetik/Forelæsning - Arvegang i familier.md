@@ -1,5 +1,6 @@
 #flashcards/4/Genetik 
-
+[[Genetik - slides 4.pdf]]
+[[Genetik - opgaver 4.pdf]]
 
 - Hvad kaldes "firkanten" der bruges til at bestemme et barns mulige genotyper?:: Punnet-square
 ![[Pseudoautosomale regioner]]

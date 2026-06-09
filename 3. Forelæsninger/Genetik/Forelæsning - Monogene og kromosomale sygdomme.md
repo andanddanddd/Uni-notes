@@ -1,4 +1,6 @@
 #flashcards/4/Genetik 
+[[Genetik slides 8.pdf]]
+[[Genetik - opgaver 8.pdf]]
 
 - Hvad kaldes træk der er enten eller (rask eller syg, pige eller dreng?:: [[Dikotome træk]]
 - Hvor alvorlige er monogene sygdomme?:: Typisk meget alvorlige

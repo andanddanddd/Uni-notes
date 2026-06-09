@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b9876a43ee540e65",
-        "type": "tabs",
-        "dimension": 51.90355329949239,
-        "children": [
-          {
-            "id": "b89363055cc55d74",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3. Forelæsninger/Genetik/01_opgaveset.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01_opgaveset"
-            }
-          }
-        ]
-      },
-      {
         "id": "b1a8900c95e600bd",
         "type": "tabs",
-        "dimension": 48.09644670050762,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -218,47 +198,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "4. Flashcards/Genetik/Associatoinsanalyser.md",
-    "3. Forelæsninger/Genetik/07_slides-moodle.pdf",
-    "3. Forelæsninger/Genetik/07_opgaveset.pdf",
-    "3. Forelæsninger/Genetik/08_slides-moodle.pdf",
-    "3. Forelæsninger/Genetik/08_opgaveset.pdf",
-    "3. Forelæsninger/Genetik/09_slides-moodle.pdf",
-    "3. Forelæsninger/Genetik/09_opgaveset.pdf",
-    "3. Forelæsninger/Genetik/01_slides-moodle.pdf",
-    "3. Forelæsninger/Genetik/01_opgaveset.pdf",
-    "3. Forelæsninger/Genetik/02_slides-moodle.pdf",
-    "3. Forelæsninger/Genetik/02_opgaveset.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 1.pdf",
+    "3. Forelæsninger/Genetik/Forelæsning - Populationsgenetik.md",
+    "3. Forelæsninger/Genetik/Opgaver og slides",
+    "3. Forelæsninger/Genetik/Forelæsning - Multifaktorielle sygdomme og polygenerisici.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Monogene og kromosomale sygdomme.md",
     "3. Forelæsninger/Genetik/Forelæsning - Genterapi, farmakogenetik og personlig medicin.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Genetisk variatino og mutationer.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Genetisk diagnostik og laboratoriemetoder.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Det human genom og genregulering.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Cellecyklus, mitose og meiose.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Cancergenetik.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
+    "4. Flashcards/Genetik/Associatoinsanalyser.md",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 7.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 7.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik slides 8.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 8.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 9.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 9.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 1.pdf",
+    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 2.pdf",
     "4. Flashcards/Genetik/Farmakogenetik.md",
     "4. Flashcards/Genetik/Genterapi.md",
     "4. Flashcards/Genetik/Geneditering.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Multifaktorielle sygdomme og polygenerisici.md",
     "4. Flashcards/Genetik/Koplingsuligevægt.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Cellecyklus, mitose og meiose.md",
     "4. Flashcards/Genetik/Overkrydsning.md",
     "4. Flashcards/Genetik/Polygene scorer.md",
     "4. Flashcards/Molekylær biologi/Caseuge 2/RNA.md",
     "4. Flashcards/Genetik/Base-excision repair.md",
     "4. Flashcards/Genetik/Array-comparative genomic hybridization (aCGH).md",
     "4. Flashcards/Genetik/Liability thresshold model.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Monogene og kromosomale sygdomme.md",
     "4. Flashcards/Genetik/Tvilligestudier.md",
     "4. Flashcards/Genetik/Heritabilitet.md",
     "4. Flashcards/Genetik/Dikotome træk.md",
     "1. Fag/Genetik.md",
-    "3. Forelæsninger/Genetik/Forelæsning - Genetisk diagnostik og laboratoriemetoder.md",
-    "4. Flashcards/Genetik/Fragmentanalyser.md",
-    "4. Flashcards/Genetik/Mikroarrays.md",
-    "4. Flashcards/Genetik/Ekspressions array.md",
-    "4. Flashcards/Genetik/Single nulceotid polymorphism array(SNP-array).md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",

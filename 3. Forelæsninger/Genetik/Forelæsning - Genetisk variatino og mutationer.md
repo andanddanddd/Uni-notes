@@ -1,4 +1,6 @@
 #flashcards/4/Genetik 
+[[Genetik - slides 3.pdf]]
+[[Genetik - opgaver 3.pdf]]
 
 - Hvor ofte er der variation igenomet hos ikke-releterede mennesker?:: 1 ud af 1000 bp
 - Hvad betyder variant?:: En bestemt sekvens DNA
