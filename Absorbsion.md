@@ -4,3 +4,6 @@
 
 ![[Administration af lægemiddeler]]
 
+![[Absorbsionskonstanten]]
+
+![[Biotilgængelighed]]
