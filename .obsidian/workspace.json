@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekskretion.md",
+                "file": "Oxidation af lægemidler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ekskretion"
+              "title": "Oxidation af lægemidler"
             }
           }
         ],
@@ -236,13 +236,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
+    "Oxidation af lægemidler.md",
+    "Biotransformation af lægemiddler.md",
+    "Prodrugs.md",
     "Ekskretion.md",
+    "Ekskretion i nyrene.md",
+    "Clearence.md",
+    "Eliminationshastighed.md",
     "Melanin.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Farmakokinetik.md",
     "Metabolismen af lægemidler.md",
@@ -262,12 +267,6 @@
     "Transdermalt administration.md",
     "Rektal administration.md",
     "Sublingual administration.md",
-    "Peroralt administration.md",
-    "First pass metabolisme.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
-    "1. Fag/Farmakologi.md",
-    "4. Flashcards/Farmakologi/Amlopidin.md",
-    "4. Flashcards/Farmakologi/Levothyroxinnatrium.md",
     "4. Flashcards/Farmakologi",
     "3. Forelæsninger/Farmakologi",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 6 opsamling.pdf",
