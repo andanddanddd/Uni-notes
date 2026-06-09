@@ -1,9 +1,9 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/4/Farmakologi 
 
 - Definer biotilgængelighed:: Den del af et administreret lægemiddel der i forhold til en IVdosis når det systemiske kredsløb
 - Hvilke faktorer påvirker biotilgængeligheden?
 ?
-- Absorbsion
+- [[Absorbsion]]
 - Kemisk omdannelse (stabilitet)
 - Biotransformation (enzymomdannelse)
 - Tilbage-sekretion
