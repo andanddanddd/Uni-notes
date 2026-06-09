@@ -37,14 +37,12 @@
             "id": "037c79cb98320c73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3. Forelæsninger/Genetik/Forelæsning - Cancergenetik.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 6 opsamling.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Forelæsning - Cancergenetik"
+              "icon": "lucide-file-text",
+              "title": "Genetik - slides 6 opsamling"
             }
           }
         ],
@@ -233,8 +231,8 @@
   },
   "active": "037c79cb98320c73",
   "lastOpenFiles": [
-    "3. Forelæsninger/Genetik/Forelæsning - Cellecyklus, mitose og meiose.md",
     "3. Forelæsninger/Genetik/Forelæsning - Cancergenetik.md",
+    "3. Forelæsninger/Genetik/Forelæsning - Cellecyklus, mitose og meiose.md",
     "3. Forelæsninger/Genetik/Forelæsning - Arvegang i familier.md",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 1.pdf",
     "3. Forelæsninger/Genetik/Forelæsning - Populationsgenetik.md",
