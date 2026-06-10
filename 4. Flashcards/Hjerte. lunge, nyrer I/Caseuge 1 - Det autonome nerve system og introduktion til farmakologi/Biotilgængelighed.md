@@ -9,3 +9,9 @@
 - Tilbage-sekretion
 
 - Hvordan kan oral biotilgængelighed regnes?::  Forholdet mellem med det givne administration og IV-injektion hvor man tager, arealet under en kurve med koncentrations som funktion af tid. $$F=\frac{AUC_{oral} \cdot dosis_{iv}}{AUC_{iv} \cdot dosis_{oral}} $$Det er forholdet mellem de 2 forhold der er derfor det ser mærkeligt ud
+- Hvordan kan biotilgængeligehden ændres grundet lægemiddelinteraktioner?
+?
+- Ændre pH-niveu
+- Optage eller danne transportproteiner til optagelse
+- Danne eller nedbryde enzymer til nedbrydelse af lægemiddlet
+- Danne tungtopløselige lægemiddelkomplekser

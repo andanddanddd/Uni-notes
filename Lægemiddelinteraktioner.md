@@ -12,4 +12,6 @@
 
 - Hvad kan ske ved fysisk/kemiske interaktioner?:: Reaktion med plastik eller at et lægemiddel fælder ud
 - Hvor meget skal 2 lægemidler påvirke hinanden før det er klinisk relevant?:: Ved en ændring i koncentration på en faktor 2,5
-- Hvornår skal der mindre end en faktor 2,5 i forksel i plasmakoncentration før man vurdere at der er en relevant lægemiddelinteraktion?:: Når det terapeutiske index er lavt [[Terapeutisk vindue]]
+- Hvornår skal der mindre end en faktor 2,5 i forskel i plasmakoncentration før man vurdere at der er en relevant lægemiddelinteraktion?:: Når det terapeutiske index er lavt [[Terapeutisk vindue]]
+
+![[Håndtering af lægemiddelinteraktioner]]
