@@ -26,3 +26,7 @@
 ![[Typer af bivirkninger]]
 
 ![[Eksponering til lægemidler]]
+
+![[Toksologisk dosis-respons-kruver]]
+
+![[Testmetoder til toksologi]]
