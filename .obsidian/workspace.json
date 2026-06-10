@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tyrosinkinase.md",
+                "file": "Intracellulære receptorer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tyrosinkinase"
+              "title": "Intracellulære receptorer"
             }
           }
         ],
@@ -236,15 +236,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d9da3ce12fc841f",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Enzymkoplede receptorer.md",
-    "Tyrosinkinase.md",
+    "Intracellulære receptorer.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Receptorer.md",
+    "Enzymkoplede receptorer.md",
+    "Serin/Serin-theronin kinase.md",
+    "Serin",
+    "Tyrosinkinase.md",
     "G-proteinkoplet receptorer.md",
     "Regulering af G-protein koplede receptorer.md",
     "Ionkanalreceptorer.md",
@@ -266,8 +268,6 @@
     "4. Flashcards/Farmakologi/pH betydning for lægemidler.md",
     "4. Flashcards/Farmakologi/Fordeligskoefficient.md",
     "4. Flashcards/Farmakologi/Biotransformation af lægemiddler.md",
-    "4. Flashcards/Farmakologi/Fase-2 processer.md",
-    "4. Flashcards/Farmakologi/N-acetylering.md",
     "4. Flashcards/Farmakologi",
     "3. Forelæsninger/Farmakologi",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 6 opsamling.pdf",
@@ -277,7 +277,6 @@
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 7.pdf",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik slides 8.pdf",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 8.pdf",
-    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 9.pdf",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",

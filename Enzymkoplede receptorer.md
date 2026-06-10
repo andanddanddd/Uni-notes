@@ -5,7 +5,5 @@
 - Hvilke 3 grupper kan en enzymkoplet receptor være bundet til?
 ?
 - [[Tyrosinkinase]]
-
-    - Serin/threoninkinase
-        - Eksempel på receptor der bruger serin/threoninkinase→RAS
-    - Guanylylcyklase
+- [[Serin-theronin kinase]]
+- Guanylylcyklase

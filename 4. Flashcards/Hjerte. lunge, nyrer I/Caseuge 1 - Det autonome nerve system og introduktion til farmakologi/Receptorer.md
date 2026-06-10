@@ -9,16 +9,4 @@
 - [[Ionkanalreceptorer]]
 - [[G-proteinkoplet receptorer]]
 - [[Enzymkoplede receptorer]]
-- Intracellulære receptorer
-
-## Ionkanalreceptorer
-
-
-## G-protein koblede receptorer
-
-
-## Enzykoblende receptorer
-- 
-
-## Intracellulære receptorer
-- Hvor længe bruger intracellulære receptorer på at udfører cellulær respons?:: Timer til dage
+- [[Intracellulære receptorer]]
