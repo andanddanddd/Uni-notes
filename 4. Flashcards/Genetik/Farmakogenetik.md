@@ -5,3 +5,16 @@
 
 - Hvad er chaperonebehandling?:: Molekyler der binder og "reperere" enzymer typisk ved at omfolde dem
 - Hvad er fordelen ved chaperonbehandling?:: De bliver typisk fordelt godt i kroppen
+
+- Hvad bruges farmakogenetik til?
+?
+- Fremstille nye lægemidler
+- Beregning af korrekt dosis 
+
+- Hvordan inddeles befolkningen baseret på biotransformationhastigehd?
+?
+- Langsomme
+- Normale
+- Hurtige
+
+- Hvad er personlig medicin?:: EN persons DNA testes for at kunne give det rigtige medicin i den rigtige dosis

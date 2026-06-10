@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/4/Farmakologi 
 
 
 - Hvad er det terapeutisek vindue?:: Det "område" eller den dosis hvor et lægemiddel giver effekt uden at dræbe eller give toksisk effekt
