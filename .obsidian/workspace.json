@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Langmuir-ligningen.md",
+                "file": "Antagonist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Langmuir-ligningen"
+              "title": "Antagonist"
             }
           }
         ],
@@ -242,11 +242,17 @@
   },
   "active": "0d9da3ce12fc841f",
   "lastOpenFiles": [
-    "Dissociationskonstanten.md",
-    "Langmuir-ligningen.md",
-    "Lægemiddel-receptor-interaktioner.md",
-    "Enantiomerer lægemiddler.md",
+    "Orthosteriske bindingssite.md",
+    "Antagonist.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Farmakodynamik.md",
+    "Dosis-respons kurver.md",
+    "Lægemiddel-receptor-interaktioner.md",
+    "EC50.md",
+    "Langmuir-ligningen.md",
+    "Bestemmelse af $K_D$ udfra $K_{on}$ og $K_{off}$.md",
+    "Saturationsforsøg.md",
+    "Dissociationskonstanten.md",
+    "Enantiomerer lægemiddler.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
     "Forskelle i patienter farmakodynamik - kinetik.md",
     "Forskelle i patienter farmakodynamik/kinetik.md",
@@ -264,12 +270,6 @@
     "4. Flashcards/Farmakologi/Natriumkanaler i hjertemuskulatur.md",
     "4. Flashcards/Farmakologi/Inaktiveringsgaten.md",
     "4. Flashcards/Farmakologi/1-compartment-modellen.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
-    "4. Flashcards/Farmakologi/Ekskretion.md",
-    "4. Flashcards/Farmakologi/Steady state.md",
-    "4. Flashcards/Farmakologi/Cellebarriere for lægemidler.md",
-    "4. Flashcards/Farmakologi/Transportproteiners betydning for lægemidler.md",
     "4. Flashcards/Farmakologi",
     "3. Forelæsninger/Farmakologi",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 6 opsamling.pdf",
