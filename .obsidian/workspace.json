@@ -236,14 +236,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d9da3ce12fc841f",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Håndtering af lægemiddelinteraktioner.md",
     "Farmakodynamiske lægemiddel interaktioner.md",
+    "Håndtering af lægemiddelinteraktioner.md",
     "Farmakokinetiske lægemiddel interaktioner.md",
     "Lægemiddelinteraktioners påvirkning af renal ekskresion.md",
     "4. Flashcards/Farmakologi/P-glykoprotein.md",
