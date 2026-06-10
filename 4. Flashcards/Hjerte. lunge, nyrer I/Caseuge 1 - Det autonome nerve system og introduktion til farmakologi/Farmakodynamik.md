@@ -2,6 +2,7 @@
 
 - Hvad er farmakodynamik?:: Beskriver hvad lægemidlet gør ved organismen
 - Hvad er den overordnede funktion af lægemidler?:: Påvirke levende organismers funktioner
+- Hvad menes med biased lægemiddel-receptor interaktioner?→At 2 agonister kan starte eller fremme forskellige intracellulære signalveje selvom de sætter sig på samme receptor
 - Hvilke 3 strukture kan lægemidler binde til?
 ?
 - Proteiner

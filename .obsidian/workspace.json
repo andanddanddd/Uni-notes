@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antagonist.md",
+                "file": "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Antagonist"
+              "title": "Forelæsning - Farmakodynamik"
             }
           }
         ],
@@ -242,11 +242,16 @@
   },
   "active": "0d9da3ce12fc841f",
   "lastOpenFiles": [
-    "Orthosteriske bindingssite.md",
-    "Antagonist.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Farmakodynamik.md",
-    "Dosis-respons kurver.md",
     "Lægemiddel-receptor-interaktioner.md",
+    "Antagonist.md",
+    "Agonist.md",
+    "Fysiologisk antagonisme.md",
+    "Non-kompetetive antagonister.md",
+    "Kompetetive antagonister.md",
+    "Dosis-respons kurver.md",
+    "Allosteriske bindingssite.md",
+    "Orthosteriske bindingssite.md",
     "EC50.md",
     "Langmuir-ligningen.md",
     "Bestemmelse af $K_D$ udfra $K_{on}$ og $K_{off}$.md",
@@ -265,11 +270,6 @@
     "Serin",
     "4. Flashcards/Farmakologi/Tyrosinkinase.md",
     "4. Flashcards/Farmakologi/G-proteinkoplet receptorer.md",
-    "4. Flashcards/Farmakologi/Regulering af G-protein koplede receptorer.md",
-    "4. Flashcards/Farmakologi/Ionkanalreceptorer.md",
-    "4. Flashcards/Farmakologi/Natriumkanaler i hjertemuskulatur.md",
-    "4. Flashcards/Farmakologi/Inaktiveringsgaten.md",
-    "4. Flashcards/Farmakologi/1-compartment-modellen.md",
     "4. Flashcards/Farmakologi",
     "3. Forelæsninger/Farmakologi",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 6 opsamling.pdf",
