@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Farmakodynamiske lægemiddel interaktioner.md",
+                "file": "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Farmakodynamiske lægemiddel interaktioner"
+              "title": "Forelæsning - Toksologi og forgiftninger"
             }
           }
         ],
@@ -236,21 +236,27 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "0d9da3ce12fc841f",
   "lastOpenFiles": [
-    "Farmakodynamiske lægemiddel interaktioner.md",
-    "Håndtering af lægemiddelinteraktioner.md",
-    "Farmakokinetiske lægemiddel interaktioner.md",
-    "Lægemiddelinteraktioners påvirkning af renal ekskresion.md",
+    "Paracetamol forgiftning.md",
+    "ALAT.md",
+    "N-acetylcystein.md",
+    "NAPQI.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
+    "4. Flashcards/Farmakologi/Farmakodynamiske lægemiddel interaktioner.md",
+    "4. Flashcards/Farmakologi/Håndtering af lægemiddelinteraktioner.md",
+    "4. Flashcards/Farmakologi/Farmakokinetiske lægemiddel interaktioner.md",
+    "4. Flashcards/Farmakologi/Lægemiddelinteraktioners påvirkning af renal ekskresion.md",
     "4. Flashcards/Farmakologi/P-glykoprotein.md",
-    "Lægemiddelinterationers påvirkning af biotransformation i leveren.md",
+    "4. Flashcards/Farmakologi/Lægemiddelinterationers påvirkning af biotransformation i leveren.md",
     "4. Flashcards/Farmakologi/Absorbsionskonstanten.md",
     "4. Flashcards/Farmakologi/Absorbsion.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Biotilgængelighed.md",
-    "Lægemiddelinteraktioner.md",
+    "4. Flashcards/Farmakologi/Lægemiddelinteraktioner.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Lægemiddelinteraktioner.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Terapeutisk vindue.md",
     "4. Flashcards/Genetik/Farmakogenetik.md",
@@ -262,11 +268,6 @@
     "4. Flashcards/Farmakologi/Lægemiddel-receptor-interaktioner.md",
     "4. Flashcards/Farmakologi/Antagonist.md",
     "4. Flashcards/Farmakologi/Fysiologisk antagonisme.md",
-    "4. Flashcards/Farmakologi/Non-kompetetive antagonister.md",
-    "4. Flashcards/Farmakologi/Kompetetive antagonister.md",
-    "4. Flashcards/Farmakologi/Dosis-respons kurver.md",
-    "4. Flashcards/Farmakologi/Allosteriske bindingssite.md",
-    "4. Flashcards/Farmakologi/Orthosteriske bindingssite.md",
     "Forskelle i patienter farmakodynamik",
     "Serin",
     "4. Flashcards/Farmakologi",
