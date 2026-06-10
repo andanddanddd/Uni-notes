@@ -7,3 +7,4 @@
 - Vælge et andet medicament
 
 - Hvilken type interaktioner bør undgås? (farmakodynamiske vs farmakokinetiske)?:: [[Farmakodynamiske lægemiddel interaktioner]] [[Farmakodynamik]]
+- [[Farmakokinetiske lægemiddel interaktioner]]
