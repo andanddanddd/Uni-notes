@@ -3,3 +3,5 @@
 ![[Farmakodynamik]]
 
 ![[Receptorer]]
+
+![[Forskelle i patienter farmakodynamik - kinetik]]

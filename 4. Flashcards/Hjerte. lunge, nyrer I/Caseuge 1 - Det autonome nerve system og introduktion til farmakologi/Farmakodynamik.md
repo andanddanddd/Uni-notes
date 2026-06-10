@@ -9,3 +9,10 @@
 - Nukleinsyre
 
 - Hvad kaldes samlingen af receptor, intramediære signalmolekyler samt målstruktur?:: Signaltransduktionsvej
+- Hvilke 3 ting bruges lægemidler til som ikke har direkte indflydelse på en celle?
+?
+- Neutralisere pH i mavesækken
+- Øge osmotisk tryk i tarmen (godt imod obstipation)
+- Dræbe patogener
+
+![[Lægemiddel-receptor-interaktioner]]
