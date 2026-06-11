@@ -25,41 +25,17 @@
             }
           },
           {
-            "id": "0d9da3ce12fc841f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Molekylære mekanismer og farmakodynamik.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Forelæsning - Molekylære mekanismer og farmakodynamik"
-            }
-          },
-          {
             "id": "ea53c0104ab59c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. De allervigtigste/Farmakologi/Farmakodynamik.md",
+                "file": "Fænotypisk lægemiddelopdagelse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Farmakodynamik"
+              "title": "Fænotypisk lægemiddelopdagelse"
             }
           }
         ],
@@ -265,12 +241,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
+    "Opdagelse og udvikling af lægemidler.md",
+    "Fænotypisk lægemiddelopdagelse.md",
+    "Target selektion.md",
+    "Lægemiddeludvikling.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Lægemiddeludvikling.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Specielle patientgrupper.md",
+    "Farmakologiske ændringer ved nyresygdom.md",
+    "Farmakologiske ændringer ved leversygdom.md",
+    "0. De allervigtigste/Farmakologi/Farmakodynamik.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - klassifikation af lægemidler.md",
+    "4. Flashcards/Farmakologi/Losartan.md",
+    "0. De allervigtigste/Farmakologi/Agonist.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Molekylære mekanismer og farmakodynamik.md",
     "0. De allervigtigste/Nervesystemet",
     "0. De allervigtigste/Farmakologi/Receptorer.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Molekylære mekanismer og farmakodynamik.md",
-    "0. De allervigtigste/Farmakologi/Farmakodynamik.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Ligand.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Målstrukture for lægemidler.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Noradrenalin.md",
@@ -283,16 +270,6 @@
     "Efficacy.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Affinitet.md",
     "Okkupans.md",
-    "4. Flashcards/Farmakologi/Dissociationskonstanten.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
-    "4. Flashcards/Farmakologi/Administrationsveje af lægemiddeler.md",
-    "0. De allervigtigste/Farmakologi/Administrationsveje.md",
-    "4. Flashcards/Farmakologi/Sublingual administration.md",
-    "4. Flashcards/Farmakologi/Testmetoder til toksologi.md",
-    "4. Flashcards/Farmakologi/Administration af lægemidler i til pediatriske patienter.md",
-    "4. Flashcards/Farmakologi/Rektal administration.md",
-    "4. Flashcards/Farmakologi/Peroralt administration.md",
-    "Intravenøst administrationsvej.md",
     "0. De allervigtigste/Farmakologi",
     "Forskelle i patienter farmakodynamik",
     "Serin",
@@ -302,7 +279,6 @@
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 1.pdf",
     "3. Forelæsninger/Genetik/Opgaver og slides",
     "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 7.pdf",
-    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 7.pdf",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
