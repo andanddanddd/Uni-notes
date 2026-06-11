@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eliminastionskonstanten.md",
+                "file": "4. Flashcards/Farmakologi/Steady state.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Eliminastionskonstanten"
+              "title": "Steady state"
             }
           }
         ],
@@ -240,11 +240,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "0d9da3ce12fc841f",
   "lastOpenFiles": [
-    "Eliminastionskonstanten.md",
-    "Halveringstid.md",
     "4. Flashcards/Farmakologi/Ekskretion.md",
+    "Halveringstid.md",
+    "Eliminastionskonstanten.md",
     "4. Flashcards/Farmakologi/Steady state.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
     "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
