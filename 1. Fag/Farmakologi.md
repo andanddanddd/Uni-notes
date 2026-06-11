@@ -8,4 +8,4 @@
 [[Forelæsning - Specielle patientgrupper]]
 [[Forelæsning - Lægemiddeludvikling]]
 [[Forelæsning - Psykofarmaka]]
-[[Forelæsning - farmakologisk modulering af det autonome nervesystem]]
+[[Forelæsning - Farmakologisk modulering af det autonome nervesystem]]

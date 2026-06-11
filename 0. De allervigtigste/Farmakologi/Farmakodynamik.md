@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/4/Farmakologi 
 
 - Hvad er farmakodynamik?:: Beskriver hvad lægemidlet gør ved organismen
 - Hvad er den overordnede funktion af lægemidler?:: Påvirke levende organismers funktioner
