@@ -9,4 +9,4 @@
 [[First pass metabolisme]]
 [[Biotilgængelighed]]
 [[Biologiske barrierer]]
-[[Steady-state]]
+[[Steady state]]

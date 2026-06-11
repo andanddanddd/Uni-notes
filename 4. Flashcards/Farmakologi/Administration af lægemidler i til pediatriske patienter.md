@@ -2,11 +2,8 @@
 
 ![[Peroral administration til pediatriske patienter]]
 
-    - Rektal
-        - Hvornår anvendes rektal adminitration ved børn?
-            - Kvalme
-            - Ved anestæsi
-        - Hvorfor kan rektal adminitration være et problem?→Biotilgængeligheden kan varierer meget
+![[Rektal administration til pediatriske patienter]]
+
     - Parenteral adminitration
         - Hvilken type parenteral adminitration andvendes oftest ved børn?→IV
             - Hvorfor?→Det er ubehageligt at stikke mange gange

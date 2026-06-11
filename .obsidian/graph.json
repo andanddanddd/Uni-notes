@@ -39,7 +39,7 @@
       "query": "path:\"De allervigtigste/\"  ",
       "color": {
         "a": 1,
-        "rgb": 2699094
+        "rgb": 9175295
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 14.0625,
   "linkStrength": 0.947916666666667,
   "linkDistance": 103,
-  "scale": 0.22993650941485408,
-  "close": false
+  "scale": 0.2546914534674971,
+  "close": true
 }
