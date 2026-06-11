@@ -5,7 +5,7 @@
 [[Forelæsning - Farmakokinetik]]
 [[Forelæsning - Toksologi og forgiftninger]]
 [[Forelæsning - Lægemiddelinteraktioner]]
-[[Forelæsning specielle patientgrupper]]
+[[Forelæsning - Specielle patientgrupper]]
 [[Forelæsning - Lægemiddeludvikling]]
 [[Forelæsning - Psykofarmaka]]
 [[Forelæsning - farmakologisk modulering af det autonome nervesystem]]
