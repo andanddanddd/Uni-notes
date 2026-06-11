@@ -24,10 +24,5 @@
 ?
 - Genoplivning og stabilisering
 - [[Afbryd eksponering]]
-
-    - Symptombehandling
-    - Fremskyndelse af giftelimination
-        - Hvad er ion trapping?:: Ændre på pH i preurin
-            - Hvilken retning kan vi ændre pH?:: Øge det
-            - Hvad bruges det imod?:: Acetylsalicylsyre
-            - Hvilket stof bruges til at øge pH i urin?:: Natriumbicarbonat
+- Symptombehandling
+- [[Fremskyndelse af giftelimination]]
