@@ -1,6 +1,7 @@
 #flashcards/4/Farmakologi 
 
 - Hvad kaldes et giftstof også?:: Toksikon
+- Hvorfor kan lægemidler i høje doser pludselig give uforventede effekter?→De virker på receptorer de har lav affinitet for
 - Hvad er deskriptiv toksikologi?:: Beskrive den overordnede effekt og sammenhæng mellem dosis og effekt (ikke på molekyleniveu)
 - Hvad er mekanisk toksiologi?:: Beskriver virkningsmekanismerne bag toksiologi, og undersøge sammenhæng mellem dyre- og menneskeforsøg
 - Hvad er regulatorisk toksiologi?:: Bruger data fra deskriptiv og mekanisk toksiologi til at vurdere om at lægemiddel må anvendes
