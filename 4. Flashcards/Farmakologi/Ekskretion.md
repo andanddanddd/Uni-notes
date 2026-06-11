@@ -11,5 +11,6 @@
 ![[Clearence]]
 
 - Hvilken enhed har AUC?::  $\frac{n \cdot t}{V}$ hvor n er stofmængde t er tid og V er volumen
-- Hvordan kan halveringstiden regnes?::  $$t_{1/2} = \frac{ln(2)}{k_e}$$
+- ![[Halveringstid]]
+- 
 - Hvad kaldes den ligevægt der gerne vil opnås ved gentagen tilføjelse af lægemiddel?:: [[Steady state]]

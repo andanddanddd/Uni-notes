@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Farmakologi/Ekskretion.md",
+                "file": "Eliminastionskonstanten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ekskretion"
+              "title": "Eliminastionskonstanten"
             }
           }
         ],
@@ -240,10 +240,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0d9da3ce12fc841f",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "4. Flashcards/Farmakologi/Steady state.md",
+    "Eliminastionskonstanten.md",
+    "Halveringstid.md",
     "4. Flashcards/Farmakologi/Ekskretion.md",
+    "4. Flashcards/Farmakologi/Steady state.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
     "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
     "4. Flashcards/Farmakologi/Clearence.md",
@@ -266,8 +268,6 @@
     "4. Flashcards/Farmakologi/Antidot.md",
     "4. Flashcards/Farmakologi/Tarmlevage.md",
     "4. Flashcards/Farmakologi/Aktivt kul.md",
-    "4. Flashcards/Farmakologi/Røntgen.md",
-    "4. Flashcards/Farmakologi/Testmetoder til toksologi.md",
     "Forskelle i patienter farmakodynamik",
     "Serin",
     "4. Flashcards/Farmakologi",
