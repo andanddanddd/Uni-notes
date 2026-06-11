@@ -13,3 +13,6 @@
 - ![](https://remnote-user-data.s3.amazonaws.com/0b7Wa1f5NLBM6qxejdhkid6UppUmjMZIjoPBjWaujGu_s-purY3_-xxXmVqobBSkB8D7mycOvEXpbdklT0Dh8lTYZK5LPC9SpJ4qp8b-GzLSjKV6u50U17GtSc5qgVDb.png)
 - Hvordan ser en graf over 0. ordens metabolisme ud?:: Lineær faldende (uden logaritmiske akser)
 - Hvordan ser en graf over 1. orden metabolisme ud?:: En eksponentiel faldkurve hvis der ikke er en logaritmisk y-akse, en lige linje hvis der på en logaritmisk y‑akse
+
+![[Biotransformation af lægemiddler]]
+

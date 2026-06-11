@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
+                "file": "4. Flashcards/Farmakologi/Ekskretion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Farmakokinetik"
+              "title": "Ekskretion"
             }
           }
         ],
@@ -236,12 +236,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "0d9da3ce12fc841f",
   "lastOpenFiles": [
+    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
+    "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
+    "4. Flashcards/Farmakologi/Clearence.md",
     "1. Fag/Molekylær biologi.md",
+    "4. Flashcards/Farmakologi/Ekskretion.md",
     "1. Fag/Nervesystemet og sanser.md",
     "1. Fag/Patologi.md",
     "1. Fag/Psykologi og psykiatri.md",
@@ -263,10 +268,6 @@
     "4. Flashcards/Farmakologi/Røntgen.md",
     "4. Flashcards/Farmakologi/Testmetoder til toksologi.md",
     "4. Flashcards/Farmakologi/Ames test.md",
-    "4. Flashcards/Farmakologi/Samfundsaspekter til toksologi og forgiftninger.md",
-    "4. Flashcards/Farmakologi/Toksologisk dosis-respons-kruver.md",
-    "4. Flashcards/Farmakologi/Barbiturater.md",
-    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi.md",
     "Forskelle i patienter farmakodynamik",
     "Serin",
     "4. Flashcards/Farmakologi",
