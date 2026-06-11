@@ -6,6 +6,7 @@
       {
         "id": "b1a8900c95e600bd",
         "type": "tabs",
+        "dimension": 31.281725888324875,
         "children": [
           {
             "id": "037c79cb98320c73",
@@ -29,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fordeligsvolumen i pediatriske patienter.md",
+                "file": "4. Flashcards/Farmakologi/Fordelingsvolumen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fordeligsvolumen i pediatriske patienter"
+              "title": "Fordelingsvolumen"
             }
           }
         ],
@@ -44,6 +45,7 @@
       {
         "id": "c0b5464d61a8cf52",
         "type": "tabs",
+        "dimension": 68.71827411167513,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -240,15 +242,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0d9da3ce12fc841f",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
-    "Dosering af lægemidler til pediatriske patienter.md",
-    "Fordeligsvolumen i pediatriske patienter.md",
-    "Lægemidlers elimination i pediatriske patienter.md",
+    "0. De allervigtigste/Farmakologi",
+    "4. Flashcards/Farmakologi/Fordelingsvolumen.md",
+    "1. Fag/Farmakologi.md",
     "Pediatrisk farmakokinetik.md",
+    "Dosering af lægemidler til pediatriske patienter.md",
     "Pediatrisk farmakologi.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Specielle patientgrupper.md",
     "4. Flashcards/Farmakologi/Toksologi.md",
+    "Administration af lægemidler i til pediatriske patienter.md",
+    "Peroral administration til pediatriske patienter.md",
+    "Proteinbinding i pediatriske patienter.md",
+    "Fordeligsvolumen i pediatriske patienter.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
+    "Lægemidlers elimination i pediatriske patienter.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
     "4. Flashcards/Farmakologi/Behandling af forgiftninger.md",
     "Fremskyndelse af giftelimination.md",
@@ -260,14 +269,7 @@
     "4. Flashcards/Farmakologi/Ekskretion.md",
     "Halveringstid.md",
     "Eliminastionskonstanten.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
     "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
-    "4. Flashcards/Farmakologi/Clearence.md",
-    "1. Fag/Molekylær biologi.md",
-    "1. Fag/Nervesystemet og sanser.md",
-    "1. Fag/Patologi.md",
-    "1. Fag/Psykologi og psykiatri.md",
-    "1. Fag/Reproduktion.md",
     "Forskelle i patienter farmakodynamik",
     "Serin",
     "4. Flashcards/Farmakologi",

@@ -1,4 +1,4 @@
-
+#flashcards/4/Farmakologi 
 
 [[Klassifikation af lægemidler]]
 [[Forelæsning - Farmakodynamik]]
