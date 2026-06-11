@@ -30,12 +30,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nikotinerge receptorer.md",
+                "file": "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Nikotinerge receptorer"
+              "title": "Forelæsning - Farmakologisk modulering af det autonome nervesystem"
             }
           }
         ],
@@ -244,6 +254,7 @@
   "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
     "Cholinerge receptorer.md",
+    "Muskarine receptorer.md",
     "Nikotinerge receptorer.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
     "Adrenerge receptorer.md",
@@ -268,7 +279,6 @@
     "4. Flashcards/Farmakologi/Lægemiddeludvikling.md",
     "4. Flashcards/Farmakologi/Opdagelse og udvikling af lægemidler.md",
     "4. Flashcards/Farmakologi/Kliniske studier.md",
-    "4. Flashcards/Farmakologi/Fase IV af kliniske studier.md",
     "0. De allervigtigste/Nervesystemet",
     "0. De allervigtigste/Farmakologi",
     "Forskelle i patienter farmakodynamik",
