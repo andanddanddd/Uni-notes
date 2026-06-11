@@ -2,4 +2,4 @@
 
 - Hvad bruges det stemmningstabilserende medicin til?:: [[Bipolar]]
 - Hvad bruges ofte som stemningsstabiliserende medicin?:: [[Litium]]
-- Hvilken somatisk lægemiddelgruppe har stemningstabiliserende virkning?:: Antiepileptika
+- Hvilken somatisk lægemiddelgruppe har stemningstabiliserende virkning?:: [[Antiepileptika]]

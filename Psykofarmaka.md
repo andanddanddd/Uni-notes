@@ -7,3 +7,7 @@
 - [[Antipsykotika]]
 - [[Antidepressiva]]
 - [[Stemningsstabiliserende medicin]]
+- [[Anxiolytika og sovemidler]]
+- [[ADHD-medicin]]
+- Midler mod misbrug
+- Andre
