@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi [[Administrationsveje]]
+#flashcards/4/Farmakologi [[Administrationsveje af lægemiddeler]]
 
 ![[Peroral administration til pediatriske patienter]]
 

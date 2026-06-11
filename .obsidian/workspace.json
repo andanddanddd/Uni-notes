@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. De allervigtigste/Farmakologi/Administrationsveje.md",
+                "file": "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Molekylære mekanismer og farmakodynamik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Administrationsveje"
+              "title": "Forelæsning - Molekylære mekanismer og farmakodynamik"
             }
           },
           {
@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tolerance.md",
+                "file": "0. De allervigtigste/Farmakologi/Farmakodynamik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tolerance"
+              "title": "Farmakodynamik"
             }
           }
         ],
@@ -265,35 +265,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0d9da3ce12fc841f",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "0. De allervigtigste/Nervesystemet",
+    "0. De allervigtigste/Farmakologi/Receptorer.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Molekylære mekanismer og farmakodynamik.md",
+    "0. De allervigtigste/Farmakologi/Farmakodynamik.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Ligand.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Målstrukture for lægemidler.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Noradrenalin.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Terapeutisk vindue.md",
+    "Terapeutisk index.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Respons.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Administrationsveje, Metabolisme, elimination, steady-state og clearance.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Steady-state.md",
-    "0. De allervigtigste/Farmakologi/Receptorer.md",
-    "Tolerance.md",
-    "0. De allervigtigste/Farmakologi/Steady state.md",
-    "Tilvænning.md",
-    "Rektal administration til pediatriske patienter.md",
-    "4. Flashcards/Farmakologi/Rektal administration.md",
+    "Potens.md",
+    "Efficacy.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Affinitet.md",
+    "Okkupans.md",
+    "4. Flashcards/Farmakologi/Dissociationskonstanten.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
+    "4. Flashcards/Farmakologi/Administrationsveje af lægemiddeler.md",
+    "0. De allervigtigste/Farmakologi/Administrationsveje.md",
+    "4. Flashcards/Farmakologi/Sublingual administration.md",
+    "4. Flashcards/Farmakologi/Testmetoder til toksologi.md",
     "4. Flashcards/Farmakologi/Administration af lægemidler i til pediatriske patienter.md",
-    "0. De allervigtigste/Farmakologi/Prodrugs.md",
-    "4. Flashcards/Farmakologi/Halveringstid.md",
+    "4. Flashcards/Farmakologi/Rektal administration.md",
+    "4. Flashcards/Farmakologi/Peroralt administration.md",
+    "Intravenøst administrationsvej.md",
     "0. De allervigtigste/Farmakologi",
-    "4. Flashcards/Farmakologi/Fordelingsvolumen.md",
-    "1. Fag/Farmakologi.md",
-    "4. Flashcards/Farmakologi/Pediatrisk farmakokinetik.md",
-    "4. Flashcards/Farmakologi/Dosering af lægemidler til pediatriske patienter.md",
-    "4. Flashcards/Farmakologi/Pediatrisk farmakologi.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Specielle patientgrupper.md",
-    "0. De allervigtigste/Farmakologi/Toksologi.md",
-    "4. Flashcards/Farmakologi/Peroral administration til pediatriske patienter.md",
-    "4. Flashcards/Farmakologi/Proteinbinding i pediatriske patienter.md",
-    "4. Flashcards/Farmakologi/Fordeligsvolumen i pediatriske patienter.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
-    "4. Flashcards/Farmakologi/Lægemidlers elimination i pediatriske patienter.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
-    "0. De allervigtigste/Farmakologi/Behandling af forgiftninger.md",
-    "4. Flashcards/Farmakologi/Fremskyndelse af giftelimination.md",
     "Forskelle i patienter farmakodynamik",
     "Serin",
     "4. Flashcards/Farmakologi",

@@ -2,10 +2,10 @@
 
 [[Slides- administration.pdf]]
 [[Affinitet]]
-[[Ligand]]
+[[Lægemiddel-receptor-interaktioner]]
 [[Respons]]
 [[Terapeutisk vindue]]
-[[Administrationsveje]]
+[[Administrationsveje af lægemiddeler]]
 [[First pass metabolisme]]
 [[Biotilgængelighed]]
 [[Biologiske barrierer]]

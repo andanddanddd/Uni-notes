@@ -1,6 +1,7 @@
 #flashcards/Hjerte-lunge-nyrer-I #flashcards/4/Farmakologi 
 
 - Hvilke fordele har den orale administrationsvej?:: Nem for pt og den er billig
+- Hvor længe går der til man ser virkning efter indtagelse per oralt?:: 30-90 min
 - Hvilke stoffer kan ikke gives oralt?
 ?
 - Ioniserede eller meget polære lægemidler

@@ -2,7 +2,7 @@
 
 ![[First pass metabolisme]]
 
-![[Administration af lægemiddeler]]
+![[Administrationsveje af lægemiddeler]]
 
 ![[Absorbsionskonstanten]]
 

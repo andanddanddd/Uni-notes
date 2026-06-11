@@ -2,7 +2,7 @@
 
 
 - Hvad er det terapeutisek vindue?:: Det "område" eller den dosis hvor et lægemiddel giver effekt uden at dræbe eller give toksisk effekt
-- - Hvilke 3 relevante støresler er der for dosisen af et lægemiddel?
+- Hvilke 3 relevante støresler er der for dosisen af et lægemiddel?
 ?
 - ED50
 - TD50
@@ -20,6 +20,4 @@
 - Hvad er LD50?:: Den enkeltdosis som fremkalder død hos 50% af forsøgsdyrspopulationen
 - Hvad står LD for?:: Lethal dosis
 
-## Terapeutisk index
-- Hvad bruges det terapeutiske index til?:: At kvantificere det terapeutiske vindue
-- Hvordan regnes det terapeutsiek index::  $$TI=\frac{TD_{50}}{EC_{50}}$$
+![[Terapeutisk index]]

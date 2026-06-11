@@ -14,4 +14,11 @@
 - [[Intraspinal administration]]
 - [[Intratekalt administration]]
 
+
+
 ![[Parenteral administration]]
+
+- Vaginal
+- Aurikulær
+- Okulær
+- Nasal

@@ -1,5 +1,6 @@
 #flashcards/4/Farmakologi 
 
+- Hvad bruges dissociationskonstanten til?:: Til at kvantificere affinitet
 - Hvordan kan dissciationskonstanten regnes?
     - $\ce{K_D=\frac{K_{off}}{K_{on}}}$ Hvor $\ce{K_{on}}$ er associationshastighedkonstanten ig $\ce{K_{off}}$ er dissociationshastighedkonstanten
     - $\ce{K_D=\frac{[R][L]}{[RL]}}$

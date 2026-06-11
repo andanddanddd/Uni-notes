@@ -4,7 +4,6 @@
 [[Farmakokinetik]]
 [[Farmakodynamik]]
 [[Målstrukture for lægemidler]]
-[[Ligand]]
 [[Receptorer]]
 
 
