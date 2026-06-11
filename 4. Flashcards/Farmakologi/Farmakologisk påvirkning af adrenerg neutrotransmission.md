@@ -5,4 +5,6 @@
 - Hvad kaldes [[Noradrenalin]], [[Adrenalin]] og [[Dopamin]] tilsammen?:: [[Katekolaminer]]
 - Hvor findes den højeste koncentration af noradrenalin?:: [[Hypothalamus]]
 
+![[Noradrenalin syntese]]
 
+![[Elimination af noraderenalin]]
