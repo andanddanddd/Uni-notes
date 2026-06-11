@@ -3,3 +3,4 @@
 - Hvor syntetiseres acetylcholin?:: I nerveenderne.
 - Hvilket enzym nedbryder acetylcholin?:: Acetylcholinesterase 
 - Hvilke produckter dannes under nedbrydningen af acetylcholin?:: Acetyl og Cholin
+- Hvilken opløselighed har acetylkolin?:: Primært vandopløseligt grundet positivt ladet carbonatom
