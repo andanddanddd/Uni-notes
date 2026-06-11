@@ -7,3 +7,5 @@
 - Svedkirtler
 - Glatmuskulatur
 - Hjertemuskulatur
+
+- Hvad bruges som antagonist for muskarine receptorer?:: [[Atropin]]

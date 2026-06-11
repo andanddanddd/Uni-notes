@@ -30,22 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
+                "file": "Farmakologisk påvirkning af kolinerg neutrotransmission.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Farmakologisk modulering af det autonome nervesystem"
+              "title": "Farmakologisk påvirkning af kolinerg neutrotransmission"
             }
           }
         ],
@@ -247,14 +238,24 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
     "Cholinerge receptorer.md",
     "Muskarine receptorer.md",
+    "Farmakologisk påvirkning af kolinerg neutrotransmission.md",
+    "Nikotin.md",
+    "Muskarin.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
+    "Frigivelse af acetylcholin.md",
+    "Botulinumtoxin.md",
+    "Acetylcholinsyntesene.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Acetylcholin.md",
+    "Lagring af acetylcholin.md",
+    "Vesamikol.md",
     "Nikotinerge receptorer.md",
     "Adrenerge receptorer.md",
     "β-adrenerge receptorer.md",
@@ -269,15 +270,6 @@
     "3. Forelæsninger/Farmakologi/Forelæsning - Psykofarmaka.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Lægemiddeludvikling.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Lægemiddelinteraktioner.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - klassifikation af lægemidler.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
-    "0. De allervigtigste/Farmakologi/Administrationsveje af lægemiddeler.md",
-    "0. De allervigtigste/Farmakologi/Distribution.md",
-    "4. Flashcards/Farmakologi/Godkendelse af lægemidler.md",
-    "4. Flashcards/Farmakologi/Lægemiddeludvikling.md",
-    "4. Flashcards/Farmakologi/Opdagelse og udvikling af lægemidler.md",
-    "4. Flashcards/Farmakologi/Kliniske studier.md",
     "0. De allervigtigste/Nervesystemet",
     "0. De allervigtigste/Farmakologi",
     "Forskelle i patienter farmakodynamik",

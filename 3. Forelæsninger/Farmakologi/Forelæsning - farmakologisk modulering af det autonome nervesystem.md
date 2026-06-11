@@ -3,3 +3,5 @@
 ![[Adrenerge receptorer]]
 
 ![[Cholinerge receptorer]]
+
+![[Farmakologisk påvirkning af kolinerg neutrotransmission]]
