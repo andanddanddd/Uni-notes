@@ -5,3 +5,5 @@
 - Hvilken patient gruppe testes sjældentst på?:: Gravide
 
 ![[Opdagelse og udvikling af lægemidler]]
+
+![[Godkendelse af lægemidler]]

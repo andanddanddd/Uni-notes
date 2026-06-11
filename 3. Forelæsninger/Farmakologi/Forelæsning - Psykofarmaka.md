@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/2/Psykologi-psykiatri  #flashcards/4/Farmakologi 
 
 - 
 
