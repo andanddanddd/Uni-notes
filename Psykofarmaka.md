@@ -5,3 +5,5 @@
 - Hvordan inddeles psykofarmaka?
 ?
 - [[Antipsykotika]]
+- [[Antidepressiva]]
+- [[Stemningsstabiliserende medicin]]

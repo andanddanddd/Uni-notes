@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antipsykotika.md",
+                "file": "Litium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Antipsykotika"
+              "title": "Litium"
             }
           }
         ],
@@ -253,8 +253,17 @@
   },
   "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
+    "Stemningsstabiliserende medicin.md",
+    "Litium.md",
     "Psykofarmaka.md",
+    "Antidepressiva.md",
+    "Tricycliske antidepressiva.md",
+    "SNRI, Serotonin, Noradrenalin reabsorbsions inhibitor.md",
+    "SSRI, Selektiv Serotonin reabsorbsions inhibitor.md",
+    "Monoaminhypotesen.md",
+    "Heterocycliske antidepresiver.md",
     "Antipsykotika.md",
+    "Hyperprolaktæmi.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Psykofarmaka.md",
     "4. Flashcards/Farmakologi/Farmakologisk påvirkning af adrenerg neutrotransmission.md",
     "4. Flashcards/Farmakologi/Elimination af noraderenalin.md",
@@ -270,15 +279,6 @@
     "4. Flashcards/Farmakologi/Cholinerge receptorer.md",
     "4. Flashcards/Farmakologi/Muskarin.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Acetylcholin.md",
-    "4. Flashcards/Farmakologi/Muskarine receptorer.md",
-    "4. Flashcards/Farmakologi/Nikotin.md",
-    "4. Flashcards/Farmakologi/Frigivelse af acetylcholin.md",
-    "4. Flashcards/Farmakologi/Botulinumtoxin.md",
-    "4. Flashcards/Farmakologi/Acetylcholinsyntesene.md",
-    "4. Flashcards/Farmakologi/Lagring af acetylcholin.md",
-    "4. Flashcards/Farmakologi/Vesamikol.md",
-    "4. Flashcards/Farmakologi/Nikotinerge receptorer.md",
-    "4. Flashcards/Farmakologi/Adrenerge receptorer.md",
     "0. De allervigtigste/Nervesystemet",
     "0. De allervigtigste/Farmakologi",
     "Forskelle i patienter farmakodynamik",

@@ -15,3 +15,9 @@
 - [[Perphenazine]]
 - [[Haloperidol]]
 - [[Clozapin]]
+
+- Hvilke bivirkninger kan antipsykotika have?
+?
+- Nigrostriale, dvs mangel på bevægelseskontrol
+- [[Hyperprolaktæmi]], dvs overproduktion af et hormon
+
