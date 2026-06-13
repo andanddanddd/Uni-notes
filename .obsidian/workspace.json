@@ -247,14 +247,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "3. Forelæsninger/Farmakologi/Forelæsning - Psykofarmaka.md",
     "4. Flashcards/Farmakologi/Farmakologisk påvirkning af adrenerg neutrotransmission.md",
+    "3. Forelæsninger/Farmakologi/Forelæsning - Psykofarmaka.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
     "Psykofarmaka.md",
     "Anxiolytika og sovemidler.md",
