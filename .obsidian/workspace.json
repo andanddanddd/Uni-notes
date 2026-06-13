@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Farmakologi/Farmakologisk påvirkning af adrenerg neutrotransmission.md",
+                "file": "ANOVA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Farmakologisk påvirkning af adrenerg neutrotransmission"
+              "title": "ANOVA"
             }
           }
         ],
@@ -247,27 +247,29 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
+    "4. Flashcards/Farmakologi/Antidepressiva.md",
+    "ANOVA.md",
     "4. Flashcards/Farmakologi/Farmakologisk påvirkning af adrenerg neutrotransmission.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Psykofarmaka.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
-    "Psykofarmaka.md",
-    "Anxiolytika og sovemidler.md",
-    "Benzodiazepiner.md",
-    "Stemningsstabiliserende medicin.md",
-    "Litium.md",
-    "Antidepressiva.md",
-    "Tricycliske antidepressiva.md",
-    "SNRI, Serotonin, Noradrenalin reabsorbsions inhibitor.md",
-    "SSRI, Selektiv Serotonin reabsorbsions inhibitor.md",
-    "Monoaminhypotesen.md",
-    "Heterocycliske antidepresiver.md",
-    "Antipsykotika.md",
-    "Hyperprolaktæmi.md",
+    "4. Flashcards/Farmakologi/Psykofarmaka.md",
+    "4. Flashcards/Farmakologi/Anxiolytika og sovemidler.md",
+    "4. Flashcards/Farmakologi/Benzodiazepiner.md",
+    "4. Flashcards/Farmakologi/Stemningsstabiliserende medicin.md",
+    "4. Flashcards/Farmakologi/Litium.md",
+    "4. Flashcards/Farmakologi/Tricycliske antidepressiva.md",
+    "4. Flashcards/Farmakologi/SNRI, Serotonin, Noradrenalin reabsorbsions inhibitor.md",
+    "4. Flashcards/Farmakologi/SSRI, Selektiv Serotonin reabsorbsions inhibitor.md",
+    "4. Flashcards/Farmakologi/Monoaminhypotesen.md",
+    "4. Flashcards/Farmakologi/Heterocycliske antidepresiver.md",
+    "4. Flashcards/Farmakologi/Antipsykotika.md",
+    "4. Flashcards/Farmakologi/Hyperprolaktæmi.md",
     "4. Flashcards/Farmakologi/Elimination af noraderenalin.md",
     "4. Flashcards/Farmakologi/Acetylcholinesterase.md",
     "4. Flashcards/Farmakologi/NET.md",
@@ -277,7 +279,6 @@
     "4. Flashcards/Farmakologi/Farmakologisk påvirkning af kolinerg neutrotransmission.md",
     "4. Flashcards/Farmakologi/Elimination af acetylcholin.md",
     "4. Flashcards/Farmakologi/Rivastigmin.md",
-    "4. Flashcards/Farmakologi/Cholinerge receptorer.md",
     "0. De allervigtigste/Nervesystemet",
     "0. De allervigtigste/Farmakologi",
     "Forskelle i patienter farmakodynamik",
