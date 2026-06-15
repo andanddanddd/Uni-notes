@@ -6,4 +6,5 @@
 - Hvorfor ikke lave RT- i med alle primere? Bare ikke nødvendigt? Nu laver vi NTC ved dem alle
 - T-test immunocytokemi
 - Hvorfor antager vi 110% effektivitet i stedet for 100%
+- Forskel på de forskellige måder at chronificere inflammation? s. 4
 - 
