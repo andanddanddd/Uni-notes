@@ -20,3 +20,11 @@
 - Bruges til at løste celler
 - EDTA Nedbryder divalente metalioner som findes i mange adhesionsmolekyler
 - Trypsin bruges til at nedbryde selve proteinerne der adhere cellerne 
+## Formaldehyd
+- Laver bindinger mellem og indenfor proteiner (methylbroer)
+- Det stopper metabolsime og dræber celler
+- Hvis man bruger for meget formaldehyd kan det ødelægge de epitoper som antistoffer binder til
+- Methanol kunne også være brugt men det bevarer ikke cellens struktur ligeså godt
+## β-mercaptoethanol
+- Bryder disulfidbindinger
+- Særlig vigtigt for at denaturere RNaser
