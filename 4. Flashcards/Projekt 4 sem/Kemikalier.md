@@ -28,7 +28,10 @@
 ## β-mercaptoethanol
 - Bryder disulfidbindinger
 - Særlig vigtigt for at denaturere RNaser
+- [Kemibrug ](https://kemibrug.dk/Kemikalier/Action?id=RCU2MHolYzIlODIlN2UlYzIlODB2JWMyJTgxJTdleiVjMiU4N0RZeiVjMiU4OXYlN2UlYzIlODElYzIlODhERkZJRkVJSUxUZCVjMiU4NyU3Y3YlYzIlODMlN2UlYzIlODh2JWMyJTg5JTdlJWMyJTg0JWMyJTgzJWMyJTg4JTVlWVJJ#K)
 ## 96% ethanol
 - Får RNA til at binde til silicamembranen ved at fjerne vadnet omkring RNA
 - Hæmmer eventuelle RNaser
-- 
+## Nukleasefritvand
+- Bruges så det ikke indeholder RNaer og DNaser
+- Bruges til at skylle RNA af silicamembranen
