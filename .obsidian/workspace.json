@@ -33,16 +33,7 @@
                 "file": "4. Flashcards/Projekt 4 sem/Kemikalier.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Kemikalier"
@@ -251,10 +242,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "4. Flashcards/Projekt 4 sem/Kemikalier.md",
+    "4. Flashcards/Projekt 4 sem/Procedurer i projekt.md",
     "1. Fag/Projekt 4 sem.md",
+    "4. Flashcards/Projekt 4 sem/Kemikalier.md",
     "4. Flashcards/Projekt 4 sem",
     "4. Flashcards/Untitled.md",
     "4. Flashcards/Projekt 4 sem/ANOVA.md",
@@ -279,7 +271,6 @@
     "4. Flashcards/Farmakologi/NET.md",
     "4. Flashcards/Farmakologi/Noradrenalin syntese.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Noradrenalin.md",
-    "4. Flashcards/Farmakologi/Katekolaminer.md",
     "0. De allervigtigste/Nervesystemet",
     "0. De allervigtigste/Farmakologi",
     "Forskelle i patienter farmakodynamik",
