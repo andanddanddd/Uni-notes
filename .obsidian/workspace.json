@@ -14,13 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Projekt 4 sem/Kemikalier.md",
+                "file": "4. Flashcards/Projekt 4 sem/Dokumenter.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Kemikalier"
+              "title": "Dokumenter"
             }
           }
         ]
@@ -225,13 +224,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "4. Flashcards/Projekt 4 sem/Dokumenter.md",
+    "Externe dokumenter/Projekt 4 sem/Kit - cDNA syntese.pdf",
+    "Externe dokumenter/Projekt 4 sem/Kit - RNA purifikation.pdf",
+    "Externe dokumenter/Projekt 4 sem",
+    "4. Flashcards/Projekt 4 sem/Kemikalier.md",
+    "Kemisk APV for Passage af celler (Protokol 2 og 4 dag 1).docx",
+    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf",
+    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 3 Cellevækst-1.pdf",
+    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 2 Tilsætning af behandlingskemikalie-1.pdf",
+    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 1 Passage af celler til forsøg-1.pdf",
+    "Externe dokumenter/Projekt 4 sem/Protokol 3 - Celletælling-2.pdf",
+    "Externe dokumenter/Projekt 4 sem/Protokol 2 - Passage af celler-1.pdf",
     "4. Flashcards/Projekt 4 sem/Spørgsmål til gruppen.md",
     "1. Fag/Farmakologi.md",
     "4. Flashcards/Projekt 4 sem/Procedurer i projekt.md",
-    "4. Flashcards/Projekt 4 sem/Dokumenter.md",
-    "4. Flashcards/Projekt 4 sem/Kemikalier.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Specielle patientgrupper.md",
     "4. Flashcards/Farmakologi/Farmakologiske ændringer ved leversygdom.md",
@@ -239,9 +248,7 @@
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
     "1. Fag/Projekt 4 sem.md",
-    "Dokumenter",
     "4. Flashcards/Projekt 4 sem/ANOVA.md",
-    "4. Flashcards/Projekt 4 sem",
     "4. Flashcards/Untitled.md",
     "4. Flashcards/Farmakologi/Antidepressiva.md",
     "4. Flashcards/Farmakologi/Farmakologisk påvirkning af adrenerg neutrotransmission.md",
@@ -254,15 +261,6 @@
     "4. Flashcards/Farmakologi/Litium.md",
     "4. Flashcards/Farmakologi/Tricycliske antidepressiva.md",
     "4. Flashcards/Farmakologi/SNRI, Serotonin, Noradrenalin reabsorbsions inhibitor.md",
-    "4. Flashcards/Farmakologi/SSRI, Selektiv Serotonin reabsorbsions inhibitor.md",
-    "0. De allervigtigste/Nervesystemet",
-    "0. De allervigtigste/Farmakologi",
-    "Forskelle i patienter farmakodynamik",
-    "Serin",
-    "4. Flashcards/Farmakologi",
-    "3. Forelæsninger/Farmakologi",
-    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - slides 6 opsamling.pdf",
-    "3. Forelæsninger/Genetik/Opgaver og slides/Genetik - opgaver 1.pdf",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
