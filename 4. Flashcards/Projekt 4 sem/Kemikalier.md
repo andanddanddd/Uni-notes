@@ -35,3 +35,11 @@
 ## Nukleasefritvand
 - Bruges så det ikke indeholder RNaer og DNaser
 - Bruges til at skylle RNA af silicamembranen
+## Wash buffer 1
+- Skyller proteiner væk (inkl RNAser)
+- Indeholder mange salte og den kan være sur
+- Indeholder ethanol så RNA bliver på silicamembranen
+## Wash buffer 2
+- Buffer
+- Mest bare ethanol
+- Indeholder ethanol så RNA bliver på silicamembranen
