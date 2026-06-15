@@ -12,4 +12,5 @@
 - Housekeeping gene
 - Høje niveuer
 - Stabilt
-- Man kunne have valgt gener indvolv
+- Man kunne have valgt gener indvolveret i metabolsime eks glykolyse, eller gener indvolveret i DNA replikation
+
