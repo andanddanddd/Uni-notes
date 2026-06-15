@@ -13,4 +13,7 @@
 - Høje niveuer
 - Stabilt
 - Man kunne have valgt gener indvolveret i metabolsime eks glykolyse, eller gener indvolveret i DNA replikation
+## Primer effeciency
+- Findes udfra hældning med concentration/ct-værdi plot
+- 110% er acceptabelt da det kan skyldes små fortyndingsfejl samt dårlige målinger
 
