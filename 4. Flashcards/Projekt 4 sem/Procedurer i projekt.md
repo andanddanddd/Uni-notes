@@ -16,4 +16,5 @@
 ## Primer effeciency
 - Findes udfra hældning med concentration/ct-værdi plot
 - 110% er acceptabelt da det kan skyldes små fortyndingsfejl samt dårlige målinger
+- Vi antager 110% i stedet for 100% da vi hellere vil overestimere end at underestimere koncentrationer
 
