@@ -10,3 +10,6 @@
 - 85 grader - nedbrydning af RT-enzymer
 ## ACTB 
 - Housekeeping gene
+- Høje niveuer
+- Stabilt
+- Man kunne have valgt gener indvolv

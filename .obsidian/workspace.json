@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Projekt 4 sem/Dokumenter.md",
+                "file": "4. Flashcards/Projekt 4 sem/Procedurer i projekt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dokumenter"
+              "title": "Procedurer i projekt"
             }
           }
         ]
@@ -224,7 +224,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
     "4. Flashcards/Projekt 4 sem/Dokumenter.md",
     "Externe dokumenter/Projekt 4 sem/Kit - cDNA syntese.pdf",
