@@ -50,3 +50,12 @@
 - Buffer
 - dNTP
 - RNase inhibitor
+## Permabiliseringsbuffer
+- Cellelysering
+- Indeholder trixton-X som er sæbe
+## Inkubationsbuffer
+- Stopper uspecifik bidning
+- Globulær protein
+## Dapi
+- Binder til minor groove af DNA
+ 

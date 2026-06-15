@@ -8,4 +8,5 @@
 - 25 grader - anneling
 - 50 grader - elongering
 - 85 grader - nedbrydning af RT-enzymer
-
+## ACTB 
+- Housekeeping gene
