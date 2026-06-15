@@ -1,3 +1,4 @@
+#Projekt4sem 
 2 independent variabler: 
 	1. Treatmentvs ikke treatment (kategoriske variabler)
 	2. Dag
