@@ -43,3 +43,10 @@
 - Buffer
 - Mest bare ethanol
 - Indeholder ethanol så RNA bliver på silicamembranen
+## dsDNA buffer
+- Vi tilføjer det for at sikre at dsDNAsen virker optimalt
+- Beskytter RNA 
+## Reaction mix (cDNA syntese)
+- Buffer
+- dNTP
+- RNase inhibitor
