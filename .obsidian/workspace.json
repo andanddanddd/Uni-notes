@@ -220,10 +220,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
     "4. Flashcards/Projekt 4 sem/Spørgsmål til gruppen.md",
     "4. Flashcards/Projekt 4 sem/Kroppens stoffer.md",
