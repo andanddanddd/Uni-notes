@@ -4,4 +4,5 @@
 [[Slides - The Urinary system - lecture 3-4.pdf]]
 
 [[Nyrene]]
-
+[[Øvre urinveje]]
+[[Binyrene]]
