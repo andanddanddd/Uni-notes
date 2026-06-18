@@ -1,3 +1,4 @@
+#flashcards/Hjerte-lunge-nyrer-I 
 [[Forelæsning - Alveoli, struktur og stabilitet]]
 [[Forelæsning - Funktionelle volumina]]
 [[Forelæsning - Kemisk regulering af ventilation]]

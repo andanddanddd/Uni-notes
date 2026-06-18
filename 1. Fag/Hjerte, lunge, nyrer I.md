@@ -1,3 +1,4 @@
+#flashcards/Hjerte-lunge-nyrer-I 
 [[Caseuge 1 - Det autonome nerve system og introduktion til farmakologi]]
 [[Caseuge 2 - Øvre respirationssystem]]
 [[Caseuge 3 - Nedre respirationssystem]]

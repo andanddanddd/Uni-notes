@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#flashcards/h",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.45260416666667,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.52916666666667,
+  "lineSizeMultiplier": 1.42708333333333,
   "collapse-forces": false,
   "centerStrength": 0.270833333333333,
   "repelStrength": 15.9375,
   "linkStrength": 0.895833333333333,
   "linkDistance": 103,
-  "scale": 1.0321603294323387,
-  "close": true
+  "scale": 0.3745579466447701,
+  "close": false
 }

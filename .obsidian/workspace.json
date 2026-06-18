@@ -12,12 +12,14 @@
             "id": "ea53c0104ab59c1a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf"
+                "file": "0. De allervigtigste/Hjerte lunge nyrer/Nyrene.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2"
+              "icon": "lucide-file",
+              "title": "Nyrene"
             }
           }
         ]
@@ -222,8 +224,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "0. De allervigtigste/Hjerte lunge nyrer/Nyrene.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Forelæsning - Nyreanatomi og histologi.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Slides - The Urinary system - lecture 1-2.pdf",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Forelæsning - Nyre biokemi.md",
+    "4. Flashcards/Farmakologi/Clearence.md",
+    "0. De allervigtigste/Farmakologi/Toksologi.md",
+    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 6 - Nyrerne.md",
+    "0. De allervigtigste/Hjerte lunge nyrer",
+    "1. Fag/Hjerte, lunge, nyrer I.md",
+    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk.md",
+    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 4 - Hjertet.md",
+    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 3 - Nedre respirationssystem.md",
+    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 3 - Nedre respirationsystem/Forelæsning - Ventilation og gasudveksling.md",
+    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 2 - Øvre respirationssystem.md",
+    "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi.md",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf",
     "4. Flashcards/Projekt 4 sem/Dokumenter.md",
     "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf",
@@ -238,8 +255,6 @@
     "Kemisk APV for Passage af celler (Protokol 2 og 4 dag 1).docx",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 3 Cellevækst-1.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 2 Tilsætning af behandlingskemikalie-1.pdf",
-    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 1 Passage af celler til forsøg-1.pdf",
-    "Externe dokumenter/Projekt 4 sem/Protokol 3 - Celletælling-2.pdf",
     "1. Fag/Farmakologi.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Specielle patientgrupper.md",
@@ -247,18 +262,6 @@
     "3. Forelæsninger/Farmakologi/Forelæsning - Lægemiddelinteraktioner.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakokinetik.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Farmakodynamik.md",
-    "4. Flashcards/Projekt 4 sem/ANOVA.md",
-    "4. Flashcards/Untitled.md",
-    "4. Flashcards/Farmakologi/Antidepressiva.md",
-    "4. Flashcards/Farmakologi/Farmakologisk påvirkning af adrenerg neutrotransmission.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Psykofarmaka.md",
-    "3. Forelæsninger/Farmakologi/Forelæsning - Farmakologisk modulering af det autonome nervesystem.md",
-    "4. Flashcards/Farmakologi/Psykofarmaka.md",
-    "4. Flashcards/Farmakologi/Anxiolytika og sovemidler.md",
-    "4. Flashcards/Farmakologi/Benzodiazepiner.md",
-    "4. Flashcards/Farmakologi/Stemningsstabiliserende medicin.md",
-    "4. Flashcards/Farmakologi/Litium.md",
-    "4. Flashcards/Farmakologi/Tricycliske antidepressiva.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
