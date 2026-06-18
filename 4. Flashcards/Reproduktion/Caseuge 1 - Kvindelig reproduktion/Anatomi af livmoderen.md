@@ -16,7 +16,7 @@
 - Hvad kaldes den nedre åbning til cavitas uteri?:: **Ostium uteri**
 ###### Relationer
 - Hvor er uterus?:: **Det lille bækken**
-- Hvilke 2 organers tilstand har særlig inflydelse på beliggenheden af livmoderen?:: **[[Blæren]]** og **[[Rectum]]**
+- Hvilke 2 organers tilstand har særlig inflydelse på beliggenheden af livmoderen?:: **[[Urinblæren]]** og **[[Rectum]]**
 - Hvor på livmoderen binder [[Lig. teres uteri]]?:: Nedadtil fortil
 - Hvor på livmoderen binder [[Lig. ovarii proprium]]?:: Nedadtil bagtil
 - Hvad bruges til fiksation af livmoderen?:: Musklerne i pelvisbunden [[Pelvis muskulatur]]

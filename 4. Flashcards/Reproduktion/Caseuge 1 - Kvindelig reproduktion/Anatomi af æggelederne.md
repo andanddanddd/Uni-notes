@@ -17,7 +17,7 @@
 
 - Hvilke organer ligger æggelederen opad?
 ?
-- [[Blæren]]
+- [[Urinblæren]]
 - [[Rectum]]
 - Tarmslynger
 

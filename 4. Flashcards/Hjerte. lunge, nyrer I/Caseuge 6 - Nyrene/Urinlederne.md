@@ -5,6 +5,6 @@
 ?
 - De bevæger sig retroperiotonelt ned gennem cavitas abdominalis
 - Passere ned i [[Det lille bækken]]
-- De ender i [[Blæren]]
+- De ender i [[Urinblæren]]
 
 ![[Anatomi af urinlederne]]

@@ -6,3 +6,5 @@
 [[Nyrene]]
 [[Øvre urinveje]]
 [[Binyrene]]
+[[Urinblæren]]
+![[Urinrøret]]

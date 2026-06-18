@@ -2,7 +2,7 @@
 
 - Hvilke strukture beklder det?
 ?
-- Vesica urinaria [[Blæren]]
+- Vesica urinaria [[Urinblæren]]
 - Vagina [[Moderskeden]]
 - Uterus [[Livmoderen]]
 - [[Rectum]]
