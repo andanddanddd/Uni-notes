@@ -7,3 +7,5 @@
 ![[Histologi af urinblæren]]
 
 ![[Urinblærens kar- og nerveforsyning]]
+
+![[Blærens sphinktere]]

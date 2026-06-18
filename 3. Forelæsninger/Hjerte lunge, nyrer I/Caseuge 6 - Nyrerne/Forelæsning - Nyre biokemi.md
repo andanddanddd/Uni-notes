@@ -2,3 +2,5 @@
 
 [[Væskebalance]]
 [[Glomerulær filtrationsrate]]
+[[Micturition]]
+![[Reabsorbsion]]

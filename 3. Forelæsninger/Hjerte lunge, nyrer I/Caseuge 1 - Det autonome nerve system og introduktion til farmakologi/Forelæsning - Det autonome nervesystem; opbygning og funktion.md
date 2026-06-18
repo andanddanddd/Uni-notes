@@ -13,8 +13,4 @@
 - Hvad er nerver?:: Ansamlinger af nervecelleudløbere i PNS
 - Hvad menes med doppelt innervereing?:: At der både er en sympatisk og parasympatisk innervering, den ene fremmer mens den anden hæmmer
 
-- Hvordan inddeles det autonome nervesystem?
-?
-- Sympatisk [[Det sympatiske nervesystem]]
-- Parasympatisk [[Det parasympatiske nervesystem]]
-- Enterisk [[Det enteriske nervesystem]]
+![[Autonome nervesystem]]
