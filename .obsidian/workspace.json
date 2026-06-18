@@ -14,10 +14,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf"
+                "file": "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Protokol 5 - cDNA syntese-2"
+              "title": "Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2"
             }
           }
         ]
@@ -218,14 +218,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf",
+    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf",
     "4. Flashcards/Projekt 4 sem/Dokumenter.md",
+    "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf",
     "4. Flashcards/Projekt 4 sem/Kemikalier.md",
     "4. Flashcards/Projekt 4 sem/Spørgsmål til gruppen.md",
     "4. Flashcards/Projekt 4 sem/Kroppens stoffer.md",
@@ -235,12 +235,10 @@
     "Externe dokumenter/Projekt 4 sem/Kit - RNA purifikation.pdf",
     "Externe dokumenter/Projekt 4 sem",
     "Kemisk APV for Passage af celler (Protokol 2 og 4 dag 1).docx",
-    "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 3 Cellevækst-1.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 2 Tilsætning af behandlingskemikalie-1.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 1 Passage af celler til forsøg-1.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 3 - Celletælling-2.pdf",
-    "Externe dokumenter/Projekt 4 sem/Protokol 2 - Passage af celler-1.pdf",
     "1. Fag/Farmakologi.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Toksologi og forgiftninger.md",
     "3. Forelæsninger/Farmakologi/Forelæsning - Specielle patientgrupper.md",
