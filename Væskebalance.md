@@ -5,3 +5,5 @@
 ![[Væskeudskilling]]
 
 ![[Væskeopbevaring]]
+
+![[Måling af kroppens væskeindhold]]
