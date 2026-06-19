@@ -1,5 +1,8 @@
 #flashcards/Hjerte-lunge-nyrer-I 
 
-- HVilken type transporter er natrium-hydron pumpen?:: Antiport
-- $CO_2$ {{772478276072992::diffundere}} ind i {{7358258009753718::cellerne}} fra {{8847061016589319::blodet}} og bliver omdannet til {{9892894335836866::kulsyre}} med enzymet {{42999201398020204::kulsyreanhydrase}}
-    - {{621739066116058::Kulsyre}} nedbrydes til $H^+$og $\ce{HCO3-}$, $H^+$ transporteres ind i {{41843264833027516::lumen af PVT}} mens $\ce{HCO3-}$ diffundere ind i blodet
+- Hvilken type transporter er natrium-hydron pumpen?:: Antiport
+- Hvordan er den overordnede bevægelse af $CO_2$ i og omkring nefronet?:: $CO_2$ bevæger sig ind i cellerne af PCT hvor det omdannes
+- Hvor bevæger $H^+$ hen fra cellerne i PCT?:: Lumen
+- Hvor bevæger $HCO_3^-$ hen fra cellerne i PCT?:: Blodet
+
+![[CO2 som buffersystem]]

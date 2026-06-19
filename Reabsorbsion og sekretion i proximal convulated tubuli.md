@@ -6,9 +6,9 @@
 - Ioner [[Reabsorbsion af ioner i nefronet]]
 - Glukose [[Natrium-glukose pumpen]]
 - Aminosyre
-- Urea
-- Små proteiner
-- Lipider
+- [[Urea]]
+- Små proteiner [[Reabsorbsion af proteiner i nefronet]]
+- Lipider [[Reabsorbsion af lipider i nefronet]]
 
 - Hvad bliver transporteret fra blodet ind i PCT?
 ?
@@ -17,18 +17,9 @@
 - Amonium
 - Creatin
 
+![[Paracellulær transport]]
 
-- Natrium-hydron-pumpen
-
-- Paracellulær transport
-    - Hvad er paracellulær transport?:: Paracellulær transport er bevægelse af stoffer mellem celler i epitelvæv
-    - Hvad transporteres via paracellulær transport?
-        - Magnesium
-        - Kalium
-        - Calcium
-        - Clor
 - Lipider
-    - Hvordan bliver lipider reabsorberet?:: Diffusion
-    - Hvilket affaldsstof er fedtopløseligt?:: Urea
+    
 - Proteiner
     - Proteiner i PCT bliver transporteret ind i cellere via {{832293625120702::receptor medieret endocytose}} herefter bliver de nedbrudt af {{7048112228358847::lysosomer}}
