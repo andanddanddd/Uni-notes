@@ -9,7 +9,7 @@
 - Hvad er formålet med tunika adventitia?:: Binde organet til omkringliggende strukture
 - Hvor er tunika serosa?
 ?
-- [[Mavesæk]]
+- [[Mavesækken]]
 - Tarm
 
 - Hvad er formålet med tunika serosa?:: Give bevægelighed
