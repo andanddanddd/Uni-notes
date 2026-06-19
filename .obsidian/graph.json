@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#flashcards/h",
+  "search": "#flashcards/2/E",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 15.9375,
   "linkStrength": 0.895833333333333,
   "linkDistance": 103,
-  "scale": 0.37455794664476083,
-  "close": true
+  "scale": 0.7362146364763582,
+  "close": false
 }
