@@ -1,5 +1,6 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/2/Ernæring-Endokrinologi 
 
+- Hvad er en kloak?:: En struktur hvor flere forskellige "ting" skal ud eller ind
 - Hvad bliver cloaca til?
 ?
 - Blære [[Urinblæren]]
