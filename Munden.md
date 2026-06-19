@@ -3,3 +3,9 @@
 ![[Histologi af munden]]
 
 ![[Spytkirtler]]
+
+![[Læber]]
+
+![[Kinden]]
+
+![[Mundhulen]]
