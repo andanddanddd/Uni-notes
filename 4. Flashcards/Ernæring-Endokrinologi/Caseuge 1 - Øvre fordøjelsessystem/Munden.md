@@ -11,3 +11,9 @@
 ![[Mundhulen]]
 
 ![[Ganen]]
+
+![[Gummerne]]
+
+![[Tungen]]
+
+![[Tænderne]]
