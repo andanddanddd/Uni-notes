@@ -3,3 +3,7 @@
 ![[Histologi af fordøjelseskanalen]]
 
 ![[Munden]]
+
+![[Tyggemusklerne]]
+
+![[Spiserøret]]

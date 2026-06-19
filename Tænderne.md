@@ -10,12 +10,6 @@
 - Hvilke dele er der af en tand?
 ?
 - [[Tandkrone]]
-
-    - Hals
-        - Hvad hedder tandhalsen på latin?:: Cervix dentis
-        - Halsen forbinder {{9650192169890144::kronen}} med {{9650192169890144::roden}}
-    - Rod
-        - Hvad hedder tandroden på latin?:: Radix dentis
-    - Pulpahulen
-        - Hvad hedder pulpahulen på latin?:: Cavitas dentis
-        - Hvad er pulpahulen?:: Det indre rum i en tand, der indeholder nerver og blodkar.
+- [[Tandhalsen]]
+- [[Tandroden]]
+- [[Pulpahulen]]
