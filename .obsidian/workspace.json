@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Autonome nervesystem.md",
+                "file": "Natrium-hydron-pumpen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autonome nervesystem"
+              "title": "Natrium-hydron-pumpen"
             }
           }
         ]
@@ -220,18 +220,24 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
+    "Reabsorbsion og sekretion i proximal convulated tubuli.md",
+    "Natrium-hydron-pumpen.md",
+    "Natrium-glukose pumpen.md",
+    "Reabsorbsion af ioner i nefronet.md",
+    "Reabsorbsion af vand i nefronet.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Reabsorbsion.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Autonome nervesystem.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Micturition.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Urinblæren.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Blærens sphinktere.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 1 - Det autonome nerve system og introduktion til farmakologi/Forelæsning - Det autonome nervesystem; opbygning og funktion.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Forelæsning - Nyre biokemi.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Reabsorbsion.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Glomerulær filtrationsrate.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Regulering af hydrostatisk tryk.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Regulering af filtrater igennem glomerulus.md",
@@ -246,11 +252,6 @@
     "2. Caseuger/Hjerte, lunge, nyrer I/Caseuge 6 - Nyrerne.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Anatomi af binyrene.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Urinrøret.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Det kvindelige urinrør.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Det mandlige urinrør.md",
-    "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Forelæsning - Nyreanatomi og histologi.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Histologi af urinblæren.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Urinblærens kar- og nerveforsyning.md",
     "3. Forelæsninger/Hjerte lunge, nyrer I/Caseuge 6 - Nyrerne/Slides - The Urinary system - lecture 1-2.pdf",
     "0. De allervigtigste/Hjerte lunge nyrer",
     "Externe dokumenter/Projekt 4 sem/Protokol 4 - Dag 4 - Cellevækst, fixering og RNA oprensning-2.pdf",
