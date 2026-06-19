@@ -6,3 +6,5 @@
 ![[Anatomi af mavesækken]]
 
 ![[Mavesækkens kar- og nerveforsyning]]
+
+![[Histologi af mavesækken]]

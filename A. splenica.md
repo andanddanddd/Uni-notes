@@ -3,4 +3,4 @@
 - Hvad hedder de 2 grene fra a. splenica der forsyner mavesækken?
 ?
 - A. gastroomentialis **sin** [[A. gastroomentialis sin-dxt]]
-- 
+- [[aa. gastriaca braves]]

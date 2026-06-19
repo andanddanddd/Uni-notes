@@ -6,7 +6,7 @@
 - [[A. gastrica sin-dxt]]
 - [[A. gastroomentialis sin-dxt]]
 
-
+![[aa. gastriaca braves]]
 
 
 - a. gastiaca dxt udspringer fra {{44872065131332894::a. hepatica communis}} der udspringer fra a.coliacus
