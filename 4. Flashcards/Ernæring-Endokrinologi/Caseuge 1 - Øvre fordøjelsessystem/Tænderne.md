@@ -7,6 +7,9 @@
 - Hvad er dentin?:: Inde del af tanden
 - Hvor mange blivende tænder har vi?:: 32
 - Hvilke dele af tanden er hårdest? (de 3 hårdeste dele i rækkefølge fra hårdest til blødest):: Emalje -> Dentin -> Cement
+- Hvilke tænder er gode til at skære?:: De foreste (insicivus)
+- Hvilke tænder er gode til at spide mad?:: Hjærnetænder
+- Hvilke tænder er gode til at knuse mad?:: Molaris og premolaris
 - Hvilke dele er der af en tand?
 ?
 - [[Tandkrone]]

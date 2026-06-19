@@ -5,4 +5,5 @@
 - Hvad sker med smerten hvis man spiser mens man har ulcers i [[Duodenum]]?:: Den bliver bedre
 - Hvad er den mest almindelige årsag til ulcus?:: [[Helicobacter pylori]]-infektion
 - Hvad kaldes ulcus i mavesæk/duodenum?:: Peptisk ulcus
+ 
  ![[Ulcusmidler]]

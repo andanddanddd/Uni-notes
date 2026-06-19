@@ -3,3 +3,7 @@
 ![[Reflux]]
 
 ![[Ulcers]]
+
+![[Mavesyre]]
+
+![[Slugning]]

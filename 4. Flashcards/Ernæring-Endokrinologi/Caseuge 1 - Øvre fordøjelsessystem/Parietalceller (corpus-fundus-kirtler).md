@@ -7,3 +7,9 @@
 ?
 - Hydroner (saltsyre)
 - [[Intrinsic faktor]]
+
+- Hvilke receptorer har parietalcellen?
+?
+- Acetylcholin
+- Histamin (H2)
+- [[Gastrin]]
