@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embryologi af fordøjelsessystemet.md",
+                "file": "Munden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embryologi af fordøjelsessystemet"
+              "title": "Munden"
             }
           }
         ]
@@ -220,37 +220,38 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Embryologi af fordøjelsessystemet.md",
+    "Munden.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Forelæsning - Mund og spiserør.md",
+    "Histologi af fordøjelseskanalen.md",
+    "Tunika serosa-adventitia (fordøjelseskanalen).md",
+    "Tunica muscularis (fordøjejelseskanalen).md",
+    "Tela submucosa (fordøjelseskanalen).md",
+    "Tunica mucosa (fordøjelseskanalen).md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Embryologi af fordøjelsessystemet.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Bagtarm.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Cloaka.md",
-    "Embryologi af pancreas.md",
-    "Embryologi af lever og galdeblære.md",
-    "Bagtarm.md",
-    "Mellemtarm.md",
-    "Fortarmen.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Embryologi af pancreas.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Embryologi af lever og galdeblære.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Mellemtarm.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Fortarmen.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Forelæsning - Fordøjelsessystemets overordnede opbygning og udvikling.md",
-    "Brachiebuer.md",
-    "Brachiebue 4.md",
-    "Brachiebue 3.md",
-    "Brachiebue 2.md",
-    "Brachiebue 1.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Brachiebuer.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Brachiebue 4.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Brachiebue 3.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Brachiebue 2.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Brachiebue 1.md",
     "2. Caseuger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem.md",
     "2. Caseuger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Forelæsning - Binyrens anatomi og fysiologi.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Forelæsning - Hypothalamus og hypofysens hormoner.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Forelæsning - Hypothalamus og hypofyse anatomi og fysiologi.md",
     "2. Caseuger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Embryologi af parathyroidea.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Embryologi af thyroidea.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Diabetes-behandling.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Forelæsning - Thyreoidea, anatomi og fysiologi.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Forelæsning - Calcium metaboliske sygdomme.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Forelæsning - Calcium metabolisme.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Forelæsning - Thyreoidea sygdomme  og behanlding.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme",
