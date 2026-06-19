@@ -18,8 +18,3 @@
 - Creatin
 
 ![[Paracellulær transport]]
-
-- Lipider
-    
-- Proteiner
-    - Proteiner i PCT bliver transporteret ind i cellere via {{832293625120702::receptor medieret endocytose}} herefter bliver de nedbrudt af {{7048112228358847::lysosomer}}

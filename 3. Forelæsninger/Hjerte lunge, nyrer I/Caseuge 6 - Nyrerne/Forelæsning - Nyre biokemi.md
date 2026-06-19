@@ -3,4 +3,5 @@
 [[Væskebalance]]
 [[Glomerulær filtrationsrate]]
 [[Micturition]]
-![[Reabsorbsion]]
+[[Reabsorbsion]]
+[[Nyrenes autoregulering]]
