@@ -3,32 +3,9 @@
 ![[Corpusculum renis]]
 
 ![[Tubulus proximalis]]
-    - Hvilke 2 dele består tubulus proximalis af?
-        - Pars convoluta
-            - Hvor er pars convoluta?→Lige efter corpusculum renis
-            - Hvilke form har pars convoluta?
-                - Snoet
-                - Lige
-            - Hvor er pars convolutta?→I cortex
-        - Pars recta
-            - Hvor er pars recta?→Lige efter pars convoluta
-            - Hvilken form har pars recta?
-                - Snoet
-                - Lige
-            - Hvor er pars recta?
-                - Cortex
-                - Medulla
-- Henle slyngen
-    - Hvad består henleslyngen af?
-        - Det tynde segment af den nedadgående tubulus proximale
-        - Det tynde segment af den opadgående tubulus distale
-        - Det tykke segment af den opadgående tubulus distale
-    - Hvor er henle slyngen?→Det løber ned i medulla med variernede længde
-    - Hvad hedder de 2 typer henleslynger baseret på hvor langt ned i medulla de går?
-        - Cortical neproner
-            - Hvordan er blodforsyningen til corticale neproner?→Capillærene er i et stort nætværk
-        - Juxtamedular neproner
-            - Hvordan er blodforsyningen til juxtamedular neproner?→Der er 1 kapilær der løber langs henleslyngen
+
+![[Hendleslyngen]]
+
 - Tubulus distalis
     - Hvilke 2 dele består tubulus distalis af?
         - Pars recta
