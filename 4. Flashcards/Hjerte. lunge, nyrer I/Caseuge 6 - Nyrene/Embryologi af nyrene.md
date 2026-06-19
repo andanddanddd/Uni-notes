@@ -12,4 +12,4 @@
 
 ![[Metanephric blastomer]]
 
-![[Udvikling af nefroner]]
+![[Udvikling af blæren]]

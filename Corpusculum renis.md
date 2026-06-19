@@ -1,0 +1,21 @@
+#flashcards/Hjerte-lunge-nyrer-I 
+
+- Hvad er corpusculum renis?:: Den blinde ende af nefronet
+- Hvor er corpusculum renis?:: I cortex
+- Hvad er diameret af corpusculum renis?:: 200μm
+- Corpusculum renis er {{25599325662351613::årsagen}} til det {{4969196372694271::granulerede}} udseende på et frisk snit
+- Hvilken effekt har 
+- Hvilke strukture indeholder corpusculum renis?
+    - Glomerus
+        - Hvor mange forgrener den afferente arteriole sig i?:: Typisk 5
+    - Bowmans kapsel
+        - Hvad hedder området mellem bowmans kapels 2 lag?:: Urinrummet
+        - Hvad hedder de 2 lag i bowmans kapsel?
+            - Parietalt lag
+                - Hvilken type væv består det parietale lag af?:: Enlaget pladeepitel på en basalmembran
+            - Visceralt lag
+                - Hvad kaldes cellerne i det vicerale lag?:: Podocytter
+                - Hvordan ser cellerne i det viscerale lag ud?:: De har lange udspring hvor kernerne ligger langt fra basalmembranen
+        - Hvad hedder de 2 poler i bowmans kapsel?
+            - Urinpolen
+            - Karpolen

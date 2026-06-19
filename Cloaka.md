@@ -7,3 +7,4 @@
 - [[Rectum]]
 
 - Hvor er cloaca?:: I bunden af [[Gastrorøret]]
+- Hvad hedder strukturen der deler cloaka i 2?:: Urorectal septum
