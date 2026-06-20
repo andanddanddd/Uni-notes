@@ -9,3 +9,9 @@
 ![[Anatomi af tyndtarmen]]
 
 ![[Histologi af tyndtarmen]]
+
+- Hvordan inddeles tyndtarmen?
+?
+- [[Duodenum]]
+- [[Jejunum]]
+- [[Illium]]
