@@ -5,5 +5,4 @@
 - Hvordan hæmmes pyrovatkinasen allosterisk?:: ATP og acetyl-CoA
 - Hvilken effekt har [[Glukagon]] på pyrovatkinasen?:: Hæmmer den 
 - Hvilken effekt har [[Insulin]] på pyrovatkinasen?:: Stimlere syntese af den og gør den mere effektiv via fosforylering
-- Hvad kan hæmme pyrovatkinsen allosetrisk?:: 
-- {{9144023910702606::Fruktose-1,6-bifosfat}} fremmer pyrovatkinasen {{31177878680924653::alloserisk}}
+- Hvad kan hæmme pyrovatkinsen allosetrisk?:: Fruktose-1,6-bifosfat
