@@ -13,7 +13,4 @@
 - Hvad er duodenums forhold til [[peritoneum]]?:: Størstedelen ligger retroperitonelt
 
 [[Duodenums kar-og nerveforsyning]]
-
-
-- Histologi
-    - Hvor stor en andel af duodenum har plicae circulares?:: De kommer efter 4-5 cm
+- Hvor stor en andel af duodenum har [[Plicae circulares]]?:: De kommer efter 4-5 cm
