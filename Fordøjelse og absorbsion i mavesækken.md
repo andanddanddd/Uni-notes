@@ -7,6 +7,7 @@
 - [[Intrinsic faktor]]
 
 - Hvad bliver optaget i mavesækken?
-    - Ethanol
-    - Fedtopløselige læægemidler
-    - Små lipider
+?
+- Ethanol
+- Fedtopløselige lægemidler
+- Små lipider
