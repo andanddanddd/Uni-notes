@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-celler.md",
+                "file": "Paneth-celler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-celler"
+              "title": "Paneth-celler"
             }
           }
         ]
@@ -224,10 +224,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "K-celler.md",
+    "Histologi af tyndtarmen.md",
+    "Paneth-celler.md",
     "Enteroendokrine celler.md",
+    "MO-celler.md",
+    "Motilin.md",
+    "N-celler.md",
+    "Neurotensin.md",
+    "L-celler.md",
+    "Glukogen-like-peptide (GLP1).md",
+    "K-celler.md",
+    "Gastrisk inhibere peptid (GIP).md",
     "I-celler.md",
     "CCK.md",
     "S-celler.md",
@@ -236,7 +245,6 @@
     "Somatostatin.md",
     "Enterokromaafine (EC-celler).md",
     "Sekretorisk peptid.md",
-    "Histologi af tyndtarmen.md",
     "Bægerceller.md",
     "Enterocytter.md",
     "Lieberkunske krypter.md",
@@ -244,14 +252,6 @@
     "Tyndtarmens vili.md",
     "Plicae circulares.md",
     "Tyndtarmen.md",
-    "Anatomi af tyndtarmen.md",
-    "Valva illeocalcalis.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Forelæsning - Det nedre fordøjelsessystem, motilitet og farma.md",
-    "2. Caseuger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Kompleks 1 (respirationskæden).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxidativ fosforylering.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Respirationkæden.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Kompleks 4 (respiratinoskæden).md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
