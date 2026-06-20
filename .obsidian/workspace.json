@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enteroendokrine celler.md",
+                "file": "K-celler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enteroendokrine celler"
+              "title": "K-celler"
             }
           }
         ]
@@ -224,10 +224,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Histologi af tyndtarmen.md",
+    "K-celler.md",
     "Enteroendokrine celler.md",
+    "I-celler.md",
+    "CCK.md",
+    "S-celler.md",
+    "Sekretin.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/D-celler.md",
+    "Somatostatin.md",
+    "Enterokromaafine (EC-celler).md",
+    "Sekretorisk peptid.md",
+    "Histologi af tyndtarmen.md",
     "Bægerceller.md",
     "Enterocytter.md",
     "Lieberkunske krypter.md",
@@ -243,15 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxidativ fosforylering.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Respirationkæden.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Kompleks 4 (respiratinoskæden).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Kompleks 3 (respirationskæden).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Kompleks 2 (respirationskæden).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Succinat dehydroxygenasen.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Forelæsning - Citrat cyklus og Oxidativ fosforylering og coricyklus.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Citratcyklus.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Regulering af citratcyklus.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Acetyl-CoA.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Trin 5 (citratcyklus).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Trin 3 (citratcyklus).md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
