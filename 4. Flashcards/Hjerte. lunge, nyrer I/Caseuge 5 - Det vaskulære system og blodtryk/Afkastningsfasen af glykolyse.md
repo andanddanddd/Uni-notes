@@ -27,4 +27,4 @@
 - Hvad sker i trin 10 af glykolysen?:: Dannelse af ATP
 - Er trin 10 reversibel af glykolysen?:: Nej
 - Opskriv reaktionskema for trin 10 af glykolysen:: $$\ce{fosfoenolpyrovat->[ADP->ATP]Pyrovat}$$
-- Hvilket enzym katalysere trin 10?:: [[Pyrovat kinase]]
+- Hvilket enzym katalysere trin 10?:: [[Pyrovatkinasen]]

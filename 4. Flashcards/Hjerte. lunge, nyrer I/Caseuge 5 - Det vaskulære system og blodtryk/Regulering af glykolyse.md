@@ -9,6 +9,6 @@
 - Pyrovatkinasen
 
 ![[Hexokinasen]]
-![[Fosfofruktokinase 1 (PFK-1)]]
+![[Fosfofruktokinase-1]]
 
 ![[Pyrovatkinasen]]

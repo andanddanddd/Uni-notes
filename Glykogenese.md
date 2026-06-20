@@ -15,6 +15,6 @@
 - [[Leveren]] 
 - Muskler
 
-- Hvilke enzym katalysere glykogenese i leveren?:: Glykokinase, glykogensyntase og forgreningsenzymet
+- Hvilke enzym katalysere glykogenese i leveren?:: [[Glykokinasen]], glykogensyntase og forgreningsenzymet
 - Hvorfor bruges glykokinase som glukosesensor?:: Fordi den har lav affinitet for glukose så hvis den finder noget må der ære meget glukose
 - Hvilket enzym aktivere glukose i musklerne?:: Glykogensyntase og forgreningsenzymet
