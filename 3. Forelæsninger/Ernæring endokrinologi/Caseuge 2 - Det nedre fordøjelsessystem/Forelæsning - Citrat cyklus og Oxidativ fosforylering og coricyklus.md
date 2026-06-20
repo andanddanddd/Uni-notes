@@ -1,3 +1,5 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
 ![[Citratcyklus]]
+
+![[Oxidativ fosforylering]]

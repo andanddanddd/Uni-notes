@@ -2,4 +2,4 @@
 
 
 - Hvor er succinat dehydroxygenase?:: Mitrocondriets innermembran
-- [[Elektrintransportkæden]]
+- [[Respirationkæden]]
