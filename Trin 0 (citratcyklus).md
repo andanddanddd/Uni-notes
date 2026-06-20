@@ -11,3 +11,4 @@
 
 - Hvilket enzym katalysere trin 0?:: [[Pyrovat dehydroxygenase]]
 [[CoA]]
+[[Acetyl-CoA]]

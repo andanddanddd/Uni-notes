@@ -6,7 +6,7 @@
       {
         "id": "b1a8900c95e600bd",
         "type": "tabs",
-        "dimension": 52.982233502538065,
+        "dimension": 55.901015228426395,
         "children": [
           {
             "id": "ea53c0104ab59c1a",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "α-ketoglutaratdehydrogenase.md",
+                "file": "Citratcyklus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "α-ketoglutaratdehydrogenase"
+              "title": "Citratcyklus"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "c0b5464d61a8cf52",
         "type": "tabs",
-        "dimension": 47.01776649746193,
+        "dimension": 44.098984771573605,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -226,32 +226,32 @@
   },
   "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "Trin 4 (citratcyklus).md",
-    "α-ketoglutaratdehydrogenase.md",
+    "Trin 8 (citratcyklus).md",
     "Citratcyklus.md",
+    "Trin 7 (citratcyklus).md",
+    "Malat.md",
+    "Fumarat.md",
+    "Trin 6 (citratcyklus).md",
+    "Succinat dehydroxygenasen.md",
+    "Trin 5 (citratcyklus).md",
+    "Succinat.md",
+    "Succinyl-CoA.md",
+    "Trin 4 (citratcyklus).md",
+    "Trin 1 (citratcyklus).md",
+    "Trin 0 (citratcyklus).md",
+    "Acetyl-CoA.md",
+    "CoA.md",
+    "α-ketoglutaratdehydrogenase.md",
     "Trin 3 (citratcyklus).md",
     "alpha-keto-glutamat.md",
     "Isocitrat.md",
     "Isocitratdehydrogenasen.md",
     "Trin 2 (citratcyklus).md",
-    "Trin 1 (citratcyklus).md",
     "Citratsyntasen.md",
     "Citrat.md",
     "Oxoloacetat.md",
-    "Trin 0 (citratcyklus).md",
-    "CoA.md",
     "Pyrovat.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Glykolysen.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Forelæsning - Citrat cyklus og Oxidativ fosforylering og coricyklus.md",
-    "2. Caseuger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Afkastningsfasen af glykolyse.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Pyrovatkinasen.md",
-    "Glykogensyntese.md",
-    "Glykogenese.md",
-    "Glykokinasen.md",
-    "Glukagon.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Regulering af glykolyse.md",
-    "Fosfofruktokinase-1.md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
