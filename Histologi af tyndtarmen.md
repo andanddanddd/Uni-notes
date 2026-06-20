@@ -1,0 +1,49 @@
+#flashcards/2/Ernæring-Endokrinologi 
+
+- Hvad kaldes folderne i tyndtarmen?:: [[Plicae circulares]]
+- Hvilket epitel er i tyndtarmen?:: Enlaget cylinderepitel
+
+![[Tyndtarmens vili]]
+
+![[Lieberkunske krypter]]
+
+- Hvilke 6 celletyper består epitelen af?
+?
+- [[Enterocytter]]
+- [[Bægerceller]]
+- [[Enteroendokrine celler]]
+        - Hvad gør de enteroendokrine celler?→Producere hormoner
+        - Hvilke typer enteroendokrine celler har vi?
+            - Enterokromaafine (EC-celler)
+                - EC-celler producere {{91930705753278::sekretorisk peptid}} der {{7397561578354042::fremmer}} {{10349024696175291::peristaltik}}
+                - Hvor er de?→Hele tarmkanalen særlig i appendix
+            - D-celler
+                - D-celler producere {{7716712671702284::somatostatin}} der {{912509910593938::hæmmer}} {{04983626880208791::peristaltik}} og {{7256988808048415::sekretion}}
+                - Hvor er de?→Hele tarmkanelen
+            - S-celler
+                - S-celler producere {{6977880937109675::sekretin}} der får {{18715854149529254::pancreas}} til at udskille {{36200245640990647::bikarbonat}}
+                - S-celler aktiveres hvis {{6567121247807475::chymus}} er for {{6489600910759736::sur}} eller indeholder for mange {{773595458985012::peptider}}
+                - Hvor er de?→I den øvre del af tarmkanalen
+            - I-celler
+                - I-celler producere {{1324345475720543::CCK}}
+                - {{9356982512492145::CCK}} stimulere produktion af {{5688594155184241::fordøjelsesenzymer}} i pancreas, det forstærker også {{3903146491929128::sekretin}}
+                - {{8741713744851549::CCK}} får {{5739957541907288::ventrikklen}} og {{9308339596399919::galdeblæren}} til at {{987507199057237::tømme sig}}
+                - Hvor er de?→I den øverste del af tarmkanalen
+            - K-celler
+                - K-celler producere {{246981668959665::gastrisk inhiberende peptid (GIP)}} der {{13797114895423324::inhibere}} {{8870374230008407::motilitet }} af {{342479939317183::mavesækken}}
+                - Hvor er de?→I den øverste del af tyndtarmen
+            - L-celler
+                - L-celler producere {{17300695679579237::glukogen-like-peptide (GLP-1)}} som der {{18331985697830533::stimulere}} produktionen af {{27593507728870736::insulin}}
+                - Hvor findes L-celler?→Nederste del af tarmen
+            - N-celler
+                - N-celler producere {{8823427481688032::neurotensin}} som {{1334275479225293::hæmmer}} {{3689832941082186::motilitet}} i {{991290946883668::ordøjelseskanalen}}
+            - MO-celler
+                - MO-celler producere {{41608522008519::motilin}} som {{3352342022268614::fremmer}} {{38728533794968945::kontraktion}} af {{42556800342079515::tarmen}}
+    - Paneth-celler
+        - Hvor er paneth celler?→I bunden af de lieberküniske krypter
+        - I hvilken del ad tarmen er der særligt mange lieberküniske krypter?→Duodenum
+        - Paneth cellerne secenere {{014434842785886914::defensiner}} og {{38798093279481627::lysozom}}der holder indholdet i tyndtarmen {{5904049340300623::sterilt}}
+    - M-celler
+        - M-celler indeholde {{3475446219242513::lymfoid væv}}
+    - Stamceller
+        - Stamceller findes i {{0733431021478369::bunden}} af de {{45375066847084844::lieberkünske krypter}}

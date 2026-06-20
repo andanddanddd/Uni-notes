@@ -3,7 +3,9 @@
 - Hvad hedder tyndtarmen på latin?:: Intestinum tenue
 - Hvilke afgrænsninger har tyndtarmen?
 ?
-- Pylorius
+- [[pylorius]]
 - [[Valva illeocalcalis]]
 
-![[Anatomi af tynd]]
+![[Anatomi af tyndtarmen]]
+
+![[Histologi af tyndtarmen]]
