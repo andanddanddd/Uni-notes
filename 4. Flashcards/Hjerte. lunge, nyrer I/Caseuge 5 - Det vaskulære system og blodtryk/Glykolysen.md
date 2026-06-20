@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/2/Ernæring-Endokrinologi 
 [[Transport af glykose]]
 
 - Hvilke celler laver glukolyse?:: Alle
