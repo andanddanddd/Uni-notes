@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Citratcyklus.md",
+                "file": "α-ketoglutaratdehydrogenase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Citratcyklus"
+              "title": "α-ketoglutaratdehydrogenase"
             }
           }
         ]
@@ -226,8 +226,14 @@
   },
   "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "Trin 2 (citratcyklus).md",
+    "Trin 4 (citratcyklus).md",
+    "α-ketoglutaratdehydrogenase.md",
     "Citratcyklus.md",
+    "Trin 3 (citratcyklus).md",
+    "alpha-keto-glutamat.md",
+    "Isocitrat.md",
+    "Isocitratdehydrogenasen.md",
+    "Trin 2 (citratcyklus).md",
     "Trin 1 (citratcyklus).md",
     "Citratsyntasen.md",
     "Citrat.md",
@@ -246,12 +252,6 @@
     "Glukagon.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Regulering af glykolyse.md",
     "Fosfofruktokinase-1.md",
-    "Fruktose-2,6-bifosfat.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Hexokinasen.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Spaltningsfasen af glykolyse.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Invisteringsfasen af glykolyse.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Anaerob glykolyse.md",
-    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Aerob glykolyse.md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",

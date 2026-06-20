@@ -12,23 +12,11 @@
 ![[Trin 1 (citratcyklus)]]
 
 ![[Trin 2 (citratcyklus)]]
-    - Trin 2 sker i 2 steps først sker en {{21374123723744543::elimination}} af et {{8765206996689467::hydrogenatom}} på {{10418183703762995::citrat}} herefter {{21374123723744543::adderes}} {{8765206996689467::hydrogenatomet}} igen dog et andet sted
-    - Hvad sker overordnet i trin 2?:: Ændring af isomer
-    - Opskriv reaktionskema for trin 2:: $$\ce{Citrat<=>[][Aconitase]Isocitrat}$$
-    - Hvilket enzym katalysere trin 2?:: Aconitase
-    - Hvorfor flyttes hydroxygruppen fra C3 - C2?:: Fordi at hydroxygrupen går fra at være en tærtier til en sekundær alkohol dermed kan den oxideres
-- Trin 3
-    - Hvad sker overordnet i trin 3?:: Oxidativ decarboxylering
-    - Opskriv reaktionskema for trin 3:: $$\ce{Isocitrat->[NAD+ ->NADH][Isocitratdehydrogenasen]\alpha-ketoglutarat + CO2 }$$
-    - Hvilket enzym katalysere trin 3?―Isocitratdehydrogenasen
-    - {{13547277696507576::ATP}} hæmmer {{7822061266393945::isocitrartdehydrogenasen}}, {{4135976061506925::Calcium}} og {{7300342950778091::ADP}} fremmer den
-    - Hvordan ser isocitrat ud?:: ![](https://remnote-user-data.s3.amazonaws.com/EV-agB-AYG0zS-jlq-KL-0m4e5B4ltFmOGeEzA9cy75cyfkzhFtZZomUb6nM44-kn2IyhNpi3xfGbGva3PWSwxcpB3lxr8Ndasee3Uw3jz0PGqQ6OSNeELJpRe4HRqNH.png)
-    - Hvordan ser α-ketoglutamat ud?―![](https://remnote-user-data.s3.amazonaws.com/6smI_3Vh4rFEjhKvN9fblIFJrLf-OZo3fGU11SHT6EH0NnPl39uCnpsQ41emT3eh0hSRnj_LF4MsoCxdmlC7L8nLRI_FKN5Daytn-OHKRvx4bwxcOWklABOAhS6oCb7Q.png)
-- Trin 4
-    - Hvad sker overordnet i trin 4?:: Oxidativ decarboxylering
-    - Opskriv reaktionsskema for trin 4:: $$\ce{\alpha-ketoglutamat +CoA-SH->[NAD+ ->NADH][{\alpha}-ketogluteratdehydrogenasen]Succinyl-CoA+CO2}$$
-    - Hvilket enzym katalysere trin 4?:: α-ketoglutaratdehydrogenase
-    - {{12211322630452737::Succinyl-CoA}} og {{6295184255601124::NADH}}hæmmer {{9007908432677509::α-ketoglucerat-dehydrogenasen}}, {{5178808284925176::Calcium}} fremmer den
+
+![[Trin 3 (citratcyklus)]]
+
+![[Trin 4 (citratcyklus)]]
+
 - Trin 5
     - Hvad sker overordnet i trin 5?:: Energien fra CoA bruges til at omdanne ADP til ATP
     - Opskriv reaktionskema for trin 5:: $$\ce{Succinyl-CoA + H2O->[ADP->ATP][Succinyl-CoA syntase]CoA-SH + Succinat}$$
