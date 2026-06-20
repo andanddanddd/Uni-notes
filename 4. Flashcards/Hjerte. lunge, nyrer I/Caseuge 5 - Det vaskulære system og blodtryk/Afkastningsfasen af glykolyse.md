@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/2/Ernæring-Endokrinologi 
 
 - Hvor mange reaktioner sker i afkastningsfasen af glykolysen?:: 5
 ##### Trin 6
@@ -6,20 +6,25 @@
 - Opskriv reaktionskema for trin 6 af glykolysen:: $$\ce{glyceraldehyd-3-fosfat->[HPO4^2-][NAD+->NADH +H+]1,3-bifosfoglycerat}$$
 - Hvor energirig er den nydannede binding dannet i trin 6 af glykolysen?:: Høj
 - Er trin 6 af glykolysen reversibelt?:: Ja men i praksis går den kun 1 vej
+- Hvilket enzym katalysere trin 6?:: [[Glyceraldehyd-3-fosfatdehydrogenase]]
 ##### Trin 7
 - Hvad sker i trin 7 af glykolysen?:: Dannelse af ATP ved kløvning af bindingen fra trin 6
 - Opskriv reaktionskema for trin 7 af glykolysen:: $$\ce{1,3bisfosfoglycerat->[ADP->ATP]3-fosfoglycerat}$$
 - Er trin 7 af glykolysen reversibelt?:: ja men i praksis går den kun 1 vej
+- Hvilket enzym katalysere trin 7?:: [[Fosfoglyceratkinase]]
 ###### Trin 8
 - Hvad sker i trin 8 af glykolysen?:: Fosfatgruppen flyttes
 - Hvorfor er trin 8 af glykolysen nødvendigt?:: Fordi fosfatgruppen er en esterbinding hvilket ikke er særlig energirigt
 - Er trin 8 af glykolysen reversibelt?:: Ja
 - Opskriv reaktionskema for trin 8 af glykolysen:: $$\ce{3-fosfoglycerat<=>2-fosfoglycerat}$$
+- Hvilket enzym katalysere trin 8?:: [[Fosfoglyceratmutase]]
 ###### Trin 9
 - Hvad sker i trin 9 af glykolysen?:: Klargøring til dannelse af ATP at danne en doppeltbinding
 - Er trin 9 af glykolysen reversibel?:: Nej
 - Opskriv reaktionsskema for trin 9:: $$\ce{2-fosfoglycerat->Fosfoenolpyrovat +H2O}$$
+- Hvilket enzym katalysere trin 9?:: [[Enolase]]
 ###### Trin 10
 - Hvad sker i trin 10 af glykolysen?:: Dannelse af ATP
 - Er trin 10 reversibel af glykolysen?:: Nej
 - Opskriv reaktionskema for trin 10 af glykolysen:: $$\ce{fosfoenolpyrovat->[ADP->ATP]Pyrovat}$$
+- Hvilket enzym katalysere trin 10?:: [[Pyrovat kinase]]

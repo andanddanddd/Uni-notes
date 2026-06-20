@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/2/Ernæring-Endokrinologi 
 
 - Flere af glykolysens muliggøres af enzymer et fravær af enzymer sikre altså at ingen reaktions sker
 - Hvilket enzym katalysere det kommittende step i glykolysen?:: Fosfofruktokinase 1 (PFK-1)
