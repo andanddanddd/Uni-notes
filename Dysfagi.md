@@ -3,7 +3,7 @@
 - Er dysfagi et symptom eller sygdom?:: Det kan ses som begge dele
 - Hvordan inddeles dysfagi?
 ?
-- [[Oropharyngeal dysfagi]]
+- [[Oropharyngeal dysfagi JEG ER KOMMET HERTIL]]
 
         - Esophegeal dysfagi
             - Hvordan beskriver patienter esofegeal dysfagi?:: Maden siden gast
