@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oropharyngeal dysfagi JEG ER KOMMET HERTIL.md",
+                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Fysiologi fordøjelsessystemet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oropharyngeal dysfagi JEG ER KOMMET HERTIL"
+              "title": "Fysiologi fordøjelsessystemet"
             }
           }
         ]
@@ -220,17 +220,24 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "Oropharyngeal dysfagi JEG ER KOMMET HERTIL.md",
+    "Muskelbevægelser i fordøjelsessystemet.md",
+    "Segmenteringsbevægelser.md",
+    "Peristaltik.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Fysiologi fordøjelsessystemet.md",
+    "2. Caseuger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem.md",
     "Dysfagi.md",
+    "Esophegeal dysfagi.md",
+    "Oropharyngeal dysfagi.md",
+    "Diverticulum.md",
     "Slugning.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Tænderne.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Forelæsning - Dysfagi, mavesår og farmakologisk behandling af syrerelaterede sygdomme.md",
-    "2. Caseuger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem.md",
     "Mavesyre.md",
     "Produktion af mavesyre.md",
     "Ulcers.md",
@@ -245,12 +252,6 @@
     "Syrepumpehæmmer.md",
     "Helicobacter pylori.md",
     "Reflux.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/A. gastrica sin-dxt.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Histologi af mavesækken.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Pyloriuskirtler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Mavesækken.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Forelæsning - Mavesæk.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Stamceller (corpus-funus-kirtler).md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
