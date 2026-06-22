@@ -1,4 +1,4 @@
-#flashcards/Molekulær-biologi  #flashcards/3/Immunologi
+#flashcards/Molekulær-biologi #flashcards/2/Ernæring-Endokrinologi  #flashcards/3/Immunologi
 
 - Hvad har antistoffer høj affinitet til?:: Antigener
 <!--SR:!2026-06-06,4,270-->
@@ -9,3 +9,7 @@
 - Aktivering af komlementet
 - Aggultination
 <!--SR:!2026-06-06,4,270-->
+
+- Hvor produceres imunoglobuliner?:: Knoglemarv og lyfevæv
+- Hvad er specielt ved imunoglobiner når det testes med elektroforase?:: De bevæger sig mod den negative ende
+- Hvad kaldes immunoglobiner også?:: γ
