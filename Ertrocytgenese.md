@@ -11,3 +11,5 @@
 
 - I hvilken del af udviklingen til [[Erytrocytter]] ser man først hemoglobin?:: [[Polychromatofil erocytoblast]]
 - Hvad er forskellen på en [[Erytrocytter]] og en retikulocyt?:: Retikulocytten har stadig mitrocondriere og golgi apparat
+
+![[Regulering af erytrogenese]]

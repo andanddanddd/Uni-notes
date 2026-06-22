@@ -14,7 +14,3 @@
 ![[ Ertrocytgenese]]
 
 	
-- Regulering
-	- Generalt vil kroppen producere mere {{47742092162021743::erothropoitin}} hvis kroppen mangler {{6662662005519375::ilt}}
-	- Hvad sker med erothropoitinproduktionen ved hjertesvigt og lungesygdom?:: Den stiger
-	- Hvad sker emd erothropoitinproduktionen ved høje højder?:: Den stiger

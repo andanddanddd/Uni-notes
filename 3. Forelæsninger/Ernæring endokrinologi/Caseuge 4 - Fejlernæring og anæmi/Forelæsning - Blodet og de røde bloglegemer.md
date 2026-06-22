@@ -5,3 +5,9 @@
 ![[Plasma]]
 
 ![[Erytrocytter]]
+
+
+![[Thrombocytter]]
+
+
+![[Jern]]
