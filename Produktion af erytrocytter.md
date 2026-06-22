@@ -11,18 +11,8 @@
 
 ![[Hematopoetisk cytokin]]
 
-- Genese
-	- Hvad hedder cellerne der udvikles til en erotocut fra den første celle der ikke kan blive til andet?
-		- Proerocytoblast
-		- Basofil erocytoblast
-		- Polychromatofil erocytoblast
-		- Ortochromatic erocytoblas
-			- Når den {{30407917769597126::polychromatofile erocytoblast}} omdanne stil en ortochromatisk erocytoblast {{737014204446431::skrumper}} {{588357512796992::kernen}}
-		- Reticulocyte
-			- Når en {{830199367735271:: ortochromatisk erocytoblast}} bliver omdannet til en reticulocyte {{13626407944364338::absorberes}} eller {{13626407944364338::extruderet}} {{16663706985430315::kernen}} samt {{16663706985430315::ER}}
-		- Erotocyt
-	- I hvilken del af udviklingen til erotocytter ser man først hemoglobin?:: Polychromatil erocytoblast
-	- Hvad er forskellen på en erotocyt og en retikulocyt?:: Retikulocytten har stadig mitrocondriere og golgi apparat
+![[ Ertrocytgenese]]
+
 	
 - Regulering
 	- Generalt vil kroppen producere mere {{47742092162021743::erothropoitin}} hvis kroppen mangler {{6662662005519375::ilt}}
