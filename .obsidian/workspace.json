@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trin 1 (glukoneogenese, pyrovat til glukose).md",
+                "file": "Glycerol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trin 1 (glukoneogenese, pyrovat til glukose)"
+              "title": "Glycerol"
             }
           }
         ]
@@ -224,12 +224,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "Trin 1 (glukoneogenese, pyrovat til glukose).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Pyrovat.md",
-    "Pyrovat til glukose.md",
     "Glukoneogenese.md",
+    "Glycerol.md",
+    "Pyrovat til glukose.md",
+    "Trin 1 (glukoneogenese, pyrovat til glukose).md",
+    "PEPCK (phosphoenolpyruvat carboxykinase).md",
+    "Trin 3 (glukoneogenese, pyrovat til glukose).md",
+    "Trin 2 (glukoneogenese, pyrovat til glukose).md",
+    "Fruktose-1,6-bisfosfatase.md",
+    "Pyrovatcarboxylase.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Pyrovat.md",
     "Laktat.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
     "2. Caseuger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen.md",
@@ -246,12 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Acetyl-CoA syntese i cytosol.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Regulering af fedtsyresyntesen.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Acetyl-CoA-carboxylasen.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Fase 1 (syntese af fedtsyrer).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 6 af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 5 af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 4 af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 3 af fase 2 (syntese af fedtsyre).md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
