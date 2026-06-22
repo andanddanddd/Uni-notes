@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glykogenfosforylasen.md",
+                "file": "Regulering af glukogenolyse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glykogenfosforylasen"
+              "title": "Regulering af glukogenolyse"
             }
           }
         ]
@@ -226,8 +226,10 @@
   },
   "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "Glukogenolyse.md",
     "Glykogenfosforylasen.md",
+    "Regulering af glukogenolyse.md",
+    "Glukogenolyse.md",
+    "Afgreningsenzymet.md",
     "Glukose-1-fosfat.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Hormonel kontrol med blodsukkeret.md",
@@ -250,8 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Fedtsyresyntasen.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxaloacetat.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Ceacum.md",
-    "2. Caseuger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Primære sundhedsvæsen.md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",

@@ -1,4 +1,10 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
-- Glykogenfosforylasen klipper {{9349029708879542::α-1,4}} bindinger væk fra {{5158396099406191::forgreninger}} man ender altså med {{8853167179759067::glukose-1-fosfat}}
-- Hvilke bindinger glokker glykogenfosforylasen?:: $\alpha$-1,
+
+- Hvilke bindinger klipper glykogenfosforylasen?:: $\alpha$-1,4 bindinger
+- Hvilken monoskkarid laves når glykogenfosforylasen klipper [[Glykogen]] i stykker?:: [[Glukose-1-fosfat]]
+- I hvilket væv kan glukose hæmme glykogenfosforylasen?:: [[Leveren]]
+- Hvilken effekt har [[Glukose-6-fosfat]] på glykogenfosforylasen?:: Hæmmer den allosterisk
+- Hvilken effekt har ATP på glykogenfosforylasen?:: Hæmmer den allosetrisk
+- Hvilken effekt har fosforylering på glykogenfosforylasen?:: Fremmer den
+- Hvilken effekt har AMP på glykogenfosforylasen, og i hvilket væv ses en effekt?:: Fremmer den i musklerne
