@@ -6,7 +6,7 @@
       {
         "id": "b1a8900c95e600bd",
         "type": "tabs",
-        "dimension": 55.901015228426395,
+        "dimension": 51.724137931034484,
         "children": [
           {
             "id": "ea53c0104ab59c1a",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Forelæsning - Det nedre fordøjelsessystem, motilitet og farma.md",
+                "file": "Colon transversum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Det nedre fordøjelsessystem, motilitet og farma"
+              "title": "Colon transversum"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "c0b5464d61a8cf52",
         "type": "tabs",
-        "dimension": 44.098984771573605,
+        "dimension": 48.275862068965516,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -220,11 +220,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
+    "Colon.md",
+    "Colon transversum.md",
+    "Colon ascendens.md",
+    "Tyktarmen.md",
+    "Ceacum.md",
+    "Histologi af tyktarmen.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Forelæsning - Det nedre fordøjelsessystem, motilitet og farma.md",
     "2. Caseuger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Tyndtarmen.md",
@@ -245,12 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Motilin.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/N-celler.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Neurotensin.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/L-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Glukogen-like-peptide (GLP1).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/K-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Gastrisk inhibere peptid (GIP).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/I-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/CCK.md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
