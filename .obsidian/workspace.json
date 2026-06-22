@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colon transversum.md",
+                "file": "Acetyl-CoA syntese i cytosol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colon transversum"
+              "title": "Acetyl-CoA syntese i cytosol"
             }
           }
         ]
@@ -224,14 +224,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Colon.md",
-    "Colon transversum.md",
-    "Colon ascendens.md",
-    "Tyktarmen.md",
-    "Ceacum.md",
-    "Histologi af tyktarmen.md",
+    "Acetyl-CoA syntese i cytosol.md",
+    "Syntese af fedtsyrer.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Syntese af fedtsyrer og triglycerider.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Ceacum.md",
+    "2. Caseuger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Hormonel kontrol med blodsukkeret.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Sundhedsvæsenets rolle i behandling af kronisk sygdom.md",
+    "Primære sundhedsvæsen.md",
+    "Sekundære sundhedsvæsen.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Tyktarmen.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Rectum.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Colon.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Colon transversum.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Colon ascendens.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Histologi af tyktarmen.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Forelæsning - Det nedre fordøjelsessystem, motilitet og farma.md",
     "2. Caseuger/Ernæring endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Tyndtarmen.md",
@@ -242,16 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/aa. jejunales.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Duodenum.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Duodenums kar-og nerveforsyning.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Histologi af tyndtarmen.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Stamceller (tyndtarmen).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/M-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Paneth-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Lieberkunske krypter.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Enteroendokrine celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/MO-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Motilin.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/N-celler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Neurotensin.md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",

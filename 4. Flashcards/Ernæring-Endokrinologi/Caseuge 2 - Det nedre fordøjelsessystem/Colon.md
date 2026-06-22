@@ -7,6 +7,5 @@
 ?
 - [[Colon ascendens]]
 - [[Colon transversum]]
-
-	- Colon descendens
-	- Colon sigmoideum
+- [[Colon descendens]]
+- [[Colon sigmoideum]]
