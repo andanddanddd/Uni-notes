@@ -5,4 +5,4 @@
 - Hvilket enzym katalysere trin 8?:: Malatdehydrogenase
 
 [[Malat]]
-[[Oxoloacetat]]
+[[Oxaloacetat]]

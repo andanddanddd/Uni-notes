@@ -5,9 +5,8 @@
 
 ![[Acetyl-CoA syntese i cytosol]]
 
-- Fase 1
-    - Hvad sker overordnet i fase 1?:: Acetyl-CoA aktiveres til malonyl-CoA
-    - Hvilket enzym katalysere omdannelsen af acetyl-CoA til malonyl-CoA?:: Acetyl-CoA-carboxylasen
+![[Fase 1 (syntese af fedtsyrer)]]
+
     
 - Fase 2
     - Hvad sker overordnet i fase 2?:: Malonyl-CoA bruges til syntese af palmitat
