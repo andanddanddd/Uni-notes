@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regulering af glukogenolyse.md",
+                "file": "Trin 1 (glukoneogenese, pyrovat til glukose).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regulering af glukogenolyse"
+              "title": "Trin 1 (glukoneogenese, pyrovat til glukose)"
             }
           }
         ]
@@ -220,17 +220,24 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Trin 1 (glukoneogenese, pyrovat til glukose).md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Pyrovat.md",
+    "Pyrovat til glukose.md",
+    "Glukoneogenese.md",
+    "Laktat.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
+    "2. Caseuger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen.md",
     "Regulering af glukogenolyse.md",
     "Glykogenfosforylasen.md",
     "Glukogenolyse.md",
     "Afgreningsenzymet.md",
     "Glukose-1-fosfat.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Hormonel kontrol med blodsukkeret.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Sundhedsvæsenets rolle i behandling af kronisk sygdom.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Syntese af fedtsyrer og triglycerider.md",
@@ -245,12 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 5 af fase 2 (syntese af fedtsyre).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 4 af fase 2 (syntese af fedtsyre).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 3 af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 2 af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Trin 1 af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Indledning af fase 2 (syntese af fedtsyre).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Fedtsyresyntasen.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxaloacetat.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Ceacum.md",
     "A. gastrica sin",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer",
