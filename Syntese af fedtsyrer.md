@@ -7,30 +7,9 @@
 
 ![[Fase 1 (syntese af fedtsyrer)]]
 
-    
-- Fase 2
-    - Hvad sker overordnet i fase 2?:: Malonyl-CoA bruges til syntese af palmitat
-    - Hvilket enzym bruges til syntese af fedtsyre?:: Fedtsyresyntasen
-        - Hvad hedder fedtsyresyntasens 2 domærner?
-            - KS-domænet
-            - ACP-domænet
-    - Indledning
-        - Hvad sker i indledningen?:: Acetyl-CoA binder sig til KS-domænet på fedtsyresyntasen ved frapaltning af CoA
-        - Indledningen sker {{3622732557505084::1}} gang pr {{5449417414859383::fedtsyresyntese}}
-    - Trin 1
-        - Hvad sker i trin 1?:: Malonyl bindes til ACP-domænet på fedtsyresyntasen
-    - Trin 2
-        - Hvad sker i trin 2?:: Kondensering af molekylet på på KS-domæen og malonyl![](https://remnote-user-data.s3.amazonaws.com/CPJBp_ansCgmCdQQdfxZjb1lp5ER22VyoANAjMpVR1Ek-Up7xIm6cPIRN9KjqDHeuBFjPkvFvna9yPrZ4w28xJ3xAQxxmBC29miu39knVLQyXPgyObkybZ609oly1gwD.png)
-        - Hvor kommer energien til kondenseringen fra?:: Malonyls carbonylgruppe
-    - Trin 3
-        - Hvad sker i trin 3?:: 3-ketocatylen reduceres til en sekudær alkohol![](https://remnote-user-data.s3.amazonaws.com/wX1eqM52ODswlmA-hKDGrfiFO59-ylVWNCp2WIQzw8JR1T2JXxHrmP6aXfX9b1tkwhchOh21AIXSrMfDZ9hsgZwynvbJI7uH7E8Nq1sDFPA3HXIlDoULjeIN84_44mSu.png)
-    - Trin 4
-        - Hvad sker i trin 4?:: Vand fraspaltes![](https://remnote-user-data.s3.amazonaws.com/fSxYa-YAySaHHuy0lOcHSTq4nn1Ki9zR2KkxUVNm1ax3i60bZunsi5ZflhGlx8MRO83-nvbIbn8bSniyLrBk0iUSAJfDcCqmcxoCC21inp_7xxPg6PaXxZWIeYOA46TZ.png)
-    - Trin 5
-        - Hvad sker i trin 5?:: Reduktion af doppeltbinding![](https://remnote-user-data.s3.amazonaws.com/jUUp7PsOJfQ97fMQ_coAYAeWqxdLsI4qtkx8kGp2im0xXm_ojt3sSe0M23bOi65m8n_UBe9ojU2PMomNEJckE8L0gM8x2T-Y4cKpI2ZybwG2LlL0dE4jks_mD2wzjhqe.png)
-    - Trin 6
-        - Hvad sker i trin 6?:: Fedtsyren flyttes til KS-domænet![](https://remnote-user-data.s3.amazonaws.com/c2mRMZQWBdyU8iP-EfmzPck6neyLCc4BcRImPe-YZZm6GMfjBBpRPRTvvn70NjrJ7pls42F-hn4k0DpFcnhcGWD_wtRaeJvbS_CDe4bbK2jOzqdFyvnJccO5620HfTF8.png)
-- Regulering
+![[Fase 2 (syntese af fedtsyre)]]
+
+![[Regulering
     - Hvilket trin reguleres på?:: Omdannelse af acetyl-CoA til malonyl-CoA
     - Allosterisk
         - Hvad fremmer acetyl-CoA-carboxylasen alloserisk?―Citrat
