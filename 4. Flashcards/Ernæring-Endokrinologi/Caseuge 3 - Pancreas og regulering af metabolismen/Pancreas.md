@@ -1,7 +1,5 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
-- Hvor meget udskilles dagligt til [[Duodenum]]?:: 0,5-1 L
-
 ![[Anatomi af pancreas]]
 
 ![[Pancreas kar og norveforsyning]]
@@ -16,3 +14,7 @@
 ?
 - [[Ductus pancreaticus]]
 - [[Ductus pancreaticus accessorius]]
+
+![[Den exokrine pancreas]]
+
+![[Den endokrine pancreas]]
