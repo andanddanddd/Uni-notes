@@ -3,47 +3,20 @@
 - Hvad betyder "de novo"?:: Fra ny, dvs kroppen syntetisere kolestorol udover at tage det fra kosten
 - Hvor i cellen foregår kolesterolsyntese?:: Cytosol
 - Hvilke celler kan syntetisere kolesterol?:: Alle med kerner men det foregår mest i leveren
-- Hvad bruges som byggesten til opbygningen af kolesterol?:: Acetyl-CoA
+- Hvad bruges som byggesten til opbygningen af kolesterol?:: [[Acetyl-CoA]]
 - Hvor meget syntetiseres dagligt?:: 0,5-1g
 
-- Fase 1
-    - Hvad dannes i fase 1?:: Mevaloat
-    - Hvor mange C-atomer er i mevaloat?:: 6
-    - Fase 1 ligner starten af dannelse af {{452654194060955::ketonstoffer}}
-    - Hvad hedder molekylet der omdannes til mevaloat?:: 3-hydroxy-3-methylglutaryl-CoA (HMG-CoA)
-    - Hvor mange gange sker fase 1?:: 6
-    - Hvilken enzym katalysere dannelsen af mevaloat?:: HMG-CoA-reduktasen
-- Fase 2
-    - Hvad sker overordnet i fase 2?:: Kopling af 2 fosfatgrupper samt en decarboxylering
-    - Hvad koster fase 2 (pr mevaloatmolekyle)?:: 3 ATP
-    - Opskriv reaktionskema for fase 2:: $$\ce{Mevaloat ->[3 ATP -> 3ADP +P_i]Isopentenylpyrofofat + CO2}$$
-    - Hvilke 2 produkter er i ligevægt i fase 2?:: Isopentenylpyrofosfat og dimethylallylpyrofosfat
-    - Hvad kaldes produkterne overordnet i fase 2?:: Isoprener
-    - Hvor mange C-atomer i i produkterne i fase 2?:: 5
-    - Hvor mange gange sker fase 2?―6
-- Fase 3
-    - Hvad sker overordnet i fase 3?―Kondensering af isoprener
-    - Hvor mange isoprener bruges i fase 3?:: 3
-    - Hvad er produktet af fase 3?:: Farnesylpyrofosfat
-- Fase 4
-    - Hvor mange farnesylpyrofosfatmolekyler bruges i fase 4?:: 2
-    - Hvad er produktet af trin 4?―Squalen
-    - {{0788418730715601::Squalen}} er ikke {{7422540818746721::vandopløselig}} og sidder derfor sammen med et {{28558354412168785::protein}}
-- Fase 5
-    - Hvad sker overordnet i fase 5?:: Addering af oxygen samt cyklisering
-    - Hvad er produktet af fase 5?―Lanosterol
-- Fase 6
-    - Hvor mange trin sker i fase 6?:: 20
-    - Hvad sker overordnet i fase 6?―Dannelse af doppeltbining samt decarboxylering
-    - Hvad er produktet af fase 6?:: Koletrerol
-- Regulering
-    - Hvilken fase regules på?:: Fase 1 dannelsen af mevaloat
-    - {{3879645096225983::HMG-CoA-redutase}} har en levetid på {{1496335806842033::4 timer}} derfor er det effektivt at regulere på hastigheden af syntesen og nedbrydning af enzymet
-    - Generalt reguleres {{490459092943607::festsyresyntesen}} og {{490459092943607::koletrerolsyntesen}} af samme stimuli
-    - {{8026396402491971::Fosforylering}} {{8450550413346636::hæmmer}} {{401265261247733::HMG}}{{401265261247733::-CoA-reduktase}} dette sker blandt andet hvsid er er for meget {{07475989950367268::AMP}} i cellen
-    - Hvilke hormoner hæmmer HMG-CoA-reduktasen?
-        - Glukagon
-        - Kortisol
-    - Hvilke hormoner kan fremme HMG-CoA-reduktasen?
-        - Insulin
-        - Thyroideahormon
+![[Fase 1 (Kolesterolsyntese)]]
+
+![[Fase 2 (Kolesterolsyntese)]]
+
+
+![[Fase 3 (Kolesterolsyntese)]]
+
+![[Fase 4 (Kolesterolsyntese)]]
+
+![[Fase 5 (Kolesterolsyntese)]]
+
+![[Fase 6 (Kolesterolsyntese)]]
+
+![[Regulering af kolesterolsyntesen]]
