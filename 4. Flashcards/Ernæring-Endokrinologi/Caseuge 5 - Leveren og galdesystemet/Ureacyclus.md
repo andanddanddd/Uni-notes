@@ -20,14 +20,7 @@
 ![[Trin 2 (Ureacyklus)]]
 
 ![[Trin 3 (Ureacyklus)]]
-    - Hvad ker overordnet i trin 3?:: En spaltning
-    - Hvor sker trin 3?:: Cytosol
-    - Opskriv reaktionskema for trin 3:: $$\ce{argininosuccinat->[][arginosuccinatlyase]fumerat + arginin}$$
-    - Hvilket enzym katalysere trin 3:: Arginosuccinatlyase
+
 ![[Trin 4 (Ureacyklus)]]
-    - Hvad sker overordnet i trin 4?:: Spaltning med hydrolyse
-    - Hvor sker trin 4?:: Cytosol
-    - Opskriv reaktionskema for trin 4:: $$\ce{arginin + H2O->[][arginase]Urea +Ornitin}$$
-    - Hvilket enzym katalysere trin 4?:: Arginase
+
 ![[Regulering af ureacyklus]]
-    - Hvilket trin er det regulered i ureacyclus?:: Syntese af carbomyalfosfat

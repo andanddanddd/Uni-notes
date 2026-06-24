@@ -4,3 +4,6 @@
 - Hvor sker trin 2?:: Cytosol
 - Opskriv reaktionskema for trin 2:: $$\ce{citrullin + aspartat ->[ATP->AMP +PPi][arginosuccinatsyntase]arginosuccinat}$$
 - Hvilket enzym katalysere trin 2?:: [[Arginosuccinatsyntase]]
+[[Citrulin]]
+[[Aspartat]]
+[[Arginosuccinat]]

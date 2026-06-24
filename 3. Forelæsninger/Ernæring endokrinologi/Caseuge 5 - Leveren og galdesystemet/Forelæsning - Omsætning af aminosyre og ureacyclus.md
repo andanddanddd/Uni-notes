@@ -3,3 +3,5 @@
 ![[Omsætning af aminosyrer]]
 
 ![[Ureacyclus]]
+
+![[Metabolsime af aminosyrer carbonskelet]]
