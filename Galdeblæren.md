@@ -4,3 +4,7 @@
 - Hvad hedder galdeblæren på latin?:: Vesica biliaris
 
 ![[Anatomi af gladeblæren]]
+
+![[Histologi af galdeblæren]]
+
+![[Ductus cysticus]]
