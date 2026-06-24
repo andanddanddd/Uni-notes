@@ -4,5 +4,5 @@
 - Hvorfor sker makrocytær anæmi overordnet?:: Dårlig DNA syntese
 - Hvad er årsager til makrocytær anæmi?
 ?
-- B12 mangel
-- Folsyremangel
+- B12 mangel [[B12-vitamin]]
+- Folsyremangel [[Folsyre]]
