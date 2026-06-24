@@ -12,4 +12,4 @@
 - Pars pancreaticus
 - Pars intramuralis
 
-- Hvad hedder det stykke af ductus choledochus som er fusioneret med [[Ductus pancreaticus]]?:: Ampulla hepatopancreatica
+	- Hvad hedder det stykke af ductus choledochus som er fusioneret med [[Ductus pancreaticus]]?:: Ampulla hepatopancreatica
