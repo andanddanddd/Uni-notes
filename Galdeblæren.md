@@ -8,3 +8,8 @@
 ![[Histologi af galdeblæren]]
 
 ![[Ductus cysticus]]
+
+![[Ductus hepaticus communis]]
+
+![[Ductus choleductus]]
+
