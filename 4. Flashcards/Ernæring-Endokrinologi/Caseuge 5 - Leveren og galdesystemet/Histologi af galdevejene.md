@@ -7,5 +7,4 @@
 - Hvad bliver hering kanaler til?:: Terminale ductuli
 - Hvad bliver terminale ductuli til?:: Interlobulære intrahepatiske galdegange
 - Hvilken type epitel er i terminale ductuli?:: Lavt kubisk epitel
-- Hvad sker md 
-- Jo længere hen i galdekanalen man kommer jo {{3033518107278472::højere}} bliver {{25174226961531665::epitelen}}
+- Hvad sker med epitelhøjden i løbet af galdevejene?:: Den stiger

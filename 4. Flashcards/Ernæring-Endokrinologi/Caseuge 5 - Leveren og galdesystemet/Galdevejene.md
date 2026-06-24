@@ -1,11 +1,8 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
+![[Galdeblæren]]
 
-- Hvad hedder galdeblæren på latin?:: Vesica biliaris
-
-![[Anatomi af gladeblæren]]
-
-![[Histologi af galdeblæren]]
+![[Histologi af galdevejene]]
 
 ![[Ductus cysticus]]
 

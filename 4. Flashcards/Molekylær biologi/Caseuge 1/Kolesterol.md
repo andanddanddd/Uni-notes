@@ -1,3 +1,7 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/2/Ernæring-Endokrinologi 
 
-Hvordan er kolestorol opbygget?:: Hydrofil gruppe + stereoidkerne(en masse ringe) og en hale
+- Hvor meget kolestrerol fås med kosten dagligt?:: 0,5 g
+
+![[Opbygning af kolesterol]]
+
+![[Syntese af kolesterol]]
