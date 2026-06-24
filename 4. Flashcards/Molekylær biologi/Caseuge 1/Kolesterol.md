@@ -5,3 +5,5 @@
 ![[Opbygning af kolesterol]]
 
 ![[Syntese af kolesterol]]
+
+![[Hyperkolesterolæmi]]

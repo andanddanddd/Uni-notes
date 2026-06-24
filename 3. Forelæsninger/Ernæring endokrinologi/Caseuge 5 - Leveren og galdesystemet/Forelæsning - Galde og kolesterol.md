@@ -1,3 +1,6 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
-![[Kolesterol]]
+[[Kolesterol]]
+![[Galdesalte]]
+
+![[Galdesten]]
