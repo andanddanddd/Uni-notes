@@ -1,4 +1,3 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
-[[Leveren]]
-[[Galdevejene]]
+![[Galdeblæren]]

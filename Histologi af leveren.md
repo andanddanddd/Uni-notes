@@ -1,32 +1,15 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
 - Hvad kaldes leverceller?:: [[Hepatocytter]]
-- Hvad kaldes bindevæv
-- Bindevævsstroma
-    - Leveren er beklædt med {{21684963808967517::bindevæv}} kaldet {{6632664570698086::glissons kapsel}}
-    - Bindevævet omkring leveren er {{5842472628821869::tykt}} ved {{31435425034339604::blokarenes ind- og udgang}}, bindevævet fortsætter langs {{31435425034339604::blokarene}} og danner omkransningerne på {{1716872250860344::leverlobuli}}
-    - Ved hvilke leverlobuli er der mest bindevæv?:: Dem nær porta hepatica
-- Leverlobuli
-    - Hvad er diameteren af en leverlobuli?:: 1 mm
-    - Hvor lang er en leverlobuli?:: 2 mm
-    - Hvilken form har leverlobuli?:: Sekskantet
-    - Hvad er glissons triade?:: Samlingen af en portal vene, en galdegang og en leverarterie, altså hjørneren af leverlubuli
-    - Hvad kaldes venen i midten af leverlobuli?:: Centralvenen
-    - Hvad hedder blokarene mellem centralvenen og glissons triader?:: Sinusoider
-    - Hvad er disses rum?:: Det lille rum dannet medllem en hepatocyt og en endotelcelle
-    - Hvad klades disses rum også?:: perisinusoidale rum
-    - Hvad er en muralium?:: Plader af hepatocytter
-    - Hvordan er forløbet af blokar i leverlobuli?:: De starter på lanten (mellem leverlobuli) og bevæger sig så ind
-- Leveracinum
-    - Hvilken form har en leveracinus?:: Rombeformet
-    - Jo tættere på {{4416914491481574::centralvenen}} man kommer jo mere {{21994453303195627::iltfattigt}} bliver blodet
-- Kupfer celler
-    - Hvad er inde i kupferceller?:: Residente makrofager
-    - Hvad gør kupferceller?:: Nedbryder erytrocytter, blodbårene bakterier og vira
-    - Hvor er kupfer celler?:: I sinussoidlumen
-- Sinussoider
-    - Hvad er forskellen på sinusoider og kapilærer?:: Sinussoider er mere regelmæssige
-    - Sinussoider har {{5015907584356489::ingen}} {{440397669887584::basallamina}} de hvilkre i stedet på {{6410077834778312::mikrovili}} på {{6262126239064285::hepatocytter}}
-- Ito-celler
-    - Hvor er ito-celler?:: Disses rum
-    - Hvad gær ito celler?:: Opbevarer lipid og producere kollagen
+- Hvad kaldes bindevævet om leveren?:: [[Glissons kapsel]]
+- Ved hvilke leverlobuli er der mest bindevæv?:: Dem nær [[Porta hepatis]]
+
+![[Leverlobuli]]
+
+![[Leveracinum]]
+
+![[Kupfer celler]]
+
+![[Sinussoider (leveren)]]
+
+![[Ito-celler]]
