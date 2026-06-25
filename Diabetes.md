@@ -9,3 +9,5 @@
 ![[Type 2-diabetes]]
 
 ![[MODY]]
+
+![[Metabolsk syndrom]]
