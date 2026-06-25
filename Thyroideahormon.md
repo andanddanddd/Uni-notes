@@ -6,8 +6,7 @@
 - Hvad gør thyroidhormonerne overordnet?:: Øger metabolske processer
 - Hvilket thyroideahormon er mest potent?:: T3
 - Hvilket thyroideahormon har den korteste halveringstid?:: T3
-- Hormonakse
-    - Hvilket hormon stimulere produktionen af thyroideahormoner?:: TSH (Thyroideastimulerende hormon)
-    - Hvilken type hormon er TSH?:: Peptidhormon
-    - Hvilket hormon stimulere produktionen af TSH?:: TRH (thyrotropin-releasing hormone)
-    - Hvilken kerne danner TRH?:: Paraventriculære nucleus (PVN)
+
+![[ Thyroidea hormonakse]]
+
+![[Syntese af thyroideahormon]]

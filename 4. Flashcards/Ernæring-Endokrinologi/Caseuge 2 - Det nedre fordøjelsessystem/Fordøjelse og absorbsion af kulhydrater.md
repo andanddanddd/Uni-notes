@@ -16,5 +16,6 @@
 - Hvilket enzym nedbryder trehalose?:: trehalase
 ###### Absorbsion
 - Hvordan absorberes glykose?:: Symporter med natrium (sekundær aktiv transport)
+<!--SR:!2026-06-28,3,250-->
 - Hvordan absorberes galaktose?:: Symporter med natrium (sekundær aktiv transport)
 - Hvordan absorberes fruktose?:: Faciliteret passiv transport

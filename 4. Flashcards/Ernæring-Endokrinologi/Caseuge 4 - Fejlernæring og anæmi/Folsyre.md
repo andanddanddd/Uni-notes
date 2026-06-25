@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi 
+ #flashcards/2/Ernæring-Endokrinologi 
 
 - Hvad er mangelsymptomerne på folsyre?:: [[Anæmi]], [[Høj erytrocytmiddelvolumen]]
 - Hvad hedder den aktive form af folat?:: tetrahydrofolat

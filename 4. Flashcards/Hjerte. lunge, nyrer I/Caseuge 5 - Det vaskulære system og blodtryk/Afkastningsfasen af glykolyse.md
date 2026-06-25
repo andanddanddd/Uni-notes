@@ -22,6 +22,7 @@
 - Hvad sker i trin 9 af glykolysen?:: Klargøring til dannelse af ATP at danne en doppeltbinding
 - Er trin 9 af glykolysen reversibel?:: Nej
 - Opskriv reaktionsskema for trin 9:: $$\ce{2-fosfoglycerat->Fosfoenolpyrovat +H2O}$$
+<!--SR:!2026-06-29,4,270-->
 - Hvilket enzym katalysere trin 9?:: [[Enolase]]
 ###### Trin 10
 - Hvad sker i trin 10 af glykolysen?:: Dannelse af ATP

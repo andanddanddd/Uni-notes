@@ -2,3 +2,5 @@
 
 [[Thyroidea]]
 ![[Thyroideahormon]]
+
+![[Jod]]
