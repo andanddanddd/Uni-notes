@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/3/Nervesystemet 
 
 
 - Hvordan virker negativ feedback i hypothalamus?:: Alle hormonerne har et "antihormon" der inhibere i stedte for at fremme eller modsat
@@ -7,12 +7,6 @@
 - [[Nucleus paraventricularis]]
 - [[Nucleus supraopticus]]
 - [[Nucleus arcuatus]]
+- [[Preoptic nucleus]]
 
-	- Preoptic nucleus
-		- Hvad produceres her?:: GnRH
-			- Hvad stimulere GnRH produktionen af?
-				- LH
-					- LH produceres når GnRH er {{1615259720984782::høj}}
-				- FSH
-					- FSH produceres når GnRH er {{8052470113379874::lav}}
 

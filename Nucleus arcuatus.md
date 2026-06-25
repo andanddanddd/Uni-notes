@@ -4,6 +4,5 @@
 ?
 - [[Dopamin]]
 - [[Growt hormone relesing hormon(factor)]]
-
-    - Lutheinising hormone releasing factor
-    - TRH
+- [[Lutheinising hormone releasing factor]]
+- TRH [[TRH (thyrotropin-releasing hormone)]]
