@@ -18,3 +18,5 @@
 - Binde til en refraktær ionkanal og dermed sikre at den forbliver i det refraktere stadie
 
 ![[Natriumkanaler i hjertemuskulatur]]
+
+![[Hormoners virkning på ionkanaler]]

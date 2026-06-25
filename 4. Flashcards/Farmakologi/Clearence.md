@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/2/Ernæring-Endokrinologi  #flashcards/4/Farmakologi 
 
 - Hvilken enhed har clearence?::  $\frac{\text{Volume}}{\text{tid}}$
 - Hvordan måles clearence i praksis?:: Clearance måles ved at bestemme plasma‑koncentrationer over tid, beregne AUC (area under the concentration–time curve) og dividere dosis med AUC
@@ -8,3 +8,5 @@
 - Hvad er clearence for lav-clearence stoffer?:: <18L/t
 - Hvad er clearence for intermedia-clearence stoffer?:: Mellem 18 og 42 L/t
 - Hvad er clearence for høj-clearence stoffer?:: >42 L/t
+
+- Hvilke hormoner har størst clearence?:: [[Peptidhormoner]]

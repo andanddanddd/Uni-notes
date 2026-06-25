@@ -7,3 +7,6 @@
 - [[Peptidhormoner]]
 - [[Steroidhormoner]]
 - [[Derivativer af tyrosin]]
+
+![[Hormoners virkningsmekanisme]]
+

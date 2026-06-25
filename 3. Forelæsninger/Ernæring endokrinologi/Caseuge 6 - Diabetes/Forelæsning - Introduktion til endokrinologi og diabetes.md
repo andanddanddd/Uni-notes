@@ -3,3 +3,5 @@
 ![[Endokrine kirtler]]
 
 ![[Hormoner]]
+
+![[Clearence]]

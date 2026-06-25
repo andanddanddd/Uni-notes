@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peptidhormoner.md",
+                "file": "Hormoners virkning på ionkanaler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peptidhormoner"
+              "title": "Hormoners virkning på ionkanaler"
             }
           }
         ]
@@ -224,11 +224,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "Peptidhormoner.md",
+    "4. Flashcards/Farmakologi/Ionkanalreceptorer.md",
+    "Hormoners virkning på ionkanaler.md",
+    "Hormoners virkningsmekanisme.md",
     "Hormoner.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Introduktion til endokrinologi og diabetes.md",
+    "4. Flashcards/Farmakologi/Clearence.md",
+    "Derivativer af tyrosin.md",
+    "Steroidhormoner.md",
+    "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Binyrene.md",
+    "Peptidhormoner.md",
     "Endokrine kirtler.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Insulin, glucagon og blodsukker.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Diabetes-behandling.md",
@@ -245,13 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Omsætning af aminosyrer.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Glutamin.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Deaminering.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Transaminering.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Det enterohepatsiek kredsløb.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/HDL.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 4/Apolipoproteiner.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/LDL.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/IDL.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/VLDL.md",
     "0. De allervigtigste/Molekylærbiologi",
     "0. De allervigtigste/Ernæring og endokrinologi",
     "A. gastrica sin",
