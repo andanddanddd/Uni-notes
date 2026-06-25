@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/A. thyreoidea inferior.md",
+                "file": "GH (growt hormon).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A. thyreoidea inferior"
+              "title": "GH (growt hormon)"
             }
           }
         ]
@@ -224,8 +224,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
+    "Growt hormone relesing hormon(factor).md",
+    "GH (growt hormon).md",
+    "Nucleus arcuatus.md",
+    "Nucleus supraopticus.md",
+    "Vasopressin(ADH).md",
+    "Vasopressin/ADH.md",
+    "Vasopressin",
+    "Growt hormone relesing hormon/factor.md",
+    "Growt hormone relesing hormon",
+    "Dopamin.md",
+    "Hypothalamus' kerner.md",
+    "Nucleus paraventricularis.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/TRH (thyrotropin-releasing hormone).md",
+    "Oxytocin.md",
+    "CRH.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes/Hypoglykæmi.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Forelæsning - Hypothalamus og hypofyse anatomi og fysiologi.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Forelæsning - Hypothalamus og hypofysens hormoner.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Forelæsning - Binyrens anatomi og fysiologi.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/A. thyreoidea inferior.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Embryologi af parathyroidea.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Embryologi af thyroidea.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Osteoperose.md",
@@ -234,24 +254,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Calcitonin.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Parathyroideahormon (PTH).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/D-vitamin.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Phosfat.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Aktivering af D-vitamin.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Calcium.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Calciumligevægt.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Knogler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Dannelse og nedbrydelse af knogler.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Osteoner.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/RANGL-(RANG-ligand).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/OPG.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/RANG.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Osterklaster.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Osteoblaster.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Hydroxyapatite.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Calcium i komplekser.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Bundet calcium (proteinbundet calcium).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Frit calcium (ioniseret calcium).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Thyroidea hormonakse.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/TSH (Thyroideastimulerende hormon).md",
     "0. De allervigtigste/Molekylærbiologi",
     "0. De allervigtigste/Ernæring og endokrinologi",
     "A. gastrica sin",
@@ -260,8 +262,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
