@@ -9,8 +9,15 @@
 - [[Kompakt knoglevæv]]
 - [[Spongiøst knoglevæv]]
 
+- Hvad hedder de forskellige typer af celler i knogler?::
+?
+- [[Osterprogenitorceller]]
+- [[Osteoblaster]]
+- [[Osteocytter]]
+- [[Lining cells]]
+- [[Osterklaster]]
 
+![[Knoglematrix]]
 
-![[Hydroxyapatite]]
 
 ![[Osteoner]]

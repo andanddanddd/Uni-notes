@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spongiøst knoglevæv.md",
+                "file": "Knoglematrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spongiøst knoglevæv"
+              "title": "Knoglematrix"
             }
           }
         ]
@@ -227,11 +227,17 @@
   "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
     "Histologi af knogler.md",
-    "Spongiøst knoglevæv.md",
-    "Kompakt knoglevæv.md",
-    "Haerske systemer.md",
-    "Periost.md",
+    "Knoglematrix.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Knogler.md",
+    "Osteocytter.md",
+    "Haverske systemer.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Osteoblaster.md",
+    "Osterprogenitorceller.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Osteoner.md",
+    "Spongiøst knoglevæv.md",
+    "Trabekulære osteoner.md",
+    "Kompakt knoglevæv.md",
+    "Periost.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Dannelse og nedbrydelse af knogler.md",
     "Skelettet.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Produktion af erytrocytter.md",
@@ -246,13 +252,7 @@
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner/Forelæsning - Motoriske baner.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner/Forelæsning - Sensoriske baner.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner/Forelæsning - Motorkontrol.md",
-    "2. Caseuger/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet.md",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet/Forelæsning - Lugte-, smags, føle og kropssanserne.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet/Forelæsning - Huden.md",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet/Forelæsning - Høresansen.md",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet/Forelæsning - Synssansen.md",
-    "2. Caseuger/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motoriske og sensoriske apparat",
