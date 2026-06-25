@@ -38,3 +38,5 @@
 - Cellerne med GLUT 4 får ikke glukose og dermed ikke energi [[Transport af glykose]]
 - Hvorfor får man genitale svampeinfektioner som diabetiker?:: Fordi der er sukker i urin og dermed næringsstof til svampe [[Polyuri]]
 - Hvorfor får man synsændringer som diabetiker?:: Fordi der meget små kar i øjnene som går i stykker
+
+![[Behandling af type-1 diabetes]]

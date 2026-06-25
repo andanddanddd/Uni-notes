@@ -22,3 +22,6 @@
 ![[Insulinreceptoren]]
 
 ![[Elimination af insulin]]
+
+![[Insulin som behandling til diabetes]]
+

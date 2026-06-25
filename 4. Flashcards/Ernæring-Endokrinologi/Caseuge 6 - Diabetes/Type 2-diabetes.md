@@ -7,3 +7,5 @@
 - Hvornår diagnosticeres man typisk med T2D?:: Sent >40
 - Hvor mange overvægtige udvikler T2D?:: < 20%
 - Hvorfor falder insulinsensitivitetn?:: Pga ophopning af diacylglycerol (DAG)
+
+![[Behandling af type-2 diabetes]]
