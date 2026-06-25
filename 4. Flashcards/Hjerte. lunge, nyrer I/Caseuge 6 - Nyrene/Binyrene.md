@@ -3,3 +3,5 @@
 - Hvad hedder binyrene på latin?:: Glándulae suprarenales
 
 ![[Anatomi af binyrene]]
+
+![[Histologi af binyrene]]

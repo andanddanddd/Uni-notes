@@ -17,15 +17,16 @@
 - Pars distales
 - Pars tuberalis s. infundibularis
 - Pars intermedia
+- Pars posterior
 
-<!--SR:!2026-06-28,3,250-->
-    - Pars posterior
-        - Hvad er pars posterior?:: Neurohypofysen
-<!--SR:!2026-06-28,3,250-->
+
 - Hvad er pars distales?:: Størstedelen af adenohypofysen
 - Hvad er pars tuberalis s. infundibalis?:: Den del af adenohypofysen som går langs stilken
-- Hvad er pars intermedia?:: Den del af adenohypofysen som ligger op mod neurohypofysen
+- Hvad er pars intermedia?:: Den del af [[Adenohypofysen]] som ligger op mod [[Neurohypofysen]]
+- Hvad er pars posterior?:: [[Neurohypofysen]]
 
 ![[Hypofysens Kar og nerveforsyning]]
 
--
+![[Adenohypofysen]]
+
+![[Neurohypofysen]]

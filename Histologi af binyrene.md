@@ -1,4 +1,3 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
-![[Binyrene]]
-
+![[Histologi af cortex (binyrerne)]]
