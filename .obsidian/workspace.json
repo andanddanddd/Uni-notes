@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Type-1 diabetes.md",
+                "file": "MODY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type-1 diabetes"
+              "title": "MODY"
             }
           }
         ]
@@ -224,10 +224,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "MODY.md",
     "Diabetes.md",
+    "Type 2-diabetes.md",
     "Type-1 diabetes.md",
+    "Polydipsi.md",
+    "Polyuri.md",
+    "HbA1C.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Diabetes, diagnose og subtyper.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Diabetes-komplikationer.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Diabetes-behandling.md",
@@ -247,11 +252,6 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 5 - Det vaskulære system og blodtryk/Transport af glykose.md",
     "Elimination af insulin.md",
     "Insulinreceptoren.md",
-    "4. Flashcards/Farmakologi/G-proteinkoplet receptorer.md",
-    "Gi-koplede receptorer.md",
-    "Gs-koplede receptorer.md",
-    "Gq‑proteinkoplet receptor.md",
-    "Fosfolipase C.md",
     "0. De allervigtigste/Molekylærbiologi",
     "0. De allervigtigste/Ernæring og endokrinologi",
     "A. gastrica sin",
