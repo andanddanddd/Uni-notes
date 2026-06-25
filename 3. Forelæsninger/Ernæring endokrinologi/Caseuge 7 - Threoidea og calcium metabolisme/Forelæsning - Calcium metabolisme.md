@@ -2,8 +2,12 @@
 
 ![[Calcium]]
 
-![[Phospat]]
+![[Phosfat]]
 
 ![[Knogler]]
 
 ![[D-vitamin]]
+
+![[Parathyroideahormon (PTH)]]
+
+![[Calcitonin]]

@@ -10,6 +10,5 @@
 - Hvad sker overordnet i trin 2?:: Hydroxylering af carbon 1
 - Hvor sker trin 2?:: I [[Nyrene]]
 - Hvad stimulere nyrene til at danne 1,25-dihydroxycholecalcifirol?:: PTH [[Parathyroideahormon (PTH)]]
-- Hvordan påvirker calcium trin 2?:: Ikke direkte med 
-- Eftersom trin 2 styres af {{15306104437643953::PTH}} styres det også af {{24288795609863345::calcium}} da {{15306104437643953::PTH}} regulere {{24288795609863345::calcium}}
-- Hvad sker emd 25-hydroxyxholecalcifirol i nyrene hvis det ikke aktiveres?:: Det deaktiveres til 24,25-dihydroxycholecalcifirol og udskilles i urinen.
+- Hvordan påvirker [[Calcium]] trin 2?:: Ikke direkte med fremmer dannelsen af PTH
+- Hvad sker med 25-hydroxyxholecalcifirol i nyrene hvis det ikke aktiveres?:: Det deaktiveres til 24,25-dihydroxycholecalcifirol og udskilles i urinen.
