@@ -5,6 +5,6 @@
 - Hvad består grundsubstansen hovedsageligt af?:: Proteoglykaner
 ###### Uorganisk knoglematrix
 - Hvad består den uorganiske del af?:: Calciumsalte
-- Hvad hedder den mest almindelige calfiumsalt?:: [[Hydroxyapatite]]
+- Hvad hedder den mest almindelige calciumsalt?:: [[Hydroxyapatite]]
 
 ![[Hydroxyapatite]]
