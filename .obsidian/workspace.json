@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Forelæsning - Knoglevæv og led.md",
+                "file": "2. Caseuger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Knoglevæv og led"
+              "title": "Caseuge 1 - Bevægeapparatet - Knogler, muskler og led"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 321.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -224,9 +224,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
     "2. Caseuger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led.md",
+    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Forelæsning - Muskel anatomi og fysiologi.md",
+    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Forelæsning - Kraniet og rygsøjlens anatomi.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Forelæsning - Knoglevæv og led.md",
     "1. Fag/Nervesystemet og sanser.md",
     "2. Caseuger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis.md",
@@ -260,8 +262,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Histologi af cortex (binyrerne).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Zona reticularis.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Zona glomerulosa.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Koglekirtlen.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Embryologi af koglekirtlen.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
