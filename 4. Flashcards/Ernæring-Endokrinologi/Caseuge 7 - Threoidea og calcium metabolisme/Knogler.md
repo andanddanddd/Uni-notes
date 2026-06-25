@@ -2,6 +2,13 @@
 
 ![[Histologi af knogler]]
 
+- Hvad hedder de forskellige typer af knogler?
+?
+- [[Rørknogler]]
+- Korte knogler
+- Flade knogler
+- Uregelmæssige knogler
+- Sesamoid knogler
 
 ![[Dannelse og nedbrydelse af knogler]]
     - Hvad hedder cellerne der danner knoglevæv?→Osteoblaster

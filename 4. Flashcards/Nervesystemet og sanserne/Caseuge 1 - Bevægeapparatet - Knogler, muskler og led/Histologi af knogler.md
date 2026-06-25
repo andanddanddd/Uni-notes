@@ -19,5 +19,6 @@
 
 ![[Knoglematrix]]
 
-
 ![[Osteoner]]
+
+![[Knoglemarv]]

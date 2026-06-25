@@ -6,4 +6,4 @@
 
 ![[RANGL-(RANG-ligand)]]
 
-
+![[Heeling af knogler]]
