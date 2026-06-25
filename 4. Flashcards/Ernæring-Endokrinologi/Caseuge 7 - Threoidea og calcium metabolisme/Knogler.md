@@ -1,6 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi #flashcards/3/Nervesystemet 
 
-![[Hydroxyapatite]]
+![[Histologi af knogler]]
+
 
 ![[Dannelse og nedbrydelse af knogler]]
     - Hvad hedder cellerne der danner knoglevæv?→Osteoblaster
