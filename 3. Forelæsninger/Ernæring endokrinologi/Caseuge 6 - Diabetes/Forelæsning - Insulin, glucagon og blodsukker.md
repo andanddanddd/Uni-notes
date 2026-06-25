@@ -2,4 +2,6 @@
 
 ![[Insulin]]
 
-![[Insulinreceptoren]]
+![[Glukagon]]
+
+![[Hypoglykæmi]]

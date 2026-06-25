@@ -2,3 +2,4 @@
 
 - Hvad secenere β-celler?:: [[Insulin]]
 - Hvor mange af de endokrine celler i pancreas er β-celler?:: 70%
+- Hvilken glukosetransporter har β-celler?:: GLUT 2

@@ -11,6 +11,7 @@
 - Hvad er forskellen på effekten af insulin og proinsulin?:: Insulin virker 5 gange så godt
 - Hvad sker med insulinfølsomheden under motion?:: Den stiger
 - Hvordan påvirker insulin blodsukkeret på lang sigt?:: Det regulere antallet af glukosetransportere særligt GLUT1, hvilket kan være kritisk hvis der sker store hurtige flukationer [[Transport af glykose]]
+- Hvorfor falder blodsukker uden insulin?:: Fordi hjernen og lever kan optage det uden brug af insulin og dermed forsvinder det stadig fra blodet
 
 ![[Strukturen af insulin]]
 
