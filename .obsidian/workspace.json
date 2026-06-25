@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Carbamoylfosfat.md",
+                "file": "Peptidhormoner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carbamoylfosfat"
+              "title": "Peptidhormoner"
             }
           }
         ]
@@ -220,11 +220,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Peptidhormoner.md",
+    "Hormoner.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Introduktion til endokrinologi og diabetes.md",
+    "Endokrine kirtler.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Insulin, glucagon og blodsukker.md",
+    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 6 - Diabetes/Forelæsning - Diabetes-behandling.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Carbamoylfosfat.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Metabolsime af aminosyrer carbonskelet.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Omsætning af aminosyre og ureacyclus.md",
@@ -245,12 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/LDL.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/IDL.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/VLDL.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Kylomikroner.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Fordøjelse, optag og metabolisme af fedt.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Leverens anatomi, embryologi og fysiologi.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Galde og kolesterol.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdesten.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdesalte.md",
     "0. De allervigtigste/Molekylærbiologi",
     "0. De allervigtigste/Ernæring og endokrinologi",
     "A. gastrica sin",
