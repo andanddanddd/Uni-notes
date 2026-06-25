@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primær hyperthyreose.md",
+                "file": "Primær hypothyreose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primær hyperthyreose"
+              "title": "Primær hypothyreose"
             }
           }
         ]
@@ -224,11 +224,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ea53c0104ab59c1a",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Hyperthyreose.md",
-    "Primær hyperthyreose.md",
+    "Primær hypothyreose.md",
+    "Hypothyreose.md",
     "Sygdomme i thyroidea.md",
+    "Hyperthyreose.md",
+    "Sekundær hyperthyreose.md",
+    "Primær hyperthyreose.md",
+    "Destruktion af skjoldbruskkirtlen.md",
+    "Wolff-Chaikoff effekt.md",
+    "Graves.md",
     "TPO-ab (thyridea peroxidasen).md",
     "Thyroglobulin.md",
     "TRAb.md",
@@ -246,12 +252,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Acetyl-CoA syntese i cytosol.md",
     "Jod.md",
     "Syntese af thyroideahormon.md",
-    "TSH (Thyroideastimulerende hormon).md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes/Gs-koplede receptorer.md",
-    "Thyroidea hormonakse.md",
-    "TRH (thyrotropin-releasing hormone).md",
-    "Thyroidea.md",
-    "Histologi af thyroidea.md",
     "0. De allervigtigste/Molekylærbiologi",
     "0. De allervigtigste/Ernæring og endokrinologi",
     "A. gastrica sin",
