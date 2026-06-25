@@ -1,6 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
-- I hvilken rækkefølje dannes brachiebuerne?→Cranielt til caudalt
+- I hvilken rækkefølje dannes brachiebuerne?:: Cranielt til caudalt
+
 ![[Brachiebue 1]]
 
 ![[Brachiebue 2]]
