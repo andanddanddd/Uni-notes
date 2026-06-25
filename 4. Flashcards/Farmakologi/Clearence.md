@@ -1,6 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi  #flashcards/4/Farmakologi 
 
 - Hvilken enhed har clearence?::  $\frac{\text{Volume}}{\text{tid}}$
+<!--SR:!2026-06-29,4,270-->
 - Hvordan måles clearence i praksis?:: Clearance måles ved at bestemme plasma‑koncentrationer over tid, beregne AUC (area under the concentration–time curve) og dividere dosis med AUC
 - Hvordan regnes clearence?::  $$CL=\frac{\text{dosis}}{\text{AUC}}$$
 

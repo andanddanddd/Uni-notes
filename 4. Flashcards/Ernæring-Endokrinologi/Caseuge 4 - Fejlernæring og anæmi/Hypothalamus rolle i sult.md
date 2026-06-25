@@ -2,6 +2,7 @@
 
 - Hvor i hypothalamus sidder "fodringscentret"?―Det laterale hypothalamus
 - Hvad sker hvis fodringscentret fjernes?:: Dyr vil ophøre med at spise
+<!--SR:!2026-06-29,4,270-->
 - Hvor sidder mæthedcentret?―Ventromediale kerne
 - Hvad gør mæthedcentret?:: Hæmmer appetitten
 - Hvor får hypothalamus sine signaler fra?

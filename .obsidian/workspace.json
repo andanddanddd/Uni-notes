@@ -14,58 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Forelæsning - Thyreoidea, anatomi og fysiologi.md",
+                "file": "Hovedceller (parathyroidea).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Thyreoidea, anatomi og fysiologi"
-            }
-          },
-          {
-            "id": "63762c18aca7035c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxaloacetat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oxaloacetat"
-            }
-          },
-          {
-            "id": "933273dcd9eb862e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Acetyl-CoA syntese i cytosol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acetyl-CoA syntese i cytosol"
-            }
-          },
-          {
-            "id": "e4c7365ce1257aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Folsyre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Folsyre"
+              "title": "Hovedceller (parathyroidea)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c0b5464d61a8cf52",
@@ -267,13 +224,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e4c7365ce1257aed",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Acetyl-CoA syntese i cytosol.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxaloacetat.md",
+    "Histologi af parathyroidea.md",
+    "Hovedceller (parathyroidea).md",
+    "Parathyroidea.md",
+    "Parathyroideas Kar og nerveforsyning.md",
+    "Anatomi af parathyroidea.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme/Forelæsning - Thyreoidea, anatomi og fysiologi.md",
-    "Jod.md",
     "Thyroideahormon.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Oxaloacetat.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Folsyre.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Acetyl-CoA syntese i cytosol.md",
+    "Jod.md",
     "Syntese af thyroideahormon.md",
     "TSH (Thyroideastimulerende hormon).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes/Gs-koplede receptorer.md",
@@ -289,12 +252,6 @@
     "Thyroideas kar- og nerveforsyning.md",
     "A. thyreoidea inferior.md",
     "A. thyreoidea superior.md",
-    "Thyroideas lober.md",
-    "Anatomi af thyroidea.md",
-    "2. Caseuger/Ernæring endokrinologi/Caseuge 7 - Threoidea og calcium metabolisme.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes/Type-1 diabetes.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes/Type 2-diabetes.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 6 - Diabetes/Sulfonylurinstof.md",
     "0. De allervigtigste/Molekylærbiologi",
     "0. De allervigtigste/Ernæring og endokrinologi",
     "A. gastrica sin",
