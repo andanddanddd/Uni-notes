@@ -15,3 +15,10 @@
 
 ![[Neuromuskulær kontakt]]
 
+![[Myogenese]]
+
+![[Musklers energitilførsel]]
+
+![[Kontraktionstyper]]
+
+![[Fibertyper]]

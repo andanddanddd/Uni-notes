@@ -22,3 +22,5 @@
 ![[Afkastningsfasen af glykolyse]]
 
 ![[Regulering af glykolyse]]
+
+![[Glykolysen som energikilde til muskler]]
