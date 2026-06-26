@@ -1,4 +1,4 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet [[Kraniet]]
 
 - Hvad kan gå galt under dannelsen af kraniet?:: Suturene lukker sig for tidligt [[Suture(kraniet)]]
 - Hvordan vokser de flade knogler i kraniet?:: Der dannet nyt knogle yderst og det inderste fjernes af [[Osterklaster]]
