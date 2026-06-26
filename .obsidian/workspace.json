@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kraniet JEG ER NÅET HERTIL.md",
+                "file": "Suture(kraniet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kraniet JEG ER NÅET HERTIL"
+              "title": "Suture(kraniet)"
             }
           }
         ]
@@ -220,12 +220,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "ea53c0104ab59c1a",
   "lastOpenFiles": [
     "Kraniet JEG ER NÅET HERTIL.md",
+    "Suture(kraniet).md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Forelæsning - Kraniet og rygsøjlens anatomi.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ægte led.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Sener.md",
@@ -250,7 +252,6 @@
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledskiver.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledhule.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledlæber.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledvæske.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
