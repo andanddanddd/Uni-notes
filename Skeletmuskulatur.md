@@ -11,5 +11,7 @@
 
 ![[Skeletmuskulaturs bindevæv]]
 
+![[Myofibriller]]
 
+![[Neuromuskulær kontakt]]
 
