@@ -6,10 +6,11 @@
 - Sutura plana
 - Sutura squamose
 
+![[Sutura sagitalis]]
 
-- Hvilke knogler hæfter med sutura sagitalis?:: De to parietalknogler [[Os parietale]]
-- Hvilke knogler danner sutura coronalis?:: [[Os frontale]] og de to parietale
-- Hvad hedder punktet hvor sutura sagitalis og sutura coronalis mødes?:: Bregma
-- Hvilke knogler danner sutura lambdodia?:: [[os]] og parietalknoglerne
-- Hvad hedder punktet hvor sutura lambdodia og sutura sagitalis mødes?:: lambda punktet
-- Hvilke knogler danner sutura squamosa↔Os temporale og os parietale
+![[Sutura coronalis]]
+
+![[Sutura lambodia]]
+
+- Hvad hedder punktet hvor [[Sutura sagitalis]] og [[Sutura coronalis]] mødes?:: Bregma
+- Hvad hedder punktet hvor [[Sutura lambodia]] og [[Sutura sagitalis]] mødes?:: lambda punktet

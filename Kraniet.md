@@ -2,30 +2,13 @@
 
 - Hvilken knogle ligger foramen magna i?:: [[Os occipitale]]
 ![[Suture(kraniet)]]
- knogler
 
-    
 - Hvordan inddeles kraniet?
-    - Neurokraniet
-        - Hvad dækker neurokraniet?:: Hjernen og hørestrukture
-        - Hvordan inddeles neurokraniet?
-            - Kraniekalotten
-                - Hvad kaldes kraniekalotten på latin?:: calvaria
-                - Hvor er kraniekalotten?:: Ovenpå hovedet
-                - ![](https://remnote-user-data.s3.amazonaws.com/KzCRwOmFOINXY1xQgIZEJVRUMm172ElG7noQ5Ba3PXbYXkgLpX54kSsAhBPZfaF587MDX_ABRfRGCnlvtGpBHr9rXtf4_SQAFFI_tt31xzdFaDLb4NEVjz-08M0Y33BU.png)
-            - Basis cranii
-                - Hvor er basis cranii?:: bunden af neurokraniet
-                - Hvad er forskellen på basis cranii eksterna og interna?:: INterna er siden mod hjernen mens eksterna er siden mod næse og mund
-    - Viscerokraniet
-        - Hvad dækker vicerokraniet?:: Næsehulen oh tænderne
-- - Hvilke knogler er en del af neorokraniet?
-        - Os frontale
-        - Os parietale
-        - Os occipitale
-        - Os temporale
-        - Os sphenoidale
-        - Os ethimodale
-- Hullerne
+?
+- [[Neurokraniet]]
+- [[Viscerokraniet]]
+
+![[Kraniets huller]]
     - Kranienerve {{05962885200149126::N. olfactorius (I)}} bevæger sig igennem {{6112508011334866::foramina cribosa}}
     - Kranienerve {{6684440517915216::N. opticus (II)}} bevæger sig igennem {{8222207114543286::Canalis opticus}}
     - Kranienerverne {{8752012664706397::N. oculomotorius (III)}}, {{8752012664706397::N. trochlearis (IV)}}, {{8752012664706397::N. trigeminus (V)}}, {{8752012664706397::N. abducens (VI)}} bevæger sig i igennem {{4253765313377309::fissura orbitalis sup.}}
