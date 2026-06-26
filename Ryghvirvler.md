@@ -1,6 +1,6 @@
 #flashcards/3/Nervesystemet 
 
-- Hvor sker den cerviakel rotation?:: mellem [[Atlas]] og [[Axis]]
+
 - Hvad hedder hvirvellegemet på latin?:: Corpus vertebrae
 - Hvad hedder hvirvelbuen på latin?:: Arcus vertebrae
 
@@ -14,3 +14,5 @@
 - [[Torntappen]]
 
 ![[Halshvirvler]]
+
+![[Thoraxhvirvler]]
