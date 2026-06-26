@@ -1,6 +1,6 @@
 #flashcards/3/Nervesystemet 
 
-![[Foramen magnum]]
+![[Foramen magna]]
 
 ![[Foramina cribosa]]
 
