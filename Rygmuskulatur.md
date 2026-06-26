@@ -2,4 +2,4 @@
 
 ![[Erektor spinae]]
 
-![[Transpersospinalis]]
+![[Transversospinalis]]
