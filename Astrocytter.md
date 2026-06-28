@@ -22,11 +22,9 @@
 - Hvad gør astrocytterne ved blodkarrene? 
 ?
 - De giver støtte med deres fodprocessor
-- Secenere vækstfaktorer til at danne tight junktions
+- Secenere vækstfaktorer til at danne tight junktions [[Blod-hjerne-barrieren]]
 
 - Hvad hedder de 2 typer astrocytter?
-    - Fibrøse astrocytter
-        - Hvor findes fibrøse astrocytter?:: Hvis substans
-        - Hvad kendetegner de fibrøse astrocytter?:: Færre udløbere som er lange men mere uforgrenede
-    - Protoplasmatiske astrocytter
-        - Hvor findes protoplasmatiske astrocytter?:: Grå substans
+?
+- [[Fibrøse astrocytter]]
+- [[Protoplasmatiske astrocytter]]

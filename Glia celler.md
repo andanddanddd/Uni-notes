@@ -6,3 +6,14 @@
 - Hvilken gliacelle er ikke oprindet fra enuroektoderm og hvor er den omrindet fra?:: [[Mikroglia]] er differentieres fra [[Monocytter]]
 
 ![[Astrocytter]]
+
+![[Oligodendrocytter]]
+
+![[Mikroglia]]
+
+![[Ependym]]
+
+![[Satelitceller]]
+
+![[Schwann celler]]
+

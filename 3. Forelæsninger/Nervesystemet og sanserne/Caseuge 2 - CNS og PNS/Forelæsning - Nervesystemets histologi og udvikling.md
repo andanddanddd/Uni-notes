@@ -2,3 +2,5 @@
 
 [[Neuroner]]
 [[Glia celler]]
+
+![[Myelinskeder]]
