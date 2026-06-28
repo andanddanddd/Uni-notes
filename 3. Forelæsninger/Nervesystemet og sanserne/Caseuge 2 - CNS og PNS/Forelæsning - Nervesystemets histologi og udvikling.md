@@ -2,6 +2,8 @@
 
 [[Neuroner]]
 [[Glia celler]]
+[[Nervecellekomunikation]]
+[[Embryologi af nervesystemet]]
 
 ![[Myelinskeder]]
 
@@ -9,6 +11,5 @@
 
 ![[Hvid substans]]
 
-![[Nervecellekomunikation]]
-
 ![[Neurotransmittere]]
+

@@ -16,6 +16,4 @@
 ?
 - [[Elektrotonisk kommunikation]]
 - [[Kemisk synaptisk kommuniaktion]]
-
-    - Kemisk non-synapitisk kommunikation
-        - Hvad er det?:: I stedet for at udløse neurotransmittere i synapsekløften bliver de udløst til det genneralle extracellulærrum
+- [[Kemisk non-synapitisk kommunikation]]

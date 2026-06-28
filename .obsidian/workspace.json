@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kemisk synaptisk kommuniaktion.md",
+                "file": "Hjerneblærer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kemisk synaptisk kommuniaktion"
+              "title": "Hjerneblærer"
             }
           }
         ]
@@ -222,12 +222,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
-    "Kemisk synaptisk kommuniaktion.md",
-    "Nervecellekomunikation.md",
-    "Elektrotonisk kommunikation.md",
+    "Embryologi af nervesystemet.md",
+    "Hjerneblærer.md",
+    "Neuralrør.md",
+    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Forelæsning - Nervesystemets histologi og udvikling.md",
+    "2. Caseuger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS.md",
     "Neurotransmittere.md",
+    "Nervecellekomunikation.md",
+    "Kemisk non-synapitisk kommunikation.md",
+    "Kemisk synaptisk kommuniaktion.md",
+    "Elektrotonisk kommunikation.md",
     "Nitrogenoxid.md",
     "Neuropeptider.md",
     "Glutamat.md",
@@ -239,17 +245,11 @@
     "4. Flashcards/Farmakologi/Noradrenalin syntese.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 8 - Hypothalamus, hypofyse, binyrer/Dopamin.md",
     "Acetylkolin.md",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Forelæsning - Nervesystemets histologi og udvikling.md",
     "Exotoksicitet.md",
     "Refraktære periode (neuroner).md",
     "Relativt refraktær periode.md",
     "Absolut refraktær periode.md",
     "Actionspotentiale i neuroner.md",
-    "Igangsættelse af et actionspotntiale.md",
-    "Spændeingsafhængige natriumkanaler i neuroner.md",
-    "Hvilepotentialet.md",
-    "Ioners påvirkning af membranpotentialet.md",
-    "Grå substans.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",

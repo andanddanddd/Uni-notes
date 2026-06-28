@@ -11,9 +11,7 @@
 - Hvordan kommer små neurotransmittere ind i vesikler?:: De bliver pumpet derind (ved hjælp af protongradient)
 - Hvor dannes små neurotransmittere?:: endoknoppen
 - Hvordan kommer store neurotransmittere ind i vesikler?:: I et golgi apparat i soma
-- Hvad gør actionspotentialet når det når axonenen?:: Åbner $\ce{Ca++}$ kanaler
-	- Hvad skal memebranpotentialet være for at de åbner?:: +40mV
-- Hvad sker med calciumkoncentrationen i axonterminalen ved et actionspotentiale?:: Den stiger
-	- Hvad gør det?:: Det binder vesikler med neurotransmitter til membranen af axonet så neurotransmitter frigives
+- Hvilken ionkanal åbnes når et actionspotentiale når axonenden, og hvad er membranpotentialet?:: Åbner $\ce{Ca++}$ kanaler, +40mV
+- Hvad sker med calciumkoncentrationen i axonterminalen ved et actionspotentiale og hvilken effekt ahr det?:: Den stiger, hvilket binder vesikler med neurotransmitter til membranen af axonet så neurotransmitter frigives
 - Hvordan kan en neurotransmitter ændre et membranpotentiale?:: Åbne ionkanaler, det kan både øge og sænke membranpotentialet
 - Hvad betyder "alt eller intet" ift actionspotentialer?:: At en celle godt kan modtage ekstitatoriske signaler uden at nå et actionspotentiale, altså et lille signal giver ikke et lille actionspotentiale
