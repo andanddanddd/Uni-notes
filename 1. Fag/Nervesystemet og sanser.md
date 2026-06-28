@@ -6,3 +6,4 @@
 [[Caseuge 4 - Sanseapparatet]]
 [[Caseuge 5 og 6 - Det motoriske og sensoriske apparat]]
 [[Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis]]
+![[Anatomiske neuroloske begreber]]

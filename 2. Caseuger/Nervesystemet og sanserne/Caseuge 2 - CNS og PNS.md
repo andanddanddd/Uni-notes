@@ -2,5 +2,5 @@
 
 [[Forelæsning - ANS og CNS biokemi]]
 [[Forelæsning - CNS-hinder, ventrikelsystemet og blodforsyning]]
-[[Nervesystemet og sanser]]
+[[Forelæsning - Nervesystemets histologi og udvikling]]
 [[Intercranielt tryg]]

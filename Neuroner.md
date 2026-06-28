@@ -1,0 +1,70 @@
+#flashcards/3/Nervesystemet 
+
+![[Soma (neuron)]]
+
+- Nissil substans
+    - Hvad er nissil substans?→Klynger af RuER
+    - Hvor er nissil substans?→Perikayon og starten af dendritterne
+- Neurofibriller
+    - Neurofibriller er en del af {{9305331569712777::cytoskellettet}} og giver derfor støtte til cellen
+    - Hvor findes flest neurofibriller?→Axonet
+    - Hvordan er neurotubuli arrangeret?→De ligger paralelt med hianden sammen med mikrotubuli
+- Mikrotubuli
+    - Hvordan er mikrotubuli arrangeret?→De ligger paralelt med hinanden sammen med neurofibriller
+    - Hvor findes flest mikrotubuli?→Axonet
+    - Hvad er formålet med mikrotubuli?
+        - Give mekanisk støtte
+        - Axontranport
+- Neuritter
+    - Hvad er neuritter?→En fællesbetegnelse for dendritter og axoner
+    - Hvor mange synaptiske kontakter kan 2 neuroner danne med hinanden?→MANGE
+    - Hvad hedder området hvorved axonet udspringer?↔Udspringsconus
+    - Hvad er tykkest?
+        - Dendrit
+        - Axon
+    - Dendritter
+        - Hvad er dendritter?→Korte forgrenede udløbere
+        - Hvad er forskellen på en primær, sekundær og tertier dendrit?→Udspringspunktet, de udspringer fra hhv cellelegemet, primlre dendritter og sekundære dendritter
+        - Hvor mange dendritter har en neuron?→Typisk mange
+        - Hvilke funktion har dendritter?→Øge overfladeareal så der kan modtages flere signaller
+        - Hvad sker med dendritters tykkelse når de bevæger sig væk fra cellelegemet?→De bliver tyndere
+        - Spinae
+            - Hvad er spinae?→Fremspring på dendritten
+            - Hvad er formålet med spinae?→Danne symaptiske overflader
+    - Axon
+        - Hvad er et axon?→Den lange udløber der kan sende et signat videre
+        - Hvor mange axoner har en neuron?→1
+        - Hvad hedder sidegrene af et axon?→Kollateraler
+        - Hvad er A, B og C klassificereingen indefor aksoner?→Ledningshastigheden (A er hurtigts)
+        - Hvad er I, II og III klasificeringen indenfor aksoner?→Tykkelsen af myelinerede fibre(I er tykkest)
+            - Hvad er IV?→Umylelinerede fibre
+        - Hvad hedder de yderste forgreninger af et axon?→Preterminale forgreninger
+        - Hvad sker med axonets tykkelse nør det bevæger sig væk fra cellelegemet?→Intet
+        - Hvad hedder enden på en axon?→Bouton/endeknop
+        - Hvor mange synapser laver en axon i gennemsnit?→1000
+        - Jo {{9119716838573172::tykkere}} et axon jo {{634706842105194::højere}} {{4787280419794766::ledningshastighed}}
+            - Hvorfor?→fordi de er relativt færre lækagekanaler dvs ligevægten er anderledes og giver et mere positivt indre jo tykkere axonet er
+        - Hvorfor gør myelineringen et akson hurtigere?→Fordi lækagekanlerne er mindre aktive
+        - Hvordan kan pericaryon identificeres?→Der er ikek nissil substans
+        - Langsom axontransport
+            - Hvad bruges den langsomme axontransport til?→Veligeholdelse af axonet
+            - Hvorfor er den langsomme axontransport relevant?→Fordi der ikke er RuER i axonet så det kan ikke selv producere de nødvendige proteiner
+            - Hvilken retning foregår den langsomme axon transport?→Væk fra cellelegemet
+            - Hvordan virker langsom axontransport?→Passiv diffusion
+        - Hurtige axontransport
+            - Hvad bruges den hurtige axontransport til?→Transport af mitrokondrier, glat ER same døde celledele
+            - Hvilken retning foregår den hurtige axontransport?→Begge retninger
+            - Hvordan foregår hurtig axontransport?→Ved proteiner koplet på mikrotubuli (cytoskelettet)
+    - Unipolære neuroner
+        - Hvad er unipolære neuroner?→Neuroner der kun har en udløber
+        - Hvor hyppige er unipolære neuroner?→Sjældne
+    - Bipolære neuroner
+        - Hvad er bipolære neuroner?→Neuroner der afgiver 2 udløbere en i hver side
+        - Hvor findes bipolære neuroner?→Specielle sensoriske organer (øjne, ører, næse)
+    - Pseudounipolære neuroner
+        - Hvad er psudounipolære neuroner?→Neuroner med 1 udløber der hurtigt deler sig i 2
+        - Hvor findes pseudounipolære neuroner?→I nogle ganglier i PNS
+    - Multipolære neuroner
+        - Hvad er multipolære neuroner?→Neuroner med mange dendriter
+        - Hvad er projektionsneuroner?→Neuroner med et langs axon
+        - Hvad er interneuroner?→Neuroner med et kort axon, der går mellem motoriske og sensoriske fibre
