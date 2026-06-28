@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perikaryon.md",
+                "file": "Axon (neuron).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perikaryon"
+              "title": "Axon (neuron)"
             }
           }
         ]
@@ -224,9 +224,16 @@
   },
   "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
-    "Soma (neuron).md",
-    "Perikaryon.md",
+    "Neuritter (neuron).md",
+    "Axon (neuron).md",
+    "Dendritter (neuron).md",
+    "Spinae (neuron).md",
     "Neuroner.md",
+    "Mikrotubuli (neuroner).md",
+    "Neurofibriller.md",
+    "Nissil substans (neuron).md",
+    "Soma (neuron).md",
+    "Perikaryon (neuron).md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Forelæsning - Nervesystemets histologi og udvikling.md",
     "2. Caseuger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS.md",
     "4. Flashcards/Nervesystemet og sanserne/Anatomiske neuroloske begreber.md",
@@ -243,13 +250,6 @@
     "2. Caseuger/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Suture(kraniet).md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Fontaneller.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Viscerokraniet.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Fibertyper.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Skeletmuskulatur.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Kontraktionstyper.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Isokinetsk kontraktion.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Isotonisk kontraktion.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Isometrisk kontraktion.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",

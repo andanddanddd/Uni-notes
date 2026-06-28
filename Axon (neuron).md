@@ -1,0 +1,26 @@
+#flashcards/3/Nervesystemet 
+
+- Hvad er et axon?:: Den lange udløber der kan sende et signat videre
+- Hvor mange axoner har en neuron?:: 1
+- Hvad hedder sidegrene af et axon?:: Kollateraler
+- Hvad er A, B og C klassificereingen indefor aksoner?:: Ledningshastigheden (A er hurtigts)
+- Hvad er I, II og III klasificeringen indenfor aksoner?:: Tykkelsen af myelinerede fibre(I er tykkest)
+	- Hvad er IV?:: Umylelinerede fibre
+- Hvad hedder de yderste forgreninger af et axon?:: Preterminale forgreninger
+- Hvad sker med axonets tykkelse når det bevæger sig væk fra cellelegemet?:: Intet
+- Hvad hedder enden på en axon?:: Bouton/endeknop
+- Hvor mange synapser laver en axon i gennemsnit?:: 1000
+- Hvad er sammenhængen mellem tykkelse af axon og ledningshastighed?:: J
+- Jo {{9119716838573172::tykkere}} et axon jo {{634706842105194::højere}} {{4787280419794766::ledningshastighed}}
+	- Hvorfor?:: fordi de er relativt færre lækagekanaler dvs ligevægten er anderledes og giver et mere positivt indre jo tykkere axonet er
+- Hvorfor gør myelineringen et akson hurtigere?:: Fordi lækagekanlerne er mindre aktive
+- Hvordan kan pericaryon identificeres?:: Der er ikek nissil substans
+- Langsom axontransport
+	- Hvad bruges den langsomme axontransport til?:: Veligeholdelse af axonet
+	- Hvorfor er den langsomme axontransport relevant?:: Fordi der ikke er RuER i axonet så det kan ikke selv producere de nødvendige proteiner
+	- Hvilken retning foregår den langsomme axon transport?:: Væk fra cellelegemet
+	- Hvordan virker langsom axontransport?:: Passiv diffusion
+- Hurtige axontransport
+	- Hvad bruges den hurtige axontransport til?:: Transport af mitrokondrier, glat ER same døde celledele
+	- Hvilken retning foregår den hurtige axontransport?:: Begge retninger
+	- Hvordan foregår hurtig axontransport?:: Ved proteiner koplet på mikrotubuli (cytoskelettet)
