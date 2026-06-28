@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/3/Nervesystemet  #flashcards/4/Farmakologi 
 
 - Hvor syntetiseres [[Noradrenalin]]?:: I de sympatiske nerveender.
 - Hvordan syntetiseres [[Noradrenalin]]?

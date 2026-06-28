@@ -14,35 +14,12 @@
 - [[Acetylkolin]]
 - [[Dopamin]]
 - [[Serotonin]]
+- [[Noradrenalin]]
+- [[Adrenalin]]
+- [[GABA]]
+- [[Glycin]]
+- [[Glutamat]]
 
-    - Noradrenalin
-        - Hvordan dannes noradrenalin?:: Udfra aminosyren tyrosin
-        - Hvor bruges noradrenalin?:: Både i CNS og i det parasympatiske nervesystem
-            - Hvad bruges noradrenalin til i CNS?:: Gearing af hjerneområder
-        - Hvad gør noradrenalin?
-            - Exitere
-            - Inhibere
-            - Begge
-    - Adrenalin
-        - Hvordan dannes noradrenalin?:: Udfra aminosyren tyrosin
-        - Hvad bruges adrenalin til?:: Stressrespons
-        - Hvor bruges adreanlin?:: CNS og blodet
-    - GABA
-        - Hvordan dannes GABA?:: Udfra glutamat
-        - Hvor bruges GABA?:: Hjernen (CNS)
-        - Hvad bruges GABA til?:: Inhibertorisk neurotranmitter
-        - Hvad gør GABA?
-            - Exitere
-            - Inhibere
-            - Begge
-    - Glycin
-        - Hvor bruges glycin?:: Rygmarven (CNS)
-        - Hvad bruges glycin til?:: Inhibatorisk neurotransmitter
-    - Glutamat
-        - Hvor bruges glutamat?:: CNS
-        - Hvad bruges glutamat til?:: Eksiterende neurotransmitter
-        - Glutamat optages af {{6270166877781644::gliaceller}} her omdannes det til {{9069672021529475::glutamin}} så det kan transporteres tilabeg til neuronet og genomdannes til glutamat
-        - Hvad gør glutamat?
-            - Exitere
-            - Inhibere
-            - Begge
+![[Neuropeptider]]
+
+![[Nitrogenoxid]]
