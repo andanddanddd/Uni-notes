@@ -5,3 +5,9 @@
 ![[Hvilepotentialet]]
 
 ![[Actionspotentiale i neuroner]]
+
+![[Refraktære periode (neuroner)]]
+
+![[Exotoksicitet]]
+
+[[Neurotransmittere]]

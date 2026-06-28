@@ -10,3 +10,5 @@
 ![[Hvid substans]]
 
 ![[Nervecellekomunikation]]
+
+![[Neurotransmittere]]
