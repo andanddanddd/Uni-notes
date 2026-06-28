@@ -1,3 +1,4 @@
 #flashcards/3/Nervesystemet 
 
-![[Neuroner]]
+[[Neuroner]]
+[[Glia celler]]

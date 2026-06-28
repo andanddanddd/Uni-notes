@@ -10,17 +10,8 @@
 - Hvad sker med axonets tykkelse når det bevæger sig væk fra cellelegemet?:: Intet
 - Hvad hedder enden på en axon?:: Bouton/endeknop
 - Hvor mange synapser laver en axon i gennemsnit?:: 1000
-- Hvad er sammenhængen mellem tykkelse af axon og ledningshastighed?:: J
-- Jo {{9119716838573172::tykkere}} et axon jo {{634706842105194::højere}} {{4787280419794766::ledningshastighed}}
-	- Hvorfor?:: fordi de er relativt færre lækagekanaler dvs ligevægten er anderledes og giver et mere positivt indre jo tykkere axonet er
+- Hvad er sammenhængen mellem tykkelse af axon og ledningshastighed og hvorfor?:: Jo tykkere et axon jo højre ledningshastighed, eftersom der er relativt værre lækagekanaler
 - Hvorfor gør myelineringen et akson hurtigere?:: Fordi lækagekanlerne er mindre aktive
-- Hvordan kan pericaryon identificeres?:: Der er ikek nissil substans
-- Langsom axontransport
-	- Hvad bruges den langsomme axontransport til?:: Veligeholdelse af axonet
-	- Hvorfor er den langsomme axontransport relevant?:: Fordi der ikke er RuER i axonet så det kan ikke selv producere de nødvendige proteiner
-	- Hvilken retning foregår den langsomme axon transport?:: Væk fra cellelegemet
-	- Hvordan virker langsom axontransport?:: Passiv diffusion
-- Hurtige axontransport
-	- Hvad bruges den hurtige axontransport til?:: Transport af mitrokondrier, glat ER same døde celledele
-	- Hvilken retning foregår den hurtige axontransport?:: Begge retninger
-	- Hvordan foregår hurtig axontransport?:: Ved proteiner koplet på mikrotubuli (cytoskelettet)
+- Hvordan kan pericaryon identificeres?:: Der er ikke [[Nissil substans (neuron)]]
+
+![[Axontransport]]
