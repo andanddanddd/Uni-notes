@@ -4,3 +4,9 @@
 [[Glia celler]]
 
 ![[Myelinskeder]]
+
+![[Grå substans]]
+
+![[Hvid substans]]
+
+![[Nervecellekomunikation]]
