@@ -5,4 +5,5 @@
 - Hvordan påvirker højrehåndhed/venstrehåndhed placeringen af [[Brocas område]] og [[Wernices område]]?:: For højrehåndede mennesker ligger de ofetst i venstre side mens der er mere tilfældigt for venstrehåndede mennesker
 
 ![[Paritooccipitale associationspmråde]]
-- 
+
+![[Prefrontal associatinsområde]]
