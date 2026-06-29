@@ -7,80 +7,9 @@
 
 ![[Overfladeanatomi af telechephalon]]
 
-- Insula
-    - Hvad er insula?:: Den 5. hjernelobe
-    - Hvor ligger insula?:: Dybt i storhjernen
-    - Hvad sker i insula?
-        - Smags bliver bearbejdet
-        - Vi bliver opmærksomme på vicerale sanser
-        - Potentialt balancesans
-- Associationsområder
-    - Hvorfår bliver venstre isde oftest den dominante side?:: Den er lidt større ved fødslen så vi begynder at bruge den først og dermed "træner" den
-    - De {{9864658122454661::accesoriske}} områder hjælper de {{10093285468210289::primære}} områder med at {{16158298116229108::forstå}} de imput de får/giver
-    - Både {{7992318582201632::wernickes}} og {{48293372760488995::brocas}} område ligger oftest i {{13729209794599384::venstre}} side på {{7248489188552059::højrehåndede}} mennesker, det varierer lidt mere ved {{47955799453789394::ventrehåndede}} mennesker
-    - Parito-occipitemporale associationsområde
-    - Det {{7984635687818247::parieto-occipitptemporale}} associoasionsområde samler information fra {{4583811613453912::syn}} og {{4583811613453912::lyd}} udfra dette laver det et {{13752994981159183::kort}} over vores omgivelser
-    - I det {{3150372123885916::parieto-occipitemporale}} associationsområder ligger {{347291349387573::wernickes område}} der styrer {{686145534063284::sprogforståelse}}
-    - {{6719850959026605::Bagved}} {{33951409389222764::wernickes}} område ligger {{2864423424470838::gyrus angularis}} der styrer {{7599345973166785::visuel sprogforståele (læsning)}} den sender information til {{33951409389222764::wernickes område}}
-    - {{6223077328513895::Bagerst}} i {{8591442930484637::temporallappen}} sidder området der {{6478019520881186::navngiver obejkter}} dette område modtager både imput fra {{6805005920967803::syn}} og {{6805005920967803::hørelse}}
-    - Hvilket brodmanns område er wernikes område?:: 22
-    - Hvilket brodmanns område er gyrus angularis?:: 39
-    - Prefrontal associationsområde
-        - Det prefrontale associationsområde modtager {{6321850077317195::analyseret sensorisk information}} fra det {{1614739507399785::parito-accipitale associoatinosområde}} og bruger det information til at {{8543883825851278::planlægge bevægelser}} når dette sker vil {{03491403517805247::basalganglierne}} også aktiveres
-        - I det prefrontale associationsområde kan vi {{21098648783616913::tænke}} derudover sidder {{5216847996006372::arbejdshukomellsen}} heri
-        - {{5698510183290146::Bagerst lateralt}} i det prefrontale cortex sidder {{3744868919757466::brocas område}} der {{7887734912018146::planlægger}} vores {{04743424705121435::ord og små sætninger}}
-        - Hvilket brodmanns område er brocas område?:: 44 og 45
-    - Limbisk associationsområde
-        - På den {{5909093621063536::mediale underside}} af {{9702461723043233::occipitallapperne}} ligger området til at {{4790360041472631::genkende ansigter}}, der er både en {{5776749505631641::limbisk}} og {{7586142241500057::visuel}} del forbundet med dette område
-- Histologi
-    - Hvor tyk er hjernebarken?:: 3 mm ca
-    - Hvad kaldes cortex hvis der er 6 lag?:: Neocortex
-    - Hvad kaldes områderne af cortex med færre lag end neocortex?:: Archoortex eller paleocortex
-    - Hvad hedder overgange mellem neocortex og cortex med færre lag↔Mesocortex
-    - Hvad hedder de 6 lag?(udefra og ind)
-        - Lamina molecularis
-            - Hvad er i lamina molecularis?:: Fibre der knytter forskellige områder sammen
-        - Lamina granularis externa
-            - Hvad er i lamina granularis externa?:: Granulære og små pyramidale celler
-            - Hvor er der mest lamina granularis externa?:: Sensorisk cortex
-            - Hvor motager lamina granularis externa information fra?:: Andre steder i cortex
-        - Lamina pyramidalis externa
-            - Hvad er i lamina pyramidalis externa?:: pyramideceller (små/mellemstore)
-            - Hvor er der mest lamina pyramidalis externa?:: Motorisk cortex
-            - Hvor sender lamina pyramidalis externa fibre hen?:: Andre steder i cortex
-        - Lamina granularis interna
-            - Hvad er i lamina granularis interna?:: Granulære og små pyramidale celler
-            - Hvor er der mest lamina granularis interna?:: Sensorisk cortex
-            - Hvor modtager lamina granularis interna information fra?:: Subcorticale områder (dvs thalamus, hjernestammen og medulla spinalis
-        - Lamina pyramidalis interna
-            - Hvad er i lamina pyramidalis interna?:: Store pyramideceller
-            - Hvor er der mest lamina pyramidalis interna?:: Motorisk cortex
-            - Hvor sender lamina pyramidalis interna information fra?:: Subcorticale områder (dvs thalamus, hjernestammen og medulla spinalis
-            - Hvad er specielt ved pyramidecellerne i lamina pyramidalis interna?:: De er ekstra store
-                - Hvad hedder de?:: Betzske celler
-        - Lamina multiformis
-            - Hvad er i lamina multiformes?:: Både pyramide og granulaceller
-            - Hvilken funktion har lamina multiformes?:: Modtage og afgive forbindelser med nuclei interlaminlære thalami
-            - Hvilket af de 6 lag i cortex giver lamina multiformes fibre til?:: Lamina molecularis
-    - Hvad hedder de 3 typer neuroner i cortex?
-        - Granulære neuroner
-            - Granulære neuroner har et {{44223402527561406::kort}} axon og er derfor oftest {{18379451432032945::interneuroner}}
-            - Hvor er der mange granulære neuroner?:: De steder hvor information skal bearbejdes eks sensorisk cortex
-            - Hvilken neurotransmitter bruger granulær neuronerne?
-                - Glutamat
-                - GABA
-                - Det variere /Begge
-                - GABA
-                - Det varierer / begge
-        - Pyramide neuroner
-            - Pyramidale neuroner har et {{6160151600636152::langt}} axon og er derfor oftest {{6757684907810552::projektionsneuroner}} der kan gå ned i fx {{486324063431786::medulla spinalis}}
-            - Pyramidale neuroner er {{30105365444409404::støre}} og {{5623702235020709::der er flere af dem}} end {{007465244213958333::fusiforme neuroner}} der har samme formål
-        - Fusiforme neuroner
-    - Granulær cortex↔Område i cortex hvor de granulære cellelag er mest udviklet dvs mindre pyramidale cellelag
-        - Hvor tyk er granulær cortex?:: Tynd (2 mm)
-    - Agranulære cortex↔Område i cortex hvor de pyramidale cellelag er mest udviklet dvs mindre granulære cellelag
-        - Hvor tyk er agranulær cortex?:: Tykkere end den granulære
-    - Storehjernen er opbygget af en række {{05219199777970762::cylindre}} der hver "regner" 1 ting
-    - Kommissurforbindelser↔Forbindelser mellem de 2 hemisfære
-    - Associationsforbindelser↔Forbindelser indenfor 1 hemisfærer der gør mellem områder i cortex
-    - Projektionsforbindelser↔Forbindelser der knytter hjernebark med ikke-hjernbark
+
+![[Insula]]
+
+![[Associationsområder]]
+
+![[Histologi af telecephalon]]

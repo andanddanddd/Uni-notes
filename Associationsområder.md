@@ -7,3 +7,5 @@
 ![[Paritooccipitale associationspmråde]]
 
 ![[Prefrontal associatinsområde]]
+
+![[Limbiske associationsområde]]
