@@ -6,3 +6,7 @@
 1. [[Dura mater]]
 2. [[Arachnoidea mater]]
 3. [[Pia mater]]
+
+![[Kranieknogle]]
+
+![[Hjerneblødninger]]
