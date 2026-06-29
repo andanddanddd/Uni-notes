@@ -1,7 +1,7 @@
 #flashcards/3/Nervesystemet #flashcards/4/Farmakologi 
 
 - Hvor mange typer β-receptore er der?:: 3
-- Hvilken type g-koplet receptor er β-receptorerne?:: [[Gs‑koplet receptor]]
+- Hvilken type g-koplet receptor er β-receptorerne?:: [[Gs-koplede receptorer]]
 - Hvor findes β1 receptoer?
 ?
 - Hjerte

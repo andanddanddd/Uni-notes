@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/3/Nervesystemet 
 
 
 
@@ -18,6 +18,11 @@
 - Sænke blodsukker (eks glykogenese)
 - Øge blodflow til kønsorganer (klitoris og giver erektion)
 
+- Hvad innervere saccralnerverne?
+?
+- Nederste del af tarmen
+- Blære
+- Genitalia
 ###### Kranienerverne
 - Hvilke kranienerver har parasympatiske fibre?
 ?
