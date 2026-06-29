@@ -1,0 +1,32 @@
+#flashcards/3/Nervesystemet 
+
+- Hvilken del af nervesystemet forsynes af a. vertebralis?:: Bagerste 1/3 af hjernen og rygmarven
+- Hvor stammer a. vertabralis fra?:: [[A. subclavia]]
+- Hvad hedder hullet hvorved a vertabralis bevæger sig ind i kraniet?:: [[Foramen magna]]
+- Hvad hedder arterien der samler de 2 a. vertabralis?:: A. basilaris
+    - Hvor er a. basilaris?:: Forsiden af pons
+- Hvilke grene afgiver a. vertabralis inden de fusionere?
+    - A. spinalis anterior
+        - Hvad forsyner den?:: Foreste 2/3 af medulla spinalis
+        - Fusionere de 2 parrede grene?:: Ja tidligt
+    - A. spinalis posterior
+        - Hvad forsyner den?:: Bagerste 1/3 af medulla spinalis
+        - Fusionere de 2 parrede grene?:: Nej
+    - A. inferior posterior cerebelli
+        - Hvad forsyner den?
+            - Latterale del af medulla oblongata
+            - Bagerste underside af lillehjernen
+            - Plexus chrodea af 4 ventrikkel
+- Hvilke grene afgiver a. vertabralis efter de fusionere?
+    - A. inferior anterior cerebelli
+        - Hvad forsyner den?
+            - Laterale dele af pons
+            - Foreste nedre del af lillehjernen
+    - A. labyrinthi
+        - Hvad forsyner den?:: Det indre øre
+    - A. pontis
+        - Hvad forsyner den?:: mediale og ventrale del af pons
+    - A. cerebelli superior
+        - Hvad forsyner den?:: Øverste del af pons samt øverste del af cerebellum
+    - A. ceribri posterior
+        - Hvad forsyner den?:: Bagerste ognederste 1/3 af storhjernen
