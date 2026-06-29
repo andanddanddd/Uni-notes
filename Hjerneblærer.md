@@ -7,9 +7,3 @@
 - Hvad hedder indskæringen mellem [[Metenchephalon]] og [[Myelenchephalon]] ::: Flexura pontina
 - Hvad hedder indskæringen mellem mesenchephalon og metenchephalon ::: Istmus rhombenchephalicus
 - Hvad udvilkes cerebellum fra?:: [[Metencephalon]]
-- Hvilke 2 hjerneblærer bliver prosencephalon til?
-	- Telechephalon
-	- Dienchephalon
-- Hvilke 2 hjerneblærer bliver rhombencephalon til?
-	- Metenchephalon
-	- Myelencephalon
