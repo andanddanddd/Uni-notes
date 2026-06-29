@@ -2,6 +2,6 @@
 
 - Hvad forsyner den?
 ?
-- Latterale del af [[medulla oblongata]]
+- Latterale del af [[Medulla oblongata]]
 - Bagerste underside af [[lillehjernen]]
 - [[Plexus chrodeus]] af 4 ventrikkel

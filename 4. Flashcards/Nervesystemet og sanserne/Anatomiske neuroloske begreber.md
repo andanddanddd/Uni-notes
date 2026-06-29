@@ -4,3 +4,5 @@
 - Definer leminiscus ::: Sensorisk tractus
 - Definer fasiculus ::: Mindre bundt af nervefibre i CNS
 - Definer funiculus ::: Anatomisk område der indeholder flere tracti
+- Hvad betyder ipsilateral?:: Samme side af kroppen
+- Hvad betyder kontralateral?:: Modsatte side af kroppen
