@@ -11,3 +11,5 @@
 - Hvad er reel udspring?:: Den kerne kranienerven kommer fra
 
 - Hvad hedder kranienerve I?:: [[N. olfactorius]]
+- Hvad hedder kranienerve II?:: [[N. opticus]]
+- Hvad hedder kranienerve III?:: [[N. oculomotorius]]
