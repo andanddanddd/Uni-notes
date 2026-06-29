@@ -7,3 +7,5 @@
 - [[Mesenchephalon ]]
 - [[Pons]]
 - [[Medulla oblongata]]
+
+![[Formatio reicularis]]

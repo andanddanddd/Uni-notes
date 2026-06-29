@@ -10,4 +10,4 @@
 - Hvilken del af ventrikkelsystemet ligger heri?:: [[4. ventrikkel]]
 - Hvilke pedunkler ligger heri?:: Den midterste cerebelarre pedunkel men også en smule af den øverste
 - Hvad er forest i pons?:: [[Nuclei pontis]]
-- Hvilken pedinkel er i midterste del af pons?:: Den midterste
+- Hvilken pedunkel er i midterste del af pons?:: Den midterste
