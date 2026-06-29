@@ -33,6 +33,6 @@
 
 - Hvilke kranienervekerner giver parasympatiske fibre?
 ?
-- [[Nucleus edingerwestphalii]]
+- [[Nucleus Edinger-Westphalii]]
 - [[Nucleus salvator sup-inf]]
 - [[Nucleus dorsalis n. vagi]]
