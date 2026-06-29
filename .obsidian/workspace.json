@@ -11,12 +11,14 @@
             "id": "86d985a0ba2181b7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Externe dokumenter/Projekt 4 sem/Protokol 6 - qPCR -2.pdf"
+                "file": "Prefrontal associatinsområde.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Protokol 6 - qPCR -2"
+              "icon": "lucide-file",
+              "title": "Prefrontal associatinsområde"
             }
           }
         ]
@@ -222,6 +224,10 @@
   },
   "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
+    "Telechephalon.md",
+    "Storhjernen.md",
+    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Forelæsning - cortex ceribri.md",
+    "Externe dokumenter/Projekt 4 sem/Protokol 6 - qPCR -2.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf",
     "Prefrontal associatinsområde.md",
     "Associationsområder.md",
@@ -244,9 +250,6 @@
     "Sulcus calcarinus.md",
     "Gyrus singuli.md",
     "Sulcus centralis.md",
-    "Telechephalon.md",
-    "Storhjernen.md",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Forelæsning - cortex ceribri.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Det enteriske nervesystem.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
@@ -256,8 +259,6 @@
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne",
-    "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
