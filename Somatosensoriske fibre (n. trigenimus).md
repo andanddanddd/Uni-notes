@@ -1,0 +1,34 @@
+#flashcards/3/Nervesystemet 
+
+- Information om {{26018225283202545::proception}} ender i {{806834633985687::nucleus mesencephalicus n trigemini}} den er i {{10950016291988163::mesenchephalon}}
+- Hvilken kerne ender information om proception fra n. trigenimus i?:: [[Nucleus mesencehphalicus n. V]]
+- Hvilken kerne ender information om tryk/berøring i?:: [[Nucleus pontinus n. V]]
+- Hvilken kerne ender information om smerte/temperatur i?:: [[nucleus spinalis n. V]]
+- Information om {{4365618818639112::smerte og temperatur}} ender i {{6338976046931993::nucleus spinalis n. trigenimi}} den er i {{3618387677833179::medulla oblongata}}
+- Hvad hedder de 3 grene af n. trigenimus?
+- N. opthalmicus
+	- Hvor er n. opthalmicus inden den forlader kraniet?:: Sinus cavornosus
+		- Hvilken del af den?:: Væggen
+	- Hvor passere n. opthalmicus igennem kraniet?:: Fissura orbitalis sup.
+	- Hvad hedder de 3 dele ag n. opthalamicus?
+		- N. lacrimale
+			- Hvad forsyner den?:: Laterale side af øjenlågene
+		- N. frontale
+			- Hvad forsyner den?:: Panden og hovedbunden
+		- N. nasociliaris
+			- Hvad forsyner den?:: Cornea, ossis ethimodalis (der hvor lugtesansne sidder) og næsehulen
+- N. maxilaris
+	- Hvor er n. maxilaris inden den forlader kraniet?:: Sinus cavornosus
+		- Hvilken del af den?:: Væggen
+	- Hvor passere n. maxilaris igennem kraniet?:: Foramen rotundum
+	- Hvor går n. maxilare hen inden den deler sig?:: Ganglion pterygopalatinum
+	- Hvad forsyner nerverne der bevæger sig ud af ganglion pterygopalatinum?:: Orbita og ganen
+	- Hvilke 3 dele deler n. maxilaris sig i?
+		- N. zygomaticus
+			- Hvad forsyner den?:: Øvre laterale side af ansigtet
+		- N. infraorbitalis
+			- Hvad forsyner den?:: Læber, og foreste/midterste tandkød og tænder i overmunden
+		- N. alveolaris superior
+			- Hvad forsyner den?:: Bagerste del af tandkød og tænder i overmunden
+- N. mandibularis
+	- Hvor passere n. mandibularis igennem kraniet?:: Foramen ovale

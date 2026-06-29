@@ -4,7 +4,7 @@
 ?
 - [[Nucleus n. oculomotorii]]
 - [[Nucleus Edinger-Westphalii]]
-- [[Nucleus mesenchephalicus n. V]]
+- [[Nucleus mesencehphalicus n. V]]
 
 - Hvilken del af ventrikkelsystemet er heri?:: [[aqueductus cerebri]]
 

@@ -14,4 +14,4 @@
 - Hvad hedder kranienerve II?:: [[N. opticus]]
 - Hvad hedder kranienerve III?:: [[N. oculomotorius]]
 - Hvad hedder kranienerve IV?:: [[N. trochlearis]]
-- Hvad hedder 
+- Hvad hedder kranienerve V?:: [[N. trigenimus]]
