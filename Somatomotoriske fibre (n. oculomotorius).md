@@ -8,4 +8,4 @@
 - m. rectus inferior [[M. rectus inf]]
 - m. obliquus inferior [[m. obliquus inf]]
 
-- Hvilken kerne kommer de somatomotoriske fibre fra?:: Nucleus n. oculomotorii [[Nucleus n. oculomotorii]]
+- Hvilken kerne kommer de somatomotoriske fibre fra?::  [[Nucleus n. oculomotorii]]

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nucleus n. oculomotorii.md",
+                "file": "Kranienerverne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nucleus n. oculomotorii"
+              "title": "Kranienerverne"
             }
           }
         ]
@@ -223,13 +223,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
-    "Nucleus n. oculomotorii.md",
-    "Somatomotoriske fibre (n. oculomotorius).md",
-    "N. oculomotorius.md",
-    "Sinus cavornusus.md",
+    "N. trochlearis.md",
+    "m. obliquus superior.md",
+    "Nucleus n. troclearis.md",
     "Kranienerverne.md",
+    "N. oculomotorius.md",
+    "Viceromotoriske fibre (n. oculomotorius).md",
+    "m. ciliaris.md",
+    "Somatomotoriske fibre (n. oculomotorius).md",
+    "Nucleus n. oculomotorii.md",
+    "Sinus cavornusus.md",
     "N. opticus.md",
     "N. olfactorius.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Forelæsning - Hjernenerverne.md",
@@ -246,11 +251,6 @@
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Area parvocellularis (formatio retikularis).md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Intermedierzonen (formatio retikularis).md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Mesenchephalon.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Indre organisering af øvre del af mesenchephalon.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Substania nigra.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Tegmentum.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Nucleus rubor.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 3 - Medulla spinalis, Hjernestammen, Cortex cerebri og hjernenerverne/Indre organisering af nedre del af mesenchephalon.md",
     "Externe dokumenter/Projekt 4 sem/Protokol 6 - qPCR -2.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",

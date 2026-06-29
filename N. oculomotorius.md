@@ -18,11 +18,4 @@
 - Hvilken fibertype har n. oculomotorius?
 ?
 - [[Somatomotoriske fibre (n. oculomotorius)]]
-
-    - Viceromotoriske
-        - Hvilke muskler innervere n. oculomotorius?
-            - m. schinter pupillae
-            - m. ciliaris
-                - Hvad gør m. ciliaris?:: Ændre linsens krumning så vi kan se skarpt
-        - Hvilken kerne kommer de visceromotoriske fibre fra?:: Nucleus edingerwestphalii (IIIew)
-        - Hvilket ganglion går n. oculomotorius igennem?:: Ggl. ciliare
+- [[Viceromotoriske fibre (n. oculomotorius)]]
