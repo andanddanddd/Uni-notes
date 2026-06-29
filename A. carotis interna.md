@@ -4,7 +4,7 @@
 - Hvad hedder hullet hvorved a. carotis interna bevæger sig ind i kraniet?:: [[Canalis carotideus]]
 - Hvor går arterien hen der afgives i sinus cavernosus?:: [[Hypofysen]]
 - Hvor "ender" a. carotis interna? (dvs hvor den giver sine endegrene)?:: Under [[Chiasma opticus]]
-- Hvilken endegren er størst?:: [[A. ceribri media]]
+- Hvilken endegren er størst?:: [[A. cerebri media]]
 - Hvad hedder de 4 dele af A. carotis interna?
 ?
 - Pars cervikalis
