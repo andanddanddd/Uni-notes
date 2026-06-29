@@ -34,6 +34,5 @@
 - Hvilke kranienervekerner giver parasympatiske fibre?
 ?
 - [[Nucleus edingerwestphalii]]
-- [[Nucleus salvator superior]]
-- [[Nucleus salvator inferior]]
+- [[Nucleus salvator sup-inf]]
 - [[Nucleus dorsalis n. vagi]]

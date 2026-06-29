@@ -9,3 +9,5 @@
 ![[Fossa rhomboidea]]
 
 ![[Indre organisering af nedre del af pons]]
+
+![[Indre organisering af det midterste af pons]]
