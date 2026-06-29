@@ -13,3 +13,7 @@
 - Hvorfor er tight junktions vigtige i aracnoidea?:: Fordi de omkringliggende blodkar (i dura mater) ikke har blod-hjerne-barrieren
 
 ![[Lateralventriklerne]]
+
+![[3. ventrikkel]]
+
+![[4. ventrikkel]]
