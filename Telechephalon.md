@@ -13,3 +13,7 @@
 ![[Associationsområder]]
 
 ![[Histologi af telecephalon]]
+
+![[Corpus callosum]]
+
+![[Hukommelse]]

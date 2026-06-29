@@ -19,11 +19,10 @@
 - [[Pyramide neuroner]]
 - [[Fusiforme neuroner]]
 
-- 
 - Hvad kaldes områder i cortex hvor de granulære cellelag er mest udviklet dvs mindre pyramidale cellelag:: [[Granulær cortex]]
-- Hvad kaldes Område i cortex hvor de pyramidale cellelag er mest udviklet dvs mindre granulære cellelag
-	- Hvor tyk er agranulær cortex?:: Tykkere end den granulære
-- Storehjernen er opbygget af en række {{05219199777970762::cylindre}} der hver "regner" 1 ting
-- Kommissurforbindelser↔Forbindelser mellem de 2 hemisfære
-- Associationsforbindelser↔Forbindelser indenfor 1 hemisfærer der gør mellem områder i cortex
-- Projektionsforbindelser↔Forbindelser der knytter hjernebark med ikke-hjernbark
+- Hvad kaldes områder i cortex hvor de pyramidale cellelag er mest udviklet dvs mindre granulære cellelag?:: [[Agranulær cortex]]
+- 
+- Storehjernen er opbygget af en række ==cylindre== der hver "regner" 1 ting
+- Hvad kaldes forbindelser mellem de 2 hemisfære?:: [[Kommisurforbindelser]]
+- Hvad kaldes forbindelser indenfor 1 hemisfærer der gør mellem områder i cortex?:: [[- Associationsforbindelser]]
+- Hvad kaldes forbindelser der knytter hjernebark med ikke-hjernbark?:: [[Projektionsforbindelser]]

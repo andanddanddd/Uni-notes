@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histologi af telecephalon.md",
+                "file": "Hukommelse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Histologi af telecephalon"
+              "title": "Hukommelse"
             }
           }
         ]
@@ -224,8 +224,12 @@
   },
   "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
-    "Granulær cortex.md",
+    "Telechephalon.md",
+    "Hukommelse.md",
+    "Corpus callosum.md",
     "Histologi af telecephalon.md",
+    "Agranulær cortex.md",
+    "Granulær cortex.md",
     "Pyramide neuroner.md",
     "Granulære neuroner.md",
     "Lamina multiformis.md",
@@ -234,7 +238,6 @@
     "Lamina pyramidalis externa.md",
     "Lamina granularis externa.md",
     "Lamina molecularis.md",
-    "Telechephalon.md",
     "Overfladeanatomi af telechephalon.md",
     "Insula.md",
     "Associationsområder.md",
@@ -249,9 +252,6 @@
     "Gyrus angularis.md",
     "Wernices område.md",
     "Frontallappen.md",
-    "Gyrus precentralis.md",
-    "Prefrontale cortex.md",
-    "Premotorisk cortex.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
