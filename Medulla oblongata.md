@@ -5,11 +5,13 @@
 - Hvad hedder fremspringet lateralt for udspringet af n. hypoglossi?:: Oliva
 - Hvad hedder furene på medulla oblongata (fra forest og rundt)?
 ?
-- Fissura mediana anterior
-- [[Sulcus anterolateralis (medulla oblongata)]]
-- [[Sulcus retroolivaris (medulla oblongata)]]
-- Sulcus posteriolateralis
-- Sulcus intermed posterior
-- Sulcus midanus posterior
+1. Fissura mediana anterior
+2. [[Sulcus anterolateralis (medulla oblongata)]]
+3. [[Sulcus retroolivaris (medulla oblongata)]]
+4. Sulcus posteriolateralis
+5. Sulcus intermed posterior
+6. Sulcus midanus posterior
 
 ![[Pyrimis medullae oblongata]]
+
+![[Indre organisering af nedre del af medulla oblongata]]
