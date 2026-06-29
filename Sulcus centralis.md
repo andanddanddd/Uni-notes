@@ -3,5 +3,5 @@
 - Hvilken retning forløber sulus centralis vertikalt/i frontalplan
 - Hvilke gyri adskilles af sulcus centralis?
 ?
-- [[Gyri precentralis]]
+- [[Gyrus precentralis]]
 - [[Gyrus postcentralis]]
