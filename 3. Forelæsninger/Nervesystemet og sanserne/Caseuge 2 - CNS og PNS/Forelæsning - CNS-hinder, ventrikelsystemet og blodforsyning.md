@@ -2,3 +2,7 @@
 
 [[Hjernens blodforsyning]]
 [[Ventriklelsystemet]]
+[[Hjernehinderne]]
+
+![[Blod-hjerne-barrieren]]
+

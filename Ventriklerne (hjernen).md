@@ -8,7 +8,7 @@
 - I hvilke dele af ventrikkelsystemet er tight junktions?
 ?
 - kontakten med arachnoidea
-- [[Plexus chrodea]]
+- [[Plexus chrodeus]]
 
 - Hvorfor er tight junktions vigtige i aracnoidea?:: Fordi de omkringliggende blodkar (i dura mater) ikke har blod-hjerne-barrieren
 

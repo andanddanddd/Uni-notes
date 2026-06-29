@@ -4,4 +4,4 @@
 ?
 - Latterale del af [[medulla oblongata]]
 - Bagerste underside af [[lillehjernen]]
-- [[Plexus chrodea]] af 4 ventrikkel
+- [[Plexus chrodeus]] af 4 ventrikkel
