@@ -6,4 +6,5 @@
 - [[Sulcus parieoccipitalis]]
 
 - Hvilken struktur ses under occipitallappen?:: [[Tractus olfaktorius]]
+
 ![[Sulcus calcarinus]]

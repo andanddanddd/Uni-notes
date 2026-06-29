@@ -15,25 +15,10 @@
 
 ![[Occipitallappen]]
 
-- Lobus temporalis
-	- Hvad hedder de fure der afgrænser tindingelappen?
-		- Sulcus lateralis
-		- inscisura preoccipitalis
-	- {{8716265427719565::Gyri temporales transversi}} ligger under {{945912753052306::sulcus lateralis}} og danner {{464993733025567::auditorisk cortex}}
-	- {{8453920642439383::Neders}} i temporallappen sidder {{2593448907309369::olfaktorisk cortex}}
-	- Hvilket brodmanns område er auditorisk cortex?:: 41 og 42
-	- Hvilke "specielle" ting ligger i lobus temporales?
-		- Amygdala
-		- Hippokampus
-- Lobus parietale
-	- Hvad hedder de fure der indgrænser lobus parietale?
-		- Sulcus centralis
-		- Sulcus lateralis
-		- Sulcus parietooccipitalis
-	- Hvad gør gyrus postcentrales?:: Sensorisk center
-	- Hvilket brodmanns område er gyrus postcentrales?:: 1,2,3
-	- {{6428138176796647::Lobus parietalis sup}} ligger bag {{6853041884126573::gyri postcentralis}}, den har en sensorisk center
-	- {{4275095335249304::Lobus parietalis inf}} ligger under {{9343872311789031::lobus parietalis sup}} den består af {{8046883053132439::gyri supramarginalis}} og {{8046883053132439::gyri angularis}} her sidder {{9583377667981844::sprogforståelsen }}
+![[Temporallappen]]
+
+![[Parietallappen]]
+
 - Lobus frontale
 	- Hvad hedder den fure der afgrænser frontallappen?:: sulcus centrales (og meget lidt sulcus lateralis)
 	- Hvad gør gyri precentralis?:: Motorisk område

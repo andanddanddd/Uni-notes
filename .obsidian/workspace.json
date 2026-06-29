@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sulcus calcarinus.md",
+                "file": "Parietallappen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sulcus calcarinus"
+              "title": "Parietallappen"
             }
           }
         ]
@@ -224,9 +224,13 @@
   },
   "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
-    "Occipitallappen.md",
-    "Sulcus calcarinus.md",
+    "Gyrus postcentralis.md",
+    "Parietallappen.md",
     "Overfladeanatomi af telechephalon.md",
+    "Occipitallappen.md",
+    "Temporallappen.md",
+    "Audiorisk cortex.md",
+    "Sulcus calcarinus.md",
     "Gyrus singuli.md",
     "Wernices område.md",
     "Sulcus centralis.md",
@@ -246,10 +250,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Tunica muscularis (fordøjejelseskanalen).md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Enterisk inervering af tunica musklaris.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Tela submucosa (fordøjelseskanalen).md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Enterisk inervering af tela submucosa.md",
-    "0. De allervigtigste/Nervesystemet/Det parasympatiske nervesystem.md",
-    "0. De allervigtigste/Nervesystemet/Det sympatiske nervesystem.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Prævertebrale ganglier.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",

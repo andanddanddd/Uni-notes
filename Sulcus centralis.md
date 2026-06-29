@@ -4,4 +4,4 @@
 - Hvilke gyri adskilles af sulcus centralis?
 ?
 - [[Gyri precentralis]]
-- [[Gyri postcentralis]]
+- [[Gyrus postcentralis]]
