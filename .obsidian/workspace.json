@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Truncus sympaticus.md",
+                "file": "0. De allervigtigste/Nervesystemet/Det parasympatiske nervesystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Truncus sympaticus"
+              "title": "Det parasympatiske nervesystem"
             }
           }
         ]
@@ -222,11 +222,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "86d985a0ba2181b7",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "0. De allervigtigste/Nervesystemet/Det sympatiske nervesystem.md",
-    "Truncus sympaticus.md",
+    "0. De allervigtigste/Nervesystemet/Det parasympatiske nervesystem.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 6 - Nyrene/Autonome nervesystem.md",
+    "0. De allervigtigste/Nervesystemet/Det sympatiske nervesystem.md",
+    "Prævertebrale ganglier.md",
+    "Plexus pelvicus.md",
+    "Plexus mesenterius inferior.md",
+    "Plexus mesenterius sup.md",
+    "Plexus coeleacus.md",
+    "Truncus sympaticus.md",
+    "Nn. splanchnici.md",
+    "Rami communicantes grisei.md",
+    "Rami communicantes albi.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Forelæsning - ANS og CNS biokemi.md",
     "2. Caseuger/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Ventriklerne (hjernen).md",
@@ -241,15 +250,6 @@
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Pia mater.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Kraniet.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Kranieknogle.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Lamina interna (kranieknogle).md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Lamina eksterna (kranieknogle).md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Diploe (kranieknogle).md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Arachnoidea mater.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Subaraknoidalrummet.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Dura mater.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Bindevævsblade i dura mater.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Tentorium cerebelli.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Falx cerebelli.md",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 7 - Det limbiske system, Diecephalon og Formatio Retikularis",
