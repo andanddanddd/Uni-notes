@@ -15,3 +15,5 @@
 ![[Pyrimis medullae oblongata]]
 
 ![[Indre organisering af nedre del af medulla oblongata]]
+
+![[Indre organisering af øvre del af medulla oblongata]]

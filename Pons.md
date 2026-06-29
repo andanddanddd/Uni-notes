@@ -7,3 +7,5 @@
 - Hvad kaldes udposningen bag nucleus n. VI?:: Collicus facialis
 
 ![[Fossa rhomboidea]]
+
+![[Indre organisering af nedre del af pons]]

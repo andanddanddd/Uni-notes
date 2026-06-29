@@ -17,5 +17,4 @@
 - Nucleus spinalis n. V
 
 - Hvor ligger FLM i bunden af medulla oblongata?:: Foran [[Nucleus n. hypoglossi]]
-- Fiberbundetet {{4900548859145828::fasciculus longitudinalis medialis (FLM)}} ligger {{6227820924921215::foran}} {{4214227593816817::hypoglossuskernen}}
-- Hvilken del af ventrikkelsystemet ligger heri?:: Canalis centralis
+- Hvilken del af ventrikkelsystemet ligger heri?:: [[Canalis centralis]]
