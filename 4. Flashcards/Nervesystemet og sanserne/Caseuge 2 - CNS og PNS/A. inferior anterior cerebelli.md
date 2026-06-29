@@ -2,5 +2,5 @@
 
 - Hvad forsyner den?
 ?
-- Laterale dele af [[pons]]
+- Laterale dele af [[Pons]]
 - Foreste nedre del af [[lillehjernen]]

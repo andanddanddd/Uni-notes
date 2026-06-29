@@ -9,3 +9,11 @@
 - [[Medulla oblongata]]
 
 ![[Formatio reicularis]]
+
+![[Fasiculus longitunalis medialis]]
+
+![[Tractus spinalis n. V]]
+
+![[Tractus spinocerebelaris]]
+
+![[Tractus spinothalamicus]]

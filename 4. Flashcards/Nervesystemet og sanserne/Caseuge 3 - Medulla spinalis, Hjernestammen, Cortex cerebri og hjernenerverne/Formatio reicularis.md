@@ -10,8 +10,6 @@
 - Hvad hedder formatio reticularis 4 zoner?
 ?
 - [[Area gigntocellularis (formatio retikularis)]]
-- [[Area parvocellularis (substania nigra)]]
-- [[Nuclei raphes]]
-
-    - Intermedierzonen
-        - Hvor er denne zone?:: Mellem area parvocellularis og area gigantpcellularis
+- [[Area parvocellularis (formatio retikularis)]]
+- [[Nuclei raphes (formatio retikularis)]]
+- [[Intermedierzonen (formatio retikularis)]]
