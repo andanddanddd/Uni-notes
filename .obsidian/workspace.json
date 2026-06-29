@@ -218,14 +218,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86d985a0ba2181b7",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Telechephalon.md",
     "Hukommelse.md",
+    "Telechephalon.md",
     "Corpus callosum.md",
     "Histologi af telecephalon.md",
     "Agranulær cortex.md",
