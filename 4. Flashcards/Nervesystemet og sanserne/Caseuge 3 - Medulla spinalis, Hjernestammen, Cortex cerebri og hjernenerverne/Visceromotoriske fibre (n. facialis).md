@@ -3,7 +3,7 @@
 - Hvilken kerne kommer de viceromotoriske fibre fra?:: [[Nucleus salvator sup-inf]]
 - Hvad innervere de visceromotoriske fibre af n. facialis?
 ?
-- [[Glandula lacrimalis]]
+- [[Tårekirtlerne]]
 - Glandula submandibularis [[Kæbespytkirtlen]]
 - Glandula sublingualis [[Tungespytkirtlen]]
 
