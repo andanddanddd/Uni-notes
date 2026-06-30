@@ -12,8 +12,8 @@
 - Hvad hedder hulrummet n. oculomotorius bevæger sig igennem inden det bevæger sig ud af kraniet?:: [[Sinus cavornusus]]
 - Hvad sker med nerven efter den bevæger sig igennem fissura orabitalis sup?:: Den deler sig i 2 en øvre og en nedre
 - Hvilken del af n. olfaktorius har parasympatiske fibre efter den har passeret fissura orbitalis sup.?:: Den nedre
-- Hvilke muskler innervere den somatomotoriske del af den nedre gren?:: [[M. rectus inf]], [[m. obliquus inf]] og [[m. rectus med]]
-- Hvilke muskler innervere den somatomotoriske del af den øvre gren?:: [[M. levator palpebra sup]] og [[m rectus sup]]
+- Hvilke muskler innervere den somatomotoriske del af den nedre gren?:: [[M. rectus inf.]], [[m. obliquus inf]] og [[M. rectus med]]
+- Hvilke muskler innervere den somatomotoriske del af den øvre gren?:: [[M. levator palpebra sup]] og [[M. rectus sup.]]
 - Hvordan er de forskellige fibertyer arrangeret i nerven?:: Somatomotoriske fibre er inderst med parasympatiske fibre udenom
 - Hvilken fibertype har n. oculomotorius?
 ?
