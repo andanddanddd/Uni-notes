@@ -9,6 +9,4 @@
 ?
 - [[N. opthalmicus]]
 - [[N. maxilaris]]
-
-- N. mandibularis
-	- Hvor passere n. mandibularis igennem kraniet?:: Foramen ovale
+- [[N. mandibularis]]

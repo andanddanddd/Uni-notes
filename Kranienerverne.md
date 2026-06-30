@@ -15,3 +15,5 @@
 - Hvad hedder kranienerve III?:: [[N. oculomotorius]]
 - Hvad hedder kranienerve IV?:: [[N. trochlearis]]
 - Hvad hedder kranienerve V?:: [[N. trigenimus]]
+- Hvad hedder kranienerve VI?:: [[N. abducens]]
+- Hvad hedder kranienerve VII?:: [[N. facialis]]
