@@ -7,5 +7,5 @@
 - Hvor passerer n. trochlearis igennem kraniet?::  [[Fissura orbitalis sup.]]
 - Hvilken kerne kommer n. trochleris fra?:: [[Nucleus n. troclearis]]
 - Hvilken struktur skal n. troclearis bevæge sig rundt om før den træder inde i [[Sinus cavornusus]]?:: Pedunculu sceribri
-- Hvilken muskel innvere n. troclearis?:: [[m. obliquus superior]]
+- Hvilken muskel innvere n. troclearis?:: [[M. obliquus sup.]]
 - Hvad gør man naturligt for at kompensere for ødelagt kranienerve 4?:: Hælder hovedet mod den ødelagte nerve

@@ -6,6 +6,6 @@
 - m. rectus medialis [[M. rectus med]]
 - m. rectus superior [[M. rectus sup.]]
 - m. rectus inferior [[M. rectus inf.]]
-- m. obliquus inferior [[m. obliquus inf]]
+- m. obliquus inferior [[M. obliquus inf.]]
 
 - Hvilken kerne kommer de somatomotoriske fibre fra?::  [[Nucleus n. oculomotorii]]
