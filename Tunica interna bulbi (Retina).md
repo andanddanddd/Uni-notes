@@ -17,47 +17,12 @@
 - Hvad hedder retinas 10 lag (udefra og ind)
 ?
 1. [[Pars pigmentosa (retina)]]
+2. [[Stratum photosensorium externum]]
+3. [[Stratum limitans externum]]
+4. [[Stratum nucleare externum]]
+5. [[Stratum plexiforme externum]]
+6. [[Stratum nucleare internum]]
 
-	- Stratum photosensorium externum
-		- Hvad er heri?:: Yderdelen af stav- og tapceller
-		- Hvilken form har stave?:: Lange og tynde
-		- Hvilken form har tapper?:: Korte og tykke
-		- Hvilken del af stave og tappe er lysfølsomme?:: Den yderste
-		- Hvordan ser den lysfølsomme del af stave og tappe ud?:: En stabel membranafgrænsede discks
-		- Hvilken fotoreceotor fungere ved alt lys?
-			- Stave
-			- Tapper
-		- Hvilken fotoreceptore kan skeldne farver?
-			- Stave
-			- Tapper
-		- Hvad er speielt ved siganeringen i fotoreceptore?:: Det foregår evd en hypoerpolarisering
-		- {{21971376745608362::Én}} {{883601779258266::tap}} er følsom for {{21971376745608362::én}} farve
-		- Hvad kaldes delen af tapper og stave hvor synspigmenten sidder?:: Disci
-		- {{11232215338153484::Stave}} bruger synspigmentet {{24294449356931425::rhodopsin}}
-		- {{12162206868925052::Tappe}} bruger {{22869604599525417::3 forskellige}} synspigmenter der absorbere lys ved forskellige bølgelængder
-		- Alle synspigmenter er en {{5994810791558576::G-proteinkoplet receptor}} der er knyttet til proteinet {{8248737597873108::retinal}} som er en form for {{9892857328779949::A-vitamin}}
-		- Hvad hedder den inaktive form for retinal?:: 11-cis-retinal
-		- Hvad hedder den aktive form af retinal?:: Transretinal
-		- Når {{2565713873829202::11-cis-retinal}} aktiveres, omdannes det til {{1702995442488151::transretinal}} når dette sker frigives {{21164154816975878::transducin}}
-		- {{20096084342713683::Transducin}} tillader {{2782351565110147::cGMP}} at blive omdannet til {{07524967441143726::GMP}} hvorved {{815106496544238::natriumkanlaer (og andre kationer)}} {{3959047522567637::lukker}} hvilket medfører en {{1735767049630471::polarisering}}
-		- Ved {{10677797068651806::mørke}} holder {{6840745874652834::cGMP}} {{8696166128371243::natriumkanlaer (og andre kationer)}} {{02547466250857966::åbne}}, når {{6840745874652834::cGMP}} bliver omdannet er der ikke længere noget til at holde dem {{02547466250857966::åbne}} så de {{02547466250857966::lukker}}
-		- Som udgangspunkt vil fotoreceptorene frigive {{768052104249589::glutamat}} til {{2704324290347241::de bipolære neuroner}} dette stopper dog når der sker en {{7845226370571946::polarisering}}
-		- Hvor er processen hvorved fotoreceptorene videregiver sit signal så "kompliceret"?:: For at kunne forstærke signalet
-	- Stratum limitans externum
-		- Hvad er müller celler?:: Støtteceller i retina (gliaceller)
-		- Hvad er stratum limitans externum?:: En "membran" som fotoreceptoren indre del apssere igennem
-			- Hvad er membranne lavet af?:: forbindelser mellem fotorecetorene
-	- Stratum nucleare externum
-		- Hvad er heri?:: Fotoreceptorenes kerner
-	- Stratum plexiforme externum
-		- Hvad er heri?:: Overgangen fra fotoreceptorer til bipolære neuroner
-	- Stratum nucleare internum
-		- Hvad er heri?:: Kerner fra neuroner (både amakrinceller, bipolære neurone rog horizontalceller)
-		- Hvad er horizontalceller?:: multipolære neuroner
-		- Hvad forbinder horizontalceller i kontakt med?:: Fotoreceptore, hinanden og Bipolære celler
-		- Hvad forbinder bipolære celler?:: Fotoreceptore og ganglieceller
-		- Hvad er specielt ved amakrinceller?:: Dens udløbebre har både dendritisk og axonel funktion
-		- Hvad forbinder amakrine celler?:: Ganglieceller og bipolare celler
 	- Stratum plexiforme internum
 		- Hvad er heri?:: Kontakt mellem bipolære neuroner, amakrine celler og ganglieceller
 	- Stratum ganglionare
