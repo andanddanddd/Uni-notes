@@ -19,3 +19,6 @@
 - Hvad hedder kranienerve VII?:: [[N. facialis]]
 - Hvad hedder kranienerve VII?:: [[N. vestibulocochlearis]]
 - Hvad hedder kranienerve IX?:: [[N. glossophanygeus]]
+- Hvad hedder kranienerve X?:: [[N. vagus]]
+- Hvad hedder kranienerve XI?:: [[N. accesorius]]
+- Hvad hedder kranienerve XII?:: [[N. hypoglossi]]
