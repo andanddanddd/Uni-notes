@@ -2,3 +2,5 @@
 
 ![[Overfladeanatomi af rygmarven]]
 
+![[Indre organisering af rygmarven]]
+
