@@ -18,4 +18,4 @@
 - Hvad hedder kranienerve VI?:: [[N. abducens]]
 - Hvad hedder kranienerve VII?:: [[N. facialis]]
 - Hvad hedder kranienerve VII?:: [[N. vestibulocochlearis]]
-- Hvad hedder kranienerve 
+- Hvad hedder kranienerve IX?:: [[N. glossophanygeus]]

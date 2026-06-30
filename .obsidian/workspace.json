@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kranienerverne.md",
+                "file": "Somatosensoriske fibre (n. glossopharyngeus).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kranienerverne"
+              "title": "Somatosensoriske fibre (n. glossopharyngeus)"
             }
           }
         ]
@@ -225,8 +225,13 @@
   },
   "active": "86d985a0ba2181b7",
   "lastOpenFiles": [
-    "N. vestibulocochlearis.md",
+    "N. glossophanygeus.md",
+    "Somatosensoriske fibre (n. glossopharyngeus).md",
+    "Visceromotoriske fibre (n. glossopharyngeus).md",
+    "Somatomotoriske fibre (n. glossopharyngeus).md",
+    "M. stylopharyngeus.md",
     "Kranienerverne.md",
+    "N. vestibulocochlearis.md",
     "N. facialis.md",
     "Specielle sensoriske fibre (n. facialis).md",
     "Somatosensoriske fibre (n. facialis).md",
@@ -246,11 +251,6 @@
     "N. infraorbitalis.md",
     "N. zygomaticus.md",
     "N. opthalmicus.md",
-    "N. nasociliaris.md",
-    "N. frontale.md",
-    "N. lacrimale.md",
-    "0. De allervigtigste/Nervesystemet/Det parasympatiske nervesystem.md",
-    "Sinus cavornosus.md",
     "Externe dokumenter/Projekt 4 sem/Protokol 6 - qPCR -2.pdf",
     "Externe dokumenter/Projekt 4 sem/Protokol 5 - cDNA syntese-2.pdf",
     "3. Forelæsninger/Nervesystemet og sanserne/Caseuge 5 og 6 - Det motorisek og sensoriske nervebaner",
