@@ -1,12 +1,12 @@
 #flashcards/Molekulær-biologi 
-[[Antibiotika]]
+[[4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika]]
 [[Arkæer]]
 [[Bakterier]]
 [[Gram farvning]]
 [[Prioner]]
 [[Protister]]
 [[Svampe]]
-[[Virus]]
+[[4. Flashcards/Molekylær biologi/Caseuge 1/Virus]]
 
 
 
