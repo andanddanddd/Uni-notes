@@ -16,6 +16,9 @@
 
 ![[Onkogen virus]]
 
+![[Immunforsvaret mod virus]]
+
+![[Vira undvigelsesstrategier]]
 
 ![[Pasted image 20260528191700.png]]
 
