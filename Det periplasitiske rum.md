@@ -1,0 +1,6 @@
+#flashcards/5/Mikrobiologi 
+
+- Hvilken type bakterier har et periplastisk rum?:: [[Gram-negative bakterier]]
+- Hvad ligger i det periplastiske rum?:: Peptidoglykanlag og en gel [[Bakterier peptidoglykanlag]]
+- Hvad er functionen af væsken/gelen i det periplastiske rum?:: Give næring og indeholde enzymer
+- Hvad hedder enzymet i det periplastiske rum der kan nedbryde [[Penicilin]]?:: $\beta$-lactamase
