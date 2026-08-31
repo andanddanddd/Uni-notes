@@ -11,4 +11,5 @@ Hvis der er stave er det en stav selvom der er flere runde
 
 Spore = assymetrisk bakteriedeling
 
+[[Bakterier]]
 [[Arkæer]]
