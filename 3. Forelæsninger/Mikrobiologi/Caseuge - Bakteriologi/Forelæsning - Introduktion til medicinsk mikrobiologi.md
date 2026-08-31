@@ -1,5 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
+HUSK A
 [[Slides - Introduktion til Medicinsk Mikrobiologi.pdf]]
 
 Vira har ikke en fælles forfædre, mange er opstået uafhængigt af hinanden

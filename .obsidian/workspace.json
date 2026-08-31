@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "5dce52b8f09af175",
+            "id": "7dcb299e3ea71140",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,8 +51,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - Introduktion til Medicinsk Mikrobiologi"
             }
+          },
+          {
+            "id": "5dce52b8f09af175",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Bakteriestruktur_2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,9 +250,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5dce52b8f09af175",
+  "active": "7dcb299e3ea71140",
   "lastOpenFiles": [
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/msoC2C5.tmp",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/msoB4F9.tmp",
+    "2. Caseuger/MIkrobiologi/Caseuge - Bakteriologi.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Bakteriestruktur_2026(1).pptx",
+    "Externe dokumenter/MIkrobiologi/Bakteriestruktur_2026(1).pptx",
+    "Externe dokumenter/Bakteriestruktur_2026(1).pptx",
+    "Bakteriestruktur_2026(1).pptx",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Antistoffer.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi",
@@ -260,20 +282,11 @@
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Onkogen virus.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur.md",
     "1. Fag/Immunologi.md",
-    "4. Flashcards/Immunologi/Caseuge 3 - Anvendt immunologi",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem",
-    "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem",
     "1. Fag/Mikrobiologi.md",
     "2. Caseuger/Immunologi/Caseuge 3 - Anvendt immunologi.md",
     "2. Caseuger/Immunologi/Caseuge 2 - Det adaptive immunsystem.md",
     "2. Caseuger/Immunologi/Caseuge 1 - Det innate immunsystem.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans.md",
-    "2. Caseuger/Immunologi",
-    "3. Forelæsninger/Immunologi/Caseuge 3 - Anvendt immunologi",
-    "3. Forelæsninger/Immunologi/Caseuge 2 - Det adaptive immunsystem",
-    "3. Forelæsninger/Immunologi/Caseuge 1 - Det innate immunsystem",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinetiming.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinationer.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
