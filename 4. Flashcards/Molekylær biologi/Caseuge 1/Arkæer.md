@@ -1,8 +1,10 @@
-#flashcards/Molekulær-biologi 
+#flashcards/Molekulær-biologi #flashcards/5/Mikrobiologi 
 
 - Hvad er arkæer?:: En gammel form for bakterie
 <!--SR:!2026-06-01,4,270-->
-- Hvor lever arkæer?:: I barske forhold
+- Hvor lever arkæer?:: I barske forhold 
+- Hvilke arkæer er pategene?:: Ingen
+- Hvilken 
 - Hvor i kroppen findes arkæer?
 ?
 - Colon
