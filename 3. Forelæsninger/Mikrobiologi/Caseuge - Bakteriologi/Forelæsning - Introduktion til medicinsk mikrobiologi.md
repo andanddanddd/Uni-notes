@@ -1,6 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
-HUSK A
+HUSK AT SKRIVE BAKTERIER I KURSIV TIL AKSAMEN
 [[Slides - Introduktion til Medicinsk Mikrobiologi.pdf]]
 
 Vira har ikke en fælles forfædre, mange er opstået uafhængigt af hinanden
