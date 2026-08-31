@@ -2,7 +2,7 @@
 [[4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika]]
 [[Arkæer]]
 [[Bakterier]]
-[[Gram farvning]]
+[[Gram-farvning]]
 [[Prioner]]
 [[Protister]]
 [[Svampe]]

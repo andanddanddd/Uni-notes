@@ -15,7 +15,17 @@
               "state": {
                 "file": "Gram-farvning.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Gram-farvning"
@@ -73,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/Molekulær-biologi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +104,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,13 +235,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7dcb299e3ea71140",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Gram-negative bakterier.md",
     "Gram-farvning.md",
+    "Gram-positive bakterier.md",
+    "Gram-negative bakterier.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Gram farvning.md",
+    "3. Forelæsninger/Molekylær biologi 1/Caseuge 1/Forelæsning - Prokaryoter og virus.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Bakterier.md",
     "Biofilm.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Arkæer.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
@@ -259,9 +273,6 @@
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Interferoner.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/NK-celler.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Onkogen virus.md",
-    "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur.md",
-    "1. Fag/Immunologi.md",
-    "1. Fag/Mikrobiologi.md",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
