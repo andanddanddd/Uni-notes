@@ -13,5 +13,7 @@ Spore = assymetrisk bakteriedeling
 
 ![[Gram-farvning]]
 
+![[Bakterier peptidoglykanlag]]
+
 [[Bakterier]]
 [[Arkæer]]

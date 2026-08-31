@@ -4,6 +4,7 @@
 - Hvad er princippet bag gram-farvning overrdnet?:: Ved de [[Gram-positive bakterier]] bliver det blå kompleks ikke skyldes væk med alkohol dermed forbliver de blå mens de [[Gram-negative bakterier]] bliver "klare"
 - Hvad bruges til at give den røde farve i gram farvning?:: Safranin
 - Hvilken type bakterier bliver røde ved gram-farvning?:: [[Gram-negative bakterier]]
+- Hvad bruges til at give den lilla farve i gram-farvning?:: Crystalviolet modificeret med jodjodkalium
 
 ![[Gram-negative bakterier]]
 
