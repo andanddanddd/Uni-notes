@@ -60,7 +60,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -219,14 +221,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86d985a0ba2181b7",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Sekundære infektioner.md",
     "3. Forelæsninger/Immunologi/Caseuge 3 - Anvendt immunologi/Forelæsning - Immunitet ved infektion.md",
+    "Sekundære infektioner.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Virus.md",
     "Vira undvigelsesstrategier.md",
     "Mutationer som undvigelsesstragegi.md",
