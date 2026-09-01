@@ -6,10 +6,24 @@
       {
         "id": "6c0f6f706da33221",
         "type": "tabs",
-        "dimension": 50.45045045045045,
+        "dimension": 46.966966966966964,
         "children": [
           {
             "id": "7dcb299e3ea71140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Introduktion til medicinsk mikrobiologi"
+            }
+          },
+          {
+            "id": "173c8ba904be8ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,13 +35,28 @@
               "icon": "lucide-file",
               "title": "Forelæsning -  Bakteriestruktur"
             }
+          },
+          {
+            "id": "e2a2dd538cfea658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bakteriers taksonomi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bakteriers taksonomi"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 49.549549549549546,
+        "dimension": 53.03303303303303,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -100,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 210.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -226,10 +255,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7dcb299e3ea71140",
+  "active": "e2a2dd538cfea658",
   "lastOpenFiles": [
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
+    "Bakteriers taksonomi.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet/Stave (synspigment).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
     "Blodplader agerplade.md",
     "Dyrkningsmedier.md",
     "Prøvetagelse.md",
@@ -242,7 +276,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Væskt af bakterier.md",
     "Billeder/Mikrobiologi/Pasted image 20260901101423.png",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriens kapsel.md",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Ikke-levende vacciner.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinationer.md",
@@ -252,15 +285,10 @@
     "4. Flashcards/Molekylær biologi/Caseuge 1/Bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bevægelse af bakterien.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Flagel.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Pili.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriens ydre strukture.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriers organeller.md",
     "Billeder/Mikrobiologi/Pasted image 20260831122316.png",
     "Billeder/Mikrobiologi",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/msoC2C5.tmp",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/msoB4F9.tmp",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Bakteriestruktur_2026(1).pptx",
     "Externe dokumenter/MIkrobiologi/Bakteriestruktur_2026(1).pptx",
     "Externe dokumenter/Bakteriestruktur_2026(1).pptx",

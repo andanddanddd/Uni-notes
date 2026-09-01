@@ -2,13 +2,13 @@
 
 - Hvad er heri?:: Yderdelen af stav- og tapceller
 
-![[Stave]]
+![[Stave (synspigment)]]
 
 ![[Tappe]]
 
 - Hvilken del af stave og tappe er lysfølsomme?:: Den yderste
 - Hvordan ser den lysfølsomme del af stave og tappe ud?:: En stabel membranafgrænsede discks
-- Hvilken fotoreceotor fungere ved alt lys?:: [[Stave]]
+- Hvilken fotoreceotor fungere ved alt lys?:: [[Stave (synspigment)]]
 - Hvilken fotoreceptore kan skeldne farver?:: [[Tappe]]
 - 
 
