@@ -27,6 +27,8 @@ Spore = assymetrisk bakteriedeling
 
 ![[Væskt af bakterier]]
 
+![[Prøvetagelse]]
+
 ![[Dyrkningsmedier]]
 
 [[Bakterier]]

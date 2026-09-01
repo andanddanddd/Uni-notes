@@ -2,7 +2,7 @@
 
 - Hvad er de 5 mest almindelige dyrkningsmedier til bakterier?
 ?
-- Blodplader
+- [[Blodplader agerplade]]
 - [[Chokoladeagerplader]]
 - [[Blå plade]]
 - [[MacConkey plade]]
