@@ -5,3 +5,4 @@
 - Hvordan er lipid A opbygget?:: Disakkarider med phosolipider påsidende på sig
 <!--SR:!2026-09-05,4,270-->
 - Hvordan undergår lipid A at blive et mål for immunsystemet?:: Lipid A kan ændres
+<!--SR:!2026-09-05,4,270-->

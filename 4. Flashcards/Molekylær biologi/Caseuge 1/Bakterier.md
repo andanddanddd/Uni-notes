@@ -22,4 +22,6 @@
 - Hvilken effekt har det for prokayoternes proteinsyntese at de ikke har en kernemembran?:: Translation og transskribtion kan ske samtidig, dermed kan det ske hurtigt
 <!--SR:!2026-09-05,4,270-->
 - Hvad hedder strukturen bestående af et lag bakterier der sidder sammen af lipopolysakkarider?:: [[Biofilm]]
+<!--SR:!2026-09-05,4,270-->
 - Hvor hurtigt er bakteriers metabolisme i forhold til eukaryoters?:: Bakteriers metabolisme er ofte meget hurtigere, derfor kan de dele sig meget hurtigt
+<!--SR:!2026-09-05,4,270-->
