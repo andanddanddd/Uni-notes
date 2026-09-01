@@ -2,6 +2,7 @@
 
 - Hvad betyder vaccination (vaccinus)?:: Fra koen
 <!--SR:!2026-09-05,4,270-->
+
 ![[Adjuvans]]
 
 - Hvilke 3 typer af vacciner har vi?

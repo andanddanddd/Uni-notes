@@ -6,7 +6,7 @@
 - Proteiner fra patogener
 <!--SR:!2026-09-05,4,270-->
 
-- Hvad er en toksidvaccine?―Oprenset eksotoksiner fra bakterier
+- Hvad er en toksidvaccine?:: Oprenset eksotoksiner fra bakterier
 - Hvorfor kan det være et problem at opregulere de specifikke epitoper som er nemmest at lave adaptiv respons imod?:: Man kan risikere at danne et peptid som ikke kan præsenteres på de specifikke HLA molekyler som et individ har
 <!--SR:!2026-09-02,1,230-->
 - Hvorfor er det til tider nødvendigt at kunjugere epitopet fra patogenet?:: Hvis det er et kulhydrat skal det sættes sammen med et protein
