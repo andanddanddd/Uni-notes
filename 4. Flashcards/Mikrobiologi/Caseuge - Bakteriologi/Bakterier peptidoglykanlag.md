@@ -28,8 +28,10 @@
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
 - Hvilke 2 peptider danner krydsbindinger i murein?
 ?
-- 
+- D-alanin
+- Lysin (eller modificeret lysin)
 
+- Hvilken modificering kan ske til lysin i de krydsbindende peptidkæder?:: Carboxylering af sidekæden
 
 
 
