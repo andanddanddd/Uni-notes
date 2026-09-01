@@ -10,6 +10,7 @@
 - Hvorfor er det til tider nødvendigt at kunjugere epitopet fra patogenet?:: Hvis det er et kulhydrat skal det sættes sammen med et protein
 - Hvad bruges ikke-levende vacciner til?:: Bakterieangreb
 - Hvilken type adaptiv respons sker der ved ikke-levende vacciner?:: Th-respons og [[Antistoffer]]
+<!--SR:!2026-09-02,1,230-->
 - Hvilken fordel har ikke-levende vacciner?:: De kan ikke give infektion og de kan håndteres mere groft
 - Hvilken ulempe har ikke-levende vacciner?:: De giver ikke altid et godt respons
 
