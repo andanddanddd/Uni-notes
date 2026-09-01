@@ -19,6 +19,7 @@ Spore = assymetrisk bakteriedeling
 
 ![[Bakteriers DNA og kromosomer]]
 
+![[Bakteriers organeller]]
 
 [[Bakterier]]
 [[Arkæer]]

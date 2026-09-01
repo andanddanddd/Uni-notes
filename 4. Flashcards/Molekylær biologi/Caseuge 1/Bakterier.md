@@ -13,7 +13,9 @@
 
 - Hvor store er bakterier?:: 0,5-5 μm i lænægde (1/10 af humane celler)
 <!--SR:!2026-09-12,11,270-->
-- Hvordan kan en bakteire danne ATP når den ikke har mitokondrier?:: Den har cytochromer (delene i mitokondrierne der indgår i elektrontransportkæden) direkte på cellemembranen [[Bakteriers cellemembran]]
+
+![[Bakteriers organeller]]
+
 
 ![[Gram-farvning]]
 
