@@ -21,3 +21,11 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 ![[Gram-positive bakterier]]
 
 ![[Pasted image 20260901140416.png]]
+
+
+###### Occlusion
+![[Gram-inddeling]] A?:: Gram positiv 
+![[Gram-inddeling]] B?:: Gram negativ
+![[Gram-inddeling]] C?:: Murein
+![[Gram-inddeling]] D?:: Det periplatiske rum
+![[Gram-inddeling]] E?:: LPS

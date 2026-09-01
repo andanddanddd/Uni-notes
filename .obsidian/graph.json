@@ -1,65 +1,65 @@
 {
   "collapse-filter": false,
-  "search": "#flashcards/5",
+  "search": "flashcards/5",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Fag/\"",
+      "query": "path:\"0. De allervigtigste\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Caseuger/\"",
+      "query": "path:\"1. Fag\" ",
       "color": {
         "a": 1,
-        "rgb": 33437
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:\"Forelæsninger/\"  ",
+      "query": "path:\"2. Caseuger\"  ",
       "color": {
         "a": 1,
-        "rgb": 44452
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:\"Flashcards/\"  ",
+      "query": "path:\"3. Forelæsninger\"  ",
       "color": {
         "a": 1,
-        "rgb": 2349200
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:\"De allervigtigste/\"  ",
+      "query": "path:\"4. Flashcards\" line:()",
       "color": {
         "a": 1,
-        "rgb": 9175295
+        "rgb": 6084269
       }
     },
     {
-      "query": "path:\"Excalidraw/\"",
+      "query": "path:Excalidraw ",
       "color": {
         "a": 1,
-        "rgb": 11336304
+        "rgb": 6073814
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.52916666666667,
-  "lineSizeMultiplier": 1.42708333333333,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.35918048780488,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.260416666666667,
-  "repelStrength": 14.8958333333333,
-  "linkStrength": 0.90625,
-  "linkDistance": 103,
-  "scale": 0.32700489344402667,
-  "close": true
+  "centerStrength": 0.225756097560976,
+  "repelStrength": 12.6864605652484,
+  "linkStrength": 0.706536585365854,
+  "linkDistance": 74,
+  "scale": 0.3270048934440228,
+  "close": false
 }
