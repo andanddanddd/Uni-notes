@@ -2,6 +2,7 @@
 
 [[Slides - Bakteriestruktur_2026.pdf]]
 Schaechter's Mechanisms of Microbial Disease, Chapter 3. Biology of Infectious Agents
+MIkrobiologi video
 
 Mycoplasma har ingen cellevæg
 
