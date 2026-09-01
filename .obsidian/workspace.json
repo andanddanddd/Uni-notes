@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mycoplasma.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Endotoksiner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mycoplasma"
+              "title": "Endotoksiner"
             }
           },
           {
@@ -38,15 +38,30 @@
             "id": "e2a2dd538cfea658",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf"
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Slides - Introduktion til Medicinsk Mikrobiologi"
+              "icon": "lucide-file",
+              "title": "Gram-farvning"
+            }
+          },
+          {
+            "id": "7816aefd3c76fe74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mikrobiologi/Drawing 2026-09-01 14.05.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-01 14.05.30.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "be13c5ef83f7b4d3",
@@ -99,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/5/Mikrobiologi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,37 +265,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "7816aefd3c76fe74",
   "lastOpenFiles": [
-    "Mycoplasma.md",
-    "Syrefaste bakterier.md",
-    "Atypiske bakterier.md",
-    "Clamydia.md",
-    "Treponema pallidum.md",
-    "Spiraler (bakterie).md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
+    "Excalidraw/Mikrobiologi/Drawing 2026-09-01 14.05.30.excalidraw.md",
+    "Excalidraw/Mikrobiologi",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Atypiske bakterier.md",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Pasted image 20260901140416.png",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Endotoksiner.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Eksotoksiner.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Mycoplasma.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Syrefaste bakterier.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Clamydia.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Treponema pallidum.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Spiraler (bakterie).md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
-    "Bakteriers taksonomi.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriers taksonomi.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 4 - Sanseapparatet/Stave (synspigment).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
-    "Blodplader agerplade.md",
-    "Dyrkningsmedier.md",
-    "Prøvetagelse.md",
-    "Müller Hinton plade.md",
-    "MacConkey plade.md",
-    "Blå plade.md",
-    "Chokoladeagerplader.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Blodplader agerplade.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Dyrkningsmedier.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Prøvetagelse.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Müller Hinton plade.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/MacConkey plade.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Blå plade.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chokoladeagerplader.md",
     "3. Forelæsninger/Immunologi/Caseuge 3 - Anvendt immunologi/Forelæsning - Immunitet ved infektion.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Sekundære infektioner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Væskt af bakterier.md",
     "Billeder/Mikrobiologi/Pasted image 20260901101423.png",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriens kapsel.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Ikke-levende vacciner.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinationer.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriers DNA og kromosomer.md",
     "Billeder/Mikrobiologi/Pasted image 20260831122316.png",
     "Billeder/Mikrobiologi",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/msoC2C5.tmp",
@@ -289,7 +306,6 @@
     "Externe dokumenter/MIkrobiologi/Bakteriestruktur_2026(1).pptx",
     "Externe dokumenter/Bakteriestruktur_2026(1).pptx",
     "Bakteriestruktur_2026(1).pptx",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
     "Billeder/Hjerte, lunge, nyrer I/hjerteklapper.png",
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
@@ -297,7 +313,6 @@
     "Billeder/Molekulær biologi/Pasted image 20260528191700.png",
     "Billeder/Molekulær biologi/Pasted image 20260528191617.png",
     "Billeder/Molekulær biologi/Pasted image 20260528191541.png",
-    "Billeder/Molekulær biologi/Pasted image 20260528191457.png",
     "Untitled.canvas"
   ]
 }

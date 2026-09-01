@@ -14,3 +14,7 @@ Parasitter skal være eukaryoter
 PLasmider bruges til communikation mellem bakterier
 
 ![[Bakteriers taksonomi]]
+
+![[Eksotoksiner]]
+
+![[Endotoksiner]]

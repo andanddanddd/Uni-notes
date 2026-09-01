@@ -19,3 +19,5 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 ![[Gram-negative bakterier]]
 
 ![[Gram-positive bakterier]]
+
+![[Pasted image 20260901140416.png]]
