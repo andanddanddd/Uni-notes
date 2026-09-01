@@ -21,5 +21,7 @@ Spore = assymetrisk bakteriedeling
 
 ![[Bakteriers organeller]]
 
+![[Bakteriens ydre strukture]]
+
 [[Bakterier]]
 [[Arkæer]]
