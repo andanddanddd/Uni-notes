@@ -18,8 +18,17 @@
 - NAG
 
 - Hvilken monoskakkrid har påkoplet den krydsbindende peptidkæde?:: NAM
-- Hvor lavet og modificeres selve monosakkariderne til murein?:: Cytoplasma
-- Hvilken antibiotika 
+
+## Syntese
+- Hvor laves og modificeres selve monosakkariderne til murein?:: Cytoplasma
+- Hvordan kommer de modificerede monosakkarider ud af cellen?:: En "lipid-carrier"
+- Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
+- Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
+- Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
+- Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
+- Hvilke 2 peptider danner krydsbindinger i murein?
+?
+- 
 
 
 
