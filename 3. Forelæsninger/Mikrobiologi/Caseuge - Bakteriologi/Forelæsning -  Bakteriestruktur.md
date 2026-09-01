@@ -26,5 +26,8 @@ Spore = assymetrisk bakteriedeling
 ![[Bakteriers næring og metabolisme]]
 
 ![[Væskt af bakterier]]
+
+![[Dyrkningsmedier]]
+
 [[Bakterier]]
 [[Arkæer]]
