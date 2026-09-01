@@ -15,5 +15,7 @@ Spore = assymetrisk bakteriedeling
 
 ![[Bakterier peptidoglykanlag]]
 
+![[Bakteriers cellemembran]]
+
 [[Bakterier]]
 [[Arkæer]]
