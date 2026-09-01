@@ -12,7 +12,14 @@
 <!--SR:!2026-09-05,4,270-->
 - Hvilken forskel er der på peptidbroerne i [[Gram-positive bakterier]] og [[Gram-negative bakterier]]?:: Gram positive bakterier har 5 ekstra glycin til at binde de 2 peptidkæder sammen
 <!--SR:!2026-09-05,4,270-->
-- Hvad hedder de 2 modificerde monosakkarider som Murein består af?
+- Hvad hedder de 2 modificerde monosakkarider som Murein består af? (forkortet)
+?
+- NAM
+- NAG
+
+- Hvilken monoskakkrid har påkoplet den krydsbindende peptidkæde?:: NAM
+- Hvor lavet og modificeres selve monosakkariderne til murein?:: Cytoplasma
+- Hvilken antibiotika 
 
 
 
