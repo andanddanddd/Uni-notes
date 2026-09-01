@@ -6,4 +6,4 @@
 - Hvordan kan en bakterie dele sig hver 20 min hvis det tager 40 min at replikere dens DNA?:: Den har 2 replikationer i gang på en gang
 - Hvordan reguleres DNA syntese i bakterier?:: Starten af processen, det sker når bakterien har delt sig, resten kører lidt af sig selv
 
-![[Pasted image 20260901101423.png]]
+![[Pasted image 20260901101423.png|496]]

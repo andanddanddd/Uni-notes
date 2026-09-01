@@ -14,12 +14,13 @@
 - Hvor store er bakterier?:: 0,5-5 μm i lænægde (1/10 af humane celler)
 <!--SR:!2026-09-12,11,270-->
 
-![[Bakteriers organeller]]
-
-
-![[Gram-farvning]]
-
-![[Antibiotika]]
+[[Bakteriers organeller]]
+[[Gram-farvning]]
+[[Antibiotika]]
+[[Bakteriens ydre strukture]]
+[[Bakteriers cellemembran]]
+[[Bakteriers DNA og kromosomer]]
+[[Bakterier peptidoglykanlag]]
 
 
 ![[Pasted image 20260528191541.png]]
