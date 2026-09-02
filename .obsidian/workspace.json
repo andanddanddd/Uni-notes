@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beta-lactamase inhibitorer.md",
+                "file": "Vancomyocin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Beta-lactamase inhibitorer"
+              "title": "Vancomyocin"
             }
           }
         ]
@@ -236,10 +236,12 @@
   },
   "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
-    "Tazobactam.md",
-    "Beta-lactamase inhibitorer.md",
-    "Clavulansyre.md",
+    "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "Vancomyocin.md",
     "Beta-lactamere.md",
+    "Beta-lactamase inhibitorer.md",
+    "Tazobactam.md",
+    "Clavulansyre.md",
     "Carbapenemer.md",
     "Cefalosporiner.md",
     "Ceftriaxon.md",
@@ -247,7 +249,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Smalspektret penicilin.md",
     "Benzylpenicillin.md",
     "Phmethylpenicillinenoxy.md",
-    "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
     "Beta-lactamase resistente penicilliner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Væsentligt udvidet spektrum penicilin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Udvidet spektrum penicilin.md",
@@ -262,7 +263,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Bakteriecider vs bakteriestatiske midler.md",
     "Pasted image 20260902123904.png",
     "Bakteriecider.md",
-    "Bakteriostatisk virkende stoffer.md",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
     "Excalidraw/Mikrobiologi",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
