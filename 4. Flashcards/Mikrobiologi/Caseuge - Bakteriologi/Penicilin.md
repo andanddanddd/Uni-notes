@@ -6,3 +6,4 @@
 <!--SR:!2026-09-06,4,270-->
 - Hvorfor virker penicilin ikke mod [[Mycoplasma]]?:: De har ingen murein
 <!--SR:!2026-09-06,4,270-->
+- Hvad hedder svampen der først producerede penicilin?:: Penicillium
