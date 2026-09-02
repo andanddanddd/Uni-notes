@@ -1,4 +1,4 @@
 #flashcards/5/Mikrobiologi 
 
- [[Benzylpenicillin (IV)]]
- [[Phenoxymethylpenicillin (PO))]]
+ [[Benzylpenicillin]]
+ [[Phenoxymethylpenicillin]]

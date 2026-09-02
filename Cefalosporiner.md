@@ -1,3 +1,3 @@
 #flashcards/5/Mikrobiologi 
 
-[[Ampicillin]]
+[[Ceftriaxon]]
