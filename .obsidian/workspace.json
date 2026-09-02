@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resistente bakterier.md",
+                "file": "0. De allervigtigste/Mikrobiologi/Penicilin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resistente bakterier"
+              "title": "Penicilin"
             }
           }
         ]
@@ -226,17 +226,20 @@
   },
   "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
-    "Pasted image 20260902102900.png",
-    "Resistente bakterier.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Bakteriecider vs bacteriestatiske midler.md",
+    "0. De allervigtigste/Mikrobiologi/Penicilin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Mycoplasma.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Resistente bakterier.md",
+    "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Penicilin.md",
-    "Væsentligt udvidet spektrum penicilin.md",
-    "Udvidet spektrum penicilin.md",
-    "Smalspektret penicilin.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-positive bakterier.md",
-    "Sulfonamider.md",
-    "Begrænsende faktorer af antibakterielle midler.md",
-    "Bakteriecider vs bacteriestatiske midler.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Væsentligt udvidet spektrum penicilin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Udvidet spektrum penicilin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Smalspektret penicilin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfonamider.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Begrænsende faktorer af antibakterielle midler.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Antibiotika farmakologi.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika behandling i almenpraksis.md",
@@ -247,14 +250,12 @@
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 4 - Hjertet/A. coronaria dextra.md",
     "Excalidraw/Mikrobiologi/Gram-inddeling.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Ikke-levende vacciner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
     "Excalidraw/Mikrobiologi",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Atypiske bakterier.md",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Endotoksiner.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Introduktion til medicinsk mikrobiologi.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260901101423.png",
     "Billeder/Mikrobiologi/Pasted image 20260831122316.png",
@@ -271,7 +272,6 @@
     "Billeder/Molekulær biologi/Pasted image 20260528191710.png",
     "Billeder/Molekulær biologi/Pasted image 20260528191700.png",
     "Billeder/Molekulær biologi/Pasted image 20260528191617.png",
-    "Billeder/Molekulær biologi/Pasted image 20260528191541.png",
     "Untitled.canvas"
   ]
 }
