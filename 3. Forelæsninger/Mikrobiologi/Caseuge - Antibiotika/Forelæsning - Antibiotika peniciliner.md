@@ -3,3 +3,5 @@
 ![[Penicilin]]
 
 ![[Sulfonamider]]
+
+![[Begrænsende faktorer af antibakterielle midler]]
