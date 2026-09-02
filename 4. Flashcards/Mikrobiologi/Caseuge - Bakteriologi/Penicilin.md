@@ -7,3 +7,18 @@
 - Hvorfor virker penicilin ikke mod [[Mycoplasma]]?:: De har ingen murein
 <!--SR:!2026-09-06,4,270-->
 - Hvad hedder svampen der først producerede penicilin?:: Penicillium
+
+![[Smalspektret penicilin]]
+
+![[Udvidet spektrum penicilin]]
+
+![[Væsentligt udvidet spektrum (Amoxicillin (PO), Piperacillin (IV))
+- Beta-lactamase resistente penicilliner (Dicloxacillin (PO))
+- Pivmecillinam (PO) Mecillinam (IV)
+- Cefalosporiner (Ceftriaxon (IV/IM))
+- Carbapenemer (Meropenem (IV))
+
+##### _**Beta-lactamase inhibitorer  i kombination  med penicilliner**_
+
+- Clavulansyre (+ amoxacillin)) (PO)
+- Tazobactam (+ piperacillin) (IV)
