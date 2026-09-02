@@ -20,7 +20,7 @@
 ![[Tetracykliner]]
 
 
-[[metronidazol]]
+[[Metronidazol]]
 [[Sulfonamider]]
 [[Vancomyocin]]
 [[Colistin]]
