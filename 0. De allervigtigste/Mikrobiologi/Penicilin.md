@@ -7,10 +7,9 @@
 - Hvorfor virker penicilin ikke mod [[Mycoplasma]]?:: De har ingen murein
 <!--SR:!2026-09-06,4,270-->
 - Hvad hedder svampen der først producerede penicilin?:: Penicillium
-- Hvordan bekæmper [[Gram-positive bakterier]] penicilin?:: Secenere $\beta$-lactamaser [[Resistente bakterier]]
-- Hvordan bekæmper [[Gram-negative bakterier]] penicilin?:: der er $\beta$-lactamaser i det periplastiske rum
-- Hvad er forskellen på penicilinresistente grampositive/negative bakterier klinisk og hvorfor?:: Penicilinresitente gram-positive bakterier vil secenere mere $\beta$-laktamase hvis der tilføres mere penicilin, det gør de gramnegative bakterier ikke derfor kan peniclinresistens til dels overkommes med mere pinicilin i gram-nragtive bakterie men ikke de gram-positive
-- 
+
+![[Penicilinresistens]]
+
 
 ![[Smalspektret penicilin]]
 

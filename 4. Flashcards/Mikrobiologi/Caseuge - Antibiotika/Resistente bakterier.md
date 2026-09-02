@@ -9,5 +9,6 @@
 - Ændre lægemiddeles målstruktur
 
 - Hvad er den mest normale mekanisme til resistens?:: Ændring fa målstruktur
+- Hvad kaldes det når en bakterie kun delvist bliver påvirket af et lægemiddel? (de er delvist resistente):: Tolerence
 
 ![[Pasted image 20260902102900.png]]
