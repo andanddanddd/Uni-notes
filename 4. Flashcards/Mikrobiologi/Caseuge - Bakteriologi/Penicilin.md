@@ -12,7 +12,7 @@
 
 ![[Udvidet spektrum penicilin]]
 
-![[Væsentligt udvidet spektrum (Amoxicillin (PO), Piperacillin (IV))
+![[Væsentligt udvidet spektrum penicilin]]
 - Beta-lactamase resistente penicilliner (Dicloxacillin (PO))
 - Pivmecillinam (PO) Mecillinam (IV)
 - Cefalosporiner (Ceftriaxon (IV/IM))
