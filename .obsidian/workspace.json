@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linezolid.md",
+                "file": "4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linezolid"
+              "title": "Antibiotika"
             }
           }
         ]
@@ -220,14 +220,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
-    "Linezolid.md",
-    "Aminoglyukosider.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
+    "Aminoglykosider.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika.md",
+    "Linezolid.md",
     "Makrolider.md",
     "Vancomyocin.md",
     "Tetracykliner.md",
@@ -249,9 +252,7 @@
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Bakteriecider vs bacteriestatiske midler.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Mycoplasma.md",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
     "Excalidraw/Mikrobiologi",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",

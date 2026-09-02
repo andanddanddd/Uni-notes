@@ -3,7 +3,7 @@
 [[Forelæsning - Antibiotika peniciliner]]
 [[Forelæsning - Antibiotika behandling i almenpraksis]]
 [[Forelæsning - Antibiotika med metaboliske angrebspunkter]]
-
+[[Antibiotika]]
 
 [[Linezolid]]
 [[Clindamycin]]
@@ -11,7 +11,7 @@
 
 ![[Makrolider]]
 
-![[Aminoglyukosider]]
+![[Aminoglykosider]]
 
 ![[Tetracykliner]]
 
