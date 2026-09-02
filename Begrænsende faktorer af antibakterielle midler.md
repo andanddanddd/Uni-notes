@@ -3,12 +3,15 @@
 - Hvad er de 3 primære begrænsende faktorer af antibakterielle midler?
 ?
 - Tid før virkning
+- Bakteriers følsomhed 
+- Bivirkninger
+
+![[Bakteriecider vs bacteriestatiske midler]]
 
 
-- Hvad virker hurtigt? Bacteriecidale midler eller Bakteiestatiske midler?:: Bakteriecidale midler [[Sulfonamider]]
-- Hvorfor er det ikke godt bare at hæmme væksten af bakterier?
+- Hvornår vælger man at bruge bredspektrums antibiotika?
 ?
-- Bakterierne kan blive resistente
-- De bakterier der allerede er der kan stadig skade
+- Når bakterien ikke kan identificeres
+- Når patienten er immunokomprimeret og derfor sagtens kunne have flere infektioner på en gang
 
-- Hvorfor kan bakteriestatiske midler være bedre end baktericider?:: Bakteriecider dræber alle bakterierne hurtigt hvilket frigiver mange af deres komponenter hvilket giver mere inflammation, bakteriestatiske midler giver immunforsvaret tid til at rydde op på en mere kontrolleret måde
+- Hvorfor er det ikke nok at vælge at at antibakterielt middel der virker mod den specifikke bakterie?:: Den samme eller lignende bakterie kan være flere steder i kroppen, derfor skal lægemidlets farmakokinetik overvejes 
