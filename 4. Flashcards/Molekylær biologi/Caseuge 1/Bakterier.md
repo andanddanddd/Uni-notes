@@ -21,6 +21,7 @@
 [[Bakteriers cellemembran]]
 [[Bakteriers DNA og kromosomer]]
 [[Bakterier peptidoglykanlag]]
+[[Bakteriers næring og metabolisme]]
 
 
 ![[Pasted image 20260528191541.png]]
