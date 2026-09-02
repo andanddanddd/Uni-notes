@@ -1,3 +1,3 @@
 #flashcards/5/Mikrobiologi 
 
-+piperacillin
+- Hvilken antibiotika gives sammen med tazobactam?:: [[Piperacillin]]

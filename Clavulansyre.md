@@ -1,3 +1,3 @@
 #flashcards/5/Mikrobiologi 
 
-+amoxacillin
+- Hvilken antibiotika gives sammen med clavulansyre?:: [[Amoxicillin]]

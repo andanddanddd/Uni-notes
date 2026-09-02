@@ -7,7 +7,7 @@
 
 ![[Beta-lactamere]]
 
-![[Beta-lactamse inhibitorer]]
+![[Beta-lactamase inhibitorer]]
 
 [[Linezolid]]
 [[Clindamycin]]
