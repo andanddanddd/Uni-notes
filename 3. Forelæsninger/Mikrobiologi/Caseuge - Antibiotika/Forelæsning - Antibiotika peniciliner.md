@@ -4,6 +4,6 @@
 
 ![[Sulfonamider]]
 
-![[Farmakologi af antibiotika]]
+![[Pricipper for valg af antibiotika]]
 
 ![[Resistente bakterier]]
