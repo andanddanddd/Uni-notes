@@ -5,6 +5,9 @@
 [[Forelæsning - Antibiotika med metaboliske angrebspunkter]]
 [[Antibiotika]]
 
+![[Beta-lactamere]]
+
+
 [[Linezolid]]
 [[Clindamycin]]
 [[Ciprofloxacin]]
