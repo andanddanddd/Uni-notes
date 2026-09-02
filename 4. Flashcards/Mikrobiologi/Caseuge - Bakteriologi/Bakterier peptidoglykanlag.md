@@ -29,6 +29,7 @@
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
 <!--SR:!2026-09-05,3,250-->
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
+<!--SR:!2026-09-06,4,270-->
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
 <!--SR:!2026-09-03,1,230-->
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
