@@ -16,6 +16,6 @@
 [[doxycyklin]]
 [[metronidazol]]
 [[Sulfonamider]]
-[[Glykopeptid an[[Vancomyocin]]
+[[Vancomyocin]]
 [[Colistin]]
 [[Chloramphenicol]]

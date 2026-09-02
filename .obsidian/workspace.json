@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+                "file": "Vancomyocin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caseuge - Antibiotika"
+              "title": "Vancomyocin"
             }
           }
         ]
@@ -224,7 +224,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfonamider.md",
