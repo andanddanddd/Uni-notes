@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Farmakologi af antibiotika.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Antibiotika"
+              "title": "Farmakologi af antibiotika"
             }
           }
         ]
@@ -226,10 +236,15 @@
   },
   "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
-    "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Bakteriecider vs bakteriestatiske midler.md",
+    "Pasted image 20260902123904.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Farmakologi af antibiotika.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
-    "Aminoglykosider.md",
+    "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "Bakteriecider.md",
+    "Bakteriostatisk virkende stoffer.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika.md",
+    "Aminoglykosider.md",
     "Linezolid.md",
     "Makrolider.md",
     "Vancomyocin.md",
@@ -247,11 +262,6 @@
     "1. Fag/Mikrobiologi.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Bakteriologi.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Bakteriestruktur.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriers DNA og kromosomer.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Bakteriecider vs bacteriestatiske midler.md",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
     "Excalidraw/Mikrobiologi",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
@@ -271,7 +281,6 @@
     "Billeder/Molekulær biologi/Pasted image 20260528214557.png",
     "Billeder/Molekulær biologi/Pasted image 20260528191710.png",
     "Billeder/Molekulær biologi/Pasted image 20260528191700.png",
-    "Billeder/Molekulær biologi/Pasted image 20260528191617.png",
     "Untitled.canvas"
   ]
 }

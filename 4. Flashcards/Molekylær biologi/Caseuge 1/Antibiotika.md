@@ -8,5 +8,6 @@ Hvordan virker antibiotika?:: De angriber metabolske processer som er anderledes
 - Hvordan inddeles antibiotika?
 ?
 - [[Bakteriecider]]
+- [[Bakteriostatisk virkende stoffer]]
 
 [[Penicilin]]

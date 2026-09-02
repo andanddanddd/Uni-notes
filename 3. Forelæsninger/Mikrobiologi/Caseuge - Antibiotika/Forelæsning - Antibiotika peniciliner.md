@@ -4,6 +4,6 @@
 
 ![[Sulfonamider]]
 
-![[Begrænsende faktorer af antibakterielle midler]]
+![[Farmakologi af antibiotika]]
 
 ![[Resistente bakterier]]

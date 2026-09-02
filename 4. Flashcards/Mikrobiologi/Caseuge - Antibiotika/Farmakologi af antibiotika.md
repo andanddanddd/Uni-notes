@@ -6,12 +6,9 @@
 - Bakteriers følsomhed 
 - Bivirkninger
 
-![[Bakteriecider vs bacteriestatiske midler]]
+![[Bakteriecider vs bakteriestatiske midler]]
 
+![[Brede af antibiotika]]
 
-- Hvornår vælger man at bruge bredspektrums antibiotika?
-?
-- Når bakterien ikke kan identificeres
-- Når patienten er immunokomprimeret og derfor sagtens kunne have flere infektioner på en gang
 
 - Hvorfor er det ikke nok at vælge at at antibakterielt middel der virker mod den specifikke bakterie?:: Den samme eller lignende bakterie kan være flere steder i kroppen, derfor skal lægemidlets farmakokinetik overvejes 
