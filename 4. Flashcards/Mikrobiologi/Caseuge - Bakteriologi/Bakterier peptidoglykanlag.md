@@ -16,25 +16,35 @@
 ?
 - NAM
 - NAG
+<!--SR:!2026-09-03,1,230-->
 
 - Hvilken monoskakkrid har påkoplet den krydsbindende peptidkæde?:: NAM
+<!--SR:!2026-09-03,1,230-->
 
 ## Syntese
 - Hvor laves og modificeres selve monosakkariderne til murein?:: Cytoplasma
+<!--SR:!2026-09-06,4,270-->
 - Hvordan kommer de modificerede monosakkarider ud af cellen?:: En "lipid-carrier"
+<!--SR:!2026-09-06,4,270-->
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
+<!--SR:!2026-09-05,3,250-->
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
+<!--SR:!2026-09-03,1,230-->
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
+<!--SR:!2026-09-06,4,270-->
 - Hvilke 2 peptider danner krydsbindinger i murein?
 ?
 - D-alanin
 - Lysin (eller modificeret lysin)
+<!--SR:!2026-09-06,4,270-->
 
 - Hvilken modificering kan ske til lysin i de krydsbindende peptidkæder?:: Carboxylering af sidekæden
 <!--SR:!2026-09-06,4,270-->
 - Hvilken aminosyre kløves væk i transpeptidationen?:: D-alanin
+<!--SR:!2026-09-06,4,270-->
 - Hvilken [[Antibiotika]] ligner D-alanin-dimere?:: [[Penicilin]]
+<!--SR:!2026-09-06,4,270-->
 
 
 
