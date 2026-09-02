@@ -32,6 +32,7 @@
 - Lysin (eller modificeret lysin)
 
 - Hvilken modificering kan ske til lysin i de krydsbindende peptidkæder?:: Carboxylering af sidekæden
+<!--SR:!2026-09-06,4,270-->
 - Hvilken aminosyre kløves væk i transpeptidationen?:: D-alanin
 - Hvilken [[Antibiotika]] ligner D-alanin-dimere?:: [[Penicilin]]
 
