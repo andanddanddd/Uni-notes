@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colistin.md",
+                "file": "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Colistin"
+              "title": "Gram-positive bakterier"
             }
           },
           {
@@ -248,10 +248,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
-    "Colistin.md",
-    "Polymixiner.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Polymixiner.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Colistin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Aminoglykosider.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Metronidazol.md",
