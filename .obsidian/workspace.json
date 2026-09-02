@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aminoglyukosider.md",
+                "file": "Linezolid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aminoglyukosider"
+              "title": "Linezolid"
             }
           }
         ]
@@ -224,13 +224,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c76a289d532c2ff1",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
     "Linezolid.md",
+    "Aminoglyukosider.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
     "Makrolider.md",
     "Vancomyocin.md",
-    "Aminoglyukosider.md",
     "Tetracykliner.md",
     "Doxycyklin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Resistente bakterier.md",
