@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Aminoglykosider.md",
+                "file": "Colistin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aminoglykosider"
+              "title": "Colistin"
             }
           },
           {
@@ -250,9 +250,11 @@
   },
   "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Colistin.md",
+    "Polymixiner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Aminoglykosider.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Metronidazol.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Metronidazol.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfonamider.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfamethizol.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Clindamycin.md",
@@ -274,8 +276,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Benzylpenicillin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Phmethylpenicillinenoxy.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Beta-lactamase resistente penicilliner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Væsentligt udvidet spektrum penicilin.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Udvidet spektrum penicilin.md",
     "Billeder/Mikrobiologi/Pasted image 20260902123904.png",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
     "Excalidraw/Mikrobiologi",

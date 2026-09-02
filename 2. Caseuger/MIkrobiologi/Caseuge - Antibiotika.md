@@ -23,5 +23,5 @@
 [[Metronidazol]]
 [[Sulfonamider]]
 [[Vancomyocin]]
-[[Colistin]]
+[[Polymixiner]]
 [[Chloramphenicol]]
