@@ -13,7 +13,9 @@
 
 ![[Aminoglyukosider]]
 
-[[doxycyklin]]
+![[Tetracykliner]]
+
+
 [[metronidazol]]
 [[Sulfonamider]]
 [[Vancomyocin]]
