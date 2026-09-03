@@ -9,7 +9,7 @@
 - Hvad kaldes type I eksotoksiner også?:: [[Superantigener]]
 <!--SR:!2026-09-06,4,270-->
 - Hvad gør type II eksotoksiner?:: Danner pore og lysere celler
-<!--SR:!2026-09-03,1,230-->
+<!--SR:!2026-09-06,3,250-->
 - Hvad gør type III eksotoksiner?:: Bliver transporteret ind i cellen via receptormedieret endocytose, her ændre den cellens virkningsmekanismer
 <!--SR:!2026-09-06,4,270-->
 - Hvad gør immunforsvaret mod eksotoksiner?:: Neutralisere dem med [[Antistoffer]]

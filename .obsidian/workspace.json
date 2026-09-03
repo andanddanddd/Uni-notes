@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakterier peptidoglykanlag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
+                  "collapseAll": true,
+                  "extraContext": true,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gram-positive bakterier"
+              "title": "Bakterier peptidoglykanlag"
             }
           },
           {
@@ -244,10 +244,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "c76a289d532c2ff1",
   "lastOpenFiles": [
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Polymixiner.md",

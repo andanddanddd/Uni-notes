@@ -7,6 +7,7 @@
 - Hvor godt optages $\beta$-lactamere generalt?:: Dårligt
 - Hvordan er halveringstiden af $\beta$-lactamere generalt?:: Lav (0,5-2 timer)
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil
+<!--SR:!2026-09-07,4,270-->
 
 
 ![[Smalspektret penicilin]]

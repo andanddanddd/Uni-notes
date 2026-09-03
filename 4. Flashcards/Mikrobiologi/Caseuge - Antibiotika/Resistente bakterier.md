@@ -11,7 +11,8 @@
 
 - Hvad er den mest normale mekanisme til resistens?:: Ændring fa målstruktur
 - Hvad kaldes det når en bakterie kun delvist bliver påvirket af et lægemiddel? (de er delvist resistente):: Tolerence
-- Hvad er naturlig resistens?:: Resistens der opstod inden bakterien mødte antibiotika 
+- Hvad er naturlig resistens?:: Resistens der opstod inden bakterien mødte antibiotika
+<!--SR:!2026-09-07,4,270-->
 - Hvad er erhvervet resistens?:: resistens der opstod efter bakterien har mødt antibiotika
 - Hvordan kan bakterier vælge at blive resistente og hvorfor er det pludselig en hel koloni af resistente bakterier?:: Der sker en tilfældig mutation hvilket medfører at den specifikke bakterie overlever mens alle de andre dør, herefter vil den resistente bakterie formere sig og dermed fås en stamme af resistente bakterier (selektion)
 - Hvordan kan bakterie overfører plasmider til hinanden?

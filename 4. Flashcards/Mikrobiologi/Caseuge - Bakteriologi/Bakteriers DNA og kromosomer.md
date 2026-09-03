@@ -5,6 +5,7 @@
 - Hvilken "form" har bakteriers kromosomer?:: Typisk circulære men de kan være lineære
 <!--SR:!2026-09-06,4,270-->
 - Hvad er funktionen af bakteriers plasmider?:: De kan dele dem mellem bakterier (give dem til hinanden), hvilket blandt andet er vigtigt for resistens [[Resistente bakterier]]
+<!--SR:!2026-09-07,4,270-->
 - Hvor længe tager det at replikere et helt sæt DNA i bakterier?:: Oftest 40 min
 <!--SR:!2026-09-06,4,270-->
 - Hvordan kan en bakterie dele sig hver 20 min hvis det tager 40 min at replikere dens DNA?:: Den har 2 replikationer i gang på en gang
