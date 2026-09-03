@@ -9,6 +9,7 @@
 - Hvordan opnås resistense mod aminoglykosider?:: Enzymatisk nedbrydning
 <!--SR:!2026-09-04,1,230-->
 - Hvilke bakterier kan opnå resistens mod aminoglykosider ved at forhindre transport ind i cellen?:: Anerobe (stadig gram-negative)
+<!--SR:!2026-09-07,4,270-->
 - Hvilken patientgruppe skal være påpaselig med aminoglykosider?:: Mennesker med nedsat nyrefunktion
 <!--SR:!2026-09-07,4,270-->
 - Hvordan administreres aminoglykosider?:: IV (til tider intrathekalt)
@@ -16,6 +17,7 @@
 - Hvilken type antibiotika er aminoglykosiderne? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]
 <!--SR:!2026-09-07,4,270-->
 - Hvilken bivirkning har aminoglykosider?:: Det påvirker [[N. vestibulocochlearis]]
+<!--SR:!2026-09-07,4,270-->
 
 [[Gentamicin]]
 [[Tobramycin]]

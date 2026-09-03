@@ -4,4 +4,5 @@
 <!--SR:!2026-09-07,4,270-->
 - Hvorfor var det sværre for bakterier at opnå resistens mod linezolid i forhold til andre bakterier?:: Linezolid er 100% syntetisk og har ikke en naturlig version
 <!--SR:!2026-09-07,4,270-->
-- Hvordan opnås resistense mod linezolid?:: Ændring af ribosom 
+- Hvordan opnås resistense mod linezolid?:: Ændring af ribosom
+<!--SR:!2026-09-07,4,270-->

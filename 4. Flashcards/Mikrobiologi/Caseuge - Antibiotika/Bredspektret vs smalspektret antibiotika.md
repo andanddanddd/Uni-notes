@@ -10,3 +10,4 @@
 ?
 - Større risiko for at udvikle resistens senere
 - Mere skadeligt for mikrobiota
+<!--SR:!2026-09-07,4,270-->

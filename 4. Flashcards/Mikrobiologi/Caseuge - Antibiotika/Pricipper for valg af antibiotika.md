@@ -3,8 +3,9 @@
 - Hvad er de 3 primære begrænsende faktorer af antibakterielle midler?
 ?
 - Tid før virkning
-- Bakteriers følsomhed 
+- Bakteriers følsomhed
 - Bivirkninger
+<!--SR:!2026-09-07,4,270-->
 
 ![[Bakteriecider vs bakteriestatiske midler]]
 
