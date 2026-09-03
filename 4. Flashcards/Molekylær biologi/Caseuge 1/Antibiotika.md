@@ -10,5 +10,6 @@ Hvordan virker antibiotika?:: De angriber metabolske processer som er anderledes
 ?
 - [[Bakteriecider]]
 - [[Bakteriostatisk virkende stoffer]]
+<!--SR:!2026-09-07,4,270-->
 
 [[Penicilin]]

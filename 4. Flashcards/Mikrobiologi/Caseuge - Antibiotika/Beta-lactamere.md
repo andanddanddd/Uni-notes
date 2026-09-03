@@ -4,6 +4,7 @@
 - Hvilken effekt har sidekæden på beta-lavtamere?:: Den bestemmer spectret af antibiotikaen, samt farmakokinetikken
 - Hvilken type antibiotika er $\beta$-lactamere? (bakteriecidt vs bakteriestatisk):: [[Bakteriecider]]
 - Hvilken polaritet har $\beta$-lactamere?:: Polære
+<!--SR:!2026-09-07,4,270-->
 - Hvor godt optages $\beta$-lactamere generalt?:: Dårligt
 - Hvordan er halveringstiden af $\beta$-lactamere generalt?:: Lav (0,5-2 timer)
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil

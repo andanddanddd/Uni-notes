@@ -4,3 +4,4 @@
 ?
 - Bakterierne kan blive resistente
 - De bakterier der allerede er der kan stadig skade
+<!--SR:!2026-09-07,4,270-->
