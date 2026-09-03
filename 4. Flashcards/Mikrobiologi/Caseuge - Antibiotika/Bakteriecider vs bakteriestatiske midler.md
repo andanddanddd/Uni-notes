@@ -6,6 +6,7 @@
 
 - Hvorfor kan bakteriestatiske midler være bedre end baktericider?:: Bakteriecider dræber alle bakterierne hurtigt hvilket frigiver mange af deres komponenter hvilket giver mere inflammation, bakteriestatiske midler giver immunforsvaret tid til at rydde op på en mere kontrolleret måde
 - Hvorfor er det ofte en dårlig ide at behandle med både bakteriecider og bakteriestatiske midler?:: Det bakteriestatiske middel vil til tider hæmme bakteriecidet (eks [[Penicilin]]
+<!--SR:!2026-09-07,4,270-->
 
 ![[Bakteriecider]]
 

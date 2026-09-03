@@ -14,14 +14,17 @@
 - Hvad er den mest normale mekanisme til resistens?:: Ændring fa målstruktur
 <!--SR:!2026-09-07,4,270-->
 - Hvad kaldes det når en bakterie kun delvist bliver påvirket af et lægemiddel? (de er delvist resistente):: Tolerence
+<!--SR:!2026-09-07,4,270-->
 - Hvad er naturlig resistens?:: Resistens der opstod inden bakterien mødte antibiotika
 <!--SR:!2026-09-07,4,270-->
 - Hvad er erhvervet resistens?:: resistens der opstod efter bakterien har mødt antibiotika
 - Hvordan kan bakterier vælge at blive resistente og hvorfor er det pludselig en hel koloni af resistente bakterier?:: Der sker en tilfældig mutation hvilket medfører at den specifikke bakterie overlever mens alle de andre dør, herefter vil den resistente bakterie formere sig og dermed fås en stamme af resistente bakterier (selektion)
+<!--SR:!2026-09-07,4,270-->
 - Hvordan kan bakterie overfører plasmider til hinanden?
 ?
 - Direkte kontakt (konjuktion)
 - [[Bakteriofager]] (transduktion)
 - Optag fra døde bakterier (transformation)
+<!--SR:!2026-09-07,4,270-->
 
 ![[Pasted image 20260902102900.png]]

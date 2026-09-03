@@ -6,4 +6,6 @@
 - Hvorfor er sulfonamider selektive overfor bakterier?:: Mennesker skal ikke selv syntetisere folsyre
 <!--SR:!2026-09-07,4,270-->
 - Hvad hedder det mest almindelige sulfonamid?:: [[Sulfamethizol]]
+<!--SR:!2026-09-07,4,270-->
 - Hvordan kan en bakterie blive resistent overfor sulfonamider?:: Den "lærer" at optage folsyre så den ikke selv skal syntetisere det
+<!--SR:!2026-09-07,4,270-->

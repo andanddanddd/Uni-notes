@@ -1,12 +1,17 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kendetegner strukturen af beta-lactamere?:: EN ring med 4 led
+<!--SR:!2026-09-07,4,270-->
 - Hvilken effekt har sidekæden på beta-lavtamere?:: Den bestemmer spectret af antibiotikaen, samt farmakokinetikken
+<!--SR:!2026-09-07,4,270-->
 - Hvilken type antibiotika er $\beta$-lactamere? (bakteriecidt vs bakteriestatisk):: [[Bakteriecider]]
+<!--SR:!2026-09-07,4,270-->
 - Hvilken polaritet har $\beta$-lactamere?:: Polære
 <!--SR:!2026-09-07,4,270-->
 - Hvor godt optages $\beta$-lactamere generalt?:: Dårligt
+<!--SR:!2026-09-07,4,270-->
 - Hvordan er halveringstiden af $\beta$-lactamere generalt?:: Lav (0,5-2 timer)
+<!--SR:!2026-09-06,3,250-->
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil
 <!--SR:!2026-09-07,4,270-->
 

@@ -9,3 +9,4 @@
 - Hvad gør vancomyocin overordnet?:: Forhindre dannelsen af kulstofskæderne i murein
 <!--SR:!2026-09-07,4,270-->
 - Hvordan opnår bakterier resistens mod vancomyocin?:: De laver D-alanin-D-laktat dimere i stedet for D-alanin-D-alanin dimere eftersom vancomyocin dermed ikke har et angrebspunkt
+<!--SR:!2026-09-07,4,270-->
