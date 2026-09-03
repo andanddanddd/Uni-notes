@@ -3,6 +3,8 @@
 
 ![[Beta-lactamere]]
 
+![[Beta-lactamase inhibitorer]]
+
 ![[Penicilin]]
 
 ![[Sulfonamider]]

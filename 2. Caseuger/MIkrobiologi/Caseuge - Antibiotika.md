@@ -7,7 +7,7 @@
 
 
 
-![[Beta-lactamase inhibitorer]]
+
 
 [[Linezolid]]
 [[Clindamycin]]
