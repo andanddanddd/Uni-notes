@@ -1,6 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
-- Hvad kendetegner strukturen af beta-lactamere?:: EN ring med 4 led
+- Hvad kendetegner strukturen af beta-lactamere?:: En ring med 4 led ($\beta$-lactamring)
 <!--SR:!2026-09-07,4,270-->
 - Hvilken effekt har sidekæden på beta-lavtamere?:: Den bestemmer spectret af antibiotikaen, samt farmakokinetikken
 <!--SR:!2026-09-07,4,270-->
@@ -14,6 +14,7 @@
 <!--SR:!2026-09-06,3,250-->
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil
 <!--SR:!2026-09-07,4,270-->
+- Hvordan virker $\beta$-lactamere overordnet?:: Binder til transpeptidasen og bleker for vand så den ikke kan komme væk derfra, dermed bliver transpeptidasen deaktiveret og bakterien kan ikke danne sin cellevæg
 
 
 ![[Smalspektret penicilin]]

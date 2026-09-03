@@ -5,7 +5,7 @@
 [[Forelæsning - Antibiotika med metaboliske angrebspunkter]]
 [[Antibiotika]]
 
-![[Beta-lactamere]]
+
 
 ![[Beta-lactamase inhibitorer]]
 
