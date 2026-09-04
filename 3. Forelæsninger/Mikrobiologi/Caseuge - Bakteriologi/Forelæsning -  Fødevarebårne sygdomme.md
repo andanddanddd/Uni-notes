@@ -10,3 +10,5 @@ Man behandler typisk ikke dieeresygdomme med antibiotika
 Emperisk behanlding = Behandling med ntibiotika uden man ved hvilken mikroorganisme der behandles
 Målrettet behanlding = behandling mod specifik bakterie (eller anden mikroorganisme?)
 Zoonose = smitter fra dyr til mennesker
+
+Fakultitativ anerob = vækster lige godt aerobt og anerobt
