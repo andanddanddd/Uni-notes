@@ -5,3 +5,7 @@
 
 NOsokomiel diere = diere erhverved mens man er indlagt
 Selvlimiterende = kræve rikk ebehandling
+Man behandler typisk ikke dieeresygdomme med antibiotika
+
+Emperisk behanlding = Behandling med ntibiotika uden man ved hvilken mikroorganisme der behandles
+Målrettet behanlding = behandling mod specifik bakterie (eller anden mikroorganisme?)
