@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Staphylococcus.md",
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning -  Staphylococcus"
+              "title": "Forelæsning -  Streptococcus"
             }
           }
         ],
@@ -51,8 +51,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - Gram_stafylokker_2026pptx"
             }
+          },
+          {
+            "id": "1a515049551a568b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_streptokker_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Gram_streptokker_2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,16 +250,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "224d1625ce974d2f",
+  "active": "1a515049551a568b",
   "lastOpenFiles": [
-    "Staphylococcus aureus+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Staphylococcus.md",
+    "Staphylococcus aureus+.md",
     "Staphylococcus saprophyticus.md",
     "Staphylococcus epidermidis.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_stafylokker_2026pptx.pdf",
     "Streptococcus pneumoniae+.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/mso87E9.tmp",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
     "Streptococcus pyogenes+.md",
     "Streptococcus agalactiae.md",
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
