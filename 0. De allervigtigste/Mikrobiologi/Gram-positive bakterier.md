@@ -6,16 +6,16 @@
 <!--SR:!2026-09-05,4,270-->
 
 
-[[Staphylococcus aureus*]]
+[[Staphylococcus aureus+]]
 [[Staphylococcus epidermidis]]
 [[Staphylococcus saprophyticus]]
-[[Streptococcus pneumoniae*]]
-[[Streptococcus pyogenes*]]
+[[Streptococcus pneumoniae+]]
+[[Streptococcus pyogenes+]]
 [[Streptococcus agalactiae]]
 [[Enterocuccus faecalis]]
 [[Mycoplasma pneumoniae]]
-[[Mycobacterium tuberculosis*]]
-[[Listeria monocytogenes*]]
+[[Mycobacterium tuberculosis+]]
+[[Listeria monocytogenes+]]
 [[Mycoplasma pneumoniae]]
 [[Mycolpasma genitalium]]
 [[Bacillus cereus]]
