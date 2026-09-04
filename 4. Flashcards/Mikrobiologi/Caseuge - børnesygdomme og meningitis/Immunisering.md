@@ -3,7 +3,7 @@
 - Hvad er immunisering?:: En process hvorved immunforsvaret mod et givent patogen forstærkes eller induceres
 <!--SR:!2026-09-05,4,270-->
 - Hvad er adoptiv immunisering?:: En form for passiv immunisering hvor der gives levende immunceller (evt genmodificerede)
-<!--SR:!2026-09-04,2,230-->
+<!--SR:!2026-09-11,7,250-->
 
 ![[Passiv immunisering]]
 

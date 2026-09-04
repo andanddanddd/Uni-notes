@@ -9,4 +9,4 @@
 - Hvordan optager bakterier jern overordnet?:: Secenere et stof der kan binde til jern hvorefter det kan optages
 <!--SR:!2026-09-06,4,270-->
 - Hvad hedder typen af stoffer som bakterier kan secerene for at optage jern?:: Siderophores
-<!--SR:!2026-09-04,1,210-->
+<!--SR:!2026-09-07,3,230-->

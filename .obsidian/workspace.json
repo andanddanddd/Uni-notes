@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Tetracykliner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Antibiotika peniciliner"
+              "title": "Tetracykliner"
             }
           }
         ],
@@ -237,10 +237,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "cc58d5db8a0bdf01",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "1. Fag/Mikrobiologi.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Vancomyocin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Beta-lactamere.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Ampicillin.md",
@@ -251,7 +252,6 @@
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
     "Externe dokumenter/MIkrobiologi/ntibiotika/Slides - Antibiotika-penicilliner_2026.pdf",
     "Externe dokumenter/MIkrobiologi/ntibiotika",
-    "1. Fag/Mikrobiologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakterier peptidoglykanlag.md",
     "Externe dokumenter/MIkrobiologi/mso659F.tmp",
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
