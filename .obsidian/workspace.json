@@ -6,6 +6,7 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
+        "dimension": 37.88627935723115,
         "children": [
           {
             "id": "224d1625ce974d2f",
@@ -26,6 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
+        "dimension": 62.113720642768854,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -50,9 +52,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - Fødevarebårne sygdomme 2025"
             }
+          },
+          {
+            "id": "10b055c0f37c2ea1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Fødevarebårne sygdomme 2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,19 +253,23 @@
   },
   "active": "224d1625ce974d2f",
   "lastOpenFiles": [
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2025.pdf",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
-    "Streptococcus pyogenes+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pyogenes+.md",
+    "Fødevarebårne sygdomme 2026.pdf",
+    "Excalidraw/Mikrobiologi/Fødevarebårne sygdomme 2026.pdf",
+    "Excalidraw/Fødevarebårne sygdomme 2026.pdf",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2025.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_streptokker_2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Staphylococcus.md",
-    "Staphylococcus aureus+.md",
-    "Staphylococcus saprophyticus.md",
-    "Staphylococcus epidermidis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus saprophyticus.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus epidermidis.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_stafylokker_2026pptx.pdf",
-    "Streptococcus pneumoniae+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/mso87E9.tmp",
-    "Streptococcus agalactiae.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus agalactiae.md",
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Tetracykliner.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
@@ -268,15 +286,11 @@
     "Externe dokumenter/MIkrobiologi/ntibiotika/Slides - Antibiotika-penicilliner_2026.pdf",
     "Externe dokumenter/MIkrobiologi/ntibiotika",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakterier peptidoglykanlag.md",
-    "Externe dokumenter/MIkrobiologi/mso659F.tmp",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Polymixiner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Colistin.md",
     "Billeder/Mikrobiologi/Pasted image 20260902123904.png",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
-    "Excalidraw/Mikrobiologi",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Introduktion til Medicinsk Mikrobiologi.pdf",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Bakteriestruktur_2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260901101423.png",
     "Billeder/Mikrobiologi/Pasted image 20260831122316.png",
     "Billeder/Hjerte, lunge, nyrer I/Frank starling.png",
