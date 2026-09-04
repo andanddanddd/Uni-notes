@@ -2,5 +2,5 @@
 
 - Hvor samler azithromycin sig?:: Makrofager og andre leukocytter dermed ender der med høje koncentrationer i vævet
 <!--SR:!2026-09-07,4,270-->
-- Hvad bruges ezithromycin til?:: Genitalinfektioner
-<!--SR:!2026-09-04,1,230-->
+- Hvad bruges azithromycin til?:: Genitalinfektioner
+<!--SR:!2026-09-05,1,210-->
