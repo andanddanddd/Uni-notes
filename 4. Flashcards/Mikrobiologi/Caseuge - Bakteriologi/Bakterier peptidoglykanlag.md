@@ -1,17 +1,17 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes peptidoglykanlaget i makteriecellevæggen også?:: Murein
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-20,15,290-->
 - I hvilken type bakterie har murein den største beskyttende effekt?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->
 - Hvordan er bakterier peptidoglykanlag overordnet opbygget?:: Sukkerkæder krydsbundet med peptider
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->
 - Hvad beskytter bakterier peptidoglykanlag imod?:: Lavt extracellulært osmotisk tryk (antilyserende) (særligt for grampositive bakterier)
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-21,16,290-->
 - Hvilken polaritet har murein og hvilken effekt har det?:: Meget hydrofil, dermed kan hydrophofe stoffer ikke gennemtrænge bakteriecellevæggen på trods af at de kan komme igennem doppeltlippidlaget (særligt for grampositive bakterier)
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->
 - Hvilken forskel er der på peptidbroerne i [[Gram-positive bakterier]] og [[Gram-negative bakterier]]?:: Gram positive bakterier har 5 ekstra glycin til at binde de 2 peptidkæder sammen
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-21,16,290-->
 - Hvad hedder de 2 modificerde monosakkarider som Murein består af? (forkortet)
 ?
 - NAM
@@ -27,7 +27,7 @@
 - Hvordan kommer de modificerede monosakkarider ud af cellen?:: En "lipid-carrier"
 <!--SR:!2026-09-06,4,270-->
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
-<!--SR:!2026-09-05,3,250-->
+<!--SR:!2026-09-07,2,230-->
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
 <!--SR:!2026-09-06,4,270-->
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]

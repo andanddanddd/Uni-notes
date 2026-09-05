@@ -7,4 +7,4 @@
 <!--SR:!2026-09-15,11,270-->
 
 - Hvor længe går der mellem at man må vacciner med levende svækkede vacciner?:: 3 uger
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->

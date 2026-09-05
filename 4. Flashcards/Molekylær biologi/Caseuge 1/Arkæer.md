@@ -3,11 +3,11 @@
 - Hvad er arkæer?:: En gammel form for bakterie
 <!--SR:!2026-09-16,15,290-->
 - Hvor lever arkæer?:: I barske forhold
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->
 - Hvilke arkæer er pategene?:: Ingen
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->
 - Har arkæer en cellekerne?:: Nej
-<!--SR:!2026-09-05,4,270-->
+<!--SR:!2026-09-19,14,290-->
 - Hvor i kroppen findes arkæer?
 ?
 - Colon
