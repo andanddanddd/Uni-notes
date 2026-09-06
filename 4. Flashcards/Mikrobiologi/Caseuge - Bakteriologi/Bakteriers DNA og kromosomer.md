@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvor mange kromosomer har bakterier?:: Oftest 1 men de kan have flere
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-22,16,290-->
 - Hvilken "form" har bakteriers kromosomer?:: Typisk circulære men de kan være lineære
 <!--SR:!2026-09-06,4,270-->
 - Hvad er funktionen af bakteriers plasmider?:: De kan dele dem mellem bakterier (give dem til hinanden), hvilket blandt andet er vigtigt for resistens [[Resistente bakterier]]

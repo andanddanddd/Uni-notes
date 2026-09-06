@@ -5,9 +5,9 @@
 - Hvorfor virker penicilin dårligt mod bakterier der mangler autolysin?:: Autolysin nedbryder peptidbroerne i murein, hvis det mangler skal der laves færre nye peptidbroer og dermed er der færre angrebspunkter for penicilin
 <!--SR:!2026-09-06,4,270-->
 - Hvorfor virker penicilin ikke mod [[Mycoplasma]]?:: De har ingen murein
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-22,16,290-->
 - Hvad hedder svampen der først producerede penicilin?:: Penicillium
-<!--SR:!2026-09-06,3,250-->
+<!--SR:!2026-09-13,7,250-->
 - Hvorfor var penicil svært at fremstille syntetisk?:: Det nedbrydes nemt
 <!--SR:!2026-09-08,4,270-->
 - Hvad sker med penicilins effekt når concentrationen øges?:: Penicilin skal bare være over en hvis concentration for det virker, det virker ikke bedre over den concentration

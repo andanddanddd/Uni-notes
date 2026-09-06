@@ -7,4 +7,4 @@
 - Hvordan kan man på en ager plade se om en bakterie har kapsel eller ej?:: Den er shiny hvis den har en kapsel
 <!--SR:!2026-09-06,4,270-->
 - Hvorfor gør kapslen det svært af for at immunsystemet af dræbe bakterien?:: Den bliver "glat/slippery" og dermed svær at fagocytere
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-22,16,290-->

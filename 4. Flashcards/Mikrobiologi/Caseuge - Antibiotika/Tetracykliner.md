@@ -7,7 +7,7 @@
 - Hvad er målstrukturen for tetracykliner?:: Den lille subunit (30S) af de bakterielle ribosomer
 <!--SR:!2026-09-07,4,270-->
 - Hvilken type antibiotika er tetracyclinerne? (bakteriecider eller bakteriestatiske):: [[Bakteriostatisk virkende stoffer]]
-<!--SR:!2026-09-06,2,230-->
+<!--SR:!2026-09-13,7,250-->
 - Hvilken effekt har tetracykliner molekylært?:: Stopper proteintranslation reversibelt
 <!--SR:!2026-09-07,4,270-->
 
