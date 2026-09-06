@@ -1,7 +1,7 @@
 #flashcards/3/Immunologi #flashcards/5/Mikrobiologi 
 
 - Hvilke bakterier producere eksotoksiner?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-22,16,290-->
 - Hvad gør eksotoksiner?:: De er toksiske overfor vores celler
 <!--SR:!2026-09-22,16,290-->
 - Hvad er eksotoksiner?:: Et stof der skal udskilles fra [[Gram-positive bakterier]]
@@ -15,4 +15,4 @@
 - Hvad gør immunforsvaret mod eksotoksiner?:: Neutralisere dem med [[Antistoffer]]
 <!--SR:!2026-09-22,16,290-->
 - Hvorfor vaccinere man til tider imod bakteriers toksin og ikke selve bakterien?:: Fordi det stadig tager tid at dræbe bakterierne efter en vaccine så de vil have tid til at udskille deres toksiner
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-21,15,290-->
