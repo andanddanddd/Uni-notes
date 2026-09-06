@@ -25,9 +25,9 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 
 ###### Occlusion
 ![[Gram-inddeling]] A?:: Gram positiv
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-20,14,290-->
 ![[Gram-inddeling]] B?:: Gram negativ
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-22,16,290-->
 ![[Gram-inddeling]] C?:: Murein
 <!--SR:!2026-09-22,16,290-->
 ![[Gram-inddeling]] D?:: Det periplatiske rum

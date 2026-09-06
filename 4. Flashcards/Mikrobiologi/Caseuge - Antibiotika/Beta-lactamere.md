@@ -11,7 +11,7 @@
 - Hvor godt optages $\beta$-lactamere generalt?:: Dårligt
 <!--SR:!2026-09-07,4,270-->
 - Hvordan er halveringstiden af $\beta$-lactamere generalt?:: Lav (0,5-2 timer)
-<!--SR:!2026-09-06,3,250-->
+<!--SR:!2026-09-17,11,270-->
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil
 <!--SR:!2026-09-07,4,270-->
 - Hvordan virker $\beta$-lactamere overordnet?:: Binder til transpeptidasen og bleker for vand så den ikke kan komme væk derfra, dermed bliver transpeptidasen deaktiveret og bakterien kan ikke danne sin cellevæg
