@@ -31,9 +31,9 @@
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
 <!--SR:!2026-09-06,4,270-->
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
-<!--SR:!2026-09-06,3,250-->
+<!--SR:!2026-09-18,12,270-->
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
-<!--SR:!2026-09-06,4,270-->
+<!--SR:!2026-09-22,16,290-->
 - Hvilke 2 peptider danner krydsbindinger i murein?
 ?
 - D-alanin
