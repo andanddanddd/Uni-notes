@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-spaced-repetition",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "simple-colored-folder"
 ]
