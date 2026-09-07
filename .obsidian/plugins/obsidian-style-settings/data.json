@@ -9,5 +9,11 @@
   "simple-colored-folder@@bg-3forelsninger@@light": "#DEFF0A",
   "simple-colored-folder@@col-3forelsninger@@light": "#000000",
   "simple-colored-folder@@bg-4flashcards@@light": "#A1FF0A",
-  "simple-colored-folder@@col-4flashcards@@light": "#000000"
+  "simple-colored-folder@@col-4flashcards@@light": "#000000",
+  "simple-colored-folder@@bg-billeder@@light": "#0AFF99",
+  "simple-colored-folder@@col-billeder@@light": "#000000",
+  "simple-colored-folder@@bg-excalidraw@@light": "#0AEFFF",
+  "simple-colored-folder@@col-excalidraw@@light": "#000000",
+  "simple-colored-folder@@bg-externedokumenter@@light": "#147DF5",
+  "simple-colored-folder@@col-externedokumenter@@light": "#000000"
 }
