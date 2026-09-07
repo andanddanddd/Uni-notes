@@ -14,3 +14,4 @@ Normalflora i næsebor
 - [[Hemolysin]]
 
 - Hvorfor er katalase en patogenesefaktor?:: $H_2O_2$ er essentielt for ROS-produktion
+- ![[Pasted image 20260907121934.png]]
