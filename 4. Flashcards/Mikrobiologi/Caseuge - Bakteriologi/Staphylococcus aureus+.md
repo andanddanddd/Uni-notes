@@ -2,6 +2,7 @@
 
 - Hvad menes med at staphylcoccus aureus er en af de mest fysisk resistente bakterier?:: Den kan overleve at bliev udtørret (eks sårskoper, støv og i tøj)
 - Hvor lever staphylcoccus aureus normalt?:: Den er i næseborene på 30-40% af mennesker
+- Hvad betyder "aureus" og hvorfor har den fået det navn?:: Gylden, eftersom kolonierne oftest er guldfarvetish (de kan også være hvide)
 
 - Hvilke patogenesefaktorer har staphylcoccus aurius?
 ?
