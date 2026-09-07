@@ -2,6 +2,6 @@
 
 [[Slides - Gram_stafylokker_2026pptx.pdf]]
 
-![[Infektioner i og omkring hårsækkene]]
+![[Infektioner i huden]]
 
 ![[Staphylcoccer]]
