@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pyogenes+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Staphylococcus aureus+"
+              "title": "Streptococcus pyogenes+"
             }
           }
         ]
@@ -42,15 +42,15 @@
             }
           },
           {
-            "id": "470d7c56cc868e6f",
+            "id": "0d2af7698564cdb2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_stafylokker_2026pptx.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_streptokker_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Gram_stafylokker_2026pptx"
+              "title": "Slides - Gram_streptokker_2026"
             }
           }
         ],
@@ -242,14 +242,19 @@
   },
   "active": "224d1625ce974d2f",
   "lastOpenFiles": [
+    "Streptococcer.md",
     "Staphylcoccer.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
+    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_streptokker_2026.pdf",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Urinvejsinfektioner.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Staphylococcus.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
     "Methicillin-resistant S aureus (MRSA).md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Vancomyocin.md",
     "Toxic shock syndrome (TSS).md",
     "Staphylcoccal scalded skin syndrome (SSSS).md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Staphylococcus.md",
     "Infektioner i huden.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
     "Hemolysin.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_stafylokker_2026pptx.pdf",
     "Protein A.md",
@@ -259,10 +264,8 @@
     "Pasted image 20260907122551.png",
     "Pasted image 20260907121934.png",
     "Koagulasetest.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Urinvejsinfektioner.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Urinvejsinfektioner_E26.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Antibiotika der påvirker proteinsyntesen.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Chloramphenicol.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Rifampicin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Flourquinoloner.md",
@@ -272,14 +275,10 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfamethizol.md",
     "Externe dokumenter/MIkrobiologi/ntibiotika/msoE3B5.tmp",
     "Externe dokumenter/MIkrobiologi/ntibiotika/msoDA2E.tmp",
-    "1. Fag/Folkesundhed projekt.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/mso18F3.tmp",
-    "0. De allervigtigste/Celler.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2026.pdf",
     "Fødevarebårne sygdomme 2026.pdf",
     "Excalidraw/Mikrobiologi/Fødevarebårne sygdomme 2026.pdf",
-    "Excalidraw/Fødevarebårne sygdomme 2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260902123904.png",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
