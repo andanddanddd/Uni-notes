@@ -2,4 +2,6 @@
 
 [[Slides - Gram_streptokker_2026.pdf]]
 
+![[Infektioner i huden]]
+
 ![[Streptococcer]]

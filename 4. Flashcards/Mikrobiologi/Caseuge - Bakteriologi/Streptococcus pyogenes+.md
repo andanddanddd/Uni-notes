@@ -21,3 +21,7 @@ Få neutrofile
 - Hvad gør streptolysin?:: Lysere erytrocytter
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
+
+- Hvad er de systemiske komplikationer af S. pyogenes?
+?
+- [[Sca]]
