@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan bekæmper [[Gram-positive bakterier]] penicilin?:: Secenere $\beta$-lactamaser [[Resistente bakterier]]
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvordan bekæmper [[Gram-negative bakterier]] penicilin?:: der er $\beta$-lactamaser i det periplastiske rum
 <!--SR:!2026-09-23,16,290-->
 - Hvad er forskellen på penicilinresistente grampositive/negative bakterier klinisk og hvorfor?:: Penicilinresitente gram-positive bakterier vil secenere mere $\beta$-laktamase hvis der tilføres mere penicilin, det gør de gramnegative bakterier ikke derfor kan peniclinresistens til dels overkommes med mere pinicilin i gram-nragtive bakterie men ikke de gram-positive

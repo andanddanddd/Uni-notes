@@ -9,14 +9,14 @@
 - Inhibere optaget af lægemiddel
 - Øger export af lægemiddel ud af cellen
 - Ændre lægemiddeles målstruktur
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 
 - Hvad er den mest normale mekanisme til resistens?:: Ændring fa målstruktur
 <!--SR:!2026-09-07,4,270-->
 - Hvad kaldes det når en bakterie kun delvist bliver påvirket af et lægemiddel? (de er delvist resistente):: Tolerence
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvad er naturlig resistens?:: Resistens der opstod inden bakterien mødte antibiotika
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvad er erhvervet resistens?:: resistens der opstod efter bakterien har mødt antibiotika
 <!--SR:!2026-09-07,4,270-->
 - Hvordan kan bakterier vælge at blive resistente og hvorfor er det pludselig en hel koloni af resistente bakterier?:: Der sker en tilfældig mutation hvilket medfører at den specifikke bakterie overlever mens alle de andre dør, herefter vil den resistente bakterie formere sig og dermed fås en stamme af resistente bakterier (selektion)

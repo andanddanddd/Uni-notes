@@ -9,7 +9,7 @@
 - Hvilken polaritet har $\beta$-lactamere?:: Polære
 <!--SR:!2026-09-23,16,290-->
 - Hvor godt optages $\beta$-lactamere generalt?:: Dårligt
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvordan er halveringstiden af $\beta$-lactamere generalt?:: Lav (0,5-2 timer)
 <!--SR:!2026-09-17,11,270-->
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil
