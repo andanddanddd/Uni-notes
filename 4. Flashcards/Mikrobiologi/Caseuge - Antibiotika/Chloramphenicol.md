@@ -4,3 +4,4 @@
 <!--SR:!2026-09-18,12,270-->
 - Hvilke bakterier virker chloramphenicol imod?:: Det hele det er meget bredspektret
 <!--SR:!2026-09-07,3,250-->
+Man bruger det meget i asien da de ikke får den onde bivirkning
