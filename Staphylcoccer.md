@@ -5,7 +5,7 @@
 - Hvilken test laves for at identificere staphylcoccerne fra hinanden?:: [[Koagulasetest]]
 - Hvilken staphylcoc er koagulase+?:: [[Staphylococcus aureus+]]
 - Hvilken staphylcoc er koagulase-?:: [[Staphylococcus epidermidis]]
-- Hvordan er lejringen af staphylcoccer?:: Klaser
+- Hvordan er lejringen af staphylcoccer?:: Klaser (ligner vindruer)
 - Hvilken type cellevæg har staphylcoccer?:: Den er gram positiv ([[Gram-positive bakterier]])
 - Hvordan kan staphylcoccer (og andre bakterier) forårsage systemiske effekter uden at være i blodbanen?:: Deres toksiner kan være i blodbanen uden de selv er der
 
