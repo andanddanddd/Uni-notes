@@ -10,6 +10,7 @@
 - Hvordan kan staphylcoccer (og andre bakterier) forårsage systemiske effekter uden at være i blodbanen?:: Deres toksiner kan være i blodbanen uden de selv er der
 - Hvordan spreder staphylcoccer sig typisk?:: Direkte kontakt mellem mennesker eller partikler i luften
 - Hvordan kommer staphylcoccer ned i dybere hudlag?:: De kan kun komme derned hvis der er åbent dertil  fx ved forbræninger eller sår
+- Hvad findes udenpå kapslen af staphylcoccer?:: Slim
 
 
 ![[Staphylococcus aureus+]]

@@ -15,6 +15,7 @@
 - Hvorfor er katalase en patogenesefaktor?:: $H_2O_2$ er essentielt for ROS-produktion
 - Hvilket protein "hjælper" koagulase med at lave koagulere plasma?:: "clumbing factor"
 - Hvad hedder protein laves a s. aureus der kan nedbryde hvide blodceller?:: Leucocidin
+- Hvad gør hyaluronidase?:: Nedbryder ECM
 - ![[Pasted image 20260907121934.png]]
 
 - Hvad kaldes tilstanden forårsaged af staphylcoccus aurius hvor huden afskaldes og der formes blistre?:: [[Staphylcoccal scalded skin syndrome (SSSS)]]
@@ -24,5 +25,6 @@
 
 
 - Hvad menes med at s. aureus er pyogenisk?:: Den danner pus (abcesser)
+- Hvordan "vælger" s. aureus hvor den danner abcesser?:: De ender steder hvor der i forvejen er en skade eller i de højt-vasculiserede organer
 - Hvilken resistensmekanisme har de fleste s. aureus?:: Dannelse af $\beta$-lactamase
 - Hvad kaldes de stammer af s. aureus der er meget resistente?:: [[Methicillin-resistant S aureus (MRSA]])
