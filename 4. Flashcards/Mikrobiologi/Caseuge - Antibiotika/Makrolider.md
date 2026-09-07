@@ -7,7 +7,7 @@
 - Hvilken målstruktur har makrolider?:: Den store subunit (50S) af det bakterielle ribosom
 <!--SR:!2026-09-07,4,270-->
 - Hvilken administrationsvej har makrolider?:: PO men nogle kan også administreres IV
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvad bruges makrolider typisk til?:: Luftvejsinfektioner
 <!--SR:!2026-09-07,4,270-->
 

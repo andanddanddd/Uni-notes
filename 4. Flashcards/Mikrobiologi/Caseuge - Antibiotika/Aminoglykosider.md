@@ -17,7 +17,7 @@
 - Hvilken type antibiotika er aminoglykosiderne? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]
 <!--SR:!2026-09-07,4,270-->
 - Hvilken bivirkning har aminoglykosider?:: Det påvirker [[N. vestibulocochlearis]]
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-18,11,270-->
 
 [[Gentamicin]]
 [[Tobramycin]]
