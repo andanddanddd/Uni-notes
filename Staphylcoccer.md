@@ -5,10 +5,10 @@
 - Hvilken test laves for at identificere staphylcoccerne fra hinanden?:: [[Koagulasetest]]
 - Hvilken staphylcoc er koagulase+?:: [[Staphylococcus aureus+]]
 - Hvilken staphylcoc er koagulase-?:: [[Staphylococcus epidermidis]]
-Staphylkokker har koagulase - man lave rkoagulasetest
-Klaser
-Gram-positiv
-Toksiner kan komme ind i blodbanen uden de egentlige bakterier er deri
+- Hvordan er lejringen af staphylcoccer?:: Klaser
+- Hvilken type cellevæg har staphylcoccer?:: Den er gram positiv ([[Gram-positive bakterier]])
+- Hvordan kan staphylcoccer (og andre bakterier) forårsage systemiske effekter uden at være i blodbanen?:: Deres toksiner kan være i blodbanen uden de selv er der
+
 
 ![[Staphylococcus aureus+]]
 
