@@ -11,7 +11,7 @@
 - Hvorfor var penicil svært at fremstille syntetisk?:: Det nedbrydes nemt
 <!--SR:!2026-09-08,4,270-->
 - Hvad sker med penicilins effekt når concentrationen øges?:: Penicilin skal bare være over en hvis concentration for det virker, det virker ikke bedre over den concentration
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 
 ![[Penicilinresistens]]
 

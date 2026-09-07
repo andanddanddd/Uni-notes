@@ -20,7 +20,7 @@
 - Hvad er erhvervet resistens?:: resistens der opstod efter bakterien har mødt antibiotika
 <!--SR:!2026-09-07,4,270-->
 - Hvordan kan bakterier vælge at blive resistente og hvorfor er det pludselig en hel koloni af resistente bakterier?:: Der sker en tilfældig mutation hvilket medfører at den specifikke bakterie overlever mens alle de andre dør, herefter vil den resistente bakterie formere sig og dermed fås en stamme af resistente bakterier (selektion)
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvordan kan bakterie overfører plasmider til hinanden?
 ?
 - Direkte kontakt (konjuktion)

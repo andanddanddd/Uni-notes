@@ -19,7 +19,7 @@
 <!--SR:!2026-09-18,12,270-->
 
 - Hvilken monoskakkrid har påkoplet den krydsbindende peptidkæde?:: NAM
-<!--SR:!2026-09-07,3,230-->
+<!--SR:!2026-09-16,9,250-->
 
 ## Syntese
 - Hvor laves og modificeres selve monosakkariderne til murein?:: Cytoplasma
