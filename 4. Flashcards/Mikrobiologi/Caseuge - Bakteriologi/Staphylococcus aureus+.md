@@ -13,6 +13,7 @@
 - [[Hemolysin]]
 
 - Hvorfor er katalase en patogenesefaktor?:: $H_2O_2$ er essentielt for ROS-produktion
+- Hvilket protein "hjælper" koagulase med at lave koagulere plasma?:: "clumbing factor"
 - ![[Pasted image 20260907121934.png]]
 
 - Hvad kaldes tilstanden forårsaged af staphylcoccus aurius hvor huden afskaldes og der formes blistre?:: [[Staphylcoccal scalded skin syndrome (SSSS)]]
