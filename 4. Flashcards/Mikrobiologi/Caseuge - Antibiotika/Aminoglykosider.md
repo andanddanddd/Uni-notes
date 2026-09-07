@@ -5,17 +5,17 @@
 - Hvad er målstrukturen for aminoglykosider?:: Den lille subunit (30S) af de bakterielle ribosomer
 <!--SR:!2026-09-23,16,290-->
 - Hvilken effekt har aminoglykosider på proteinsyntesen?:: Forårsager mange nonsense mutationer ved at påvirke initiering af translation
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - Hvordan opnås resistense mod aminoglykosider?:: Enzymatisk nedbrydning
 <!--SR:!2026-09-18,11,270-->
 - Hvilke bakterier kan opnå resistens mod aminoglykosider ved at forhindre transport ind i cellen?:: Anerobe (stadig gram-negative)
 <!--SR:!2026-09-23,16,290-->
 - Hvilken patientgruppe skal være påpaselig med aminoglykosider?:: Mennesker med nedsat nyrefunktion
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-21,14,290-->
 - Hvordan administreres aminoglykosider?:: IV (til tider intrathekalt)
 <!--SR:!2026-09-23,16,290-->
 - Hvilken type antibiotika er aminoglykosiderne? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-22,15,290-->
 - Hvilken bivirkning har aminoglykosider?:: Det påvirker [[N. vestibulocochlearis]]
 <!--SR:!2026-09-18,11,270-->
 

@@ -5,5 +5,5 @@
 - Hvilken type antibiotika er polymixiner? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]
 <!--SR:!2026-09-23,16,290-->
 - Hvilken virkningsmekanisme har polymixiner?:: Binder til cellemembranen og forstykke transport og permabilitet
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-23,16,290-->
 - [[Colistin]]

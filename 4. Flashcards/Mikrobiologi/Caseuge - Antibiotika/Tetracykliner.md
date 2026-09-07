@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken type bakterier bruges tetracykliner imod?:: Nærmest alle bakterier (de er meget bredspektret), men scheaters agde [[Gram-negative bakterier]]
-<!--SR:!2026-09-07,4,270-->
+<!--SR:!2026-09-22,15,290-->
 - Hvordan opnås resistense mod tetracykliner?:: De transporteres ud af cellen
 <!--SR:!2026-09-23,16,290-->
 - Hvad er målstrukturen for tetracykliner?:: Den lille subunit (30S) af de bakterielle ribosomer
