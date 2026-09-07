@@ -27,4 +27,7 @@
 - Hvad menes med at s. aureus er pyogenisk?:: Den danner pus (abcesser)
 - Hvordan "vælger" s. aureus hvor den danner abcesser?:: De ender steder hvor der i forvejen er en skade eller i de højt-vasculiserede organer
 - Hvilken resistensmekanisme har de fleste s. aureus?:: Dannelse af $\beta$-lactamase
-- Hvad kaldes de stammer af s. aureus der er meget resistente?:: [[Methicillin-resistant S aureus (MRSA]])
+- Hvad kaldes de stammer af s. aureus der er meget resistente?:: [[Methicillin-resistant S aureus (MRSA)]])
+
+- Hvilken antibiotika kan forhindre toxindannelsen i s. aureus?:: [[Clindamycin]]
+
