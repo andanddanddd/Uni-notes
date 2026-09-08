@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 
-Få neutrofile
+- Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
 - Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hæmolyse
 <!--SR:!2026-09-11,3,250-->
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
@@ -43,5 +43,6 @@ Få neutrofile
 <!--SR:!2026-09-12,4,270-->
 - Hvilken lokal komplikation har pharyngitis forårsaget af S. pyogenes?:: [[Peritonsilære abscesser]]
 <!--SR:!2026-09-12,4,270-->
+- Hvem får oftest phanygitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-09-12,4,270-->
