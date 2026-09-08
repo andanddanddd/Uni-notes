@@ -20,6 +20,7 @@ Få neutrofile
 - Hvilken effekt har det at S. pyogenes har hyaluronsyre i sin kapsel?:: Det ligner mere eukaryote celler dermed har komplement sværre ved at se det
 - Hvad gør streptolysin?:: Lysere erytrocytter
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
+<!--SR:!2026-09-11,3,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
 
 - Hvad er de systemiske komplikationer af pharyngitis forårsaget af S. pyogenes?

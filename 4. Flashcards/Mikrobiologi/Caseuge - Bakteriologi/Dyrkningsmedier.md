@@ -7,4 +7,4 @@
 - [[Blå plade]]
 - [[MacConkey plade]]
 - [[Müller Hinton plade]]
-<!--SR:!2026-09-08,1,210-->
+<!--SR:!2026-09-09,1,190-->

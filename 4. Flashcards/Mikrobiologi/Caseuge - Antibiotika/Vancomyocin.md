@@ -13,4 +13,4 @@
 - Hvordan opnår bakterier resistens mod vancomyocin?:: De laver D-alanin-D-laktat dimere i stedet for D-alanin-D-alanin dimere eftersom vancomyocin dermed ikke har et angrebspunkt
 <!--SR:!2026-09-23,16,290-->
 - Hvorfor er det ikke et problem for bakterien at det ændre sin peptidkæde i cellevæggen?:: Den har mange transpeptidaser så det er bare en transpeptidase der bliver aktiv
-<!--SR:!2026-09-08,4,270-->
+<!--SR:!2026-09-24,16,290-->

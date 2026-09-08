@@ -53,8 +53,7 @@
               "title": "Slides - Gram_streptokker_2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -236,42 +234,42 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "224d1625ce974d2f",
   "lastOpenFiles": [
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcer.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Cellulitis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Toxic shock syndrome (TSS).md",
+    "Billeder/Mikrobiologi/Pasted image 20260907150121.png",
+    "Billeder/Mikrobiologi/Pasted image 20260907121934.png",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus agalactiae.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pyogenes+.md",
-    "Nekrotisrende fasciitis.md",
-    "Glomerulonephritis.md",
-    "Reumatisk feber.md",
-    "Scarletina.md",
-    "Pasted image 20260907150121.png",
-    "Streptococcal Toxic Shock Syndrome (STSS).md",
-    "Infektioner i huden.md",
-    "Impetigo.md",
-    "Cellulitis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Nekrotisrende fasciitis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Glomerulonephritis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Reumatisk feber.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Scarletina.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcal Toxic Shock Syndrome (STSS).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Infektioner i huden.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Impetigo.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_streptokker_2026.pdf",
-    "Streptococcer.md",
-    "M-protein.md",
-    "Staphylcoccer.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/M-protein.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylcoccer.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Urinvejsinfektioner.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Staphylococcus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
-    "Methicillin-resistant S aureus (MRSA).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Methicillin-resistant S aureus (MRSA).md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Vancomyocin.md",
-    "Toxic shock syndrome (TSS).md",
-    "Staphylcoccal scalded skin syndrome (SSSS).md",
-    "Hemolysin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylcoccal scalded skin syndrome (SSSS).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Hemolysin.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_stafylokker_2026pptx.pdf",
-    "Protein A.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus saprophyticus.md",
-    "Pasted image 20260907122551.png",
-    "Pasted image 20260907121934.png",
+    "Billeder/Mikrobiologi/Pasted image 20260907122551.png",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Urinvejsinfektioner_E26.pdf",
     "Externe dokumenter/MIkrobiologi/ntibiotika/Slides - Antibiotika_med_metaboliske_angrebspunkter_2026.pdf",
     "Externe dokumenter/MIkrobiologi/ntibiotika/msoE3B5.tmp",

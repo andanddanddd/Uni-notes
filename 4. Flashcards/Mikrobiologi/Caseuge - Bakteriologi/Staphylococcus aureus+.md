@@ -20,6 +20,7 @@
 
 - Hvad kaldes tilstanden forårsaged af staphylcoccus aurius hvor huden afskaldes og der formes blistre?:: [[Staphylcoccal scalded skin syndrome (SSSS)]]
 - Hvordan sker smitte oftest når s. aureus giver pneumoni?:: Der inhaleres støv fra sengetøj eller lignende
+<!--SR:!2026-09-12,4,270-->
 - Hvad hedder toxinet fra s. aureus der giver madforgiftning?:: S. aureus enterotoxin
 - Hvad kaldes sygdommen forårsaget af s. aureus som oftest optræder ved forlænget brug af en tampon?:: [[Toxic shock syndrome (TSS)]]
 

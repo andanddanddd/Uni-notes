@@ -5,13 +5,9 @@
 - Hvilken farve bliver gram-positive bakterier ved [[Gram-farvning]]?:: Lilla
 <!--SR:!2026-09-19,14,290-->
 
+[[Staphylcoccer]]
+[[Streptococcer]]
 
-[[Staphylococcus aureus+]]
-[[Staphylococcus epidermidis]]
-[[Staphylococcus saprophyticus]]
-[[Streptococcus pneumoniae+]]
-[[Streptococcus pyogenes+]]
-[[Streptococcus agalactiae]]
 [[Enterocuccus faecalis]]
 [[Mycoplasma pneumoniae]]
 [[Mycobacterium tuberculosis+]]
