@@ -1,9 +1,13 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken bakterie forårsager TSS?:: [[Staphylococcus aureus+]]
+<!--SR:!2026-09-12,4,270-->
 - Hvilken toxin forårsager TSS?:: Toxic shock syndrome toxin-1 (TSST-1)
+<!--SR:!2026-09-12,4,270-->
 - Hvilken type [[Eksotoksiner]] er TSST-1?:: Superantigen
+<!--SR:!2026-09-12,4,270-->
 - Hvilket stof er essentielt for udviklingen af TSS?:: Ilt
+<!--SR:!2026-09-12,4,270-->
 - Hvorfor kan man få TSS gentgende?:: Eftersom TSST-1 er et superantigen er det svært for immunforsvaret at "gemme" den rigtige T-celle
 <!--SR:!2026-09-12,4,270-->
 - Hvilke symptomer har TSS?
