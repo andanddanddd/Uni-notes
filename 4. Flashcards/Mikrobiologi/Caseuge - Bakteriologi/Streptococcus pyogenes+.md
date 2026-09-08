@@ -57,4 +57,7 @@
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-09-12,4,270-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
+
+## Behandling
+- Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)
 - Hvorfor er det vigtigt at fortsætte en antibiotikakur imod S. pyogenes?:: Ellers er der risiko for komplikationer ([[Reumatisk feber]] og [[Glomerulonephritis]])

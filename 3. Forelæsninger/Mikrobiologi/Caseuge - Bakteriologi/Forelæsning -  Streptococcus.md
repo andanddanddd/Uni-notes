@@ -5,3 +5,5 @@
 ![[Infektioner i huden]]
 
 ![[Streptococcer]]
+
+![[Enterocuccus faecalis]]
