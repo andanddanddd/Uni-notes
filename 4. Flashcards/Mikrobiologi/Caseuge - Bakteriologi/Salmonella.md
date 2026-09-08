@@ -4,7 +4,5 @@
 - Hvilken form har salmonella?:: Stav
 - Hvor bevægelig er salmonella?:: Bevægelig
 
-
-
  [[Non-tyfoid salmonella]]
- [[Salmonella Typhi]]
+ [[Salmonella Typhi]]
