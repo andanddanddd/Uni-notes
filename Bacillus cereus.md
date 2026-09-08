@@ -5,6 +5,8 @@
 - Hvad kaldes opkastningsformen af madforgiftning grundet B. cereus?:: Fried rice syndrom
 - Hvilke del af B. cereus overlever opvarmning?:: Spore
 - Hvad hedder toksinet som giver madforgiftning dannet af B. cereus?:: Cereulid
-- Hvad er inkubationstid og varighed af opkastningsformen af madforgiftning grundet B. cereus?:: Inkubationstid = 15 min til 6 timer og varigheden er 
+- Hvad er inkubationstid og varighed af opkastningsformen af madforgiftning grundet B. cereus?:: Inkubationstid = 15 min til 6 timer og varigheden er under 24 timer
 
 ## Diarreformen
+- Hvordan giver B. cereus diarre? (patofysiologi):: Toksin danner poror i enteeocytter dermed udskilles meget væske
+- Hvad er inkubationstid og varighed af diarreformen af madforgiftning grundet B. cereus?:: Inkubationstid = 8-16 timer og varigheden er under 24 timer

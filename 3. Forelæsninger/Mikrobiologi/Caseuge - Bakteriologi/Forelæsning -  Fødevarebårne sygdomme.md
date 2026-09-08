@@ -5,10 +5,12 @@
 
 ![[Begreber indenfor diarre]]
 
-![[Diarre-udredning]]
+![[Diarre-udredning og statistik]]
 
-Nosokomiel diere = diere erhverved mens man er indlagt
-Selvlimiterende = kræver ikke behandling
+
+![[Campylobacter]]
+
+
 Man behandler typisk ikke dieeresygdomme med antibiotika
 
 Emperisk behanlding = Behandling med ntibiotika uden man ved hvilken mikroorganisme der behandles
