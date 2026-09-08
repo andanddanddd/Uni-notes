@@ -10,6 +10,7 @@
 - Hvad kaldes det hvis der er en infektion i talgkirtlen i øjenlåget?:: Bygkorn
 <!--SR:!2026-09-11,3,250-->
 - Hvad kaldes infektioner i subcutis?:: [[Cellulitis]]
+<!--SR:!2026-09-12,4,270-->
 - Hvad kaldes infektion i de øverste hudlag?:: [[Impetigo]]
 <!--SR:!2026-09-11,3,250-->
 

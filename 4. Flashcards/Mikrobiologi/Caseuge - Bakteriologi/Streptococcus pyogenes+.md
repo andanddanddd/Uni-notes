@@ -7,6 +7,7 @@ Få neutrofile
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
 <!--SR:!2026-09-12,4,270-->
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
+<!--SR:!2026-09-12,4,270-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
 <!--SR:!2026-09-12,4,270-->
 - Hvilke patogenesefaktorer har stretococcus pyogenes?
@@ -18,10 +19,12 @@ Få neutrofile
 - Fibronectin bindende protein
 - Streptokinase
 - SpeB-cystein protease
+<!--SR:!2026-09-09,1,230-->
 
 - Hvilken effekt har det at S. pyogenes har C5a-peptidase?:: Der kan ikke dannes [[Membranangrebskompleks]] og der tiltrækkes færre [[neutrofile granulocytter]]
 <!--SR:!2026-09-12,4,270-->
 - Hvilken effekt har det at S. pyogenes har hyaluronsyre i sin kapsel?:: Det ligner mere eukaryote celler dermed har komplement sværre ved at se det
+<!--SR:!2026-09-12,4,270-->
 - Hvad gør streptolysin?:: Lysere erytrocytter
 <!--SR:!2026-09-12,4,270-->
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)

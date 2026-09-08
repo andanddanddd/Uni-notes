@@ -9,6 +9,7 @@
 - Hvilken staphylcoc er koagulase+?:: [[Staphylococcus aureus+]]
 <!--SR:!2026-09-12,4,270-->
 - Hvilke(n) staphylcoc er koagulase-?:: [[Staphylococcus epidermidis]] og [[Staphylococcus saprophyticus]]
+<!--SR:!2026-09-12,4,270-->
 - Hvordan er lejringen af staphylcoccer?:: Klaser (ligner vindruer)
 <!--SR:!2026-09-12,4,270-->
 - Hvilken type cellevæg har staphylcoccer?:: Den er gram positiv ([[Gram-positive bakterier]])
@@ -20,6 +21,7 @@
 - Hvordan kommer staphylcoccer ned i dybere hudlag?:: De kan kun komme derned hvis der er åbent dertil  fx ved forbræninger eller sår
 <!--SR:!2026-09-12,4,270-->
 - Hvad findes udenpå kapslen af staphylcoccer?:: Slim
+<!--SR:!2026-09-12,4,270-->
 
 
 ![[Staphylococcus aureus+]]

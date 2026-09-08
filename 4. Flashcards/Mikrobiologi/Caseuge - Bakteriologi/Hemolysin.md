@@ -1,6 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad skal ske med hemolysin for den bliver aktiv?:: Den skal sættes sammen med andre hæmolysin-proteiner
+<!--SR:!2026-09-12,4,270-->
 - Hvad gør hemolysin når det er oligomeseret?:: Danner en porer
 <!--SR:!2026-09-12,4,270-->
 - Hvad gør hemolysin overordnet?:: Lysere erytrocytter
