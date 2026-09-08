@@ -10,6 +10,6 @@
 
 - Hvilke bakterier kan give inflammatorisk enterocolitis?
 ?
-- [[Campylobacter]]
+- [[Campylobacter jejuni]]
 - [[Shigella]]
-- [[Non-tyfoid salmonella]]
+- [[Salmonella Typhimurium]]

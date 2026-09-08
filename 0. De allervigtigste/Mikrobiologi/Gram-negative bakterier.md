@@ -12,3 +12,27 @@
 <!--SR:!2026-09-16,12,270-->
 
 ![[Lipopolysakkarid]]
+
+[[Neisseria meningitidis+]]
+[[Neisseria gonorrhoeae+]]
+[[Escherichia coli+]]
+[[Klebsiella pneumoniae+]]
+[[Proteus mirabilis]]
+[[Legionella pneumophila+]]
+[[Pseudomonas aeruginosa+]]
+[[Salmonella]]
+[[Yersinia enterocolitica]]
+[[Shigella]]
+[[Campylobacter jejuni]]
+[[Helicobacter pylo
+- _**Chlamydia trachomatis**_ 
+- _Chlamydia pneumoniae_
+- _Chlamydia psittaci_ 
+- _**Treponema pallidum**_ 
+- _**Borrelia burgdorferi**_ 
+- **_Haemophilus influenzae_ type B**
+- _**Bordetella pertussis**_
+
+#### _**Gram negative anaerobe**_
+
+- _**Bacteroides fragilis**_

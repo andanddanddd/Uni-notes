@@ -7,9 +7,9 @@
 
 ![[Diarre-udredning og statistik]]
 
+![[Campylobacter jejuni]]
 
-![[Campylobacter]]
-
+![[Salmonella]]
 
 Man behandler typisk ikke dieeresygdomme med antibiotika
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campylobacter.md",
+                "file": "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campylobacter"
+              "title": "Gram-negative bakterier"
             }
           }
         ]
@@ -53,8 +53,7 @@
               "title": "Slides - Fødevarebårne sygdomme 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,13 +241,17 @@
   },
   "active": "224d1625ce974d2f",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
-    "Campylobacter.md",
-    "Diarre-udredning og statistik.md",
+    "Campylobacter jejuni.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
+    "Shigella.md",
     "Salmonella.md",
+    "Salmonella Typhimurium.md",
+    "Escherichia coli+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterococcus faecalis.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
+    "Diarre-udredning og statistik.md",
     "Præformeret toksin (gastroenteritis).md",
     "Bacillus cereus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterococcus faecalis.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Streptococcus.md",
     "Sekretorisk enteritis.md",
     "Clostridium perfringens.md",
@@ -267,10 +270,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Blodplader agerplade.md",
     "Billeder/Mikrobiologi/Pasted image 20260908083831.png",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Infektioner i huden.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylcoccer.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Koagulasetest.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcer.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
     "Billeder/Mikrobiologi/Pasted image 20260907150121.png",
     "Billeder/Mikrobiologi/Pasted image 20260907121934.png",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Gram_stafylokker_2026pptx.pdf",
