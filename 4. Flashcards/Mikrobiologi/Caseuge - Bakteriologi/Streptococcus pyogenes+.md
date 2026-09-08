@@ -2,7 +2,7 @@
 
 
 Få neutrofile
-
+- Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hæmolyse
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
