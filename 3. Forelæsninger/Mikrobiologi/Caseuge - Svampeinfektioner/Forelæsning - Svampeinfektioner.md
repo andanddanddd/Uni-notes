@@ -7,8 +7,10 @@ Kan være kønnet eller ukønnet
 Pseudohyfer er noget hvor de stadig sidder lidt fast
 De farves vist nok gram positivt
 Skimmelsvampe vokser langsomere end gærsvampe
+Skimmelsvampe lever ikke som udgangspunkt på/I 
 
 ![[Candida spp+]]
-[[Cryptococcus neoformans]]
+
+![[Cryptococcus neoformans]]
 [[Pneumocystis jiroveci (carinii)]]
 [[Aspergillus]]
