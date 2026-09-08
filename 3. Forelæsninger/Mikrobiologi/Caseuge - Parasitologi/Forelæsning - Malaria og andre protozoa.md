@@ -1,9 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
 [[Malaria+]]
-    
-- Entamoeba  
-    
-- Giardia  
-    
-- Toxoplasma gondii
+[[Entamoeba]]
+[[Giardia]]
+[[Toxoplasma gondii]]
