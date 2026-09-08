@@ -7,7 +7,7 @@
 
 ![[Diarre-udredning]]
 
-NOsokomiel diere = diere erhverved mens man er indlagt
+Nosokomiel diere = diere erhverved mens man er indlagt
 Selvlimiterende = kræver ikke behandling
 Man behandler typisk ikke dieeresygdomme med antibiotika
 
