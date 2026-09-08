@@ -3,6 +3,8 @@
 [[Slides - Fødevarebårne sygdomme 2025.pdf]]
 [[Slides - Fødevarebårne sygdomme 2026.pdf]]
 
+![[Begreber indenfor diarre]]
+
 NOsokomiel diere = diere erhverved mens man er indlagt
 Selvlimiterende = kræver ikke behandling
 Man behandler typisk ikke dieeresygdomme med antibiotika
