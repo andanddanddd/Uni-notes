@@ -2,7 +2,7 @@
 
 
 - Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
-- Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hæmolyse
+- Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hemolyse
 <!--SR:!2026-09-11,3,250-->
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
 <!--SR:!2026-09-12,4,270-->
@@ -10,6 +10,11 @@
 <!--SR:!2026-09-12,4,270-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
 <!--SR:!2026-09-12,4,270-->
+- Hvorfor bliver S. pyogenes ikke "skyldes" væk i pharynx?
+?
+- M-protein binder til keratinocytter
+- Hyalyrosyren i kapslen 
+
 - Hvilke patogenesefaktorer har stretococcus pyogenes?
 ?
 - C5a-peptidase
@@ -43,6 +48,7 @@
 <!--SR:!2026-09-12,4,270-->
 - Hvilken lokal komplikation har pharyngitis forårsaget af S. pyogenes?:: [[Peritonsilære abscesser]]
 <!--SR:!2026-09-12,4,270-->
-- Hvem får oftest phanygitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
+- Hvem får oftest pharyngitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-09-12,4,270-->
+- Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
