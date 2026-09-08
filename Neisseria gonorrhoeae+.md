@@ -9,3 +9,5 @@ Kvinder kan nemt have den i rectum uden at have haft analsex (den er ikke en del
 Laver bacteriæmi men ikke sepsis
 Kan give blivende bruskskade
 De er svære at dyrke derfor poder man mange steder fra
+Man behandler det med det samme ved almen praksis (intramuskulært)
+Man får symptomer hurtigt
