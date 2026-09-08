@@ -6,6 +6,6 @@
 ?
 - Lobær pneumoni
 - [[Meningitis]]
-- [[Sinus sagitalis superior]]
+- [[Sinuitis]]
 - [[Otitis media]]
 <!--SR:!2026-09-12,4,270-->

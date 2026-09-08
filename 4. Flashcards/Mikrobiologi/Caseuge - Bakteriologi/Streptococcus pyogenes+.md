@@ -1,15 +1,19 @@
 #flashcards/5/Mikrobiologi 
 
-
-- Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
+## Generalt 
 - Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hemolyse
 <!--SR:!2026-09-11,3,250-->
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
 <!--SR:!2026-09-12,4,270-->
+
+## Smitte
+- Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
 <!--SR:!2026-09-12,4,270-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
 <!--SR:!2026-09-12,4,270-->
+
+## Patogenesefaktorer
 - Hvorfor bliver S. pyogenes ikke "skyldes" væk i pharynx?
 ?
 - M-protein binder til keratinocytter
@@ -37,6 +41,7 @@
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
 <!--SR:!2026-09-11,3,250-->
 
+## Symptomer/komplikationer
 - Hvad er de systemiske komplikationer af pharyngitis forårsaget af S. pyogenes?
 ?
 - [[Scarletina]]
@@ -52,3 +57,4 @@
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-09-12,4,270-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
+- Hvorfor er det vigtigt at fortsætte en antibiotikakur imod S. pyogenes?:: Ellers er der risiko for komplikationer ([[Reumatisk feber]] og [[Glomerulonephritis]])
