@@ -8,7 +8,7 @@
 [[Staphylcoccer]]
 [[Streptococcer]]
 
-[[Enterocuccus faecalis]]
+[[Enterococcus faecalis]]
 [[Mycoplasma pneumoniae]]
 [[Mycobacterium tuberculosis+]]
 [[Listeria monocytogenes+]]

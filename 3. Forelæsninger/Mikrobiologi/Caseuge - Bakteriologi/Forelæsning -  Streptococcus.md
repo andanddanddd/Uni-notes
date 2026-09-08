@@ -6,4 +6,4 @@
 
 ![[Streptococcer]]
 
-![[Enterocuccus faecalis]]
+![[Enterococcus faecalis]]
