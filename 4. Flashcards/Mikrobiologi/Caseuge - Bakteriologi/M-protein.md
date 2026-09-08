@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
-- Hvad gør M-protein overordnet?:: Hæmmer fagocytose
-<!--SR:!2026-09-09,1,230-->
+- Hvad gør M-protein overordnet?:: Hæmmer fagocytose (ved at undgå at blive opsoineret) og binder til keratinocytter
+- Hvordan forhinde M-protein bakterien i at blive opsoineret?:: Først binder den fibrinogen (en slags skjold) herefter binder den regulerende komplementfaktorer (faktor H)
 - Hvilken bakterie har M-protein på sin overflade?:: [[Streptococcus pyogenes+]]
 <!--SR:!2026-09-12,4,270-->
 - Hvorfor er det svært at lave en gentagent immunforsvar mod M-protein?:: Den kan ændres
