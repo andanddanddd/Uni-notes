@@ -13,7 +13,7 @@
 - Hvorfor bliver S. pyogenes ikke "skyldes" væk i pharynx?
 ?
 - M-protein binder til keratinocytter
-- Hyalyrosyren i kapslen 
+- Hyalyrosyren i kapslen får bakterien til at ligne humane celler så den kan binde til visse adhæsionsproteiner (CD44)
 
 - Hvilke patogenesefaktorer har stretococcus pyogenes?
 ?
