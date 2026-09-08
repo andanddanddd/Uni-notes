@@ -24,15 +24,11 @@
 [[Yersinia enterocolitica]]
 [[Shigella]]
 [[Campylobacter jejuni]]
-[[Helicobacter pylo
-- _**Chlamydia trachomatis**_ 
-- _Chlamydia pneumoniae_
-- _Chlamydia psittaci_ 
-- _**Treponema pallidum**_ 
-- _**Borrelia burgdorferi**_ 
-- **_Haemophilus influenzae_ type B**
-- _**Bordetella pertussis**_
+[[Helicobacter pylori]]
+[[Clamydia]]
+[[Treponema pallidum]]
+[[Borrelia burgdorferi+]]
+[[Haemophilus influenzae_ type B+]]
+[[Bordetella pertussis+]]
 
-#### _**Gram negative anaerobe**_
-
-- _**Bacteroides fragilis**_
+[[Bacteroides fragilis+]]

@@ -12,4 +12,4 @@
 ?
 - [[Campylobacter jejuni]]
 - [[Shigella]]
-- [[Salmonella Typhimurium]]
+- [[Non-tyfoid salmonella]]
