@@ -1,2 +1,10 @@
 #flashcards/5/Mikrobiologi 
 
+- Hvorfor giver B. cereus nogle gange primært opkast og nogle gange primært diarre?:: Hvis der allerede er toksin i maden giver det opkastningsformen og hvis der i stedet er levende bakterier som selv skal danne toksin giver det diarreformen
+## Opkastningsformen
+- Hvad kaldes opkastningsformen af madforgiftning grundet B. cereus?:: Fried rice syndrom
+- Hvilke del af B. cereus overlever opvarmning?:: Spore
+- Hvad hedder toksinet som giver madforgiftning dannet af B. cereus?:: Cereulid
+- Hvad er inkubationstid og varighed af opkastningsformen af madforgiftning grundet B. cereus?:: Inkubationstid = 15 min til 6 timer og varigheden er 
+
+## Diarreformen
