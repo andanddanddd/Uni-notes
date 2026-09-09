@@ -1,8 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
-    - **_**Shiga toxin-producing _E. coli_ (EHEC/VTEC/STEC)**_**
 
-
+- Hvor mange E. coli giver bakterier?:: Ikke særlig mange de fleste er en del af vores normalflora
 - Hvilken type cellevæg har E. coli?:: Gram negativ ([[Gram-negative bakterier]])
 <!--SR:!2026-09-13,4,270-->
 - Hvilken form har E. coli?:: Stav
@@ -13,6 +12,7 @@
 <!--SR:!2026-09-13,4,270-->
 - Hvad betyder det at en bakterie er fakultativ anaerob?:: Bakterien vækster lige godt aerobt og anaerobt
 <!--SR:!2026-09-13,4,270-->
+- Hvordan skelner man mellem de forskellige E.coli?:: Man tester [[O-antigen]]en
 
 ![[Extraintestinal Pathogenic E. coli (ExPEC)+]]
 
