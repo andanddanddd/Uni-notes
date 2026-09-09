@@ -13,6 +13,8 @@
 
 ![[Escherichia coli+]]
 
+![[Shigella]]
+
 Man behandler typisk ikke dieeresygdomme med antibiotika
 
 Emperisk behanlding = Behandling med ntibiotika uden man ved hvilken mikroorganisme der behandles

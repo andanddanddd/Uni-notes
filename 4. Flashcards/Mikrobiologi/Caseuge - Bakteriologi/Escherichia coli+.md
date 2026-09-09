@@ -19,3 +19,5 @@
 ![[Enterotoksigene Escherichia coli (ETEC)]]
 
 ![[Enteropatogene escherichia coli (EPEC)]]
+
+![[Shigatoksin-producerende escherichia coli (STEC)]]
