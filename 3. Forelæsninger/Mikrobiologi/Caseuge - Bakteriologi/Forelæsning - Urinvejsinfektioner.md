@@ -1,6 +1,10 @@
 #flashcards/5/Mikrobiologi 
 [[Slides - Urinvejsinfektioner_E26.pdf]]
 
+![[Bakteriuri]]
+
+!
+
 Der er typisk lidt bakterier i kvinders urinprøver
 Midtstråleurin
 Mænds urinprøver skal være sterile
