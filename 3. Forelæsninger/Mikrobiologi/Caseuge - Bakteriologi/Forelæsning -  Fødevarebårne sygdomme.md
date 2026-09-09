@@ -12,7 +12,7 @@ Målrettet behanlding = behandling mod specifik bakterie (eller anden mikroorgan
 
 ![[Campylobacter jejuni]]
 
-![[Salmonella]]
+![[Salmonella enterica]]
 
 ![[Escherichia coli+]]
 

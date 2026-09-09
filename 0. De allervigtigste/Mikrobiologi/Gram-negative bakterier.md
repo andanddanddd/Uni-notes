@@ -20,7 +20,7 @@
 [[Proteus mirabilis]]
 [[Legionella pneumophila+]]
 [[Pseudomonas aeruginosa+]]
-[[Salmonella]]
+[[Salmonella enterica]]
 [[Yersinia enterocolitica]]
 [[Shigella]]
 [[Campylobacter jejuni]]

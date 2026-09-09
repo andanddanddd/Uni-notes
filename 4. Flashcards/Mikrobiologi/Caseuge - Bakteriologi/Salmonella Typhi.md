@@ -8,3 +8,8 @@
 <!--SR:!2026-09-13,4,270-->
 - Hvordan smitter tyfus?:: Kun gennem mennesker (oftest fæces eller vand)
 <!--SR:!2026-09-13,4,270-->
+
+- Hvilke 2 tilstande kan S. typhi gi?
+?
+- [[Inflammatorisk enterocolitis]]
+- [[Tyfoid feber]]
