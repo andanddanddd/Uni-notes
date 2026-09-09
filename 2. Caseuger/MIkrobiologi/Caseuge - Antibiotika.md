@@ -6,22 +6,6 @@
 [[Antibiotika]]
 
 
-
-
-
-[[Linezolid]]
-[[Clindamycin]]
-[[Ciprofloxacin]]
-
-![[Makrolider]]
-
-![[Aminoglykosider]]
-
-![[Tetracykliner]]
-
-
 [[Metronidazol]]
-[[Sulfonamider]]
 [[Vancomyocin]]
 [[Polymixiner]]
-[[Chloramphenicol]]

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Rifampicin.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Tetracykliner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rifampicin"
+              "title": "Tetracykliner"
             }
           }
         ]
@@ -264,10 +264,17 @@
   },
   "active": "224d1625ce974d2f",
   "lastOpenFiles": [
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Antibiotika der påvirker proteinsyntesen.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Chloramphenicol.md",
+    "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Ciprofloxacin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Vancomyocin.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Linezolid.md",
+    "Pasted image 20260909134245.png",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Rifampicin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Flourquinoloner.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Ciprofloxacin.md",
     "Billeder/Mikrobiologi/Pasted image 20260909104316.png",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Pneumocystis jiroveci (carinii).md",
     "Billeder/Mikrobiologi/Pasted image 20260909114924.png",
@@ -287,12 +294,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enteropatogene escherichia coli (EPEC)+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterotoksigene Escherichia coli (ETEC)+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Hæmolytisk uræmisk syndrom (HUS).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Type III Sekretion.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Type II sekretion.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Shigella.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Shigella dysenteriae.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Shiga toksin.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/M-celler.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - sexuelle_sygdome_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/msoA63A.tmp",
@@ -309,7 +310,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260902123904.png",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
     "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
-    "Billeder/Mikrobiologi/Pasted image 20260901101423.png",
     "Untitled.canvas"
   ]
 }

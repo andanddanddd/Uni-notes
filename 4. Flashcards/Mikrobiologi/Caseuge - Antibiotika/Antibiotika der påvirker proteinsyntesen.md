@@ -12,4 +12,4 @@
 
 ![[Clindamycin]]
 
-
+![[Pasted image 20260909134245.png|700]]

@@ -4,4 +4,7 @@
 <!--SR:!2026-09-18,12,270-->
 - Hvilke bakterier virker chloramphenicol imod?:: Det hele det er meget bredspektret
 <!--SR:!2026-09-17,10,270-->
-Man bruger det meget i asien da de ikke får den onde bivirkning
+- Hvad gør chloamphenicol overordnet?:: Inhibere dannelsen af peptidbinding i de nye proteiner
+- Hvad er chloramphenicols målstruktur?:: 50S subunit af bakteriernes ribosom
+- Hvor bruges der meget chloramphenicol henne?:: Asien
+- Hvorfor bruges der ikke meget chloramphenicol i Europa?:: 1/5000 kaukasiske mennesker får knoglemarvstoksisitet (ved systematisk brug ikke øjendråber)
