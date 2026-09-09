@@ -5,10 +5,10 @@
 
 ![[Cystitis]]
 
-Der er typisk lidt bakterier i kvinders urinprøver
-Midtstråleurin
-Mænds urinprøver skal være sterile
-Cystit = blærebetændelse
+![[Urinstiks]]
+
+![[Mirkoskopi af urin]]
+
 Børn og mænd bør ikke få blærebetændelse hvis de ellers er raske
 Bakterier kan spise glykose derfor kan en diabetiker godt give falsk negative resultater på glykose
 Krystaller på mikroskopi = blæresten

@@ -15,4 +15,12 @@
 - Hvad menes med dysuri?:: Svie eller smerte under vandladning
 - Hvad er pollakisuri?:: Hyppig vandladning
 
-- H
+- Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
+- Hvilke 2 bakterier giver oftest cystitis?
+?
+- [[Escherichia coli+]] særligt [[Extraintestinal Pathogenic E. coli (ExPEC)+]]
+- [[Staphylococcus saprophyticus]]
+
+## Behandling
+- Hvordan behandles simpel cystitis som udgangspunkt?:: [[Pi
+- Udover 
