@@ -3,7 +3,7 @@
 
 ![[Bakteriuri]]
 
-!
+![[Cystitis]]
 
 Der er typisk lidt bakterier i kvinders urinprøver
 Midtstråleurin
