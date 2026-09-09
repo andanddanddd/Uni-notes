@@ -7,6 +7,7 @@
 - Hvordan smitter shigella?:: Fækal-oralt mellem mennesker (typisk via kontaminere mad eller vand)
 - Hvad kendetegner smitte med shigella?:: Der skal meget få bakterier til at inficere et menneske (hundrede til et par tusind)
 - Hvad sker med shigella i mavesækken?:: De stopper med at replicere med de dør ikke
+- Hvordan kommer shigella fra en celle til en anden?:: Den udskiller IcsA hvilket rearrangere aktin bag bakterien, det får aktin til aggere moter der skubber shigella ind i nabocellen (dvs )
 - Hvad kendetegner tilstanden af shigella når den udskilles via afføring?:: Den er i sin syreresistente tilstand så den nemmere kan inficere en ny person 
 - Hvordan behandles shigella?:: Typisk væske og elektrolytter men til tider antibiotika
 - Hvilke symptomer har en shigella-infektioner?
