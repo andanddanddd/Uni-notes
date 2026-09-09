@@ -8,5 +8,6 @@
 ## Toksinerne
 - Hvad gør LT overordnet?:: Øger cAMP 
 - Hvad gør ST overordnet?:: Øger cGMP 
-- Hvordan håndtere LT varme?::: Den er varmelabil
-- Hvordan håndtere ST varme?:: Den er varmestabil
+- Hvordan håndtere LT varme?::: Den er varmelabil (heat-Labil-Toxin)
+- Hvordan håndtere ST varme?:: Den er varmestabil (heat-Stabil-Toxin)
+- Hvilken effekt har det når cAMP øges?:: Der optages mindre Na og sekreres

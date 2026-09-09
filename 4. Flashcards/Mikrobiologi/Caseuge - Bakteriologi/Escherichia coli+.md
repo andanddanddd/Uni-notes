@@ -16,8 +16,8 @@
 
 ![[Extraintestinal Pathogenic E. coli (ExPEC)+]]
 
-![[Enterotoksigene Escherichia coli (ETEC)]]
+![[Enterotoksigene Escherichia coli (ETEC)+]]
 
-![[Enteropatogene escherichia coli (EPEC)]]
+![[Enteropatogene escherichia coli (EPEC)+]]
 
-![[Shigatoksin-producerende escherichia coli (STEC)]]
+![[Shigatoksin-producerende escherichia coli (STEC)+]]
