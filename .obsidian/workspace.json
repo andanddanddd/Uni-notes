@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Tetracykliner.md",
+                "file": "konjugation (resistens).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tetracykliner"
+              "title": "konjugation (resistens)"
             }
           }
         ]
@@ -264,14 +264,22 @@
   },
   "active": "224d1625ce974d2f",
   "lastOpenFiles": [
+    "Externe dokumenter/MIkrobiologi/Antibiotika/Slides - Antibiotika_med_metaboliske_angrebspunkter_2026.pdf",
+    "konjugation (resistens).md",
+    "Pasted image 20260909140118.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Resistente bakterier.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Antibiotika der påvirker proteinsyntesen.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Tetracykliner.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Makrolider.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Aminoglykosider.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Clindamycin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Chloramphenicol.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Antibiotika.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Ciprofloxacin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Vancomyocin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Linezolid.md",
     "Pasted image 20260909134245.png",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika med metaboliske angrebspunkter.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Rifampicin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Flourquinoloner.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Antibiotika/Forelæsning - Antibiotika peniciliner.md",
@@ -284,16 +292,8 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfonamider.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Sulfamethizol.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Trimethoprim.md",
-    "Externe dokumenter/MIkrobiologi/Antibiotika/Slides - Antibiotika_med_metaboliske_angrebspunkter_2026.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Salmonella Typhi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Salmonella enterica.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Non-tyfoid salmonella.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Escherichia coli+.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterohemorrhagic Escherichia coli (EHEC).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enteropatogene escherichia coli (EPEC)+.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterotoksigene Escherichia coli (ETEC)+.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Hæmolytisk uræmisk syndrom (HUS).md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Fødevarebårne sygdomme 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - sexuelle_sygdome_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/msoA63A.tmp",
@@ -309,7 +309,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260907122551.png",
     "Billeder/Mikrobiologi/Pasted image 20260902123904.png",
     "Billeder/Mikrobiologi/Pasted image 20260902102900.png",
-    "Billeder/Mikrobiologi/Pasted image 20260901140416.png",
     "Untitled.canvas"
   ]
 }

@@ -4,7 +4,7 @@
 <!--SR:!2026-09-14,7,250-->
 - Hvad er målstrukturen for aminoglykosider?:: Den lille subunit (30S) af de bakterielle ribosomer
 <!--SR:!2026-09-23,16,290-->
-- Hvilken effekt har aminoglykosider på proteinsyntesen?:: Forårsager mange nonsense mutationer ved at påvirke initiering af translation
+- Hvilken effekt har aminoglykosider på proteinsyntesen?:: Forårsager mange nonsense mutationer ved at påvirke initiering af translation, samt få tRNA til at skippe et eller flere basepar så der sker frameshift
 <!--SR:!2026-09-23,16,290-->
 - Hvordan opnås resistense mod aminoglykosider?:: Enzymatisk nedbrydning
 <!--SR:!2026-09-18,11,270-->

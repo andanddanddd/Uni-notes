@@ -10,3 +10,5 @@
 ![[Rifampicin]]
 
 ![[Antibiotika der påvirker proteinsyntesen]]
+
+![[Resistente bakterier]]

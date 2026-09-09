@@ -23,7 +23,7 @@
 <!--SR:!2026-09-23,16,290-->
 - Hvordan kan bakterie overfører plasmider til hinanden?
 ?
-- Direkte kontakt (konjuktion)
+- Direkte kontakt [[konjugation (resistens)]]
 - [[Bakteriofager]] (transduktion)
 - Optag fra døde bakterier (transformation)
 <!--SR:!2026-09-23,16,290-->
