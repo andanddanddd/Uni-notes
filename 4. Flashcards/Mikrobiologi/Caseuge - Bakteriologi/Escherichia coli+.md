@@ -1,7 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
     - **_**Shiga toxin-producing _E. coli_ (EHEC/VTEC/STEC)**_**
-    - **_****Enterotoksigene _E. coli_**  (rejsediarré)**_**
 
 
 - Hvilken type cellevæg har E. coli?:: Gram negativ ([[Gram-negative bakterier]])
@@ -17,3 +16,6 @@
 
 ![[Extraintestinal Pathogenic E. coli (ExPEC)+]]
 
+![[Enterotoksigene Escherichia coli (ETEC)]]
+
+![[Enteropatogene escherichia coli (EPEC)]]
