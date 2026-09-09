@@ -1,5 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
-stopper mRNA syntese 
-Bruges til tuberculose
-Resistens kommer når der kommer mutationer på bindingsstedet op DNA
+- Hvad gør rifampicin overordnet?:: Stopper mRNA syntese
+- Hvad er rifampicins målstruktur?:: DNAet hvor RNA-polymerase skal bindes
+- Hvad bruges rifampicin til?:: [[Tuberculose]]
+- Hvordan opnår bakterier resistens mod rifampicin?:: Mutationer ved bindingstedet
