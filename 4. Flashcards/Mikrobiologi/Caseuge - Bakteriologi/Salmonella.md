@@ -7,5 +7,6 @@
 - Hvor bevægelig er salmonella?:: Bevægelig
 <!--SR:!2026-09-12,3,250-->
 
- [[Non-tyfoid salmonella]]
- [[Salmonella Typhi]]
+![[Non-tyfoid salmonella]]
+
+![[Salmonella Typhi]]

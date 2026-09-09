@@ -5,4 +5,4 @@
 - Hvor inficere EHEC?:: Slutningen af colon
 - Hvordan sætter EHEC sig fast til tarmen?:: Ligesom [[Enteropatogene escherichia coli (EPEC)+]] (først sidder lidt fast og derefter meget)
 - Hvordan behandles EHEC?:: KUN væsker og elektrolytter IKKE antibiotika
-- Hvorfor giver man ikke antibiotika til EHE
+- Hvorfor giver man ikke antibiotika til EHEC?:: Det øger risikoen for [[Hæmolytisk uræmisk syndrom (HUS)]]
