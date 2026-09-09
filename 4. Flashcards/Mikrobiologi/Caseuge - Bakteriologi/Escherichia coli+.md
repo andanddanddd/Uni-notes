@@ -22,5 +22,4 @@
 
 ![[Shigatoksin-producerende escherichia coli (STEC)+]]
 
-ENTEROHEMORRHAGIC E COLI
 ![[Enterohemorrhagic Escherichia coli (EHEC)]]
