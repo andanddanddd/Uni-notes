@@ -1,5 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
+- Kan værea symptomatisk
 - I hvilke tilfælde skal salmonella typhi behandles?:: Alle
 <!--SR:!2026-09-13,4,270-->
 - Hvordan behandles salmonella typhi?:: Antibiotika oftest [[Ceftriaxon]] eller [[Azithromycin]]
