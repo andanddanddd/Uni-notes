@@ -7,3 +7,5 @@ INTRACELLULÆR
 Mangler peptidoklykanlag
 Peniciln gør den bare "sovende"
 Kan give øget risiko for graviditet udenfor livmoderen (sker hvis sædceller kan komme igennem æggeleder med æg ikke kan) (også øget risiko ved gonere)
+
+Uvitis i stedet for uretrit på slide 35

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken adminstrationsvej bruges til colistin?:: Inhalation
-<!--SR:!2026-09-09,2,250-->
+<!--SR:!2026-09-16,7,270-->
 - Hvad bruges colistin til?:: Lungeinfektioner
 <!--SR:!2026-09-22,15,290-->
 - Colistin er et ==Prodrug==

@@ -6,6 +6,7 @@
 - Hvad er persisterende diarre?:: Diarre der har varet mellem 7 og 28 dage
 - Hvad er kronisk diarre?:: Diarre i mere end 4 uger
 - Hvad er samfundserhvervet diarre?:: Diarre, hvis smitte er fra noget i verden, eks mad (dette involvere også rejsereleteret diarre
+<!--SR:!2026-09-13,4,270-->
 - Hvad er nosokomiel diarre?:: Diarre der kommer fra et hospital
 - Hvad betyder det at diarre er selvlimiterende?:: Det kræver ikke behandling
 - Hvad er de 3 typer af gastroenteritis?

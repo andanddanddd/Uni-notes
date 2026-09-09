@@ -18,6 +18,7 @@
 ?
 - M-protein binder til keratinocytter
 - Hyalyrosyren i kapslen får bakterien til at ligne humane celler så den kan binde til visse adhæsionsproteiner (CD44)
+<!--SR:!2026-09-13,4,270-->
 
 - Hvilke patogenesefaktorer har stretococcus pyogenes?
 ?
@@ -28,7 +29,7 @@
 - Fibronectin bindende protein
 - Streptokinase
 - SpeB-cystein protease
-<!--SR:!2026-09-09,1,230-->
+<!--SR:!2026-09-11,2,230-->
 
 - Hvilken effekt har det at S. pyogenes har C5a-peptidase?:: Der kan ikke dannes [[Membranangrebskompleks]] og der tiltrækkes færre [[neutrofile granulocytter]]
 <!--SR:!2026-09-12,4,270-->
@@ -47,7 +48,7 @@
 - [[Scarletina]]
 - [[Reumatisk feber]]
 - [[Glomerulonephritis]]
-<!--SR:!2026-09-09,1,230-->
+<!--SR:!2026-09-11,2,230-->
 
 - Hvad er den mest normale sygdom forårsaget af streptococcus pyogenes?:: Pharyngitis
 <!--SR:!2026-09-12,4,270-->
@@ -57,6 +58,7 @@
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-09-12,4,270-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
+<!--SR:!2026-09-13,4,270-->
 
 ## Behandling
 - Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)
