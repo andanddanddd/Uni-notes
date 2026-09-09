@@ -64,5 +64,6 @@
 
 ## Behandling
 - Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)
+<!--SR:!2026-09-13,4,270-->
 - Hvorfor er det vigtigt at fortsætte en antibiotikakur imod S. pyogenes?:: Ellers er der risiko for komplikationer ([[Reumatisk feber]] og [[Glomerulonephritis]])
 <!--SR:!2026-09-13,4,270-->

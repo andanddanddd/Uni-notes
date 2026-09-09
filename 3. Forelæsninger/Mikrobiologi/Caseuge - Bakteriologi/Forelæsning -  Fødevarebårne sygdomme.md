@@ -11,7 +11,7 @@
 
 ![[Salmonella]]
 
-[[Escherichia coli+]]
+![[Escherichia coli+]]
 
 Man behandler typisk ikke dieeresygdomme med antibiotika
 

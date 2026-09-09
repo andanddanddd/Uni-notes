@@ -1,6 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken type cellevæg har salmonella?:: Gram negativ
+<!--SR:!2026-09-13,4,270-->
 - Hvilken form har salmonella?:: Stav
 <!--SR:!2026-09-13,4,270-->
 - Hvor bevægelig er salmonella?:: Bevægelig

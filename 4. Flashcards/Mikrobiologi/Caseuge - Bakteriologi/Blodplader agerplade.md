@@ -9,4 +9,5 @@
 - Hvordan ses $\beta$-hæmolyse overordnet?:: Agaren bliver gennemsigtig
 <!--SR:!2026-09-20,14,290-->
 - Hvad er $\gamma$-hemolyse?:: Ingen hemolyse
+<!--SR:!2026-09-13,4,270-->
 ![[Pasted image 20260908083831.png]]
