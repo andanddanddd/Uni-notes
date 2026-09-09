@@ -10,6 +10,7 @@
 - Mavekramper
 - Diarre (evt blodigt eller slimet)
 
+- Hvordan kendes forskel på de 4 y
 [[S. sonnei+]]
 [[S. flexneri]]
 [[S. dysenteriae]]
