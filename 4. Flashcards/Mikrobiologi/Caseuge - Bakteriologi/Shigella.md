@@ -18,6 +18,7 @@
 ![[Pasted image 20260909114924.png]]
 ## Symptomer og behandling
 - Hvordan behandles shigella?:: Typisk væske og elektrolytter men til tider antibiotika
+- Hvorfor kan det til tider være svær at diagonticere shigella?:: De dør hurtigt i fæcesprøver (ikke typisk et problem)
 - Hvilke symptomer har en shigella-infektioner?
 ?
 - Feber
@@ -27,5 +28,5 @@
 - Hvordan kendes forskel på de 4 typer shigella?:: [[O-antigen]]
 [[S. sonnei+]]
 [[S. flexneri]]
-[[Shigella dysenteriae]]
+- Hvilken art af shigella giver værst diarre?:: [[Shigella dysenteriae]]
 
