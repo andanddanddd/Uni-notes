@@ -10,4 +10,5 @@
 <!--SR:!2026-09-13,4,270-->
 - Hvor bevægelige er E.coli?:: Nogle er bevægelige nogle er ikke
 - Hvilket oxidativt miljø lever E. coli bedst i?:: De er fakultative anaerobe
+<!--SR:!2026-09-13,4,270-->
 - Hvad betyder det at en bakterie er fakultativ anaerob?:: Bakterien vækster lige godt aerobt og anaerobt

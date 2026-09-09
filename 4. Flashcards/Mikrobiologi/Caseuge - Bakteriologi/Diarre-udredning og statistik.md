@@ -5,3 +5,4 @@
 - Hvordan testes for tarmpatogener?:: [[PCR]] på en fæcesprøve
 - Hvilken bakteriegruppe giver oftest diarresygdomme?:: [[Salmonella]]
 - Hvilken virus giver ofetst diarre-sygdomme?:: [[Norovirus+]]
+<!--SR:!2026-09-13,4,270-->

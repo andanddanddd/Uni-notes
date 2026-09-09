@@ -7,6 +7,7 @@
 - Feber
 - Mavesmerter
 - Diarre med blod/slim
+<!--SR:!2026-09-13,4,270-->
 
 - Hvilke bakterier kan give inflammatorisk enterocolitis?
 ?

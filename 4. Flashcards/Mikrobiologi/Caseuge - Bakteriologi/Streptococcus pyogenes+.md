@@ -8,6 +8,7 @@
 
 ## Smitte
 - Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
+<!--SR:!2026-09-13,4,270-->
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
 <!--SR:!2026-09-12,4,270-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
@@ -55,6 +56,7 @@
 - Hvilken lokal komplikation har pharyngitis forårsaget af S. pyogenes?:: [[Peritonsilære abscesser]]
 <!--SR:!2026-09-12,4,270-->
 - Hvem får oftest pharyngitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
+<!--SR:!2026-09-13,4,270-->
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-09-12,4,270-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
@@ -63,3 +65,4 @@
 ## Behandling
 - Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)
 - Hvorfor er det vigtigt at fortsætte en antibiotikakur imod S. pyogenes?:: Ellers er der risiko for komplikationer ([[Reumatisk feber]] og [[Glomerulonephritis]])
+<!--SR:!2026-09-13,4,270-->
