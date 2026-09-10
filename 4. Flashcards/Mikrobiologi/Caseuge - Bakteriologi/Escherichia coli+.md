@@ -1,7 +1,8 @@
 #flashcards/5/Mikrobiologi 
 
 
-- Hvor mange E. coli giver bakterier?:: Ikke særlig mange de fleste er en del af vores normalflora
+- Hvor mange E. coli giver sygdom?:: Ikke særlig mange de fleste er en del af vores normalflora
+<!--SR:!2026-09-14,4,270-->
 - Hvilken type cellevæg har E. coli?:: Gram negativ ([[Gram-negative bakterier]])
 <!--SR:!2026-09-13,4,270-->
 - Hvilken form har E. coli?:: Stav

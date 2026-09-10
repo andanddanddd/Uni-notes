@@ -1,6 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er en cystit?:: Blærebetændelse
+<!--SR:!2026-09-14,4,270-->
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
 <!--SR:!2026-09-14,4,270-->
 - Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
@@ -8,6 +9,7 @@
 ?
 - [[Escherichia coli+]] særligt [[Extraintestinal Pathogenic E. coli (ExPEC)+]]
 - [[Staphylococcus saprophyticus]]
+<!--SR:!2026-09-13,3,250-->
 
 - Hvorfor får indlagte ofte cystitis?
 ?
@@ -37,7 +39,8 @@
 ?
 - [[Ciprofloxacin]]
 - [[Sulfamethizol]] + [[Trimethoprim]]
-- Hvadend bakterien respondere på 
+- Hvadend bakterien respondere på
+<!--SR:!2026-09-13,3,250--> 
 
 ## Komplikationer
 - Hvad er de 2 typiske komplikationer til cystitis?

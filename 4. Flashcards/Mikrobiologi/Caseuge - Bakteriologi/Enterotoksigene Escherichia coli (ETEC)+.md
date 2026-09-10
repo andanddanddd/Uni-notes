@@ -1,6 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan smitter ETEC?:: Fæces til mund
+<!--SR:!2026-09-14,4,270-->
 - Hvornår sker smitte med ETEC typisk?:: På rejser (og tilfældige andre udbrud)
 - Hvilke 2 enterotoksiner kan ETEC producere?:: LT og ST
 - Hvilken type diarre giver ETEC?:: [[Sekretorisk enteritis]]

@@ -5,3 +5,4 @@
 - Hvilken klasse af antibiotika indeholder trimethoprim?:: [[Sulfonamider]]
 - Hvilket stof kombineres trimethoprim ofte med [[Sulfamethizol]]
 - Hvad bruges trimethhoprim til?:: Urinvejsinfektioner (dog ikke ofte i DK længere)
+<!--SR:!2026-09-14,4,270-->
