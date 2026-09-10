@@ -9,6 +9,7 @@
 - Hvad sker med L. monocytogenes ved køleskabstempertur?:: Den formere sig
 <!--SR:!2026-09-14,4,270-->
 - Hvilke madvarer har oftest L. monocytogenes i sig?:: Dem med lang holdbarhed
+<!--SR:!2026-09-14,4,270-->
 - Hvad gør listeriolysin O?:: Muliggør at L. monocytogenes kan flygte fra fagolysosomet
 <!--SR:!2026-09-11,1,230-->
 - Hvordan "spreder" L. monocytogenes i kroppen?:: Den kan gå direkte fra celle til celle

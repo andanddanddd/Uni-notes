@@ -9,6 +9,7 @@
 - Hvilken type diarre giver ETEC?:: [[Sekretorisk enteritis]]
 <!--SR:!2026-09-14,4,270-->
 - Hvordan behandles ETEC?:: Væske og elektrolytter
+<!--SR:!2026-09-14,4,270-->
 ## Toksinerne
 - Hvad gør LT overordnet?:: Øger cAMP
 <!--SR:!2026-09-14,4,270-->
@@ -19,3 +20,4 @@
 - Hvordan håndtere ST varme?:: Den er varmestabil (heat-Stabil-Toxin)
 <!--SR:!2026-09-14,4,270-->
 - Hvilken effekt har det når cAMP øges?:: Der optages mindre Na og sekreres Cl (osmose resultere dermed i mere vand i lumen)
+<!--SR:!2026-09-14,4,270-->

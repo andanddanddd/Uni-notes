@@ -22,7 +22,8 @@
 <!--SR:!2026-09-14,4,270-->
 - Hvorfor er det smart for shigella at forårsage inflammation?:: Det løsner tight junktions så shigella kan komme igennem og finde den basolaterale overflade af enterocytter
 <!--SR:!2026-09-14,4,270-->
-- Hvad kendetegner tilstanden af shigella når den udskilles via afføring?:: Den er i sin syreresistente tilstand så den nemmere kan inficere en ny person 
+- Hvad kendetegner tilstanden af shigella når den udskilles via afføring?:: Den er i sin syreresistente tilstand så den nemmere kan inficere en ny person
+<!--SR:!2026-09-14,4,270-->
 - Hvilke 2 måder kan shigella nå hen til den basolaterale side af enterocytter?:: Igennem [[M-celler]] eller ved at slippe mellem enterocytterne når inflammation er sket
 <!--SR:!2026-09-14,4,270-->
 ![[Pasted image 20260909114924.png]]
