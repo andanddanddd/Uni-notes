@@ -73,7 +73,9 @@
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY"
   },
   "buryDate": "2026-09-10",
-  "buryList": [],
+  "buryList": [
+    "14a522a3aafad5"
+  ],
   "historyDeck": null,
   "scheduleData": {
     "version": 1,

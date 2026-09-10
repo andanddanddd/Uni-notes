@@ -2,6 +2,7 @@
 
 - Hvad er en cystit?:: Blærebetændelse
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
+<!--SR:!2026-09-14,4,270-->
 - Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
 - Hvilke 2 bakterier giver oftest cystitis?
 ?
@@ -31,6 +32,7 @@
 
 ## Behandling
 - Hvordan behandles simpel cystitis som udgangspunkt?:: [[Pivmecillinam]]
+<!--SR:!2026-09-14,4,270-->
 - Udover [[Pivmecillinam]] hvad kan så bruges til behandling af cystitis?
 ?
 - [[Ciprofloxacin]]
