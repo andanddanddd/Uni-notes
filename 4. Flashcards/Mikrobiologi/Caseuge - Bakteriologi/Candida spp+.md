@@ -7,13 +7,8 @@
 - Hvad er candida intertrigo?:: Candida mellem hudfolder
 - Hvorfor hjælper en podning sjældent med at påvise candidainfektion?:: Ofte vil man bare påvise normalfloraen
 - Hvor er candida auris typisk et problem?:: Hospitaler
-- Hvor bliver man smittet af candida 
+- Hvor bliver man smittet af candida fra?:: EN normalflora
 
-Candida albicans er den mest virulente gærsvamp
-Candida auris er et stort problem på hospitaler
+
 Meget dødelig hvis de når blodbanen
-Caniddda intertrigo = mellem hudfolder
-Candida balanitis= på forhud
-Podning hjælper ikke meget da man nemt abre kan påvise normalfloraen
 
-Man bliver syg af sin egen candida
