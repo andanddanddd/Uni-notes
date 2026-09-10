@@ -2,6 +2,7 @@
 
 - Hvad er en cystit?:: Blærebetændelse
 <!--SR:!2026-09-14,4,270-->
+- Hvorfor får kvinder oftere cystitis?:: Kortere urethra
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
 <!--SR:!2026-09-14,4,270-->
 - Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
@@ -18,6 +19,7 @@
 - Fremmedlegemer (kateter)
 - Ny bakterieflora
 - Svækket immunsystem
+
 ## Symptomer
 - Hvilke symptomer har cystitis?
 ?
