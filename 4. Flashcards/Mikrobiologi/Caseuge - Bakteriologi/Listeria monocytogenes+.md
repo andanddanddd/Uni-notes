@@ -7,6 +7,7 @@
 - Hvornår er L. monocytogenes bevægelig?:: Ved 25 grader
 <!--SR:!2026-09-14,4,270-->
 - Hvad sker med L. monocytogenes ved køleskabstempertur?:: Den formere sig
+<!--SR:!2026-09-14,4,270-->
 - Hvilke madvarer har oftest L. monocytogenes i sig?:: Dem med lang holdbarhed
 - Hvad gør listeriolysin O?:: Muliggør at L. monocytogenes kan flygte fra fagolysosomet
 <!--SR:!2026-09-11,1,230-->

@@ -6,6 +6,7 @@
 <!--SR:!2026-09-13,4,270-->
 - Hvilken del af mave-tarm-kanalen bliver påvirket af inflammatorisk enterocolitis?:: Typisk colon
 - Hvordan behandles inflammatorisk enterocolitis typisk?:: Væskebehandling er typisk ikke nok så der skal gives antibiotika
+<!--SR:!2026-09-14,4,270-->
 - Hvilke symptomer har inflammatorisk enterocolitis?
 ?
 - Feber

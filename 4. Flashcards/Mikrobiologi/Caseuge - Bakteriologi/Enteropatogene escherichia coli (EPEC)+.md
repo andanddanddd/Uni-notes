@@ -10,6 +10,7 @@
 - Hvad hedder overfladeproteinet som EPEC sætter ind i enterocytten?:: TIR
 <!--SR:!2026-09-14,4,270-->
 - Hvad hedder proteinet EPEC bruger til at sidde fast til TIR med?:: Intimin
+<!--SR:!2026-09-14,4,270-->
 - Hvorfor giver det diarre at EPEc sætter sig godt fast til enterocytterne?:: Mikrovili bliver skadet i processen så de optager ikke særlig godt
 <!--SR:!2026-09-14,4,270-->
 

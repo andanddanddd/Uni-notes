@@ -5,12 +5,15 @@
 - Hvornår sker smitte med ETEC typisk?:: På rejser (og tilfældige andre udbrud)
 <!--SR:!2026-09-14,4,270-->
 - Hvilke 2 enterotoksiner kan ETEC producere?:: LT og ST
+<!--SR:!2026-09-14,4,270-->
 - Hvilken type diarre giver ETEC?:: [[Sekretorisk enteritis]]
 <!--SR:!2026-09-14,4,270-->
 - Hvordan behandles ETEC?:: Væske og elektrolytter
 ## Toksinerne
-- Hvad gør LT overordnet?:: Øger cAMP 
-- Hvad gør ST overordnet?:: Øger cGMP 
+- Hvad gør LT overordnet?:: Øger cAMP
+<!--SR:!2026-09-14,4,270-->
+- Hvad gør ST overordnet?:: Øger cGMP
+<!--SR:!2026-09-14,4,270-->
 - Hvordan håndtere LT varme?::: Den er varmelabil (heat-Labil-Toxin)
 <!--SR:!2026-09-14,4,270!2000-01-01,1,250-->
 - Hvordan håndtere ST varme?:: Den er varmestabil (heat-Stabil-Toxin)
