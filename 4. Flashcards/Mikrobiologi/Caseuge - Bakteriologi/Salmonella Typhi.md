@@ -14,3 +14,4 @@
 ?
 - [[Inflammatorisk enterocolitis]]
 - [[Tyfoid feber]]
+<!--SR:!2026-09-14,4,270-->

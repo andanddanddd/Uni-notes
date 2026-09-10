@@ -8,5 +8,6 @@
 - Hvad er chloramphenicols målstruktur?:: 50S subunit af bakteriernes ribosom
 <!--SR:!2026-09-14,4,270-->
 - Hvor bruges der meget chloramphenicol henne?:: Asien
+<!--SR:!2026-09-14,4,270-->
 - Hvorfor bruges der ikke meget chloramphenicol i Europa?:: 1/5000 kaukasiske mennesker får knoglemarvstoksisitet (ved systematisk brug ikke øjendråber)
 <!--SR:!2026-09-14,4,270-->

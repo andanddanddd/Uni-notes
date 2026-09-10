@@ -7,5 +7,6 @@
 - Hvordan opnås resistense mod linezolid?:: Ændring af ribosom
 <!--SR:!2026-09-16,7,270-->
 - Hvad er målstrukturen for linezolid?:: 50S subunit af bakteriers ribosom
+<!--SR:!2026-09-14,4,270-->
 - Hvad gør linezolid overordnet?:: Forhinde de 2 dele af ribosomet i at samle sig
 <!--SR:!2026-09-11,1,230-->

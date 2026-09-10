@@ -5,6 +5,7 @@
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
 <!--SR:!2026-09-14,4,270-->
 - Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
+<!--SR:!2026-09-14,4,270-->
 - Hvilke 2 bakterier giver oftest cystitis?
 ?
 - [[Escherichia coli+]] særligt [[Extraintestinal Pathogenic E. coli (ExPEC)+]]
@@ -13,7 +14,7 @@
 
 - Hvorfor får indlagte ofte cystitis?
 ?
-- De ligger ned derfor er der lidt resturin i urethra 
+- De ligger ned derfor er der lidt resturin i urethra
 - Fremmedlegemer (kateter)
 - Ny bakterieflora
 - Svækket immunsystem
@@ -27,9 +28,12 @@
 - Problemer med at tømme blæren
 - Grumset ildelugtende urin
 - Sjældent ses feber
+<!--SR:!2026-09-14,4,270-->
 
 - Hvad menes med dysuri?:: Svie eller smerte under vandladning
+<!--SR:!2026-09-14,4,270-->
 - Hvad er pollakisuri?:: Hyppig vandladning
+<!--SR:!2026-09-14,4,270-->
 
 
 ## Behandling

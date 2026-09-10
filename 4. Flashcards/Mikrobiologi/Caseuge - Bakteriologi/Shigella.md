@@ -4,11 +4,13 @@
 - Hvilken gruppe af bakterier har shigella udviklet sig fra [[Escherichia coli+]]
 - Hvor i tarmen inficere shigella?:: Colon
 - Hvor bevægelige er shigella?:: Det er de ikke (de har ingen flaggel)
+<!--SR:!2026-09-14,4,270-->
 
 ## Patogenese 
 - Hvordan er patogenesen af shigella overordnet?:: Invadere colon igennem [[M-celler]], her undslipper den vakuolen og deler sig intracellulært før den bevæger sig ind i naboceller
 <!--SR:!2026-09-13,3,250-->
 - Hvordan smitter shigella?:: Fækal-oralt mellem mennesker (typisk via kontaminere mad eller vand)
+<!--SR:!2026-09-14,4,270-->
 - Hvad kendetegner smitte med shigella?:: Der skal meget få bakterier til at inficere et menneske (hundrede til et par tusind)
 - Hvad sker men shigella i mavesækken?:: De stopper med at replicere med de dør ikke
 <!--SR:!2026-09-13,3,250-->
@@ -26,6 +28,7 @@
 - Hvordan behandles shigella?:: Typisk væske og elektrolytter men til tider antibiotika
 <!--SR:!2026-09-14,4,270-->
 - Hvorfor kan det til tider være svær at diagonticere shigella?:: De dør hurtigt i fæcesprøver (ikke typisk et problem)
+<!--SR:!2026-09-14,4,270-->
 - Hvilke symptomer har en shigella-infektioner?
 ?
 - Feber
@@ -33,6 +36,7 @@
 - Diarre (evt blodigt eller slimet)
 
 - Hvordan kendes forskel på de 4 typer shigella?:: [[O-antigen]]
+<!--SR:!2026-09-14,4,270-->
 [[S. sonnei+]]
 [[S. flexneri]]
 - Hvilken art af shigella giver værst diarre?:: [[Shigella dysenteriae]]
