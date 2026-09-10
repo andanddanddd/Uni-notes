@@ -2,13 +2,10 @@
 
 - Hvad er en cystit?:: Blærebetændelse
 <!--SR:!2026-09-14,4,270-->
-- Hvorfor får kvinder oftere cystitis?:: Kortere urethra
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
 <!--SR:!2026-09-14,4,270-->
 - Hvorfor giver det mening at bakterier fundet i en komliceret cystit har færre virulens-faktorer end dem i en ukompliceret cystit?:: En kompliceret cystit siger mere om patienten en bakterien, pt er derfor mere eksponeret og der skal mindre til
-- Hvilken blodtype får oftest cystitis?:: O
-- Hvorfor giver blodtype O oftere cystitis end A,B og AB?:: A og B antigener seceneres fra slimhinder hvilket forhindre bakterier at binde dertil
-- Hvilke præventionstype giver øget risiko for cystitis og hvorfor?:: Spermacider dræber normalfloraen og pessar kan forhindre blæren i at blive tømt helt (de bliver ofte brugt sammen)
+
 - Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
 <!--SR:!2026-09-14,4,270-->
 - Hvilke 2 bakterier giver oftest cystitis?
@@ -24,11 +21,18 @@
 - Ny bakterieflora
 - Svækket immunsystem
 
+## Risikofaktorer
+- Hvorfor får kvinder oftere cystitis?:: Kortere urethra
+- Hvilken blodtype får oftest cystitis?:: O
+- Hvorfor giver blodtype O oftere cystitis end A,B og AB?:: A og B antigener seceneres fra slimhinder hvilket forhindre bakterier at binde dertil
+- Hvilke præventionstype giver øget risiko for cystitis og hvorfor?:: Spermacider dræber normalfloraen og pessar kan forhindre blæren i at blive tømt helt (de bliver ofte brugt sammen)
+- Hvilke risikofaktorer har mænd for at få cystitis?:: Ny sexuel partner og analsex
 ## Symptomer
 - Hvilke symptomer har cystitis?
 ?
 - Dysuri (svie/smerte ved vandladning)
 - Pollakisuri (hyppig vandladning)
+- Følelse af ikke at kunne vente ligesåsnart tissetrang er opstået
 - Inkontinens (nyopstået)
 - Smerter eller ømhed over symfysen
 - Problemer med at tømme blæren
