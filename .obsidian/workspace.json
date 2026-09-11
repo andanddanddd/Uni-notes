@@ -36,7 +36,8 @@
               "title": "Forelæsning - Herpesvirus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -80,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,12 +267,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "224d1625ce974d2f",
+  "active": "4281c57d9e80bff8",
   "lastOpenFiles": [
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Herpesvirus.md",
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
+    "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Candida spp+.md",
     "Externe dokumenter/MIkrobiologi/Virus",
