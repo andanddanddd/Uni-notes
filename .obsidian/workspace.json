@@ -40,8 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1f2ba4cb4093c072",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Influenza 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -228,6 +242,13 @@
   },
   "active": "4281c57d9e80bff8",
   "lastOpenFiles": [
+    "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
+    "Externe dokumenter/MIkrobiologi/Virus/Slides - HIV_course 2026.pdf",
+    "Externe dokumenter/MIkrobiologi/Influenza 2026.pdf",
+    "Externe dokumenter/MIkrobiologi/HIV_course 2026.pdf",
+    "Externe dokumenter/HIV_course 2026.pdf",
+    "Externe dokumenter/Influenza 2026.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Alfaherpesvirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/VZV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/KSHV.md",
@@ -242,11 +263,9 @@
     "4. Flashcards/Mikrobiologi/Caseuge - virus/CMV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/HSV 2.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/HSV 1.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Candida spp+.md",
     "Externe dokumenter/MIkrobiologi/Virus",
     "Externe dokumenter/MIkrobiologi/New folder",
-    "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - Svampeinfektioner/Gærsvampe.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Svampe.md",
@@ -258,13 +277,8 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Extraintestinal Pathogenic E. coli (ExPEC)+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Urinstiks.md",
     "4. Flashcards/Mikrobiologi/Klinik/Venøse blodprøver.md",
-    "4. Flashcards/Mikrobiologi/Klinik",
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
-    "Studieordning for bacheloruddannelsen i medicin 2024.pdf",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - Urinvejsinfektioner_E26.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260909134245.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140317.png",
-    "Externe dokumenter/MIkrobiologi/Antibiotika/Slides - Antibiotika_med_metaboliske_angrebspunkter_2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260909140118.png",
     "Billeder/Mikrobiologi/Pasted image 20260909104316.png",
     "Billeder/Mikrobiologi/Pasted image 20260909114924.png",
