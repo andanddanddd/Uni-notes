@@ -14,3 +14,6 @@ Glykoproteienr er der for at komme inde i cellen
 Hvordan kan transskribtion foregå i cytoplasma?
 
 +RNA virus ligner mRNA
+Flagermuse bider ikke hårdt så de smitter ikke rigtigt deres rabies
+
+Der er manegarbovirus der kun er i nordamerika (og som derfor er i bogen)
