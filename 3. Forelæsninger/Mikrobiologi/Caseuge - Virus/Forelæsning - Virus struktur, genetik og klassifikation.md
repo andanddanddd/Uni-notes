@@ -11,3 +11,6 @@ ORF = potentielt gen (dvs med start og slut-codon)
 2 ORF kan ligge oven i hinanden i samme retning
 Stor sandynlig for at en mutation ikkke er redundant når man bruger felre læserammer (derfor stor mutation)
 Glykoproteienr er der for at komme inde i cellen
+Hvordan kan transskribtion foregå i cytoplasma?
+
++RNA virus ligner mRNA
