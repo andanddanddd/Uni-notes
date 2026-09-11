@@ -30,7 +30,7 @@
 - Fibronectin bindende protein
 - Streptokinase
 - SpeB-cystein protease
-<!--SR:!2026-09-11,2,230-->
+<!--SR:!2026-09-16,5,230-->
 
 - Hvilken effekt har det at S. pyogenes har C5a-peptidase?:: Der kan ikke dannes [[Membranangrebskompleks]] og der tiltrækkes færre [[neutrofile granulocytter]]
 <!--SR:!2026-09-12,4,270-->

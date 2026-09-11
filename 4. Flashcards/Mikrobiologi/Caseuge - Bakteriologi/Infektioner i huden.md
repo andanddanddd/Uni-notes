@@ -12,6 +12,6 @@
 - Hvad kaldes infektioner i subcutis?:: [[Cellulitis]]
 <!--SR:!2026-09-12,4,270-->
 - Hvad kaldes infektion i de øverste hudlag?:: [[Impetigo]]
-<!--SR:!2026-09-11,3,250-->
+<!--SR:!2026-09-18,7,250-->
 
 ![[Pasted image 20260907122551.png]]
