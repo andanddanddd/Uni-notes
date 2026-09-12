@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan smitter non-tyfoid salmonella?:: Zoonotisk og gennem fødevarer (typisk kylling, æg og mælkeprodukter)
-<!--SR:!2026-09-12,3,250-->
+<!--SR:!2026-09-14,2,230-->
 - Hvad er inkubationstid og varighed på non-tyfoid salmonella?:: Inkubationstid = 6-72 tomer og det vare 2-7 dage
 <!--SR:!2026-09-13,4,270-->
 - Hvad er symptomrene på non-tyfoid salmonella?: Akut feber, mavekramper og diarre

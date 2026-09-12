@@ -12,7 +12,7 @@
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
 <!--SR:!2026-09-27,15,290-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 
 ## Patogenesefaktorer
 - Hvorfor bliver S. pyogenes ikke "skyldes" væk i pharynx?
@@ -41,7 +41,7 @@
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
 <!--SR:!2026-09-19,7,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
-<!--SR:!2026-09-11,3,250-->
+<!--SR:!2026-09-19,7,250-->
 
 ## Symptomer/komplikationer
 - Hvad er de systemiske komplikationer af pharyngitis forårsaget af S. pyogenes?

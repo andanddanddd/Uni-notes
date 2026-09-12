@@ -6,7 +6,7 @@
 - Hvad kaldes en infektion i hårsækken der udstråler til dermis?:: [[Furuncle]]
 <!--SR:!2026-09-27,15,290-->
 - Hvad kaldes en infektioner i hårsækken der udstråler dermis og subcutis?:: [[Carpuncle]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvad kaldes det hvis der er en infektion i talgkirtlen i øjenlåget?:: Bygkorn
 <!--SR:!2026-09-24,12,270-->
 - Hvad kaldes infektioner i subcutis?:: [[Cellulitis]]

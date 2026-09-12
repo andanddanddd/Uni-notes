@@ -19,7 +19,7 @@
 - Hvorfor er katalase en patogenesefaktor?:: $H_2O_2$ er essentielt for ROS-produktion
 <!--SR:!2026-09-26,14,290-->
 - Hvilket protein "hjælper" koagulase med at lave koagulere plasma?:: "clumbing factor"
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvad hedder protein laves a s. aureus der kan nedbryde hvide blodceller?:: Leucocidin
 <!--SR:!2026-09-27,15,290-->
 - Hvad gør hyaluronidase?:: Nedbryder ECM

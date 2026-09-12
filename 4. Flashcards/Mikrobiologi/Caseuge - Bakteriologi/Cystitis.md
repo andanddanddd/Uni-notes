@@ -5,6 +5,7 @@
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
 <!--SR:!2026-09-14,4,270-->
 - Hvorfor giver det mening at bakterier fundet i en komliceret cystit har færre virulens-faktorer end dem i en ukompliceret cystit?:: En kompliceret cystit siger mere om patienten en bakterien, pt er derfor mere eksponeret og der skal mindre til
+<!--SR:!2026-09-16,4,270-->
 
 - Hvordan defineres en urinvejsinfektion?:: [[Bakteriuri]] med symptomer
 <!--SR:!2026-09-14,4,270-->
@@ -20,13 +21,17 @@
 - Fremmedlegemer (kateter)
 - Ny bakterieflora
 - Svækket immunsystem
+<!--SR:!2026-09-16,4,270-->
 
 ## Risikofaktorer
 - Hvorfor får kvinder oftere cystitis?:: Kortere urethra
+<!--SR:!2026-09-16,4,270-->
 - Hvilken blodtype får oftest cystitis?:: O
 - Hvorfor giver blodtype O oftere cystitis end A,B og AB?:: A og B antigener seceneres fra slimhinder hvilket forhindre bakterier at binde dertil
+<!--SR:!2026-09-16,4,270-->
 - Hvilke præventionstype giver øget risiko for cystitis og hvorfor?:: Spermacider dræber normalfloraen og pessar kan forhindre blæren i at blive tømt helt (de bliver ofte brugt sammen)
 - Hvilke risikofaktorer har mænd for at få cystitis?:: Ny sexuel partner og analsex
+<!--SR:!2026-09-16,4,270-->
 ## Symptomer
 - Hvilke symptomer har cystitis?
 ?

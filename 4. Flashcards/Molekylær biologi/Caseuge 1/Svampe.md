@@ -3,6 +3,9 @@
 - Hvilket organel er kendetegnet for svampe i forhold til andre eukaryoter?:: Cellevæg
 <!--SR:!2026-09-26,14,290-->
 - Hvad er svampes cellevæg lavet af?:: Glukoproteiner, glucaner og chitin
+<!--SR:!2026-09-15,3,250-->
 - Hvilken forskel er der på svampes og menneskers cellemembran?:: Svampe har ergosterol deri i stedet for cholesterol
 - Hvad er overordnet de 2 typer af svampe?:: [[Gærsvampe]] og [[Skimmelsvampe]]
-- Hvad er resultatet af en gram-farvning af svampe?:: Den bliver gram-positiv 
+<!--SR:!2026-09-16,4,270-->
+- Hvad er resultatet af en gram-farvning af svampe?:: Den bliver gram-positiv
+<!--SR:!2026-09-16,4,270-->

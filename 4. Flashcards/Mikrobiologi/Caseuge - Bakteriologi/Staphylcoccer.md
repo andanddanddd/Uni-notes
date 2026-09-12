@@ -11,11 +11,11 @@
 - Hvilke(n) staphylcoc er koagulase-?:: [[Staphylococcus epidermidis]] og [[Staphylococcus saprophyticus]]
 <!--SR:!2026-09-26,14,290-->
 - Hvordan er lejringen af staphylcoccer?:: Klaser (ligner vindruer)
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-26,14,290-->
 - Hvilken type cellevæg har staphylcoccer?:: Den er gram positiv ([[Gram-positive bakterier]])
 <!--SR:!2026-09-27,15,290-->
 - Hvordan kan staphylcoccer (og andre bakterier) forårsage systemiske effekter uden at være i blodbanen?:: Deres toksiner kan være i blodbanen uden de selv er der
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvordan spreder staphylcoccer sig typisk?:: Direkte kontakt mellem mennesker eller partikler i luften
 <!--SR:!2026-09-27,15,290-->
 - Hvordan kommer staphylcoccer ned i dybere hudlag?:: De kan kun komme derned hvis der er åbent dertil  fx ved forbræninger eller sår

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad skal ske med hemolysin for den bliver aktiv?:: Den skal sættes sammen med andre hæmolysin-proteiner
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - Hvad gør hemolysin når det er oligomeseret?:: Danner en porer
 <!--SR:!2026-09-28,16,290-->
 - Hvad gør hemolysin overordnet?:: Lysere erytrocytter
@@ -9,5 +9,5 @@
 - Hvilken bakterie udskiller $\alpha$-hemolysin?:: [[Staphylococcus aureus+]]
 <!--SR:!2026-09-27,15,290-->
 - Hvilken effekt har $\alpha$-hemolysin i en infektion med [[Staphylococcus aureus+]]?:: Ikke nogen, men man kan se de producere det når man gror dem
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - 

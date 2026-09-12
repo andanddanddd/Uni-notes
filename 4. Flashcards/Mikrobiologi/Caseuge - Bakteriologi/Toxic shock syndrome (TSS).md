@@ -9,7 +9,7 @@
 - Hvilket stof er essentielt for udviklingen af TSS?:: Ilt
 <!--SR:!2026-09-27,15,290-->
 - Hvorfor kan man få TSS gentgende?:: Eftersom TSST-1 er et superantigen er det svært for immunforsvaret at "gemme" den rigtige T-celle
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - Hvilke symptomer har TSS?
 ?
 - Feber

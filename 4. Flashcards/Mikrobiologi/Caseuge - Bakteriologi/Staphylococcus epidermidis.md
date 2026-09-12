@@ -9,4 +9,4 @@
 - Hvilke infektioner forårsager staphylocoocus epidermidis oftest?:: Alt der indvolvere et fremmeslegeme (kateter, elektroder, venflon, hofter)
 <!--SR:!2026-09-24,12,270-->
 - Hvorfor er s. epidermidis (og andre staphylcoccer) gode til at leve på huden af mennesker?:: De producere lipaser (og andre enzymer)
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
