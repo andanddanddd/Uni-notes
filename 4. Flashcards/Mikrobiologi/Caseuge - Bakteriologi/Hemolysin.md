@@ -7,7 +7,7 @@
 - Hvad gør hemolysin overordnet?:: Lysere erytrocytter
 <!--SR:!2026-09-26,14,290-->
 - Hvilken bakterie udskiller $\alpha$-hemolysin?:: [[Staphylococcus aureus+]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvilken effekt har $\alpha$-hemolysin i en infektion med [[Staphylococcus aureus+]]?:: Ikke nogen, men man kan se de producere det når man gror dem
 <!--SR:!2026-09-12,4,270-->
 - 

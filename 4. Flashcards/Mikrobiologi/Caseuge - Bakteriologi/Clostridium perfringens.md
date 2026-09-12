@@ -9,8 +9,8 @@
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
 <!--SR:!2026-09-13,4,270-->
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer
-<!--SR:!2026-09-12,3,250-->
+<!--SR:!2026-09-24,12,270-->
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter
-<!--SR:!2026-09-12,3,250-->
+<!--SR:!2026-09-14,2,230-->
 - Hvilken effekt har antibiotika på madforgiftning grundet C. perfringens?:: Ingen
 <!--SR:!2026-09-13,3,250-->

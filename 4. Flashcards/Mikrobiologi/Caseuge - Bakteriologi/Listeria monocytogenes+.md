@@ -11,7 +11,7 @@
 - Hvilke madvarer har oftest L. monocytogenes i sig?:: Dem med lang holdbarhed
 <!--SR:!2026-09-14,4,270-->
 - Hvad gør listeriolysin O?:: Muliggør at L. monocytogenes kan flygte fra fagolysosomet
-<!--SR:!2026-09-11,1,230-->
+<!--SR:!2026-09-13,1,210-->
 - Hvordan "spreder" L. monocytogenes i kroppen?:: Den kan gå direkte fra celle til celle
 <!--SR:!2026-09-13,3,250-->
 - Hvad er de 3 hovedformer af L. monocytogenes?

@@ -32,12 +32,12 @@
 - SpeB-cystein protease
 <!--SR:!2026-09-16,5,230-->
 
-- Hvilken effekt har det at S. pyogenes har C5a-peptidase?:: Der kan ikke dannes [[Membranangrebskompleks]] og der tiltrækkes færre [[neutrofile granulocytter]]
-<!--SR:!2026-09-12,4,270-->
+- Hvilken effekt har det at S. pyogenes har C5a-peptidase?::Der sker mindre inflammation
+<!--SR:!2026-09-28,16,290-->
 - Hvilken effekt har det at S. pyogenes har hyaluronsyre i sin kapsel?:: Det ligner mere eukaryote celler dermed har komplement sværre ved at se det
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - Hvad gør streptolysin?:: Lysere erytrocytter
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-14,2,250-->
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
 <!--SR:!2026-09-19,7,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
@@ -49,7 +49,7 @@
 - [[Scarletina]]
 - [[Reumatisk feber]]
 - [[Glomerulonephritis]]
-<!--SR:!2026-09-11,2,230-->
+<!--SR:!2026-09-19,7,250-->
 
 - Hvad er den mest normale sygdom forårsaget af streptococcus pyogenes?:: Pharyngitis
 <!--SR:!2026-09-28,16,290-->
@@ -58,7 +58,7 @@
 - Hvem får oftest pharyngitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
 <!--SR:!2026-09-13,4,270-->
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
 <!--SR:!2026-09-13,4,270-->
 

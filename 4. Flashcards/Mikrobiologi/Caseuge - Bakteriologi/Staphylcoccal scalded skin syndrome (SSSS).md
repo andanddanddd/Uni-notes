@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken bakterie forårsager SSSS?:: [[Staphylococcus aureus+]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - Hvorfor findes [[Staphylococcus aureus+]] ikke i huden ved SSSS?:: Det er et toksin fra s. aurius der forårsager sygdommen derfor behøves selve bakterien ikke at være ved umidlbare syge sted
 <!--SR:!2026-09-28,16,290-->
 - Hvad kaldes toxinen der giver SSSS?:: Exfoliative toxin A/B

@@ -27,7 +27,7 @@
 - Hvordan kommer de modificerede monosakkarider ud af cellen?:: En "lipid-carrier"
 <!--SR:!2026-09-22,16,290-->
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
-<!--SR:!2026-09-12,5,230-->
+<!--SR:!2026-09-25,13,230-->
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
 <!--SR:!2026-09-21,15,290-->
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]

@@ -5,7 +5,7 @@
 - Hvor findes s. epidermidis normalt?:: Hud (det er den mest almindelige bakterie på huden)
 <!--SR:!2026-09-26,14,290-->
 - Hvad er staphylococcus epidermidis primære patogenesefaktor?:: Den danner [[Biofilm]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-26,14,290-->
 - Hvilke infektioner forårsager staphylocoocus epidermidis oftest?:: Alt der indvolvere et fremmeslegeme (kateter, elektroder, venflon, hofter)
 <!--SR:!2026-09-24,12,270-->
 - Hvorfor er s. epidermidis (og andre staphylcoccer) gode til at leve på huden af mennesker?:: De producere lipaser (og andre enzymer)

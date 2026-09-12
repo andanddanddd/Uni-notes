@@ -19,9 +19,9 @@
 - Hvordan spreder staphylcoccer sig typisk?:: Direkte kontakt mellem mennesker eller partikler i luften
 <!--SR:!2026-09-27,15,290-->
 - Hvordan kommer staphylcoccer ned i dybere hudlag?:: De kan kun komme derned hvis der er åbent dertil  fx ved forbræninger eller sår
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvad findes udenpå kapslen af staphylcoccer?:: Slim
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-26,14,290-->
 
 
 ![[Staphylococcus aureus+]]
