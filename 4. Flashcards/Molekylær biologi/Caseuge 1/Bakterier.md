@@ -12,7 +12,7 @@
 <!--SR:!2026-09-15,14,290-->
 
 - Hvor store er bakterier?:: 0,5-5 μm i lænægde (1/10 af humane celler)
-<!--SR:!2026-09-12,11,270-->
+<!--SR:!2026-10-23,41,290-->
 
 [[Bakteriers organeller]]
 [[Gram-farvning]]

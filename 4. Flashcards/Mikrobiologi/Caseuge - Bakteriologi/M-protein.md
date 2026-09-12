@@ -5,6 +5,6 @@
 - Hvordan forhinde M-protein bakterien i at blive opsoineret?:: Først binder den fibrinogen (en slags skjold) herefter binder den regulerende komplementfaktorer (faktor H)
 <!--SR:!2026-09-13,4,270-->
 - Hvilken bakterie har M-protein på sin overflade?:: [[Streptococcus pyogenes+]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - Hvorfor er det svært at lave en gentagent immunforsvar mod M-protein?:: Den kan ændres
 <!--SR:!2026-09-12,4,270-->

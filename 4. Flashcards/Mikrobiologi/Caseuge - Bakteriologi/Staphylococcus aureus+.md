@@ -3,9 +3,9 @@
 - Hvad menes med at staphylcoccus aureus er en af de mest fysisk resistente bakterier?:: Den kan overleve at bliev udtørret (eks sårskoper, støv og i tøj)
 <!--SR:!2026-09-12,4,270-->
 - Hvor lever staphylcoccus aureus normalt?:: Den er i næseborene på 30-40% af mennesker
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-26,14,290-->
 - Hvad betyder "aureus" og hvorfor har den fået det navn?:: Gylden, eftersom kolonierne oftest er guldfarvetish (de kan også være hvide)
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 
 - Hvilke patogenesefaktorer har staphylcoccus aurius?
 ?
@@ -41,7 +41,7 @@
 - Hvordan "vælger" s. aureus hvor den danner abcesser?:: De ender steder hvor der i forvejen er en skade eller i de højt-vasculiserede organer
 <!--SR:!2026-09-12,4,270-->
 - Hvilken resistensmekanisme har de fleste s. aureus?:: Dannelse af $\beta$-lactamase
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvad kaldes de stammer af s. aureus der er meget resistente?:: [[Methicillin-resistant S aureus (MRSA)]])
 <!--SR:!2026-09-12,4,270-->
 

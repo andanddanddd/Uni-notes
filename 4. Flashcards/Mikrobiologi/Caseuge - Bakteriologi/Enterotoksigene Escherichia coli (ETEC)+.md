@@ -15,8 +15,8 @@
 <!--SR:!2026-09-14,4,270-->
 - Hvad gør ST overordnet?:: Øger cGMP
 <!--SR:!2026-09-14,4,270-->
-- Hvordan håndtere LT varme?::: Den er varmelabil (heat-Labil-Toxin)
-<!--SR:!2026-09-14,4,270!2000-01-01,1,250-->
+- Hvordan håndtere LT varme?:: Den er varmelabil (heat-Labil-Toxin)
+<!--SR:!2026-09-14,4,270-->
 - Hvordan håndtere ST varme?:: Den er varmestabil (heat-Stabil-Toxin)
 <!--SR:!2026-09-14,4,270-->
 - Hvilken effekt har det når cAMP øges?:: Der optages mindre Na og sekreres Cl (osmose resultere dermed i mere vand i lumen)

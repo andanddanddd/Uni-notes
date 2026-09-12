@@ -2,15 +2,15 @@
 
 ## Generalt 
 - Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hemolyse
-<!--SR:!2026-09-11,3,250-->
+<!--SR:!2026-09-24,12,270-->
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-26,14,290-->
 
 ## Smitte
 - Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
 <!--SR:!2026-09-13,4,270-->
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-27,15,290-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
 <!--SR:!2026-09-12,4,270-->
 
@@ -39,7 +39,7 @@
 - Hvad gør streptolysin?:: Lysere erytrocytter
 <!--SR:!2026-09-12,4,270-->
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
-<!--SR:!2026-09-11,3,250-->
+<!--SR:!2026-09-19,7,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
 <!--SR:!2026-09-11,3,250-->
 
@@ -52,9 +52,9 @@
 <!--SR:!2026-09-11,2,230-->
 
 - Hvad er den mest normale sygdom forårsaget af streptococcus pyogenes?:: Pharyngitis
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-28,16,290-->
 - Hvilken lokal komplikation har pharyngitis forårsaget af S. pyogenes?:: [[Peritonsilære abscesser]]
-<!--SR:!2026-09-12,4,270-->
+<!--SR:!2026-09-26,14,290-->
 - Hvem får oftest pharyngitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
 <!--SR:!2026-09-13,4,270-->
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
