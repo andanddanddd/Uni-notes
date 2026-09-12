@@ -6,7 +6,7 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 46.80170575692964,
+        "dimension": 32.88003885381253,
         "children": [
           {
             "id": "4281c57d9e80bff8",
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 53.198294243070364,
+        "dimension": 67.11996114618746,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -236,14 +236,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4281c57d9e80bff8",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
+    "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - HIV_course 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Influenza 2026.pdf",
     "Externe dokumenter/MIkrobiologi/HIV_course 2026.pdf",
