@@ -6,57 +6,28 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 32.88003885381253,
+        "dimension": 49.97571636716852,
         "children": [
           {
-            "id": "4281c57d9e80bff8",
+            "id": "7b6da53110599ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Influenza virus"
-            }
-          },
-          {
-            "id": "e33cb34aaeedfb69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterotoksigene Escherichia coli (ETEC)+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enterotoksigene Escherichia coli (ETEC)+"
-            }
-          },
-          {
-            "id": "3694c8db9b4e1ab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pyogenes+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streptococcus pyogenes+"
+              "title": "Forelæsning - Bakterier der vaccineres imod"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 67.11996114618746,
+        "dimension": 50.02428363283147,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -71,15 +42,15 @@
             }
           },
           {
-            "id": "1f2ba4cb4093c072",
+            "id": "36f433889e50d2b9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Influenza 2026"
+              "title": "Slides - Bakterier_børnesygdomme"
             }
           }
         ],
@@ -265,11 +236,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "7b6da53110599ba7",
   "lastOpenFiles": [
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme/mso38F6.tmp",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis",
+    "Externe dokumenter/MIkrobiologi/New folder",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pyogenes+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Scarletina.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterotoksigene Escherichia coli (ETEC)+.md",
@@ -284,8 +261,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - virus/VZV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/KSHV.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Gammaherpesvirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/EBV.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Herpesvirus.md",
@@ -295,8 +270,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - virus/HSV 2.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/HSV 1.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Candida spp+.md",
-    "Externe dokumenter/MIkrobiologi/Virus",
-    "Externe dokumenter/MIkrobiologi/New folder",
     "4. Flashcards/Mikrobiologi/Caseuge - Svampeinfektioner/Gærsvampe.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Svampe.md",
@@ -304,8 +277,6 @@
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning - Urinvejsinfektioner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Urinvejsinfektioner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Prostatitis.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus saprophyticus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Extraintestinal Pathogenic E. coli (ExPEC)+.md",
     "Billeder/Mikrobiologi/Pasted image 20260909134245.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140317.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140118.png",
