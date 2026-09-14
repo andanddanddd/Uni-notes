@@ -14,3 +14,6 @@ Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lav
 Man er dårlig til at lave feber som lille
 
 Case, 2,3 og 4 er alle enterovirus selvom de præsentere så forskelligt
+
+Mange bakterielle lungebetændelser er i virkleigeheden sekundære infektioner hos børn
+Man kan undgå MIEM (slide 39) ved steroider
