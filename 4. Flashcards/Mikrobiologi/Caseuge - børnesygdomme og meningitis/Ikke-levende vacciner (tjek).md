@@ -21,5 +21,5 @@
 
 - Hvilken vaccine indeholder patogener som ikke kan replikere?:: [[Polio]]
 <!--SR:!2026-09-21,16,290-->
-- Hvilke vacciner bruger proteiner fra patogener:: [[Influensavaccine]]
+- Hvilke vacciner bruger proteiner fra patogener:: [[Influensavaccine]] (Nej? ifølge trine)
 <!--SR:!2026-09-19,14,290-->

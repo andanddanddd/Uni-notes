@@ -1,5 +1,7 @@
 #flashcards/3/Immunologi #flashcards/5/Mikrobiologi 
 
+mRNA er en damp
+
 - Hvad er princippet bag DNA/mRNA-baseret vacciner?:: Vi kan selv syntetisere peptider fra patogener og dermed presentere dem på [[MHC-I molekyler]] og dermed få et respons imod dem
 <!--SR:!2026-09-20,15,290-->
 - Hvor vil man have DNA i DNA-vacciner til at ende?:: Det skal helst ikke koples ind i genommet

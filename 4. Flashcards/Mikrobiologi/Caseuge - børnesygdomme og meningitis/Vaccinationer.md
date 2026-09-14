@@ -9,7 +9,7 @@
 
 - [[Levende svækkede vacciner]]
 - [[Ikke-levende vacciner (tjek)]]
-- [[DNA og mRNA-baseret vacciner]]
+- [[DNA og mRNA-baseret vacciner (tjek)]]
 
 
 - Hvad er en cocktailvaccine?:: Når en sprøjte indeholder flere vacciner på en gang
