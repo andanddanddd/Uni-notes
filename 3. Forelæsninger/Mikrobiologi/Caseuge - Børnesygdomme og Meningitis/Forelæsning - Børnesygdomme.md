@@ -6,3 +6,9 @@ Børn blive syge når de starter i vuggestue (det er der de bliver meget ekspone
 
 Dugdråbe på et rosenblad (skoldkopper)
 	Kan give sekundære infektioner (infektion i sårenen)
+	Skoldkopper er den hyppigste årsag til blodpropper his børn
+
+Aplastisk krise er noget med at dæmpe knolgemarven
+Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lave røde blodlegemer
+
+Man er dårlig til at lave feber som lille
