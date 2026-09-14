@@ -5,7 +5,7 @@
 - Hvilken type cellevæg har Y. enterocolitica?:: Gram negativ [[Gram-negative bakterier]]
 <!--SR:!2026-09-22,8,250-->
 - I hvilket oxidativt miljø lever Y. enterocolitica?:: Den er fakultativ anaerob
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvordan smitter Y. enterocolitica?:: Zoonose (særligt gennem svin)
 <!--SR:!2026-09-15,3,250-->
 - Hvilken del af tarmen inficere Y. enterocolitica?:: Terminal ileum

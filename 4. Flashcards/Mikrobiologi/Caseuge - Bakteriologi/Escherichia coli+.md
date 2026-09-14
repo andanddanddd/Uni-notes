@@ -12,7 +12,7 @@
 - Hvilket oxidativt miljø lever E. coli bedst i?:: De er fakultative anaerobe
 <!--SR:!2026-09-30,16,290-->
 - Hvad betyder det at en bakterie er fakultativ anaerob?:: Bakterien vækster lige godt aerobt og anaerobt
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvordan skelner man mellem de forskellige E.coli?:: Man tester [[O-antigen]]en
 <!--SR:!2026-09-30,16,290-->
 

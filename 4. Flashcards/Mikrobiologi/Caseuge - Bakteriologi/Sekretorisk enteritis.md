@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvorfor sker sekretorisk diarre overordnet?:: Bakterier eller toksiner øger sekretion af vand og elektrolytter i tyndtarmen
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvad er inkubationstiden på sekretorisk enterititis?:: 1-3 døgn
 <!--SR:!2026-09-28,14,290-->
 - Hvilke symptomer har sekretorisk enteritis?:: Vandig diarre (uden blod) og høj feber

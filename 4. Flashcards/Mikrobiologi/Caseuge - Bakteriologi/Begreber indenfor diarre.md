@@ -15,7 +15,7 @@
 - Hvad er nosokomiel diarre?:: Diarre der kommer fra et hospital
 <!--SR:!2026-09-30,16,290-->
 - Hvad betyder det at diarre er selvlimiterende?:: Det kræver ikke behandling
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvad er dysenteri?:: Hyppige afføringer (mere end 30 på en dag)
 <!--SR:!2026-09-15,3,250-->
 - Hvad er de 3 typer af gastroenteritis?

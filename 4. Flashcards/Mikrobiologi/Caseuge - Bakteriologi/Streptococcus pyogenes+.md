@@ -19,7 +19,7 @@
 ?
 - M-protein binder til keratinocytter
 - Hyalyrosyren i kapslen får bakterien til at ligne humane celler så den kan binde til visse adhæsionsproteiner (CD44)
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 
 - Hvilke patogenesefaktorer har stretococcus pyogenes?
 ?
@@ -64,6 +64,6 @@
 
 ## Behandling
 - Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-28,14,290-->
 - Hvorfor er det vigtigt at fortsætte en antibiotikakur imod S. pyogenes?:: Ellers er der risiko for komplikationer ([[Reumatisk feber]] og [[Glomerulonephritis]])
 <!--SR:!2026-09-30,16,290-->

@@ -5,7 +5,7 @@
 - Hvordan smitter H. pylori?:: Oral-oral eller fæcal-oral (dvs mellem mennesker)
 <!--SR:!2026-09-30,16,290-->
 - Hvornår bliver man oftest smittet med H. pylori?:: I barndommen
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-28,14,290-->
 - Hvad gør urease?:: Neutralisere syre omkring bakterien
 <!--SR:!2026-09-29,15,290-->
 - Hvor ofte fører H. pylori til en ulcussygedom?:: I 10-15% af smittede

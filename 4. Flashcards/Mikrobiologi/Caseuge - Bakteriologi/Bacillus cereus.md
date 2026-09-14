@@ -10,10 +10,10 @@
 - Hvad hedder toksinet som giver madforgiftning dannet af B. cereus?:: Cereulid
 <!--SR:!2026-09-13,3,250-->
 - Hvad er inkubationstid og varighed af opkastningsformen af madforgiftning grundet B. cereus?:: Inkubationstid = 15 min til 6 timer og varigheden er under 24 timer
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-28,14,290-->
 
 ## Diarreformen
 - Hvordan giver B. cereus diarre? (patofysiologi):: Toksin danner poror i enteeocytter dermed udskilles meget væske
 <!--SR:!2026-09-16,2,250-->
 - Hvad er inkubationstid og varighed af diarreformen af madforgiftning grundet B. cereus?:: Inkubationstid = 8-16 timer og varigheden er under 24 timer
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-28,14,290-->

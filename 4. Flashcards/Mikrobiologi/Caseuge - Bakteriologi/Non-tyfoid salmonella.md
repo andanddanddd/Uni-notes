@@ -6,12 +6,12 @@
 <!--SR:!2026-09-29,15,290-->
 - Hvad er symptomrene på non-tyfoid salmonella?: Akut feber, mavekramper og diarre
 - Hvordan behandles non-tyfoid salmonella?:: Væske (den er selvlimiterende)
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvad hedder de 2 vigtigste non-tyfoide salmonellaer?
 ?
 - [[Salmonella Typhimurium]]
 - [[Salmonella enteriditis+]]
-<!--SR:!2026-09-13,1,230-->
+<!--SR:!2026-09-16,2,230-->
 
 Hvilken type gastroenteritis giver non-tyfoid salmonella oftest?:: [[Inflammatorisk enterocolitis]]
 <!--SR:!2026-09-28,14,290-->

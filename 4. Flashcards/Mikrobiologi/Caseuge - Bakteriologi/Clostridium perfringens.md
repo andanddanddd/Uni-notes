@@ -3,7 +3,7 @@
 - Hvilke madvarer er ofte kontamineret med C. perfringens?:: Kød og fjerkræ (særligt når de er tilberedt i store portiner)
 <!--SR:!2026-09-25,11,270-->
 - Hvad sker med C. perfringens når det bliver varmt?:: Bakterier dør men spore overlever (Som så kan vækste når maden køles ned)
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-28,14,290-->
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
 <!--SR:!2026-09-13,4,270-->
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer

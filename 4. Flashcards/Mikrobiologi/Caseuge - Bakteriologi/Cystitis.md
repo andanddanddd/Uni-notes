@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er en cystit?:: Blærebetændelse
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvad er forskellen på simpel og kompliceret cystit?:: Simpel cystit er under normale anatomiske forhold uden andre sygdomme, kompliceret cystit kan også være hvis den er gentagende
 <!--SR:!2026-09-28,14,290-->
 - Hvorfor giver det mening at bakterier fundet i en komliceret cystit har færre virulens-faktorer end dem i en ukompliceret cystit?:: En kompliceret cystit siger mere om patienten en bakterien, pt er derfor mere eksponeret og der skal mindre til
@@ -50,7 +50,7 @@
 - Hvad menes med dysuri?:: Svie eller smerte under vandladning
 <!--SR:!2026-09-14,4,270-->
 - Hvad er pollakisuri?:: Hyppig vandladning
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-30,16,290-->
 
 
 ## Behandling
@@ -61,7 +61,7 @@
 - [[Ciprofloxacin]]
 - [[Sulfamethizol]] + [[Trimethoprim]]
 - Hvadend bakterien respondere på
-<!--SR:!2026-09-13,3,250--> 
+<!--SR:!2026-09-22,8,250--> 
 
 ## Komplikationer
 - Hvad er de 2 typiske komplikationer til cystitis?
