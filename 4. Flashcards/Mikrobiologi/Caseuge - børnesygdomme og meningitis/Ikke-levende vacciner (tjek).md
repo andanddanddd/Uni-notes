@@ -16,7 +16,7 @@
 <!--SR:!2026-09-16,11,270-->
 - Hvilken fordel har ikke-levende vacciner?:: De kan ikke give infektion og de kan håndteres mere groft
 <!--SR:!2026-09-19,14,290-->
-- Hvilken ulempe har ikke-levende vacciner?:: De giver ikke altid et godt respons
+- Hvilken ulempe har ikke-levende vacciner?:: De giver ikke altid et godt respons (der kan mangle DAMPs [[Adjuvans (tjek)]])
 <!--SR:!2026-09-19,14,290-->
 
 - Hvilken vaccine indeholder patogener som ikke kan replikere?:: [[Polio]]

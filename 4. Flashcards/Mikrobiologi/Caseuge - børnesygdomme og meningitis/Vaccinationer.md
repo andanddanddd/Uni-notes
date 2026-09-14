@@ -3,12 +3,12 @@
 - Hvad betyder vaccination (vaccinus)?:: Fra koen
 <!--SR:!2026-09-20,15,290-->
 
-![[Adjuvans]]
+![[Adjuvans (tjek)]]
 
 - Hvilke 3 typer af vacciner har vi?
 
 - [[Levende svækkede vacciner]]
-- [[Ikke-levende vacciner]]
+- [[Ikke-levende vacciner (tjek)]]
 - [[DNA og mRNA-baseret vacciner]]
 
 

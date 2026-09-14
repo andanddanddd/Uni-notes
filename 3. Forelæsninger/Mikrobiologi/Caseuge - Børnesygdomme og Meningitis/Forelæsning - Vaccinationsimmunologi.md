@@ -3,7 +3,7 @@
 [[Slides - Vaccinationsimmunologi.pdf]]
 
 Vi er ikke inddækket på hele pneumokokspektret
-
+Tilbagemutation = revetere
 
 ![[Immunisering]]
 
