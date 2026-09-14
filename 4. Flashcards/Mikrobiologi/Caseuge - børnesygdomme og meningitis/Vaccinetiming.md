@@ -8,3 +8,6 @@
 
 - Hvor længe går der mellem at man må vacciner med levende svækkede vacciner?:: 3 uger
 <!--SR:!2026-09-19,14,290-->
+
+
+Man vaccinere flere gange så selv de børn der stadig havde meget IgG fra moderen bliver inddækket

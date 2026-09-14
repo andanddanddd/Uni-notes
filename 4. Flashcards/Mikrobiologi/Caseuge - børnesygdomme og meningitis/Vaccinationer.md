@@ -11,6 +11,7 @@
 - [[Ikke-levende vacciner]]
 - [[DNA og mRNA-baseret vacciner]]
 
+
 - Hvad er en cocktailvaccine?:: Når en sprøjte indeholder flere vacciner på en gang
 <!--SR:!2026-09-21,16,290-->
 - Hvorfor er flokimmunitet smart?:: Det giver beskyttelse til uvaccinerede mennesker
