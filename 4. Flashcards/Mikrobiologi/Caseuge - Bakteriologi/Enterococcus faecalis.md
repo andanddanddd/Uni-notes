@@ -14,13 +14,13 @@
 - Endocarditis
 - Intra-abdominale abscesser
 - [[Bacterieæmi]]
-<!--SR:!2026-09-14,1,250-->
+<!--SR:!2026-09-15,1,230-->
 
 - Hvilke patogenesefaktorer har E. faecalis?
 ?
 - [[Biofilm]]
 - Cytolysin
-<!--SR:!2026-09-14,1,250-->
+<!--SR:!2026-09-18,4,270-->
 
 ## Behandling
 - Hvilken effekt har penicilin på E. faecalis?:: Det er kun bakteriestatisk

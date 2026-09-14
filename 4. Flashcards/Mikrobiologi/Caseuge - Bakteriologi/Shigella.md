@@ -31,7 +31,7 @@
 - Hvordan behandles shigella?:: Typisk væske og elektrolytter men til tider antibiotika
 <!--SR:!2026-09-14,4,270-->
 - Hvorfor kan det til tider være svær at diagonticere shigella?:: De dør hurtigt i fæcesprøver (ikke typisk et problem)
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvilke symptomer har en shigella-infektioner?
 ?
 - Feber

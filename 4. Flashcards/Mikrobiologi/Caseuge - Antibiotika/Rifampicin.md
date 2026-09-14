@@ -7,4 +7,4 @@
 - Hvad bruges rifampicin til?:: [[Tuberculose]]
 <!--SR:!2026-09-13,1,210-->
 - Hvordan opnår bakterier resistens mod rifampicin?:: Mutationer ved bindingstedet
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
