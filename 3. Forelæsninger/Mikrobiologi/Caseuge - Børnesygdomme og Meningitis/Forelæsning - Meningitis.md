@@ -12,3 +12,11 @@ Infektion ligger i subaraknoidalrummet
 
 ICP = intracranielt tryg
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)
+
+Man kan trække sin knæ op for at modvirke at at det gør ondt at bevæge nakken ved nakke-ryg-stivhed (det har et navn men det er kun på hans slide (2 tegn brunenskis))
+
+Virale meninggitis viser de mest klassiske meninggitis-symptomer (de har dog ikke neurale symtomer og deres toks er god)
+
+Encephalitis giver klart felst neurale udfald  (slide 18)
+
+Hvis der er tænkt meningitis så lav en LP
