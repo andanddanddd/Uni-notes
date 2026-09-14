@@ -12,3 +12,5 @@ Aplastisk krise er noget med at dæmpe knolgemarven
 Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lave røde blodlegemer
 
 Man er dårlig til at lave feber som lille
+
+Case, 2,3 og 4 er alle enterovirus selvom de præsentere så forskelligt
