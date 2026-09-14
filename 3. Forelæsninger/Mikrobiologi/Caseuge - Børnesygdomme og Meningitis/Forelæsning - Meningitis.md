@@ -20,3 +20,5 @@ Virale meninggitis viser de mest klassiske meninggitis-symptomer (de har dog ikk
 Encephalitis giver klart felst neurale udfald  (slide 18)
 
 Hvis der er tænkt meningitis så lav en LP
+
+Listerier er resistent ovefor ceftriaxon men ikke penicilin derfor gives begge som initialbehandling
