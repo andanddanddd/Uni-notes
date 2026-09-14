@@ -1,4 +1,8 @@
 #flashcards/5/Mikrobiologi 
 
-Gærsvamp
-Bor på fugle og rådne planter
+
+- Hvad er Cryptococcus neoformans overordnet?:: En gærscamp ([[Gærsvampe]])
+- Hvor lever Cryptococcus neoformans neoformans normalt?:: Rådne planter og fugle (inkl fugleafføring)
+- Hvordan smitter Cryptococcus neoformans normalt?:: Inhalation af spore
+- Hvem bliver normalt syg af Cryptococcus neoformans?:: Immunkomprimenterede (tidligere særligt ved AIDS)
+- Hvilke infektion giver Cryptococcus neoformans?:: Lungebetændelse men det kan sprede sig til resten af kroppen uden der har været symptomer i lungerne, her kan det eks sprede sig til hjernehinderne

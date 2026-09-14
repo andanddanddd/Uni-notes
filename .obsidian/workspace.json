@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Aspergillus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Svampeinfektioner"
+              "title": "Aspergillus"
             }
           }
         ],
@@ -57,18 +57,6 @@
             }
           },
           {
-            "id": "9b3e5c47e30c3639",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Bakteriel meningitis 5. semester"
-            }
-          },
-          {
             "id": "2590adddf156d7dc",
             "type": "leaf",
             "state": {
@@ -80,7 +68,8 @@
               "title": "Slides - Bachelor 2026 Svampeinfektioner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -265,13 +255,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "151b3cfb1fafab68",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
+    "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Aspergillus.md",
     "Skimmelsvampe.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Cryptococcus neoformans.md",
+    "Behandling af svampeinfektioner.md",
     "4. Flashcards/Molekylær biologi/Caseuge 1/Svampe.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Candida spp+.md",
-    "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Meningitis.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
@@ -299,10 +292,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Alfaherpesvirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/VZV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/KSHV.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Gammaherpesvirus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/EBV.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Herpesvirus.md",
     "Billeder/Mikrobiologi/Pasted image 20260909134245.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140317.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140118.png",
