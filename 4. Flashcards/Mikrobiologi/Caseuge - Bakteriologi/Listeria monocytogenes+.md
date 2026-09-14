@@ -3,9 +3,9 @@
 - Hvilken form har L. monocytogenes?:: Stav
 <!--SR:!2026-09-14,4,270-->
 - Hvilken type cellevæg har L. monocytogenes?:: Gram-positiv ([[Gram-positive bakterier]])
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-25,11,270-->
 - Hvornår er L. monocytogenes bevægelig?:: Ved 25 grader
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-25,11,270-->
 - Hvad sker med L. monocytogenes ved køleskabstempertur?:: Den formere sig
 <!--SR:!2026-09-14,4,270-->
 - Hvilke madvarer har oftest L. monocytogenes i sig?:: Dem med lang holdbarhed

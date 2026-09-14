@@ -10,3 +10,4 @@
 <!--SR:!2026-09-16,4,270-->
 - Hvad er resultatet af en gram-farvning af svampe?:: Den bliver gram-positiv
 <!--SR:!2026-09-16,4,270-->
+- Er svampe kønnet eller ukønnet?:: det varierer

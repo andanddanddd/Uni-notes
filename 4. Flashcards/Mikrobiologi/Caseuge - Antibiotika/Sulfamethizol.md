@@ -7,4 +7,4 @@
 - Hvilken type bakterier bruegs sulfamethizol imod?:: [[Gram-negative bakterier]]
 <!--SR:!2026-09-26,14,290-->
 - Hvilket stof kombineres sulfamethizol ofte med?:: [[Trimethoprim]]
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-23,9,250-->

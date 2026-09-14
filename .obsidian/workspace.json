@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Meningitis.md",
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Meningitis"
+              "title": "Forelæsning - Svampeinfektioner"
             }
           }
         ],
@@ -67,9 +67,20 @@
               "icon": "lucide-file-text",
               "title": "Slides - Bakteriel meningitis 5. semester"
             }
+          },
+          {
+            "id": "2590adddf156d7dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Bachelor 2026 Svampeinfektioner"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -255,16 +265,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "151b3cfb1fafab68",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
+    "Skimmelsvampe.md",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Svampe.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Candida spp+.md",
+    "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Meningitis.md",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/msoB417.tmp",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/DNA og mRNA-baseret vacciner (tjek).md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Ikke-levende vacciner (tjek).md",
-    "Subunitvacciner.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Subunitvacciner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans (tjek).md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Levende svækkede vacciner.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinetiming.md",
@@ -277,7 +292,6 @@
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.ppt",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme/mso38F6.tmp",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis",
-    "Externe dokumenter/MIkrobiologi/New folder",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pyogenes+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Scarletina.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Enterotoksigene Escherichia coli (ETEC)+.md",
@@ -289,9 +303,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Gammaherpesvirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/EBV.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Herpesvirus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Betaherpesvirus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/HHV-6.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/CMV.md",
     "Billeder/Mikrobiologi/Pasted image 20260909134245.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140317.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140118.png",
