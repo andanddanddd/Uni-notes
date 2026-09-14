@@ -2,7 +2,9 @@
 
 Skimmelsvamp
 Kan give allergi
-Okstern ottit
+
 
 - Hvad er aspergillus overordnet?:: En skimmelsvamp ([[Skimmelsvampe]])
-- Hvilken infektion giver aspergillus oftest?:: Ekstern otitis
+- Hvilken infektion giver aspergillus oftest?:: Ekstern otitis ![[Pasted image 20260914142518.png]]
+- Hvordan påvirker aspergillus raske mennesker?:: De bliver typisk ikke syge men de kan give allergi og indgår derfor i pollental
+- Hvornå

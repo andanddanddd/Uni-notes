@@ -11,4 +11,4 @@ Pseudohyfer er noget hvor de stadig sidder lidt fast
 
 ![[Skimmelsvampe]]
 
-![[Behandling af svampeinfektioner]]
+![[Svampemidler]]
