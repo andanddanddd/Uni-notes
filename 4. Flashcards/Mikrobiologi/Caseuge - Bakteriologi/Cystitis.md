@@ -13,7 +13,7 @@
 ?
 - [[Escherichia coli+]] særligt [[Extraintestinal Pathogenic E. coli (ExPEC)+]]
 - [[Staphylococcus saprophyticus]]
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-25,11,270-->
 
 - Hvorfor får indlagte ofte cystitis?
 ?
@@ -55,7 +55,7 @@
 
 ## Behandling
 - Hvordan behandles simpel cystitis som udgangspunkt?:: [[Pivmecillinam]]
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-16,2,250-->
 - Udover [[Pivmecillinam]] hvad kan så bruges til behandling af cystitis?
 ?
 - [[Ciprofloxacin]]

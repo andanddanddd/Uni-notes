@@ -8,7 +8,7 @@
 
 ## Smitte
 - Hvor findes streptococcus pyogenes normalt?:: Den kan findes på hud og ofte i næseborene om vinteren
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
 <!--SR:!2026-09-27,15,290-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
@@ -66,4 +66,4 @@
 - Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)
 <!--SR:!2026-09-13,4,270-->
 - Hvorfor er det vigtigt at fortsætte en antibiotikakur imod S. pyogenes?:: Ellers er der risiko for komplikationer ([[Reumatisk feber]] og [[Glomerulonephritis]])
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->

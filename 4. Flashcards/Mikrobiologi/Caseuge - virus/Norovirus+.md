@@ -9,4 +9,4 @@
 - Hvad kaldes norovirus også?:: Roskildesyge
 <!--SR:!2026-09-14,4,270-->
 - Hvordan smitter norovirus?:: Fæcal-oralt mellem mennesker
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-30,16,290-->

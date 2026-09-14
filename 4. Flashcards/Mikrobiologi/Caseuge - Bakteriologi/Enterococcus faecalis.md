@@ -2,7 +2,7 @@
 
 
 - Hvor findes E. faecalis normalt?:: Tarm og urinveje
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-23,9,250-->
 - Hvordan spreder E. faecalis sig?:: Typisk igennem hænder (men det kan også være objekter)
 <!--SR:!2026-09-13,4,270-->
 - Hvor sker de fleste tilfælde af E. faecalis henne?:: Hospitaler
@@ -14,7 +14,7 @@
 - Endocarditis
 - Intra-abdominale abscesser
 - [[Bacterieæmi]]
-<!--SR:!2026-09-14,2,230-->
+<!--SR:!2026-09-14,1,250-->
 
 - Hvilke patogenesefaktorer har E. faecalis?
 ?
@@ -30,4 +30,4 @@
 - Hvordan behandles med [[Aminoglykosider]] når E. faecalis egentlig er resistent?:: Det gives sammen med penicilin så membranen ødelægges lidt så Aminoglykosiderne kan trænge igennem
 <!--SR:!2026-09-13,4,270-->
 - Hvilken nyere antibiotika bruges til behanlding af E. faecalis?:: [[Linezolid]]
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-16,2,250-->

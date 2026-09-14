@@ -11,7 +11,7 @@
 - Hvordan kommer salmonella ind i cellerne i tarmen?:: De kommer ind i [[M-celler]] via "ruffling" dvs de selv inducere fagocytose af dem selv
 <!--SR:!2026-09-14,2,230-->
 - Hvad sker ofte med salmonella når det kommer igennem M-cellerne?:: Det indtræder i blodbanen
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 
 ![[Non-tyfoid salmonella]]
 

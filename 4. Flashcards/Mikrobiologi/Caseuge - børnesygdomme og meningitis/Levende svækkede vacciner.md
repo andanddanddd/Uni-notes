@@ -13,4 +13,4 @@
 - De kan give symptomer og infektioner
 - De kan udløse overfølsomhedreaktioner
 - De skal håndteres meget påpasseligt for ikke at dræbe mirkoorganismerne
-<!--SR:!2026-09-13,9,250-->
+<!--SR:!2026-10-07,23,250-->

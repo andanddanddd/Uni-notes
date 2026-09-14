@@ -7,7 +7,7 @@
 - Hvorfor virker penicilin ikke mod [[Mycoplasma]]?:: De har ingen murein
 <!--SR:!2026-09-22,16,290-->
 - Hvad hedder svampen der først producerede penicilin?:: Penicillium
-<!--SR:!2026-09-13,7,250-->
+<!--SR:!2026-10-09,25,270-->
 - Hvorfor var penicil svært at fremstille syntetisk?:: Det nedbrydes nemt
 <!--SR:!2026-09-24,16,290-->
 - Hvad sker med penicilins effekt når concentrationen øges?:: Penicilin skal bare være over en hvis concentration for det virker, det virker ikke bedre over den concentration

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvorfor giver B. cereus nogle gange primært opkast og nogle gange primært diarre?:: Hvis der allerede er toksin i maden giver det opkastningsformen og hvis der i stedet er levende bakterier som selv skal danne toksin giver det diarreformen
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 ## Opkastningsformen
 - Hvad kaldes opkastningsformen af madforgiftning grundet B. cereus?:: Fried rice syndrom
 <!--SR:!2026-09-13,4,270-->

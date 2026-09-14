@@ -3,7 +3,7 @@
 ## Generalt
 - Hvilken gruppe af bakterier har shigella udviklet sig fra [[Escherichia coli+]]
 - Hvor i tarmen inficere shigella?:: Colon
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-25,11,270-->
 - Hvor bevægelige er shigella?:: Det er de ikke (de har ingen flaggel)
 <!--SR:!2026-09-14,4,270-->
 
