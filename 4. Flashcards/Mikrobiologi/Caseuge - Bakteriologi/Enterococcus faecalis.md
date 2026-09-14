@@ -4,7 +4,7 @@
 - Hvor findes E. faecalis normalt?:: Tarm og urinveje
 <!--SR:!2026-09-23,9,250-->
 - Hvordan spreder E. faecalis sig?:: Typisk igennem hænder (men det kan også være objekter)
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvor sker de fleste tilfælde af E. faecalis henne?:: Hospitaler
 <!--SR:!2026-09-19,7,250-->
 - Hvilke infektioner giver enterocuccus faecalis?
@@ -20,7 +20,7 @@
 ?
 - [[Biofilm]]
 - Cytolysin
-<!--SR:!2026-09-14,2,230-->
+<!--SR:!2026-09-14,1,250-->
 
 ## Behandling
 - Hvilken effekt har penicilin på E. faecalis?:: Det er kun bakteriestatisk

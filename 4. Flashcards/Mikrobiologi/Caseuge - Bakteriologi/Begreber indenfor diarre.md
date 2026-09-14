@@ -3,7 +3,7 @@
 - Hvad er gastroenteritis?:: Akut diarra, oftest ledsaget af opkastning og maesamerter
 <!--SR:!2026-09-13,4,270-->
 - Hvad er diarre?:: 3 eller mere vandtynde afføringer pr døgn
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvad er akut diarre?:: Diarre der har varet mindre end en uge
 <!--SR:!2026-09-13,4,270-->
 - Hvad er persisterende diarre?:: Diarre der har varet mellem 7 og 28 dage

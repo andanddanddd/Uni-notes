@@ -17,9 +17,9 @@
 - Hvad sker men shigella i mavesækken?:: De stopper med at replicere med de dør ikke
 <!--SR:!2026-09-13,3,250-->
 - Hvordan kommer shigella fra en celle til en anden?:: Den udskiller IcsA hvilket rearrangere aktin bag bakterien, det får aktin til aggere moter der skubber shigella ind i nabocellen (dvs shigella ender inde i 2 membraner i den nye celle, 1 fra den gamle og 1 fra den nye celle
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvordan kan shigella komme ind i entercytter?:: Igennem den basolaterale side eller fra en anden enterocyt af
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvorfor er det smart for shigella at forårsage inflammation?:: Det løsner tight junktions så shigella kan komme igennem og finde den basolaterale overflade af enterocytter
 <!--SR:!2026-09-14,4,270-->
 - Hvad kendetegner tilstanden af shigella når den udskilles via afføring?:: Den er i sin syreresistente tilstand så den nemmere kan inficere en ny person
@@ -40,7 +40,7 @@
 <!--SR:!2026-09-14,4,270-->
 
 - Hvordan kendes forskel på de 4 typer shigella?:: [[O-antigen]]
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-30,16,290-->
 [[S. sonnei+]]
 [[S. flexneri]]
 - Hvilken art af shigella giver værst diarre?:: [[Shigella dysenteriae]]

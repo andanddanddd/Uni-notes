@@ -13,4 +13,4 @@
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter
 <!--SR:!2026-09-14,2,230-->
 - Hvilken effekt har antibiotika på madforgiftning grundet C. perfringens?:: Ingen
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-25,11,270-->
