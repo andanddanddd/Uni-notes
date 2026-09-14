@@ -2,11 +2,11 @@
 
 
 - Hvor mange E. coli giver sygdom?:: Ikke særlig mange de fleste er en del af vores normalflora
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvilken type cellevæg har E. coli?:: Gram negativ ([[Gram-negative bakterier]])
 <!--SR:!2026-09-13,4,270-->
 - Hvilken form har E. coli?:: Stav
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-28,14,290-->
 - Hvor bevægelige er E.coli?:: Nogle er bevægelige nogle er ikke
 <!--SR:!2026-09-29,15,290-->
 - Hvilket oxidativt miljø lever E. coli bedst i?:: De er fakultative anaerobe

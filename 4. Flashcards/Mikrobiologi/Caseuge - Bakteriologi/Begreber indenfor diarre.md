@@ -9,7 +9,7 @@
 - Hvad er persisterende diarre?:: Diarre der har varet mellem 7 og 28 dage
 <!--SR:!2026-09-29,15,290-->
 - Hvad er kronisk diarre?:: Diarre i mere end 4 uger
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->
 - Hvad er samfundserhvervet diarre?:: Diarre, hvis smitte er fra noget i verden, eks mad (dette involvere også rejsereleteret diarre
 <!--SR:!2026-09-13,4,270-->
 - Hvad er nosokomiel diarre?:: Diarre der kommer fra et hospital
@@ -23,4 +23,4 @@
 - [[Præformeret toksin (gastroenteritis)]]
 - [[Sekretorisk enteritis]]
 - [[Inflammatorisk enterocolitis]]
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-30,16,290-->

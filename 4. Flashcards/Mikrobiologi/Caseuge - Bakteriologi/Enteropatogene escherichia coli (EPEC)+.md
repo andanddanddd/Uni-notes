@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvem bliver typisk inficeret med EPEC?:: Børn under 2 år
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-25,11,270-->
 - Hvad gør EPEC overordnet i tyndtarmen?:: Sætter sig løst på enterocytter, injicere et overfladeprotein (TIR) ind i cellen hvilket dræber mikrovili og tillader EPEC at sidde bedre fast
 <!--SR:!2026-09-14,4,270-->
 - Hvor længe varer en EPEC infektion?:: længe men progosen er god

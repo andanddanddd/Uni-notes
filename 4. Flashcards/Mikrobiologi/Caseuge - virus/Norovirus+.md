@@ -7,6 +7,6 @@
 - Hvilke symptomer har norovirus?:: Akut indtrædelse af kvalme + opkastning, vandig diarre og mavekramper (evt let feber, hovedpine og muskelsmerter)
 <!--SR:!2026-09-14,4,270-->
 - Hvad kaldes norovirus også?:: Roskildesyge
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvordan smitter norovirus?:: Fæcal-oralt mellem mennesker
 <!--SR:!2026-09-30,16,290-->

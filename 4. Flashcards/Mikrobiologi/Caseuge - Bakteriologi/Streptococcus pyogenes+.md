@@ -37,7 +37,7 @@
 - Hvilken effekt har det at S. pyogenes har hyaluronsyre i sin kapsel?:: Det ligner mere eukaryote celler dermed har komplement sværre ved at se det
 <!--SR:!2026-09-28,16,290-->
 - Hvad gør streptolysin?:: Lysere erytrocytter
-<!--SR:!2026-09-14,2,250-->
+<!--SR:!2026-09-21,7,270-->
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
 <!--SR:!2026-09-19,7,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM

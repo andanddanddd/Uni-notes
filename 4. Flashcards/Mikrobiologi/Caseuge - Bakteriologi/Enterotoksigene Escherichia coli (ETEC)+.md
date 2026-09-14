@@ -12,7 +12,7 @@
 <!--SR:!2026-09-14,4,270-->
 ## Toksinerne
 - Hvad gør LT overordnet?:: Øger cAMP
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvad gør ST overordnet?:: Øger cGMP
 <!--SR:!2026-09-14,4,270-->
 - Hvordan håndtere LT varme?:: Den er varmelabil (heat-Labil-Toxin)

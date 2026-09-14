@@ -11,7 +11,7 @@
 - Hvordan er patogenesen af shigella overordnet?:: Invadere colon igennem [[M-celler]], her undslipper den vakuolen og deler sig intracellulært før den bevæger sig ind i naboceller
 <!--SR:!2026-09-13,3,250-->
 - Hvordan smitter shigella?:: Fækal-oralt mellem mennesker (typisk via kontaminere mad eller vand)
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvad kendetegner smitte med shigella?:: Der skal meget få bakterier til at inficere et menneske (hundrede til et par tusind)
 <!--SR:!2026-09-14,4,270-->
 - Hvad sker men shigella i mavesækken?:: De stopper med at replicere med de dør ikke
@@ -23,9 +23,9 @@
 - Hvorfor er det smart for shigella at forårsage inflammation?:: Det løsner tight junktions så shigella kan komme igennem og finde den basolaterale overflade af enterocytter
 <!--SR:!2026-09-14,4,270-->
 - Hvad kendetegner tilstanden af shigella når den udskilles via afføring?:: Den er i sin syreresistente tilstand så den nemmere kan inficere en ny person
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-28,14,290-->
 - Hvilke 2 måder kan shigella nå hen til den basolaterale side af enterocytter?:: Igennem [[M-celler]] eller ved at slippe mellem enterocytterne når inflammation er sket
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-30,16,290-->
 ![[Pasted image 20260909114924.png]]
 ## Symptomer og behandling
 - Hvordan behandles shigella?:: Typisk væske og elektrolytter men til tider antibiotika

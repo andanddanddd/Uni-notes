@@ -9,4 +9,4 @@
 - Hvilke "bakterier" kan give gastroenteritis forårsaget af et præformeret toksin?:: [[S. aureus enterotoxin]] eller [[Bacillus cereus]]
 <!--SR:!2026-09-16,2,230-->
 - Hvorfor behandles der ikke med antibiotika i gastroenteritis forårsaget af et præformeret toksin?:: Der er ingen bakterier og det går over så hurtigt at man ikke når at give det
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-29,15,290-->

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken form har Y. enterocolitica?:: Stav
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-09-28,14,290-->
 - Hvilken type cellevæg har Y. enterocolitica?:: Gram negativ [[Gram-negative bakterier]]
 <!--SR:!2026-09-22,8,250-->
 - I hvilket oxidativt miljø lever Y. enterocolitica?:: Den er fakultativ anaerob
