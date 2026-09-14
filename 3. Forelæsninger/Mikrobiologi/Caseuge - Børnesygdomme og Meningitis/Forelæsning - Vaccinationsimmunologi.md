@@ -4,6 +4,7 @@
 
 Vi er ikke inddækket på hele pneumokokspektret
 Tilbagemutation = revetere
+Nanopartikel vs vektor
 
 ![[Immunisering]]
 
