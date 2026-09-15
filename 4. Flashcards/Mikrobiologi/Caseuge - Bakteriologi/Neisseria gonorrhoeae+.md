@@ -20,7 +20,7 @@ Methylblot på slide 8
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
 
 Stiger i tilfælde
-Opa-proteiner -> inducere fagocytose
+
 Overlever godt i neutrofile granulocytter
 Kvinder kan nemt have den i rectum uden at have haft analsex (den er ikke en del af normalflora) 
 Laver bacteriæmi men ikke sepsis

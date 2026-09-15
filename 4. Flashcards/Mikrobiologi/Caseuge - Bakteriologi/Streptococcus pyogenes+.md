@@ -14,7 +14,7 @@
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
 <!--SR:!2026-09-28,16,290-->
 
-## Patogenesefaktorer
+## Patogenese
 - Hvorfor bliver S. pyogenes ikke "skyldes" væk i pharynx?
 ?
 - M-protein binder til keratinocytter
