@@ -12,3 +12,5 @@
 <!--SR:!2026-09-16,4,270-->
 - Er svampe kønnet eller ukønnet?:: det varierer
 <!--SR:!2026-09-19,4,270-->
+- Hvad er en hyfe?:: En streng svampeceller med sammenhængende cellevæg
+- Hvad er en pseudohyfe?:: Svampeceller der ligger i forlængelse af hinanden men med små indsmøringer mellem cellerne og derfor ligner en hyfe men uden en sammenhængende cellevæg
