@@ -3,6 +3,7 @@
 
 ![[Svampe]]
 
+![[Oppertunistiske svampe]]
 
 Pseudohyfer er noget hvor de stadig sidder lidt fast
 

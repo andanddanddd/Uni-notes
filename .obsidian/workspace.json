@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skimmelsvampe.md",
+                "file": "Oppertunistiske svampe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skimmelsvampe"
+              "title": "Oppertunistiske svampe"
             }
           }
         ],
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -256,8 +255,9 @@
   },
   "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Skimmelsvampe.md",
+    "Oppertunistiske svampe.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Svampeinfektioner/Forelæsning - Svampeinfektioner.md",
+    "Skimmelsvampe.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Aspergillus.md",
     "Svampemidler.md",
     "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf",
