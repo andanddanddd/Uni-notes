@@ -15,3 +15,15 @@
 - Misbrug (alkohol eller euforiserende stoffer)
 - 15-24 år (alder)
 
+- Hvilke seksuelt overførte sygdomme får folk i lav-risikogrupper oftest?
+?
+- [[Chlamydia trachomatis+]]
+- Herpes
+- [[Neisseria gonorrhoeae+]]
+- [[HPV]]
+
+- Hvilke seksuelt overførte sygdomme får kun dem der udøver høj-risiko adfærd?
+?
+- [[Syfilis]]
+- [[human immunodeficiency virus (HIV)+]]
+- [[Hepatitis]] (A,B,C)
