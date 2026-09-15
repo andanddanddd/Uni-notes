@@ -7,7 +7,7 @@
 <!--SR:!2026-09-20,15,290-->
 
 - Hvorfor kan det være et problem at opregulere de specifikke epitoper som er nemmest at lave adaptiv respons imod?:: Man kan risikere at danne et peptid som ikke kan præsenteres på de specifikke HLA molekyler som et individ har
-<!--SR:!2026-09-15,10,270-->
+<!--SR:!2026-10-24,39,290-->
 - Hvorfor er det til tider nødvendigt at kunjugere epitopet fra patogenet?:: Hvis det er et kulhydrat skal det sættes sammen med et protein
 <!--SR:!2026-09-16,11,270-->
 - Hvad bruges ikke-levende vacciner til? - Bakterieangreb

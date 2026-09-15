@@ -5,7 +5,7 @@
 - Hvad sker med C. perfringens når det bliver varmt?:: Bakterier dør men spore overlever (Som så kan vækste når maden køles ned)
 <!--SR:!2026-09-28,14,290-->
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-10-01,16,290-->
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
 <!--SR:!2026-09-29,15,290-->
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer

@@ -9,4 +9,4 @@
 - Hvad gør urease?:: Neutralisere syre omkring bakterien
 <!--SR:!2026-09-29,15,290-->
 - Hvor ofte fører H. pylori til en ulcussygedom?:: I 10-15% af smittede
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-10-01,16,290-->

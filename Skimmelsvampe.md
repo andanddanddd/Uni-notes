@@ -5,6 +5,7 @@
 - Hvem får oftest systemiske infektioner med skimmelsvampe?:: Immunkomprimiterede
 - Hvilke infektioner giver skimmelsvampe oftest?:: Hud, hår og neglesvamp
 - Hvilke ikke overfladiske infektioner giver skimmelsvampe oftest?:: Lungeinfektioner og infektioner i bihulerne
+<!--SR:!2026-09-19,4,270-->
 - Hvilker toksin kan nogle skimmelsvampe lave der kan være i fødevarer?:: aflatoxin
 
 

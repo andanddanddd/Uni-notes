@@ -48,7 +48,7 @@
 <!--SR:!2026-09-24,10,270-->
 
 - Hvad menes med dysuri?:: Svie eller smerte under vandladning
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-10-01,16,290-->
 - Hvad er pollakisuri?:: Hyppig vandladning
 <!--SR:!2026-09-30,16,290-->
 

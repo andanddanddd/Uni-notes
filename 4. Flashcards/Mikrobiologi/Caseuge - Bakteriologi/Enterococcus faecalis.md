@@ -14,7 +14,7 @@
 - Endocarditis
 - Intra-abdominale abscesser
 - [[Bacterieæmi]]
-<!--SR:!2026-09-15,1,230-->
+<!--SR:!2026-09-18,3,250-->
 
 - Hvilke patogenesefaktorer har E. faecalis?
 ?

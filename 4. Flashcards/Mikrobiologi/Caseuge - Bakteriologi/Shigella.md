@@ -37,7 +37,7 @@
 - Feber
 - Mavekramper
 - Diarre (evt blodigt eller slimet)
-<!--SR:!2026-09-14,4,270-->
+<!--SR:!2026-10-01,16,290-->
 
 - Hvordan kendes forskel på de 4 typer shigella?:: [[O-antigen]]
 <!--SR:!2026-09-30,16,290-->

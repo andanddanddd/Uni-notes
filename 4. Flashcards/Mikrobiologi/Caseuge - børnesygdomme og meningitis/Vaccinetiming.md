@@ -4,7 +4,7 @@
 ?
 - Hvis de har passiv immunitet fra moren virker vaccinen ikke
 - Babyer laver ikke gode Th1 og memory-T-celleresponer
-<!--SR:!2026-09-15,11,270-->
+<!--SR:!2026-10-26,41,290-->
 
 - Hvor længe går der mellem at man må vacciner med levende svækkede vacciner?:: 3 uger
 <!--SR:!2026-09-19,14,290-->

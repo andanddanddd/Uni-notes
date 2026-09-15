@@ -3,4 +3,4 @@
 - Hvor samler azithromycin sig?:: Makrofager og andre leukocytter dermed ender der med høje koncentrationer i vævet
 <!--SR:!2026-09-22,15,290-->
 - Hvad bruges azithromycin til?:: Genitalinfektioner
-<!--SR:!2026-09-15,7,230-->
+<!--SR:!2026-10-02,17,230-->

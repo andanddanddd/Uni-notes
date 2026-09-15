@@ -5,7 +5,7 @@
 - [[Lipid A]]
 - Kernen [[Kernen af LPS]]
 - [[O-antigen]]
-<!--SR:!2026-09-15,11,270-->
+<!--SR:!2026-10-25,40,290-->
 
 - Hvilken del af LPS gør den polær?:: [[O-antigen]]
 <!--SR:!2026-09-21,16,290-->
