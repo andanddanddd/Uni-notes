@@ -2,12 +2,20 @@
 
 Methylblot på slide 8
 
-
+## Generalt
 - Hvilken sygdom giver N. gonorrhaeae?:: Gonoré
 - Hvilken form har N. gonorrhoaea?:: Kokker (bønneformede)
 - Hvordan er lejringen af N. gonorrhoaea?:: Diplokokker
 - Hvilken vækstmedie gror man typisk N. gonorrhoaea på?:: [[Chokoladeagerplader]]
-- 
+
+## Patogenese
+- Hvilke patogenesefaktorer har N. gonorrhoaea?
+?
+- Pili
+- [[Opa-proteiner]]
+- IgA protease
+
+![[Pasted image 20260915094444.png]]
 
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
 
