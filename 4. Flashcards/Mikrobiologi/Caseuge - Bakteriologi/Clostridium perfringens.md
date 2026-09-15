@@ -7,7 +7,7 @@
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
 <!--SR:!2026-09-13,4,270-->
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
-<!--SR:!2026-09-13,4,270-->
+<!--SR:!2026-09-29,15,290-->
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer
 <!--SR:!2026-09-24,12,270-->
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter

@@ -9,7 +9,7 @@
 
 ## Patogenese 
 - Hvordan er patogenesen af shigella overordnet?:: Invadere colon igennem [[M-celler]], her undslipper den vakuolen og deler sig intracellulært før den bevæger sig ind i naboceller
-<!--SR:!2026-09-13,3,250-->
+<!--SR:!2026-09-25,11,270-->
 - Hvordan smitter shigella?:: Fækal-oralt mellem mennesker (typisk via kontaminere mad eller vand)
 <!--SR:!2026-09-29,15,290-->
 - Hvad kendetegner smitte med shigella?:: Der skal meget få bakterier til at inficere et menneske (hundrede til et par tusind)
