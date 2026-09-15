@@ -2,6 +2,8 @@
 
 Methylblot på slide 8
 
+- Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
+
 Stiger i tilfælde
 Opa-proteiner -> inducere fagocytose
 Overlever godt i neutrofile granulocytter

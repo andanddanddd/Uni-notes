@@ -1,8 +1,5 @@
 #flashcards/5/Mikrobiologi 
 
-Skimmelsvamp
-Kan give allergi
-
 
 - Hvad er aspergillus overordnet?:: En skimmelsvamp ([[Skimmelsvampe]])
 <!--SR:!2026-09-19,4,270-->
