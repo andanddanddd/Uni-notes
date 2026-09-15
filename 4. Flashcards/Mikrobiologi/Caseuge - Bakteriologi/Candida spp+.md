@@ -18,9 +18,13 @@
 <!--SR:!2026-09-16,4,270-->
 
 - Hvem får oftest candida eosephagitis?:: Kvinder i den fertile alder, immunsvækkede og folk efter de har fået antibiotikabehandling
+<!--SR:!2026-09-19,4,270-->
 - Hvem får oftest oral candidiasis?:: Spædbørn, ældre, immunsvækkede og folk efter de har fået antibiotikabehandling
+<!--SR:!2026-09-19,4,270-->
 - Hvem får oftest candida intertrigo?:: Ældre (og andre der har fugtige hudfolder)
+<!--SR:!2026-09-19,4,270-->
 - Hvem får oftest candida vaginitis/balanitis?:: Ældre eller folk der har haft en antibiotikabehandling
+<!--SR:!2026-09-19,4,270-->
 
 Meget dødelig hvis de når blodbanen
 
