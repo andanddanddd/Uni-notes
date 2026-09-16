@@ -9,7 +9,8 @@
 - Hvad er sandsynligheden for at en person med T. pallidum giver det videre?:: 30% pr samleje
 - Hvordan smitter treponema pallidum?:: Ved samleje (særlig anal eller oralsex) eller potentielt fra mor til barn (det kan også smittes gennem blodtransfusioner men det screenes der for)
 - Hvor "bor" syfilis normalt?:: Kun mennesker
-- Hvorfor kan en syfilisinfektion øge risikoen for [[]]
+- Hvorfor kan en syfilisinfektion øge risikoen for [[human immunodeficiency virus (HIV)+]]?:: Det giver sår og øger antallet af CD4+ celler (dem HIV inficere)
+- Hvornår smitter T. pallidum mest?:: Under [[Sekundær syfilis]]
 
 ## Diagonse og behandling
 - Hvordan behandles T. pallidum?:: [[Penicilin]]
