@@ -30,7 +30,7 @@
 
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
 - Hvor kan clamydia sprede sig hen fra vagina?:: Rectum og højre op dvs det kan give [[Endometritis]] og [[Pelvic inflammatory disease (PID)]]
-- Hvilken type cancer kan kvinder med 
+- Hvilken type cancer kan kvinder med tidligere C. trachomatis infektion være i øget risiko for at få?:: Ovariecancer
 - ![[Trachoma]]
 ## Diagnostik/behandling
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
@@ -44,6 +44,8 @@
 - Bindehinden
 
 - Hvordan behandles en infektion med C. trachomatis?:: [[Doxycyklin]] eller [[Azithromycin]]
+- Hvorfor er det vigtigt at en clamydiabehandling varer "længe" clamydia deler sig langsomt
+- Hvilke særlige "krav" er der til antibiotika mod clamydia?:: Det skal kunne komme igennem vores egne celler
 
 Symptomer kommer langsomt eftersom det tager lang tid for bak at dele sig
 
