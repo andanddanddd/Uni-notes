@@ -4,6 +4,7 @@
 - Hvad kaldes viruskaplsen?:: Kapsid
 - Hvad består en virus overordnet af?:: Nukleinsyre inde i en proteinkapsel
 - Hvor i virus findes glukoproteiner?:: Udenpå kapslen eller lipidmembranen hvis den har sådan en (de er ikke begge steder på en gang)
+- Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
 
 ![[Virus genom]]
 
