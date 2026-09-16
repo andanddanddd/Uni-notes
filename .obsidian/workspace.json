@@ -6,7 +6,7 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 36.911121903836815,
+        "dimension": 52.112676056338024,
         "children": [
           {
             "id": "7b6da53110599ba7",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neisseria meningitidis+.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria gonorrhoeae+.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,6 +29,20 @@
                 }
               },
               "icon": "lucide-file",
+              "title": "Neisseria gonorrhoeae+"
+            }
+          },
+          {
+            "id": "37235a9c3d0dd224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neisseria meningitidis+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
               "title": "Neisseria meningitidis+"
             }
           }
@@ -37,7 +51,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 63.08887809616318,
+        "dimension": 47.88732394366197,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -134,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -264,8 +279,10 @@
   "lastOpenFiles": [
     "Neisseria.md",
     "Neisseria meningitidis+.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria gonorrhoeae+.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
+    "Lipooligosaccharide (LOS).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Lipopolysakkarid (LPS).md",
     "Pelvic inflammatory disease (PID).md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Seksuelt overførte sygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Treponema pallidum.md",
@@ -290,8 +307,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Svampeinfektioner/Svampemidler.md",
     "Billeder/Mikrobiologi/Pasted image 20260914142518.png",
     "Billeder/Mikrobiologi/Pasted image 20260915094444.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - Svampeinfektioner/Skimmelsvampe.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
     "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",

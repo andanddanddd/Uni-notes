@@ -11,7 +11,7 @@
 - Hvad hedder området mellem de 2 doppeltlipidlag i en gram-negativ bakterier?:: [[Det periplasitiske rum]]/periplasma
 <!--SR:!2026-10-31,45,290-->
 
-![[Lipopolysakkarid]]
+![[Lipopolysakkarid (LPS)]]
 
 [[Neisseria]]
 

@@ -14,7 +14,7 @@ Methylblot på slide 8
 
 ## Smitte
 
-- Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder)
+- Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder), det kan IKKE smitte fra objekter eks tiletbræt
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
@@ -39,14 +39,16 @@ Kan give blivende bruskskade
 
 - Hvad sker når N. gonorrhoae går i blodbanen?:: Det giver bakteriæmi men ikke sepsis
 - Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt 
-- Hvad kaldes tilstanden når N. gonorrhoeae når uterus og æggelederene?:: [[Pelvic inflammatory disease (PID)]]
+- Hvad kaldes tilstanden når N. gonorrhoeae når adnexa?:: [[Pelvic inflammatory disease (PID)]]
 - Hvilken tilstand kan det give hvis N. gonorrhoeae bevæger sig "dybere" i en mand:: [[Epididymidis]]
+- Hvad sker overordnet hvis man for N. gonorrhoeae fra oralsex?:: Det giver usymptomatisk pharyngitis
 
 ![[Ophthalmia neonatorum]]
 ## Diagnostik og behandling
 - Hvordan tester man typisk for gonorré?:: PCR-test
 - Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
 - Hvorfor poder man mange steder fra når man skla dyrke N. gonorrhoeae?:: Den er svær at dyrke
+- Hvorfor er N. gonorrhoeae ofte resistent?:: Den kan optage resistente plasmider fra andre [[Neisseria]]-arter
 - Hvor kan man pode for at få en dyrkning af N. gonorrhoeae?
 ?
 - Urethra

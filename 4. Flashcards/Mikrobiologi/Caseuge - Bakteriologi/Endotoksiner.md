@@ -2,7 +2,7 @@
 
 - Hvilke bakterier "udskiller" endotoksiner?:: [[Gram-negative bakterier]]
 <!--SR:!2026-09-21,15,290-->
-- Hvad er endotoksiner?:: [[Lipopolysakkarid]]
+- Hvad er endotoksiner?:: [[Lipopolysakkarid (LPS)]]
 <!--SR:!2026-09-22,16,290-->
 - Hvad gør endotoksiner?:: Stimulere cytokinproduktion
 <!--SR:!2026-10-18,32,270-->

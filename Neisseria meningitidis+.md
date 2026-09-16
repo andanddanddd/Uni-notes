@@ -2,4 +2,4 @@
 
 - Hvilke sygdomme giver N. meningitidis?:: [[sepsis]] og [[Meningitis]]
 - Hvor starter en N. meningitidis infektion?:: Øvre luftvejsslimhinder
-- Hvad secenere N. meningitidis?:
+- Hvad secenere N. meningitidis?::  [[Lipooligosaccharide (LOS)]]
