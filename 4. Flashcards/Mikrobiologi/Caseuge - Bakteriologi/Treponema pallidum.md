@@ -15,3 +15,4 @@
 ## Diagonse og behandling
 - Hvordan behandles T. pallidum?:: [[Penicilin]]
 - Hvad er en gammel alternativ behandling til T. pallidum?:: Feber terapi (den kan ikke tåle varme)
+- Hvordan diagnosticeres syfilis idag?:: Antigentest
