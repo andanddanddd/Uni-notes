@@ -1,5 +1,7 @@
 #flashcards/5/Mikrobiologi 
-[[Slides - Virus struktur, genetik og klassifikation 2026.pdf]]
+[[Slides - Virus struktur, genetik og klassifikation 2026.pdf]] [[Virus]]
+
+![[Virus struktur]]
 
 PLaye-assaey = en virus pr hul
 Der var nok allerede virus da den først eprotocelle kom frem

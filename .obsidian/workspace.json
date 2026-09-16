@@ -9,59 +9,20 @@
         "dimension": 52.112676056338024,
         "children": [
           {
-            "id": "7b6da53110599ba7",
+            "id": "2019f3fddb160bd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia trachomatis+.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chlamydia trachomatis+"
-            }
-          },
-          {
-            "id": "35bfc0f0e6837f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Clamydia.md",
+                "file": "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clamydia"
-            }
-          },
-          {
-            "id": "1c7ac16ff96f2656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Fag/Mikrobiologi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mikrobiologi"
+              "title": "Virus struktur"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -81,27 +42,15 @@
             }
           },
           {
-            "id": "79f05f956c6825be",
+            "id": "6c1865ade46ebfdc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - sexuelle_sygdome_E26.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - sexuelle_sygdome_E26"
-            }
-          },
-          {
-            "id": "2590adddf156d7dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Svampe/Slides - Bachelor 2026 Svampeinfektioner.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Bachelor 2026 Svampeinfektioner"
+              "title": "Slides - Virus struktur, genetik og klassifikation 2026"
             }
           }
         ],
@@ -167,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -293,37 +243,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c7ac16ff96f2656",
+  "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Virus.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
+    "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia pneumoniae.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Trachoma.md",
+    "Billeder/Mikrobiologi/Pasted image 20260916122223.png",
+    "Billeder/Mikrobiologi/Pasted image 20260916135344.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Proctitis.md",
+    "Billeder/Mikrobiologi/Pasted image 20260916125009.png",
+    "1. Fag/Mikrobiologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Treponema pallidum.md",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - sexuelle_sygdome_E26.pdf",
-    "Sekundær syfilis.md",
-    "Syfilis.md",
-    "Tærtier syfilis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Sekundær syfilis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Syfilis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Tærtier syfilis.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Seksuelt overførte sygdomme.md",
-    "Primær syfilis.md",
-    "Pasted image 20260916135344.png",
-    "Chlamydia pneumoniae.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Primær syfilis.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia trachomatis+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Clamydia.md",
-    "Chlamydia psittaci.md",
-    "Pasted image 20260916125009.png",
-    "Trachoma.md",
-    "Pasted image 20260916122223.png",
-    "1. Fag/Mikrobiologi.md",
-    "Neisseria.md",
-    "Dissminated intravascular coagulation (DIC).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia psittaci.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Dissminated intravascular coagulation (DIC).md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria gonorrhoeae+.md",
-    "Lipooligosaccharide (LOS).md",
-    "Neisseria meningitidis+.md",
-    "Gonoré.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Lipooligosaccharide (LOS).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria meningitidis+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gonoré.md",
     "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Lipopolysakkarid (LPS).md",
-    "Pelvic inflammatory disease (PID).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Pelvic inflammatory disease (PID).md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Risikofaktorer for seksuelt overførte sygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Doxycyklin.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Tetracykliner.md",
-    "Ophthalmia neonatorum.md",
     "Billeder/Mikrobiologi/Pasted image 20260916090616.png",
     "Billeder/Mikrobiologi/Pasted image 20260914142518.png",
     "Billeder/Mikrobiologi/Pasted image 20260915094444.png",
@@ -335,7 +287,6 @@
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/~$Slides - børnesygdomme 2026.ppt",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.ppt",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme/mso38F6.tmp",
     "Billeder/Mikrobiologi/Pasted image 20260909134245.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140317.png",
     "Billeder/Mikrobiologi/Pasted image 20260909140118.png",
