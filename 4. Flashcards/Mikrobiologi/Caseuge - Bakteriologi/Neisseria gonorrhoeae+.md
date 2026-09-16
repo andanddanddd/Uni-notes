@@ -14,10 +14,13 @@ Methylblot på slide 8
 
 ## Smitte
 
+- Hvor lever N. gonorrhoeae normalt?:: De lever kun i mennesker
 - Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder), det kan IKKE smitte fra objekter eks tiletbræt
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
+- Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
+<!--SR:!2026-09-20,4,270-->
 ## Patogenese
 Overlever godt i neutrofile granulocytter
 - Hvilke patogenesefaktorer har N. gonorrhoaea?
@@ -29,8 +32,8 @@ Overlever godt i neutrofile granulocytter
 
 ![[Pasted image 20260915094444.png]]
 
-- Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
-<!--SR:!2026-09-20,4,270-->
+- Hvorfor vil N. gonorrhoeae gerne være i neutrofile granulocytter?:: De har mange måder at undgå at dø derinde så de chiller bare og er beskyttet
+- Hvordan kan N. gomorrhoeae ændre sin pili?:: I dens DNA findes 1 egen
 
 ## Symptomer/komplikationer
 
@@ -48,6 +51,7 @@ Kan give blivende bruskskade
 - Hvordan tester man typisk for gonorré?:: PCR-test
 - Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
 - Hvorfor poder man mange steder fra når man skla dyrke N. gonorrhoeae?:: Den er svær at dyrke
+- Hvorfor kan immunsystemet nemt genkende N. gonorrhoeaes pili men uden at kunne lave et godt adaptivt respons imod det eller kunne bruge det i en vaccine?:: De varriere meget fra gonokok til gonokok
 - Hvorfor er N. gonorrhoeae ofte resistent?:: Den kan optage resistente plasmider fra andre [[Neisseria]]-arter
 - Hvor kan man pode for at få en dyrkning af N. gonorrhoeae?
 ?
