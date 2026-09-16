@@ -5,9 +5,14 @@
 - Hvilken type cellevæg har clamydia?:: Det minder mest om en gram-negativ men den har ingen murein så den er atypisk (den har murein ifølge bogen)
 - Hvor store er clamydia?:: Små
 - Hvad betyder autotrofisk?:: At en organisme ikke kan syntetisere et stof nødvendigt for vækst
+- Hvordan kommer clamydia ind i celler?:: Ved at sætte sig på overlafden og injicere (med [[Type III Sekretion]]) toksiner ind  cellen der inducere "endocytose" (eller fagocytose)
+- Hvordan undergår clamydia at blive dræbt at lysosomale stoffer?:: De ændre membranen af endosomet for at undgå fusion med lysosomet
+
 - Hvad kaldes en clamydia når den er ekstracellulær?:: Elementarlegeme
 - Hvad kaldes en clamydia når den er intracellulær?:: Retikulærlegeme'
-- Hvordan kommer clamydia ind i celler?:: Ved at sætte sig på overlafden og injicere (med [[Type III Sekretion]]) toksiner ind  cellen der inducere "endocytose" (eller fagocytose)
+- Hvad er forskellen på elementarlegeme og retikularlegeme?:: Retikularlegemet har et mer eløst kromosom så der kan ske traskribtion/DNA-replikation
+- Hvorfor er det ikke smart at have en extracellulær retikularlgeme? (fra bakteriens synspunkt):: Den er ikke osmotisk stabil nok og den kan ikke binde til celler
+- Hvordan omdannes et retikularlegeme til et elementarlegeme?:: Hver gang en clamydia deler sig bliver de lidt mindre, når de er små nok begynder de at omdanne sig
 
 ![[Pasted image 20260916122223.png]]
 
@@ -15,3 +20,4 @@
 [[Chlamydia pneumoniae]]
 [[Chlamydia psittaci]]
 
+![[Pasted image 20260916125009.png]]

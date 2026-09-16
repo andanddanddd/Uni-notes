@@ -7,6 +7,7 @@
 - Hvad er sansynligheden for at en person med C. trachomatis giver det videre?:: 25-59% pr samleje
 ## Patogenese
 - Hvor hurtigt deler clamydia sig?:: Det tager op til 40 timer
+- Hvad kaldes strukturen af mange clamydiaholdige endosomer der har fusioneret?:: Inklusion
 
 ## Symptomer/komplikationer
 - Hvad kendetegenr det udflåd der kan komme ud af penis ved en C. trachomatis infektion?:: Det er serøst
