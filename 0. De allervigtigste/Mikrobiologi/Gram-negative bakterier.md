@@ -9,7 +9,7 @@
 - Hvordan kan store hydrophile stoffer komme igennem cellevæg+membran på gramnegative bakterier?:: De har hver deres mekanisme
 <!--SR:!2026-09-20,15,290-->
 - Hvad hedder området mellem de 2 doppeltlipidlag i en gram-negativ bakterier?:: [[Det periplasitiske rum]]/periplasma
-<!--SR:!2026-09-16,12,270-->
+<!--SR:!2026-10-31,45,290-->
 
 ![[Lipopolysakkarid]]
 

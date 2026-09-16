@@ -11,7 +11,7 @@
 ?
 - [[Salmonella Typhimurium]]
 - [[Salmonella enteriditis+]]
-<!--SR:!2026-09-16,2,230-->
+<!--SR:!2026-09-21,5,230-->
 
 Hvilken type gastroenteritis giver non-tyfoid salmonella oftest?:: [[Inflammatorisk enterocolitis]]
 <!--SR:!2026-09-28,14,290-->

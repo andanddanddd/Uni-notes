@@ -7,6 +7,6 @@
 - Hvad kan abcsesser i cortex af nyren tyde på?:: At det er en sekundær infektion
 <!--SR:!2026-10-02,16,290-->
 - Hvordan kan diverse sten hjælpe bakterier i en UVI?:: De kan danne biofilm derpå
-<!--SR:!2026-09-16,4,270-->
+<!--SR:!2026-10-02,16,290-->
 
 ![[Prostatitis]]

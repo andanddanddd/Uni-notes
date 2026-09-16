@@ -1,7 +1,7 @@
 #flashcards/Molekulær-biologi #flashcards/5/Mikrobiologi 
 
 - Hvad er arkæer?:: En gammel form for bakterie
-<!--SR:!2026-09-16,15,290-->
+<!--SR:!2026-11-15,60,310-->
 - Hvor lever arkæer?:: I barske forhold
 <!--SR:!2026-09-19,14,290-->
 - Hvilke arkæer er pategene?:: Ingen
