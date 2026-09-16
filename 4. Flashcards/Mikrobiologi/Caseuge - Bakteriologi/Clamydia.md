@@ -5,6 +5,9 @@
 - Hvilken type cellevæg har clamydia?:: Det minder mest om en gram-negativ men den har ingen murein så den er atypisk (den har murein ifølge bogen)
 - Hvor store er clamydia?:: Små
 - Hvad betyder autotrofisk?:: At en organisme ikke kan syntetisere et stof nødvendigt for vækst
+- Hvad kaldes en clamydia når den er ekstracellulær?:: Elementarlegeme
+- Hvad kaldes en clamydia når den er intracellulær?:: Retikulærlegeme'
+- Hvordan kommer clamydia ind i celler?:: Ved at sætte sig på overlafden og injicere (med [[Type III Sekretion]]) toksiner ind  cellen der inducere "endocytose" (eller fagocytose)
 
 ![[Pasted image 20260916122223.png]]
 
