@@ -44,25 +44,25 @@ gælder for dette
 - [ ] Skrive journal på en patient med infektionsproblematik eller sequelæ efter en infektio
 
 Læsning
-- [x] 3
-- [x] 5
+- [x] 3 (bakterier)
+- [x] 5 (Antibiotika)
 - [ ] (8)
 - [ ] (9)
 #### Bakterier
-- [x] 10
-- [x] 11
-- [x] 12
+- [x] 10 (Bakterier)
+- [x] 11 (Staphylcokker)
+- [x] 12 (Streptococcer)
 - [ ] 13
-- [x] 14
-- [x] 16
-- [x] 17
+- [x] 14 (Neisseria)
+- [x] 16 (Sekeretorisk enteritis)
+- [x] 17 (Inflammatorisk coleitis)
 - [ ] 18
 - [ ] 19
 - [ ] 20
 - [ ] 21
 - [ ] (22)
 - [ ] 23
-- [ ] 24
+- [x] 24 (Syfilis)
 - [ ] 25
 - [ ] 27
 - [ ] 29
@@ -78,13 +78,13 @@ Læsning
 - [ ] 41
 - [ ] 42
 #### Svamp
-- [x] 47
+- [x] 47 (Oppertunistiske svampe)
 #### Parasitter
 - [ ] 50
 - [ ] 51
 - [ ] 53
 #### Sygdomme i organsystemer
 - [ ] 61
-- [x] 62
+- [x] 62 (urinvejsinfektion)
 - [ ] 65
-- [x] 68
+- [x] 68 (Seksuelt overførte sygdomme)
