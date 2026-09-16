@@ -29,6 +29,8 @@
 - [[Reithers syndrom]]
 
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
+- Hvor kan clamydia sprede sig hen fra vagina?:: Rectum og højre op dvs det kan give [[Endometritis]] og [[Pelvic inflammatory disease (PID)]]
+- Hvilken type cancer kan kvinder med 
 - ![[Trachoma]]
 ## Diagnostik/behandling
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
