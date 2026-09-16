@@ -1,6 +1,22 @@
 #flashcards/5/Mikrobiologi 
 
-Udflået fra clamydia er mere serøst end ved gonera
+## Generalt
+- Hvilken type cellevæg har clamydia?:: Det minder mest om en gram-negativ men den har ingen murein så den er atypisk
+
+## Smitte
+## Patogenese
+- Hvor hurtigt deler clamydia sig?:: Det tager op til 40 timer
+
+## Symptomer/komplikationer
+- Hvad kendetegenr det udflåd der kan komme ud af penis ved en C. trachomatis infektion?:: Det er serøst
+- Hvilke "sygdommer"/infektioner kan C. trachomatis give hos kvinder?
+?
+- [[Cervicitis]]
+- [[Salpingits]]
+
+## Diagnostik/behandling
+
+
 Symptomer kommer langsomt eftersom det tager lang tid for bak at dele sig
 
 INTRACELLULÆR
