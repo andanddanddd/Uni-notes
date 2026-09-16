@@ -13,8 +13,8 @@
 
 ![[Lipopolysakkarid]]
 
-[[Neisseria meningitidis+]]
-[[Neisseria gonorrhoeae+]]
+[[Neisseria]]
+
 [[Escherichia coli+]]
 [[Klebsiella pneumoniae+]]
 [[Proteus mirabilis]]

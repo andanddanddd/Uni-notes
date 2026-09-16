@@ -14,7 +14,7 @@ Methylblot på slide 8
 
 ## Smitte
 
-- Hvordan smitter N. gonorrhoeae?:: Samleje
+- Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder)
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
@@ -40,6 +40,7 @@ Kan give blivende bruskskade
 - Hvorfor kan N. gonorrhoeae øge risikoen for [[ekstrauterine graviditeter]]?:: Den kan ødelægge epitelet i æggelederne så ægget ikke kan komme igennem men sædceller godt kan 
 - Hvad sker når N. gonorrhoae går i blodbanen?:: Det giver bakteriæmi men ikke sepsis
 - Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt 
+- Hvad kaldes tilstanden når N. gonorrhoeae når uterus og æggelederene?:: [[Pelvic inflammatory disease (PID)]]
 
 ![[Ophthalmia neonatorum]]
 ## Diagnostik og behandling
