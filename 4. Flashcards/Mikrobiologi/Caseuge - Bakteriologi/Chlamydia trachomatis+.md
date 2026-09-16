@@ -28,6 +28,7 @@
 - [[Reithers syndrom]]
 
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
+- ![[Trachoma]]
 ## Diagnostik/behandling
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
 - Hvordan diagnosticeres en infektion med C. trachomatis?:: PCR
