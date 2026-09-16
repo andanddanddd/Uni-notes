@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 [[Slides - Virus struktur, genetik og klassifikation 2026.pdf]] [[Virus]]
 
-![[Virus struktur]]
+![[4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur]]
 
 ![[Visualisering af virus]]
 

@@ -3,7 +3,7 @@
 
 - Definer virus?: Ikke-levende organisme med genetisk matriale der ikke selv kan formere sig
 
-![[Virus struktur]]
+![[4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur]]
 
 - Hvornår får vira deres kappe?:: Når de bevæger sig ud af en celle
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
