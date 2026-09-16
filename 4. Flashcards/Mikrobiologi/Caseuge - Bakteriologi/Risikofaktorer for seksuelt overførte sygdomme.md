@@ -5,6 +5,7 @@
 - Transmission (regnes i sansynlighed for smitte pr samleje)
 - Kontakt-tid til næste partner
 - Varighed af infektion (afhænger af symptomer og dermed behandling)
+<!--SR:!2026-09-20,4,270-->
 
 - Hvad er risikofaktorene for at få seksuelt overførte sygdomme?
 ?
@@ -22,9 +23,11 @@
 - Herpes
 - [[Neisseria gonorrhoeae+]]
 - [[HPV]]
+<!--SR:!2026-09-20,4,270-->
 
 - Hvilke seksuelt overførte sygdomme får kun dem der udøver høj-risiko adfærd?
 ?
 - [[Syfilis]]
 - [[human immunodeficiency virus (HIV)+]]
 - [[Hepatitis]] (A,B,C)
+<!--SR:!2026-09-20,4,270-->

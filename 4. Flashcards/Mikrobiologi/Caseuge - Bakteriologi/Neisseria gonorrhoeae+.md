@@ -10,22 +10,33 @@ Methylblot på slide 8
 - Hvordan er lejringen af N. gonorrhoaea?:: Diplokokker
 <!--SR:!2026-09-20,4,270-->
 - Hvilken vækstmedie gror man typisk N. gonorrhoaea på?:: [[Chokoladeagerplader]]
+<!--SR:!2026-09-20,4,270-->
 
+## Smitte
+
+- Hvordan smitter N. gonorrhoeae?:: Samleje
+- Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
+- Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 ## Patogenese
 - Hvilke patogenesefaktorer har N. gonorrhoaea?
 ?
 - Pili
 - [[Opa-proteiner]]
 - IgA protease
+<!--SR:!2026-09-19,3,250-->
 
 ![[Pasted image 20260915094444.png]]
 
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
+<!--SR:!2026-09-20,4,270-->
 
-Stiger i tilfælde
+## Symptomer/komplikationer
+- ![[Pasted image 20260916090616.png]]
+- Hvordan kan N. gonorrrhoeae give infertilitet?:: Ødelægge epitelet i [[Æggelederne]] så ægget ikke kan komme igennem
+- Hvorfor kan N. gonorrhoeae øge risikoen for [[ekstrauterine graviditeter]] 
 
 Overlever godt i neutrofile granulocytter
-Kvinder kan nemt have den i rectum uden at have haft analsex (den er ikke en del af normalflora) 
+
 Laver bacteriæmi men ikke sepsis
 Kan give blivende bruskskade
 De er svære at dyrke derfor poder man mange steder fra
