@@ -3,7 +3,7 @@
 Methylblot på slide 8
 
 ## Generalt
-- Hvilken sygdom giver N. gonorrhaeae?:: Gonoré
+- Hvilken sygdom giver N. gonorrhaeae?:: [[Gonoré]]
 <!--SR:!2026-09-20,4,270-->
 - Hvilken form har N. gonorrhoaea?:: Kokker (bønneformede)
 <!--SR:!2026-09-19,3,250-->
@@ -33,7 +33,22 @@ Methylblot på slide 8
 ## Symptomer/komplikationer
 - ![[Pasted image 20260916090616.png]]
 - Hvordan kan N. gonorrrhoeae give infertilitet?:: Ødelægge epitelet i [[Æggelederne]] så ægget ikke kan komme igennem
-- Hvorfor kan N. gonorrhoeae øge risikoen for [[ekstrauterine graviditeter]] 
+- Hvorfor kan N. gonorrhoeae øge risikoen for [[ekstrauterine graviditeter]]?:: Den kan ødelægge epitelet i æggelederne så ægget ikke kan komme igennem men sædceller godt kan 
+
+
+![[Ophthalmia neonatorum]]
+## Diagnostik og behandling
+- Hvordan tester man typisk for gonorré?:: PCR-test
+- Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
+- Hvor kan man pode for at få en dyrkning af N. gonorrhoeae?
+?
+- Urethra
+- Cervix
+- Rektum
+- Svælg
+
+- Hvordan behandles en infektion med N. gonorrhoeae overordnet?:: [[Ceftriaxon]] (IM) og [[Azithromycin]]
+
 
 Overlever godt i neutrofile granulocytter
 
