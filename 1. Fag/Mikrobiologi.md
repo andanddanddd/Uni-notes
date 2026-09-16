@@ -42,3 +42,44 @@ gælder for dette
 - [ ] Anvende rationel antibiotikabehandling af infektioner
 ## KOMPETENCER
 - [ ] Skrive journal på en patient med infektionsproblematik eller sequelæ efter en infektio
+
+Læsning
+- [x] 3
+- [x] 5
+- [ ] (8)
+- [ ] (9)
+- [x] 10
+- [x] 11
+- [x] 12
+- [ ] 13
+- [ ] 14
+- [x] 16
+- [x] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [ ] 21
+- [ ] (22)
+- [ ] 23
+- [ ] 24
+- [ ] 25
+- [ ] 27
+- [ ] 29
+- [ ] 31
+- [ ] 32
+- [ ] 33
+- [ ] 34
+- [ ] 35
+- [ ] 36
+- [ ] 39
+- [ ] 40
+- [ ] 41
+- [ ] 42
+- [x] 47
+- [ ] 50
+- [ ] 51
+- [ ] 53
+- [ ] 61
+- [x] 62
+- [ ] 65
+- [ ] 68
