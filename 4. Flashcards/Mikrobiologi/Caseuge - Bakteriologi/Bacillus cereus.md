@@ -14,6 +14,6 @@
 
 ## Diarreformen
 - Hvordan giver B. cereus diarre? (patofysiologi):: Toksin danner poror i enteeocytter dermed udskilles meget væske
-<!--SR:!2026-09-16,2,250-->
+<!--SR:!2026-09-23,7,270-->
 - Hvad er inkubationstid og varighed af diarreformen af madforgiftning grundet B. cereus?:: Inkubationstid = 8-16 timer og varigheden er under 24 timer
 <!--SR:!2026-09-28,14,290-->

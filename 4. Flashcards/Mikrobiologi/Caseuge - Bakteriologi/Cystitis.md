@@ -21,19 +21,19 @@
 - Fremmedlegemer (kateter)
 - Ny bakterieflora
 - Svækket immunsystem
-<!--SR:!2026-09-16,4,270-->
+<!--SR:!2026-10-02,16,290-->
 
 ## Risikofaktorer
 - Hvorfor får kvinder oftere cystitis?:: Kortere urethra
 <!--SR:!2026-09-16,4,270-->
 - Hvilken blodtype får oftest cystitis?:: O
-<!--SR:!2026-09-16,4,270-->
+<!--SR:!2026-10-02,16,290-->
 - Hvorfor giver blodtype O oftere cystitis end A,B og AB?:: A og B antigener seceneres fra slimhinder hvilket forhindre bakterier at binde dertil
-<!--SR:!2026-09-16,4,270-->
+<!--SR:!2026-10-02,16,290-->
 - Hvilke præventionstype giver øget risiko for cystitis og hvorfor?:: Spermacider dræber normalfloraen og pessar kan forhindre blæren i at blive tømt helt (de bliver ofte brugt sammen)
 <!--SR:!2026-09-16,4,270-->
 - Hvilke risikofaktorer har mænd for at få cystitis?:: Ny sexuel partner og analsex
-<!--SR:!2026-09-16,4,270-->
+<!--SR:!2026-10-02,16,290-->
 ## Symptomer
 - Hvilke symptomer har cystitis?
 ?

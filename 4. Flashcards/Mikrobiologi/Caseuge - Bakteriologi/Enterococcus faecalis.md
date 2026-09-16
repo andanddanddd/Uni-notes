@@ -30,4 +30,4 @@
 - Hvordan behandles med [[Aminoglykosider]] når E. faecalis egentlig er resistent?:: Det gives sammen med penicilin så membranen ødelægges lidt så Aminoglykosiderne kan trænge igennem
 <!--SR:!2026-09-29,15,290-->
 - Hvilken nyere antibiotika bruges til behanlding af E. faecalis?:: [[Linezolid]]
-<!--SR:!2026-09-16,2,250-->
+<!--SR:!2026-09-21,5,250-->
