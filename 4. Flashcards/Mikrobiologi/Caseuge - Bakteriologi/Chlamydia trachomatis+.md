@@ -28,13 +28,23 @@
 
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
 ## Diagnostik/behandling
-- Hvilken effekt har penicilin på C. trac
+- Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
+- Hvordan diagnosticeres en infektion med C. trachomatis?:: PCR
+- Hvor kan man pode til en bakteriedyrkning med C. trachomatis? (5)
+?
+- Uretra
+- Cervix
+- Urin
+- Rectum
+- Bindehinden
+
+- Hvordan behandles en infektion med C. trachomatis?:: [[Doxycyklin]] eller [[Azithromycin]]
 
 Symptomer kommer langsomt eftersom det tager lang tid for bak at dele sig
 
 INTRACELLULÆR
 
-Peniciln gør den bare "sovende"
-Kan give øget risiko for graviditet udenfor livmoderen (sker hvis sædceller kan komme igennem æggeleder med æg ikke kan) (også øget risiko ved gonere)
+
+
 
 Uvitis i stedet for uretrit på slide 35
