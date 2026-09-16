@@ -36,11 +36,11 @@ Overlever godt i neutrofile granulocytter
 
 Kan give blivende bruskskade
 - ![[Pasted image 20260916090616.png]]
-- Hvordan kan N. gonorrrhoeae give infertilitet?:: Ødelægge epitelet i [[Æggelederne]] så ægget ikke kan komme igennem
-- Hvorfor kan N. gonorrhoeae øge risikoen for [[ekstrauterine graviditeter]]?:: Den kan ødelægge epitelet i æggelederne så ægget ikke kan komme igennem men sædceller godt kan 
+
 - Hvad sker når N. gonorrhoae går i blodbanen?:: Det giver bakteriæmi men ikke sepsis
 - Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt 
 - Hvad kaldes tilstanden når N. gonorrhoeae når uterus og æggelederene?:: [[Pelvic inflammatory disease (PID)]]
+- Hvilken tilstand kan det give hvis N. gonorrhoeae bevæger sig "dybere" i en mand:: [[Epididymidis]]
 
 ![[Ophthalmia neonatorum]]
 ## Diagnostik og behandling
