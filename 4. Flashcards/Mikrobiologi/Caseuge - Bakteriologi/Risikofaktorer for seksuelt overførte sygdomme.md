@@ -31,3 +31,9 @@
 - [[human immunodeficiency virus (HIV)+]]
 - [[Hepatitis]] (A,B,C)
 <!--SR:!2026-09-20,4,270-->
+
+- Hvorfor stiger incidensen af STDer?
+?
+- Færre folk bruger kondomer
+- Datingapps
+- Mere risikovillighed da HIV kan håndteres
