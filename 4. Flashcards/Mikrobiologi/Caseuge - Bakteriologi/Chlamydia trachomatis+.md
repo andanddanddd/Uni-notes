@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
-
+[[Clamydia]]
 ## Generalt
-- Hvilken type cellevæg har clamydia?:: Det minder mest om en gram-negativ men den har ingen murein så den er atypisk
+
 
 ## Smitte
 - Hvad er sansynligheden for at en person med C. trachomatis giver det videre?:: 25-59% pr samleje
