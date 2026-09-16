@@ -12,14 +12,12 @@
             "id": "2019f3fddb160bd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur.md",
-                "mode": "source",
-                "source": false
+                "file": "Billeder/Mikrobiologi/Virus med lipidmembran.png"
               },
-              "icon": "lucide-file",
-              "title": "Virus struktur"
+              "icon": "lucide-image",
+              "title": "Virus med lipidmembran"
             }
           }
         ]
@@ -88,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trepon",
+                "query": "tag:#flashcards/5/Mikrobiologi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -243,11 +240,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2019f3fddb160bd2",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
-    "4. Flashcards/Molekylær biologi/Caseuge 1/Virus.md",
+    "Billeder/Mikrobiologi/Virus uden lipidmembran.png",
+    "Billeder/Mikrobiologi/Virus med lipidmembran.png",
+    "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
+    "Zoonotisk virusinfektion.md",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
+    "Visualisering af virus.md",
+    "Plaque assay.md",
+    "Pasted image 20260916144613.png",
+    "Pasted image 20260916144447.png",
+    "4. Flashcards/Molekylær biologi/Caseuge 1/Virus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia pneumoniae.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Trachoma.md",
     "Billeder/Mikrobiologi/Pasted image 20260916122223.png",
@@ -271,11 +276,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Lipooligosaccharide (LOS).md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria meningitidis+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gonoré.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Lipopolysakkarid (LPS).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Pelvic inflammatory disease (PID).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Risikofaktorer for seksuelt overførte sygdomme.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Doxycyklin.md",
     "Billeder/Mikrobiologi/Pasted image 20260916090616.png",
     "Billeder/Mikrobiologi/Pasted image 20260914142518.png",
     "Billeder/Mikrobiologi/Pasted image 20260915094444.png",
@@ -287,10 +287,6 @@
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/~$Slides - børnesygdomme 2026.ppt",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.ppt",
-    "Billeder/Mikrobiologi/Pasted image 20260909134245.png",
-    "Billeder/Mikrobiologi/Pasted image 20260909140317.png",
-    "Billeder/Mikrobiologi/Pasted image 20260909140118.png",
-    "Billeder/Mikrobiologi/Pasted image 20260909104316.png",
     "Untitled.canvas"
   ]
 }

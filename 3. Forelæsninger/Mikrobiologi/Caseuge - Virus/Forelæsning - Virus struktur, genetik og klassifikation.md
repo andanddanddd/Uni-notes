@@ -3,10 +3,14 @@
 
 ![[Virus struktur]]
 
-PLaye-assaey = en virus pr hul
+![[Visualisering af virus]]
+
+![[Zoonotisk virusinfektion]]
+
+
 Der var nok allerede virus da den først eprotocelle kom frem
-Zoonotisk virus er typiek meget slemt da vi ingen immunitet har
-NOgle gange lipidmembran
+
+Nogle gange lipidmembran
 Head-tail kapsel findes kun ved bakteriofager
 
 ORF = potentielt gen (dvs med start og slut-codon)
