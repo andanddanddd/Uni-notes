@@ -33,7 +33,11 @@ Overlever godt i neutrofile granulocytter
 ![[Pasted image 20260915094444.png]]
 
 - Hvorfor vil N. gonorrhoeae gerne være i neutrofile granulocytter?:: De har mange måder at undgå at dø derinde så de chiller bare og er beskyttet
-- Hvordan kan N. gomorrhoeae ændre sin pili?:: I dens DNA findes 1 egen
+- Hvordan kan N. gomorrhoeae ændre sin pili?:: I dens DNA findes 1 egentligt gen til pili og mange (15 ish) kodende sekvnser for pili der mangler en promoterregion, gonokkoken kan så kopiere en del af en af de ekstra pili-sekvenser hen til pili-sekvenser med promoterregion
+- Hvilke 2 måder kan fasevariation ske på?
+?
+- Gentagende sekvenser mellem promoterregionen og genet, disse replikeres ofte forkert når det sker vil genet enten stoppe med at blive transskriberes eller begynde på det igen
+- 
 
 ## Symptomer/komplikationer
 
