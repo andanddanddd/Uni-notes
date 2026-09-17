@@ -11,6 +11,9 @@
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
 <!--SR:!2026-09-21,4,270-->
 - Hvilken funktion har glykoproteinerne på virus?:: Komme ind i celler
+- Hvad kaldes viruses genom + dens kapsel?:: Nukleokapsid
+- Hvad er funktionen af M-proteiner?:: Hjælpe med budding og stabilisere kontakten mellem glykoprotein og værtscelle
+![[Pasted image 20260917095932.png|429]]
 
 ![[Virus genom]]
 

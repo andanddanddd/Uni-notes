@@ -3,6 +3,7 @@
 - Hvor mange proteiner består kapsel typisk af?:: En del men typisk ikke mange forskellige (3 ish)
 <!--SR:!2026-09-21,4,270-->
 - Hvilke virus har en head-tail-kapsel?:: Kun [[Bakteriofager]]
+- Hvordan samles viras kapsel?:: Den samler sig selv
 - Hvilke 3 former kan kapslen på en virus have?
 ?
 - Ikosaedrisk
