@@ -15,6 +15,7 @@ Methylblot på slide 8
 ## Smitte
 
 - Hvor lever N. gonorrhoeae normalt?:: De lever kun i mennesker
+<!--SR:!2026-09-21,4,270-->
 - Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder), det kan IKKE smitte fra objekter eks tiletbræt
 <!--SR:!2026-09-21,4,270-->
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
@@ -41,12 +42,14 @@ Overlever godt i neutrofile granulocytter
 - Hvilken type epitelcelle interagere N. gonorrhoeae særligt med?:: Dem med cilia
 <!--SR:!2026-09-21,4,270-->
 - Hvordan inducere N. gonorrhoeae inflammation?:: [[Lipooligosaccharide (LOS)]]
+<!--SR:!2026-09-21,4,270-->
 - Hvordan kan N. gomorrhoeae ændre sin pili?:: I dens DNA findes 1 egentligt gen til pili og mange (15 ish) kodende sekvnser for pili der mangler en promoterregion, gonokkoken kan så kopiere en del af en af de ekstra pili-sekvenser hen til pili-sekvenser med promoterregion
 <!--SR:!2026-09-21,4,270-->
 - Hvilke 2 måder kan fasevariation ske på?
 ?
 - Gentagende sekvenser mellem promoterregionen og genet, disse replikeres ofte forkert når det sker vil genet enten stoppe med at blive transskriberes eller begynde på det igen
 - Inversion, vender genet om i forhold til promoterregionen
+<!--SR:!2026-09-21,4,270-->
 
 ## Symptomer/komplikationer
 
@@ -67,6 +70,7 @@ Kan give blivende bruskskade
 ![[Ophthalmia neonatorum]]
 ## Diagnostik og behandling
 - Hvordan tester man typisk for gonorré?:: PCR-test
+<!--SR:!2026-09-21,4,270-->
 - Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
 <!--SR:!2026-09-21,4,270-->
 - Hvorfor poder man mange steder fra når man skla dyrke N. gonorrhoeae?:: Den er svær at dyrke
@@ -85,6 +89,7 @@ Kan give blivende bruskskade
 
 
 - Hvordan behandles en infektion med N. gonorrhoeae overordnet?:: [[Ceftriaxon]] (IM) og [[Azithromycin]]
+<!--SR:!2026-09-20,3,250-->
 - Hvor foregår behandlingen af N. gonorrhoeae typisk?:: Man giver typisk medicin allerede i almen praksis så komplience ikke kan være et problem
 <!--SR:!2026-09-21,4,270-->
 

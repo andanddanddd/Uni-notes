@@ -22,6 +22,8 @@
 - Hvordan behandles T. pallidum?:: [[Penicilin]]
 <!--SR:!2026-09-18,1,230-->
 - Hvad er en gammel alternativ behandling til T. pallidum?:: Feber terapi (den kan ikke tåle varme)
+<!--SR:!2026-09-21,4,270-->
 - Hvordan diagnosticeres syfilis idag?:: mikroskopi af chancre eller test af antistoffer
 <!--SR:!2026-09-21,4,270-->
 - Hvilke faktorer kan "hjælpe" med at give et falsk-positivt T. pallidum antigentest?:: [[Systematisk lupus ery (SLE)]], stofmisbrug, alderdom og graviditet
+<!--SR:!2026-09-21,4,270-->

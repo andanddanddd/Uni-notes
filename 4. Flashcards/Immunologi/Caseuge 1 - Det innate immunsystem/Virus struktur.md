@@ -10,6 +10,7 @@
 <!--SR:!2026-09-21,4,270-->
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
 <!--SR:!2026-09-21,4,270-->
+- Hvilken funktion har glykoproteinerne på virus?:: Komme ind i celler
 
 ![[Virus genom]]
 
@@ -30,4 +31,5 @@
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] D:: Tegument
 <!--SR:!2026-09-18,1,230-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] E?:: Lipidmembran
+<!--SR:!2026-09-21,4,270-->
 
