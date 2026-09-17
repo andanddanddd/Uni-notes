@@ -3,7 +3,7 @@
 - Hvad kaldes klassen af antibiotika vancomyocin er i?:: glycopeptider
 <!--SR:!2026-09-18,11,270-->
 - Hvad bruges vancomyocin typisk til (overordnet)?:: Behandle resistente [[Gram-positive bakterier]] (det kan ikke gennemtrænge membranen på de gram-negative)
-<!--SR:!2026-09-17,10,270-->
+<!--SR:!2026-10-14,27,270-->
 - Hvilken bakterie/sygdom er vancomyocin særlig brugbar til?:: [[Methicillin-resistant S aureus (MRSA)]]
 <!--SR:!2026-09-23,16,290-->
 - Hvilken administrationsvej bruges til vancomyocin?:: IV

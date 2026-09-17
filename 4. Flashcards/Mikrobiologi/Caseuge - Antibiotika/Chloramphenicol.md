@@ -3,7 +3,7 @@
 - Hvad bruges chloramphenicol til?:: Øjendråber
 <!--SR:!2026-09-18,12,270-->
 - Hvilke bakterier virker chloramphenicol imod?:: Det hele det er meget bredspektret
-<!--SR:!2026-09-17,10,270-->
+<!--SR:!2026-10-25,38,290-->
 - Hvad gør chloamphenicol overordnet?:: Inhibere dannelsen af peptidbinding i de nye proteiner
 <!--SR:!2026-09-25,11,270-->
 - Hvad er chloramphenicols målstruktur?:: 50S subunit af bakteriernes ribosom

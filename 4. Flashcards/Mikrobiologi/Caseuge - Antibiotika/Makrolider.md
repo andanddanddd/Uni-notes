@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan opnås resistense mod makrolider?:: Enten transporteres det ud af cellen (ligesom [[Tetracykliner]]) ellers methyleres den lille subunit (målstrukturen) af ribosomet
-<!--SR:!2026-09-17,10,270-->
+<!--SR:!2026-10-14,27,270-->
 - Hvilken type antibiotika er makrolider? (bakteriecider eller bakteriestatiske):: [[Bakteriostatisk virkende stoffer]]
 <!--SR:!2026-09-18,11,270-->
 - Hvilken målstruktur har makrolider?:: Den store subunit (50S) af det bakterielle ribosom

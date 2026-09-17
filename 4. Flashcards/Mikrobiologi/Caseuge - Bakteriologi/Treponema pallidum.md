@@ -2,7 +2,7 @@
 
 ## Generalt
 - Hvilken sygdom giver Treponema pallidum?:: [[Syfilis]]
-<!--SR:!2026-09-17,12,270-->
+<!--SR:!2026-11-02,46,290-->
 - Hvilken type cellevæg har T. pallidum?:: Den secenere hverken eksotoksiner eller har LPS (den er en spiral)
 
 ## Smitte
