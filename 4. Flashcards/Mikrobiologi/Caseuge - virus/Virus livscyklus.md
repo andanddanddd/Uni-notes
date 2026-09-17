@@ -15,6 +15,7 @@
 #### Replikation af genom
 
 - Hvordan replikeres RNA på en RNA+ virus?:: Den laver replikation i 2 steps dvs først syntetiseres en RNA- streng som kan bruges som template til en ny RNA+ streng
+- Hvornår sker replikation af det virale genom?:: Ligesåsnart det kan dvs når de rigtige early gener er lavet
 
 #### Viral proteinsyntese
 - Hvor forgår transskription henne?:: Enten cytoplasma eller i cellekernen
