@@ -7,6 +7,9 @@
 
 ![[Zoonotisk virusinfektion]]
 
+![[Virus livscyklus]]
+
+![[Klassificering af virus]]
 
 Der var nok allerede virus da den først eprotocelle kom frem
 
