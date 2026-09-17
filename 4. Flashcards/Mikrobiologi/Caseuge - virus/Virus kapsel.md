@@ -12,4 +12,5 @@
 
 ![[Virus kapsel former]]A?:: Ikosaedrisk
 ![[Virus kapsel former]]B?:: Helical/spiral (filamentous på engelsk)
+<!--SR:!2026-09-20,3,250-->
 ![[Virus kapsel former]]C?:: Head tail (Kompleks)

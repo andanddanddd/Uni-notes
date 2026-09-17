@@ -4,3 +4,4 @@
 <!--SR:!2026-09-21,4,270-->
 - Hvordan smitter C. psittaci?:: Zoonotisk fra "eksotiske" fugle
 - Hvordan behandles C. psittaci typisk?:: [[Makrolider]]
+<!--SR:!2026-09-20,3,250-->

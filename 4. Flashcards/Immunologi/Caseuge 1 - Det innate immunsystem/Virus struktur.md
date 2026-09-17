@@ -6,6 +6,7 @@
 <!--SR:!2026-09-21,4,270-->
 - Hvor i virus findes glukoproteiner?:: Udenpå kapslen eller lipidmembranen hvis den har sådan en (de er ikke begge steder på en gang)
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
+<!--SR:!2026-09-21,4,270-->
 
 ![[Virus genom]]
 

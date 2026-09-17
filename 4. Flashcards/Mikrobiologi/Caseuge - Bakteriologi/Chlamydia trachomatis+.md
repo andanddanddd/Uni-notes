@@ -8,6 +8,7 @@
 ## Patogenese
 - Hvor hurtigt deler clamydia sig?:: Det tager op til 40 timer
 - Hvad kaldes strukturen af mange clamydiaholdige endosomer der har fusioneret?:: Inklusion
+<!--SR:!2026-09-18,1,230-->
 
 ## Symptomer/komplikationer
 - Hvad kendetegenr det udflåd der kan komme ud af penis ved en C. trachomatis infektion?:: Det er serøst
@@ -19,6 +20,7 @@
 - [[Proctitis]]
 - [[Reaktiv arthritis]]
 - [[Conjunctivitis]]
+<!--SR:!2026-09-21,4,270-->
 
 - Hvilke "sygdomme"/infektioner kan C. trachomatis give hos mænd? (5)
 ?
@@ -31,10 +33,12 @@
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
 - Hvor kan clamydia sprede sig hen fra vagina?:: Rectum og højre op dvs det kan give [[Endometritis]] og [[Pelvic inflammatory disease (PID)]]
 - Hvilken type cancer kan kvinder med tidligere C. trachomatis infektion være i øget risiko for at få?:: Ovariecancer
+<!--SR:!2026-09-21,4,270-->
 - ![[Trachoma]]
 ## Diagnostik/behandling
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
 - Hvordan diagnosticeres en infektion med C. trachomatis?:: PCR
+<!--SR:!2026-09-21,4,270-->
 - Hvor kan man pode til en bakteriedyrkning med C. trachomatis? (5)
 ?
 - Uretra
@@ -44,6 +48,7 @@
 - Bindehinden
 
 - Hvordan behandles en infektion med C. trachomatis?:: [[Doxycyklin]] eller [[Azithromycin]]
+<!--SR:!2026-09-21,4,270-->
 - Hvorfor er det vigtigt at en clamydiabehandling varer "længe" clamydia deler sig langsomt
 - Hvilke særlige "krav" er der til antibiotika mod clamydia?:: Det skal kunne komme igennem vores egne celler
 
