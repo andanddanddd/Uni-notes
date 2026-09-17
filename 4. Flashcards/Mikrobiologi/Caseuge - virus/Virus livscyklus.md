@@ -6,6 +6,7 @@
 - Hvor forgår transskription henne?:: Enten cytoplasma eller i cellekernen
 <!--SR:!2026-09-21,4,270-->
 - Hvor formere virus sig?:: Altíd intracellulært
+<!--SR:!2026-09-21,4,270-->
 - Hvordan kommer en virus ud af cellen igen?
 ?
 - Budding (omvendt membranfusion)

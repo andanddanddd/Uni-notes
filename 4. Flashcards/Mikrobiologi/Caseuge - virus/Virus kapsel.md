@@ -6,6 +6,7 @@
 - Ikosaedrisk
 - Helical/spiral (filamentous på engelsk)
 - Head tail (Kompleks)
+<!--SR:!2026-09-20,3,250-->
 
 ![[Virus kapsel.png]]
 #### Occlusion

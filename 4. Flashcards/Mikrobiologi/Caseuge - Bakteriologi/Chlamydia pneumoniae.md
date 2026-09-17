@@ -2,6 +2,7 @@
 [[Clamydia]]
 
 - Hvilken type pneumoni giver C. pnuemoniae?:: "[[Walking pneumonia]]"
+<!--SR:!2026-09-21,4,270-->
 - Hvordan smitter C. pneumoniae?:: Dropper eller aerosoler
 <!--SR:!2026-09-21,4,270-->
 - Hvilke celler kan C. pneumoniae dele sig i?:: Epitelceller, endothelceler, Monocytter, makrofager og lymfocytter

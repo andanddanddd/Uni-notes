@@ -22,6 +22,7 @@ Methylblot på slide 8
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 <!--SR:!2026-09-21,4,270-->
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
+<!--SR:!2026-09-21,4,270-->
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
 <!--SR:!2026-09-20,4,270-->
 ## Patogenese
@@ -36,6 +37,7 @@ Overlever godt i neutrofile granulocytter
 ![[Pasted image 20260915094444.png]]
 
 - Hvorfor vil N. gonorrhoeae gerne være i neutrofile granulocytter?:: De har mange måder at undgå at dø derinde så de chiller bare og er beskyttet
+<!--SR:!2026-09-21,4,270-->
 - Hvilken type epitelcelle interagere N. gonorrhoeae særligt med?:: Dem med cilia
 <!--SR:!2026-09-21,4,270-->
 - Hvordan inducere N. gonorrhoeae inflammation?:: [[Lipooligosaccharide (LOS)]]
@@ -53,11 +55,14 @@ Kan give blivende bruskskade
 
 - Hvad sker når N. gonorrhoae går i blodbanen?:: Det giver bakteriæmi men ikke sepsis
 <!--SR:!2026-09-21,4,270-->
-- Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt 
+- Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt
+<!--SR:!2026-09-21,4,270-->
 - Hvad kaldes tilstanden når N. gonorrhoeae når adnexa?:: [[Pelvic inflammatory disease (PID)]]
 <!--SR:!2026-09-21,4,270-->
 - Hvilken tilstand kan det give hvis N. gonorrhoeae bevæger sig "dybere" i en mand:: [[Epididymidis]]
+<!--SR:!2026-09-21,4,270-->
 - Hvad sker overordnet hvis man for N. gonorrhoeae fra oralsex?:: Det giver usymptomatisk pharyngitis
+<!--SR:!2026-09-21,4,270-->
 
 ![[Ophthalmia neonatorum]]
 ## Diagnostik og behandling
@@ -65,6 +70,7 @@ Kan give blivende bruskskade
 - Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
 <!--SR:!2026-09-21,4,270-->
 - Hvorfor poder man mange steder fra når man skla dyrke N. gonorrhoeae?:: Den er svær at dyrke
+<!--SR:!2026-09-21,4,270-->
 - Hvorfor kan immunsystemet nemt genkende N. gonorrhoeaes pili men uden at kunne lave et godt adaptivt respons imod det eller kunne bruge det i en vaccine?:: De varriere meget fra gonokok til gonokok
 <!--SR:!2026-09-21,4,270-->
 - Hvorfor er N. gonorrhoeae ofte resistent?:: Den kan optage resistente plasmider fra andre [[Neisseria]]-arter
@@ -75,6 +81,7 @@ Kan give blivende bruskskade
 - Cervix
 - Rektum
 - Svælg
+<!--SR:!2026-09-21,4,270-->
 
 
 - Hvordan behandles en infektion med N. gonorrhoeae overordnet?:: [[Ceftriaxon]] (IM) og [[Azithromycin]]
