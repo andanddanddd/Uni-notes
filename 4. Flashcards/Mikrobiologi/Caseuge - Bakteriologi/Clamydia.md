@@ -10,6 +10,7 @@
 - Hvilken effekt har interferon-$\gamma$ på clamydia?:: Det inducere nedbrydning af tryptofan hvilket clamydia optager fra celler, dermed stoppes clmydias deling
 
 - Hvad kaldes en clamydia når den er ekstracellulær?:: Elementarlegeme
+<!--SR:!2026-09-18,1,230-->
 - Hvad kaldes en clamydia når den er intracellulær?:: Retikulærlegeme'
 - Hvad er forskellen på elementarlegeme og retikularlegeme?:: Retikularlegemet har et mere løst kromosom så der kan ske traskribtion/DNA-replikation, elementarlegemet har krydsbundet nogle proteiner i sin membran der gør den mere osmotisk stabil og muliggør fastgørelse til en ny epitelcelle
 - Hvorfor er det ikke smart at have en extracellulær retikularlgeme? (fra bakteriens synspunkt):: Den er ikke osmotisk stabil nok og den kan ikke binde til celler

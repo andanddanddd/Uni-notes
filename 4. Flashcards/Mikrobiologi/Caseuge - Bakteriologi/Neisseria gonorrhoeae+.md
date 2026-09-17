@@ -18,6 +18,7 @@ Methylblot på slide 8
 - Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder), det kan IKKE smitte fra objekter eks tiletbræt
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
+<!--SR:!2026-09-21,4,270-->
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
 <!--SR:!2026-09-20,4,270-->
@@ -58,7 +59,9 @@ Kan give blivende bruskskade
 - Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
 - Hvorfor poder man mange steder fra når man skla dyrke N. gonorrhoeae?:: Den er svær at dyrke
 - Hvorfor kan immunsystemet nemt genkende N. gonorrhoeaes pili men uden at kunne lave et godt adaptivt respons imod det eller kunne bruge det i en vaccine?:: De varriere meget fra gonokok til gonokok
+<!--SR:!2026-09-21,4,270-->
 - Hvorfor er N. gonorrhoeae ofte resistent?:: Den kan optage resistente plasmider fra andre [[Neisseria]]-arter
+<!--SR:!2026-09-21,4,270-->
 - Hvor kan man pode for at få en dyrkning af N. gonorrhoeae?
 ?
 - Urethra
