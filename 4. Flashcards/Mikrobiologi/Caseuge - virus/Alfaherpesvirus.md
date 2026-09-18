@@ -12,6 +12,8 @@ HSV 1 og 2
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion
 - Hvornår bliver $\alpha$-HPVs DNA lavet om til et episom?:: I neuroner (hviket deaktivere det)
 - Hvor i neuronerne ender $\alpha$-HPV?:: [[Soma (neuron)]] (i mange tilfælde vil det være sensoriske ganglier)
+- Hvad er forskellen på early, og imidiate-early gener?:: Imidiate early laver proteiner der skal bruges til early-generne (DNA-polymerase) derudover bruges imidiate-earlygenerne til at gøre værstcellen mere favorabel for virussen
+- Hvorfor spreder HSV-1/2 sig ikke systemisk?:: De bliver dræbt i blodbanen men kan overleve ved at bevæge sig fra celle til celle
 
 Neurotrope (inficere neuroner (som sekunldær infektioenr))
 Latens i neuroner
