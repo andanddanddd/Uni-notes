@@ -67,7 +67,7 @@ Læsning
 - [ ] 27
 - [ ] 29
 #### Virus
-- [ ] 31
+- [x] 31 (generalt om virus)
 - [ ] 32
 - [ ] 33
 - [ ] 34
