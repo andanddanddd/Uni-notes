@@ -1,5 +1,5 @@
 #flashcards/5/Mikrobiologi 
 
-![[CMV]]
+![[CMV+]]
 
-![[HHV-6]]
+![[HHV-6+]]

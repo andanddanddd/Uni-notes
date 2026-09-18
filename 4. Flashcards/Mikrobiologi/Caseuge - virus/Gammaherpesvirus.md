@@ -1,5 +1,5 @@
 #flashcards/5/Mikrobiologi 
 
-![[EBV]]
+![[EBV+]]
 
 ![[KSHV]]

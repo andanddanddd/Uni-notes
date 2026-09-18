@@ -4,6 +4,7 @@
 <!--SR:!2026-09-21,4,270-->
 - Hvordan er strukturen overordnet af virus-genom?:: Enten lineært, circulært eller segmenteret
 <!--SR:!2026-09-21,4,270-->
+- Hvad er et episom?:: Cirkulært DNA som kan integreres i kromosomet (lidt ligesom et plasmid)
 - Hvilken forskel er der på strukturen af et gen i en virus og et menneske?:: Virus har ingen introns
 <!--SR:!2026-09-21,4,270-->
 - Hvad er forskellen på et gen og en open reading frame?:: ORF er bare en stykke nukleinsyre med et start og slut-codon

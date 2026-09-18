@@ -6,8 +6,8 @@ Neurotrope (inficere neuroner (som sekunldær infektioenr))
 Latens i neuroner
 Kan ende i hjernen
 
-![[HSV 1]]
+![[HSV-1+]]
 
-![[HSV 2]]
+![[HSV-2+]]
 
-![[VZV]]
+![[VZV+]]
