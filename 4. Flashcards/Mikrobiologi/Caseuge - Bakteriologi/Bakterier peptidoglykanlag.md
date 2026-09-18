@@ -16,7 +16,7 @@
 ?
 - NAM
 - NAG
-<!--SR:!2026-09-18,12,270-->
+<!--SR:!2026-11-04,47,290-->
 
 - Hvilken monoskakkrid har påkoplet den krydsbindende peptidkæde?:: NAM
 <!--SR:!2026-10-17,31,270-->
@@ -31,7 +31,7 @@
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
 <!--SR:!2026-09-21,15,290-->
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
-<!--SR:!2026-09-18,12,270-->
+<!--SR:!2026-11-03,46,290-->
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
 <!--SR:!2026-09-22,16,290-->
 - Hvilke 2 peptider danner krydsbindinger i murein?

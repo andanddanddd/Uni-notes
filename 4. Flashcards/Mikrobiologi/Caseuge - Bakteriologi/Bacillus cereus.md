@@ -8,7 +8,7 @@
 - Hvilke del af B. cereus overlever opvarmning?:: Spore
 <!--SR:!2026-09-28,14,290-->
 - Hvad hedder toksinet som giver madforgiftning dannet af B. cereus?:: Cereulid
-<!--SR:!2026-09-18,1,210-->
+<!--SR:!2026-09-19,1,190-->
 - Hvad er inkubationstid og varighed af opkastningsformen af madforgiftning grundet B. cereus?:: Inkubationstid = 15 min til 6 timer og varigheden er under 24 timer
 <!--SR:!2026-09-28,14,290-->
 

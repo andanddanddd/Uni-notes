@@ -9,7 +9,7 @@
 - Hvilken del af DNA hæmmes af sulfonamider?:: Pyrimidin-syntesen
 <!--SR:!2026-09-28,14,290-->
 - Hvad hedder de 2 mest almindelige sulfonamid?:: [[Sulfamethizol]] (kaldes også bare sulfa) og [[Trimethoprim]]
-<!--SR:!2026-09-18,11,270-->
+<!--SR:!2026-10-18,30,270-->
 - Hvordan kan en bakterie blive resistent overfor sulfonamider?:: Den "lærer" at optage folsyre så den ikke selv skal syntetisere det
 <!--SR:!2026-09-23,16,290-->
 

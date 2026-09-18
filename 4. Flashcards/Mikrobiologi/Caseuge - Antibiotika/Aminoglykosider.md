@@ -7,7 +7,7 @@
 - Hvilken effekt har aminoglykosider på proteinsyntesen?:: Forårsager mange nonsense mutationer ved at påvirke initiering af translation, samt få tRNA til at skippe et eller flere basepar så der sker frameshift
 <!--SR:!2026-09-23,16,290-->
 - Hvordan opnås resistense mod aminoglykosider?:: Enzymatisk nedbrydning
-<!--SR:!2026-09-18,11,270-->
+<!--SR:!2026-10-31,43,290-->
 - Hvilke bakterier kan opnå resistens mod aminoglykosider ved at forhindre transport ind i cellen?:: Anerobe (stadig gram-negative)
 <!--SR:!2026-09-23,16,290-->
 - Hvilken patientgruppe skal være påpaselig med aminoglykosider?:: Mennesker med nedsat nyrefunktion
@@ -17,7 +17,7 @@
 - Hvilken type antibiotika er aminoglykosiderne? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]
 <!--SR:!2026-09-22,15,290-->
 - Hvilken bivirkning har aminoglykosider?:: Det påvirker [[N. vestibulocochlearis]]
-<!--SR:!2026-09-18,11,270-->
+<!--SR:!2026-10-28,40,290-->
 
 [[Gentamicin]]
 [[Tobramycin]]

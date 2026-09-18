@@ -11,4 +11,4 @@
 - Hvilken del af tarmen inficere Y. enterocolitica?:: Terminal ileum
 <!--SR:!2026-09-29,15,290-->
 - Hvad er inkubationstiden af Y. enterocolitica?:: 4-6 dage
-<!--SR:!2026-09-18,3,230-->
+<!--SR:!2026-09-27,9,250-->

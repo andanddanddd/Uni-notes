@@ -20,7 +20,7 @@
 
 ## Diagonse og behandling
 - Hvordan behandles T. pallidum?:: [[Penicilin]]
-<!--SR:!2026-09-18,1,230-->
+<!--SR:!2026-09-21,3,250-->
 - Hvad er en gammel alternativ behandling til T. pallidum?:: Feber terapi (den kan ikke tåle varme)
 <!--SR:!2026-09-21,4,270-->
 - Hvordan diagnosticeres syfilis idag?:: mikroskopi af chancre eller test af antistoffer

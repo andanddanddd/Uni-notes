@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad bruges chloramphenicol til?:: Øjendråber
-<!--SR:!2026-09-18,12,270-->
+<!--SR:!2026-10-20,32,270-->
 - Hvilke bakterier virker chloramphenicol imod?:: Det hele det er meget bredspektret
 <!--SR:!2026-10-25,38,290-->
 - Hvad gør chloamphenicol overordnet?:: Inhibere dannelsen af peptidbinding i de nye proteiner

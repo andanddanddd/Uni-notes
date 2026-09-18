@@ -32,7 +32,7 @@
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] C?:: Protein kapsel
 <!--SR:!2026-09-21,4,270-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] D:: Tegument
-<!--SR:!2026-09-18,1,230-->
+<!--SR:!2026-09-19,1,210-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] E?:: Lipidmembran
 <!--SR:!2026-09-21,4,270-->
 
