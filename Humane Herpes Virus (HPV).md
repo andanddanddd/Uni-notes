@@ -25,8 +25,8 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Inhibere apoptose (blokering af p53)
 - Udskiller anti-inflammatoriske cytokiner
 - Går direkte fra celle->celle (det er ikke i det extracellulære rum)
-
-**BEHNADLING????**
+- Hvordan behandles HHV overordnet biokemisk?:: Man giver en nukleosidanalog som ikke kan påkoples flere nukleotider og på den måde stopper det DNA-syntese
+- Hvad hedder det mest almindelige antivirale lægemiddel mod HHV?:: Acyclorvir
 
 ![[Alfaherpesvirus]]
 
