@@ -3,9 +3,14 @@
 
 asymptomatisk/forkølelse
 
-- Hvilke sygdomme forårsages hyppigst af 
+- Hvilke sygdomme forårsages hyppigst af HSV-1? (4)
+?
+- [[Gingivostomatitis]]
+- [[Herpes keratitis]]
+- [[Herpes labialis]]
+- [[Herpes encephalitis]]
 
-Gingibostamtitis bliver værre og værre jo ældre man bliver (selvlimiterende og ufarligt)
+
 
 Det er den samme neuron der er infeiceret og det går samme sted hen derfor kommer forkølelsesåres samme sted
 Man kan have HSV 1 uden det bliver reaktiveret nok til at give forkølelsessår
