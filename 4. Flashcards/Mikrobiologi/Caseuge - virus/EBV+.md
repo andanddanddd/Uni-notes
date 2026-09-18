@@ -7,8 +7,8 @@
 - Hvorfor bliver teeangere syge med EBV?:: Det er der de begynder at dele spyt igen (dvs dem der ikke fik den dom lille får den der)
 - Hvor mange voksne er smittet med EBV?:: Nærmest alle
 - Hvorfor er det værre at få EBV som teenager end som barn?:: De har et større immunrespons
+- Hvordan diagnosticeres EBV?:: Serologi
 
-Børn har mindr eimmunrespons derfor bliver de midnre syga af EBV skoldkopper mm.
 
 T-celler på slide 40 til venstre (effekter-T-celler da responset foregår i blodet)
 

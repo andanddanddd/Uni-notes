@@ -74,8 +74,8 @@ Læsning
 - [ ] 35
 - [ ] 36
 - [ ] 39
-- [ ] 40
-- [ ] 41
+- [x] 40 ($\alpha$-HHV)
+- [x] 41 ($\beta$ og $\gamma$ HHV)
 - [ ] 42
 #### Svamp
 - [x] 47 (Oppertunistiske svampe)
