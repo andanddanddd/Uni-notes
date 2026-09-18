@@ -1,6 +1,7 @@
 #flashcards/5/Mikrobiologi 
 [[Slides - Herpesvirus forelæsning 2026.pdf]]
 
+![[Herpesvirsu]]
 Store virus
 Icosadral kapsid
 Episom = circulært virus-DNA fra ikke circulært vorusDNA
