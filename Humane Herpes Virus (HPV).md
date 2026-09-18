@@ -26,6 +26,8 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Udskiller anti-inflammatoriske cytokiner
 - Går direkte fra celle->celle (det er ikke i det extracellulære rum)
 
+**BEHNADLING????**
+
 ![[Alfaherpesvirus]]
 
 ![[Betaherpesvirus]]

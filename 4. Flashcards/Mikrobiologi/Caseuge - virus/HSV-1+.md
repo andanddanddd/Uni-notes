@@ -1,6 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
+
 asymptomatisk/forkølelse
+
+- Hvilke sygdomme forårsages hyppigst af 
 
 Gingibostamtitis bliver værre og værre jo ældre man bliver (selvlimiterende og ufarligt)
 
