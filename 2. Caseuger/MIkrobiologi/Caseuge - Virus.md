@@ -4,7 +4,7 @@
 [[Forelæsning - Human immunodeficient virus]]
 [[Forelæsning - Influenza virus]]
 [[Forelæsning - Virus struktur, genetik og klassifikation]]
-
+[[Viruser i GI]]
 
 [[Adenovirus]]
 [[Rhinoviru]]

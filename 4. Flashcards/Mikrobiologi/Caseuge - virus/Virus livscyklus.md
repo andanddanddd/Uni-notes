@@ -49,4 +49,6 @@
 - Lyse
 <!--SR:!2026-09-20,3,250-->
 
+![[Latente virus]]
+
 ![[Pasted image 20260916152456.png]]![[Pasted image 20260917100625.png]]
