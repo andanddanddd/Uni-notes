@@ -33,3 +33,5 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 ![[Betaherpesvirus]]
 
 ![[Gammaherpesvirus]]
+
+![[Pasted image 20260918130109.png]]
