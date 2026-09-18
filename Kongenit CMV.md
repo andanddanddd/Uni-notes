@@ -1,6 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
-- Hvad er symptomerne på kengenit CMV?
+- Hvad er symptomerne på kongenit CMV?
 ?
 - Hæmmet vækst
 - Gulsort
@@ -8,5 +8,6 @@
 - Døvhed
 - Mental retardering
 - Encephalitis/meningitis
+<!--SR:!2026-09-19,1,230-->
 
 - Hvilke senfølger kan komme af asymptomatisk kongenit CMV?:: Mental retardering og høretab (kan opstå flere år efter fødsel)
