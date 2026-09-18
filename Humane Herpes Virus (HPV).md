@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/5/Mikrobiologi 
 
 
 Imidiate-earky = alpha-proein (de er alle transskribtionsfaktorer)
