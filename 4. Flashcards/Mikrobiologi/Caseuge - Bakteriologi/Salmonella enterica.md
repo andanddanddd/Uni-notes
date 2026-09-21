@@ -9,7 +9,7 @@
 - Hvordan overlever salmonella mavesyre?:: Det gør den slet heller ikke altid, den er mere syresensitiv end [[Shigella]], derfor er PPI en risikofaktor for salmonella ellers skal der virkelig mange bakterier til før der sker en infektion (dvs der skal mange til før nok af dem kommer igennem mavesyren)
 <!--SR:!2026-09-30,16,290-->
 - Hvordan kommer salmonella ind i cellerne i tarmen?:: De kommer ind i [[M-celler]] via "ruffling" dvs de selv inducere fagocytose af dem selv
-<!--SR:!2026-09-21,7,250-->
+<!--SR:!2026-10-09,18,250-->
 - Hvad sker ofte med salmonella når det kommer igennem M-cellerne?:: Det indtræder i blodbanen
 <!--SR:!2026-09-29,15,290-->
 

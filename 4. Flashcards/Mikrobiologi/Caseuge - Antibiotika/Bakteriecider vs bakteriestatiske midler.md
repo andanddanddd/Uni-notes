@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad virker hurtigt? Bacteriecidale midler eller Bakteiestatiske midler?:: Bakteriecidale midler , Se [[Sulfonamider]] for yderligere forklaring
-<!--SR:!2026-09-21,14,290-->
+<!--SR:!2026-11-18,58,310-->
 
 
 - Hvorfor kan bakteriestatiske midler være bedre end baktericider?:: Bakteriecider dræber alle bakterierne hurtigt hvilket frigiver mange af deres komponenter hvilket giver mere inflammation, bakteriestatiske midler giver immunforsvaret tid til at rydde op på en mere kontrolleret måde

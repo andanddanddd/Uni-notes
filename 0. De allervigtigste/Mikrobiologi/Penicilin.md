@@ -1,9 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvorfor virker penicilin dårligt mod bakterier der ikke vokser?:: Penicilin hæmmer kun dannelsen af nye krydsbindinger i murein, hvis den ikke vokser skal der ikke laves mange nye krydsbindinger, penicilin har derfor kun en lille effet
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-18,58,310-->
 - Hvorfor virker penicilin dårligt mod bakterier der mangler autolysin?:: Autolysin nedbryder peptidbroerne i murein, hvis det mangler skal der laves færre nye peptidbroer og dermed er der færre angrebspunkter for penicilin
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-14,54,310-->
 - Hvorfor virker penicilin ikke mod [[Mycoplasma]]?:: De har ingen murein
 <!--SR:!2026-09-22,16,290-->
 - Hvad hedder svampen der først producerede penicilin?:: Penicillium

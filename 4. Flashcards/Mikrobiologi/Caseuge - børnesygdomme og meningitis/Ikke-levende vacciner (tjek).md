@@ -4,7 +4,7 @@
 ?
 - Patogener som ikke kan replikere (de er inaktiverede)
 - [[Subunitvacciner]]
-<!--SR:!2026-09-20,15,290-->
+<!--SR:!2026-11-19,59,310-->
 
 - Hvorfor kan det være et problem at opregulere de specifikke epitoper som er nemmest at lave adaptiv respons imod?:: Man kan risikere at danne et peptid som ikke kan præsenteres på de specifikke HLA molekyler som et individ har
 <!--SR:!2026-10-24,39,290-->
@@ -17,9 +17,9 @@
 - Hvilken fordel har ikke-levende vacciner?:: De kan ikke give infektion og de kan håndteres mere groft
 <!--SR:!2026-09-19,14,290-->
 - Hvilken ulempe har ikke-levende vacciner?:: De giver ikke altid et godt respons (der kan mangle DAMPs [[Adjuvans (tjek)]])
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-15,55,310-->
 
 - Hvilken vaccine indeholder patogener som ikke kan replikere?:: [[Polio]]
-<!--SR:!2026-09-21,16,290-->
+<!--SR:!2026-11-25,65,310-->
 - Hvilke vacciner bruger proteiner fra patogener:: [[Influensavaccine]] (Nej? ifølge trine)
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-15,55,310-->

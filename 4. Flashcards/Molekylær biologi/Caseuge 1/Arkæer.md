@@ -3,7 +3,7 @@
 - Hvad er arkæer?:: En gammel form for bakterie
 <!--SR:!2026-11-15,60,310-->
 - Hvor lever arkæer?:: I barske forhold
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-16,56,310-->
 - Hvilke arkæer er pategene?:: Ingen
 <!--SR:!2026-09-19,14,290-->
 - Har arkæer en cellekerne?:: Nej

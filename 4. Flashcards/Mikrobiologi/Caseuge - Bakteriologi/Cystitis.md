@@ -55,7 +55,7 @@
 
 ## Behandling
 - Hvordan behandles simpel cystitis som udgangspunkt?:: [[Pivmecillinam]]
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-03,12,270-->
 - Udover [[Pivmecillinam]] hvad kan så bruges til behandling af cystitis?
 ?
 - [[Ciprofloxacin]]

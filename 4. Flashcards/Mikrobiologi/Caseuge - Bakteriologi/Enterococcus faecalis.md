@@ -6,7 +6,7 @@
 - Hvordan spreder E. faecalis sig?:: Typisk igennem hænder (men det kan også være objekter)
 <!--SR:!2026-09-30,16,290-->
 - Hvor sker de fleste tilfælde af E. faecalis henne?:: Hospitaler
-<!--SR:!2026-09-19,7,250-->
+<!--SR:!2026-10-15,24,270-->
 - Hvilke infektioner giver enterocuccus faecalis?
 ?
 - Urinvejsinfektioner
@@ -30,4 +30,4 @@
 - Hvordan behandles med [[Aminoglykosider]] når E. faecalis egentlig er resistent?:: Det gives sammen med penicilin så membranen ødelægges lidt så Aminoglykosiderne kan trænge igennem
 <!--SR:!2026-09-29,15,290-->
 - Hvilken nyere antibiotika bruges til behanlding af E. faecalis?:: [[Linezolid]]
-<!--SR:!2026-09-21,5,250-->
+<!--SR:!2026-09-24,3,230-->

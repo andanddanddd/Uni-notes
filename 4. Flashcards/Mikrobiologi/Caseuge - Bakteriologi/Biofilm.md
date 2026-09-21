@@ -5,4 +5,4 @@
 - Hvad bruges til at holde bakterierne sammen i biofilm?:: Polysakkarider
 <!--SR:!2026-10-11,27,270-->
 - Hvor i kroppen dannes biofilm ofte?:: Tænder
-<!--SR:!2026-09-20,15,290-->
+<!--SR:!2026-11-22,62,310-->

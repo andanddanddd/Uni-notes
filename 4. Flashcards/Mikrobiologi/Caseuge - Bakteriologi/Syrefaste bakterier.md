@@ -7,6 +7,6 @@
 - Hvilken særlig egenskab har de syrefaste bakterier?:: De kan modstå syre
 <!--SR:!2026-09-22,16,290-->
 - Hvad kendetegner væksten af de syrefaste bakterier?:: De deler sig langsomt
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-16,56,310-->
 - Hvilken farvemetode bruges til at farve de syrefaste bakterier?:: Ziehl-Neelsen technique
 <!--SR:!2026-10-03,16,210-->
