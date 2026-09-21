@@ -29,4 +29,8 @@
 - Hvornår er der flest tilfælde af influenza C?:: Den er ikke sæsonafhængig men smitter primært børn under 4 år
 
 ## Forebyggelse og behandling
-- Hvordan virker antivirale lægemidler mod influenza?:: Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet
+- Hvordan virker antivirale lægemidler mod influenza?
+?
+- Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet 
+- RNA-replikation hæmmes
+- Stoppe 
