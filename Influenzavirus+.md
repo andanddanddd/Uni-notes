@@ -28,9 +28,30 @@
 - Hvornår er der flest tilfælde af influenza A+B?:: Vinterhalvåretet (Oktober til april i den norlige hemisphere)
 - Hvornår er der flest tilfælde af influenza C?:: Den er ikke sæsonafhængig men smitter primært børn under 4 år
 
+## Sygdomme og komplikationer
+- Hvilke symptomer giver influenzavirus oftest?
+?
+- Hoste
+- Ondt i halsen
+- Feber
+- Muskelsmerter
+- Træthed
+- Hovedpine
+
+- Hvilke "alvorlige" sygdomme kan influenzavirus give?
+?
+- [[Reye's syndrom]]
+- [[Guillain-Barre syndrom]]
+- [[Kleine-Levin syndrom]]
+
+## Diagsostik
+- Hvordan diagnosticeres influenza oftest?:: Kliniske fund
+- Hvilke laboratorietest laves for at diagnosticere influenza?:: Isolering af virus og PCR
 ## Forebyggelse og behandling
+- Hvordan behandles influenza oftest?:: Symptombehandling
+- Hvordan forebygges influenza?:: Vacciner
 - Hvordan virker antivirale lægemidler mod influenza?
 ?
 - Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet 
 - RNA-replikation hæmmes
-- Stoppe 
+- Stoppe Sialinsyrereceptorer fra at blive nedbrugt/internaliseret
