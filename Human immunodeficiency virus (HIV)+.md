@@ -48,6 +48,7 @@
 
 - Hvor længe går der fra infektion af HIV til [[AIDS]] indtræder?:: Omkring 10 år
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
+- Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
 ## Diagonstik
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 
