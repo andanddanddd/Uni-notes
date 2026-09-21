@@ -40,7 +40,8 @@
 <!--SR:!2026-10-05,14,290-->
 - Hvilken type cancer kan kvinder med tidligere C. trachomatis infektion være i øget risiko for at få?:: Ovariecancer
 <!--SR:!2026-09-21,4,270-->
-- ![[Trachoma]]
+
+![[Trachoma]]
 ## Diagnostik/behandling
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
 <!--SR:!2026-10-03,12,270-->
