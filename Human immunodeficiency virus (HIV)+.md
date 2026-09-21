@@ -3,6 +3,7 @@
 [[Retrovirus]]
 
 ## Struktur
+- Hvilken form har HIVs kapsel?:: Kegleformet
 
 ## Livscyklus
 - Hvad he

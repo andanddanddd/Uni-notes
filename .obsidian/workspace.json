@@ -45,6 +45,16 @@
               "icon": "lucide-file",
               "title": "Skabelon - Virus"
             }
+          },
+          {
+            "id": "9d025a150f1ee9b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       },
@@ -255,9 +265,9 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "Skabeloner/Skabelon - Virus.md",
-    "Retrovirus.md",
     "Human immunodeficiency virus (HIV)+.md",
+    "Retrovirus.md",
+    "Skabeloner/Skabelon - Virus.md",
     "Untitled",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Human immunodeficient virus.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
