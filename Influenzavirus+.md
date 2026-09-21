@@ -3,7 +3,7 @@
 ## Struktur
 - Hvilken type arvematriale bruger influenzavirus?:: RNA-
 - Hvordan er strukturen af influenzavirus arvematriale?:: 8 lineære segmenter (kun 7 ved influenza C)
-- Hvilken form har proteinkapslen på influenzavirus?::
+- Hvilken form har proteinkapslen på influenzavirus?:: Hver RNA har en helikalligenende kapsel omkring sig
 - Har influenzavirus en lipidmembran?:: Ja
 - Hvad hedder influenza 2 typer glykoproteiner?:: Hemaggutinin (HA) og Neuraminidase (NA)
 - Hvilken effekt har M2 proteiner?:: Influx af H+ igennem lipidmembranen hvilket denaturere kapslen så arvematrialet kan komme ud
