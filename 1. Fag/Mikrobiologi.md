@@ -69,7 +69,7 @@ Læsning
 #### Virus
 - [x] 31 (generalt om virus)
 - [ ] 32
-- [ ] 33
+- [x] 33 (Influenza)
 - [ ] 34
 - [ ] 35
 - [ ] 36

@@ -28,7 +28,7 @@
 - Hvilke seksuelt overførte sygdomme får kun dem der udøver høj-risiko adfærd?
 ?
 - [[Syfilis]]
-- [[human immunodeficiency virus (HIV)+]]
+- [[Human immunodeficiency virus (HIV)+]]
 - [[Hepatitis]] (A,B,C)
 <!--SR:!2026-10-07,16,290-->
 

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Influenzavirus+.md",
+                "file": "Human immunodeficiency virus (HIV)+.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Influenzavirus+"
+              "title": "Human immunodeficiency virus (HIV)+"
             }
           }
         ],
@@ -65,21 +65,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "c6bc911f31050fb2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Influenza 2026"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -270,8 +256,13 @@
   },
   "active": "0ce205b3e1ca7559",
   "lastOpenFiles": [
-    "4. Flashcards/Genetik/Genetisk drift.md",
+    "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
+    "Human immunodeficiency virus (HIV)+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Human immunodeficient virus.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
+    "1. Fag/Mikrobiologi.md",
     "Influenzavirus+.md",
+    "4. Flashcards/Genetik/Genetisk drift.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
     "Antigenskift.md",
     "3. Forelæsninger/Genetik/Forelæsning - Populationsgenetik.md",
@@ -283,7 +274,6 @@
     "Kongenit CMV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Neonatal herpes.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Herpes genitalis.md",
-    "1. Fag/Mikrobiologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/EBV+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Humane Herpes Virus (HPV).md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/CMV+.md",
@@ -299,10 +289,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260917095932.png",
     "Billeder/Mikrobiologi/Pasted image 20260918101549.png",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Alfaherpesvirus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/VZV+.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 2 - CNS og PNS/Soma (neuron).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/HSV-1+.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/HSV-2+.md",
     "Billeder/Mikrobiologi/Pasted image 20260918100639.png",
     "Billeder/Mikrobiologi/Pasted image 20260917100625.png",
     "Billeder/Mikrobiologi/Pasted image 20260917100447.png",
