@@ -4,6 +4,6 @@
 - Hvilke patogener vaccineres der imod ved 3,5 og 12 mdr?
 ?
 - [[Corynebacterium diphtheriae]]
-- [[Tetanus]]
+- [[Clostridium tetani]]
 - [[Kighoste]]
 - [[Heamophilus influenza infektioner]]
