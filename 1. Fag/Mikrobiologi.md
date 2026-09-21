@@ -76,7 +76,7 @@ Læsning
 - [ ] 39
 - [x] 40 ($\alpha$-HHV)
 - [x] 41 ($\beta$ og $\gamma$ HHV)
-- [ ] 42
+- [x] 42 (HIV)
 #### Svamp
 - [x] 47 (Oppertunistiske svampe)
 #### Parasitter

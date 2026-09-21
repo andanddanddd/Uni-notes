@@ -1,6 +1,8 @@
 #flashcards/5/Mikrobiologi 
 [[Slides - Bakterier_børnesygdomme.pdf]]
 
+![[Børnevaccinationsprogrammet i DK]]
+
 C. diphteriae er den eneste stav hvor lejring er relevant (dens toksin stoppper proteinsyntesen)
 	Vaccinen bruger aluminium som adjuvans
 
