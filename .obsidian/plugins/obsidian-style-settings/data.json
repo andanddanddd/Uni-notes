@@ -15,5 +15,7 @@
   "simple-colored-folder@@bg-excalidraw@@light": "#0AEFFF",
   "simple-colored-folder@@col-excalidraw@@light": "#000000",
   "simple-colored-folder@@bg-externedokumenter@@light": "#147DF5",
-  "simple-colored-folder@@col-externedokumenter@@light": "#000000"
+  "simple-colored-folder@@col-externedokumenter@@light": "#000000",
+  "simple-colored-folder@@bg-skabeloner@@light": "#147DF5",
+  "simple-colored-folder@@col-skabeloner@@light": "#000000"
 }

@@ -1,5 +1,5 @@
 #flashcards/3/Immunologi 
 
-[[Virus]]
+[[4. Flashcards/Molekylær biologi/Caseuge 1/Virus]]
 
 ![[Sekundære infektioner]]

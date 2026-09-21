@@ -1,5 +1,5 @@
 #flashcards/5/Mikrobiologi 
-[[Slides - Virus struktur, genetik og klassifikation 2026.pdf]] [[Virus]] [[Polio]]
+[[Slides - Virus struktur, genetik og klassifikation 2026.pdf]] [[4. Flashcards/Molekylær biologi/Caseuge 1/Virus]] [[Polio]]
 
 ![[4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur]]
 
