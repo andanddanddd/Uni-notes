@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Børnevaccinationsprogrammet i DK.md",
+                "file": "Corynebacterium diphtheriae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Børnevaccinationsprogrammet i DK"
+              "title": "Corynebacterium diphtheriae"
             }
           },
           {
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -254,8 +255,9 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Børnevaccinationsprogrammet i DK.md",
+    "Corynebacterium diphtheriae.md",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Børnesygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Antigenskift.md",
