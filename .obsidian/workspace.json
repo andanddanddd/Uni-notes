@@ -26,10 +26,14 @@
             "id": "9d025a150f1ee9b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Forelæsning - Bakterier der vaccineres imod"
             }
           }
         ]
@@ -126,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -255,10 +258,12 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "Børnevaccinationsprogrammet i DK.md",
-    "Corynebacterium diphtheriae.md",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
+    "Corynebacterium diphtheriae.md",
+    "Difteri.md",
+    "Pasted image 20260921142601.png",
+    "Børnevaccinationsprogrammet i DK.md",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Børnesygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Antigenskift.md",
     "Billeder/Mikrobiologi/Pasted image 20260918130109.png",
@@ -286,7 +291,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Kongenit CMV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Neonatal herpes.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Herpes genitalis.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/EBV+.md",
     "Billeder/Mikrobiologi/Pasted image 20260918133324.png",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260918130644.png",
@@ -295,7 +299,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260918100639.png",
     "Billeder/Mikrobiologi/Pasted image 20260917100625.png",
     "Billeder/Mikrobiologi/Pasted image 20260917100447.png",
-    "Billeder/Mikrobiologi/Pasted image 20260917100415.png",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
     "Excalidraw/Mikrobiologi/Untitled.base",
     "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - sexuelle_sygdome_E26.pdf",
