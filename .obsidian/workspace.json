@@ -28,12 +28,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Influenzavirus+.md",
+                "file": "4. Flashcards/Genetik/Genetisk drift.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Influenzavirus+"
+              "title": "Genetisk drift"
             }
           }
         ],
@@ -260,8 +270,8 @@
   },
   "active": "0ce205b3e1ca7559",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
     "Influenzavirus+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Seksuelt overførte sygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia trachomatis+.md",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
