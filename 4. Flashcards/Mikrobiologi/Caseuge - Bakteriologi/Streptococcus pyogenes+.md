@@ -39,9 +39,9 @@
 - Hvad gør streptolysin?:: Lysere erytrocytter
 <!--SR:!2026-09-21,7,270-->
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
-<!--SR:!2026-09-19,7,250-->
+<!--SR:!2026-10-08,17,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
-<!--SR:!2026-09-19,7,250-->
+<!--SR:!2026-10-16,25,270-->
 
 ## Symptomer/komplikationer
 - Hvad er de systemiske komplikationer af pharyngitis forårsaget af S. pyogenes?
@@ -49,7 +49,7 @@
 - [[Scarletina]]
 - [[Reumatisk feber]]
 - [[Glomerulonephritis]]
-<!--SR:!2026-09-19,7,250-->
+<!--SR:!2026-10-17,26,270-->
 
 - Hvad er den mest normale sygdom forårsaget af streptococcus pyogenes?:: Pharyngitis
 <!--SR:!2026-09-28,16,290-->

@@ -5,7 +5,7 @@
 - Tid før virkning
 - Bakteriers følsomhed
 - Bivirkninger
-<!--SR:!2026-09-21,14,290-->
+<!--SR:!2026-11-18,58,310-->
 
 ![[Bakteriecider vs bakteriestatiske midler]]
 

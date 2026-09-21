@@ -11,7 +11,7 @@
 - Hvilke bakterier kan opnå resistens mod aminoglykosider ved at forhindre transport ind i cellen?:: Anerobe (stadig gram-negative)
 <!--SR:!2026-09-23,16,290-->
 - Hvilken patientgruppe skal være påpaselig med aminoglykosider?:: Mennesker med nedsat nyrefunktion
-<!--SR:!2026-09-21,14,290-->
+<!--SR:!2026-11-18,58,310-->
 - Hvordan administreres aminoglykosider?:: IV (til tider intrathekalt)
 <!--SR:!2026-09-23,16,290-->
 - Hvilken type antibiotika er aminoglykosiderne? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]

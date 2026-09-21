@@ -8,6 +8,6 @@
 - Døvhed
 - Mental retardering
 - Encephalitis/meningitis
-<!--SR:!2026-09-19,1,230-->
+<!--SR:!2026-09-23,2,230-->
 
 - Hvilke senfølger kan komme af asymptomatisk kongenit CMV?:: Mental retardering og høretab (kan opstå flere år efter fødsel)

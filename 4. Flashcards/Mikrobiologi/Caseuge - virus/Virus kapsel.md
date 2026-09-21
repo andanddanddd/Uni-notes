@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi [[4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur|Virus struktur]]
 
 - Hvor mange proteiner består kapsel typisk af?:: En del men typisk ikke mange forskellige (3 ish)
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-06,15,290-->
 - Hvilke virus har en head-tail-kapsel?:: Kun [[Bakteriofager]]
 <!--SR:!2026-09-22,4,270-->
 - Hvordan samles viras kapsel?:: Den samler sig selv
@@ -11,14 +11,14 @@
 - Ikosaedrisk
 - Helical/spiral (filamentous på engelsk)
 - Head tail (Kompleks)
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-03,12,270-->
 
 ![[Virus kapsel.png]]
 #### Occlusion
 
 ![[Virus kapsel former]]A?:: Ikosaedrisk
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-03,12,270-->
 ![[Virus kapsel former]]B?:: Helical/spiral (filamentous på engelsk)
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-03,12,270-->
 ![[Virus kapsel former]]C?:: Head tail (Kompleks)
 <!--SR:!2026-09-21,4,270-->

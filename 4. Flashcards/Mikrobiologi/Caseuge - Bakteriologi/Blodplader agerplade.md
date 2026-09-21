@@ -7,7 +7,7 @@
 - Hvad er $\beta$-hæmolyse overordnet?:: Fuldstændig hæmolyse
 <!--SR:!2026-09-22,16,290-->
 - Hvordan ses $\beta$-hæmolyse overordnet?:: Agaren bliver gennemsigtig
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-14,54,310-->
 - Hvad er $\gamma$-hemolyse?:: Ingen hemolyse
 <!--SR:!2026-09-29,15,290-->
 ![[Pasted image 20260908083831.png]]

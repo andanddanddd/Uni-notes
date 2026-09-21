@@ -31,4 +31,4 @@
 - Hvad hedder strukturen bestående af et lag bakterier der sidder sammen af lipopolysakkarider?:: [[Biofilm]]
 <!--SR:!2026-09-21,16,290-->
 - Hvor hurtigt er bakteriers metabolisme i forhold til eukaryoters?:: Bakteriers metabolisme er ofte meget hurtigere, derfor kan de dele sig meget hurtigt
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-17,57,310-->

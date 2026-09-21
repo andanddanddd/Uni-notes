@@ -7,11 +7,11 @@
 - Hvilken patientgruppe har øget risiko for at få bakterieæmi af neisseria?:: Dem med sygdomme i [[Komplementsystemet]] (men det ses også i ellers raske individer)
 <!--SR:!2026-09-21,4,270-->
 - I hvilket oxidativt miljø lever neisseria bedst?:: De er fakualtivt anaerobe
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-05,14,290-->
 - Hvad kaldes tilstanden når neisseria ender i blodbanen?:: [[Dissminated intravascular coagulation (DIC)]]
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-03,12,270-->
 - Hvilken test laves for at identificere om en gram-negativ kok er en neisseria?:: Oxidase test (man tester for et protein i elektron-transportkæden)
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-05,14,290-->
 
 [[Neisseria meningitidis+]]
 [[Neisseria gonorrhoeae+]]

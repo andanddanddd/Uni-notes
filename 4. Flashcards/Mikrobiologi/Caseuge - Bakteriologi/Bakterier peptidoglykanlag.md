@@ -1,17 +1,17 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes peptidoglykanlaget i makteriecellevæggen også?:: Murein
-<!--SR:!2026-09-20,15,290-->
+<!--SR:!2026-11-19,59,310-->
 - I hvilken type bakterie har murein den største beskyttende effekt?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-17,57,310-->
 - Hvordan er bakterier peptidoglykanlag overordnet opbygget?:: Sukkerkæder krydsbundet med peptider
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-16,56,310-->
 - Hvad beskytter bakterier peptidoglykanlag imod?:: Lavt extracellulært osmotisk tryk (antilyserende) (særligt for grampositive bakterier)
 <!--SR:!2026-09-21,16,290-->
 - Hvilken polaritet har murein og hvilken effekt har det?:: Meget hydrofil, dermed kan hydrophofe stoffer ikke gennemtrænge bakteriecellevæggen på trods af at de kan komme igennem doppeltlippidlaget (særligt for grampositive bakterier)
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-14,54,310-->
 - Hvilken forskel er der på peptidbroerne i [[Gram-positive bakterier]] og [[Gram-negative bakterier]]?:: Gram positive bakterier har 5 ekstra glycin til at binde de 2 peptidkæder sammen
-<!--SR:!2026-09-21,16,290-->
+<!--SR:!2026-11-24,64,310-->
 - Hvad hedder de 2 modificerde monosakkarider som Murein består af? (forkortet)
 ?
 - NAM
@@ -29,7 +29,7 @@
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
 <!--SR:!2026-09-25,13,230-->
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
-<!--SR:!2026-09-21,15,290-->
+<!--SR:!2026-11-22,62,310-->
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
 <!--SR:!2026-11-03,46,290-->
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
@@ -43,7 +43,7 @@
 - Hvilken modificering kan ske til lysin i de krydsbindende peptidkæder?:: Carboxylering af sidekæden
 <!--SR:!2026-09-22,16,290-->
 - Hvilken aminosyre kløves væk i transpeptidationen?:: D-alanin
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-14,54,310-->
 - Hvilken [[Antibiotika]] ligner D-alanin-dimere?:: [[Penicilin]]
 <!--SR:!2026-09-21,15,290-->
 

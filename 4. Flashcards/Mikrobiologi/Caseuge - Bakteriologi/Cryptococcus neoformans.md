@@ -8,8 +8,8 @@
 - Hvordan smitter Cryptococcus neoformans normalt?:: Inhalation af spore
 <!--SR:!2026-09-19,4,270-->
 - Hvem bliver normalt syg af Cryptococcus neoformans?:: Immunkomprimenterede (tidligere særligt ved AIDS)
-<!--SR:!2026-09-19,4,270-->
+<!--SR:!2026-10-05,14,290-->
 - Hvilke infektion giver Cryptococcus neoformans?:: Lungebetændelse men det kan sprede sig til resten af kroppen uden der har været symptomer i lungerne, her kan det eks sprede sig til hjernehinderne
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-28,7,250-->
 - Hvorfor kan cryptococcus neoformans overleve i kroppen?:: Den har en tyk kapsel
-<!--SR:!2026-09-20,4,270-->
+<!--SR:!2026-10-03,12,270-->

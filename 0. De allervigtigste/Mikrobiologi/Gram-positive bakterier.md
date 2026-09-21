@@ -1,9 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan kendetegnes opbygningen af gram-positive bakterier overordnet?:: Tykt lag peptidoglykan
-<!--SR:!2026-09-20,15,290-->
+<!--SR:!2026-11-21,61,310-->
 - Hvilken farve bliver gram-positive bakterier ved [[Gram-farvning]]?:: Lilla
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-17,57,310-->
 
 [[Staphylcoccer]]
 [[Streptococcer]]

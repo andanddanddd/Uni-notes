@@ -2,7 +2,7 @@
 
 ## Ankomst til cellen
 - Hvordan kommer virus ind i en celle?:: Enten receptormedieret endocytose eller fusion med cellemembranen
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-06,15,290-->
 - Hvad kan en virus bruge som ligand til receptormedieret endocytose?:: Glykoproteiner eller selve kapslen
 <!--SR:!2026-09-22,4,270-->
 - Hvordan kommer genomet ud af kapslen?:: Ofte sker der en konformitetsændring når virussen binder til værtcellen der tillader genomet i at slippe ud, andre gange kræver det enzymatisk hjælp fra værtscellen
@@ -14,7 +14,7 @@
 - Hvordan kan en virus nogle gange lave transskription i cytoplasma?:: Hvis det er en RNA-virus skal den alligevel bruge sine egne enzymer, så er der ingen grund til at skulle ind i kernen
 <!--SR:!2026-09-22,4,270-->
 - Hvor formere virus sig?:: Altíd intracellulært
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-07,16,290-->
 - Når en virus er kommet ind i en celle hvordan deler den sig så overordnet?:: Den bruger cellens egne mekanismer til at replikere dens genom og syntetisere dens kapsel
 <!--SR:!2026-09-22,4,270-->
 #### Replikation af genom
@@ -26,7 +26,7 @@
 
 #### Viral proteinsyntese
 - Hvor forgår transskription henne?:: Enten cytoplasma eller i cellekernen
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-07,16,290-->
 - Hvordan laver en RNA+ virus mRNA?:: Det er allerede mRNA
 <!--SR:!2026-09-22,4,270-->
 - Hvordan laver en RNA- virus mRNA?: Det skal undergå en form for replikation så det bliver RNA+/mRNA, dette kræver et enzym virussen selv skal have med
