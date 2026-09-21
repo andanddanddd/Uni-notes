@@ -6,7 +6,14 @@
 - Hvilken form har HIVs kapsel?:: Kegleformet
 
 ## Livscyklus
-#### Smitte
+- Hvilke celler inficere HIV?:: Cd4+ [[T-celler]] og [[Monocytter]]
+- Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
+- Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
+- Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
+- Hvordan kommer HIV ud af celler?:: Budding
+![[Pasted image 20260921115642.png]]
+
+## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn 
@@ -16,8 +23,6 @@
 - Sexuel kontakt
 - Nåle
 - Mor til barn (gennem modermælk eller ved fødsel fra cervix)
-
-## Epidemiologi
 
 ## Symptomer og komplikationer
 
