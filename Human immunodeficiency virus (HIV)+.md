@@ -13,6 +13,8 @@
 - Hvordan kommer HIV ud af celler?:: Budding
 ![[Pasted image 20260921115642.png]]
 
+## Undvigelse af immunforsvaret og behandling
+- Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus 
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
