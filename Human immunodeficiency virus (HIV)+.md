@@ -13,6 +13,10 @@
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
 - Hvordan kommer HIV ud af celler?:: Budding
 ![[Pasted image 20260921115642.png]]
+## Igangsættelse og fortsættelse af infektion
+- Hvor spreder en infektion sig hen fra slimhinder?:: I starter spreder den sig ikke meget kun slimhinden og lokale lymfeknuder
+- Hvorfor "dør" en lokal infektion typisk?:: HIV løb tør for celler
+- Hvorfor "løber HIV ikke altid tør for celler at inficere" når den kun er lokalt i starten?:: Den inducere inflammation og der tilkaldes derfor flere immunceller og dermed flere celler den kan inficere
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
@@ -33,6 +37,7 @@
 - Mor til barn (gennem modermælk eller ved fødsel fra cervix)
 
 ## Symptomer og komplikationer
+- Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]] dvs
 
 ## Diagonstik
 
