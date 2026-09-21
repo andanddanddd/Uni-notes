@@ -11,6 +11,7 @@
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
+- Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 - Hvordan kommer HIV ud af celler?:: Budding
 ![[Pasted image 20260921115642.png]]
 ## Igangsættelse og fortsættelse af infektion
@@ -37,9 +38,18 @@
 - Mor til barn (gennem modermælk eller ved fødsel fra cervix)
 
 ## Symptomer og komplikationer
-- Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]] dvs
+- Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]] 
+- Hvilke symptomer har den initielle HIV-infektion?
+?
+- Feber
+- Hovedpine
+- Utilpashed
+- Udslet
 
+- Hvor længe går der fra infektion af HIV til [[AIDS]] indtræder?:: Omkring 10 år
+- Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
 ## Diagonstik
+- Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 
 ## Forebyggelse og behandling
 - Hvordan forebygges vertikal smitte af HIV?:: Hvis moderen er behandlet er der en <2% risiko for at barnet bliver inficeret
