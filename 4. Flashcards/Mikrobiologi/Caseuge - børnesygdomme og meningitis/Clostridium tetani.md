@@ -23,7 +23,7 @@
 - Hvordan forebygges infektion med C. tetani overordnet?:: Vaccine
 - Hvad kendetegner C. tetani vaccinen?:: Toksidvaccine ([[Subunitvacciner]])
 <!--SR:!2026-09-26,4,270-->
-- Hvordan behandles en infektion med C. tetani?:: Vaccine, antitoksin, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)
+- Hvordan behandles en infektion med C. tetani?:: [[Passiv immunisering]], antitoksin, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)
 <!--SR:!2026-09-26,4,270-->
 
 

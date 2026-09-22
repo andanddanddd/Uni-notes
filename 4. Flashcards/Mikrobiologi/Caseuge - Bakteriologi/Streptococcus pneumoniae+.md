@@ -33,6 +33,7 @@ Smitevej
 
 - Hvordan kan streptococcus pneumoniae genkendes?:: Den laver falde kolonier og laver $\alpha$-hæmolyse
 <!--SR:!2026-10-13,25,270-->
+- Hvilken test laves for at genkende s. pneumoniae fra de andre [[Streptococcer]] og hvordan gendkendes s. pneumonia derpå?:: [[Optochin test]] S. pneumonia er følsom overfor optochin derfor lave s
 
 ## Forebyggelse og behandling
 Resistens
