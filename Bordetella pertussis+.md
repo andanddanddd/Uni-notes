@@ -16,10 +16,12 @@
 - [[Adenylate cyclase toksin (ACT)]]
 - [[Tracheal cytotoxin (TCT)]]
 - [[Lipooligosaccharide (LOS)]]
+- [[Biofilm]]
 
 - Hvilke mekanismer giver den karakteristisek hoste fra B. pertussis?:: Der er meget mucus samtidig med at hostereceptorer bliver mere følsomme og cillierne bliver ødelagt så de nedre luftveje er generalt dårligere til at komme af med mucus
 ## Smitte og epidimologi
 - Hvor smitsom er B. pertussis?:: MEGET smitsom 
+- Hvilken smittevej har B. pertussis?:: Inhalation
 
 ## Symptomer og komplikationer
 - Hvilken infektion giver B. pertussis typisk?:: [[Bronkopneumoni]]
@@ -28,11 +30,12 @@
 - Hvorfor kan B. pertussis lede til dehydrering?:: At synke kan give et hosteadfærd derfor prøver børn at undgå det
 
 ## Diagnostik
+- Hvornår er det nemmeste at dyrke B. pertussis?:: Den første uge af infektion (stadie 1) herefter er bakterien måske død ellers har den bare bevæget sig ned i dybere lag
 
 ## Forebyggelse og behandling
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
 
 #### Vaccine
-- Hvad kendetegner B. pertussis vaccinen?:: Toksidvaccine ([[Subunitvacciner]])
+- Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner
 - Hvornår gives B. pertussis vaccinen?:: ved 3, 5, 12 mdr og 5 år
 - Hvordan har B. perussis-vaccinen udviklet sig?:: Det startede som en levende svækkede bakterie men nu er den en toksidvaccine
