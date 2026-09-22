@@ -4,7 +4,7 @@ Methylblot på slide 8
 
 ## Generalt
 - Hvilken sygdom giver N. gonorrhaeae?:: [[Gonoré]]
-<!--SR:!2026-09-20,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - Hvilken form har N. gonorrhoaea?:: Kokker (bønneformede)
 <!--SR:!2026-10-03,12,270-->
 - Hvordan er lejringen af N. gonorrhoaea?:: Diplokokker

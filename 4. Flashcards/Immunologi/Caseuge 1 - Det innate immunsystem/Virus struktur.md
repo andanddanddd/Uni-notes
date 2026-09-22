@@ -7,7 +7,7 @@
 - Hvad består en virus overordnet af?:: Nukleinsyre inde i en proteinkapsel
 <!--SR:!2026-10-06,15,290-->
 - Hvor i virus findes glukoproteiner?:: Udenpå kapslen eller lipidmembranen hvis den har sådan en (de er ikke begge steder på en gang)
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
 <!--SR:!2026-09-21,4,270-->
 - Hvilken funktion har glykoproteinerne på virus?:: Komme ind i celler

@@ -6,7 +6,7 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 - Hvad bruges gram farvning til?:: Gramfarvning bruges til at differentiere bakterier baseret på deres cellevægsstruktur og inddele dem i gram-positive og gram-negative.
 <!--SR:!2026-11-22,62,310-->
 - Hvad er princippet bag gram-farvning overrdnet?:: Ved de [[Gram-positive bakterier]] bliver det blå kompleks ikke skyldes væk med alkohol dermed forbliver de blå mens de [[Gram-negative bakterier]] bliver "klare"
-<!--SR:!2026-09-20,15,290-->
+<!--SR:!2026-11-20,59,310-->
 - Hvad bruges til at give den røde farve i gram farvning?:: Safranin
 <!--SR:!2026-10-10,28,270-->
 - Safranin er vandopløseligt
@@ -31,6 +31,6 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 ![[Gram-inddeling]] C?:: Murein
 <!--SR:!2026-11-28,67,310-->
 ![[Gram-inddeling]] D?:: Det periplatiske rum
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-26,65,310-->
 ![[Gram-inddeling]] E?:: LPS
 <!--SR:!2026-11-26,65,310-->

@@ -22,7 +22,7 @@
 - Hvordan replikeres RNA på en RNA+ virus?:: Den laver replikation i 2 steps dvs først syntetiseres en RNA- streng som kan bruges som template til en ny RNA+ streng
 <!--SR:!2026-10-08,16,290-->
 - Hvornår sker replikation af det virale genom?:: Ligesåsnart det kan dvs når de rigtige early gener er lavet
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-07,15,290-->
 
 #### Viral proteinsyntese
 - Hvor forgår transskription henne?:: Enten cytoplasma eller i cellekernen
@@ -37,7 +37,7 @@
 - Hvad indeholder virale "early genes" oftest?:: Regulatoriske proteiner og proteiner der skal bruges til replikation (eks RNA-afhængig-RNA-polymerase)
 <!--SR:!2026-10-08,16,290-->
 - Hvad inde virale "late genes" oftest?:: Gener til selve strukturen af virusen
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 ## Afgang
 - Hvornår kommer genomet ind i kapslen?:: Nogle små vira samler sin kapsel rundt om genomet mens de fleste større samler kapslen først og derefter får genomet derind

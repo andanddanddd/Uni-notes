@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken type cellevæg gar neisseria?:: [[Gram-negative bakterier]]
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-07,15,290-->
 - Hvilken form har neisseria?:: Kokker
 <!--SR:!2026-10-08,16,290-->
 - Hvilken patientgruppe har øget risiko for at få bakterieæmi af neisseria?:: Dem med sygdomme i [[Komplementsystemet]] (men det ses også i ellers raske individer)

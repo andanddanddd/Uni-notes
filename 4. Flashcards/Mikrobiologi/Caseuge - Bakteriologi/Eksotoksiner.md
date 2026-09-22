@@ -13,6 +13,6 @@
 - Hvad gør type III eksotoksiner?:: Bliver transporteret ind i cellen via receptormedieret endocytose, her ændre den cellens virkningsmekanismer
 <!--SR:!2026-11-21,61,310-->
 - Hvad gør immunforsvaret mod eksotoksiner?:: Neutralisere dem med [[Antistoffer]]
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-25,64,310-->
 - Hvorfor vaccinere man til tider imod bakteriers toksin og ikke selve bakterien?:: Fordi det stadig tager tid at dræbe bakterierne efter en vaccine så de vil have tid til at udskille deres toksiner
 <!--SR:!2026-11-22,62,310-->
