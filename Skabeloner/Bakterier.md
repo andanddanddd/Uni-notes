@@ -5,6 +5,7 @@
 - Hvilken form har bX?::
 - Hvordan lejres bX?::
 - Hvor lever bX normalt?::
+- Hvilket oxidativt miljø lever bX bedst i?:: 
 
 ## Patogenese
 - Hvilke celler inficere bX?::

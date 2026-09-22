@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bordetella pertussis+.md",
+                "file": "Kighoste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bordetella pertussis+"
+              "title": "Kighoste"
             }
           },
           {
@@ -272,8 +272,8 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "Skabeloner/Bakterier.md",
     "Bordetella pertussis+.md",
+    "Skabeloner/Bakterier.md",
     "Kighoste.md",
     "Børnevaccinationsprogrammet i DK.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
