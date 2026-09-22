@@ -15,6 +15,8 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 - Hvad bruges til at give den lilla farve i gram-farvning?:: Crystalviolet modificeret med jodjodkalium
 <!--SR:!2026-11-23,63,310-->
 
+- Hvorfor må man ikke blande bakterierne og vand for godt sammen når man laver gram-farvning?:: Det ødelægger lejring
+- Hvorfor skal vanddråben+bakterierne tørre helt fr man kan fiksere dem?:: Ellers risikoere man at der ker aerosoldannelse
 
 ![[Gram-negative bakterier]]
 
