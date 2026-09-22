@@ -12,12 +12,16 @@
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
+<!--SR:!2026-09-26,4,270-->
 - Hvordan kommer HIV ud af celler?:: Budding
 ![[Pasted image 20260921115642.png]]
 ## Igangsættelse og fortsættelse af infektion
 - Hvor spreder en infektion sig hen fra slimhinder?:: I starter spreder den sig ikke meget kun slimhinden og lokale lymfeknuder
+<!--SR:!2026-09-26,4,270-->
 - Hvorfor "dør" en lokal infektion typisk?:: HIV løb tør for celler
+<!--SR:!2026-09-26,4,270-->
 - Hvorfor "løber HIV ikke altid tør for celler at inficere" når den kun er lokalt i starten?:: Den inducere inflammation og der tilkaldes derfor flere immunceller og dermed flere celler den kan inficere
+<!--SR:!2026-09-26,4,270-->
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
@@ -29,6 +33,7 @@
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
+<!--SR:!2026-09-26,4,270-->
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn 
 - Hvor mange smittetilfælde kommer fra deling af nåle? (i den vestlige verden):: 6%
 - Hvordan smitter HIV?
@@ -36,6 +41,7 @@
 - Sexuel kontakt
 - Nåle
 - Mor til barn (gennem modermælk eller ved fødsel fra cervix)
+<!--SR:!2026-09-26,4,270-->
 
 ## Symptomer og komplikationer
 - Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]] 
@@ -51,6 +57,7 @@
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
 ## Diagonstik
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
+<!--SR:!2026-09-26,4,270-->
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS 
 

@@ -13,6 +13,7 @@
 ## Undertype af influenza
 - Hvilke arter kan influenza A inficere?:: Mange arter inklusiv mennesker, hunde, grise og fugle
 - Hvilke arter kan influenza B inficere?:: Mennesker og sæler
+<!--SR:!2026-09-26,4,270-->
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
 - Hvilke arter kan influenza D inficere?:: Køer og grise
 <!--SR:!2026-09-26,4,270-->
@@ -24,6 +25,7 @@
 - Hvordan kommer influenza ind i cellen?:: Enten ved fusion direkte på cellemembranen eller ved at blive optaget i et endosom og fusionere med den
 - Hvornår slipper influenza ud af endosomet?:: Når pH falder
 - Hvor foregår transskription henne?:: Nucleus
+<!--SR:!2026-09-26,4,270-->
 
 ## Epidimologi
 - Hvorfor har influenza mulighed for at give gentagne pandemier?:: Eftersom det består af 8 seperate stykker RNA er der mulighed for [[Antigenskift]], dette er særligt muligt da der findes mange influenzavarianter i dyr 
@@ -52,6 +54,7 @@
 ## Diagsostik
 - Hvordan diagnosticeres influenza oftest?:: Kliniske fund
 - Hvilke laboratorietest laves for at diagnosticere influenza?:: Isolering af virus og PCR
+<!--SR:!2026-09-26,4,270-->
 ## Forebyggelse og behandling
 - Hvordan behandles influenza oftest?:: Symptombehandling
 - Hvordan forebygges influenza?:: Vacciner

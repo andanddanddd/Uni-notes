@@ -8,11 +8,13 @@ HSV 1 og 2
 - Hvad kendetegner $\alpha$-HPV?:: De er neurotrope (Inficere neuroner som sekundær infektion)
 - Hvor er $\alpha$-HPV når den er latens?:: Neuroner
 - Hvorfor smitter [[VZV+]] mere end [[HSV-1+]] og [[HSV-2+]]?:: Den kræver ikke direkte kontakt
+<!--SR:!2026-09-25,3,250-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion
 <!--SR:!2026-09-26,4,270-->
 - Hvornår bliver $\alpha$-HPVs DNA lavet om til et episom?:: I neuroner (hviket deaktivere det)
+<!--SR:!2026-09-26,4,270-->
 - Hvor i neuronerne ender $\alpha$-HPV?:: [[Soma (neuron)]] (i mange tilfælde vil det være sensoriske ganglier)
 <!--SR:!2026-09-26,4,270-->
 - Hvad er forskellen på early, og imidiate-early gener?:: Imidiate early laver proteiner der skal bruges til early-generne (DNA-polymerase) derudover bruges imidiate-earlygenerne til at gøre værstcellen mere favorabel for virussen

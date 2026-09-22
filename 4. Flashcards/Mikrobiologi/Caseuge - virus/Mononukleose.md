@@ -2,6 +2,7 @@
 
 - Hvad hedder mononukleose på dansk?:: Kyssesyge
 - Hvad kendetegner mononukleose på et blodudstrøg?:: Lymfocytter med store irregulere kerner (de er effektorceller)![[Pasted image 20260918130644.png]]
+<!--SR:!2026-09-26,4,270-->
 - Hvilke symptomer har mononukleose typisk?
 ?
 - Pharyngitis
@@ -10,5 +11,6 @@
 - Splenomegali
 - Hovedpine
 - Træthed/utilpashed
+<!--SR:!2026-09-25,3,250-->
 
 - Hvad er en differentialdiagnose til patienter der kommer ind med symptomer på mononucleose men uden postiv EBV-serologi?:: Mononukleose forårsaget af [[CMV+]]
