@@ -3,7 +3,7 @@
 - Hvad kendetegner clamydias vækst?:: Den kan kun dele sig inde i andre celler
 <!--SR:!2026-11-20,60,310-->
 - Hvilken type cellevæg har clamydia?:: Det minder mest om en gram-negativ men den har ingen murein så den er atypisk (den har murein ifølge bogen)
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-07,15,290-->
 - Hvor store er clamydia?:: Små
 <!--SR:!2026-10-05,14,290-->
 - Hvad betyder autotrofisk?:: At en organisme ikke kan syntetisere et stof nødvendigt for vækst
@@ -16,7 +16,7 @@
 <!--SR:!2026-10-06,15,290-->
 
 - Hvad kaldes en clamydia når den er ekstracellulær?:: Elementarlegeme
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-29,7,250-->
 - Hvad kaldes en clamydia når den er intracellulær?:: Retikulærlegeme'
 <!--SR:!2026-10-07,16,290-->
 - Hvad er forskellen på elementarlegeme og retikularlegeme?:: Retikularlegemet har et mere løst kromosom så der kan ske traskribtion/DNA-replikation, elementarlegemet har krydsbundet nogle proteiner i sin membran der gør den mere osmotisk stabil og muliggør fastgørelse til en ny epitelcelle

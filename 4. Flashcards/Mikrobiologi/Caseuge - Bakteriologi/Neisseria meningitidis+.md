@@ -7,4 +7,4 @@
 - Hvad secenere N. meningitidis?::  [[Lipooligosaccharide (LOS)]]
 <!--SR:!2026-10-05,14,290-->
 - Hvorfor er N. meningitidis mere dødelig end [[Neisseria gonorrhoeae+]]?:: Den har en tyk kapsel
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-07,15,290-->

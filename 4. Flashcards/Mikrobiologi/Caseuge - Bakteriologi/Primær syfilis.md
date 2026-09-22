@@ -5,4 +5,4 @@
 - Hvad hedder ulcersne der dannes under primær syfilis?:: Chancre
 <!--SR:!2026-10-03,12,270-->
 - Hvor smertefuldt er ulcersne der kommer under primær syfilis?:: Smertefri
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-08,16,290-->

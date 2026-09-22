@@ -5,7 +5,7 @@
 - Hvilke virus har en head-tail-kapsel?:: Kun [[Bakteriofager]]
 <!--SR:!2026-09-22,4,270-->
 - Hvordan samles viras kapsel?:: Den samler sig selv
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-07,15,290-->
 - Hvilke 3 former kan kapslen på en virus have?
 ?
 - Ikosaedrisk
@@ -21,4 +21,4 @@
 ![[Virus kapsel former]]B?:: Helical/spiral (filamentous på engelsk)
 <!--SR:!2026-10-03,12,270-->
 ![[Virus kapsel former]]C?:: Head tail (Kompleks)
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-08,16,290-->

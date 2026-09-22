@@ -1,13 +1,13 @@
 #flashcards/3/Immunologi #flashcards/5/Mikrobiologi 
 
 - Hvilke bakterier producere eksotoksiner?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-22,61,310-->
 - Hvad gør eksotoksiner?:: De er toksiske overfor vores celler
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-27,66,310-->
 - Hvad er eksotoksiner?:: Et stof der skal udskilles fra [[Gram-positive bakterier]]
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-27,66,310-->
 - Hvad kaldes type I eksotoksiner også?:: [[Superantigener]]
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-25,64,310-->
 - Hvad gør type II eksotoksiner?:: Danner pore og lysere celler
 <!--SR:!2026-11-02,45,290-->
 - Hvad gør type III eksotoksiner?:: Bliver transporteret ind i cellen via receptormedieret endocytose, her ændre den cellens virkningsmekanismer

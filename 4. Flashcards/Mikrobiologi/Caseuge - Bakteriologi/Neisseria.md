@@ -3,9 +3,9 @@
 - Hvilken type cellevæg gar neisseria?:: [[Gram-negative bakterier]]
 <!--SR:!2026-09-21,4,270-->
 - Hvilken form har neisseria?:: Kokker
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - Hvilken patientgruppe har øget risiko for at få bakterieæmi af neisseria?:: Dem med sygdomme i [[Komplementsystemet]] (men det ses også i ellers raske individer)
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-04,12,270-->
 - I hvilket oxidativt miljø lever neisseria bedst?:: De er fakualtivt anaerobe
 <!--SR:!2026-10-05,14,290-->
 - Hvad kaldes tilstanden når neisseria ender i blodbanen?:: [[Dissminated intravascular coagulation (DIC)]]

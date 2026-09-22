@@ -12,7 +12,7 @@
 <!--SR:!2026-09-23,16,290-->
 
 - Hvad er den mest normale mekanisme til resistens?:: Ændring fa målstruktur
-<!--SR:!2026-09-21,14,290-->
+<!--SR:!2026-11-15,54,310-->
 - Hvad kaldes det når en bakterie kun delvist bliver påvirket af et lægemiddel? (de er delvist resistente):: Tolerence
 <!--SR:!2026-09-23,16,290-->
 - Hvad er naturlig resistens?:: Resistens der opstod inden bakterien mødte antibiotika

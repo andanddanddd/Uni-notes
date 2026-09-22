@@ -54,7 +54,7 @@
 - Urin
 - Rectum
 - Bindehinden
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 - Hvordan behandles en infektion med C. trachomatis?:: [[Doxycyklin]] eller [[Azithromycin]]
 <!--SR:!2026-09-23,2,250-->

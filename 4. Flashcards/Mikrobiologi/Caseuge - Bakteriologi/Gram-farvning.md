@@ -11,7 +11,7 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 <!--SR:!2026-10-10,28,270-->
 - Safranin er vandopløseligt
 - Hvilken type bakterier bliver røde ved gram-farvning?:: [[Gram-negative bakterier]]
-<!--SR:!2026-09-21,16,290-->
+<!--SR:!2026-11-25,64,310-->
 - Hvad bruges til at give den lilla farve i gram-farvning?:: Crystalviolet modificeret med jodjodkalium
 <!--SR:!2026-11-23,63,310-->
 
@@ -27,10 +27,10 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 ![[Gram-inddeling]] A?:: Gram positiv
 <!--SR:!2026-11-16,56,310-->
 ![[Gram-inddeling]] B?:: Gram negativ
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-24,63,310-->
 ![[Gram-inddeling]] C?:: Murein
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-28,67,310-->
 ![[Gram-inddeling]] D?:: Det periplatiske rum
 <!--SR:!2026-09-22,16,290-->
 ![[Gram-inddeling]] E?:: LPS
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-26,65,310-->

@@ -5,7 +5,7 @@
 - Hvilken transportmekanisme bruges til at få næringstoffer ind gennem bakteriernes cellemembran?:: Faciliteret diffusion, aktiv transport eller gruppetransport
 <!--SR:!2026-11-23,63,310-->
 - Hvad er gruppetransport?:: Aktiv transport hvor stoffet der transporteres ændres undervejs
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-18,57,310-->
 - Hvordan optager bakterier jern overordnet?:: Secenere et stof der kan binde til jern hvorefter det kan optages
 <!--SR:!2026-11-20,60,310-->
 - Hvad hedder typen af stoffer som bakterier kan secerene for at optage jern?:: Siderophores

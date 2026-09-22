@@ -3,7 +3,7 @@
 - Hvilken form har Y. enterocolitica?:: Stav
 <!--SR:!2026-09-28,14,290-->
 - Hvilken type cellevæg har Y. enterocolitica?:: Gram negativ [[Gram-negative bakterier]]
-<!--SR:!2026-09-22,8,250-->
+<!--SR:!2026-10-11,19,250-->
 - I hvilket oxidativt miljø lever Y. enterocolitica?:: Den er fakultativ anaerob
 <!--SR:!2026-09-29,15,290-->
 - Hvordan smitter Y. enterocolitica?:: Zoonose (særligt gennem svin)

@@ -7,7 +7,7 @@
 - Hvordan er bakterier peptidoglykanlag overordnet opbygget?:: Sukkerkæder krydsbundet med peptider
 <!--SR:!2026-11-16,56,310-->
 - Hvad beskytter bakterier peptidoglykanlag imod?:: Lavt extracellulært osmotisk tryk (antilyserende) (særligt for grampositive bakterier)
-<!--SR:!2026-09-21,16,290-->
+<!--SR:!2026-11-27,66,310-->
 - Hvilken polaritet har murein og hvilken effekt har det?:: Meget hydrofil, dermed kan hydrophofe stoffer ikke gennemtrænge bakteriecellevæggen på trods af at de kan komme igennem doppeltlippidlaget (særligt for grampositive bakterier)
 <!--SR:!2026-11-14,54,310-->
 - Hvilken forskel er der på peptidbroerne i [[Gram-positive bakterier]] og [[Gram-negative bakterier]]?:: Gram positive bakterier har 5 ekstra glycin til at binde de 2 peptidkæder sammen
@@ -25,7 +25,7 @@
 - Hvor laves og modificeres selve monosakkariderne til murein?:: Cytoplasma
 <!--SR:!2026-09-21,15,290-->
 - Hvordan kommer de modificerede monosakkarider ud af cellen?:: En "lipid-carrier"
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-28,67,310-->
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
 <!--SR:!2026-09-25,13,230-->
 - Hvor sammensættes de modificerede monosakkarider til strenge?:: Udenfor cellen dvs i [[Det periplasitiske rum]] eller i selve peptidoglykanlaget
@@ -33,19 +33,19 @@
 - Hvilken [[Antibiotika]] kan inhibere sammensætningen af de modificerede monosakkarider til strenge?:: [[Vancomyocin]]
 <!--SR:!2026-11-03,46,290-->
 - Hvad kaldes processen hvor de 2 polysakkarider krydsbindes med peptidkæder?:: Transpeptidation
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-26,65,310-->
 - Hvilke 2 peptider danner krydsbindinger i murein?
 ?
 - D-alanin
 - Lysin (eller modificeret lysin)
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-28,67,310-->
 
 - Hvilken modificering kan ske til lysin i de krydsbindende peptidkæder?:: Carboxylering af sidekæden
 <!--SR:!2026-09-22,16,290-->
 - Hvilken aminosyre kløves væk i transpeptidationen?:: D-alanin
 <!--SR:!2026-11-14,54,310-->
 - Hvilken [[Antibiotika]] ligner D-alanin-dimere?:: [[Penicilin]]
-<!--SR:!2026-09-21,15,290-->
+<!--SR:!2026-11-21,60,310-->
 
 
 

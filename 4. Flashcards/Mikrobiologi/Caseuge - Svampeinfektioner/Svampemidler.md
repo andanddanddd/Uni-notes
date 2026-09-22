@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken klasse af antibiotika virker til tider mod svampe?:: [[Sulfonamider]]
-<!--SR:!2026-09-19,4,270-->
+<!--SR:!2026-10-07,15,290-->
 - Hvorfor virker [[Sulfonamider]] mod svampe?:: De skal også lave deres egen folsyre
 <!--SR:!2026-10-07,16,290-->
 - Hvilke 2 strukture/synteser rammes overordnet af svampemidler?:: Ergosterol og $\beta$-glucan

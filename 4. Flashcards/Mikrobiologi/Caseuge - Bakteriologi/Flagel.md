@@ -3,12 +3,12 @@
 - Hvad er en flagel overordnet?:: Hale
 <!--SR:!2026-11-15,55,310-->
 - Hvilken funktion har bakteriers flagel?:: Bevægelse
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-28,67,310-->
 - Hvor mange flaggeller har en bakterie?:: Nogle har 0, nogle har 1 nogle har mere end 1
 <!--SR:!2026-11-18,58,310-->
 - Hvad kaldes en flagel der er i bunden/halen af en bakterie?:: Polar
 <!--SR:!2026-11-01,44,290-->
 - Hvad kaldes flageller der er lidt rundt omkring (ikke i "halen")?:: Peritrichous
-<!--SR:!2026-09-22,5,210-->
+<!--SR:!2026-09-25,3,190-->
 
 ![[Bevægelse af bakterien]]

@@ -7,4 +7,4 @@
 - [[Pili]]
 - [[Flagel]]
 - Kapsel [[Bakteriens kapsel]]
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-25,64,310-->
