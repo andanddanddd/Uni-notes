@@ -1,9 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilket genus har de syrefaste bakterier?:: Mycobacterium
-<!--SR:!2026-09-20,14,290-->
+<!--SR:!2026-11-04,43,290-->
 - Hvad kendetegner cellevæggen på de syrefaste bakterier?:: Den er fyldt med voks
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-25,64,310-->
 - Hvilken særlig egenskab har de syrefaste bakterier?:: De kan modstå syre
 <!--SR:!2026-09-22,16,290-->
 - Hvad kendetegner væksten af de syrefaste bakterier?:: De deler sig langsomt

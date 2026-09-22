@@ -5,4 +5,4 @@
 - Hemolytisk anæmi
 - Thrombocytopenia
 - Nyresvigt
-<!--SR:!2026-09-22,6,230-->
+<!--SR:!2026-10-11,19,250-->

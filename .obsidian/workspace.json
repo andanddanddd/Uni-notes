@@ -252,14 +252,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2019f3fddb160bd2",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Børnevaccinationsprogrammet i DK.md",
     "Clostridium tetani.md",
+    "Børnevaccinationsprogrammet i DK.md",
     "Corynebacterium diphtheriae.md",
     "Difteri.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",

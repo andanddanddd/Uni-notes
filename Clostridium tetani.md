@@ -10,3 +10,7 @@
 - Hvilken sygdom giver C. tetani typisk?:: [[Stivkrampe]]
 - Hvad kaldes tetanus' toksin der giver sygdom?:: [[Tetanospasmin]]
 
+## Forebyggelse og behandling
+- Hvordan forebygges infektion med C. tetani overordnet?:: Vaccine
+- Hvad kendetegner C. tetani vaccinen?:: Toksidvaccine ([[Subunitvacciner]])
+- Hvordan behandles en infektion med C. tetani?:: Vaccine, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)

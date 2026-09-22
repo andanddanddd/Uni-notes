@@ -3,7 +3,7 @@
 - Hvad gør sulfonamider overordnet?:: Inhibere syntesen THF der er cofaktor for syntese af folsyre i bakterier (kompetetivt)
 <!--SR:!2026-09-23,16,290-->
 - Hvorfor er sulfonamider langsomme til at inhibere bakterievækst?:: Bakterier har som udgangspunkt nok færdigsyntetiseret folsyre til at lave 4 delinger, først herefter kan de bliver påvirket af manglende folsyre [[Pricipper for valg af antibiotika]]
-<!--SR:!2026-09-22,15,290-->
+<!--SR:!2026-11-24,63,310-->
 - Hvorfor er sulfonamider selektive overfor bakterier?:: Mennesker skal ikke selv syntetisere folsyre
 <!--SR:!2026-09-23,16,290-->
 - Hvilken del af DNA hæmmes af sulfonamider?:: Pyrimidin-syntesen

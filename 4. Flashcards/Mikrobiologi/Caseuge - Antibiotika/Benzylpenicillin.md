@@ -3,4 +3,4 @@
 - Hvad kaldes benzylpenicilin også?:: Penicilin G
 <!--SR:!2026-11-03,43,290-->
 - Hvilken type bakterier bruges benzylpenicilin til?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-22,15,290-->
+<!--SR:!2026-11-24,63,310-->

@@ -6,6 +6,6 @@ Man kan være koloniseret uden at være syg
 - Hvilke infektioner giver Pneumocystis jiroveci?:: Øvre luftvejsinfektioner
 <!--SR:!2026-10-06,15,290-->
 - Hvilket klinisk kendetegn har patienter med Pneumocystis jiroveci infektion?:: De har et kæmpe iltbehov
-<!--SR:!2026-09-19,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - Hvordan behandles Pneumocystis jiroveci?:: [[Sulfonamider]] ([[Sulfamethizol]] og [[Trimethoprim]] sammen)
 <!--SR:!2026-10-07,16,290-->
