@@ -16,8 +16,9 @@
 
 
 ## Smitte og epidimologi
-- Hvilken tendens har smittetilfælde med C. botulinum?::
+- Hvilken tendens har smittetilfælde med C. botulinum?:: Faldende grundet mere monitorering og vi er ebdre til at lave dåsemad
 - Hvordan smitter C. botulinum?:: Indtagelse af dens toksin eller spore gennem mad eller vand
+- Hvilken madvarer bliver "ofte" kontamineret med C. botulinum?:: Dåsemad
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver C. botulinum?
