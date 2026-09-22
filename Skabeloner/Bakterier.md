@@ -3,6 +3,8 @@
 ## Generalt
 Gram-farvning
 Form
+Lejring
+Normal levested
 
 ## Patogenese
 Celler inficeret
@@ -17,3 +19,4 @@ Smitevej
 ## Diagnostik
 
 ## Forebyggelse og behandling
+Resistens
