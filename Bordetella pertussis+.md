@@ -32,13 +32,16 @@
 ## Diagnostik
 - Hvornår er det nemmeste at dyrke B. pertussis?:: Den første uge af infektion (stadie 1) herefter er bakterien måske død ellers har den bare bevæget sig ned i dybere lag
 - Hvorfor kan det være svært at diagnostocere B. pertussis ved dyrkning?:: Der er klart mest bakterie i starter og der ligner det bare en forkølelse
-- Når man skal dyrke B. pertussis behandler man prøven med penicilin, hvorfor?
+- Hvor poder man når man vil dyrke B. pertussis?:: Bagvæggen af pharynx
+- Når man skal dyrke B. pertussis behandler man prøven med penicilin, hvorfor? og hvorfor er man ikke bange for at dræbe B. pertussis?:: Den har naturlig resistens så alle stammer er resistente, man gør det altså for at forhindre "støj" fra andre bakterier
+- Hvordan diagnosticeres B. pertussi oftest?:: Fluroscerende antistoftest
 
 ## Forebyggelse og behandling
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
 - Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens 
+- Hvordan behandles B. pertussi?:: [[Makrolider]] og [[Tetracykliner]]
 
 #### Vaccine
 - Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner
-- Hvornår gives B. pertussis vaccinen?:: ved 3, 5, 12 mdr og 5 år
+- Hvornår gives B. pertussis vaccinen?:: ved 3, 5, 12 mdr, 5 år og i 3. trimester af graviditet
 - Hvordan har B. perussis-vaccinen udviklet sig?:: Det startede som en levende svækkede bakterie men nu er den en toksidvaccine

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bordetella pertussis+.md",
+                "file": "1. Fag/Mikrobiologi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bordetella pertussis+"
+              "title": "Mikrobiologi"
             }
           },
           {
@@ -272,9 +272,9 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
+    "Bordetella pertussis+.md",
     "Tracheal cytotoxin (TCT).md",
     "Pasted image 20260922112959.png",
-    "Bordetella pertussis+.md",
     "Adenylate cyclase toksin (ACT).md",
     "Pertussis toksin (PTX).md",
     "Børnevaccinationsprogrammet i DK.md",

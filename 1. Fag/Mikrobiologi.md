@@ -57,7 +57,7 @@ Læsning
 - [x] 16 (Sekeretorisk enteritis)
 - [x] 17 (Inflammatorisk coleitis)
 - [ ] 18
-- [ ] 19
+- [x] 19 (Bortadella pertussi)
 - [ ] 20
 - [ ] 21
 - [ ] (22)
@@ -84,7 +84,9 @@ Læsning
 - [ ] 51
 - [ ] 53
 #### Sygdomme i organsystemer
+- [ ] 60 (infektioner i CNS)
 - [ ] 61
 - [x] 62 (urinvejsinfektion)
 - [ ] 65
 - [x] 68 (Seksuelt overførte sygdomme)
+
