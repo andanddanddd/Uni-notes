@@ -12,6 +12,8 @@
 ## Patogenese
 - Hvilke celler inficere C. difficile?:: Den kolonisere colon og udskiller toksiner
 - Hvordan skader C. difficile tarmvæggen?:: Dens toksiner gør
+- Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
+- Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
 - Hvilke patogenesefaktorer har C. difficile?
 ?
 - 
@@ -33,9 +35,9 @@
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
-- Hvordan diagnosticeres C. difficile?::
+- Hvordan diagnosticeres C. difficile?:: Elisa af toksiner fra fæces
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er C. difficile resistente overfor?:: [[Flourquinoloner]] (sporene er resistente overfor det meste)
-- Hvordan forebygges C. difficile?
-- Hvordan behandles C. difficile?
+- Hvordan forebygges C. difficile?:: Hygiejne og undgå at give specifikke antibiotika til folk i risikogruppen for C. difficile
+- Hvordan behandles C. difficile?:: Nogle gange skal den antibiotiakkur der førte til infektionen stoppes ellers kan [[Vancomyocin]] eller [[Metronidazol]] gives
