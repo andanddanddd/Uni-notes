@@ -31,9 +31,12 @@
 
 ## Diagnostik
 - Hvornår er det nemmeste at dyrke B. pertussis?:: Den første uge af infektion (stadie 1) herefter er bakterien måske død ellers har den bare bevæget sig ned i dybere lag
+- Hvorfor kan det være svært at diagnostocere B. pertussis ved dyrkning?:: Der er klart mest bakterie i starter og der ligner det bare en forkølelse
+- Når man skal dyrke B. pertussis behandler man prøven med penicilin, hvorfor?
 
 ## Forebyggelse og behandling
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
+- Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens 
 
 #### Vaccine
 - Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner
