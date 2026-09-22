@@ -29,3 +29,5 @@ Målrettet behanlding = behandling mod specifik bakterie (eller anden mikroorgan
 ![[Norovirus+]]
 
 ![[Bakterielle sekretionsmekanismer]]
+
+![[Differentiering mellem store gram-negative stave]]

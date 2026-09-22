@@ -2,3 +2,5 @@
 
 - Hvad bruges optochintest til?:: At differentiere [[Streptococcer]] fra hinanden
 - Hvad er optochintest overordnet?:: En specifik type resistensbestemmelse overfor optochin
+
+![[Pasted image 20260922135458.png]]
