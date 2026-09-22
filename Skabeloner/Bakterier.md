@@ -21,10 +21,11 @@
 ?
 - 
 
-- Hvilke komplikationer kan 
+- Hvilke komplikationer kan bX give?::
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
+- Hvordan diagnosticeres bX?::
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har bX?::

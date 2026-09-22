@@ -37,4 +37,8 @@ Smitevej
 ## Forebyggelse og behandling
 Resistens
 - Hvordan behandles S. pneumoniae?:: [[Penicilin]]
-- Hvordan forebygges S. pneumoniae
+- Hvordan forebygges S. pneumoniae?:: Vaccination
+
+#### Vaccination
+- Hvad kendetegner S. pneumoniae vaccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
+- Hvornår vaccineres man mod S. pneumoniae?:: 3,5,12 mdr
