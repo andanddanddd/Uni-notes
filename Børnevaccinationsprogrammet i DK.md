@@ -7,3 +7,5 @@
 - [[Clostridium tetani]]
 - [[Kighoste]]
 - [[Heamophilus influenza infektioner]]
+
+[[Bordetella pertussis+]]

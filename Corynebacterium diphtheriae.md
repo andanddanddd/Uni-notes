@@ -4,7 +4,8 @@ C. diphteriae er den eneste stav hvor lejring er relevant (dens toksin stoppper 
 	Vaccinen bruger aluminium som adjuvans
 
 ## Struktur
-- Hvilken type cellevæg har C. diphteriae?:: [[Gram-positive bakterier]] 
+- Hvilken type cellevæg har C. diphteriae?:: [[Gram-positive bakterier]]
+<!--SR:!2026-09-26,4,270-->
 - Hvordan er lejringen af C. diphtheriae?:: "Kinesiske skriftstegn" ![[Pasted image 20260921142601.png]]
 <!--SR:!2026-09-26,4,270-->
 

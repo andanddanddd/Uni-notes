@@ -1,7 +1,7 @@
 #flashcards/Molekulær-biologi 
 [[4. Flashcards/Molekylær biologi/Caseuge 1/Antibiotika]]
 [[Arkæer]]
-[[Bakterier]]
+[[4. Flashcards/Molekylær biologi/Caseuge 1/Bakterier]]
 [[Gram-farvning]]
 [[Prioner]]
 [[Protister]]

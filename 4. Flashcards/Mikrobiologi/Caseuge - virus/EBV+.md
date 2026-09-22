@@ -11,6 +11,7 @@
 - Hvorfor er det værre at få EBV som teenager end som barn?:: De har et større immunrespons
 <!--SR:!2026-09-26,4,270-->
 - Hvordan diagnosticeres EBV?:: Serologi
+<!--SR:!2026-09-26,4,270-->
 
 
 T-celler på slide 40 til venstre (effekter-T-celler da responset foregår i blodet)

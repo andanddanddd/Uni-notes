@@ -3,6 +3,7 @@
 ## Generalt
 - Hvilket oxidativt forhold lever C. tetani bedst i?:: Anaerob
 - Hvilken type cellemembran har C. tetani?:: [[Gram-positive bakterier]]
+<!--SR:!2026-09-26,4,270-->
 - Hvor lever C. tetani normalt?:: Jord
 - Hvordan smittes man typisk med C. tetani?:: Stiksår (kan ske uden man har ste såret)
 <!--SR:!2026-09-26,4,270-->
@@ -18,3 +19,9 @@
 <!--SR:!2026-09-26,4,270-->
 - Hvordan behandles en infektion med C. tetani?:: Vaccine, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)
 <!--SR:!2026-09-26,4,270-->
+
+
+
+Man får oftest tetanus når man "misser" at man har haft et sår (eks et stik)
+	Går toksinet fra axonende til dendrit?
+	Hvad var det for et toksin der var modaat tetanustoksinet

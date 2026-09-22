@@ -9,6 +9,7 @@
 - Hvad hedder influenza 2 typer glykoproteiner?:: Hemaggutinin (HA) og Neuraminidase (NA)
 <!--SR:!2026-09-25,3,250-->
 - Hvilken effekt har M2 proteiner?:: Influx af H+ igennem lipidmembranen hvilket denaturere kapslen så arvematrialet kan komme ud
+<!--SR:!2026-09-26,4,270-->
 
 ## Undertype af influenza
 - Hvilke arter kan influenza A inficere?:: Mange arter inklusiv mennesker, hunde, grise og fugle
@@ -19,6 +20,7 @@
 <!--SR:!2026-09-26,4,270-->
 - Hvilke(n) undertype af influenza giver de værste infektioner?:: A (og B)
 - Hvilken undertype af influenza ses oftest?:: A
+<!--SR:!2026-09-26,4,270-->
 ## Livscyklus
 - Hvordan smitter influenza?:: Dråber
 - Hvilke celler inficere influenza?:: Epitelceller (primært uden cilia) i øvre og nedre luftvejssystem

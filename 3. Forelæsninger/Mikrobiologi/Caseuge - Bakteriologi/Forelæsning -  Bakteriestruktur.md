@@ -33,5 +33,5 @@ Spore = assymetrisk bakteriedeling
 
 ![[Dyrkningsmedier]]
 
-[[Bakterier]]
+[[4. Flashcards/Molekylær biologi/Caseuge 1/Bakterier]]
 [[Arkæer]]

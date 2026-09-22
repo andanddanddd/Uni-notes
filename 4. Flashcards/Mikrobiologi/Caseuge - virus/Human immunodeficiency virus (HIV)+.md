@@ -30,8 +30,10 @@
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP
 - Hvorfor er det svært at lave et godt adaptivt repons mod glykoproteinerne på HIV?:: Der er hypervariable regioner i *env* genet (der laver glykoproteinerne)
+<!--SR:!2026-09-26,4,270-->
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
+<!--SR:!2026-09-26,4,270-->
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
 <!--SR:!2026-09-26,4,270-->
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn 
@@ -51,6 +53,7 @@
 - Hovedpine
 - Utilpashed
 - Udslet
+<!--SR:!2026-09-26,4,270-->
 
 - Hvor længe går der fra infektion af HIV til [[AIDS]] indtræder?:: Omkring 10 år
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
@@ -59,7 +62,8 @@
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 <!--SR:!2026-09-26,4,270-->
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
-- Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS 
+- Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS
+<!--SR:!2026-09-26,4,270-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges vertikal smitte af HIV?:: Hvis moderen er behandlet er der en <2% risiko for at barnet bliver inficeret
@@ -71,6 +75,7 @@
 ?
 - Revers transkripase (ofte ved at være en nukleotid der ikke kan forlænges på)
 - Inhibase inhibitor
+<!--SR:!2026-09-26,4,270-->
 
 
 

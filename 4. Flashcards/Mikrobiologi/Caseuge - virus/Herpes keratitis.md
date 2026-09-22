@@ -4,5 +4,6 @@
 - Hvornår giver herpes keratitis infektioner?:: Både ved primær og sekundær infektioner
 <!--SR:!2026-09-23,1,230-->
 - Hvilke komplikationer kan herpes keratitis give?:: Arvæv og evt blindhed (eller bar enedsat syn)
+<!--SR:!2026-09-25,3,250-->
 - 
 - 
