@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haemophilus influenzae type B+.md",
+                "file": "Skabeloner/Bakterier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haemophilus influenzae type B+"
+              "title": "Bakterier"
             }
           },
           {
@@ -272,12 +272,14 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
+    "Pneumolysin.md",
     "Skabeloner/Bakterier.md",
+    "Børnevaccinationsprogrammet i DK.md",
     "Haemophilus influenzae type B+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "Pasted image 20260922094654.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
-    "Børnevaccinationsprogrammet i DK.md",
     "Heamophilus influenza infektioner.md",
     "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "Bordetella pertussis+.md",
@@ -303,7 +305,6 @@
     "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Influenzavirus+.md",
-    "4. Flashcards/Genetik/Genetisk drift.md",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260918133324.png",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",

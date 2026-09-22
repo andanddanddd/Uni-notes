@@ -39,4 +39,4 @@ Smitevej
 - Hvordan forebygges infektioner med H. influenzae type B?:: Vacciation
 #### Vaccination
 - Hvad kendetegner HIB vccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
-- Hvornår gives HIB vaccinationen?::
+- Hvornår gives HIB vaccinationen?:: 3,5 og 12 mdr

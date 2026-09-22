@@ -1,22 +1,32 @@
 
 
 ## Generalt
-Gram-farvning
-Form
-Lejring
-Normal levested
+- Hvilken type cellevæg har bX?::
+- Hvilken form har bX?::
+- Hvordan lejres bX?::
+- Hvor lever bX normalt?::
 
 ## Patogenese
-Celler inficeret
-Patogenesefaktorer
+- Hvilke celler inficere bX?::
+- Hvilke patogenesefaktorer har bX?
+?
+- 
 
 ## Smitte og epidimologi
-Tendens
-Smitevej
+- Hvilken tendens har smittetilfælde med bX
+- Hvordan smitter bX?::
 
 ## Symptomer og komplikationer
+- Hvilke infektioner giver bX?
+?
+- 
 
+- Hvilke komplikationer kan 
 ## Diagnostik
+Dyrkningsmedie?
+Hvordan genkendes den?
 
 ## Forebyggelse og behandling
-Resistens
+- Hvilke resistensmekanismer har bX?::
+- Hvordan forebygges bX?::
+- Hvordan behandles bX?::

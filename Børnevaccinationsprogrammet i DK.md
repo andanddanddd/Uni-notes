@@ -7,5 +7,6 @@
 - [[Clostridium tetani]]
 - [[Bordetella pertussis+]]
 - [[Haemophilus influenzae type B+]]
+- [[Streptococcus pneumoniae+]]
 
 [[Bordetella pertussis+]]
