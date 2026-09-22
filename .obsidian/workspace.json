@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bordetella pertussis+.md",
+                "file": "Pertussis toksin (PTX).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bordetella pertussis+"
+              "title": "Pertussis toksin (PTX)"
             }
           },
           {
@@ -272,8 +272,9 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "Børnevaccinationsprogrammet i DK.md",
     "Bordetella pertussis+.md",
+    "Pertussis toksin (PTX).md",
+    "Børnevaccinationsprogrammet i DK.md",
     "Kighoste.md",
     "Filamentous haemagglutin (FHA).md",
     "Skabeloner/Bakterier.md",
@@ -303,7 +304,6 @@
     "Untitled",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Human immunodeficient virus.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Humane Herpes Virus (HPV).md",
     "Skabeloner",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260918133324.png",
