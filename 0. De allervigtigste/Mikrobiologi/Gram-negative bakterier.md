@@ -28,7 +28,7 @@
 [[Clamydia]]
 [[Treponema pallidum]]
 [[Borrelia burgdorferi+]]
-[[Haemophilus influenzae_ type B+]]
+[[Haemophilus influenzae type B+]]
 [[Bordetella pertussis+]]
 
 [[Bacteroides fragilis+]]

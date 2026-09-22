@@ -1,8 +1,10 @@
+#flashcards/5/Mikrobiologi 
+
 
 
 ## Generalt
 Gram-farvning
-Form
+- Hvilken form har H. influenzae?::
 
 ## Patogenese
 Celler inficeret

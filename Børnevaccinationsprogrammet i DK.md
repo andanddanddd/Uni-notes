@@ -5,7 +5,7 @@
 ?
 - [[Corynebacterium diphtheriae]]
 - [[Clostridium tetani]]
-- [[Kighoste]]
-- [[Heamophilus influenza infektioner]]
+- [[Bordetella pertussis+]]
+- [[Haemophilus influenzae type B+]]
 
 [[Bordetella pertussis+]]
