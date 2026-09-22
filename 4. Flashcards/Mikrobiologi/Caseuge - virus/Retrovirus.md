@@ -2,10 +2,12 @@
 
 
 - Hvad er en provirus?:: DNA laves af en retrovirus
+<!--SR:!2026-09-26,4,270-->
 - Hvilke "komplikationer" giver retrovira ofte?:: Cancer
 ## Struktur
 - Har retrovira en lipidmembran?:: Ja
 - Hvilken form har retroviras kapsel?:: Nærmest rund
+<!--SR:!2026-09-26,4,270-->
 - Hvad består retroviras arvematriale af?:: 2 stykker RNA der minder meget om mRNA (den har cap og poly-A-hale)
 
 ## Karakteristiske gener/proteiner

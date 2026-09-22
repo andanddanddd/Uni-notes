@@ -23,7 +23,7 @@
 
 ## Syntese
 - Hvor laves og modificeres selve monosakkariderne til murein?:: Cytoplasma
-<!--SR:!2026-09-21,15,290-->
+<!--SR:!2026-11-22,61,310-->
 - Hvordan kommer de modificerede monosakkarider ud af cellen?:: En "lipid-carrier"
 <!--SR:!2026-11-28,67,310-->
 - Hvilken [[Antibiotika]] kan inhibere de modificerede monosakkariders transport ud af cellen?:: [[Bacitracin]]
@@ -41,7 +41,7 @@
 <!--SR:!2026-11-28,67,310-->
 
 - Hvilken modificering kan ske til lysin i de krydsbindende peptidkæder?:: Carboxylering af sidekæden
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-28,67,310-->
 - Hvilken aminosyre kløves væk i transpeptidationen?:: D-alanin
 <!--SR:!2026-11-14,54,310-->
 - Hvilken [[Antibiotika]] ligner D-alanin-dimere?:: [[Penicilin]]

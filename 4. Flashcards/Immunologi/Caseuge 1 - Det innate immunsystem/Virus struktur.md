@@ -9,7 +9,7 @@
 - Hvor i virus findes glukoproteiner?:: Udenpå kapslen eller lipidmembranen hvis den har sådan en (de er ikke begge steder på en gang)
 <!--SR:!2026-10-08,16,290-->
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-07,15,290-->
 - Hvilken funktion har glykoproteinerne på virus?:: Komme ind i celler
 <!--SR:!2026-10-08,16,290-->
 - Hvad kaldes viruses genom + dens kapsel?:: Nukleokapsid
@@ -37,5 +37,5 @@
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] D:: Tegument
 <!--SR:!2026-09-24,3,230-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] E?:: Lipidmembran
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-06,14,290-->
 

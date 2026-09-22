@@ -11,6 +11,6 @@
 - Hvorfor sker tumbling?:: Fordi flagellerne bliver viklet ind i hinanden
 <!--SR:!2026-11-28,67,310-->
 - I hvilken situration svømmer bakterien?:: Når den er tiltrukket af noget
-<!--SR:!2026-09-21,15,290-->
+<!--SR:!2026-11-21,60,310-->
 - I hvilken situration tumbler bakterien?:: Når den vil væk fra noget
 <!--SR:!2026-11-21,61,310-->

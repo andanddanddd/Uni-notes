@@ -16,7 +16,7 @@
 - Hvor formere virus sig?:: Altíd intracellulært
 <!--SR:!2026-10-07,16,290-->
 - Når en virus er kommet ind i en celle hvordan deler den sig så overordnet?:: Den bruger cellens egne mekanismer til at replikere dens genom og syntetisere dens kapsel
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 #### Replikation af genom
 
 - Hvordan replikeres RNA på en RNA+ virus?:: Den laver replikation i 2 steps dvs først syntetiseres en RNA- streng som kan bruges som template til en ny RNA+ streng

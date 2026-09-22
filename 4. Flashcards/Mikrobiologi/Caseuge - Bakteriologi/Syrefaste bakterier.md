@@ -5,7 +5,7 @@
 - Hvad kendetegner cellevæggen på de syrefaste bakterier?:: Den er fyldt med voks
 <!--SR:!2026-11-25,64,310-->
 - Hvilken særlig egenskab har de syrefaste bakterier?:: De kan modstå syre
-<!--SR:!2026-09-22,16,290-->
+<!--SR:!2026-11-25,64,310-->
 - Hvad kendetegner væksten af de syrefaste bakterier?:: De deler sig langsomt
 <!--SR:!2026-11-16,56,310-->
 - Hvilken farvemetode bruges til at farve de syrefaste bakterier?:: Ziehl-Neelsen technique

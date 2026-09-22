@@ -4,7 +4,7 @@
 - Hvilken type pneumoni giver C. pnuemoniae?:: "[[Walking pneumonia]]"
 <!--SR:!2026-10-07,16,290-->
 - Hvordan smitter C. pneumoniae?:: Dropper eller aerosoler
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-06,14,290-->
 - Hvilke celler kan C. pneumoniae dele sig i?:: Epitelceller, endothelceler, Monocytter, makrofager og lymfocytter
 <!--SR:!2026-10-08,16,290-->
 - Hvilken cadiovaskulær sygdom har mennesker med høje niveuer af C. pneumoniae-antistoffer større risiko for at få?:: Sygdom o coronararterierne

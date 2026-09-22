@@ -16,6 +16,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Har HPV en lipidmembran?:: Ja
 - Hvordan er infektionsforløbet overordnet af HPV?:: Primær infektion -> replikation -> latens -> reaktivering
 - Hvordan kommer HPV ud af cellen?:: Den får sin lipidmembran i golgi, herfra får den også en vesikel så den kan lave exodytose
+<!--SR:!2026-09-23,1,230-->
 - Hvor ofte reaktiveres HPV
 - Hvad gør HPV for at undgå immunforsvaret? (6)
 ?

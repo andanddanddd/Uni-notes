@@ -15,7 +15,7 @@
 - Hvilken type adaptiv respons sker der ved ikke-levende vacciner?:: Th-respons og [[Antistoffer]]
 <!--SR:!2026-10-27,41,290-->
 - Hvilken fordel har ikke-levende vacciner?:: De kan ikke give infektion og de kan håndteres mere groft
-<!--SR:!2026-09-19,14,290-->
+<!--SR:!2026-11-15,54,310-->
 - Hvilken ulempe har ikke-levende vacciner?:: De giver ikke altid et godt respons (der kan mangle DAMPs [[Adjuvans (tjek)]])
 <!--SR:!2026-11-15,55,310-->
 

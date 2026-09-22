@@ -2,10 +2,12 @@
 
 ## Struktur
 - Hvilken type arvematriale bruger influenzavirus?:: RNA-
+<!--SR:!2026-09-26,4,270-->
 - Hvordan er strukturen af influenzavirus arvematriale?:: 8 lineære segmenter (kun 7 ved influenza C)
 - Hvilken form har proteinkapslen på influenzavirus?:: Hver RNA har en helikalligenende kapsel omkring sig
 - Har influenzavirus en lipidmembran?:: Ja
 - Hvad hedder influenza 2 typer glykoproteiner?:: Hemaggutinin (HA) og Neuraminidase (NA)
+<!--SR:!2026-09-25,3,250-->
 - Hvilken effekt har M2 proteiner?:: Influx af H+ igennem lipidmembranen hvilket denaturere kapslen så arvematrialet kan komme ud
 
 ## Undertype af influenza
@@ -13,6 +15,7 @@
 - Hvilke arter kan influenza B inficere?:: Mennesker og sæler
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
 - Hvilke arter kan influenza D inficere?:: Køer og grise
+<!--SR:!2026-09-26,4,270-->
 - Hvilke(n) undertype af influenza giver de værste infektioner?:: A (og B)
 - Hvilken undertype af influenza ses oftest?:: A
 ## Livscyklus
@@ -26,7 +29,9 @@
 - Hvorfor har influenza mulighed for at give gentagne pandemier?:: Eftersom det består af 8 seperate stykker RNA er der mulighed for [[Antigenskift]], dette er særligt muligt da der findes mange influenzavarianter i dyr 
 - Hvor længe tager det for [[Genetisk drift]] at "lave" en virus som igen kan smitte et tidligere inficeret menneske?:: 3-5 år
 - Hvornår er der flest tilfælde af influenza A+B?:: Vinterhalvåretet (Oktober til april i den norlige hemisphere)
+<!--SR:!2026-09-26,4,270-->
 - Hvornår er der flest tilfælde af influenza C?:: Den er ikke sæsonafhængig men smitter primært børn under 4 år
+<!--SR:!2026-09-26,4,270-->
 
 ## Sygdomme og komplikationer
 - Hvilke symptomer giver influenzavirus oftest?
@@ -50,8 +55,10 @@
 ## Forebyggelse og behandling
 - Hvordan behandles influenza oftest?:: Symptombehandling
 - Hvordan forebygges influenza?:: Vacciner
+<!--SR:!2026-09-26,4,270-->
 - Hvordan virker antivirale lægemidler mod influenza?
 ?
-- Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet 
+- Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet
 - RNA-replikation hæmmes
 - Stoppe Sialinsyrereceptorer fra at blive nedbrugt/internaliseret
+<!--SR:!2026-09-25,3,250-->

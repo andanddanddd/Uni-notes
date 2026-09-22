@@ -15,7 +15,7 @@
 - Hvordan administreres aminoglykosider?:: IV (til tider intrathekalt)
 <!--SR:!2026-09-23,16,290-->
 - Hvilken type antibiotika er aminoglykosiderne? (bakteriecider eller bakteriestatiske):: [[Bakteriecider]]
-<!--SR:!2026-09-22,15,290-->
+<!--SR:!2026-11-20,59,310-->
 - Hvilken bivirkning har aminoglykosider?:: Det påvirker [[N. vestibulocochlearis]]
 <!--SR:!2026-10-28,40,290-->
 

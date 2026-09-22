@@ -13,5 +13,6 @@ C. diphteriae er den eneste stav hvor lejring er relevant (dens toksin stoppper 
 
 ## Forebyggelse og behandling
 - Hvordan forebygges C. diphtheriae overordnet?:: Vaccine ved 3,5, og 12 mdr
+<!--SR:!2026-09-26,4,270-->
 - Hvad kendetegner C. diphtheriae vaccinen overordnet?:: Det er en toksid-vaccine ([[Subunitvacciner]])
 - 

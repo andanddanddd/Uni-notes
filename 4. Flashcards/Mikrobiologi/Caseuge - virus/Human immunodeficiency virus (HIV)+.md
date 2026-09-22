@@ -56,7 +56,9 @@
 
 ## Forebyggelse og behandling
 - Hvordan forebygges vertikal smitte af HIV?:: Hvis moderen er behandlet er der en <2% risiko for at barnet bliver inficeret
+<!--SR:!2026-09-26,4,270-->
 - Hvordan undgås at HIV smitter i befolkning?:: Generalt undgå risikoadfærd og hvis dem med HIV er i behandling vil de have mindre vira i deres blod (og andre væsker) så de har sværre ved at smitte
+<!--SR:!2026-09-26,4,270-->
 - Hvor længe skal en person med HIV være i behandling?:: Altid (pga latente vira)
 - Hvilket angrebspunkt har de fest behandlinger mod HIV?
 ?

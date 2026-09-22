@@ -59,11 +59,11 @@ Kan give blivende bruskskade
 - Hvad sker når N. gonorrhoae går i blodbanen?:: Det giver bakteriæmi men ikke sepsis
 <!--SR:!2026-10-08,16,290-->
 - Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-06,14,290-->
 - Hvad kaldes tilstanden når N. gonorrhoeae når adnexa?:: [[Pelvic inflammatory disease (PID)]]
 <!--SR:!2026-10-03,12,270-->
 - Hvilken tilstand kan det give hvis N. gonorrhoeae bevæger sig "dybere" i en mand:: [[Epididymidis]]
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - Hvad sker overordnet hvis man for N. gonorrhoeae fra oralsex?:: Det giver usymptomatisk pharyngitis
 <!--SR:!2026-10-06,15,290-->
 
