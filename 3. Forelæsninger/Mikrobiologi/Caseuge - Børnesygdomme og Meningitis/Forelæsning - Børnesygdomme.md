@@ -4,3 +4,9 @@
 ![[Børneinfektioner]]
 
 ![[Morbillivirus+]]
+
+![[Mycoplasma pneumoniae]]
+
+![[Bordetella pertussis+]]
+
+![[Borrelia burgdorferi+]]
