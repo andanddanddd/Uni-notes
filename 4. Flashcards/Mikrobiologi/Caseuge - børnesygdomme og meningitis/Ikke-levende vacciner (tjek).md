@@ -1,25 +1,23 @@
 #flashcards/3/Immunologi #flashcards/5/Mikrobiologi 
 
-- Hvad er de 2 overordnede typer af ikke-levden vacciner?
+- Hvad er de 3 overordnede typer af ikke-levden vacciner?
 ?
 - Patogener som ikke kan replikere (de er inaktiverede)
 - [[Subunitvacciner]]
+- Kulhydratvacciner
 <!--SR:!2026-11-19,59,310-->
 
-- Hvorfor kan det være et problem at opregulere de specifikke epitoper som er nemmest at lave adaptiv respons imod?:: Man kan risikere at danne et peptid som ikke kan præsenteres på de specifikke HLA molekyler som et individ har
-<!--SR:!2026-10-24,39,290-->
-- Hvorfor er det til tider nødvendigt at kunjugere epitopet fra patogenet?:: Hvis det er et kulhydrat skal det sættes sammen med et protein
-<!--SR:!2026-10-29,43,290-->
-- Hvad bruges ikke-levende vacciner til? - Bakterieangreb
-<!--SR:!2026-09-02,1,230-->
+
 - Hvilken type adaptiv respons sker der ved ikke-levende vacciner?:: Th-respons og [[Antistoffer]]
 <!--SR:!2026-10-27,41,290-->
 - Hvilken fordel har ikke-levende vacciner?:: De kan ikke give infektion og de kan håndteres mere groft
 <!--SR:!2026-11-15,54,310-->
-- Hvilken ulempe har ikke-levende vacciner?:: De giver ikke altid et godt respons (der kan mangle DAMPs [[Adjuvans (tjek)]])
+- Hvilke ulemper har ikke-levende vacciner?
+?
+- De giver ikke altid et godt respons (der kan mangle DAMPs [[Adjuvans (tjek)]])
+- Indeholder kun få antigener
+- Brug
 <!--SR:!2026-11-15,55,310-->
 
 - Hvilken vaccine indeholder patogener som ikke kan replikere?:: [[Polio]]
 <!--SR:!2026-11-25,65,310-->
-- Hvilke vacciner bruger proteiner fra patogener:: [[Influensavaccine]] (Nej? ifølge trine)
-<!--SR:!2026-11-15,55,310-->

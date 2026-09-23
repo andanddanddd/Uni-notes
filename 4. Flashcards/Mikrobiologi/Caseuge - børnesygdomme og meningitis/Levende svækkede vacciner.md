@@ -6,7 +6,11 @@
 <!--SR:!2026-10-21,37,290-->
 - Hvilken type adaptiv respons sker ved levende svækkede vacciner?:: Tc-respons
 <!--SR:!2026-11-01,45,290-->
-- Hvilken fordel har levende svækkkede vacciner?:: De aggere som normal patogen og bliver derfor presenteret på de rigtige [[MHC molekyler]] (både type og rigtige sted i koppen) hvilket giver langvarig immunitet
+- Hvilke fordele har levende svækkkede vacciner?
+?
+- De aggere som normal patogen og bliver derfor presenteret på de rigtige [[MHC molekyler]] (både type og rigtige sted i koppen) hvilket giver langvarig immunitet
+- Der er mange antigener
+- Ikke brug for adjuvans
 <!--SR:!2026-11-25,65,310-->
 - Hvilke ulemper har levende svækkede vacciner?
 ?
