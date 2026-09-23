@@ -16,6 +16,7 @@ Celler inficeret
 - Kapsel
 - [[Pneumolysin]]
 - IgA-protease
+<!--SR:!2026-09-27,4,270-->
 
 ## Smitte og epidimologi
 Tendens

@@ -11,7 +11,9 @@
 
 ## Patogenese
 - Hvilke celler inficere C. difficile?:: Den kolonisere colon og udskiller toksiner
+<!--SR:!2026-09-27,4,270-->
 - Hvordan skader C. difficile tarmvæggen?:: Dens toksiner gør
+<!--SR:!2026-09-27,4,270-->
 - Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
 - Hvilke patogenesefaktorer har C. difficile?
@@ -24,6 +26,7 @@
 - Hvem får oftest en infektion med C. difficile?:: Kvinder oftere end mænd men det er primært ældre og indlagte
 <!--SR:!2026-09-27,4,270-->
 - Hvad kan øge en persons risiko for at blive inficeret med C. difficile?:: Specifike antibiotikabehandlinger
+<!--SR:!2026-09-27,4,270-->
 
 ## Symptomer og komplikationer
 - Hvad er det mest almindelige symptom af C. difficile?:: Diarre

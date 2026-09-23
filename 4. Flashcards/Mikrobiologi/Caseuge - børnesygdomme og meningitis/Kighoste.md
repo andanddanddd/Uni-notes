@@ -8,6 +8,7 @@
 - Hvad er symptomerne i stadie 1 af kighoste?:: Det ligner forkølelse (snottet, tårer og hoste)
 <!--SR:!2026-09-27,4,270-->
 - Hvad kaldes stadie 1 af kighoste?:: Catarrhal
+<!--SR:!2026-09-26,3,250-->
 #### Stadie 2
 - Hvad er symptomerne i stadie 2 af kighoste?:: Hyppige slemme [[Paroxysms]]
 - Hvor længe varer stadie 2 af kighoste?:: 2-8 uger

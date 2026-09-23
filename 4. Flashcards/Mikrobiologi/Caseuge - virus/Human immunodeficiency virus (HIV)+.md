@@ -15,6 +15,7 @@
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 <!--SR:!2026-09-26,4,270-->
 - Hvordan kommer HIV ud af celler?:: Budding
+<!--SR:!2026-09-27,4,270-->
 ![[Pasted image 20260921115642.png]]
 ## Igangsættelse og fortsættelse af infektion
 - Hvor spreder en infektion sig hen fra slimhinder?:: I starter spreder den sig ikke meget kun slimhinden og lokale lymfeknuder
@@ -30,6 +31,7 @@
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP
+<!--SR:!2026-09-26,3,250-->
 - Hvorfor er det svært at lave et godt adaptivt repons mod glykoproteinerne på HIV?:: Der er hypervariable regioner i *env* genet (der laver glykoproteinerne)
 <!--SR:!2026-09-26,4,270-->
 ## Smitte og epidimologi

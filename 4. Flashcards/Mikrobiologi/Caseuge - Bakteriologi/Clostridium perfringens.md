@@ -9,7 +9,7 @@
 
 
 ## Generalt
-- Hvilken type cellevæg har C. perfringes?:: [[Gram-negative bakterier]]
+- Hvilken type cellevæg har C. perfringes?:: [[Gram-positive bakterier]]
 <!--SR:!2026-09-26,3,250-->
 - Hvilken form har C. perfringes?:: Stav
 - Hvordan lejres C. perfringes?
@@ -22,6 +22,7 @@
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
 <!--SR:!2026-09-29,15,290-->
 - Hvilke celler inficere C. perfringes?:: Det gør den ikke, den laver kolonier og secenere toksiner
+<!--SR:!2026-09-27,4,270-->
 - Hvilke patogenesefaktorer har C. perfringes?
 
 

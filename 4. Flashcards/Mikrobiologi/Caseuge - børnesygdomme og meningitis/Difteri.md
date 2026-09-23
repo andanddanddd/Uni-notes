@@ -7,6 +7,7 @@
 - Tonsilitis
 - Belægninger i øvre luftveje
 - Obstruktion af luftveje
+<!--SR:!2026-09-27,4,270-->
 
 - Hvilke komplikation kan toksinet i difteri medføre?
 ?

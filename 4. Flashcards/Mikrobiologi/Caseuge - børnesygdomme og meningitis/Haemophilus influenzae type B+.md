@@ -14,6 +14,7 @@ Celler inficeret
 - IgA1-protease
 - Pili
 - [[Lipooligosaccharide (LOS)]]
+<!--SR:!2026-09-24,1,230-->
 
 
 ## Smitte og epidimologi
