@@ -7,11 +7,18 @@
 ?
 - [[Varicella (skoldkopper)]]
 - [[Lussingesyge]]
-- [[Hånd-]]
+- [[Hånd-fod-mund-syge]]
+- [[Roseola infantum]]
+- [[Scarletina]]
 
-Dugdråbe på et rosenblad (skoldkopper)
-	Kan give sekundære infektioner (infektion i sårenen)
-	Skoldkopper er den hyppigste årsag til blodpropper his børn
+- Hvad er de typiske infektioner af nyfødte (kogenitte infektinoer)?
+?
+- [[Toxoplasmose]]
+- [[Syfilis]]
+- [[Rubulavirus+]]
+- [[CMV+]]
+- [[Alfaherpesvirus]]
+
 
 Aplastisk krise er noget med at dæmpe knolgemarven
 Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lave røde blodlegemer
