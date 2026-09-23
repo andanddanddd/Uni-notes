@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borrelia burgdorferi+.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinationer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borrelia burgdorferi+"
+              "title": "Vaccinationer"
             }
           }
         ]
@@ -42,15 +42,43 @@
             }
           },
           {
-            "id": "f74414e090450c80",
+            "id": "ee1392d221841be3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - børnesygdomme 2026"
+              "title": "Slides - Vaccinationsimmunologi"
+            }
+          },
+          {
+            "id": "5fd0d56680bde319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Bakterier der vaccineres imod"
+            }
+          },
+          {
+            "id": "969660c7533f0c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streptococcus pneumoniae+"
             }
           },
           {
@@ -256,8 +284,13 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Børnesygdomme.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "Borrelia burgdorferi+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Børnesygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Bordetella pertussis+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Kighoste.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf",
@@ -268,7 +301,6 @@
     "Erythema infectionsum.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Varicella (skoldkopper).md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Ureasetest.md",
     "Billeder/Mikrobiologi/Pasted image 20260922140617.png",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Clostridium botulinum.md",
@@ -284,14 +316,10 @@
     "Billeder/Mikrobiologi/Pasted image 20260922140340.png",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Optochin test.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Helicobacter pylori.md",
     "Billeder/Mikrobiologi/Pasted image 20260922135458.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bacillus cereus.md",
     "Billeder/Mikrobiologi/Pasted image 20260922135201.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Øvelsesvejledning uge 1.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260921142601.png",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260922112959.png",
     "Billeder/Mikrobiologi/Pasted image 20260922094654.png",
     "Billeder/Mikrobiologi/Pasted image 20260918130109.png",
@@ -301,7 +329,6 @@
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
-    "Excalidraw/Mikrobiologi/Untitled.base",
     "Untitled.canvas"
   ]
 }

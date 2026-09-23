@@ -2,6 +2,7 @@
 
 - Hvad betyder vaccination (vaccinus)?:: Fra koen
 <!--SR:!2026-11-22,62,310-->
+- Hvad er pasteuers fund?::
 
 ![[Adjuvans (tjek)]]
 

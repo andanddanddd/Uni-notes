@@ -49,3 +49,4 @@ Resistens
 - Hvad kendetegner S. pneumoniae vaccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
 - Hvornår vaccineres man mod S. pneumoniae?:: 3,5,12 mdr
 <!--SR:!2026-09-27,4,270-->
+- Hvorfor kan man blive inficeret med S. pneumoniae selvom man er vaccineret?:: Der er ca 90 forskellige kapsler og vi vaccinere ikke mod dem allle
