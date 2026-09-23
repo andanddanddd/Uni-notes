@@ -15,4 +15,4 @@
 - Hvorfor er det ikke nok at vælge at at antibakterielt middel der virker mod den specifikke bakterie?:: Den samme eller lignende bakterie kan være flere steder i kroppen, derfor skal lægemidlets farmakokinetik overvejes
 <!--SR:!2026-10-28,41,290-->
 - Hvorfor prodrugs smart for antibiotika?:: Det påvirker ikke tarmfloraen
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-25,63,310-->

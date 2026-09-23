@@ -11,6 +11,7 @@ HSV 1 og 2
 <!--SR:!2026-09-25,3,250-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
+<!--SR:!2026-09-27,4,270-->
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion
 <!--SR:!2026-09-26,4,270-->
 - Hvornår bliver $\alpha$-HPVs DNA lavet om til et episom?:: I neuroner (hviket deaktivere det)
@@ -22,8 +23,9 @@ HSV 1 og 2
 - Hvorfor spreder HSV-1/2 sig ikke systemisk?:: De bliver dræbt i blodbanen men kan overleve ved at bevæge sig fra celle til celle
 - Hvad bliver transskriberet i latensfsaen af HSV-1/2?:: Latency associated transcript (LAT) 
 - Hvad bliver transskriberet i latensfasen af VZV?:: VLT
-<!--SR:!2026-09-23,1,230-->
+<!--SR:!2026-09-25,2,230-->
 - Hvor dybt går infektioner med HSV-1/2?:: Typsik kun epidermis
+<!--SR:!2026-09-27,4,270-->
 
 
 Neurotrope (inficere neuroner (som sekunldær infektioenr))

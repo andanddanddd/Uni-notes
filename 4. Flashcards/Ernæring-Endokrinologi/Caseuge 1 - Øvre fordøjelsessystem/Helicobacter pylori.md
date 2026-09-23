@@ -9,3 +9,4 @@
 - Hvor ofte fører H. pylori til en ulcussygedom?:: I 10-15% af smittede
 <!--SR:!2026-10-01,16,290-->
 - Hvordan overlever helicobakter pylori i mavesækken?:: Den har urease ([[Ureasetest]])
+<!--SR:!2026-09-27,4,270-->

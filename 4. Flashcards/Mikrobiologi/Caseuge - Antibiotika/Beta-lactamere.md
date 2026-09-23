@@ -1,19 +1,19 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kendetegner strukturen af beta-lactamere?:: En ring med 4 led ($\beta$-lactamring)
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-24,62,310-->
 - Hvilken effekt har sidekæden på beta-lavtamere?:: Den bestemmer spectret af antibiotikaen, samt farmakokinetikken
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
 - Hvilken type antibiotika er $\beta$-lactamere? (bakteriecidt vs bakteriestatisk):: [[Bakteriecider]]
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
 - Hvilken polaritet har $\beta$-lactamere?:: Polære
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
 - Hvor godt optages $\beta$-lactamere generalt?:: Dårligt
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-24,62,310-->
 - Hvordan er halveringstiden af $\beta$-lactamere generalt?:: Lav (0,5-2 timer)
 <!--SR:!2026-10-30,43,290-->
 - Hvilke bivirkninger har $\beta$-lactamere typisk?:: Få dog kan nogle få allergiske reaktioner dertil
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-28,66,310-->
 - Hvordan virker $\beta$-lactamere overordnet?:: Binder til transpeptidasen og bleker for vand så den ikke kan komme væk derfra, dermed bliver transpeptidasen deaktiveret og bakterien kan ikke danne sin cellevæg
 <!--SR:!2026-10-27,39,290-->
 

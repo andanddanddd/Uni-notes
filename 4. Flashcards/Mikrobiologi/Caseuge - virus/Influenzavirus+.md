@@ -16,6 +16,7 @@
 - Hvilke arter kan influenza B inficere?:: Mennesker og sæler
 <!--SR:!2026-09-26,4,270-->
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
+<!--SR:!2026-09-27,4,270-->
 - Hvilke arter kan influenza D inficere?:: Køer og grise
 <!--SR:!2026-09-26,4,270-->
 - Hvilke(n) undertype af influenza giver de værste infektioner?:: A (og B)
@@ -59,6 +60,7 @@
 <!--SR:!2026-09-26,4,270-->
 ## Forebyggelse og behandling
 - Hvordan behandles influenza oftest?:: Symptombehandling
+<!--SR:!2026-09-27,4,270-->
 - Hvordan forebygges influenza?:: Vacciner
 <!--SR:!2026-09-26,4,270-->
 - Hvordan virker antivirale lægemidler mod influenza?

@@ -4,6 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. botulinum?:: [[Gram-positive bakterier]]
+<!--SR:!2026-09-27,4,270-->
 - Hvilken form har C. botulinum?:: Stav
 - Hvordan lejres C. botulinum?
 - Hvor lever C. botulinum normalt?
@@ -13,6 +14,7 @@
 - Hvilke celler inficere C. botulinum?
 - Hvilke patogenesefaktorer har C. botulinum?:: Dens toksin er MEGET potent (bogen siger den kan bruges som biovåben)
 - Hvilken type toksin er C. boutulinums toksiner?:: Neurotoksiner
+<!--SR:!2026-09-27,4,270-->
 
 
 ## Smitte og epidimologi

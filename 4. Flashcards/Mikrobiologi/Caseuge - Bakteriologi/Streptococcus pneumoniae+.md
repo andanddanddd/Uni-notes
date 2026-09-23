@@ -38,6 +38,7 @@ Smitevej
 ## Forebyggelse og behandling
 Resistens
 - Hvordan behandles S. pneumoniae?:: [[Penicilin]]
+<!--SR:!2026-09-24,1,230-->
 - Hvordan forebygges S. pneumoniae?:: Vaccination
 
 #### Vaccination

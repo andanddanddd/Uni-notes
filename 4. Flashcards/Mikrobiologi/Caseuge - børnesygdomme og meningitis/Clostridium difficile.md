@@ -8,6 +8,7 @@
 - Hvordan lejres C. difficile?:: 
 - Hvor lever C. difficile normalt?::
 - Hvilket oxidativt miljø lever C. difficile bedst i?:: Anaerob
+<!--SR:!2026-09-27,4,270-->
 
 ## Patogenese
 - Hvilke celler inficere C. difficile?:: Den kolonisere colon og udskiller toksiner
@@ -22,6 +23,7 @@
 - Hvilken tendens har smittetilfælde med C. difficile?:: Antallet af smittede steg i år 2000 da den muterede
 - Hvordan smitter C. difficile?:: Gennem spore, særligt på hospitaler
 - Hvem får oftest en infektion med C. difficile?:: Kvinder oftere end mænd men det er primært ældre og indlagte
+<!--SR:!2026-09-27,4,270-->
 - Hvad kan øge en persons risiko for at blive inficeret med C. difficile?:: Specifike antibiotikabehandlinger
 
 ## Symptomer og komplikationer
@@ -41,3 +43,4 @@ Hvordan genkendes den?
 - Hvilke antibiotika er C. difficile resistente overfor?:: [[Flourquinoloner]] (sporene er resistente overfor det meste)
 - Hvordan forebygges C. difficile?:: Hygiejne og undgå at give specifikke antibiotika til folk i risikogruppen for C. difficile
 - Hvordan behandles C. difficile?:: Nogle gange skal den antibiotiakkur der førte til infektionen stoppes ellers kan [[Vancomyocin]] eller [[Metronidazol]] gives
+<!--SR:!2026-09-27,4,270-->

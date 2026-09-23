@@ -13,7 +13,9 @@
 - Hvilken form har C. perfringes?:: Stav
 - Hvordan lejres C. perfringes?
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
+<!--SR:!2026-09-27,4,270-->
 - Hvilket oxidativt miljø lever C. perfringes bedst i?:: Anerob
+<!--SR:!2026-09-27,4,270-->
 
 ## Patogenese
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
@@ -36,12 +38,13 @@
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter
 <!--SR:!2026-10-16,25,270-->
 ## Symptomer og komplikationer
-- Hvilke infektioner giver C. perfringes?::
+- Hvilke infektioner giver C. perfringes?
 ?
 - Madforgiftning 
 - Sårinfektioner (cellulitis)
 
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
+<!--SR:!2026-09-24,1,230-->
 - Hvad kendetegner en sårinfektion grundet C. perfringens?::
 ## Diagnostik
 Dyrkningsmedie?
@@ -52,6 +55,7 @@ Hvordan genkendes den?
 - Hvilke resistensmekanismer har C. perfringes?
 - Hvordan forebygges C. perfringes?
 - Hvordan behandles gastroenteritis C. perfringes?:: Det gør det typisk ikke, hvis det gør er det vand + elektrolytter
+<!--SR:!2026-09-27,4,270-->
 
 - Hvilken effekt har antibiotika på madforgiftning grundet C. perfringens?:: Ingen
 <!--SR:!2026-09-25,11,270-->

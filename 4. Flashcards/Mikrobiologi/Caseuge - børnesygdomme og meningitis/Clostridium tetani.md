@@ -12,12 +12,14 @@
 ## Patogenese
 - Hvordan giver tetanospasmin overordnet symptomer?:: Stopper GABA fra at blive frigivet i synapsekløften
 - Hvordan kommer tetanospasmin hen til axonenden?:: Det bevæger dig retrograd (fra axonende til dendrit) herfra går det over synapsekløften og ender derfor i axonenden på 1. moterneuron
+<!--SR:!2026-09-27,4,270-->
 ## Symptomer og komlikation
 - Hvilken sygdom giver C. tetani typisk?:: [[Stivkrampe]]
 - Hvad kaldes tetanus' toksin der giver sygdom?:: [[Tetanospasmin]]
 <!--SR:!2026-09-25,3,250-->
 - Hvorfor sker neonatal tetanus?:: Tetanus i navlestrengen
-- Hvad er typisk det første symptom på stovrkampe?:: Låst kæbe
+- Hvad er typisk det første symptom på stivkrampe?:: Låst kæbe
+<!--SR:!2026-09-27,4,270-->
 - Hvordan dør man af stivkræmpe?:: paralyseret respirationsmuskulatur
 ## Forebyggelse og behandling
 - Hvordan forebygges infektion med C. tetani overordnet?:: Vaccine

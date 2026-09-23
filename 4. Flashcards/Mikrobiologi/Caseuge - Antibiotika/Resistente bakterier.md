@@ -9,23 +9,23 @@
 - Inhibere optaget af lægemiddel
 - Øger export af lægemiddel ud af cellen
 - Ændre lægemiddeles målstruktur
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-26,64,310-->
 
 - Hvad er den mest normale mekanisme til resistens?:: Ændring fa målstruktur
 <!--SR:!2026-11-15,54,310-->
 - Hvad kaldes det når en bakterie kun delvist bliver påvirket af et lægemiddel? (de er delvist resistente):: Tolerence
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-28,66,310-->
 - Hvad er naturlig resistens?:: Resistens der opstod inden bakterien mødte antibiotika
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-26,64,310-->
 - Hvad er erhvervet resistens?:: resistens der opstod efter bakterien har mødt antibiotika
 <!--SR:!2026-11-16,56,310-->
 - Hvordan kan bakterier vælge at blive resistente og hvorfor er det pludselig en hel koloni af resistente bakterier?:: Der sker en tilfældig mutation hvilket medfører at den specifikke bakterie overlever mens alle de andre dør, herefter vil den resistente bakterie formere sig og dermed fås en stamme af resistente bakterier (selektion)
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-23,61,310-->
 - Hvordan kan bakterie overfører plasmider til hinanden?
 ?
 - Direkte kontakt [[konjugation (resistens)]]
 - [[Bakteriofager]] (transduktion)
 - Optag fra døde bakterier (transformation)
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
 
 ![[Pasted image 20260902102900.png]]

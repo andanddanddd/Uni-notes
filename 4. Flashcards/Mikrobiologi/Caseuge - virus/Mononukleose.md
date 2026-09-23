@@ -14,3 +14,4 @@
 <!--SR:!2026-09-25,3,250-->
 
 - Hvad er en differentialdiagnose til patienter der kommer ind med symptomer på mononucleose men uden postiv EBV-serologi?:: Mononukleose forårsaget af [[CMV+]]
+<!--SR:!2026-09-26,3,250-->

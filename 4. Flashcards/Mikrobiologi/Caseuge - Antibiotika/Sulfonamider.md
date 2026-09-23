@@ -1,15 +1,15 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad gør sulfonamider overordnet?:: Inhibere syntesen THF der er cofaktor for syntese af folsyre i bakterier (kompetetivt)
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-27,65,310-->
 - Hvorfor er sulfonamider langsomme til at inhibere bakterievækst?:: Bakterier har som udgangspunkt nok færdigsyntetiseret folsyre til at lave 4 delinger, først herefter kan de bliver påvirket af manglende folsyre [[Pricipper for valg af antibiotika]]
 <!--SR:!2026-11-24,63,310-->
 - Hvorfor er sulfonamider selektive overfor bakterier?:: Mennesker skal ikke selv syntetisere folsyre
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
 - Hvilken del af DNA hæmmes af sulfonamider?:: Pyrimidin-syntesen
 <!--SR:!2026-09-28,14,290-->
 - Hvad hedder de 2 mest almindelige sulfonamid?:: [[Sulfamethizol]] (kaldes også bare sulfa) og [[Trimethoprim]]
 <!--SR:!2026-10-18,30,270-->
 - Hvordan kan en bakterie blive resistent overfor sulfonamider?:: Den "lærer" at optage folsyre så den ikke selv skal syntetisere det
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
 

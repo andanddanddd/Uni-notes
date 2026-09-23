@@ -6,3 +6,4 @@
 - Hvem er gingivostmatitis farligst for?:: Det er som udgangspunkt bare selvlimiterende men det bliver værre jo ældre man bliver
 <!--SR:!2026-09-26,4,270-->
 - Hvilke symptomer giver den primære infektion af gingivostomatitis oftest?:: Ingen
+<!--SR:!2026-09-27,4,270-->

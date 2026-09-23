@@ -7,6 +7,6 @@
 - Hvor lever S. agalactae normalt?:: Nedre fordøjelsessystem og vagina
 <!--SR:!2026-10-09,18,250-->
 - Hvornår er det et problem at S. agalactiae er i vagina?:: Når der skal et barn igennem
-<!--SR:!2026-09-23,7,270-->
+<!--SR:!2026-10-19,26,290-->
 - Hvordan undgås det at en nyfødt bliver inficeret med S. agalactiae fra moderens vagina?:: Der screenes ved ug 35-37 hvorefter der gives antibiotika
 <!--SR:!2026-09-28,14,290-->
