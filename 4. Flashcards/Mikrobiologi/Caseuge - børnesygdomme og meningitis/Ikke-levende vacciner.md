@@ -14,9 +14,9 @@
 <!--SR:!2026-11-15,54,310-->
 - Hvilke ulemper har ikke-levende vacciner?
 ?
-- De giver ikke altid et godt respons (der kan mangle DAMPs [[Adjuvans (tjek)]])
+- De giver ikke altid et godt og ligeså specifikt respons (der kan mangle DAMPs [[Adjuvans]] og det kan potentielt inficere de forkerte celler eller gøre det det forkerte sted)
 - Indeholder kun få antigener
-- Brug
+- Varer i kortere tid
 <!--SR:!2026-11-15,55,310-->
 
 - Hvilken vaccine indeholder patogener som ikke kan replikere?:: [[Polio]]

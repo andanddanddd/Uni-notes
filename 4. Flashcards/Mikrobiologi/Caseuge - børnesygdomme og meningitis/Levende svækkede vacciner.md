@@ -11,10 +11,14 @@
 - De aggere som normal patogen og bliver derfor presenteret på de rigtige [[MHC molekyler]] (både type og rigtige sted i koppen) hvilket giver langvarig immunitet
 - Der er mange antigener
 - Ikke brug for adjuvans
+- Maget langtidsholdbar
 <!--SR:!2026-11-25,65,310-->
+
 - Hvilke ulemper har levende svækkede vacciner?
 ?
 - De kan give symptomer og infektioner
 - De kan udløse overfølsomhedreaktioner
 - De skal håndteres meget påpasseligt for ikke at dræbe mirkoorganismerne
+- De kan tilbagemutere til den "farlige" form
+- Kan giev midlertidlig immunsupression
 <!--SR:!2026-10-07,23,250-->

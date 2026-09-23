@@ -12,3 +12,4 @@ mRNA er en damp
 <!--SR:!2026-11-26,66,310-->
 - Hvordan kommer arvematrialet ind i cellerne?:: Man bruge ren deaktiveret virus som vektor
 <!--SR:!2026-11-27,67,310-->
+- Hvad bruegs som [[Adjuvans]] i mRNA-vacciner?:: Intet mRNA er en DAMP

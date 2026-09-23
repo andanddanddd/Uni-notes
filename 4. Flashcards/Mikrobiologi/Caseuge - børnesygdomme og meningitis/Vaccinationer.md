@@ -5,12 +5,12 @@
 - Hvad er pasteurs fund?:: Efter han gav sine kyllinger en død bakterie (ved et uheld) blev de ikke længere syge af den levende bakterie
 ![[Pasted image 20260923131453.png]]
 
-![[Adjuvans (tjek)]]
-
+![[Adjuvans]]
+- Hvad kaldes en tilbage-mutation til en mere virulent form?:: Revertere
 - Hvilke 3 typer af vacciner har vi?
 ?
 - [[Levende svækkede vacciner]]
-- [[Ikke-levende vacciner (tjek)]]
+- [[Ikke-levende vacciner]]
 - [[DNA og mRNA-baseret vacciner (tjek)]]
 
 
@@ -30,3 +30,4 @@
 - Antistoffer til neutralisering af toksiner
 
 ![[Vaccinetiming]]
+
