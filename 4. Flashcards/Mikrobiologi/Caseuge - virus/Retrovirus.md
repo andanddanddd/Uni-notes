@@ -20,5 +20,6 @@
 - Hvad koder *pro* for?:: En protease til at kløve *gag* og *pol*
 <!--SR:!2026-09-26,4,270-->
 - Hvad koder *gag* for?:: De strukturelle komponenter (precursers)
+<!--SR:!2026-09-27,4,270-->
 - Hvad koder *env* for?:: Glykoproteiner (precurser)
 <!--SR:!2026-09-26,3,250-->

@@ -25,12 +25,14 @@
 ## Smitte og epidimologi
 - Hvor smitsom er B. pertussis?:: MEGET smitsom 
 - Hvilken smittevej har B. pertussis?:: Inhalation
+<!--SR:!2026-09-27,4,270-->
 
 ## Symptomer og komplikationer
 - Hvilken infektion giver B. pertussis typisk?:: [[Bronkopneumoni]]
 - Hvad kaldes sygdommen forårsaget af B. pertussis i daglig tale?:: [[Kighoste]]
 <!--SR:!2026-09-27,4,270-->
 - Hvilken patientgruppe bliver mest syg af B. pertussis?:: Børn
+<!--SR:!2026-09-27,4,270-->
 - Hvorfor kan B. pertussis lede til dehydrering?:: At synke kan give et hosteadfærd derfor prøver børn at undgå det
 
 ## Diagnostik

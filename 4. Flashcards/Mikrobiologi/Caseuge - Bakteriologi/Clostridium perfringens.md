@@ -10,6 +10,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. perfringes?:: [[Gram-negative bakterier]]
+<!--SR:!2026-09-26,3,250-->
 - Hvilken form har C. perfringes?:: Stav
 - Hvordan lejres C. perfringes?
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
@@ -40,8 +41,9 @@
 ## Symptomer og komplikationer
 - Hvilke infektioner giver C. perfringes?
 ?
-- Madforgiftning 
+- Madforgiftning
 - Sårinfektioner (cellulitis)
+<!--SR:!2026-09-27,4,270-->
 
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
 <!--SR:!2026-09-24,1,230-->

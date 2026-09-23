@@ -6,6 +6,7 @@
 - Hvilken form har S. pneumoniae?:: Kokker
 <!--SR:!2026-09-27,4,270-->
 - Hvordan lejres S. pneumoniae?:: Diplokok (end to end)
+<!--SR:!2026-09-27,4,270-->
 Normal levested
 
 ## Patogenese

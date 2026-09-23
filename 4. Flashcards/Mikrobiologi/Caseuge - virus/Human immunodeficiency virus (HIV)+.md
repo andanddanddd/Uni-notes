@@ -8,6 +8,7 @@
 
 ## Livscyklus
 - Hvilke celler inficere HIV?:: Cd4+ [[T-celler]] og [[Monocytter]]
+<!--SR:!2026-09-27,4,270-->
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom

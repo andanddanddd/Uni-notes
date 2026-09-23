@@ -3,6 +3,7 @@
 - Hvilken type cellevæg har C. diphtheriae?:: [[Gram-positive bakterier]]
 <!--SR:!2026-09-26,4,270-->
 - Hvilken form har C. diphtheriae?:: Stav
+<!--SR:!2026-09-24,1,230-->
 - Hvordan lejres C. diphtheriae?:: "Kinesiske skriftstegn" ![[Pasted image 20260921142601.png]]
 <!--SR:!2026-09-26,4,270-->
 - Hvor lever C. diphtheriae normalt?::
@@ -45,3 +46,4 @@ Hvordan genkendes den?
 - Hvornår gives C. diphtheriae vaccinen?:: 3,5,12 mdr og 5 år
 <!--SR:!2026-09-27,4,270-->
 - Hvad kendetegner C. diphtheriae vaccinen overordnet?:: Det er en toksid-vaccine ([[Subunitvacciner]])
+<!--SR:!2026-09-27,4,270-->
