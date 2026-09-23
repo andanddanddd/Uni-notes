@@ -6,6 +6,7 @@
 	Dvs de på pCR vil ligne de har en gigantisk stor vorusinfektion 
 
 - Hvilke celler kan HHV-6 inficere?:: Dem alle i et laboratoriesetting
+<!--SR:!2026-09-24,1,230-->
 - Hvilken sygdom giver HHV-6 oftest?:: [[Roseola infantum]]
 - Hvor mange har været smittet med HHV-6?:: Alle (serumprævalens på over 95% i den voksne befolkning)
 <!--SR:!2026-09-27,4,270-->

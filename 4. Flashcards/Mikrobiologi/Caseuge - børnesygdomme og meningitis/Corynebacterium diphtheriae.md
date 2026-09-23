@@ -7,6 +7,7 @@
 <!--SR:!2026-09-26,4,270-->
 - Hvor lever C. diphtheriae normalt?::
 - Hvilket oxidativt miljø lever C. diphtheriae bedst i?:: Anaerobt
+<!--SR:!2026-09-26,3,250-->
 
 ## Patogenese
 - Hvilke celler inficere C. diphtheriae?
@@ -42,4 +43,5 @@ Hvordan genkendes den?
 - Hvordan forebygges C. diphtheriae overordnet?
 #### Vaccine
 - Hvornår gives C. diphtheriae vaccinen?:: 3,5,12 mdr og 5 år
+<!--SR:!2026-09-27,4,270-->
 - Hvad kendetegner C. diphtheriae vaccinen overordnet?:: Det er en toksid-vaccine ([[Subunitvacciner]])

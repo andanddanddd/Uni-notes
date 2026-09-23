@@ -21,6 +21,7 @@
 - [[Biofilm]]
 
 - Hvilke mekanismer giver den karakteristisek hoste fra B. pertussis?:: Der er meget mucus samtidig med at hostereceptorer bliver mere følsomme og cillierne bliver ødelagt så de nedre luftveje er generalt dårligere til at komme af med mucus
+<!--SR:!2026-09-27,4,270-->
 ## Smitte og epidimologi
 - Hvor smitsom er B. pertussis?:: MEGET smitsom 
 - Hvilken smittevej har B. pertussis?:: Inhalation
@@ -36,14 +37,19 @@
 - Hvornår er det nemmeste at dyrke B. pertussis?:: Den første uge af infektion (stadie 1) herefter er bakterien måske død ellers har den bare bevæget sig ned i dybere lag
 <!--SR:!2026-09-27,4,270-->
 - Hvorfor kan det være svært at diagnostocere B. pertussis ved dyrkning?:: Der er klart mest bakterie i starter og der ligner det bare en forkølelse
+<!--SR:!2026-09-27,4,270-->
 - Hvor poder man når man vil dyrke B. pertussis?:: Bagvæggen af pharynx
 <!--SR:!2026-09-27,4,270-->
 - Når man skal dyrke B. pertussis behandler man prøven med penicilin, hvorfor? og hvorfor er man ikke bange for at dræbe B. pertussis?:: Den har naturlig resistens så alle stammer er resistente, man gør det altså for at forhindre "støj" fra andre bakterier
+<!--SR:!2026-09-27,4,270-->
 - Hvordan diagnosticeres B. pertussi oftest?:: Fluroscerende antistoftest
+<!--SR:!2026-09-26,3,250-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
-- Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens 
+<!--SR:!2026-09-27,4,270-->
+- Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens
+<!--SR:!2026-09-27,4,270-->
 - Hvordan behandles B. pertussi?:: [[Makrolider]] og [[Tetracykliner]]
 <!--SR:!2026-09-24,1,230-->
 

@@ -38,6 +38,7 @@
 <!--SR:!2026-09-26,4,270-->
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn 
 - Hvor mange smittetilfælde kommer fra deling af nåle? (i den vestlige verden):: 6%
+<!--SR:!2026-09-27,4,270-->
 - Hvordan smitter HIV?
 ?
 - Sexuel kontakt
@@ -59,6 +60,7 @@
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
 <!--SR:!2026-09-27,4,270-->
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
+<!--SR:!2026-09-27,4,270-->
 ## Diagonstik
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 <!--SR:!2026-09-26,4,270-->
@@ -72,6 +74,7 @@
 - Hvordan undgås at HIV smitter i befolkning?:: Generalt undgå risikoadfærd og hvis dem med HIV er i behandling vil de have mindre vira i deres blod (og andre væsker) så de har sværre ved at smitte
 <!--SR:!2026-09-26,4,270-->
 - Hvor længe skal en person med HIV være i behandling?:: Altid (pga latente vira)
+<!--SR:!2026-09-27,4,270-->
 - Hvilket angrebspunkt har de fest behandlinger mod HIV?
 ?
 - Revers transkripase (ofte ved at være en nukleotid der ikke kan forlænges på)

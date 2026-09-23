@@ -4,6 +4,7 @@
 ## Generalt
 - Hvilken type cellevæg har S. pneumoniae?:: [[Gram-positive bakterier]]
 - Hvilken form har S. pneumoniae?:: Kokker
+<!--SR:!2026-09-27,4,270-->
 - Hvordan lejres S. pneumoniae?:: Diplokok (end to end)
 Normal levested
 
@@ -40,7 +41,9 @@ Resistens
 - Hvordan behandles S. pneumoniae?:: [[Penicilin]]
 <!--SR:!2026-09-24,1,230-->
 - Hvordan forebygges S. pneumoniae?:: Vaccination
+<!--SR:!2026-09-27,4,270-->
 
 #### Vaccination
 - Hvad kendetegner S. pneumoniae vaccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
 - Hvornår vaccineres man mod S. pneumoniae?:: 3,5,12 mdr
+<!--SR:!2026-09-27,4,270-->

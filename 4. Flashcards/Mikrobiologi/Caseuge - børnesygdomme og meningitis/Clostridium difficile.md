@@ -1,12 +1,11 @@
 #flashcards/5/Mikrobiologi 
 
 
-
 ## Generalt
 - Hvilken type cellevæg har C. difficile?:: [[Gram-positive bakterier]]
 - Hvilken form har C. difficile?:: Stav
-- Hvordan lejres C. difficile?:: 
-- Hvor lever C. difficile normalt?::
+- Hvordan lejres C. difficile?
+- Hvor lever C. difficile normalt?
 - Hvilket oxidativt miljø lever C. difficile bedst i?:: Anaerob
 <!--SR:!2026-09-27,4,270-->
 
@@ -30,14 +29,14 @@
 - Hvad er det mest almindelige symptom af C. difficile?:: Diarre
 - Hvilken "sygdom" C. difficile?:: [[Pseudomembranøs collitis (PMC)]]
 - Hvilke infektioner giver C. difficile?
-?
 - 
 
-- Hvilke komplikationer kan C. difficile give?::
+- Hvilke komplikationer kan C. difficile give?
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres C. difficile?:: Elisa af toksiner fra fæces
+<!--SR:!2026-09-24,1,230-->
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er C. difficile resistente overfor?:: [[Flourquinoloner]] (sporene er resistente overfor det meste)

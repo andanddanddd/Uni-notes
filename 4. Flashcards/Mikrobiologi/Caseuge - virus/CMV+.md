@@ -3,6 +3,7 @@
 
 - Hvordan smitter CMV?:: Slimkontakt
 - Hvor mange er smittet med CMV?:: 50-70% af den vestlige verden nærmest alle i U-lande
+<!--SR:!2026-09-27,4,270-->
 - Hvilke sygdom giver CMV?:: Det giver typisk ikke infektioner medmindre det er [[Kongenit CMV]]
 <!--SR:!2026-09-26,4,270-->
 - Hvordan diagnosticeres CMV?:: Serologi

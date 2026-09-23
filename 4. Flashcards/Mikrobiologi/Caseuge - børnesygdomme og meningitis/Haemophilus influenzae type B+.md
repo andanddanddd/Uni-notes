@@ -32,6 +32,7 @@ Smitevej
 
 ## Diagnostik
 - Hvilket medie bruges til dyrkning af H. influenzae type B?:: [[Chokoladeagerplader]]
+<!--SR:!2026-09-27,4,270-->
 - Hvad gøres med en [[Blodplader agerplade]] for at H. influenzae kan gro derpå?:: Man laver en stribe af [[Staphylcoccer]]
 <!--SR:!2026-09-27,4,270-->
 
