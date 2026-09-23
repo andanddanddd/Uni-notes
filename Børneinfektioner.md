@@ -6,7 +6,7 @@
 - Hvad er de 5 klassiske børnesygdomme?
 ?
 - [[Varicella (skoldkopper)]]
-- [[Lussingesyge]]
+- [[Erythema infectionsum]]
 - [[Hånd-fod-mund-syge]]
 - [[Roseola infantum]]
 - [[Scarletina]]
@@ -19,6 +19,7 @@
 - [[CMV+]]
 - [[Alfaherpesvirus]]
 
+- Hvorfor skal man være særlig opmærksom på feber ved små børn?:: De er generalt dårlige til at lave feber 
 
 Aplastisk krise er noget med at dæmpe knolgemarven
 Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lave røde blodlegemer

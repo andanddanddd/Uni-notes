@@ -1,18 +1,21 @@
+#flashcards/5/Mikrobiologi 
+
 
 
 ## Struktur
 - Hvilken form har kapslen på vX
-- Har vX en lipidmembran
+- Har morbilli virusen lipidmembran
 - Hvilken type arvematriale bruger vX
-- Hvilken struktur har vX´ arvematriale
+- Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter vX?
-- Hvordan kommer vX ind i cellen?
+- Hvordan kommer morbilli virusind i cellen?
 - Replikation
 ## Epidemiologi
 - Tendens i tilfælde
 
 ## Symptomer og komplikationer
+- Hvilke
 
 ## Diagonstik
 

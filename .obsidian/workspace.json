@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - virus/Varicella (skoldkopper).md",
+                "file": "Morbillivirus+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Varicella (skoldkopper)"
+              "title": "Morbillivirus+"
             }
           }
         ]
@@ -256,9 +256,13 @@
   },
   "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
-    "Børneinfektioner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Varicella (skoldkopper).md",
+    "Skabeloner/Skabelon - Virus.md",
+    "Morbillivirus+.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Børnesygdomme.md",
+    "Børneinfektioner.md",
+    "Erythema infectionsum.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
+    "4. Flashcards/Mikrobiologi/Caseuge - virus/Varicella (skoldkopper).md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Ureasetest.md",
@@ -285,10 +289,7 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylcoccer.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Peroxidasetest.md",
     "Billeder/Mikrobiologi/Pasted image 20260922135201.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Bakteriespore.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Gram-farvning.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Øvelsesvejledning uge 1.pdf",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adenylate cyclase toksin (ACT).md",
     "Billeder/Mikrobiologi/Pasted image 20260921142601.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260922112959.png",
@@ -301,7 +302,6 @@
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
     "Excalidraw/Mikrobiologi/Untitled.base",
-    "Externe dokumenter/MIkrobiologi/Bakteriologi/Slides - sexuelle_sygdome_E26.pdf",
     "Untitled.canvas"
   ]
 }
