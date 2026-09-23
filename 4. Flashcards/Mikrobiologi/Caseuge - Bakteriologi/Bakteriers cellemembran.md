@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes transportproteinerne i bakteriernes cellemembran der transpotere næringsstoffer ind i cellen?:: Permeaser
-<!--SR:!2026-09-23,6,250-->
+<!--SR:!2026-10-14,21,270-->
 - Hvilken transportmekanisme bruges til at få næringstoffer ind gennem bakteriernes cellemembran?:: Faciliteret diffusion, aktiv transport eller gruppetransport
 <!--SR:!2026-11-23,63,310-->
 - Hvad er gruppetransport?:: Aktiv transport hvor stoffet der transporteres ændres undervejs

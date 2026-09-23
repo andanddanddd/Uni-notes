@@ -13,7 +13,7 @@
 - Hvilken funktion har glykoproteinerne på virus?:: Komme ind i celler
 <!--SR:!2026-10-08,16,290-->
 - Hvad kaldes viruses genom + dens kapsel?:: Nukleokapsid
-<!--SR:!2026-10-04,12,270-->
+<!--SR:!2026-110-04,12,12,270-->
 - Hvad er funktionen af M-proteiner?:: Hjælpe med budding og stabilisere kontakten mellem glykoprotein og værtscelle
 <!--SR:!2026-10-04,12,270-->
 ![[Pasted image 20260917095932.png|429]]

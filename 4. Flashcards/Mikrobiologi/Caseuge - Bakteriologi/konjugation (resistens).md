@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad sker overordnet under konjugation?:: En sexpilus går fra en bakterie til en anden herefter overføres en plasmid
-<!--SR:!2026-09-23,7,270-->
+<!--SR:!2026-10-20,27,290-->
 - Hvordan sikres at begge bakterier ender med plasmiden efter konjugation?:: Plasmiden åbnes og den ene streng går igennem sexpilus, herfra replikeres den
 <!--SR:!2026-09-29,15,290-->
 

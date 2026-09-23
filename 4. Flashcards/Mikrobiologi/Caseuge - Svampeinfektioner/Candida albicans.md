@@ -1,4 +1,4 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan kan candida albicans skeldnes fra andre candida?:: De laver "germ tubes" dvs en udposning på svampen, når den udsættes for kalveserum (man kan også bruge massespektroskopi)
-<!--SR:!2026-09-23,2,230-->
+<!--SR:!2026-09-30,7,250-->

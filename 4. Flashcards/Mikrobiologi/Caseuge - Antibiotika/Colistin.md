@@ -5,4 +5,4 @@
 - Hvad bruges colistin til?:: Lungeinfektioner
 <!--SR:!2026-11-21,60,310-->
 - Colistin er et ==Prodrug==
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->

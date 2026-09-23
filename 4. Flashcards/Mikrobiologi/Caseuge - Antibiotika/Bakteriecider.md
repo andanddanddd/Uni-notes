@@ -1,4 +1,4 @@
 #flashcards/5/Mikrobiologi 
 
 - Ved hvilken patientgruppe vælger man næsten altid bakteriecider?:: Immunkompromitterede
-<!--SR:!2026-09-23,16,290-->
+<!--SR:!2026-11-29,67,310-->
