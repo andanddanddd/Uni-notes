@@ -3,3 +3,7 @@
 
 
 ![[Meningitis]]
+
+![[Encephalitis]]
+
+![[Myelitis]]

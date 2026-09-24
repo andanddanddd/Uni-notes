@@ -22,6 +22,7 @@
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren 
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
 - Hvad sker til tider med hjernen når intracranielt tryk stiger?:: [[Inkarcerationer]]
+- Hvilken effekt har [[Blod-hjerne-barrieren]] på hyppighed og sværhedsgrad af meningitis?:: Det beskytter som udgangspunkt mod infektioner i CNS men når der så kommer infektioner deri er det svært at bekæmpe
 ![[Pasted image 20260924115519.png]]
 
 ## Diagnostik
