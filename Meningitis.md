@@ -1,8 +1,12 @@
 #flashcards/5/Mikrobiologi 
 
+## Statistik
+- Hvilke typer patogener giver oftest meningitis?:: Vira efterfulgt af bakterier
+
 - Hvilke bakterier giver oftest meningitis?
 ?
 - [[Streptococcus pneumoniae+]]
+- [[Staphylococcus aureus+]]
 - [[Neisseria meningitidis+]]
 - [[Haemophilus influenzae type B+]]
 - [[Listeria monocytogenes+]]
@@ -10,11 +14,14 @@
 - [[Streptococcus agalactiae]]
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
+- Hvad menes med at kunne sejre sig selv ihjel med vacciner?:: Vi har vaccineret mod de patogener som førhen oftest gav meningitis dvs der er relativt flere af nogle andre patogener men der er bare mange færre totalt
+## Patogenese
 
-
-
-Meninggokokker er meeget mere sjældent nu end førhen
-Sejre sig selv ihjel med vacciner (der er nogle sygdomme der ligner de giver meget meningitis fordi de mere klassiske meningitisbakterier er blevet vaccineret imod)
+- Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
+- Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
+- Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren 
+- Hvilken effekt har 
+![[Pasted image 20260924115519.png]]
 
 Meget lidt immunforsvar bag blod-hjerne-barrieren derfor har bakterierne "frit slav"
 
