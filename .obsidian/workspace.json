@@ -50,7 +50,8 @@
               "title": "Neisseria meningitidis+"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -269,7 +270,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
     "0. De allervigtigste/Mikrobiologi/Meningitis.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Membranangrebskompleks (MAC).md",
