@@ -50,10 +50,12 @@
 - Ændret bevisthedsniveu
 
 - Hvad er "meningitistriaden"?:: [[Nakke-ryg-stivhed]], feber og ændret bevisthedsniveu
+- Hvad er forskellen i symptombillede mellem meningitis og [[Encephalitis]]?:: ENcephalitis giver flere neurale udfald
 
 ## Behandling
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
+- Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor
 ![[Pasted image 20260924121316.png]]
 
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)
@@ -62,8 +64,5 @@ Man kan trække sin knæ op for at modvirke at at det gør ondt at bevæge nakke
 
 Virale meninggitis viser de mest klassiske meninggitis-symptomer (de har dog ikke neurale symtomer og deres toks er god)
 
-Encephalitis giver klart felst neurale udfald  (slide 18)
-
 Hvis der er tænkt meningitis så lav en LP
 
-Listerier er resistent ovefor ceftriaxon men ikke penicilin derfor gives begge som initialbehandling
