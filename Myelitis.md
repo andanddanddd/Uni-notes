@@ -2,6 +2,7 @@
 
 
 ## Epidimologi
+
 ## Patogenese
 - Hvad er myelitis overordnet?:: Infektion i rygmarven
 
@@ -10,5 +11,6 @@
 ## Komplikationer
 
 ## Diagnose
+
 
 ## Behandling
