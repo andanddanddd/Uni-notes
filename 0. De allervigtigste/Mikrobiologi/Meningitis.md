@@ -30,6 +30,10 @@
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
 - Hvad sker til tider med hjernen når intracranielt tryk stiger?:: [[Inkarcerationer]]
 - Hvilken effekt har [[Blod-hjerne-barrieren]] på hyppighed og sværhedsgrad af meningitis?:: Det beskytter som udgangspunkt mod infektioner i CNS men når der så kommer infektioner deri er det svært at bekæmpe
+- Hvilke patogene giver oftest Aseptisk meningitis?:: Vira
+- Hvilken patogen giver oftest de værste sygdomstilfælde af meningitis?:: Bakterier
+- Hvilken bakterie kan give kronisk meningitis?:: [[Mycobacterium tuberculosis+]]
+- Hvorfor kan tuberculose i hjernen pludselig aktiveres til en meningitis?:: Ved anden sygdom (særligt skoldkopper virker det til)
 ![[Pasted image 20260924115519.png]]
 
 ## Diagnostik
@@ -64,7 +68,7 @@
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
 - Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor
-- Hvorfor vælger man at behandle med $\beta$-lactamere selvom de ikke går meget igennem [[Blod-hjerne-barrieren]]? (der op):: De har et højt [[Terapeutisk index]]
+- Hvorfor vælger man at behandle med $\beta$-lactamere selvom de ikke går meget igennem [[Blod-hjerne-barrieren]]? (der opnås 6-gange så høje concentrationer i serum end i CSF):: De har et højt [[Terapeutisk index]]
 ![[Pasted image 20260924121316.png]]
 
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)
