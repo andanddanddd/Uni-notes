@@ -2,7 +2,7 @@
 
 ## Generalt 
 - Hvordan kan S. pyogenes genkendes?:: Den laver $\beta$-hemolyse
-<!--SR:!2026-09-24,12,270-->
+<!--SR:!2026-11-09,46,290-->
 - Hvad kaldes streptococcus pyogenes også?:: Strep A
 <!--SR:!2026-09-26,14,290-->
 

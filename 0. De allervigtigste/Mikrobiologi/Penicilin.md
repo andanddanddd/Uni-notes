@@ -9,7 +9,7 @@
 - Hvad hedder svampen der først producerede penicilin?:: Penicillium
 <!--SR:!2026-10-09,25,270-->
 - Hvorfor var penicil svært at fremstille syntetisk?:: Det nedbrydes nemt
-<!--SR:!2026-09-24,16,290-->
+<!--SR:!2026-11-30,67,310-->
 - Hvad sker med penicilins effekt når concentrationen øges?:: Penicilin skal bare være over en hvis concentration for det virker, det virker ikke bedre over den concentration
 <!--SR:!2026-11-27,65,310-->
 

@@ -24,10 +24,10 @@
 
 ## Behandling
 - Hvilken effekt har penicilin på E. faecalis?:: Det er kun bakteriestatisk
-<!--SR:!2026-09-24,10,270-->
+<!--SR:!2026-11-02,39,290-->
 - Hvordan er E. faecalis resistent mod [[Aminoglykosider]]?:: Den har gjort sin membran impermeabel
 <!--SR:!2026-09-30,16,290-->
 - Hvordan behandles med [[Aminoglykosider]] når E. faecalis egentlig er resistent?:: Det gives sammen med penicilin så membranen ødelægges lidt så Aminoglykosiderne kan trænge igennem
 <!--SR:!2026-09-29,15,290-->
 - Hvilken nyere antibiotika bruges til behanlding af E. faecalis?:: [[Linezolid]]
-<!--SR:!2026-09-24,3,230-->
+<!--SR:!2026-10-04,10,250-->

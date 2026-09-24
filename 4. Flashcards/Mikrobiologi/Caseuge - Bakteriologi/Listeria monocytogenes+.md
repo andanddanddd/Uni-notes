@@ -19,4 +19,4 @@
 - Blodforgiftning
 - [[Meningitis]]
 - Mor-barn-infektion
-<!--SR:!2026-09-24,10,270-->
+<!--SR:!2026-11-01,38,290-->
