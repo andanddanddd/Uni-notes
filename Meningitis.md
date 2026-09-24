@@ -20,14 +20,30 @@
 - Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
 - Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren 
-- Hvilken effekt har 
+- Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
+- Hvad sker til tider med hjernen når intracranielt tryk stiger?:: [[Inkarcerationer]]
 ![[Pasted image 20260924115519.png]]
 
-Meget lidt immunforsvar bag blod-hjerne-barrieren derfor har bakterierne "frit slav"
+## Diagnostik
+- Hvordan diagnosticeres meningitis overordnet?:: Lumbalpunktur
+- Hvad undersøges for i [[Cerebrospinalvæsken (CSF)]] ved mistanke om meningitis?
+?
+- Leukocytter (med noget der ligner differentialtælling)
+- Proteinkoncentration
+- Glykose
+- Laktat
 
-Infektion ligger i subaraknoidalrummet
+- Hvad kendetegner meningitis grundet [[stre]]
 
-ICP = intracranielt tryg
+## Klinisk præsentatin
+- Hvad er de 4 hyppigste symptomer på meningitis?
+?
+- Hovedpine
+- [[Nakke-ryg-stivhed]]
+- Feber
+- Ændret bevisthedsniveu
+
+
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)
 
 Man kan trække sin knæ op for at modvirke at at det gør ondt at bevæge nakken ved nakke-ryg-stivhed (det har et navn men det er kun på hans slide (2 tegn brunenskis))
