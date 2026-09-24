@@ -6,5 +6,5 @@
 ?
 - Opsonering til [[Fagocytose]]
 - Opsonering til binding af [[Folikulære dendritiske celler]]
-- Danne [[Membranangrebskompleks]]
+- Danne [[Membranangrebskompleks (MAC)]]
 

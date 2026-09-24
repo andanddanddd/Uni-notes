@@ -18,6 +18,8 @@
 - [[Streptococcus agalactiae]]
 - [[Escherichia coli+]]
 
+- Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
+
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 - Hvad menes med at kunne sejre sig selv ihjel med vacciner?:: Vi har vaccineret mod de patogener som førhen oftest gav meningitis dvs der er relativt flere af nogle andre patogener men der er bare mange færre totalt
 ## Patogenese
@@ -62,6 +64,7 @@
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
 - Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor
+- Hvorfor vælger man at behandle med $\beta$-lactamere selvom de ikke går meget igennem [[Blod-hjerne-barrieren]]? (der op):: De har et højt [[Terapeutisk index]]
 ![[Pasted image 20260924121316.png]]
 
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)
