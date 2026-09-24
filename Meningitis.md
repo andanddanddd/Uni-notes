@@ -25,7 +25,7 @@
 ![[Pasted image 20260924115519.png]]
 
 ## Diagnostik
-- Hvordan diagnosticeres meningitis overordnet?:: Lumbalpunktur
+- Hvordan diagnosticeres meningitis overordnet?:: Lumbalpunktur og bloddyrkning 
 - Hvad undersøges for i [[Cerebrospinalvæsken (CSF)]] ved mistanke om meningitis?
 ?
 - Leukocytter (med noget der ligner differentialtælling)
@@ -33,7 +33,13 @@
 - Glykose
 - Laktat
 
-- Hvad kendetegner meningitis grundet [[stre]]
+- Hvad kendetegner meningitis grundet [[Streptococcus pneumoniae+]]?:: Tidligere eller nuværende infektion med enten [[Otitis media]], [[Sinuitis]] eller [[Pneumoni]], meningitistriade
+- Hvad kendetegner meningitis grundet [[Neisseria meningitidis+]]?:: Yngre pt med huduslet og normalt bevisthedsniveu
+- Hvad kendetegner meningitis grundet [[Listeria monocytogenes+]]?:: Gammel (>50 år), immundefekter, lang symptomvarighed
+- Hvad kendetegner menigitis grundet [[Haemophilus influenzae type B+]]?:: Ældre, tidligere eller nuværende infektioner med [[Otitis media]] eller [[Sinuitis]], potentielt defekt i [[Basis cranii]]
+- Hvad kendetegner meningitis grundet [[Staphylococcus aureus+]]?:: Tidligere eller nuværende infektion af enten [[Endocardidis]] eller [[OSteromyelitis]]
+- Hvad kendetegner meningitis grundet [[Streptococcus agalactiae]]?:: Ældre, strofmisbrug, tidligere eller nuværende infektion af [[Endocardidis]], [[Otitis media]] eller [[Sinuitis]]
+- Hvad kendetegner meningitis grundet [[Escherichia coli+]]?:: Spædbørn og ældre, bakterieæmi
 
 ## Klinisk præsentatin
 - Hvad er de 4 hyppigste symptomer på meningitis?
@@ -43,6 +49,12 @@
 - Feber
 - Ændret bevisthedsniveu
 
+- Hvad er "meningitistriaden"?:: [[Nakke-ryg-stivhed]], feber og ændret bevisthedsniveu
+
+## Behandling
+- Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
+- Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
+![[Pasted image 20260924121316.png]]
 
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)
 
