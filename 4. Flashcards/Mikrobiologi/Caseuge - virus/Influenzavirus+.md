@@ -16,6 +16,7 @@
 
 ## Undertype af influenza
 - Hvilke arter kan influenza A inficere?:: Mange arter inklusiv mennesker, hunde, grise og fugle
+<!--SR:!2026-09-28,4,270-->
 - Hvilke arter kan influenza B inficere?:: Mennesker og sæler
 <!--SR:!2026-09-26,4,270-->
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
@@ -32,7 +33,9 @@
 - Hvilke celler inficere influenza?:: Epitelceller (primært uden cilia) i øvre og nedre luftvejssystem
 <!--SR:!2026-09-26,3,250-->
 - Hvordan kommer influenza ind i cellen?:: Enten ved fusion direkte på cellemembranen eller ved at blive optaget i et endosom og fusionere med den
+<!--SR:!2026-09-28,4,270-->
 - Hvornår slipper influenza ud af endosomet?:: Når pH falder
+<!--SR:!2026-09-28,4,270-->
 - Hvor foregår transskription henne?:: Nucleus
 <!--SR:!2026-09-26,4,270-->
 
@@ -40,6 +43,7 @@
 - Hvorfor har influenza mulighed for at give gentagne pandemier?:: Eftersom det består af 8 seperate stykker RNA er der mulighed for [[Antigenskift]], dette er særligt muligt da der findes mange influenzavarianter i dyr
 <!--SR:!2026-09-27,4,270-->
 - Hvor længe tager det for [[Genetisk drift]] at "lave" en virus som igen kan smitte et tidligere inficeret menneske?:: 3-5 år
+<!--SR:!2026-09-28,4,270-->
 - Hvornår er der flest tilfælde af influenza A+B?:: Vinterhalvåretet (Oktober til april i den norlige hemisphere)
 <!--SR:!2026-09-26,4,270-->
 - Hvornår er der flest tilfælde af influenza C?:: Den er ikke sæsonafhængig men smitter primært børn under 4 år
@@ -54,16 +58,18 @@
 - Muskelsmerter
 - Træthed
 - Hovedpine
+<!--SR:!2026-09-28,4,270-->
 
 - Hvilke "alvorlige" sygdomme kan influenzavirus give?
 ?
 - [[Reye's syndrom]]
 - [[Guillain-Barre syndrom]]
 - [[Kleine-Levin syndrom]]
-<!--SR:!2026-09-24,1,230-->
+<!--SR:!2026-09-26,2,190-->
 
 ## Diagsostik
 - Hvordan diagnosticeres influenza oftest?:: Kliniske fund
+<!--SR:!2026-09-28,4,270-->
 - Hvilke laboratorietest laves for at diagnosticere influenza?:: Isolering af virus og PCR
 <!--SR:!2026-09-26,4,270-->
 ## Forebyggelse og behandling

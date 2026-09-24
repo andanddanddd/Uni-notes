@@ -8,5 +8,7 @@
 ?
 - Fastholde antigenet så det kan sive ind i lymfeknuder
 - Fremkalde inflammation
+<!--SR:!2026-09-28,4,270-->
 
 - Hvad er det mest almindelige adjuvans?:: Aluminiumhydroxid
+<!--SR:!2026-09-28,4,270-->

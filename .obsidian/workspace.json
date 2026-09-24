@@ -14,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/DNA og mRNA-baseret vacciner (tjek).md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Haemophilus influenzae type B+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA og mRNA-baseret vacciner (tjek)"
+              "title": "Haemophilus influenzae type B+"
+            }
+          },
+          {
+            "id": "27f46f26cb9eadc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria meningitidis+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neisseria meningitidis+"
             }
           }
         ]
@@ -42,55 +56,15 @@
             }
           },
           {
-            "id": "ee1392d221841be3",
+            "id": "d4762c3600579123",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Vaccinationsimmunologi"
-            }
-          },
-          {
-            "id": "5fd0d56680bde319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelæsning - Bakterier der vaccineres imod"
-            }
-          },
-          {
-            "id": "969660c7533f0c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Streptococcus pneumoniae+"
-            }
-          },
-          {
-            "id": "83ccd6ec2b6bd463",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Bakterier_børnesygdomme"
+              "title": "Slides - Bakteriel meningitis 5. semester"
             }
           }
         ],
@@ -156,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -279,11 +252,21 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "2019f3fddb160bd2",
   "lastOpenFiles": [
+    "Meningitis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria meningitidis+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Meningitis.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Haemophilus influenzae type B+.md",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
+    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/DNA og mRNA-baseret vacciner (tjek).md",
     "Pasted image 20260923134036.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
@@ -292,11 +275,7 @@
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Subunitvacciner.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Levende svækkede vacciner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans.md",
     "Pasted image 20260923131453.png",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "Borrelia burgdorferi+.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Børnesygdomme.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Bordetella pertussis+.md",
@@ -313,9 +292,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260922140617.png",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Clostridium botulinum.md",
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Clostridium difficile.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Clostridium perfringens.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Clostridium tetani.md",
     "Billeder/Mikrobiologi/Pasted image 20260922140521.png",
     "Billeder/Mikrobiologi/Pasted image 20260922140340.png",
     "Billeder/Mikrobiologi/Pasted image 20260922135458.png",
@@ -328,7 +304,6 @@
     "Skabeloner",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
     "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Virus struktur, genetik og klassifikation 2026.pdf",
     "Untitled.canvas"
   ]
 }

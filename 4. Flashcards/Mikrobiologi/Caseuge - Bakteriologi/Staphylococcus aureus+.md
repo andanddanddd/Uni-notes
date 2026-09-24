@@ -46,5 +46,5 @@
 <!--SR:!2026-09-28,16,290-->
 
 - Hvilken antibiotika kan forhindre toxindannelsen i s. aureus?:: [[Clindamycin]]
-<!--SR:!2026-09-24,12,270-->
+<!--SR:!2026-10-26,32,270-->
 

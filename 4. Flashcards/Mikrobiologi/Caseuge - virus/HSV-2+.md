@@ -10,4 +10,5 @@ REAKTIVERING KAN VÆRE ASYMPTOMATISK
 ?
 - [[Herpes genitalis]]
 - [[Neonatal herpes]]
+<!--SR:!2026-09-28,4,270-->
 

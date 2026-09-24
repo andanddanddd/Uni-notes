@@ -7,7 +7,7 @@
 - I hvilket oxidativt miljø lever Y. enterocolitica?:: Den er fakultativ anaerob
 <!--SR:!2026-09-29,15,290-->
 - Hvordan smitter Y. enterocolitica?:: Zoonose (særligt gennem svin)
-<!--SR:!2026-09-24,9,250-->
+<!--SR:!2026-10-27,33,270-->
 - Hvilken del af tarmen inficere Y. enterocolitica?:: Terminal ileum
 <!--SR:!2026-09-29,15,290-->
 - Hvad er inkubationstiden af Y. enterocolitica?:: 4-6 dage

@@ -14,6 +14,7 @@
 - Øjenmuskel pareser
 - Respirationslammelse
 - Myokarditis (føre til hjertestop)
+<!--SR:!2026-09-27,3,250-->
 
 
 - Hvor

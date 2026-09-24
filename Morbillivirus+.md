@@ -16,12 +16,15 @@
 
 ## Symptomer og komplikationer
 - Hvilken sygdom giver morbillivirus?:: Mæslinger
+<!--SR:!2026-09-28,4,270-->
 - Hvilke komplikation har morbilli virus give?
 ?
 - [[Encephalitis]]
 - [[Subakut skleroserende panencephalitis (SSPC)]] efter 6-8 år
+<!--SR:!2026-09-27,3,250-->
 
 - Hvor mange dør af morbillivirus?:: 1/3000 smittede
+<!--SR:!2026-09-28,4,270-->
 
 ## Diagonstik
 

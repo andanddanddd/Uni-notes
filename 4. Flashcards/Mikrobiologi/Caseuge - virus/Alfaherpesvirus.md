@@ -8,9 +8,11 @@ HSV 1 og 2
 - Hvad kendetegner $\alpha$-HPV?:: De er neurotrope (Inficere neuroner som sekundær infektion)
 <!--SR:!2026-09-27,4,270-->
 - Hvor er $\alpha$-HPV når den er latens?:: Neuroner
+<!--SR:!2026-09-28,4,270-->
 - Hvorfor smitter [[VZV+]] mere end [[HSV-1+]] og [[HSV-2+]]?:: Den kræver ikke direkte kontakt
 <!--SR:!2026-09-25,3,250-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske
+<!--SR:!2026-09-28,4,270-->
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
 <!--SR:!2026-09-27,4,270-->
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion
@@ -22,7 +24,9 @@ HSV 1 og 2
 - Hvad er forskellen på early, og imidiate-early gener?:: Imidiate early laver proteiner der skal bruges til early-generne (DNA-polymerase) derudover bruges imidiate-earlygenerne til at gøre værstcellen mere favorabel for virussen
 <!--SR:!2026-09-26,4,270-->
 - Hvorfor spreder HSV-1/2 sig ikke systemisk?:: De bliver dræbt i blodbanen men kan overleve ved at bevæge sig fra celle til celle
-- Hvad bliver transskriberet i latensfsaen af HSV-1/2?:: Latency associated transcript (LAT) 
+<!--SR:!2026-09-28,4,270-->
+- Hvad bliver transskriberet i latensfsaen af HSV-1/2?:: Latency associated transcript (LAT)
+<!--SR:!2026-09-27,3,250-->
 - Hvad bliver transskriberet i latensfasen af VZV?:: VLT
 <!--SR:!2026-09-25,2,230-->
 - Hvor dybt går infektioner med HSV-1/2?:: Typsik kun epidermis

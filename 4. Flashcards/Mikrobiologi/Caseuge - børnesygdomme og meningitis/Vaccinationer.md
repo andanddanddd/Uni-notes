@@ -3,15 +3,18 @@
 - Hvad betyder vaccination (vaccinus)?:: Fra koen
 <!--SR:!2026-11-22,62,310-->
 - Hvad er pasteurs fund?:: Efter han gav sine kyllinger en død bakterie (ved et uheld) blev de ikke længere syge af den levende bakterie
+<!--SR:!2026-09-28,4,270-->
 ![[Pasted image 20260923131453.png]]
 
 ![[Adjuvans]]
 - Hvad kaldes en tilbage-mutation til en mere virulent form?:: Revertere
+<!--SR:!2026-09-27,3,250-->
 - Hvilke 3 typer af vacciner har vi?
 ?
 - [[Levende svækkede vacciner]]
 - [[Ikke-levende vacciner]]
 - [[DNA og mRNA-baseret vacciner (tjek)]]
+<!--SR:!2026-09-28,4,270-->
 
 
 - Hvad er en cocktailvaccine?:: Når en sprøjte indeholder flere vacciner på en gang
@@ -22,12 +25,14 @@
 ?
 - Antistoffer der forhindre virusens tilhæftning
 - Tc-respons
+<!--SR:!2026-09-28,4,270-->
 
 - Hvad er målet at immunsystemet gør når vi vaccinere mod en bakterie
 ?
 - Antistoffer der forhindre tilhæftning
 - Opsoiniserende antistoffer
 - Antistoffer til neutralisering af toksiner
+<!--SR:!2026-09-28,4,270-->
 
 ![[Vaccinetiming]]
 

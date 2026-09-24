@@ -33,7 +33,7 @@ Overlever godt i neutrofile granulocytter
 - Pili
 - [[Opa-proteiner]]
 - IgA protease
-<!--SR:!2026-09-24,1,210-->
+<!--SR:!2026-09-27,3,230-->
 
 ![[Pasted image 20260915094444.png]]
 

@@ -45,7 +45,7 @@
 - Problemer med at tømme blæren
 - Grumset ildelugtende urin
 - Sjældent ses feber
-<!--SR:!2026-09-24,10,270-->
+<!--SR:!2026-10-31,37,290-->
 
 - Hvad menes med dysuri?:: Svie eller smerte under vandladning
 <!--SR:!2026-10-01,16,290-->

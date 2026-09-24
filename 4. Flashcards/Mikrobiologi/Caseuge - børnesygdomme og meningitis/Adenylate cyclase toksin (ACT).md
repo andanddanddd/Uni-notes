@@ -2,4 +2,5 @@
 
 - Hvilken bakterie secenere ACT?:: [[Bordetella pertussis+]]
 <!--SR:!2026-09-27,4,270-->
-- Hvad gør ACT molekylært?:: OMdanner ATP til cAMP 
+- Hvad gør ACT molekylært?:: OMdanner ATP til cAMP
+<!--SR:!2026-09-28,4,270-->

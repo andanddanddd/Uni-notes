@@ -11,10 +11,13 @@ mRNA er en damp
 - Eksempel på mRNA-vaccine?:: Covid-19-vaccine
 <!--SR:!2026-11-26,66,310-->
 - Hvilken ulempe kan mRNA/DNA-vacciner have?:: Der er ofte kun få antigener (man skal sikre sig at man ikke kan have "de forkerte" HLA-molekyler)
+<!--SR:!2026-09-28,4,270-->
 - Hvordan kommer arvematrialet ind i cellerne?:: Man bruger en deaktiveret virus eller nanopartikkel som vektor
 <!--SR:!2026-11-27,67,310-->
 - Hvad bruges som [[Adjuvans]] i mRNA-vacciner?:: Intet mRNA er en DAMP
+<!--SR:!2026-09-28,4,270-->
 
 - Hvad er forskellen på en nanopartikkel og en viral vektor?:: Virale vektor "stammer" fra en virus, nanopartikkel kan eks være lavet af lipid eller kulhydrat
+<!--SR:!2026-09-28,4,270-->
 
 ![[Pasted image 20260923134036.png]]

@@ -4,14 +4,19 @@
 
 ## Struktur
 - Hvilken form har HIVs kapsel?:: Kegleformet
+<!--SR:!2026-09-28,4,270-->
 - Hvilken funktion har de accessoriske proteiner i HIV?:: Undvige immunforsvaret (der kan ske replikationcykler uden dem derfor er de accessoriske)
+<!--SR:!2026-09-27,3,250-->
 
 ## Livscyklus
 - Hvilke celler inficere HIV?:: Cd4+ [[T-celler]] og [[Monocytter]]
 <!--SR:!2026-09-27,4,270-->
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
+<!--SR:!2026-09-28,4,270-->
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
+<!--SR:!2026-09-28,4,270-->
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
+<!--SR:!2026-09-28,4,270-->
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 <!--SR:!2026-09-26,4,270-->
 - Hvordan kommer HIV ud af celler?:: Budding
@@ -27,9 +32,13 @@
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
+<!--SR:!2026-09-28,4,270-->
 - Hvad gør proteinet VIF?:: Stopper en antiviral komponent der inducere fejl i revers transskribtion
+<!--SR:!2026-09-25,1,210-->
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
+<!--SR:!2026-09-25,1,210-->
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
+<!--SR:!2026-09-27,3,250-->
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP
 <!--SR:!2026-09-26,3,250-->
 - Hvorfor er det svært at lave et godt adaptivt repons mod glykoproteinerne på HIV?:: Der er hypervariable regioner i *env* genet (der laver glykoproteinerne)
@@ -39,7 +48,8 @@
 <!--SR:!2026-09-26,4,270-->
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
 <!--SR:!2026-09-26,4,270-->
-- Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn 
+- Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn
+<!--SR:!2026-09-28,4,270-->
 - Hvor mange smittetilfælde kommer fra deling af nåle? (i den vestlige verden):: 6%
 <!--SR:!2026-09-27,4,270-->
 - Hvordan smitter HIV?
@@ -50,7 +60,8 @@
 <!--SR:!2026-09-26,4,270-->
 
 ## Symptomer og komplikationer
-- Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]] 
+- Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]]
+<!--SR:!2026-09-28,4,270-->
 - Hvilke symptomer har den initielle HIV-infektion?
 ?
 - Feber
@@ -60,6 +71,7 @@
 <!--SR:!2026-09-26,4,270-->
 
 - Hvor længe går der fra infektion af HIV til [[AIDS]] indtræder?:: Omkring 10 år
+<!--SR:!2026-09-28,4,270-->
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
 <!--SR:!2026-09-27,4,270-->
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
@@ -68,6 +80,7 @@
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 <!--SR:!2026-09-26,4,270-->
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
+<!--SR:!2026-09-28,4,270-->
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS
 <!--SR:!2026-09-26,4,270-->
 

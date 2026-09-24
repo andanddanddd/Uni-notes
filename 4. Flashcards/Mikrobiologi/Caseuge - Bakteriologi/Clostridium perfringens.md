@@ -12,6 +12,7 @@
 - Hvilken type cellevæg har C. perfringes?:: [[Gram-positive bakterier]]
 <!--SR:!2026-09-26,3,250-->
 - Hvilken form har C. perfringes?:: Stav
+<!--SR:!2026-09-28,4,270-->
 - Hvordan lejres C. perfringes?
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
 <!--SR:!2026-09-27,4,270-->
@@ -36,7 +37,7 @@
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
 <!--SR:!2026-10-01,16,290-->
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer
-<!--SR:!2026-09-24,12,270-->
+<!--SR:!2026-11-08,45,290-->
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter
 <!--SR:!2026-10-16,25,270-->
 ## Symptomer og komplikationer
@@ -47,8 +48,9 @@
 <!--SR:!2026-09-27,4,270-->
 
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
-<!--SR:!2026-09-24,1,230-->
+<!--SR:!2026-09-26,2,230-->
 - Hvad kendetegner en sårinfektion grundet C. perfringens?::
+<!--SR:!2026-09-28,4,270-->
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?

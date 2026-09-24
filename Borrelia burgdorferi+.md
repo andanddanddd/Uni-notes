@@ -26,8 +26,11 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres B. burgdorferi?:: Lumbalpunktur (herefter kig på antistoffer)
+<!--SR:!2026-09-28,4,270-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?
 - Hvordan forebygges B. burgdorferi?:: Være opmærksom på flåter og fjern dem hurtigt
+<!--SR:!2026-09-28,4,270-->
 - Hvordan behandles B. burgdorferi?:: Doxyxyklin
+<!--SR:!2026-09-25,1,210-->

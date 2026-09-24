@@ -7,6 +7,6 @@
 - Hvad er staphylococcus epidermidis primære patogenesefaktor?:: Den danner [[Biofilm]]
 <!--SR:!2026-09-26,14,290-->
 - Hvilke infektioner forårsager staphylocoocus epidermidis oftest?:: Alt der indvolvere et fremmeslegeme (kateter, elektroder, venflon, hofter)
-<!--SR:!2026-09-24,12,270-->
+<!--SR:!2026-11-06,43,290-->
 - Hvorfor er s. epidermidis (og andre staphylcoccer) gode til at leve på huden af mennesker?:: De producere lipaser (og andre enzymer)
 <!--SR:!2026-09-28,16,290-->

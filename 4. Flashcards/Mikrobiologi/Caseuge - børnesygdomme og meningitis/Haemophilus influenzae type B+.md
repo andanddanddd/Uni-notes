@@ -5,7 +5,9 @@
 ## Generalt
 Gram-farvning
 - Hvilken form har H. influenzae?:: Lille stav (pleomorf)![[Pasted image 20260922094654.png]]
+<!--SR:!2026-09-27,3,250-->
 - Hvor lever H. influenzae normalt?:: Normalflora i øvre luftveje
+<!--SR:!2026-09-28,4,270-->
 ## Patogenese
 Celler inficeret
 - Hvilke patogenesefaktorer har H. influenzae type B?
@@ -14,11 +16,11 @@ Celler inficeret
 - IgA1-protease
 - Pili
 - [[Lipooligosaccharide (LOS)]]
-<!--SR:!2026-09-24,1,230-->
+<!--SR:!2026-09-26,2,230-->
 
 
 ## Smitte og epidimologi
-Tendens
+- Hvordan har udviklingen i [[Meningitis]] grundet HIB været?:: Det Inden 1990 var det den bakterie der gav næstflest tilfælde af meningitis, nu ser vi den meget lidt
 Smitevej
 
 ## Symptomer og komplikationer
@@ -29,6 +31,7 @@ Smitevej
 - [[Pneumoni]]
 - [[epiglottitis]]
 - [[Meningitis]]
+<!--SR:!2026-09-27,3,250-->
 
 
 ## Diagnostik

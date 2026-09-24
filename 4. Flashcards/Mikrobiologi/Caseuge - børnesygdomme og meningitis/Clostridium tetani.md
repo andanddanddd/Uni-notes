@@ -8,11 +8,13 @@
 - Hvilken form har C. tetani?:: Stav
 <!--SR:!2026-09-27,4,270-->
 - Hvor lever C. tetani normalt?:: Jord, og GI af mennesker
+<!--SR:!2026-09-28,4,270-->
 - Hvordan smittes man typisk med C. tetani?:: Stiksår (kan ske uden man har ste såret)
 <!--SR:!2026-09-26,4,270-->
 
 ## Patogenese
 - Hvordan giver tetanospasmin overordnet symptomer?:: Stopper GABA fra at blive frigivet i synapsekløften
+<!--SR:!2026-09-28,4,270-->
 - Hvordan kommer tetanospasmin hen til axonenden?:: Det bevæger dig retrograd (fra axonende til dendrit) herfra går det over synapsekløften og ender derfor i axonenden på 1. moterneuron
 <!--SR:!2026-09-27,4,270-->
 ## Symptomer og komlikation
@@ -21,6 +23,7 @@
 - Hvad kaldes tetanus' toksin der giver sygdom?:: [[Tetanospasmin]]
 <!--SR:!2026-09-25,3,250-->
 - Hvorfor sker neonatal tetanus?:: Tetanus i navlestrengen
+<!--SR:!2026-09-28,4,270-->
 - Hvad er typisk det første symptom på stivkrampe?:: Låst kæbe
 <!--SR:!2026-09-27,4,270-->
 - Hvordan dør man af stivkræmpe?:: paralyseret respirationsmuskulatur
