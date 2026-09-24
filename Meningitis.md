@@ -13,6 +13,11 @@
 - [[Escherichia coli+]]
 - [[Streptococcus agalactiae]]
 
+- Hvilke bakterier giver oftest meningitis i nyfødte og helt smp børn?
+?
+- [[Streptococcus agalactiae]]
+- [[Escherichia coli+]]
+
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 - Hvad menes med at kunne sejre sig selv ihjel med vacciner?:: Vi har vaccineret mod de patogener som førhen oftest gav meningitis dvs der er relativt flere af nogle andre patogener men der er bare mange færre totalt
 ## Patogenese
