@@ -3,14 +3,14 @@
 
 
 ## Generalt
-- Hvilken type cellevæg har M. pneumoniae?
-- Hvilken form har M. pneumoniae?
+- Hvilken type cellevæg har M. pneumoniae?:: [[Mycoplasma]]
+- Hvilken form har M. pneumoniae?:: Den er lille
 - Hvordan lejres M. pneumoniae?
-- Hvor lever M. pneumoniae normalt?
+- Hvor lever M. pneumoniae normalt?:: Kun i mennesker
 - Hvilket oxidativt miljø lever M. pneumoniae bedst i?
 
 ## Patogenese
-- Hvilke celler inficere M. pneumoniae?
+- Hvilke celler inficere M. pneumoniae?:: Det gør den ikke de
 - Hvilke patogenesefaktorer har M. pneumoniae?
 
 
@@ -26,7 +26,8 @@
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
-- Hvordan diagnosticeres M. pneumoniae?
+- Hvordan diagnosticeres M. pneumoniae?:: Ved
+- Hvad kendetegner
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har M. pneumoniae?
