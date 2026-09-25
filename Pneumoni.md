@@ -37,6 +37,10 @@
 ![[Pasted image 20260925101310.png]]
 
 ## Klinisk præsentation
+- Hvad er de typiske symptomer på pneumoni
+?
+- Høj feber
+- 
 
 ## Komplikationer
 
