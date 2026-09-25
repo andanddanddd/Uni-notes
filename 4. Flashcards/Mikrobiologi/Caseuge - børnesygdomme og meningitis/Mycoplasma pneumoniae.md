@@ -12,10 +12,11 @@
 ## Patogenese
 - Hvilke celler inficere M. pneumoniae?:: Det gør den ikke de
 - Hvilke patogenesefaktorer har M. pneumoniae?
+- Hvad sker med cellerne i respirationssystemet når M. pneumoniae binder dertil?:: Ciliostase
 
 
 ## Smitte og epidimologi
-- Hvilken tendens har smittetilfælde med M. pneumoniae
+- Hvilken tendens har smittetilfælde med M. pneumoniae:: De forekommer læbende med en lille epidemi ca hver 4 år
 - Hvordan smitter M. pneumoniae?
 
 ## Symptomer og komplikationer
@@ -27,9 +28,9 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres M. pneumoniae?:: Ved
-- Hvad kendetegner
+- Hvad kendetegner M. pneumoniae på blodprøver?:: CRP kan være negativ (lav)
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har M. pneumoniae?
 - Hvordan forebygges M. pneumoniae?
-- Hvordan behandles M. pneumoniae?
+- Hvordan behandles M. pneumoniae?:: [[Mycoplasma pneumoniae]]

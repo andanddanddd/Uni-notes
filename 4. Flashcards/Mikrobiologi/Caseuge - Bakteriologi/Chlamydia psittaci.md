@@ -6,3 +6,7 @@
 <!--SR:!2026-10-08,16,290-->
 - Hvordan behandles C. psittaci typisk?:: [[Makrolider]]
 <!--SR:!2026-09-29,8,250-->
+
+#### Pneumoni
+- Hvor kan pneumoni grundet C. psittaci sprede sig hen?:: Lever og milt
+- Hvor slemt er pneumoni grundet C. psittaci?:: Dødeligt selv med behandling
