@@ -1,6 +1,12 @@
 #flashcards/5/Mikrobiologi 
 
 ## Epidimologi
+- Hvilke smitteveje kan pnaumoni have?
+?
+- Inhalation
+- Aspiration af slim fra øvre luftveje
+- Blodbanen
+- Traumer (patogener direkte ind i lungen)
 
 ## Subtyper
 - Hvad er de 4 overordnede typer af pneumoni?
@@ -18,6 +24,16 @@
 
 ![[Pasted image 20260925081858.png]]
 ## Patogenese
+
+## Kroppens forsvar
+- Hvilke overordnede forsvarsmekanismer har kroppen til at forhindre en pneumoni i at opstå?
+?
+- Filter i næsen
+- Hosterefleks
+- Mucus (fanger patogener)
+- Cillieret epitel, der bevæger mucus opad
+- Antimikrobielle stoffer ([[Lysozom]] og [[IgA]])
+![[Pasted image 20260925101310.png]]
 
 ## Klinisk præsentation
 

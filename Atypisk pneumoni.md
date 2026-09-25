@@ -1,4 +1,4 @@
-#flashcards/5/Mikrobiologi 
+#flashcards/5/Mikrobiologi [[Pneumoni]]
 
 
 - Hvordan ses atypisk pneumoni på et røntgen?:: Der er meget bindevæv
