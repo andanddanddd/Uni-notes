@@ -21,6 +21,7 @@ Celler inficeret
 
 ## Smitte og epidimologi
 - Hvordan har udviklingen i [[Meningitis]] grundet HIB været?:: Det Inden 1990 var det den bakterie der gav næstflest tilfælde af meningitis, nu ser vi den meget lidt
+<!--SR:!2026-09-29,4,270-->
 Smitevej
 
 ## Symptomer og komplikationer

@@ -1,5 +1,7 @@
 
 ## Epidimologi
+
+## Subtyper
 ## Patogenese
 
 ## Klinisk præsentation

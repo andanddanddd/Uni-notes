@@ -10,7 +10,7 @@ HSV 1 og 2
 - Hvor er $\alpha$-HPV når den er latens?:: Neuroner
 <!--SR:!2026-09-28,4,270-->
 - Hvorfor smitter [[VZV+]] mere end [[HSV-1+]] og [[HSV-2+]]?:: Den kræver ikke direkte kontakt
-<!--SR:!2026-09-25,3,250-->
+<!--SR:!2026-10-05,10,270-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske
 <!--SR:!2026-09-28,4,270-->
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
@@ -28,7 +28,7 @@ HSV 1 og 2
 - Hvad bliver transskriberet i latensfsaen af HSV-1/2?:: Latency associated transcript (LAT)
 <!--SR:!2026-09-27,3,250-->
 - Hvad bliver transskriberet i latensfasen af VZV?:: VLT
-<!--SR:!2026-09-25,2,230-->
+<!--SR:!2026-10-02,7,250-->
 - Hvor dybt går infektioner med HSV-1/2?:: Typsik kun epidermis
 <!--SR:!2026-09-27,4,270-->
 

@@ -3,19 +3,19 @@
 ## Generalt
 - Hvilken gruppe af bakterier har shigella udviklet sig fra [[Escherichia coli+]]
 - Hvor i tarmen inficere shigella?:: Colon
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-06,42,290-->
 - Hvor bevægelige er shigella?:: Det er de ikke (de har ingen flaggel)
 <!--SR:!2026-09-28,14,290-->
 
 ## Patogenese 
 - Hvordan er patogenesen af shigella overordnet?:: Invadere colon igennem [[M-celler]], her undslipper den vakuolen og deler sig intracellulært før den bevæger sig ind i naboceller
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-07,43,290-->
 - Hvordan smitter shigella?:: Fækal-oralt mellem mennesker (typisk via kontaminere mad eller vand)
 <!--SR:!2026-09-29,15,290-->
 - Hvad kendetegner smitte med shigella?:: Der skal meget få bakterier til at inficere et menneske (hundrede til et par tusind)
 <!--SR:!2026-09-29,15,290-->
 - Hvad sker men shigella i mavesækken?:: De stopper med at replicere med de dør ikke
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-10-24,29,270-->
 - Hvordan kommer shigella fra en celle til en anden?:: Den udskiller IcsA hvilket rearrangere aktin bag bakterien, det får aktin til aggere moter der skubber shigella ind i nabocellen (dvs shigella ender inde i 2 membraner i den nye celle, 1 fra den gamle og 1 fra den nye celle
 <!--SR:!2026-09-29,15,290-->
 - Hvordan kan shigella komme ind i entercytter?:: Igennem den basolaterale side eller fra en anden enterocyt af

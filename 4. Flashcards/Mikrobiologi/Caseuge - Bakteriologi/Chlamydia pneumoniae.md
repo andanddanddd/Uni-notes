@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 [[Clamydia]]
 
-- Hvilken type pneumoni giver C. pnuemoniae?:: "[[Walking pneumonia]]"
+- Hvilken type pneumoni giver C. pnuemoniae?:: "[[Atypisk pneumoni]]"
 <!--SR:!2026-10-07,16,290-->
 - Hvordan smitter C. pneumoniae?:: Dropper eller aerosoler
 <!--SR:!2026-10-06,14,290-->

@@ -19,7 +19,7 @@
 - Hvordan smitter M. pneumoniae?
 
 ## Symptomer og komplikationer
-- Hvilke infektioner giver M. pneumoniae?:: [[Walking pneumonia]]
+- Hvilke infektioner giver M. pneumoniae?:: [[Atypisk pneumoni]]
 <!--SR:!2026-09-28,4,270-->
 
 - Hvilke komplikationer kan M. pneumoniae give?:

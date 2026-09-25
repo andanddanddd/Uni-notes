@@ -17,7 +17,7 @@
 - Hvordan skader C. difficile tarmvæggen?:: Dens toksiner gør
 <!--SR:!2026-09-27,4,270-->
 - Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
-<!--SR:!2026-09-25,1,230-->
+<!--SR:!2026-09-28,3,250-->
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
 <!--SR:!2026-09-27,3,250-->
 - Hvilke patogenesefaktorer har C. difficile?
@@ -39,7 +39,7 @@
 - Hvad er det mest almindelige symptom af C. difficile?:: Diarre
 <!--SR:!2026-09-28,4,270-->
 - Hvilken "sygdom" C. difficile?:: [[Pseudomembranøs collitis (PMC)]]
-<!--SR:!2026-09-25,1,230-->
+<!--SR:!2026-09-27,2,230-->
 - Hvilke infektioner giver C. difficile?
 - 
 

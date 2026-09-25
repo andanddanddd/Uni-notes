@@ -9,35 +9,20 @@
         "dimension": 52.792617775619235,
         "children": [
           {
-            "id": "2019f3fddb160bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. De allervigtigste/Mikrobiologi/Meningitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meningitis"
-            }
-          },
-          {
             "id": "f06530c8b8b4b400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
+                "file": "Bronkopneumoni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Sepsis immunologi"
+              "title": "Bronkopneumoni"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -57,18 +42,19 @@
             }
           },
           {
-            "id": "d4762c3600579123",
+            "id": "142a1485f64c1bdc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Bakteriel meningitis 5. semester"
+              "title": "Slides - Luftvejsinfektioner_E26"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -252,20 +239,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
+    "Pneumoni.md",
+    "Bronkopneumoni.md",
+    "Lobær pneumoni.md",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",
+    "Atypisk pneumoni.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Pneumoni.md",
+    "Skabeloner/Skapelon - Sygdom.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Invasive infektioner.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Pneumoni.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Kroniske infektioner og reaktivering af bakterier.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Myelitis.md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
-    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/mso3AB1.tmp",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner",
     "Billeder/Mikrobiologi/Pasted image 20260923131453.png",
@@ -278,7 +271,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Infektioner i nervesystemet.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Immunsystemet i hjernen.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Meningitis.md",
-    "Skabeloner/Skapelon - Sygdom.md",
     "Billeder/Mikrobiologi/Pasted image 20260924121316.png",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Inkarcerationer.md",
     "Billeder/Mikrobiologi/Pasted image 20260924115758.png",
@@ -291,12 +283,8 @@
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/DNA og mRNA-baseret vacciner (tjek).md",
     "Billeder/Mikrobiologi/Pasted image 20260923134036.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinationer.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Ikke-levende vacciner.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260922140617.png",
     "Billeder/Mikrobiologi/Pasted image 20260922140521.png",

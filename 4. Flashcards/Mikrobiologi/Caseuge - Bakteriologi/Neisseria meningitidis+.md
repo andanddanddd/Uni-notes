@@ -9,3 +9,4 @@
 - Hvorfor er N. meningitidis mere dødelig end [[Neisseria gonorrhoeae+]]?:: Den har en tyk kapsel
 <!--SR:!2026-10-07,15,290-->
 - Hvordan har udviklingen i  meningitid grundet N. meningitidis været?:: Før årtusindskiftet var det den hyppigste årsag til meningitis nu ser vi den ikke meget mere
+<!--SR:!2026-09-29,4,270-->
