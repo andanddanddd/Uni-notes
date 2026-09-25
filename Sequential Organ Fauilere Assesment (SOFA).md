@@ -20,4 +20,9 @@
 - Hvilke metabolske ændringer sker under sepsis der leder til organsvigt?:: [[Insulinresistens]] og [[Hyperglykæmi]]
 - Hvilken tilstand kan øget mængde koagulationsfaktorer lede til?:: [[Dissminated intravascular coagulation (DIC)]]
 - Hvilken type bakterie giver oftets sepsis og hvorfor?:: [[Gram-negative bakterier]] bakterie eftersom [[Lipopolysakkarid (LPS)]] giver stor cytokinproduktion
-- Hvorfor sker hypotention
+- Hvorfor sker hypotention i sepsis?
+- Hvorfor kan hypotention lede til organsvigt?:: Manglende oxygen kan give nekrose
+
+- Hvad sker med lungerne under sepsis?:: Alveolerne bliver fyldt med væske så de ikke kan lave gasudveksling
+- Hvad sker med hjernen under sepsis?:: Den får ikke nok ilt hvilket leder til konfusion 
+- Hvad sker med nyrene under sepsis?:: Nekrose
