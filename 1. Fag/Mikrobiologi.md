@@ -83,10 +83,13 @@ Læsning
 - [ ] 50
 - [ ] 51
 - [ ] 53
-#### Sygdomme i organsystemer
-- [ ] 60 (infektioner i CNS)
-- [ ] 61
+#### Sygdomme 
+- [x] 60 (infektioner i CNS)
+- [x] 61 (infektioner i respirationsystemet)
 - [x] 62 (urinvejsinfektion)
 - [ ] 65
 - [x] 68 (Seksuelt overførte sygdomme)
+- [ ] 70 (AIDS)
+- [ ] 72 (Zoonoser)
+- [ ] 75 (Madforgiftninger)
 

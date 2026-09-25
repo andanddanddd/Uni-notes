@@ -24,6 +24,7 @@
 
 ![[Pasted image 20260925081858.png]]
 ## Patogenese
+- Hvilke patogener giver oftest respirator-associeret pneumoni?:: [[Staphylococcus aureus+]] og gram-negative stave
 
 ## Kroppens forsvar
 - Hvilke overordnede forsvarsmekanismer har kroppen til at forhindre en pneumoni i at opstå?
