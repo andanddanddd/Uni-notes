@@ -17,7 +17,7 @@
 - Hvad betyder det at diarre er selvlimiterende?:: Det kræver ikke behandling
 <!--SR:!2026-09-29,15,290-->
 - Hvad er dysenteri?:: Hyppige afføringer (mere end 30 på en dag)
-<!--SR:!2026-09-25,10,270-->
+<!--SR:!2026-11-03,39,290-->
 - Hvad er de 3 typer af gastroenteritis?
 ?
 - [[Præformeret toksin (gastroenteritis)]]

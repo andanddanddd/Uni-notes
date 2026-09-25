@@ -31,7 +31,7 @@
 - Hvilken tendens har smittetilfælde med C. perfringes
 - Hvordan smitter C. perfringes?
 - Hvilke madvarer er ofte kontamineret med C. perfringens?:: Kød og fjerkræ (særligt når de er tilberedt i store portiner)
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-04,40,290-->
 - Hvad sker med C. perfringens når det bliver varmt?:: Bakterier dør men spore overlever (Som så kan vækste når maden køles ned)
 <!--SR:!2026-09-28,14,290-->
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
@@ -63,4 +63,4 @@ Hvordan genkendes den?
 <!--SR:!2026-09-27,4,270-->
 
 - Hvilken effekt har antibiotika på madforgiftning grundet C. perfringens?:: Ingen
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-04,40,290-->

@@ -13,7 +13,7 @@
 ?
 - [[Escherichia coli+]] særligt [[Extraintestinal Pathogenic E. coli (ExPEC)+]]
 - [[Staphylococcus saprophyticus]]
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-05,41,290-->
 
 - Hvorfor får indlagte ofte cystitis?
 ?
@@ -68,4 +68,4 @@
 ?
 - [[Pyelonofritis]]
 - [[sepsis]]
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-10-25,30,270-->

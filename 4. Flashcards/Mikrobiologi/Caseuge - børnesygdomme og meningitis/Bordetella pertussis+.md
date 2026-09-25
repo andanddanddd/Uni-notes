@@ -3,7 +3,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har B. pertussis?:: [[Gram-negative bakterier]]
-<!--SR:!2026-09-25,1,230-->
+<!--SR:!2026-09-28,3,250-->
 - Hvilken form har B. pertussis?:: Kokker
 <!--SR:!2026-09-27,4,270-->
 - Hvor lever B. pertussis normalt?:: I mennesker (den giver forkølelse i ellers raske voksne dermed kan de smitte til børn der bliver meget syge)
@@ -22,7 +22,7 @@
 - [[Tracheal cytotoxin (TCT)]]
 - [[Lipooligosaccharide (LOS)]]
 - [[Biofilm]]
-<!--SR:!2026-09-25,1,210-->
+<!--SR:!2026-09-26,1,170-->
 
 - Hvilke mekanismer giver den karakteristisek hoste fra B. pertussis?:: Der er meget mucus samtidig med at hostereceptorer bliver mere følsomme og cillierne bliver ødelagt så de nedre luftveje er generalt dårligere til at komme af med mucus
 <!--SR:!2026-09-27,4,270-->
@@ -60,7 +60,7 @@
 - Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens
 <!--SR:!2026-09-27,4,270-->
 - Hvordan behandles B. pertussi?:: [[Makrolider]] og [[Tetracykliner]]
-<!--SR:!2026-09-25,1,210-->
+<!--SR:!2026-09-28,3,230-->
 
 #### Vaccine
 - Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner

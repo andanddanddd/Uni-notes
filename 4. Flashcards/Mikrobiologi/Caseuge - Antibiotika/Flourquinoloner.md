@@ -6,4 +6,4 @@
 - Hvad hedder det mest almindelige flourquinolon?:: [[Ciprofloxacin]]
 <!--SR:!2026-09-26,4,230-->
 - Hvordan bliver bakterier resistente overfor flourquinoloner?:: De ændre deres DNA-gyrase/helicase
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-05,41,290-->

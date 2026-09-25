@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er inkubationstiden af norovirus?:: 12-48 timer
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-05,41,290-->
 - Hvor længe varer en norovirusinfektion?:: 1-3 døgn
 <!--SR:!2026-10-01,16,290-->
 - Hvilke symptomer har norovirus?:: Akut indtrædelse af kvalme + opkastning, vandig diarre og mavekramper (evt let feber, hovedpine og muskelsmerter)

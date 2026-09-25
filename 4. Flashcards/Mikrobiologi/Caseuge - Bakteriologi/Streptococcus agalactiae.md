@@ -3,7 +3,7 @@
 - Hvad kaldes S. agalactiae også?:: Strep B
 <!--SR:!2026-09-30,16,290-->
 - Hvilken type hemolyse laver S. agalctia på blod-agar-plader?:: $\beta$-hemolyse
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-07,43,290-->
 - Hvor lever S. agalactae normalt?:: Nedre fordøjelsessystem og vagina
 <!--SR:!2026-10-09,18,250-->
 - Hvornår er det et problem at S. agalactiae er i vagina?:: Når der skal et barn igennem

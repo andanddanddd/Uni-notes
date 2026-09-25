@@ -28,26 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encephalitis.md",
+                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encephalitis"
-            }
-          },
-          {
-            "id": "27f46f26cb9eadc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria meningitidis+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neisseria meningitidis+"
+              "title": "Forelæsning - Sepsis immunologi"
             }
           }
         ],
@@ -266,27 +252,37 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f06530c8b8b4b400",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
+    "2. Caseuger/MIkrobiologi/Caseuge - Invasive infektioner.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Pneumoni.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Kroniske infektioner og reaktivering af bakterier.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Myelitis.md",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
+    "Externe dokumenter/MIkrobiologi/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/mso3AB1.tmp",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner",
+    "Billeder/Mikrobiologi/Pasted image 20260923131453.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Encephalitis.md",
     "0. De allervigtigste/Mikrobiologi/Meningitis.md",
     "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Membranangrebskompleks (MAC).md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria gonorrhoeae+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Neisseria meningitidis+.md",
-    "Infektioner i nervesystemet.md",
-    "Immunsystemet i hjernen.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Infektioner i nervesystemet.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Immunsystemet i hjernen.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Meningitis.md",
-    "Encephalitis.md",
-    "Myelitis.md",
     "Skabeloner/Skapelon - Sygdom.md",
-    "Pasted image 20260924121316.png",
-    "Inkarcerationer.md",
-    "Pasted image 20260924115758.png",
-    "Pasted image 20260924115519.png",
+    "Billeder/Mikrobiologi/Pasted image 20260924121316.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Inkarcerationer.md",
+    "Billeder/Mikrobiologi/Pasted image 20260924115758.png",
+    "Billeder/Mikrobiologi/Pasted image 20260924115519.png",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Differentiering mellem store gram-negative stave.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/MacConkey plade.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Motilitetstest.md",
@@ -297,27 +293,16 @@
     "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Adjuvans.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/DNA og mRNA-baseret vacciner (tjek).md",
-    "Pasted image 20260923134036.png",
+    "Billeder/Mikrobiologi/Pasted image 20260923134036.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Vaccinationer.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Ikke-levende vacciner.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Subunitvacciner.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Vaccinationsimmunologi.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Levende svækkede vacciner.md",
-    "Pasted image 20260923131453.png",
-    "Borrelia burgdorferi+.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf",
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260922140617.png",
     "Billeder/Mikrobiologi/Pasted image 20260922140521.png",
     "Billeder/Mikrobiologi/Pasted image 20260922140340.png",
     "Billeder/Mikrobiologi/Pasted image 20260922135458.png",
     "Billeder/Mikrobiologi/Pasted image 20260922135201.png",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Øvelsesvejledning uge 1.pdf",
-    "Untitled",
-    "Skabeloner",
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Influenza 2026.pdf",
-    "Externe dokumenter/MIkrobiologi/Virus/Slides - Herpesvirus forelæsning 2026.pdf",
     "Untitled.canvas"
   ]
 }

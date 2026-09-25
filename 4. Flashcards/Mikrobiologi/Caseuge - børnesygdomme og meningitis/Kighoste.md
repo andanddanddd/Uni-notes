@@ -23,4 +23,4 @@
 - Hvor længe varer stadie 3 af kighoste?:: 2-3 uger (op til 6 mdr ifølge bogen)
 <!--SR:!2026-09-27,4,270-->
 - Hvad kaldes stadie 3 af kighoste?:: Rekonvalescens stadie:
-<!--SR:!2026-09-25,1,230-->
+<!--SR:!2026-09-27,2,230-->

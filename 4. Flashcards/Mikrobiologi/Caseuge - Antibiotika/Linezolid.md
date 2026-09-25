@@ -9,4 +9,4 @@
 - Hvad er målstrukturen for linezolid?:: 50S subunit af bakteriers ribosom
 <!--SR:!2026-09-28,14,290-->
 - Hvad gør linezolid overordnet?:: Forhinde de 2 dele af ribosomet i at samle sig
-<!--SR:!2026-09-25,10,270-->
+<!--SR:!2026-11-02,38,290-->

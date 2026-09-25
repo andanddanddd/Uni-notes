@@ -9,6 +9,6 @@
 - Hvad kaldes en flagel der er i bunden/halen af en bakterie?:: Polar
 <!--SR:!2026-11-01,44,290-->
 - Hvad kaldes flageller der er lidt rundt omkring (ikke i "halen")?:: Peritrichous
-<!--SR:!2026-09-25,3,190-->
+<!--SR:!2026-10-04,9,210-->
 
 ![[Bevægelse af bakterien]]

@@ -8,7 +8,7 @@
 - Hvad kendetegner smittet af tyfus i DK?:: Næsten alle tilfælde af tyfus i DK har været smittet i udelandet
 <!--SR:!2026-09-28,14,290-->
 - Hvordan smitter tyfus?:: Kun gennem mennesker (oftest fæces eller vand)
-<!--SR:!2026-09-25,11,270-->
+<!--SR:!2026-11-05,41,290-->
 
 - Hvilke 2 tilstande kan S. typhi gi?
 ?
