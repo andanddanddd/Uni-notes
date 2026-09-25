@@ -33,6 +33,20 @@ Tendens
 - [[Otitis media]]
 <!--SR:!2026-10-18,27,290-->
 
+#### Pneumoni
+- Hvilke langtidsvarende komplikation/skader giver S. pneumoniae ved [[Pneumoni]]?:: Ingen, det skader ikke de alveolære vægge'
+- Hvor længe bruger S. pneumoniae på at sprede sig fra en lobe til andre lober?:: 10 dage
+- Hvad er de 4 stadier af pneumoni grundet S. pneumoniae?
+?
+- Serøs fase
+- Rødt hepatisationsstadium
+- Gråt hepatisationsstadium
+- Resolutionsfasen
+
+- Hvor længe varer den serøse fase af pnuemoni grundet s. pneumoniae?:: 1 dag (dag 1)
+- Hvad kendetegner den serøse fase af penumoni grundet s. pneumoniae?:: Væske i alveoler men få neutrofile granulocytter
+- Hvorfor er der få neutrofile granulocytter i den serøse fase af pneumoni grundet s. pneumoniae?:: De bliver dræbt af [[Pneumolysin]]
+- Hvor længe varer det røde hepa
 ## Diagnostik
 
 - Hvordan kan streptococcus pneumoniae genkendes?:: Den laver falde kolonier og laver $\alpha$-hæmolyse
