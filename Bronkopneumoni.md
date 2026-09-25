@@ -8,4 +8,14 @@
 - [[Klebsiella pneumoniae+]]
 - [[Pseudomonas aeruginosa+]]
 
+
+- Eksempler på vira der kan giver bronkopneumoni?
+?
+- [[Rhinoviru]]
+- [[Coronavirus]]
+- [[Respiratory sunctial virus (RSV)+]]
+- [[Influenzavirus+]]
+- [[Adenovirus]]
+
+
 - Hvornår forekommer bronkopneumoni oftest?:: Som sekundær infektion til en viral infektion

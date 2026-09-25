@@ -7,7 +7,11 @@
 ## Subtyper
 ## Patogenese
 - Hvilken patigen har historisk givet flest epiglotitiser og hvorfor gør den det ikke mere?:: [[Haemophilus influenzae type B+]] men nu vaccinere vi imod det
-- Hvilke patogener
+- Hvilke patogener giver oftest epiglotitis i dag?
+?
+- [[Streptococcus pneumoniae+]]
+- [[Streptococcus pyogenes+]]
+- [[Staphylococcus aureus+]]
 
 ## Klinisk præsentation
 

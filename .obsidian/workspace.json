@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epiglottitis.md",
+                "file": "Bronkopneumoni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epiglottitis"
+              "title": "Bronkopneumoni"
             }
           }
         ]
@@ -242,16 +242,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f06530c8b8b4b400",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "Øvre luftvejsinfektioner.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Pneumoni.md",
-    "Epiglottitis.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
+    "Bronkopneumoni.md",
     "Pneumoni.md",
     "Lobær pneumoni.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Streptococcus pneumoniae+.md",
-    "Bronkopneumoni.md",
+    "Epiglottitis.md",
+    "Øvre luftvejsinfektioner.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Pneumoni.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Haemophilus influenzae type B+.md",
     "Atypisk pneumoni.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Mycoplasma pneumoniae.md",

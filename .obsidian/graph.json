@@ -18,7 +18,7 @@
       "query": "path:\"1. Fag\" ",
       "color": {
         "a": 1,
-        "rgb": 2053506
+        "rgb": 16711680
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 14.4065331692583,
   "linkStrength": 0.835258878904579,
   "linkDistance": 30,
-  "scale": 0.20306524738954387,
-  "close": true
+  "scale": 0.09685865344381427,
+  "close": false
 }
