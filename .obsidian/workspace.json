@@ -6,7 +6,7 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 52.792617775619235,
+        "dimension": 39.242350655658086,
         "children": [
           {
             "id": "f06530c8b8b4b400",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
+                "file": "Sepsis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Sepsis immunologi"
+              "title": "Sepsis"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 47.207382224380765,
+        "dimension": 60.757649344341914,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -242,9 +243,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "aaa1815a3a194050",
+  "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Dissminated intravascular coagulation (DIC).md",
+    "Septisk shock.md",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
+    "Sepsis.md",
+    "Bakterieæmi.md",
     "1. Fag/Mikrobiologi.md",
     "Pneumoni.md",
     "Lobær pneumoni.md",
@@ -270,13 +276,8 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Pneumolysin.md",
     "Pasted image 20260925081858.png",
-    "Skabeloner/Skapelon - Sygdom.md",
-    "2. Caseuger/MIkrobiologi/Caseuge - Invasive infektioner.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Kroniske infektioner og reaktivering af bakterier.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Myelitis.md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
-    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/mso3AB1.tmp",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner",
     "Billeder/Mikrobiologi/Pasted image 20260923131453.png",

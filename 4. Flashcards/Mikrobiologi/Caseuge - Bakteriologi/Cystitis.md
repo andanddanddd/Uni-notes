@@ -67,5 +67,5 @@
 - Hvad er de 2 typiske komplikationer til cystitis?
 ?
 - [[Pyelonofritis]]
-- [[sepsis]]
+- [[Sepsis]]
 <!--SR:!2026-10-25,30,270-->

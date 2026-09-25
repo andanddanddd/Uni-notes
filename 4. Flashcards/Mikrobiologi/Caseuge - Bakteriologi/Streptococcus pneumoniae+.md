@@ -29,7 +29,7 @@ Tendens
 ?
 - [[Lobær pneumoni]]
 - [[Meningitis]]
-- [[sepsis]]
+- [[Sepsis]]
 - [[Sinuitis]]
 - [[Otitis media]]
 <!--SR:!2026-10-18,27,290-->

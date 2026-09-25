@@ -1,6 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
-- Hvilke sygdomme giver N. meningitidis?:: [[sepsis]] og [[Meningitis]]
+- Hvilke sygdomme giver N. meningitidis?:: [[Sepsis]] og [[Meningitis]]
 <!--SR:!2026-10-05,14,290-->
 - Hvor starter en N. meningitidis infektion?:: Øvre luftvejsslimhinder (særligt i næsen)
 <!--SR:!2026-10-06,14,290-->
