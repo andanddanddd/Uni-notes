@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequential Organ Fauilere Assesment (SOFA).md",
+                "file": "Mycobacterium tuberculosis+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequential Organ Fauilere Assesment (SOFA)"
+              "title": "Mycobacterium tuberculosis+"
             }
           }
         ]
@@ -42,15 +42,15 @@
             }
           },
           {
-            "id": "aaa1815a3a194050",
+            "id": "0c8f2066858c7968",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf"
+                "file": "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Sepsisimmunologi"
+              "title": "Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26"
             }
           }
         ],
@@ -244,8 +244,11 @@
   },
   "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
-    "Komplementfaktorer.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Kroniske infektioner og reaktivering af bakterier.md",
+    "Mycobacterium tuberculosis+.md",
+    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Sequential Organ Fauilere Assesment (SOFA).md",
+    "Komplementfaktorer.md",
     "4. Flashcards/Molekylær biologi/Caseuge 4/C-reaktivt protein (CRP).md",
     "Sepsis.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
@@ -270,12 +273,9 @@
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia trachomatis+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Azithromycin.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Chlamydia psittaci.md",
-    "Ornitose.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Makrolider.md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",
     "Pasted image 20260925092009.png",
     "Pasted image 20260925081858.png",
-    "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/mso3AB1.tmp",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner",
