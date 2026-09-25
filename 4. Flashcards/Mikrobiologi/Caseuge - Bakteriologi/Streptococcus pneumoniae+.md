@@ -21,12 +21,12 @@ Celler inficeret
 
 ## Smitte og epidimologi
 Tendens
-Smitevej
+- Hvilken smittevej har S. pneumoniae overordnet?:: Dråbesmitte der starter med at kolonisere nasopharynx
 
 ## Symptomer og komplikationer
 - Hvilke sygdomme giver streptococcus pneumoniae?
 ?
-- Lobær pneumoni
+- [[Lobær pneumoni]]
 - [[Meningitis]]
 - [[sepsis]]
 - [[Sinuitis]]

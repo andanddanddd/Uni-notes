@@ -16,6 +16,7 @@
 - Hospitalserhvervet (HAP)
 - Respirator-associeret (VAP)
 
+![[Pasted image 20260925081858.png]]
 ## Patogenese
 
 ## Klinisk præsentation
