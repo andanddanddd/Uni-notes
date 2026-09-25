@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "motili",
+                "query": "tag:#flashcards/5/Mikrobiologi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -245,8 +244,10 @@
   },
   "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
-    "Sepsis.md",
+    "Komplementfaktorer.md",
     "Sequential Organ Fauilere Assesment (SOFA).md",
+    "4. Flashcards/Molekylær biologi/Caseuge 4/C-reaktivt protein (CRP).md",
+    "Sepsis.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
     "Bakterieæmi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Dissminated intravascular coagulation (DIC).md",
@@ -272,9 +273,7 @@
     "Ornitose.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Antibiotika/Makrolider.md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",
-    "Legionella pneumophila+.md",
     "Pasted image 20260925092009.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylococcus aureus+.md",
     "Pasted image 20260925081858.png",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",

@@ -1,6 +1,6 @@
 [[Apolipoproteiner]]
 [[Albumin]]
-[[C-reaktivt protein]]
+[[C-reaktivt protein (CRP)]]
 [[Erytrocytter]]
 [[Hæmoglobin]]
 [[Immunoglobuliner]]
