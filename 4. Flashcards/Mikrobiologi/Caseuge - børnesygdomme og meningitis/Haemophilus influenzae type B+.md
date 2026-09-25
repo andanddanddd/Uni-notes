@@ -30,7 +30,7 @@ Smitevej
 - Bihulebetændelse
 - [[Otitis media]]
 - [[Pneumoni]]
-- [[epiglottitis]]
+- [[Epiglottitis]]
 - [[Meningitis]]
 <!--SR:!2026-09-27,3,250-->
 

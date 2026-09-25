@@ -33,6 +33,7 @@
 - Mucus (fanger patogener)
 - Cillieret epitel, der bevæger mucus opad
 - Antimikrobielle stoffer ([[Lysozom]] og [[IgA]])
+- Alveolære makrofager
 ![[Pasted image 20260925101310.png]]
 
 ## Klinisk præsentation

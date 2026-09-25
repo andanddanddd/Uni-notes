@@ -3,3 +3,7 @@
 
 
 ![[Pneumoni]]
+
+![[Øvre luftvejsinfektioner]]
+
+![[Epiglottitis]]
