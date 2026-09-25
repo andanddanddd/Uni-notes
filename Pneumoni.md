@@ -40,7 +40,8 @@
 - Hvad er de typiske symptomer på pneumoni
 ?
 - Høj feber
-- 
+- Brystsmerter
+- Kulderystelser
 
 ## Komplikationer
 

@@ -22,6 +22,7 @@ Celler inficeret
 ## Smitte og epidimologi
 Tendens
 - Hvilken smittevej har S. pneumoniae overordnet?:: Dråbesmitte der starter med at kolonisere nasopharynx
+- Hvilken risikofakter øger risikoen for at få pneumoni men S. pneimoniae?:: Alkohol
 
 ## Symptomer og komplikationer
 - Hvilke sygdomme giver streptococcus pneumoniae?
