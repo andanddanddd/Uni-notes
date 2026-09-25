@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "flashcards/5",
+  "search": "flashcards/3/I",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.35918048780488,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.17580487804878,
+  "centerStrength": 0.301240907145914,
   "repelStrength": 14.4065331692583,
   "linkStrength": 0.835258878904579,
   "linkDistance": 30,
-  "scale": 0.031907491398907445,
-  "close": true
+  "scale": 0.4257285563163081,
+  "close": false
 }
