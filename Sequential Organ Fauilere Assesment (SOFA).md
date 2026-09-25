@@ -13,3 +13,6 @@
 - P-bilirubin (leverskade)
 - P-kreatinin (nyreskade)
 - B-trombocyttal (koagulation)
+
+## Patofyiologi
+- Hvordan starte
