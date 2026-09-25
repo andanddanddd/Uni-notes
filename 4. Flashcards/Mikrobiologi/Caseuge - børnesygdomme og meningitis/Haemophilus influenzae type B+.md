@@ -34,6 +34,8 @@ Smitevej
 - [[Meningitis]]
 <!--SR:!2026-09-27,3,250-->
 
+- Hvilke(n) type pneumoni giver H. influenzae?:: Både [[Bronkopneumoni]], [[Lobær pneumoni]] og [[Atypisk pneumoni]]
+
 
 ## Diagnostik
 - Hvilket medie bruges til dyrkning af H. influenzae type B?:: [[Chokoladeagerplader]]
@@ -42,7 +44,7 @@ Smitevej
 <!--SR:!2026-09-27,4,270-->
 
 ## Forebyggelse og behandling
-- Hvilke resistensmekanisme har nogle H. influenzae type B?:: $\beta$-lactamase produktion
+- Hvilke resistensmekanisme har nogle H. influenzae type B?:: $\beta$-lactamase produktion og mange er resistente overfor [[Makrolider]]
 <!--SR:!2026-09-27,4,270-->
 - Hvordan forebygges infektioner med H. influenzae type B?:: Vacciation
 <!--SR:!2026-09-27,4,270-->

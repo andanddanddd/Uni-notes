@@ -26,5 +26,6 @@
 ## Diagnose
 - Hvordan diagnosticeres pneumoni overordnet?:: Røntgen af thorax og dyrkning 
 - Hvordan ses forskel på lobær pneumoni og bronkopneumoni på et røntgen?:: Lobær pneumi holder sig som udgangspunkt indenfor en lobe mens bronkopneumoni er mere all over
+![[Pasted image 20260925092009.png]]Hvilken type pneumoni ses på billedet og hvorfor?:: [[Bronkopneumoni]] eftersom der er raske celler lige ved sidenaf afficerede bronkier/alveoler (den er i flere lober uden en lobe er fyldt helt ud)
 
 ## Behandling
