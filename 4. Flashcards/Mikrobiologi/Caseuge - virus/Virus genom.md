@@ -15,3 +15,4 @@
 
 - Hvorfor mutere virus så meget?:: Når de har flere "gener" oveni hinanden er der meget mindre redundans
 <!--SR:!2026-10-06,15,290-->
+

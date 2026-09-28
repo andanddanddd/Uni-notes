@@ -53,4 +53,4 @@
 
 ![[Latente virus]]
 
-![[Pasted image 20260916152456.png]]![[Pasted image 20260917100625.png]]
+![[Pasted image 20260916152456.png]]![[Pasted image 20260917100625.png]]![[Pasted image 20260928140144.png]]

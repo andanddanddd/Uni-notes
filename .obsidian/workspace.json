@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fag/Mikrobiologi.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Morbillivirus+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mikrobiologi"
+              "title": "Morbillivirus+"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rotavirus+.md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Morbillivirus+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotavirus+"
+              "title": "Morbillivirus+"
             }
           }
         ]
@@ -246,17 +246,24 @@
   },
   "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
+    "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - virus/Virus livscyklus.md",
+    "Pasted image 20260928140144.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - virus/Virus genom.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
+    "Respiratory sunctial virus (RSV)+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Morbillivirus+.md",
+    "1. Fag/Mikrobiologi.md",
+    "Rotavirus+.md",
     "Enterovirus.md",
     "Rhinovirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Norovirus+.md",
-    "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
-    "Rotavirus+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Begreber indenfor diarre.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
     "Gastroenteritis.md",
     "Pasted image 20260928121816.png",
     "Adenovirus.md",
-    "1. Fag/Mikrobiologi.md",
     "Coronavirus+.md",
     "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Bordetella pertussis+.md",
     "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
@@ -269,12 +276,6 @@
     "Skabeloner/Skapelon - Bakterier.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Somatisk hypermutation.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Epitoper.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antigener.md",
-    "3. Forelæsninger/Immunologi/Caseuge 2 - Det adaptive immunsystem/Det adaptive immunsystems humorale komponenter.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/B-celle-receptor (BCR).md",
-    "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Antistoffer.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Primær og sekundær respons.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Naturlige antistoffer.md",
     "Billeder/Mikrobiologi/Pasted image 20260925081858.png",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
@@ -287,7 +288,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260923131453.png",
     "Billeder/Mikrobiologi/Pasted image 20260924121316.png",
     "Billeder/Mikrobiologi/Pasted image 20260924115758.png",
-    "Billeder/Mikrobiologi/Pasted image 20260924115519.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",

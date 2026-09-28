@@ -3,19 +3,19 @@
 
 
 ## Struktur
-- Hvilken form har kapslen på morbilli virus
-- Har morbilli virusen lipidmembran
-- Hvilken type arvematriale bruger morbilli virus
+- Hvilken form har kapslen på morbilli virus?:: Helical
+- Har morbilli virusen lipidmembran?:: Ja
+- Hvilken type arvematriale bruger morbilli virus?:: RNA-
 - Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter morbilli virus?
 - Hvordan kommer morbilli virusind i cellen?
 - Replikation
 ## Epidemiologi
-- Tendens i tilfælde
+- Hvem smittes oftest af morbillivirus?:: Børn
 
 ## Symptomer og komplikationer
-- Hvilken sygdom giver morbillivirus?:: Mæslinger
+- Hvilken sygdom giver morbillivirus?:: [[Mæslinger]]
 <!--SR:!2026-10-14,16,290-->
 - Hvilke komplikation har morbilli virus give?
 ?
