@@ -11,7 +11,7 @@
 
 - Eksempler på vira der kan giver bronkopneumoni?
 ?
-- [[Rhinoviru]]
+- [[Rhinovirus]]
 - [[Coronavirus]]
 - [[Respiratory sunctial virus (RSV)+]]
 - [[Influenzavirus+]]

@@ -7,7 +7,7 @@
 [[Viruser i GI]]
 
 [[Adenovirus]]
-[[Rhinoviru]]
+[[Rhinovirus]]
 [[Coronaviridae (COVID.-19)+]]
 [[Norovirus+]]
 [[Rotavirus+]]
