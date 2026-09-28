@@ -2,7 +2,7 @@
 
 - Hvilken bakterie giver oftest infektioner i og omkring hårsækkene?: [[Staphylococcus aureus+]]
 - Hvad kaldes en infektion i hårsækken der ikke udstråler andre steder?:: [[Foliculitis]]
-<!--SR:!2026-09-27,15,290-->
+<!--SR:!2026-11-29,62,310-->
 - Hvad kaldes en infektion i hårsækken der udstråler til dermis?:: [[Furuncle]]
 <!--SR:!2026-11-30,63,310-->
 - Hvad kaldes en infektioner i hårsækken der udstråler dermis og subcutis?:: [[Carpuncle]]

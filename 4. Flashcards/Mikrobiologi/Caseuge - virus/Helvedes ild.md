@@ -3,4 +3,4 @@
 - Hvordan opstår helvedes ild overordnet?:: Ved at [[VZV+]] reaktiveres (sygdommet der giver [[Varicella (skoldkopper)]])
 <!--SR:!2026-09-27,4,270-->
 - Hvad kendetegner lokalisastionen af helvedes ild?:: Det følger [[Dermatomer]]ne
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,16,290-->

@@ -7,7 +7,7 @@
 - Hvilken form har S. pneumoniae?:: Kokker
 <!--SR:!2026-09-27,4,270-->
 - Hvordan lejres S. pneumoniae?:: Diplokok (end to end)
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 Normal levested
 
 ## Patogenese
@@ -72,7 +72,7 @@ Resistens
 
 #### Vaccination
 - Hvad kendetegner S. pneumoniae vaccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvornår vaccineres man mod S. pneumoniae?:: 3,5,12 mdr
 <!--SR:!2026-10-12,14,290-->
 - Hvorfor kan man blive inficeret med S. pneumoniae selvom man er vaccineret?:: Der er ca 90 forskellige kapsler og vi vaccinere ikke mod dem allle

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes difteri ofte på dansk?:: Strubehoste
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-10,12,270-->
 - Hvilke symptomer har difteri?
 ?
 - Tonsilitis

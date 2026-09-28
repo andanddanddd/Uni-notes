@@ -9,7 +9,7 @@
 - Hvorfor bliver teeangere syge med EBV?:: Det er der de begynder at dele spyt igen (dvs dem der ikke fik den dom lille får den der)
 <!--SR:!2026-10-14,16,290-->
 - Hvor mange voksne er smittet med EBV?:: Nærmest alle
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvorfor er det værre at få EBV som teenager end som barn?:: De har et større immunrespons
 <!--SR:!2026-09-26,4,270-->
 - Hvordan diagnosticeres EBV?:: Serologi

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvornår gives de første sæt af vacciner til børn?:: 3 mdr, 5 mdr og 12 mdr
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvilke patogener vaccineres der imod ved 3,5 og 12 mdr?
 ?
 - [[Corynebacterium diphtheriae]]

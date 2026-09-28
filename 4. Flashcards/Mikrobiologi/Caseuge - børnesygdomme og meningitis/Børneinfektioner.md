@@ -12,7 +12,7 @@
 - [[Hånd-fod-mund-syge]]
 - [[Roseola infantum]]
 - [[Scarletina]]
-<!--SR:!2026-09-26,2,230-->
+<!--SR:!2026-10-03,5,230-->
 
 - Hvad er de typiske infektioner af nyfødte (kogenitte infektinoer)?
 ?
@@ -24,7 +24,7 @@
 <!--SR:!2026-10-03,5,230-->
 
 - Hvorfor skal man være særlig opmærksom på feber ved små børn?:: De er generalt dårlige til at lave feber
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 
 Aplastisk krise er noget med at dæmpe knolgemarven
 Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lave røde blodlegemer

@@ -24,7 +24,7 @@
 - Hvilken tendens har smittetilfælde med C. botulinum?:: Faldende grundet mere monitorering og vi er ebdre til at lave dåsemad
 <!--SR:!2026-10-10,12,270-->
 - Hvordan smitter C. botulinum?:: Indtagelse af dens toksin eller spore gennem mad eller vand
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvilken madvarer bliver "ofte" kontamineret med C. botulinum?:: Dåsemad
 <!--SR:!2026-09-27,4,270-->
 

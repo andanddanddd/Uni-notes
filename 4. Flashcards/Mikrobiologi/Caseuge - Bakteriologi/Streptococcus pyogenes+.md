@@ -12,7 +12,7 @@
 - Hvad sker med streptococcus pyogenes når den udtørre?:: Den dør (i modsætning til [[Staphylococcus aureus+]])
 <!--SR:!2026-11-30,63,310-->
 - Hvordan smitter streptococcus pyogenes?:: Dråber (eller når man deler mad)
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-02,65,310-->
 
 ## Patogenese
 - Hvorfor bliver S. pyogenes ikke "skyldes" væk i pharynx?
@@ -30,7 +30,7 @@
 - Fibronectin bindende protein
 - Streptokinase
 - SpeB-cystein protease
-<!--SR:!2026-09-27,11,230-->
+<!--SR:!2026-10-23,25,230-->
 
 - Hvilken effekt har det at S. pyogenes har C5a-peptidase?::Der sker mindre inflammation
 <!--SR:!2026-09-28,16,290-->

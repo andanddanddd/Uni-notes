@@ -15,5 +15,5 @@ Dugdråbe på et rosenblad (skoldkopper)
 <!--SR:!2026-09-28,4,270-->
 
 - Hvordan forebygges skoldkopper?:: [[Levende svækkede vacciner]]
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - 

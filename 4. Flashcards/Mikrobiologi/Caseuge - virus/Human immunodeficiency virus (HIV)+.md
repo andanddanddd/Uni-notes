@@ -6,11 +6,11 @@
 - Hvilken form har HIVs kapsel?:: Kegleformet
 <!--SR:!2026-09-28,4,270-->
 - Hvilken funktion har de accessoriske proteiner i HIV?:: Undvige immunforsvaret (der kan ske replikationcykler uden dem derfor er de accessoriske)
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-10,12,270-->
 
 ## Livscyklus
 - Hvilke celler inficere HIV?:: Cd4+ [[T-celler]] og [[Monocytter]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
 <!--SR:!2026-09-28,4,270-->
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
@@ -20,7 +20,7 @@
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 <!--SR:!2026-09-26,4,270-->
 - Hvordan kommer HIV ud af celler?:: Budding
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 ![[Pasted image 20260921115642.png]]
 ## Igangsættelse og fortsættelse af infektion
 - Hvor spreder en infektion sig hen fra slimhinder?:: I starter spreder den sig ikke meget kun slimhinden og lokale lymfeknuder
@@ -51,7 +51,7 @@
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn
 <!--SR:!2026-10-14,16,290-->
 - Hvor mange smittetilfælde kommer fra deling af nåle? (i den vestlige verden):: 6%
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvordan smitter HIV?
 ?
 - Sexuel kontakt
@@ -78,7 +78,7 @@
 <!--SR:!2026-09-27,4,270-->
 ## Diagonstik
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
 <!--SR:!2026-09-28,4,270-->
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS

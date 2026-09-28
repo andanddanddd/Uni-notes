@@ -23,7 +23,7 @@
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
 <!--SR:!2026-09-29,15,290-->
 - Hvilke celler inficere C. perfringes?:: Det gør den ikke, den laver kolonier og secenere toksiner
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvilke patogenesefaktorer har C. perfringes?
 
 

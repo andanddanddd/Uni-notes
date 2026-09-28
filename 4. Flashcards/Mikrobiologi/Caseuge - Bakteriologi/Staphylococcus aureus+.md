@@ -41,7 +41,7 @@
 - Hvordan "vælger" s. aureus hvor den danner abcesser?:: De ender steder hvor der i forvejen er en skade eller i de højt-vasculiserede organer
 <!--SR:!2026-11-30,63,310-->
 - Hvilken resistensmekanisme har de fleste s. aureus?:: Dannelse af $\beta$-lactamase
-<!--SR:!2026-09-27,15,290-->
+<!--SR:!2026-11-30,63,310-->
 - Hvad kaldes de stammer af s. aureus der er meget resistente?:: [[Methicillin-resistant S aureus (MRSA)]])
 <!--SR:!2026-09-28,16,290-->
 

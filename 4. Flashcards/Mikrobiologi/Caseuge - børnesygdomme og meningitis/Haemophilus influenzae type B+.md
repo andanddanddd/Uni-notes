@@ -39,13 +39,13 @@ Smitevej
 
 ## Diagnostik
 - Hvilket medie bruges til dyrkning af H. influenzae type B?:: [[Chokoladeagerplader]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvad gøres med en [[Blodplader agerplade]] for at H. influenzae kan gro derpå?:: Man laver en stribe af [[Staphylcoccer]]
 <!--SR:!2026-10-12,14,290-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanisme har nogle H. influenzae type B?:: $\beta$-lactamase produktion og mange er resistente overfor [[Makrolider]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvordan forebygges infektioner med H. influenzae type B?:: Vacciation
 <!--SR:!2026-10-12,14,290-->
 #### Vaccination

@@ -3,13 +3,13 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. difficile?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvilken form har C. difficile?:: Stav
 <!--SR:!2026-09-28,4,270-->
 - Hvordan lejres C. difficile?
 - Hvor lever C. difficile normalt?
 - Hvilket oxidativt miljø lever C. difficile bedst i?:: Anaerob
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 
 ## Patogenese
 - Hvilke celler inficere C. difficile?:: Den kolonisere colon og udskiller toksiner
@@ -19,7 +19,7 @@
 - Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
 <!--SR:!2026-10-09,11,270-->
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-10,12,270-->
 - Hvilke patogenesefaktorer har C. difficile?
 ?
 -
@@ -29,7 +29,7 @@
 - Hvilken tendens har smittetilfælde med C. difficile?:: Antallet af smittede steg i år 2000 da den muterede
 <!--SR:!2026-10-13,15,290-->
 - Hvordan smitter C. difficile?:: Gennem spore, særligt på hospitaler
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvem får oftest en infektion med C. difficile?:: Kvinder oftere end mænd men det er primært ældre og indlagte
 <!--SR:!2026-10-13,15,290-->
 - Hvad kan øge en persons risiko for at blive inficeret med C. difficile?:: Specifike antibiotikabehandlinger

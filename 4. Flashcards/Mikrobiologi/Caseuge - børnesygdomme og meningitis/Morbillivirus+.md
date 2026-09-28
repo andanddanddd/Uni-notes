@@ -16,7 +16,7 @@
 
 ## Symptomer og komplikationer
 - Hvilken sygdom giver morbillivirus?:: Mæslinger
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvilke komplikation har morbilli virus give?
 ?
 - [[Encephalitis]]

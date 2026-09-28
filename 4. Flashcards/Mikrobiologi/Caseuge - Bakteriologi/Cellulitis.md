@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er cellulotis overordnet?:: Infektion i subcutis
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-04,67,310-->
 - Hvilke bakterier kan give cellulitis?
 ?
 - [[Staphylococcus aureus+]]

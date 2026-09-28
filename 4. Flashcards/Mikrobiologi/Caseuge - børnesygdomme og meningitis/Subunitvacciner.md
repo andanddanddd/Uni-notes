@@ -16,7 +16,7 @@ Konjuktioner e rvigtigt så der er en T-celleepitop så der er en T-celle til at
 - Hvorfor er det til tider nødvendigt at kunjugere epitopet fra patogenet?:: Hvis det er et kulhydrat skal det sættes sammen med et protein for at det kan give et T-celle-respons (memory-B-celler kan ikke laves uden T-celler)
 <!--SR:!2026-10-29,43,290-->
 - I hvilken type vaccine er kunjuktion ofte nødvednigt?:: Vacciner rettet mod [[Bakteriens kapsel]]
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvad bruges ikke-levende vacciner til? - Bakterieangreb
 <!--SR:!2026-09-02,1,230-->
 - Hvilke vacciner bruger proteiner fra patogener:: [[Influenzavirus+]]-vaccine (Nej? ifølge trine)

@@ -3,7 +3,7 @@
 - Hvad betyder vaccination (vaccinus)?:: Fra koen
 <!--SR:!2026-11-22,62,310-->
 - Hvad er pasteurs fund?:: Efter han gav sine kyllinger en død bakterie (ved et uheld) blev de ikke længere syge af den levende bakterie
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 ![[Pasted image 20260923131453.png]]
 
 ![[Adjuvans]]
@@ -25,7 +25,7 @@
 ?
 - Antistoffer der forhindre virusens tilhæftning
 - Tc-respons
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 
 - Hvad er målet at immunsystemet gør når vi vaccinere mod en bakterie
 ?

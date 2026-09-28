@@ -14,4 +14,4 @@
 <!--SR:!2026-10-08,17,250-->
 
 Hvilken type gastroenteritis giver non-tyfoid salmonella oftest?:: [[Inflammatorisk enterocolitis]]
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-23,56,310-->

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken test laves for at skeldne staphylcoccer fra [[Streptococcer]]?:: [[Peroxidasetest]]
-<!--SR:!2026-09-27,15,290-->
+<!--SR:!2026-11-28,61,310-->
 - Hvordan genkendes staphylcoccer på [[Peroxidasetest]]?:: De bobler (dvs den er positiv)
 <!--SR:!2026-11-30,63,310-->
 - Hvilken test laves for at identificere staphylcoccerne fra hinanden?:: [[Koagulasetest]]
@@ -11,7 +11,7 @@
 - Hvilke(n) staphylcoc er koagulase-?:: [[Staphylococcus epidermidis]] og [[Staphylococcus saprophyticus]]
 <!--SR:!2026-11-25,58,310-->
 - Hvordan er lejringen af staphylcoccer?:: Klaser (ligner vindruer)
-<!--SR:!2026-09-26,14,290-->
+<!--SR:!2026-11-21,54,310-->
 - Hvilken type cellevæg har staphylcoccer?:: Den er gram positiv ([[Gram-positive bakterier]])
 <!--SR:!2026-09-27,15,290-->
 - Hvordan kan staphylcoccer (og andre bakterier) forårsage systemiske effekter uden at være i blodbanen?:: Deres toksiner kan være i blodbanen uden de selv er der
