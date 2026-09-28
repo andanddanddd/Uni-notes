@@ -11,7 +11,7 @@
 - Tårer
 - Cyanose
 - Fremskudt tunge
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 
 - Hvad sker typisk efter endt paroxysms?:: Opkast
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->

@@ -12,12 +12,12 @@
 - Hvilken type cellevæg har C. perfringes?:: [[Gram-positive bakterier]]
 <!--SR:!2026-09-26,3,250-->
 - Hvilken form har C. perfringes?:: Stav
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvordan lejres C. perfringes?
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
 <!--SR:!2026-09-27,4,270-->
 - Hvilket oxidativt miljø lever C. perfringes bedst i?:: Anerob
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 
 ## Patogenese
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
@@ -33,7 +33,7 @@
 - Hvilke madvarer er ofte kontamineret med C. perfringens?:: Kød og fjerkræ (særligt når de er tilberedt i store portiner)
 <!--SR:!2026-11-04,40,290-->
 - Hvad sker med C. perfringens når det bliver varmt?:: Bakterier dør men spore overlever (Som så kan vækste når maden køles ned)
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-21,54,310-->
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
 <!--SR:!2026-10-01,16,290-->
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer
@@ -45,10 +45,10 @@
 ?
 - Madforgiftning
 - Sårinfektioner (cellulitis)
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
-<!--SR:!2026-09-26,2,230-->
+<!--SR:!2026-10-03,5,230-->
 - Hvad kendetegner en sårinfektion grundet C. perfringens?::
 <!--SR:!2026-09-28,4,270-->
 ## Diagnostik

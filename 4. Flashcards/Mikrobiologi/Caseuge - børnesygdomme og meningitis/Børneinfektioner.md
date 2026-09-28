@@ -1,9 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvorfor bliver børn ofte syge når de starter i vuggestue?:: Der er mange nye patogener og deres oassiv immunitet fra moderen er ved at udløbe
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvor ofte skyldes inflæggelser af børn infektioner?:: 80% af tiden
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 
 - Hvad er de 5 klassiske børnesygdomme?
 ?
@@ -21,7 +21,7 @@
 - [[Rubulavirus+]]
 - [[CMV+]]
 - [[Alfaherpesvirus]]
-<!--SR:!2026-09-26,2,230-->
+<!--SR:!2026-10-03,5,230-->
 
 - Hvorfor skal man være særlig opmærksom på feber ved små børn?:: De er generalt dårlige til at lave feber
 <!--SR:!2026-09-28,4,270-->

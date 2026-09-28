@@ -6,7 +6,7 @@
 - Hvilken type cellevæg har E. coli?:: Gram negativ ([[Gram-negative bakterier]])
 <!--SR:!2026-09-30,16,290-->
 - Hvilken form har E. coli?:: Stav
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-22,55,310-->
 - Hvor bevægelige er E.coli?:: Nogle er bevægelige nogle er ikke
 <!--SR:!2026-09-29,15,290-->
 - Hvilket oxidativt miljø lever E. coli bedst i?:: De er fakultative anaerobe

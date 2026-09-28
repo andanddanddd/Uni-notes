@@ -22,7 +22,7 @@
 <!--SR:!2026-09-26,1,230-->
 
 - Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
-<!--SR:!2026-09-26,1,230-->
+<!--SR:!2026-09-30,2,230-->
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 <!--SR:!2026-09-29,4,270-->
@@ -33,7 +33,7 @@
 - Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
 <!--SR:!2026-09-29,4,270-->
 - Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-10-10,12,270-->
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren
 <!--SR:!2026-09-29,4,270-->
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
@@ -66,13 +66,13 @@
 - Hvad kendetegner meningitis grundet [[Streptococcus pneumoniae+]]?:: Tidligere eller nuværende infektion med enten [[Otitis media]], [[Sinuitis]] eller [[Pneumoni]], meningitistriade
 <!--SR:!2026-09-29,4,270-->
 - Hvad kendetegner meningitis grundet [[Neisseria meningitidis+]]?:: Yngre pt med huduslet og normalt bevisthedsniveu
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-10-10,12,270-->
 - Hvad kendetegner meningitis grundet [[Listeria monocytogenes+]]?:: Gammel (>50 år), immundefekter, lang symptomvarighed
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-10-09,11,270-->
 - Hvad kendetegner menigitis grundet [[Haemophilus influenzae type B+]]?:: Ældre, tidligere eller nuværende infektioner med [[Otitis media]] eller [[Sinuitis]], potentielt defekt i [[Basis cranii]]
 <!--SR:!2026-09-26,1,230-->
 - Hvad kendetegner meningitis grundet [[Staphylococcus aureus+]]?:: Tidligere eller nuværende infektion af enten [[Endocardidis]] eller [[OSteromyelitis]]
-<!--SR:!2026-09-28,3,250-->
+<!--SR:!2026-10-09,11,270-->
 - Hvad kendetegner meningitis grundet [[Streptococcus agalactiae]]?:: Ældre, strofmisbrug, tidligere eller nuværende infektion af [[Endocardidis]], [[Otitis media]] eller [[Sinuitis]]
 <!--SR:!2026-09-28,3,250-->
 - Hvad kendetegner meningitis grundet [[Escherichia coli+]]?:: Spædbørn og ældre, bakterieæmi

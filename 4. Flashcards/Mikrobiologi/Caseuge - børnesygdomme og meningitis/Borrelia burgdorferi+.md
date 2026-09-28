@@ -26,7 +26,7 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres B. burgdorferi?:: Lumbalpunktur (herefter kig på antistoffer)
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?

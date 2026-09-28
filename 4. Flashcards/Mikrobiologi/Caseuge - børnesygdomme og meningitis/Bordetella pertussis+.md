@@ -9,11 +9,11 @@
 - Hvor lever B. pertussis normalt?:: I mennesker (den giver forkølelse i ellers raske voksne dermed kan de smitte til børn der bliver meget syge)
 <!--SR:!2026-09-27,3,250-->
 - Hvilket oxidativt miljø lever B. pertussis bedst i?:: Den er aerob
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-09-30,2,230-->
 
 ## Patogenese
 - Hvilke celler inficere B. pertussis?:: Cilieret epitel i luftveje
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvilke patogenesefaktorer har B. pertissis?
 ?
 - [[Pertussis toksin (PTX)]]
@@ -22,23 +22,23 @@
 - [[Tracheal cytotoxin (TCT)]]
 - [[Lipooligosaccharide (LOS)]]
 - [[Biofilm]]
-<!--SR:!2026-09-26,1,170-->
+<!--SR:!2026-09-30,2,170-->
 
 - Hvilke mekanismer giver den karakteristisek hoste fra B. pertussis?:: Der er meget mucus samtidig med at hostereceptorer bliver mere følsomme og cillierne bliver ødelagt så de nedre luftveje er generalt dårligere til at komme af med mucus
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 ## Smitte og epidimologi
 - Hvor smitsom er B. pertussis?:: MEGET smitsom
 <!--SR:!2026-09-28,4,270-->
 - Hvilken smittevej har B. pertussis?:: Inhalation
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 
 ## Symptomer og komplikationer
 - Hvilken infektion giver B. pertussis typisk?:: [[Bronkopneumoni]]
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-07,9,250-->
 - Hvad kaldes sygdommen forårsaget af B. pertussis i daglig tale?:: [[Kighoste]]
 <!--SR:!2026-09-27,4,270-->
 - Hvilken patientgruppe bliver mest syg af B. pertussis?:: Børn
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvorfor kan B. pertussis lede til dehydrering?:: At synke kan give et hosteadfærd derfor prøver børn at undgå det
 <!--SR:!2026-09-28,4,270-->
 
@@ -58,14 +58,14 @@
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
 <!--SR:!2026-09-27,4,270-->
 - Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-09,11,270-->
 - Hvordan behandles B. pertussi?:: [[Makrolider]] og [[Tetracykliner]]
-<!--SR:!2026-09-28,3,230-->
+<!--SR:!2026-10-09,11,250-->
 
 #### Vaccine
 - Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner
 <!--SR:!2026-09-28,4,270-->
 - Hvornår gives B. pertussis vaccinen?:: ved 3, 5, 12 mdr, 5 år og i 3. trimester af graviditet
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvordan har B. perussis-vaccinen udviklet sig?:: Det startede som en levende svækkede bakterie men nu er den en toksidvaccine
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->

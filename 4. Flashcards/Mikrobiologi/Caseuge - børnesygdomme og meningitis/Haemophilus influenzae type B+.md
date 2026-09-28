@@ -7,7 +7,7 @@ Gram-farvning
 - Hvilken form har H. influenzae?:: Lille stav (pleomorf)![[Pasted image 20260922094654.png]]
 <!--SR:!2026-09-27,3,250-->
 - Hvor lever H. influenzae normalt?:: Normalflora i øvre luftveje
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 ## Patogenese
 Celler inficeret
 - Hvilke patogenesefaktorer har H. influenzae type B?
@@ -32,7 +32,7 @@ Smitevej
 - [[Pneumoni]]
 - [[Epiglottitis]]
 - [[Meningitis]]
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-09,11,270-->
 
 - Hvilke(n) type pneumoni giver H. influenzae?:: Både [[Bronkopneumoni]], [[Lobær pneumoni]] og [[Atypisk pneumoni]]
 
@@ -41,15 +41,15 @@ Smitevej
 - Hvilket medie bruges til dyrkning af H. influenzae type B?:: [[Chokoladeagerplader]]
 <!--SR:!2026-09-27,4,270-->
 - Hvad gøres med en [[Blodplader agerplade]] for at H. influenzae kan gro derpå?:: Man laver en stribe af [[Staphylcoccer]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanisme har nogle H. influenzae type B?:: $\beta$-lactamase produktion og mange er resistente overfor [[Makrolider]]
 <!--SR:!2026-09-27,4,270-->
 - Hvordan forebygges infektioner med H. influenzae type B?:: Vacciation
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 #### Vaccination
 - Hvad kendetegner HIB vccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvornår gives HIB vaccinationen?:: 3,5 og 12 mdr
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->

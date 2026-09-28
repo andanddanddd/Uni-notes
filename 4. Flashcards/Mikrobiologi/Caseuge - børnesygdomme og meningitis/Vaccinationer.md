@@ -8,13 +8,13 @@
 
 ![[Adjuvans]]
 - Hvad kaldes en tilbage-mutation til en mere virulent form?:: Revertere
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-06,8,250-->
 - Hvilke 3 typer af vacciner har vi?
 ?
 - [[Levende svækkede vacciner]]
 - [[Ikke-levende vacciner]]
 - [[DNA og mRNA-baseret vacciner (tjek)]]
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 
 
 - Hvad er en cocktailvaccine?:: Når en sprøjte indeholder flere vacciner på en gang

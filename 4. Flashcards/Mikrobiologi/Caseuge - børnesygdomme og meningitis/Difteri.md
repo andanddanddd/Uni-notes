@@ -7,14 +7,14 @@
 - Tonsilitis
 - Belægninger i øvre luftveje
 - Obstruktion af luftveje
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-09-30,2,250-->
 
 - Hvilke komplikation kan toksinet i difteri medføre?
 ?
 - Øjenmuskel pareser
 - Respirationslammelse
 - Myokarditis (føre til hjertestop)
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-09-30,2,230-->
 
 
 - Hvor

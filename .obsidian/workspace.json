@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Somatisk hypermutation.md",
+                "file": "1. Fag/Mikrobiologi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Somatisk hypermutation"
+              "title": "Mikrobiologi"
             }
           }
         ]
@@ -225,11 +225,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "1. Fag/Mikrobiologi.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Somatisk hypermutation.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Epitoper.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antigener.md",
@@ -257,7 +259,6 @@
     "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Kroniske infektioner og reaktivering af bakterier.md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Komplementfaktorer.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 4/C-reaktivt protein (CRP).md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260925101310.png",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",

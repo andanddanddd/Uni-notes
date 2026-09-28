@@ -10,4 +10,4 @@
 - Hvordan diagnosticeres CMV?:: Serologi
 <!--SR:!2026-09-26,4,270-->
 - Hvordan kan CMV ses på lysmikorskopi?:: Kæmpe kerner ![[Pasted image 20260918133324.png]]
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-13,15,290-->

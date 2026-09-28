@@ -3,11 +3,11 @@
 - Hvad skal ske med hemolysin for den bliver aktiv?:: Den skal sættes sammen med andre hæmolysin-proteiner
 <!--SR:!2026-09-28,16,290-->
 - Hvad gør hemolysin når det er oligomeseret?:: Danner en porer
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-01,64,310-->
 - Hvad gør hemolysin overordnet?:: Lysere erytrocytter
-<!--SR:!2026-09-26,14,290-->
+<!--SR:!2026-11-21,54,310-->
 - Hvilken bakterie udskiller $\alpha$-hemolysin?:: [[Staphylococcus aureus+]]
 <!--SR:!2026-09-27,15,290-->
 - Hvilken effekt har $\alpha$-hemolysin i en infektion med [[Staphylococcus aureus+]]?:: Ikke nogen, men man kan se de producere det når man gror dem
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-02,65,310-->
 - 

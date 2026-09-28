@@ -21,10 +21,10 @@
 ?
 - [[Encephalitis]]
 - [[Subakut skleroserende panencephalitis (SSPC)]] efter 6-8 år
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-05,7,250-->
 
 - Hvor mange dør af morbillivirus?:: 1/3000 smittede
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 
 ## Diagonstik
 

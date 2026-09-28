@@ -14,9 +14,9 @@
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
 <!--SR:!2026-09-28,4,270-->
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 <!--SR:!2026-09-26,4,270-->
 - Hvordan kommer HIV ud af celler?:: Budding
@@ -24,11 +24,11 @@
 ![[Pasted image 20260921115642.png]]
 ## Igangsættelse og fortsættelse af infektion
 - Hvor spreder en infektion sig hen fra slimhinder?:: I starter spreder den sig ikke meget kun slimhinden og lokale lymfeknuder
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvorfor "dør" en lokal infektion typisk?:: HIV løb tør for celler
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvorfor "løber HIV ikke altid tør for celler at inficere" når den kun er lokalt i starten?:: Den inducere inflammation og der tilkaldes derfor flere immunceller og dermed flere celler den kan inficere
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-13,15,290-->
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
@@ -45,11 +45,11 @@
 <!--SR:!2026-09-26,4,270-->
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
 <!--SR:!2026-09-26,4,270-->
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvor mange smittetilfælde kommer fra deling af nåle? (i den vestlige verden):: 6%
 <!--SR:!2026-09-27,4,270-->
 - Hvordan smitter HIV?
@@ -61,19 +61,19 @@
 
 ## Symptomer og komplikationer
 - Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]]
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvilke symptomer har den initielle HIV-infektion?
 ?
 - Feber
 - Hovedpine
 - Utilpashed
 - Udslet
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,16,290-->
 
 - Hvor længe går der fra infektion af HIV til [[AIDS]] indtræder?:: Omkring 10 år
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
 <!--SR:!2026-09-27,4,270-->
 ## Diagonstik
@@ -86,16 +86,16 @@
 
 ## Forebyggelse og behandling
 - Hvordan forebygges vertikal smitte af HIV?:: Hvis moderen er behandlet er der en <2% risiko for at barnet bliver inficeret
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-12,14,290-->
 - Hvordan undgås at HIV smitter i befolkning?:: Generalt undgå risikoadfærd og hvis dem med HIV er i behandling vil de have mindre vira i deres blod (og andre væsker) så de har sværre ved at smitte
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,16,290-->
 - Hvor længe skal en person med HIV være i behandling?:: Altid (pga latente vira)
 <!--SR:!2026-09-27,4,270-->
 - Hvilket angrebspunkt har de fest behandlinger mod HIV?
 ?
 - Revers transkripase (ofte ved at være en nukleotid der ikke kan forlænges på)
 - Inhibase inhibitor
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-12,14,290-->
 
 
 

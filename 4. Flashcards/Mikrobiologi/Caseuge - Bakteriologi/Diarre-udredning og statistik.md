@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvor længe skal der have været diarre før man tester for patogener i ellers raske mennesker?:: Minimum 7 dage og efter 28 dage bør man altid teste (dvs ved persisterende diarre kan man teste og ved kronisk diarre skal man teste)
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-22,55,310-->
 - Hvordan testes for tarmpatogener?:: [[PCR]] på en fæcesprøve
 <!--SR:!2026-09-29,15,290-->
 - Hvilken bakteriegruppe giver oftest diarresygdomme?:: [[Salmonella enterica]]

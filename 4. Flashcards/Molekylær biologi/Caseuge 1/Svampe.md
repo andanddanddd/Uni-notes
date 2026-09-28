@@ -1,7 +1,7 @@
 #flashcards/Molekulær-biologi #flashcards/5/Mikrobiologi 
 
 - Hvilket organel er kendetegnet for svampe i forhold til andre eukaryoter?:: Cellevæg
-<!--SR:!2026-09-26,14,290-->
+<!--SR:!2026-11-24,57,310-->
 - Hvad er svampes cellevæg lavet af?:: Glukoproteiner, glucaner og chitin
 <!--SR:!2026-10-22,27,270-->
 - Hvilken forskel er der på svampes og menneskers cellemembran?:: Svampe har ergosterol deri i stedet for cholesterol

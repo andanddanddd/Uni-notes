@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. botulinum?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-13,15,290-->
 - Hvilken form har C. botulinum?:: Stav
 <!--SR:!2026-09-28,4,270-->
 - Hvordan lejres C. botulinum?
@@ -17,12 +17,12 @@
 - Hvilke patogenesefaktorer har C. botulinum?:: Dens toksin er MEGET potent (bogen siger den kan bruges som biovåben)
 <!--SR:!2026-09-28,4,270-->
 - Hvilken type toksin er C. boutulinums toksiner?:: Neurotoksiner
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,16,290-->
 
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med C. botulinum?:: Faldende grundet mere monitorering og vi er ebdre til at lave dåsemad
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-10,12,270-->
 - Hvordan smitter C. botulinum?:: Indtagelse af dens toksin eller spore gennem mad eller vand
 <!--SR:!2026-09-27,4,270-->
 - Hvilken madvarer bliver "ofte" kontamineret med C. botulinum?:: Dåsemad
