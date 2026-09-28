@@ -23,8 +23,11 @@
 - Hvilke symptomer giver adenovirus når den giver øvre luftvejsinfektioner?:: [[Forkølelse]] plus kulderystelser, hovedpine, feber og muskelsmerter
 
 ## Diagonstik
+- Hvordan diagnosticeres adenovirus?:: PCR (af enten fæces eller snot)
 
 ## Forebyggelse og behandling
+- Hvordan behandles adenovirus?:: Typisk er symptombehandling nok
+- Hvordan forebygges adenovirus?:: God hygiejne, derudover er der en oral vaccine men den bruges kun meget lidt (militær i USA)
 
 
 
