@@ -10,6 +10,8 @@ Målrettet behanlding = behandling mod specifik bakterie (eller anden mikroorgan
 
 ![[Diarre-udredning og statistik]]
 
+![[Gastroenteritis]]
+
 ![[Campylobacter jejuni]]
 
 ![[Salmonella enterica]]

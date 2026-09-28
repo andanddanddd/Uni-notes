@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/5/Mikrobiologi",
+                "query": "gastroenteritis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -246,8 +246,11 @@
   },
   "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
-    "Pasted image 20260928121816.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Begreber indenfor diarre.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Bakteriologi/Forelæsning -  Fødevarebårne sygdomme.md",
+    "Gastroenteritis.md",
     "Rotavirus+.md",
+    "Pasted image 20260928121816.png",
     "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
     "Adenovirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Norovirus+.md",
@@ -272,8 +275,6 @@
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Primær og sekundær respons.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Naturlige antistoffer.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Klasseskift.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgA.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgE.md",
     "Billeder/Mikrobiologi/Pasted image 20260925081858.png",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
@@ -289,7 +290,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260924115519.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
-    "Billeder/Mikrobiologi/Pasted image 20260923134036.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf",
     "Untitled.canvas"

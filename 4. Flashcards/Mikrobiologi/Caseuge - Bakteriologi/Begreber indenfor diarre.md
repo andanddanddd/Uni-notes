@@ -1,7 +1,6 @@
-#flashcards/5/Mikrobiologi 
+#flashcards/5/Mikrobiologi [[Forelæsning -  Fødevarebårne sygdomme]]
 
-- Hvad er gastroenteritis?:: Akut diarra, oftest ledsaget af opkastning og maesamerter
-<!--SR:!2026-09-30,16,290-->
+
 - Hvad er diarre?:: 3 eller mere vandtynde afføringer pr døgn
 <!--SR:!2026-09-30,16,290-->
 - Hvad er akut diarre?:: Diarre der har varet mindre end en uge
@@ -18,9 +17,4 @@
 <!--SR:!2026-09-29,15,290-->
 - Hvad er dysenteri?:: Hyppige afføringer (mere end 30 på en dag)
 <!--SR:!2026-11-03,39,290-->
-- Hvad er de 3 typer af gastroenteritis?
-?
-- [[Præformeret toksin (gastroenteritis)]]
-- [[Sekretorisk enteritis]]
-- [[Inflammatorisk enterocolitis]]
-<!--SR:!2026-09-30,16,290-->
+
