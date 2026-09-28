@@ -6,7 +6,7 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 39.242350655658086,
+        "dimension": 51.91840699368625,
         "children": [
           {
             "id": "f06530c8b8b4b400",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhinovirus.md",
+                "file": "Adenovirus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rhinovirus"
+              "title": "Adenovirus"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 60.757649344341914,
+        "dimension": 48.081593006313746,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -231,11 +232,18 @@
   },
   "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Adenovirus.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Bordetella pertussis+.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Staphylcoccer.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Methicillin-resistant S aureus (MRSA).md",
+    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
+    "Pasted image 20260928103415.png",
+    "Pasted image 20260928103239.png",
+    "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
     "Rhinovirus.md",
     "Skabeloner/Skabelon - Virus.md",
     "Skabeloner/Skapelon - Bakterier.md",
-    "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
-    "Adenovirus.md",
     "1. Fag/Mikrobiologi.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Somatisk hypermutation.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Epitoper.md",
@@ -252,11 +260,6 @@
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Fc-receptorer.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Neonatale Fc-receptorer.md",
     "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgD.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgM.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antistoffers lette kæder.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antistoffers tunge kæder.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Genetisk rekombination af antistoffer.md",
-    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Opbygning af antistoffer.md",
     "Billeder/Mikrobiologi/Pasted image 20260925081858.png",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
@@ -275,8 +278,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260923134036.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - børnesygdomme 2026.pdf",
-    "Billeder/Mikrobiologi/Pasted image 20260922140617.png",
-    "Billeder/Mikrobiologi/Pasted image 20260922140521.png",
     "Untitled.canvas"
   ]
 }
