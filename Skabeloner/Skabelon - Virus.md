@@ -6,11 +6,13 @@
 - Hvilken type arvematriale bruger vX
 - Hvilken struktur har vX´ arvematriale
 ## Livscyklus
-- Hvordan smitter vX?
-- Hvordan kommer vX ind i cellen?
+- Hvilke celler inficere vX
+- Hvordan kommer vX ind i cellen? (mekanisme)
 - Replikation
-## Epidemiologi
+## Smitte og epidemiologi
 - Tendens i tilfælde
+- Hvor "lever" vX normalt
+- Hvordan smitter vX
 
 ## Symptomer og komplikationer
 
