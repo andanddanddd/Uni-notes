@@ -70,7 +70,7 @@ Læsning
 - [x] 31 (generalt om virus)
 - [ ] 32
 - [x] 33 (Influenza)
-- [ ] 34
+- [x] 34 (forkølelse)
 - [ ] 35
 - [ ] 36
 - [ ] 39

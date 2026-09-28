@@ -37,9 +37,11 @@
 - Hvem for oftest slemem coronavirusinfektioner?:: Ældre (og immunkomprimiterede)
 
 ## Diagonstik
-- Hvordan diagnosticeres coro
+- Hvordan diagnosticeres coronavirus oftest?:: De endemiske diagnosticeres typisk ikke man bruger PCR til [[Covid-19]]
 
 ## Forebyggelse og behandling
-
+- Hvordan behandles coronavirus?:: Symptombehandling
+- Hvordan forebygges coronaviris?:: Vaccine (mod [[Covid-19]])
+- Hvad kendetegner [[Covid-19]]-vaccinen?:: mRNA-vaccine mod spike-proteiner
 
 
