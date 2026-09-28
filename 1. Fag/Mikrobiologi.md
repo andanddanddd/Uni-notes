@@ -68,7 +68,7 @@ Læsning
 - [ ] 29
 #### Virus
 - [x] 31 (generalt om virus)
-- [ ] 32
+- [x] 32 (virus der primært rammer børn)
 - [x] 33 (Influenza)
 - [x] 34 (forkølelse)
 - [x] 35 (virus i GI)

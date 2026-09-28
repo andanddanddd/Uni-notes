@@ -29,7 +29,7 @@
 
 ## Forebyggelse og behandling
 - Giver det immunitet at være smittet tidligere?:: Det gør senere infektioner mildere
-- Hvordan behandles RS-virus?:: Symptombe
+- Hvordan behandles RS-virus?:: Symptombehandling
 
 
 
