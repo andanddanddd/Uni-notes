@@ -13,11 +13,11 @@
 ## Livscyklus
 - Hvilke celler inficere norovirus
 - Hvordan kommer vnoroviruslen? (mekanisme)
-- Replikation
+- Hvor sker replikation og transskription af norovirus?:: Cytoplasma
 ## Smitte og epidemiologi
-- Tendens i tilfælde
+- Hvornår på året ses flest norovirus-tilfælde?:: Vinter
 - Hvor "lever" norovirus normalt
-- Hvordan smitter norovirus?:: Fæcal-oralt mellem mennesker
+- Hvordan smitter norovirus?:: Fæcal-oralt mellem mennesker, men de kan også overleve i mad og vand, de kan dermed smitte derigennem
 <!--SR:!2026-09-30,16,290-->
 - Hvor "normal" er norovirus(hvor ofte giver den sygdomme)?:: Det er den mest almindelige virale årsag til diarre i voksne (2. mest i børn)
 

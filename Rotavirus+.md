@@ -18,10 +18,11 @@
 ?
 - Dræber absorptive celler 
 - Udskiller enterotoksin der stimulere udskillelse af chlor (og vand)
+- Det altivere [[Det enteriske nervesystem]]
 ![[Pasted image 20260928121816.png]]
 ## Smitte og epidemiologi
 - Tendens i tilfælde
-- Hvor "lever" rotavirus normalt
+- Hvor "lever" rotavirus normalt?:: Både mennesker og andre dyr
 - Hvordan smitter rotavirus?:: Fæcalt-oralt (sjældent igennem mad eller vand)
 - Hvem smittes ofte af rotavirus?:: Børn (det er den mest almindelige virale årsag til diarre hos børn)
 - Hvornår bliver voksne smittet af rotavirus?:: Typisk kun hvis de får meget høje doser af virus og selv der får de oftest kun milde symptomer (eks forældre til små børn)
@@ -36,8 +37,11 @@
 - Mavesmerter
 - Feber
 ## Diagonstik
+- Hvordan diagnosticeres rotavirus?:: Antigentest på fæcesprøver (eller elektronmikroskopi)
 
 ## Forebyggelse og behandling
+- Hvordan behandles rotavirus?:: Vand og elektrolytter
+- Hvordan forebygges rotavirus?:: God hygiejne derudover findes der en oral vaccine
 
 
 
