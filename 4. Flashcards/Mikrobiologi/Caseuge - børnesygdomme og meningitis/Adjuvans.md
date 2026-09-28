@@ -11,4 +11,4 @@
 <!--SR:!2026-09-28,4,270-->
 
 - Hvad er det mest almindelige adjuvans?:: Aluminiumhydroxid
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,15,290-->

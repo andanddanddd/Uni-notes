@@ -5,4 +5,4 @@
 - Hvad kaldes sygdommen der giver scarletina?:: [[Streptococcal Toxic Shock Syndrome (STSS)]]
 <!--SR:!2026-10-25,31,270-->
 - Hvad er scarlatina overordnet?:: En tilstanden hvor huden får store røde plamager![[Pasted image 20260907150121.png]]
-<!--SR:!2026-09-26,14,290-->
+<!--SR:!2026-11-22,55,310-->

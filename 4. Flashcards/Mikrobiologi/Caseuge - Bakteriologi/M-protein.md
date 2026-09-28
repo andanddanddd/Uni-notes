@@ -7,4 +7,4 @@
 - Hvilken bakterie har M-protein på sin overflade?:: [[Streptococcus pyogenes+]]
 <!--SR:!2026-09-28,16,290-->
 - Hvorfor er det svært at lave en gentagent immunforsvar mod M-protein?:: Den kan ændres (Og man giver antibiotika mod S. pyogenes så man når ikke at lave et ordenligt adaptivt respons)
-<!--SR:!2026-09-27,15,290-->
+<!--SR:!2026-11-30,63,310-->

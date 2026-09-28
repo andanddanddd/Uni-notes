@@ -40,4 +40,10 @@
 
 ![[Fc-receptorer]]
 
-- Hvilken funktion har IgA mod virusinfektioner?:: Blokering
+![[Klasseskift]]
+
+![[Naturlige antistoffer]]
+
+![[Primær og sekundær respons]]
+
+![[Somatisk hypermutation]]

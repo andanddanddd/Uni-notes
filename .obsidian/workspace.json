@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Antistoffer.md",
+                "file": "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Somatisk hypermutation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antistoffer"
+              "title": "Somatisk hypermutation"
             }
           }
         ]
@@ -225,26 +225,32 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f06530c8b8b4b400",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "IgA.md",
-    "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Antistoffer.md",
-    "IgG.md",
-    "Fc-receptorer.md",
-    "Neonatale Fc-receptorer.md",
-    "IgD.md",
-    "IgM.md",
-    "B-celle-receptor (BCR).md",
-    "Antistoffers lette kæder.md",
-    "Antistoffers tunge kæder.md",
-    "Genetisk rekombination af antistoffer.md",
-    "Opbygning af antistoffer.md",
-    "Fab-regionen.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Somatisk hypermutation.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Epitoper.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antigener.md",
     "3. Forelæsninger/Immunologi/Caseuge 2 - Det adaptive immunsystem/Det adaptive immunsystems humorale komponenter.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/B-celle-receptor (BCR).md",
+    "4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Antistoffer.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Primær og sekundær respons.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Naturlige antistoffer.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Klasseskift.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgA.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgE.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgG.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Fc-receptorer.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Neonatale Fc-receptorer.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgD.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/IgM.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antistoffers lette kæder.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Antistoffers tunge kæder.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Genetisk rekombination af antistoffer.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Opbygning af antistoffer.md",
+    "4. Flashcards/Immunologi/Caseuge 2 - Det innate immunsystem/Fab-regionen.md",
     "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Sequential Organ Fauilere Assesment (SOFA).md",
     "Billeder/Mikrobiologi/Pasted image 20260925081858.png",
     "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Mycobacterium tuberculosis+.md",
@@ -252,14 +258,7 @@
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Komplementfaktorer.md",
     "4. Flashcards/Molekylær biologi/Caseuge 4/C-reaktivt protein (CRP).md",
-    "0. De allervigtigste/Mikrobiologi/Sepsis.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Invasive infektioner/Forelæsning - Sepsis immunologi.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Bakterieæmi.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Dissminated intravascular coagulation (DIC).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Septisk shock.md",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Sepsisimmunologi.pdf",
-    "1. Fag/Mikrobiologi.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Pneumoni.md",
     "Billeder/Mikrobiologi/Pasted image 20260925101310.png",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - Luftvejsinfektioner_E26.pdf",
     "Billeder/Mikrobiologi/Pasted image 20260925092009.png",

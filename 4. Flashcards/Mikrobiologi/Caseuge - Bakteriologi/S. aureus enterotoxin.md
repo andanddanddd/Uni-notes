@@ -3,7 +3,7 @@
 - Hvilke symptomer har madforgiftning grundes S. aureus entereotoksin?:: Kvalme, opkast, mavekramper evt diarre (ingen feber), se [[Præformeret toksin (gastroenteritis)]]
 <!--SR:!2026-09-29,15,290-->
 - Hvad er inkubationstiden på madforgiftning grundet S. aureus enterotoksin?:: 30 min - 6 timer
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-21,54,310-->
 - Hvordan smitter madforgiftning grundet S. aureus enterotoksin?:: Det smitter ikke fra menneske til menneske kun gennem fødevarer
 <!--SR:!2026-11-07,43,290-->
 - Hvor længe varer madforgiftning grundet S. aureus enterotoksin?:: 1-2 dage

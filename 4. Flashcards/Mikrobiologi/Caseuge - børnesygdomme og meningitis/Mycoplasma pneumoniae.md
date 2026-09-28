@@ -21,7 +21,7 @@
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver M. pneumoniae?:: [[Atypisk pneumoni]]
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-10,12,270-->
 
 - Hvilke komplikationer kan M. pneumoniae give?:
 ## Diagnostik

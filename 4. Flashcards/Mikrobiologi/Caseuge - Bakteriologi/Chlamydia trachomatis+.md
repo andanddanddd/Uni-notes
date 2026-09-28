@@ -57,7 +57,7 @@
 <!--SR:!2026-10-08,16,290-->
 
 - Hvordan behandles en infektion med C. trachomatis?:: [[Doxycyklin]] eller [[Azithromycin]] (eller andre [[Makrolider]])
-<!--SR:!2026-09-28,5,250-->
+<!--SR:!2026-10-16,18,270-->
 - Hvorfor er det vigtigt at en clamydiabehandling varer "længe" clamydia deler sig langsomt
 - Hvilke særlige "krav" er der til antibiotika mod clamydia?:: Det skal kunne komme igennem vores egne celler
 <!--SR:!2026-10-05,14,290-->
