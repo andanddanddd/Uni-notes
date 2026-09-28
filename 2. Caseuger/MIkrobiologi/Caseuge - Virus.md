@@ -8,7 +8,7 @@
 
 [[Adenovirus]]
 [[Rhinovirus]]
-[[Coronaviris]]
+[[Coronavirus+]]
 [[Norovirus+]]
 [[Rotavirus+]]
 [[Rubulavirus+]] 
