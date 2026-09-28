@@ -71,8 +71,8 @@ Læsning
 - [ ] 32
 - [x] 33 (Influenza)
 - [x] 34 (forkølelse)
-- [ ] 35
-- [ ] 36
+- [x] 35 (virus i GI)
+- [ ] 38
 - [ ] 39
 - [x] 40 ($\alpha$-HHV)
 - [x] 41 ($\beta$ og $\gamma$ HHV)

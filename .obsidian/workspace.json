@@ -6,7 +6,7 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 51.91840699368625,
+        "dimension": 56.55555555555556,
         "children": [
           {
             "id": "f06530c8b8b4b400",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enterovirus.md",
+                "file": "1. Fag/Mikrobiologi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enterovirus"
+              "title": "Mikrobiologi"
             }
           },
           {
@@ -41,7 +41,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 48.081593006313746,
+        "dimension": 43.44444444444445,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -246,8 +246,8 @@
   },
   "active": "f06530c8b8b4b400",
   "lastOpenFiles": [
-    "Rhinovirus.md",
     "Enterovirus.md",
+    "Rhinovirus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Norovirus+.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
     "Rotavirus+.md",
