@@ -52,13 +52,12 @@ Læsning
 - [x] 10 (Bakterier)
 - [x] 11 (Staphylcokker)
 - [x] 12 (Streptococcer)
-- [ ] 13
+- [ ] 13 (Pneumokokker)
 - [x] 14 (Neisseria)
 - [x] 16 (Sekeretorisk enteritis)
 - [x] 17 (Inflammatorisk coleitis)
-- [ ] 18
+- [ ] 18 (Pseudomonas)
 - [x] 19 (Bortadella pertussi)
-- [ ] 20
 - [ ] 21 (Legionella)
 - [ ] (22) (Helicobactor pylori)
 - [ ] 23 (Tuberculose)
@@ -66,14 +65,14 @@ Læsning
 - [ ] 25 (Borelia)
 - [x] 27 (Clamydia)
 - [ ] (29)
-#### Virus JEG MANGLER TBE
+#### Virus JEG MANGLER TBE OG RUBULAVIRUS
 - [x] 31 (generalt om virus)
 - [x] 32 (virus der primært rammer børn)
 - [x] 33 (Influenza)
 - [x] 34 (forkølelse)
 - [x] 35 (virus i GI)
 - [x] 38 (viruser der smitter igennem insekter)
-- [ ] 39
+- [ ] 39 (HPV)
 - [x] 40 ($\alpha$-HHV)
 - [x] 41 ($\beta$ og $\gamma$ HHV)
 - [x] 42 (HIV)

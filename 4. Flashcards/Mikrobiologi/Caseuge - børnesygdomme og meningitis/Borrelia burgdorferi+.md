@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har B. burgdorferi?
-- Hvilken form har B. burgdorferi?
+- Hvilken form har B. burgdorferi?:: Spiral
 - Hvordan lejres B. burgdorferi?
 - Hvor lever B. burgdorferi normalt?
 - Hvilket oxidativt miljø lever B. burgdorferi bedst i?
@@ -16,12 +16,21 @@
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med B. burgdorferi
-- Hvordan smitter B. burgdorferi?
+- Hvordan smitter B. burgdorferi?:: Gennem flåter
 
 ## Symptomer og komplikationer
-- Hvilke infektioner giver B. burgdorferi?
+- Hvilke infektioner giver B. burgdorferi?:: Borrelia
 
 - Hvilke komplikationer kan B. burgdorferi give?:
+
+#### Stadie 1
+- Hvilke symptomer sker overordnet i stadie 1 af borrelia?:: Rundt udslet (skydeskive)
+- Hvor længe varer stadie 1 af borrelia?:: Par dage til flere uger
+- Hvad kaldes udslettet i stadie 1 af borrelia?:: Erythema migrans
+#### Stadie 2
+- Hvilke symptomer sker overod
+
+![[Pasted image 20260929101624.png|514]]
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?

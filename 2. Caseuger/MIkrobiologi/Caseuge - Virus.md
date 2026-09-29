@@ -11,6 +11,7 @@
 [[Coronavirus+]]
 [[Norovirus+]]
 [[Rotavirus+]]
+[[HPV]]
 [[Rubulavirus+]] 
 [[Morbillivirus+]]
 [[Respiratory sunctial virus (RSV)+]]

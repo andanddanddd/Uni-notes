@@ -1,4 +1,4 @@
 #flashcards/5/Mikrobiologi 
 [[Slides - Herpesvirus forelæsning 2026.pdf]]
 
-![[Humane Herpes Virus (HPV)]]
+![[Humane Herpes Virus (HHV)]]
