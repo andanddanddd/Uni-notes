@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 
-
+- Hvad kaldes togavirus også?:: Alphavirus
 ## Struktur
 - Hvilken form har kapslen på togavirus
 - Har togavirus en lipidmembran?:: Ja
