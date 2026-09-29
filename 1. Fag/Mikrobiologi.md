@@ -59,20 +59,20 @@ Læsning
 - [ ] 18
 - [x] 19 (Bortadella pertussi)
 - [ ] 20
-- [ ] 21
-- [ ] (22)
-- [ ] 23
+- [ ] 21 (Legionella)
+- [ ] (22) (Helicobactor pylori)
+- [ ] 23 (Tuberculose)
 - [x] 24 (Syfilis)
-- [ ] 25
-- [ ] 27
-- [ ] 29
-#### Virus
+- [ ] 25 (Borelia)
+- [x] 27 (Clamydia)
+- [ ] (29)
+#### Virus JEG MANGLER TBE
 - [x] 31 (generalt om virus)
 - [x] 32 (virus der primært rammer børn)
 - [x] 33 (Influenza)
 - [x] 34 (forkølelse)
 - [x] 35 (virus i GI)
-- [ ] 38
+- [x] 38 (viruser der smitter igennem insekter)
 - [ ] 39
 - [x] 40 ($\alpha$-HHV)
 - [x] 41 ($\beta$ og $\gamma$ HHV)

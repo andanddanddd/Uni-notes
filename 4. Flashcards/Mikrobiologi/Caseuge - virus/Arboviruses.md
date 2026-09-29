@@ -20,6 +20,8 @@
 - Hvorfor giver det mening at arbovirus er geografisk låst?:: For den kan sprede sig skal både insekterne og dyrene den der ikke er dead end host flytte sig
 - Hvilke arbevirus er typisk spredt over det største geografiske areal?:: Dem der bruger fugle som hvert
 
+- Hvordan diagnsoticeres arbovirus?:: God resjeannamsese sammen med serologi
+
 ![[Pasted image 20260929094141.png|323]]
 
 ![[Togavirus]]
