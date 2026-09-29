@@ -57,18 +57,20 @@
 #### Stadie 3
 - Hvad sker overordnet i stadie 3 af borrelia?:: B burgdoferi har typisk indfundet sig i et væv og giver symptomer der (men ikke systemisk), typisk enten hud eller led, og i sjældne tilfælde CNS, dvs bakteiren bliver holdt i skak
 - Hvornår sker stadie 3 af borrelia?:: Måneder til år efter flåtbidet
+- Hvilke led påvirkes typisk i stadie 3 af borrelia?:: De store led særligt knæled
 
 ![[Pasted image 20260929101624.png|433]]![[Pasted image 20260929102506.png|375]]
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
-- Hvordan diagnosticeres B. burgdorferi?:: Lumbalpunktur (herefter kig på antistoffer)
+- Hvordan diagnosticeres B. burgdorferi?:: Serologi og anamnese (kræver til tider en lumbalpunktur)
 <!--SR:!2026-10-12,14,290-->
-- Hvornår kan det være 
+- Hvornår kan det være svært at diagnosticere B. burgdorferi og hvorfor?:: I stadie 3, eftersom den er bekæmpet systemisk men stadig giver lokale problemer (det kan fx findes i ledvæske)
+- Hvorfor dyrker man ikke B. burgdorferi?:: Det tager lang tid og spiraler er generalt sværre at genkende
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?
-- Hvordan forebygges B. burgdorferi?:: Være opmærksom på flåter og fjern dem hurtigt
+- Hvordan forebygges B. burgdorferi?:: Være opmærksom på flåter og fjern dem hurtigt (man kan give profylaktisk antibiotika ved flåtbid)
 <!--SR:!2026-10-12,14,290-->
-- Hvordan behandles B. burgdorferi?:: Doxyxyklin
+- Hvordan behandles B. burgdorferi?:: [[Doxycyklin]] (eller [[Ceftriaxon]] hvis det er langt)
 <!--SR:!2026-10-02,3,210-->
