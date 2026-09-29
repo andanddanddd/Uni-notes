@@ -1,4 +1,4 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er pyelonofritis?:: Nyrebækkenbetændelse
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-11-30,62,310-->

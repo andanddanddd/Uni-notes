@@ -18,6 +18,6 @@ mRNA er en damp
 <!--SR:!2026-09-28,4,270-->
 
 - Hvad er forskellen på en nanopartikkel og en viral vektor?:: Virale vektor "stammer" fra en virus, nanopartikkel kan eks være lavet af lipid eller kulhydrat
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-14,15,290-->
 
 ![[Pasted image 20260923134036.png]]

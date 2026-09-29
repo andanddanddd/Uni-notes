@@ -10,11 +10,11 @@
 - Gennem nerver
 - Gennem blodbanen
 - Direkte (ved traumer)
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 - Hvordan kommer patogener oftest ind i CNS?:: Gennem blodbanen
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-14,15,290-->
 - Hvordan kommer patogener igennem [[Blod-hjerne-barrieren]]?:: Nogle kommer igenenm ved [[Plexus chrodeus]] eftersom den er mere løs der andre inficere epitelcellerne deri
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 [[Immunsystemet i hjernen]]

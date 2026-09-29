@@ -11,7 +11,7 @@
 - Hvor mange voksne er smittet med EBV?:: Nærmest alle
 <!--SR:!2026-10-14,16,290-->
 - Hvorfor er det værre at få EBV som teenager end som barn?:: De har et større immunrespons
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvordan diagnosticeres EBV?:: Serologi
 <!--SR:!2026-10-12,14,290-->
 

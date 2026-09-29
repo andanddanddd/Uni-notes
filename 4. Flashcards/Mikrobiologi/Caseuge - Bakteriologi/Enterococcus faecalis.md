@@ -20,7 +20,7 @@
 ?
 - [[Biofilm]]
 - Cytolysin
-<!--SR:!2026-09-28,10,270-->
+<!--SR:!2026-11-06,38,290-->
 
 ## Behandling
 - Hvilken effekt har penicilin på E. faecalis?:: Det er kun bakteriestatisk
@@ -28,6 +28,6 @@
 - Hvordan er E. faecalis resistent mod [[Aminoglykosider]]?:: Den har gjort sin membran impermeabel
 <!--SR:!2026-09-30,16,290-->
 - Hvordan behandles med [[Aminoglykosider]] når E. faecalis egentlig er resistent?:: Det gives sammen med penicilin så membranen ødelægges lidt så Aminoglykosiderne kan trænge igennem
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-01,63,310-->
 - Hvilken nyere antibiotika bruges til behanlding af E. faecalis?:: [[Linezolid]]
 <!--SR:!2026-10-04,10,250-->

@@ -3,7 +3,7 @@
 HSV 1 og 2
 
 - Hvad kendetegner forskellen på HPV-1 og 2?:: De kan give de samme infektioner den ene giver det bare hyppigere end den anden
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 - Hvad kendetegner $\alpha$-HPV?:: De er neurotrope (Inficere neuroner som sekundær infektion)
 <!--SR:!2026-10-12,14,290-->
@@ -12,15 +12,15 @@ HSV 1 og 2
 - Hvorfor smitter [[VZV+]] mere end [[HSV-1+]] og [[HSV-2+]]?:: Den kræver ikke direkte kontakt
 <!--SR:!2026-10-05,10,270-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
 <!--SR:!2026-10-14,16,290-->
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-11,12,270-->
 - Hvornår bliver $\alpha$-HPVs DNA lavet om til et episom?:: I neuroner (hviket deaktivere det)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,15,290-->
 - Hvor i neuronerne ender $\alpha$-HPV?:: [[Soma (neuron)]] (i mange tilfælde vil det være sensoriske ganglier)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,15,290-->
 - Hvad er forskellen på early, og imidiate-early gener?:: Imidiate early laver proteiner der skal bruges til early-generne (DNA-polymerase) derudover bruges imidiate-earlygenerne til at gøre værstcellen mere favorabel for virussen
 <!--SR:!2026-09-26,4,270-->
 - Hvorfor spreder HSV-1/2 sig ikke systemisk?:: De bliver dræbt i blodbanen men kan overleve ved at bevæge sig fra celle til celle
@@ -30,7 +30,7 @@ HSV 1 og 2
 - Hvad bliver transskriberet i latensfasen af VZV?:: VLT
 <!--SR:!2026-10-02,7,250-->
 - Hvor dybt går infektioner med HSV-1/2?:: Typsik kun epidermis
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 
 Neurotrope (inficere neuroner (som sekunldær infektioenr))

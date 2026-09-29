@@ -8,7 +8,7 @@
 - Hvilke del af B. cereus overlever opvarmning?:: Spore
 <!--SR:!2026-11-09,42,290-->
 - Hvad hedder toksinet som giver madforgiftning dannet af B. cereus?:: Cereulid
-<!--SR:!2026-09-29,5,210-->
+<!--SR:!2026-10-15,16,230-->
 - Hvad er inkubationstid og varighed af opkastningsformen af madforgiftning grundet B. cereus?:: Inkubationstid = 15 min til 6 timer og varigheden er under 24 timer
 <!--SR:!2026-11-25,58,310-->
 
@@ -16,5 +16,5 @@
 - Hvordan giver B. cereus diarre? (patofysiologi):: Toksin danner poror i enteeocytter dermed udskilles meget væske
 <!--SR:!2026-10-20,27,290-->
 - Hvad er inkubationstid og varighed af diarreformen af madforgiftning grundet B. cereus?:: Inkubationstid = 8-16 timer og varigheden er under 24 timer
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-26,58,310-->
 

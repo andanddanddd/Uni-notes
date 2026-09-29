@@ -4,7 +4,7 @@
 - Hvilket oxidativt forhold lever C. tetani bedst i?:: Anaerob
 <!--SR:!2026-10-14,16,290-->
 - Hvilken type cellemembran har C. tetani?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvilken form har C. tetani?:: Stav
 <!--SR:!2026-10-14,16,290-->
 - Hvor lever C. tetani normalt?:: Jord, og GI af mennesker
@@ -32,7 +32,7 @@
 - Hvordan forebygges infektion med C. tetani overordnet?:: Vaccine
 <!--SR:!2026-10-13,15,290-->
 - Hvad kendetegner C. tetani vaccinen?:: Toksidvaccine ([[Subunitvacciner]])
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvordan behandles en infektion med C. tetani?:: [[Passiv immunisering]], antitoksin, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)
 <!--SR:!2026-10-12,14,290-->
 

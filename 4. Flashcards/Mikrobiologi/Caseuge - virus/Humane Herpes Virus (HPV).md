@@ -10,7 +10,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 
 
 - Hvilken form har kapslen på HPV?:: Ikosadral
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-11,12,270-->
 - Hvor stor er HPV?:: Stor (150-200 nm)
 <!--SR:!2026-09-27,4,270-->
 - Hvad bruger HPV som arvematriale?:: Linerært dsDNA
@@ -22,7 +22,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Hvordan er infektionsforløbet overordnet af HPV?:: Primær infektion -> replikation -> latens -> reaktivering
 <!--SR:!2026-10-14,16,290-->
 - Hvordan kommer HPV ud af cellen?:: Den får sin lipidmembran i golgi, herfra får den også en vesikel så den kan lave exodytose
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-07,8,250-->
 - Hvor ofte reaktiveres HPV
 - Hvad gør HPV for at undgå immunforsvaret? (6)
 ?
@@ -35,7 +35,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Hvordan behandles HHV overordnet biokemisk?:: Man giver en nukleosidanalog som ikke kan påkoples flere nukleotider og på den måde stopper det DNA-syntese
 <!--SR:!2026-10-10,12,270-->
 - Hvad hedder det mest almindelige antivirale lægemiddel mod HHV?:: Acyclorvir
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-08,9,250-->
 
 ![[Alfaherpesvirus]]
 

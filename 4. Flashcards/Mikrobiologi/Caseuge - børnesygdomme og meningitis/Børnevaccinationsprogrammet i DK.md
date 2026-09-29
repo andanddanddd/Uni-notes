@@ -9,6 +9,6 @@
 - [[Bordetella pertussis+]]
 - [[Haemophilus influenzae type B+]]
 - [[Streptococcus pneumoniae+]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 [[Bordetella pertussis+]]

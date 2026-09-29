@@ -9,7 +9,7 @@ Konjuktioner e rvigtigt så der er en T-celleepitop så der er en T-celle til at
 - Rekombinante vacciner
 - Toksidvacciner
 - Konjugatvacciner
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-11,12,270-->
 
 - Hvorfor kan det være et problem at opregulere de specifikke epitoper som er nemmest at lave adaptiv respons imod?:: Man kan risikere at danne et peptid som ikke kan præsenteres på de specifikke HLA molekyler som et individ har
 <!--SR:!2026-10-24,39,290-->

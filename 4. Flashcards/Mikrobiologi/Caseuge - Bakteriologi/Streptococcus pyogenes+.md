@@ -33,7 +33,7 @@
 <!--SR:!2026-10-23,25,230-->
 
 - Hvilken effekt har det at S. pyogenes har C5a-peptidase?::Der sker mindre inflammation
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-03,65,310-->
 - Hvilken effekt har det at S. pyogenes har hyaluronsyre i sin kapsel?:: Det ligner mere eukaryote celler dermed har komplement sværre ved at se det
 <!--SR:!2026-12-01,64,310-->
 - Hvad gør streptolysin?:: Lysere erytrocytter

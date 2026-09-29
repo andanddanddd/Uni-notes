@@ -20,7 +20,7 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 - Hvorfor skal vanddråben+bakterierne tørre helt fr man kan fiksere dem?:: Ellers risikoere man at der ker aerosoldannelse
 <!--SR:!2026-09-28,4,270-->
 - Hvorfor kan et præperat til tider ligne det både er rødt og blåt?:: Det ændre sin cellevæg gennem sin replikationscyklus
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 ![[Gram-negative bakterier]]
 

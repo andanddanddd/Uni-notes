@@ -2,7 +2,7 @@
 
 
 - Hvad er gingivostomatitis overordnet?:: Infektion med HSV (1/2) i tandkødet, det giver blæner
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-14,15,290-->
 - Hvem er gingivostmatitis farligst for?:: Det er som udgangspunkt bare selvlimiterende men det bliver værre jo ældre man bliver
 <!--SR:!2026-10-12,14,290-->
 - Hvilke symptomer giver den primære infektion af gingivostomatitis oftest?:: Ingen

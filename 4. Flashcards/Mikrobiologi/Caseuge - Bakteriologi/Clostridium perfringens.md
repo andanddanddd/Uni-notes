@@ -10,7 +10,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. perfringes?:: [[Gram-positive bakterier]]
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-11,12,270-->
 - Hvilken form har C. perfringes?:: Stav
 <!--SR:!2026-10-13,15,290-->
 - Hvordan lejres C. perfringes?
@@ -21,7 +21,7 @@
 
 ## Patogenese
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-11-28,60,310-->
 - Hvilke celler inficere C. perfringes?:: Det gør den ikke, den laver kolonier og secenere toksiner
 <!--SR:!2026-10-13,15,290-->
 - Hvilke patogenesefaktorer har C. perfringes?
@@ -50,7 +50,7 @@
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
 <!--SR:!2026-10-03,5,230-->
 - Hvad kendetegner en sårinfektion grundet C. perfringens?::
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
@@ -60,7 +60,7 @@ Hvordan genkendes den?
 - Hvilke resistensmekanismer har C. perfringes?
 - Hvordan forebygges C. perfringes?
 - Hvordan behandles gastroenteritis C. perfringes?:: Det gør det typisk ikke, hvis det gør er det vand + elektrolytter
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 - Hvilken effekt har antibiotika på madforgiftning grundet C. perfringens?:: Ingen
 <!--SR:!2026-11-04,40,290-->

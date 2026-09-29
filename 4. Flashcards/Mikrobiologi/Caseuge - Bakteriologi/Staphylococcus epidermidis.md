@@ -1,12 +1,12 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvordan ses staphylococcus epidermidis på en [[Koagulasetest]]?:: koagulase- (ligesom de fleste adnre staphylcoccer det er kun s. aureus der er koagulase+)
-<!--SR:!2026-09-27,15,290-->
+<!--SR:!2026-11-28,60,310-->
 - Hvor findes s. epidermidis normalt?:: Hud (det er den mest almindelige bakterie på huden)
-<!--SR:!2026-09-26,14,290-->
+<!--SR:!2026-11-23,55,310-->
 - Hvad er staphylococcus epidermidis primære patogenesefaktor?:: Den danner [[Biofilm]]
 <!--SR:!2026-11-23,56,310-->
 - Hvilke infektioner forårsager staphylocoocus epidermidis oftest?:: Alt der indvolvere et fremmeslegeme (kateter, elektroder, venflon, hofter)
 <!--SR:!2026-11-06,43,290-->
 - Hvorfor er s. epidermidis (og andre staphylcoccer) gode til at leve på huden af mennesker?:: De producere lipaser (og andre enzymer)
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-05,67,310-->

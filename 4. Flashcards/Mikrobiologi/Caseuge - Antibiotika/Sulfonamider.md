@@ -7,7 +7,7 @@
 - Hvorfor er sulfonamider selektive overfor bakterier?:: Mennesker skal ikke selv syntetisere folsyre
 <!--SR:!2026-11-29,67,310-->
 - Hvilken del af DNA hæmmes af sulfonamider?:: Pyrimidin-syntesen
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-26,58,310-->
 - Hvad hedder de 2 mest almindelige sulfonamid?:: [[Sulfamethizol]] (kaldes også bare sulfa) og [[Trimethoprim]]
 <!--SR:!2026-10-18,30,270-->
 - Hvordan kan en bakterie blive resistent overfor sulfonamider?:: Den "lærer" at optage folsyre så den ikke selv skal syntetisere det

@@ -5,4 +5,4 @@
 - Hvordan måler urinstiks leukocytter?:: Det måler et esterase-enzym (dvs enzymet spalter stoffet på stixen)
 <!--SR:!2026-09-30,16,290-->
 - Hvorfor kan nitrit tyde på bakteriel infektion?:: Bakterier reducere nitrat til nitrit
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-26,58,310-->

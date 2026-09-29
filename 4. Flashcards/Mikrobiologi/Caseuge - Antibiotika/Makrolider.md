@@ -11,7 +11,7 @@
 - Hvad bruges makrolider typisk til?:: Luftvejsinfektioner
 <!--SR:!2026-10-17,29,270-->
 - Hvad gør makrolider overordnet?:: Stopper proteinsyntese ved at stoppe ribosomet fra at bevæge sig hen langs mRNA
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-11-13,45,290-->
 
 [[Clarithromycin]]
 [[Azithromycin]]

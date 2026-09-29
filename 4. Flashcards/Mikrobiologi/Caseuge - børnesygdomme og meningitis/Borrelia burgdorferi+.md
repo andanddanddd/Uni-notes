@@ -33,4 +33,4 @@ Hvordan genkendes den?
 - Hvordan forebygges B. burgdorferi?:: Være opmærksom på flåter og fjern dem hurtigt
 <!--SR:!2026-10-12,14,290-->
 - Hvordan behandles B. burgdorferi?:: Doxyxyklin
-<!--SR:!2026-09-26,1,190-->
+<!--SR:!2026-10-02,3,210-->

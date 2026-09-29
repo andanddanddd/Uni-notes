@@ -7,7 +7,7 @@
 <!--SR:!2026-10-12,14,290-->
 ## Struktur
 - Har retrovira en lipidmembran?:: Ja
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvilken form har retroviras kapsel?:: Nærmest rund
 <!--SR:!2026-09-26,4,270-->
 - Hvad består retroviras arvematriale af?:: 2 stykker RNA der minder meget om mRNA (den har cap og poly-A-hale)
@@ -23,6 +23,6 @@
 - Hvad koder *pro* for?:: En protease til at kløve *gag* og *pol*
 <!--SR:!2026-09-26,4,270-->
 - Hvad koder *gag* for?:: De strukturelle komponenter (precursers)
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-11,12,270-->
 - Hvad koder *env* for?:: Glykoproteiner (precurser)
 <!--SR:!2026-10-06,8,250-->

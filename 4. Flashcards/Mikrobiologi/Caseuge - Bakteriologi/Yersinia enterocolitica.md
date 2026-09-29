@@ -1,11 +1,11 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken form har Y. enterocolitica?:: Stav
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-26,58,310-->
 - Hvilken type cellevæg har Y. enterocolitica?:: Gram negativ [[Gram-negative bakterier]]
 <!--SR:!2026-10-11,19,250-->
 - I hvilket oxidativt miljø lever Y. enterocolitica?:: Den er fakultativ anaerob
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-11-26,58,310-->
 - Hvordan smitter Y. enterocolitica?:: Zoonose (særligt gennem svin)
 <!--SR:!2026-10-27,33,270-->
 - Hvilken del af tarmen inficere Y. enterocolitica?:: Terminal ileum

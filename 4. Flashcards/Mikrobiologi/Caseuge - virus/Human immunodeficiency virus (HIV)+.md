@@ -4,7 +4,7 @@
 
 ## Struktur
 - Hvilken form har HIVs kapsel?:: Kegleformet
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-13,14,290-->
 - Hvilken funktion har de accessoriske proteiner i HIV?:: Undvige immunforsvaret (der kan ske replikationcykler uden dem derfor er de accessoriske)
 <!--SR:!2026-10-10,12,270-->
 
@@ -12,13 +12,13 @@
 - Hvilke celler inficere HIV?:: Cd4+ [[T-celler]] og [[Monocytter]]
 <!--SR:!2026-10-12,14,290-->
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
 <!--SR:!2026-10-13,15,290-->
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
 <!--SR:!2026-10-12,14,290-->
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvordan kommer HIV ud af celler?:: Budding
 <!--SR:!2026-10-12,14,290-->
 ![[Pasted image 20260921115642.png]]
@@ -32,22 +32,22 @@
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvad gør proteinet VIF?:: Stopper en antiviral komponent der inducere fejl i revers transskribtion
 <!--SR:!2026-09-27,2,190-->
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
-<!--SR:!2026-09-26,1,190-->
+<!--SR:!2026-10-01,2,190-->
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
-<!--SR:!2026-09-27,3,250-->
+<!--SR:!2026-10-01,2,230-->
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP
-<!--SR:!2026-09-26,3,250-->
+<!--SR:!2026-10-07,8,250-->
 - Hvorfor er det svært at lave et godt adaptivt repons mod glykoproteinerne på HIV?:: Der er hypervariable regioner i *env* genet (der laver glykoproteinerne)
 <!--SR:!2026-09-26,4,270-->
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
 <!--SR:!2026-10-13,15,290-->
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn
 <!--SR:!2026-10-14,16,290-->
 - Hvor mange smittetilfælde kommer fra deling af nåle? (i den vestlige verden):: 6%
@@ -57,7 +57,7 @@
 - Sexuel kontakt
 - Nåle
 - Mor til barn (gennem modermælk eller ved fødsel fra cervix)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 ## Symptomer og komplikationer
 - Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]]
@@ -75,12 +75,12 @@
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
 <!--SR:!2026-10-14,16,290-->
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,15,290-->
 ## Diagonstik
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 <!--SR:!2026-10-12,14,290-->
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS
 <!--SR:!2026-09-26,4,270-->
 
@@ -90,7 +90,7 @@
 - Hvordan undgås at HIV smitter i befolkning?:: Generalt undgå risikoadfærd og hvis dem med HIV er i behandling vil de have mindre vira i deres blod (og andre væsker) så de har sværre ved at smitte
 <!--SR:!2026-10-14,16,290-->
 - Hvor længe skal en person med HIV være i behandling?:: Altid (pga latente vira)
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvilket angrebspunkt har de fest behandlinger mod HIV?
 ?
 - Revers transkripase (ofte ved at være en nukleotid der ikke kan forlænges på)

@@ -6,11 +6,11 @@
 - Hvordan er strukturen af influenzavirus arvematriale?:: 8 lineære segmenter (kun 7 ved influenza C)
 <!--SR:!2026-10-12,14,290-->
 - Hvilken form har proteinkapslen på influenzavirus?:: Hver RNA har en helikalligenende kapsel omkring sig
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Har influenzavirus en lipidmembran?:: Ja
 <!--SR:!2026-09-27,4,270-->
 - Hvad hedder influenza 2 typer glykoproteiner?:: Hemaggutinin (HA) og Neuraminidase (NA)
-<!--SR:!2026-09-27,2,230-->
+<!--SR:!2026-10-04,5,230-->
 - Hvilken effekt har M2 proteiner?:: Influx af H+ igennem lipidmembranen hvilket denaturere kapslen så arvematrialet kan komme ud
 <!--SR:!2026-10-13,15,290-->
 
@@ -22,9 +22,9 @@
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
 <!--SR:!2026-10-14,16,290-->
 - Hvilke arter kan influenza D inficere?:: Køer og grise
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-13,14,290-->
 - Hvilke(n) undertype af influenza giver de værste infektioner?:: A (og B)
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-14,15,290-->
 - Hvilken undertype af influenza ses oftest?:: A
 <!--SR:!2026-10-14,16,290-->
 ## Livscyklus
@@ -35,7 +35,7 @@
 - Hvordan kommer influenza ind i cellen?:: Enten ved fusion direkte på cellemembranen eller ved at blive optaget i et endosom og fusionere med den
 <!--SR:!2026-10-12,14,290-->
 - Hvornår slipper influenza ud af endosomet?:: Når pH falder
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvor foregår transskription henne?:: Nucleus
 <!--SR:!2026-10-14,16,290-->
 
@@ -74,7 +74,7 @@
 <!--SR:!2026-10-12,14,290-->
 ## Forebyggelse og behandling
 - Hvordan behandles influenza oftest?:: Symptombehandling
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-15,16,290-->
 - Hvordan forebygges influenza?:: Vacciner
 <!--SR:!2026-10-14,16,290-->
 - Hvordan virker antivirale lægemidler mod influenza?
