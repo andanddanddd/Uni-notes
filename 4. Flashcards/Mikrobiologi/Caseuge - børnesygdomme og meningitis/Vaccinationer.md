@@ -32,7 +32,7 @@
 - Antistoffer der forhindre tilhæftning
 - Opsoiniserende antistoffer
 - Antistoffer til neutralisering af toksiner
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-15,16,290-->
 
 ![[Vaccinetiming]]
 
