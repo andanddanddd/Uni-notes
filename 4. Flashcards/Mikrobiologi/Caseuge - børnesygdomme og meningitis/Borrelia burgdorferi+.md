@@ -17,7 +17,16 @@
 - Hvor hurtigt deler B. burgdorferi sig?:: Hver 8-12 time
 - Hvorfor bliver vi typisk ikke smittet hvis vi fjerner flåten indenfor 24 timer?:: B. burgdorferi skal lave nogle modifikationer hvilket tager tid (fx skal de overleve ved en højere temperatur)
 - Hvordan ændres overfladeproteinerne på B. burgdorferi når den skal inficere pattedyr?:: OspA erstattes med OspC
-- Hvad kendetegner immunresponset mod b. burgdorferi?:: Når først en infektion er etableret er det virkeligt svært for immunforsvaret at fjerne, selv med store koncentrationer af specif
+- Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
+- Hvad kendetegner immunresponset mod b. burgdorferi?:: Når først en infektion er etableret er det virkeligt svært for immunforsvaret at fjerne, selv med store koncentrationer af specifikke antistoffer
+- Hvordan overlever B. burgdorferi immunsystemet?
+?
+- Binder regulatoriske [[Komplementfaktorer]]
+- Bakterien ændre løbende sine overfladeproteiner
+- Inficere områder af kroppen der er temmelig avaskulære og dermed er der mindre immunrespons
+- Den får opbygget en form for immunologisk tolerance (altså hvor immunsystemet tror det er en sød bakterie)
+- Hvordan inducere B. burgdorferi infllamation?:: IKKE igennem LPS, men den har maneg lipoproteienr
+- Hvordan gør B. burgdorferi os syge?:: Primært igennem immunresponset
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med B. burgdorferi
@@ -32,7 +41,7 @@
 - Hvilke komplikationer kan B. burgdorferi give?:
 - I hvilket stadie af borrelia er der flest systemiske komplikation?:: Stadie 2
 #### Stadie 1
-- Hvilke symptomer sker overordnet i stadie 1 af borrelia?:: Rundt udslet (skydeskive)
+- Hvilke symptomer sker overordnet i stadie 1 af borrelia?:: Rundt udslet (skydeskive), derudover kan hovedpine, træthed og general utilpashed forekomme
 - Hvor længe varer stadie 1 af borrelia?:: Par dage til flere uger
 - Hvad kaldes udslettet i stadie 1 af borrelia?:: Erythema migrans
 #### Stadie 2
@@ -55,6 +64,7 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres B. burgdorferi?:: Lumbalpunktur (herefter kig på antistoffer)
 <!--SR:!2026-10-12,14,290-->
+- Hvornår kan det være 
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?
