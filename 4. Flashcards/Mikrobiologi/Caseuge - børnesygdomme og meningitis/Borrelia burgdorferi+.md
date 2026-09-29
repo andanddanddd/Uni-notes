@@ -14,11 +14,15 @@
 - Hvilke patogenesefaktorer har B. burgdorferi?
 - Hvilke næringsstoffer skal B. burgdorferi finde i sne opgivelser? (dem den ikke selv kan lave):: Aminosyrer, fedtsyrer og nukleotider
 - Hvor hurtigt deler B. burgdorferi sig?:: Hver 8-12 time
+- Hvorfor bliver vi typisk ikke smittet hvis vi fjerner flåten indenfor 24 timer?:: B. burgdorferi skal lave nogle modifikationer hvilket tager tid (fx skal de overleve ved en højere temperatur)
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med B. burgdorferi
 - Hvordan smitter B. burgdorferi?:: Gennem flåter
-
+- Hvilket dyr "bor" B. burgdorferi normalt i?:: Mus
+- Hvilke dyr kan mennesker videregi B. burdorferi til?:: Ingen
+- Hvornår på året sker flest flåtbid og hvorofr?:: Forår og sommer (det er der flåter er aktive og der vi er mest udenfor)
+![[Pasted image 20260929103441.png]]
 ## Symptomer og komplikationer
 - Hvilke infektioner giver B. burgdorferi?:: Borrelia
 
