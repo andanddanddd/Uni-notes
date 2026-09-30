@@ -11,4 +11,8 @@
 - Generiske årsager
 - Iskæmi
 
+- Hvilke objektive fund kan leves på en patient med kronisk leversygdom?
+?
+- [[Spider angiomas]]
+
 ![[Pasted image 20260930144054.png]]

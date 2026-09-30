@@ -8,4 +8,13 @@
 - [[Viral hepatitis]]
 - Overdose af lægemidler/euforiserende stoffer/alkohol
 
+- Hvilke symptomer og kliniske fund har akut leversygdom?
+?
+- Træthed
+- [[Icterus]]
+- Nedsat appatit
+- Forstørret lever (hepatomegali)
+- Lys afføring
+- Mørk urin
+
 ![[Pasted image 20260930144115.png]]
