@@ -12,4 +12,4 @@
 
 ![[Diagnostik af leversygdomme]]
 
-![[Hepatitis]]
+![[Viral hepatitis]]

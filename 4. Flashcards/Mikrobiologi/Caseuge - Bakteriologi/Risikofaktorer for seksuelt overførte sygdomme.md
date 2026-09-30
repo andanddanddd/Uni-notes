@@ -29,7 +29,7 @@
 ?
 - [[Syfilis]]
 - [[Human immunodeficiency virus (HIV)+]]
-- [[Hepatitis]] (A,B,C)
+- [[Viral hepatitis]] (A,B,C)
 <!--SR:!2026-10-07,16,290-->
 
 - Hvorfor stiger incidensen af STDer?
