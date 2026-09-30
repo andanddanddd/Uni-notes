@@ -1,5 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
 
+cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
+
 - Hvad kaldes galdesten på latin?:: Cholelithiasis
 - Hvad er risikofaktorer for galdesten?
 ?
