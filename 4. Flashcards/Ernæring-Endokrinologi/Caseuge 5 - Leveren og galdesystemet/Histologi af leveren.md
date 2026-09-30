@@ -12,6 +12,6 @@
 
 ![[Sinussoider (leveren)]]
 
-![[Ito-celler]]
+![[Ito-celler (stelite cells)]]
 
 ![[Pasted image 20260930102922.png]]
