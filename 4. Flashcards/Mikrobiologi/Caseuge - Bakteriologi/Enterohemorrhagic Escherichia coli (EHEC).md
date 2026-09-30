@@ -1,9 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er en typisk komplikation af EHEC?:: [[Hæmolytisk uræmisk syndrom (HUS)]]
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 - Hvilket toksin producere EHEC?:: Et toksin der minder meget om [[Shiga toksin]]
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-03,64,310-->
 - Hvor inficere EHEC?:: Slutningen af colon
 <!--SR:!2026-11-28,60,310-->
 - Hvordan sætter EHEC sig fast til tarmen?:: Ligesom [[Enteropatogene escherichia coli (EPEC)+]] (først sidder lidt fast og derefter meget)

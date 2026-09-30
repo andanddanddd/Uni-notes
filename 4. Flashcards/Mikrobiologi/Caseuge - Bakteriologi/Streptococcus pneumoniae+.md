@@ -5,7 +5,7 @@
 - Hvilken type cellevæg har S. pneumoniae?:: [[Gram-positive bakterier]]
 <!--SR:!2026-10-14,16,290-->
 - Hvilken form har S. pneumoniae?:: Kokker
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvordan lejres S. pneumoniae?:: Diplokok (end to end)
 <!--SR:!2026-10-14,16,290-->
 Normal levested

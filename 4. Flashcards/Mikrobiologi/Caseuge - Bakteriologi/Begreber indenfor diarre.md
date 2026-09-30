@@ -8,7 +8,7 @@
 - Hvad er persisterende diarre?:: Diarre der har varet mellem 7 og 28 dage
 <!--SR:!2026-12-01,63,310-->
 - Hvad er kronisk diarre?:: Diarre i mere end 4 uger
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-05,66,310-->
 - Hvad er samfundserhvervet diarre?:: Diarre, hvis smitte er fra noget i verden, eks mad (dette involvere også rejsereleteret diarre
 <!--SR:!2026-09-30,16,290-->
 - Hvad er nosokomiel diarre?:: Diarre der kommer fra et hospital

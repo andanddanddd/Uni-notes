@@ -4,7 +4,7 @@
 - Hvor findes E. faecalis normalt?:: Tarm og urinveje
 <!--SR:!2026-10-25,32,270-->
 - Hvordan spreder E. faecalis sig?:: Typisk igennem hænder (men det kan også være objekter)
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-04,65,310-->
 - Hvor sker de fleste tilfælde af E. faecalis henne?:: Hospitaler
 <!--SR:!2026-10-15,24,270-->
 - Hvilke infektioner giver enterocuccus faecalis?

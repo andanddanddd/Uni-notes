@@ -43,7 +43,7 @@
 - Hvilken resistensmekanisme har de fleste s. aureus?:: Dannelse af $\beta$-lactamase
 <!--SR:!2026-11-30,63,310-->
 - Hvad kaldes de stammer af s. aureus der er meget resistente?:: [[Methicillin-resistant S aureus (MRSA)]])
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-04,65,310-->
 
 - Hvilken antibiotika kan forhindre toxindannelsen i s. aureus?:: [[Clindamycin]]
 <!--SR:!2026-10-26,32,270-->

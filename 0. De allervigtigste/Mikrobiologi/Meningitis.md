@@ -25,19 +25,19 @@
 <!--SR:!2026-09-30,2,230-->
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvad menes med at kunne sejre sig selv ihjel med vacciner?:: Vi har vaccineret mod de patogener som førhen oftest gav meningitis dvs der er relativt flere af nogle andre patogener men der er bare mange færre totalt
 <!--SR:!2026-10-15,16,290-->
 ## Patogenese
 
 - Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
 <!--SR:!2026-10-10,12,270-->
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren
 <!--SR:!2026-10-15,16,290-->
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvad sker til tider med hjernen når intracranielt tryk stiger?:: [[Inkarcerationer]]
 <!--SR:!2026-10-15,16,290-->
 - Hvilken effekt har [[Blod-hjerne-barrieren]] på hyppighed og sværhedsgrad af meningitis?:: Det beskytter som udgangspunkt mod infektioner i CNS men når der så kommer infektioner deri er det svært at bekæmpe
@@ -61,7 +61,7 @@
 - Proteinkoncentration
 - Glykose
 - Laktat
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-16,16,290-->
 
 - Hvad kendetegner meningitis grundet [[Streptococcus pneumoniae+]]?:: Tidligere eller nuværende infektion med enten [[Otitis media]], [[Sinuitis]] eller [[Pneumoni]], meningitistriade
 <!--SR:!2026-10-15,16,290-->
@@ -96,7 +96,7 @@
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
 <!--SR:!2026-10-13,14,290-->
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor
 <!--SR:!2026-10-15,16,290-->
 - Hvorfor vælger man at behandle med $\beta$-lactamere selvom de ikke går meget igennem [[Blod-hjerne-barrieren]]? (der opnås 6-gange så høje concentrationer i serum end i CSF):: De har et højt [[Terapeutisk index]]

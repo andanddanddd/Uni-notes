@@ -34,7 +34,7 @@
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
 <!--SR:!2026-10-15,16,290-->
 - Hvad gør proteinet VIF?:: Stopper en antiviral komponent der inducere fejl i revers transskribtion
-<!--SR:!2026-09-27,2,190-->
+<!--SR:!2026-10-01,1,170-->
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
 <!--SR:!2026-10-01,2,190-->
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
@@ -82,7 +82,7 @@
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
 <!--SR:!2026-10-15,16,290-->
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-16,16,290-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges vertikal smitte af HIV?:: Hvis moderen er behandlet er der en <2% risiko for at barnet bliver inficeret

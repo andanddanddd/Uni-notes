@@ -2,7 +2,7 @@
 
 
 - Hvad kaldes norovirus også?:: Roskildesyge
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 
 
 ## Struktur

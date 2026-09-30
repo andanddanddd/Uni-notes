@@ -7,9 +7,9 @@
 - Hvor længe varer en EPEC infektion?:: længe men progosen er god
 <!--SR:!2026-09-30,16,290-->
 - Hvilken type gastroenteritis giver EPEC?:: [[Sekretorisk enteritis]]
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-11-13,44,290-->
 - Hvad hedder overfladeproteinet som EPEC sætter ind i enterocytten?:: TIR
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvad hedder proteinet EPEC bruger til at sidde fast til TIR med?:: Intimin
 <!--SR:!2026-10-01,16,290-->
 - Hvorfor giver det diarre at EPEc sætter sig godt fast til enterocytterne?:: Mikrovili bliver skadet i processen så de optager ikke særlig godt

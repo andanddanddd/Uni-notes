@@ -5,4 +5,4 @@
 - [[Motilitetstest]]
 - Vækst på [[MacConkey plade]]r
 - [[Ureasetest]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-16,16,290-->

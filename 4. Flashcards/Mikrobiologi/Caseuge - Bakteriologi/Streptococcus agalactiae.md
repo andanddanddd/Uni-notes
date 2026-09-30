@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes S. agalactiae også?:: Strep B
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-05,66,310-->
 - Hvilken type hemolyse laver S. agalctia på blod-agar-plader?:: $\beta$-hemolyse
 <!--SR:!2026-11-07,43,290-->
 - Hvor lever S. agalactae normalt?:: Nedre fordøjelsessystem og vagina

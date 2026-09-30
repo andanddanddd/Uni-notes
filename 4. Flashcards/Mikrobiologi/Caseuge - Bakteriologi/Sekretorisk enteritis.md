@@ -5,9 +5,9 @@
 - Hvad er inkubationstiden på sekretorisk enterititis?:: 1-3 døgn
 <!--SR:!2026-09-28,14,290-->
 - Hvilke symptomer har sekretorisk enteritis?:: Vandig diarre (uden blod) og høj feber
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 - Eksempel på bakterie der kan give sekretorisk enteritis?:: [[Enteropatogene escherichia coli (EPEC)+]] og [[Enterotoksigene Escherichia coli (ETEC)+]]
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvilken del af tarmen bliver påvirker af sekretorisk enteritis?:: Typisk tyndtarmen
 <!--SR:!2026-11-29,61,310-->
 - Hvordan behandles sekretorisk enteritis typisk?:: Væske, antibiotika er sjældent nødvendigt
