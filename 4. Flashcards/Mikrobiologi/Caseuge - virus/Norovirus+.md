@@ -17,6 +17,7 @@
 <!--SR:!2026-10-04,4,270-->
 ## Smitte og epidemiologi
 - Hvornår på året ses flest norovirus-tilfælde?:: Vinter
+<!--SR:!2026-10-04,4,270-->
 - Hvor "lever" norovirus normalt
 - Hvordan smitter norovirus?:: Fæcal-oralt mellem mennesker, men de kan også overleve i mad og vand, de kan dermed smitte derigennem
 <!--SR:!2026-12-06,67,310-->
@@ -42,6 +43,7 @@
 <!--SR:!2026-10-04,4,270-->
 ## Diagonstik
 - Hvordan diagnosticeres norovirus?:: RT-PCR af fæcesprøver (den detektere RNA)
+<!--SR:!2026-10-04,4,270-->
 
 ## Forebyggelse og behandling
 - Hvorfor kan man blive inficere med norovirus flere gange?:: Der er mange variation og vores respons forsvinder (man kan blive inficeret med den samme norovirus efter 2-3 pr)

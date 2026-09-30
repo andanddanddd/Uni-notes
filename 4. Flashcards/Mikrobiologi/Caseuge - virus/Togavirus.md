@@ -19,6 +19,7 @@
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver togavirus overordnet?:: Enten [[Encephalitis]] eller et udslet og [[Artritis]] (afhængigt af subtypen)
+<!--SR:!2026-10-04,4,270-->
 
 ## Diagonstik
 

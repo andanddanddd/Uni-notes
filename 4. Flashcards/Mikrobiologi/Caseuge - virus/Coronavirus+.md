@@ -27,6 +27,7 @@
 - Hvor lever $\delta$ og $\gamma$ coronavirus normalt?:: Fugle
 - I hvilket dyr bor flest forskellige coronavirus og hvorfor?:: Flagermuse, det ligner ikke de bliver syge af det
 - Hvordan smitter coronavirus?:: Dråber eller aerosoler
+<!--SR:!2026-10-04,4,270-->
 - Hvad hedder de 3 nyeste epidemier forårsaget af coronavirus?
 ?
 - [[SARS]]

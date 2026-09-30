@@ -1,4 +1,4 @@
-#flashcards/5/Mikrobiologi 
+#flashcards/3/Immunologi 
 
 - Hvad kaldes den tunge kæde i IgM?:: μ
 - Hvad er halveringstiden af IgM?:: 5-6 dage

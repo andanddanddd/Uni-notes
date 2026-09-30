@@ -40,6 +40,7 @@
 
 - Hvilke komplikationer kan B. burgdorferi give?:
 - I hvilket stadie af borrelia er der flest systemiske komplikation?:: Stadie 2
+<!--SR:!2026-10-04,4,270-->
 #### Stadie 1
 - Hvilke symptomer sker overordnet i stadie 1 af borrelia?:: Rundt udslet (skydeskive), derudover kan hovedpine, træthed og general utilpashed forekomme
 <!--SR:!2026-10-04,4,270-->
