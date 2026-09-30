@@ -1,4 +1,5 @@
 #flashcards/5/Fordøjelsesstsremet-II 
 
 - Hvad er steatorre?:: Fedt i afføring
-- EKsempel på hvornår staetorre ses?:: Ved [[Kronisk leversygdom]]
+- Eksempel på hvornår staetorre ses?:: Ved [[Kronisk leversygdom]]
+- Hvorfor kan kronisk leversygdom give steatorrhea?:: Fedt bliver ikke optaget grundet manglende [[Galdesalte]]

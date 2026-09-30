@@ -30,5 +30,7 @@
 - Ødemer
 - Blå mærker
 
+- Hvorfor kan kronisk leversygdom give ødemer?:: Nedsat osmolaritet grundet færre proteiner
+- Hvorfor kan kronsik leversygdom give mange blå mærker?:: Manglende syntese af "klotting factors"
 
 ![[Pasted image 20260930144054.png]]
