@@ -9,6 +9,6 @@
 - Hvordan sætter EHEC sig fast til tarmen?:: Ligesom [[Enteropatogene escherichia coli (EPEC)+]] (først sidder lidt fast og derefter meget)
 <!--SR:!2026-12-01,63,310-->
 - Hvordan behandles EHEC?:: KUN væsker og elektrolytter IKKE antibiotika
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-03,64,310-->
 - Hvorfor giver man ikke antibiotika til EHEC?:: Det øger risikoen for [[Hæmolytisk uræmisk syndrom (HUS)]]
 <!--SR:!2026-12-01,63,310-->

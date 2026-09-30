@@ -5,7 +5,7 @@
 - Hvor lever staphylcoccus aureus normalt?:: Den er i næseborene på 30-40% af mennesker
 <!--SR:!2026-11-22,55,310-->
 - Hvad betyder "aureus" og hvorfor har den fået det navn?:: Gylden, eftersom kolonierne oftest er guldfarvetish (de kan også være hvide)
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-04,65,310-->
 
 - Hvilke patogenesefaktorer har staphylcoccus aurius?
 ?

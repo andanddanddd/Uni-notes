@@ -12,7 +12,7 @@
 - Hvad er samfundserhvervet diarre?:: Diarre, hvis smitte er fra noget i verden, eks mad (dette involvere også rejsereleteret diarre
 <!--SR:!2026-12-04,65,310-->
 - Hvad er nosokomiel diarre?:: Diarre der kommer fra et hospital
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 - Hvad betyder det at diarre er selvlimiterende?:: Det kræver ikke behandling
 <!--SR:!2026-12-01,63,310-->
 - Hvad er dysenteri?:: Hyppige afføringer (mere end 30 på en dag)

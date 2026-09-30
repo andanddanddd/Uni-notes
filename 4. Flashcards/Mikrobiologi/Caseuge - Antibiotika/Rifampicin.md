@@ -3,7 +3,7 @@
 - Hvad gør rifampicin overordnet?:: Stopper mRNA syntese
 <!--SR:!2026-12-04,65,310-->
 - Hvad er rifampicins målstruktur?:: DNAet hvor RNA-polymerase skal bindes
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-05,66,310-->
 - Hvad bruges rifampicin til?:: [[Tuberculose]]
 <!--SR:!2026-10-05,5,230-->
 - Hvordan opnår bakterier resistens mod rifampicin?:: Mutationer ved bindingstedet

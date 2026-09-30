@@ -6,7 +6,7 @@
 <!--SR:!2026-10-04,5,230-->
 - Hvordan lejres C. diphtheriae?:: "Kinesiske skriftstegn" ![[Pasted image 20260921142601.png]]
 <!--SR:!2026-10-14,16,290-->
-- Hvor lever C. diphtheriae normalt?::
+- Hvor lever C. diphtheriae normalt?
 <!--SR:!2026-09-28,4,270-->
 - Hvilket oxidativt miljø lever C. diphtheriae bedst i?:: Anaerobt
 <!--SR:!2026-10-10,12,270-->

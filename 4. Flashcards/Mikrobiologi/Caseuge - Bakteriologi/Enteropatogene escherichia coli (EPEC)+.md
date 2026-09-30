@@ -5,7 +5,7 @@
 - Hvad gør EPEC overordnet i tyndtarmen?:: Sætter sig løst på enterocytter, injicere et overfladeprotein (TIR) ind i cellen hvilket dræber mikrovili og tillader EPEC at sidde bedre fast
 <!--SR:!2026-10-01,16,290-->
 - Hvor længe varer en EPEC infektion?:: længe men progosen er god
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-05,66,310-->
 - Hvilken type gastroenteritis giver EPEC?:: [[Sekretorisk enteritis]]
 <!--SR:!2026-11-13,44,290-->
 - Hvad hedder overfladeproteinet som EPEC sætter ind i enterocytten?:: TIR

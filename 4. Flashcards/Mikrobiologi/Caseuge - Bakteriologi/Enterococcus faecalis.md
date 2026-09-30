@@ -14,7 +14,7 @@
 - Endocarditis
 - Intra-abdominale abscesser
 - [[Bacterieæmi]]
-<!--SR:!2026-09-30,12,270-->
+<!--SR:!2026-10-31,31,270-->
 
 - Hvilke patogenesefaktorer har E. faecalis?
 ?
@@ -26,7 +26,7 @@
 - Hvilken effekt har penicilin på E. faecalis?:: Det er kun bakteriestatisk
 <!--SR:!2026-11-02,39,290-->
 - Hvordan er E. faecalis resistent mod [[Aminoglykosider]]?:: Den har gjort sin membran impermeabel
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 - Hvordan behandles med [[Aminoglykosider]] når E. faecalis egentlig er resistent?:: Det gives sammen med penicilin så membranen ødelægges lidt så Aminoglykosiderne kan trænge igennem
 <!--SR:!2026-12-01,63,310-->
 - Hvilken nyere antibiotika bruges til behanlding af E. faecalis?:: [[Linezolid]]

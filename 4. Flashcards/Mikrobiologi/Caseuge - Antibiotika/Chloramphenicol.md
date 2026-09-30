@@ -11,4 +11,4 @@
 - Hvor bruges der meget chloramphenicol henne?:: Asien
 <!--SR:!2026-11-24,57,310-->
 - Hvorfor bruges der ikke meget chloramphenicol i Europa?:: 1/5000 kaukasiske mennesker får knoglemarvstoksisitet (ved systematisk brug ikke øjendråber)
-<!--SR:!2026-09-28,14,290-->
+<!--SR:!2026-11-11,42,290-->

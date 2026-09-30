@@ -16,7 +16,7 @@
 <!--SR:!2026-10-06,15,290-->
 
 - Hvad kaldes en clamydia når den er ekstracellulær?:: Elementarlegeme
-<!--SR:!2026-09-29,7,250-->
+<!--SR:!2026-10-18,18,250-->
 - Hvad kaldes en clamydia når den er intracellulær?:: Retikulærlegeme'
 <!--SR:!2026-10-07,16,290-->
 - Hvad er forskellen på elementarlegeme og retikularlegeme?:: Retikularlegemet har et mere løst kromosom så der kan ske traskribtion/DNA-replikation, elementarlegemet har krydsbundet nogle proteiner i sin membran der gør den mere osmotisk stabil og muliggør fastgørelse til en ny epitelcelle

@@ -9,6 +9,6 @@
 - Hvordan smitter Y. enterocolitica?:: Zoonose (særligt gennem svin)
 <!--SR:!2026-10-27,33,270-->
 - Hvilken del af tarmen inficere Y. enterocolitica?:: Terminal ileum
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvad er inkubationstiden af Y. enterocolitica?:: 4-6 dage
 <!--SR:!2026-11-01,32,270-->

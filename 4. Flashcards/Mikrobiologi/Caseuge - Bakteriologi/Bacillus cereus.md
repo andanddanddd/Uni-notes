@@ -4,7 +4,7 @@
 <!--SR:!2026-12-05,66,310-->
 ## Opkastningsformen
 - Hvad kaldes opkastningsformen af madforgiftning grundet B. cereus?:: Fried rice syndrom
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvilke del af B. cereus overlever opvarmning?:: Spore
 <!--SR:!2026-11-09,42,290-->
 - Hvad hedder toksinet som giver madforgiftning dannet af B. cereus?:: Cereulid

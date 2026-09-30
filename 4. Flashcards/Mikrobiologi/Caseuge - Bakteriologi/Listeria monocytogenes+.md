@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken form har L. monocytogenes?:: Stav
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvilken type cellevæg har L. monocytogenes?:: Gram-positiv ([[Gram-positive bakterier]])
 <!--SR:!2026-11-05,41,290-->
 - Hvornår er L. monocytogenes bevægelig?:: Ved 25 grader

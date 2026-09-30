@@ -9,4 +9,4 @@
 - Hvornår er der flest campylobactertilfælde og hvorfor? (i DK):: Om sommeren da det er der der er flest fugle
 <!--SR:!2026-12-02,63,310-->
 - Hvad kaldes smittevejen fra dyr til mennesker?:: zoonose
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->

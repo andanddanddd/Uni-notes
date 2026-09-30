@@ -22,7 +22,7 @@ HSV 1 og 2
 - Hvor i neuronerne ender $\alpha$-HPV?:: [[Soma (neuron)]] (i mange tilfælde vil det være sensoriske ganglier)
 <!--SR:!2026-10-14,15,290-->
 - Hvad er forskellen på early, og imidiate-early gener?:: Imidiate early laver proteiner der skal bruges til early-generne (DNA-polymerase) derudover bruges imidiate-earlygenerne til at gøre værstcellen mere favorabel for virussen
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvorfor spreder HSV-1/2 sig ikke systemisk?:: De bliver dræbt i blodbanen men kan overleve ved at bevæge sig fra celle til celle
 <!--SR:!2026-10-14,16,290-->
 - Hvad bliver transskriberet i latensfsaen af HSV-1/2?:: Latency associated transcript (LAT)
