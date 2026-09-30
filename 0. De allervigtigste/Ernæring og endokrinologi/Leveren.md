@@ -13,3 +13,5 @@
 ![[Porta hepatis]]
 
 ![[Histologi af leveren]]
+
+![[Leverens funktioner]]

@@ -4,3 +4,5 @@
 ?
 - [[V. portae]]
 - [[A. hepatica propria]]
+
+- Hvor blandes blandes blodet fra de 2 kar der giver blod til leveren?:: [[Sinussoider (leveren)]]
