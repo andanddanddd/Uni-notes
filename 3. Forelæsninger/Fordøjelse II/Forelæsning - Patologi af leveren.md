@@ -9,3 +9,7 @@
 ![[Leveren]]
 
 ![[Leversygdomme]]
+
+![[Diagnostik af leversygdomme]]
+
+![[Hepatitis]]

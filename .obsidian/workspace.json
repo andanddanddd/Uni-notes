@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leversygdomme.md",
+                "file": "Hepatitis C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leversygdomme"
+              "title": "Hepatitis C"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "Slides - patologi af leveren"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,11 +257,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f09a431f78ca061f",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Hepatitis C.md",
+    "Hepatitis.md",
+    "Hepatitis B.md",
+    "Hepatitis A.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
+    "Diagnostik af leversygdomme.md",
     "Leversygdomme.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "1. Fag/Ernæring og fordøjelsesystemet II.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Histologi af leveren.md",
@@ -286,10 +290,6 @@
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patofysiologi af tarmkræft.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Adenovirus.md",
     "Billeder/Mikrobiologi/Pasted image 20260928103239.png",
     "3. Forelæsninger/Fordøjelse II",
     "Billeder/Mikrobiologi/Pasted image 20260929103441.png",
