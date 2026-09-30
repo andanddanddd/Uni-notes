@@ -3,7 +3,7 @@
 - Hvilken type cellevæg har salmonella?:: Gram negativ
 <!--SR:!2026-09-30,16,290-->
 - Hvilken form har salmonella?:: Stav
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-04,65,310-->
 - Hvor bevægelig er salmonella?:: Bevægelig
 <!--SR:!2026-11-07,44,290-->
 - Hvordan overlever salmonella mavesyre?:: Det gør den slet heller ikke altid, den er mere syresensitiv end [[Shigella]], derfor er PPI en risikofaktor for salmonella ellers skal der virkelig mange bakterier til før der sker en infektion (dvs der skal mange til før nok af dem kommer igennem mavesyren)

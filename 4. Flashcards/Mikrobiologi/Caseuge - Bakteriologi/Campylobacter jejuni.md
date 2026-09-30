@@ -5,8 +5,8 @@
 - Hvordan er bevægeligheden af campylobacter?:: God (den har flageller)
 <!--SR:!2026-10-26,32,270-->
 - Hvordan smitter campylobacter?:: Primært gennem fjerkræ (dvs hvis en fugl skider på en bær og det ikke skyldes ordenligt kan det fx og smitte derigennem)
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-03,64,310-->
 - Hvornår er der flest campylobactertilfælde og hvorfor? (i DK):: Om sommeren da det er der der er flest fugle
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvad kaldes smittevejen fra dyr til mennesker?:: zoonose
 <!--SR:!2026-09-30,16,290-->

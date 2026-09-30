@@ -56,7 +56,7 @@
 - Hvilken lokal komplikation har pharyngitis forårsaget af S. pyogenes?:: [[Peritonsilære abscesser]]
 <!--SR:!2026-11-22,55,310-->
 - Hvem får oftest pharyngitis forårsaget af S. pyogenes?:: Skolebørn (5-15 år)
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-11-30,63,310-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde

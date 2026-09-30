@@ -3,7 +3,7 @@
 
 
 - Hvilken sygdom giver EBV hvis man ikke smittes som barn?:: [[Mononukleose]]
-<!--SR:!2026-09-27,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvilke celler inficere EBV?:: [[B-celler]] og epitelceller
 <!--SR:!2026-10-12,14,290-->
 - Hvorfor bliver teeangere syge med EBV?:: Det er der de begynder at dele spyt igen (dvs dem der ikke fik den dom lille får den der)

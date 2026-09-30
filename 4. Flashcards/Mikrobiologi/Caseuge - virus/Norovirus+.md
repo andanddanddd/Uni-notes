@@ -18,7 +18,7 @@
 - Hvornår på året ses flest norovirus-tilfælde?:: Vinter
 - Hvor "lever" norovirus normalt
 - Hvordan smitter norovirus?:: Fæcal-oralt mellem mennesker, men de kan også overleve i mad og vand, de kan dermed smitte derigennem
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 - Hvor "normal" er norovirus(hvor ofte giver den sygdomme)?:: Det er den mest almindelige virale årsag til diarre i voksne (2. mest i børn)
 - Hvilken genetisk "tilstand" giver resistens mod nogle norovirus?:: Blodtype O
 

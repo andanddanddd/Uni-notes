@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fag/Ernæring og fordøjelsesystemet II.md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ernæring og fordøjelsesystemet II"
+              "title": "Forelæsning - Billeddiagnostik af fordøjelsesystemet"
             }
           },
           {
@@ -257,11 +257,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f06530c8b8b4b400",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
+    "Externe dokumenter/Fordøjelse II",
+    "4. Flashcards/Fordøjelse II",
+    "1. Fag/Ernæring og fordøjelsesystemet II.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Mave-tarm blødninger.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malnutrition).md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion).md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patofysiologi af tarmkræft.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Adenovirus.md",
     "Billeder/Mikrobiologi/Pasted image 20260928103239.png",
-    "1. Fag/Ernæring og fordøjelsesystemet II.md",
     "3. Forelæsninger/Fordøjelse II",
     "4. Flashcards/Nervesystemet og sanserne/Patologiske tilstande i nerveystemets embryologi.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Humane Herpes Virus (HPV).md",
@@ -277,23 +291,10 @@
     "2. Caseuger/MIkrobiologi/Caseuge - Virus.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/HPV.md",
     "4. Flashcards/Mikrobiologi/Caseuge - virus/Humane Herpes Virus (HHV).md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Arboviruses.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Togavirus.md",
     "Billeder/Mikrobiologi/Pasted image 20260929095052.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Buniavirus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Flavivirus.md",
     "Billeder/Mikrobiologi/Pasted image 20260929094141.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Respiratory sunctial virus (RSV)+.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - børnesygdomme og meningitis/Morbillivirus+.md",
-    "2. Caseuger/MIkrobiologi/Caseuge - Børnesygdomme og Meningitis.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Børnesygdomme og Meningitis/Forelæsning - Bakterier der vaccineres imod.md",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Virus struktur, genetik og klassifikation.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Virus livscyklus.md",
     "Billeder/Mikrobiologi/Pasted image 20260928140144.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Virus genom.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Virus/Forelæsning - Influenza virus.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - virus/Rotavirus+.md",
     "Billeder/Mikrobiologi/Pasted image 20260928121816.png",
     "Billeder/Mikrobiologi/Pasted image 20260928103415.png",
     "Billeder/Mikrobiologi/Pasted image 20260925081858.png",
@@ -303,8 +304,6 @@
     "Externe dokumenter/MIkrobiologi/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/mso3AB1.tmp",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakteriel meningitis 5. semester.pdf",
-    "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Vaccinationsimmunologi.pdf",
     "Untitled.canvas"
   ]
 }
