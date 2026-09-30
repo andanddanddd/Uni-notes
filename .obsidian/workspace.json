@@ -67,7 +67,8 @@
               "title": "Slides - patologi af leveren"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,17 +258,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "f09a431f78ca061f",
   "lastOpenFiles": [
+    "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Hepatitis C.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
+    "0. De allervigtigste/Ernæring og endokrinologi/Leveren.md",
     "Hepatitis.md",
     "Hepatitis B.md",
     "Hepatitis A.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
     "Diagnostik af leversygdomme.md",
     "Leversygdomme.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
-    "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "1. Fag/Ernæring og fordøjelsesystemet II.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Histologi af leveren.md",
     "Pasted image 20260930102922.png",
@@ -288,8 +290,6 @@
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malnutrition).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion).md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "Billeder/Mikrobiologi/Pasted image 20260928103239.png",
     "3. Forelæsninger/Fordøjelse II",
     "Billeder/Mikrobiologi/Pasted image 20260929103441.png",
