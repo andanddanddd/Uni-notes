@@ -11,8 +11,24 @@
 - Generiske årsager
 - Iskæmi
 
+- Hvilke symptomer har kronisk leversygdom, (og hvilke egentlige objektive ting kan en pt have lagt mærke til)?
+?
+- Kløe
+- Blodig opkast
+- General svaghed
+- (blå mærker)
+- ([[Spider angiomas]])
+- ([[Gynaecomasti]])
+- ([[Ascites]])
+
 - Hvilke objektive fund kan leves på en patient med kronisk leversygdom?
 ?
 - [[Spider angiomas]]
+- [[Gynaecomasti]]
+- [[Ascites]]
+- [[Steatorré]]
+- Ødemer
+- Blå mærker
+
 
 ![[Pasted image 20260930144054.png]]
