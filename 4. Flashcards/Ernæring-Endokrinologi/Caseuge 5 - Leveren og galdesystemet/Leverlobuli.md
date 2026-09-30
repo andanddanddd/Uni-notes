@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
 
 - Hvad er diameteren af en leverlobuli?:: 1 mm
 - Hvor lang er en leverlobuli?:: 2 mm

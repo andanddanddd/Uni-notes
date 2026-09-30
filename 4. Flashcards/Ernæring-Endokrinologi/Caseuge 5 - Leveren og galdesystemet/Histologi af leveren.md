@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
 
 - Hvad kaldes leverceller?:: [[Hepatocytter]]
 - Hvad kaldes bindevævet om leveren?:: [[Glissons kapsel]]
@@ -13,3 +13,5 @@
 ![[Sinussoider (leveren)]]
 
 ![[Ito-celler]]
+
+![[Pasted image 20260930102922.png]]
