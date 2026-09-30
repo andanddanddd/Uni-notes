@@ -9,7 +9,7 @@
 - Har retrovira en lipidmembran?:: Ja
 <!--SR:!2026-10-15,16,290-->
 - Hvilken form har retroviras kapsel?:: Nærmest rund
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvad består retroviras arvematriale af?:: 2 stykker RNA der minder meget om mRNA (den har cap og poly-A-hale)
 <!--SR:!2026-10-13,15,290-->
 

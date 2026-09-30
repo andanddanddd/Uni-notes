@@ -19,7 +19,7 @@
 ?
 - M-protein binder til keratinocytter
 - Hyalyrosyren i kapslen får bakterien til at ligne humane celler så den kan binde til visse adhæsionsproteiner (CD44)
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-06,67,310-->
 
 - Hvilke patogenesefaktorer har stretococcus pyogenes?
 ?
@@ -60,7 +60,7 @@
 - Hvad kaldes tilstanden når S. pyogenes trænger i gennem alle hudens lag, fascia og muskler?:: [[Nekrotisrende fasciitis]]
 <!--SR:!2026-11-30,63,310-->
 - Hvordan kommer streptococcus pyogenes igennem huden?:: Den skal være brudt på den ene eller anden måde
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 
 ## Behandling
 - Hvordan behandles pharyngitis forårsaget af S. pyogenes?:: [[Penicilin]] (PO)

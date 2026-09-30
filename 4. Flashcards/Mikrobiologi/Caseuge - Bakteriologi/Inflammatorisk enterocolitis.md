@@ -5,7 +5,7 @@
 - Hvad er inkubationstiden på inflammatorisk enterocolitis?:: 1-7 døgn
 <!--SR:!2026-10-01,16,290-->
 - Hvilken del af mave-tarm-kanalen bliver påvirket af inflammatorisk enterocolitis?:: Typisk colon
-<!--SR:!2026-09-29,15,290-->
+<!--SR:!2026-12-02,63,310-->
 - Hvordan behandles inflammatorisk enterocolitis typisk?:: Væskebehandling er typisk ikke nok så der skal gives antibiotika
 <!--SR:!2026-12-01,63,310-->
 - Hvilke symptomer har inflammatorisk enterocolitis?

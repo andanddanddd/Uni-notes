@@ -18,7 +18,7 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 - Hvorfor må man ikke blande bakterierne og vand for godt sammen når man laver gram-farvning?:: Det ødelægger lejring
 <!--SR:!2026-10-13,15,290-->
 - Hvorfor skal vanddråben+bakterierne tørre helt fr man kan fiksere dem?:: Ellers risikoere man at der ker aerosoldannelse
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-16,16,290-->
 - Hvorfor kan et præperat til tider ligne det både er rødt og blåt?:: Det ændre sin cellevæg gennem sin replikationscyklus
 <!--SR:!2026-10-15,16,290-->
 
