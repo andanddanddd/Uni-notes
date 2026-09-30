@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
 
 ![[Anatomi af pancreas]]
 

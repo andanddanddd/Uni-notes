@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdesten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Patologi af bugspytkirtlet og galdeblæren"
+              "title": "Galdesten"
             }
           }
         ]
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -256,8 +257,13 @@
   },
   "active": "f09a431f78ca061f",
   "lastOpenFiles": [
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdesten.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Pancreas.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ductus cysticus.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdeblæren.md",
     "1. Fag/Ernæring og fordøjelsesystemet II.md",
     "Externe dokumenter/Fordøjelse II/mso21A1.tmp",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
@@ -284,10 +290,6 @@
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
     "Externe dokumenter/Fordøjelse II",
     "4. Flashcards/Fordøjelse II",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Mave-tarm blødninger.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malnutrition).md",
     "Billeder/Mikrobiologi/Pasted image 20260928103239.png",
     "3. Forelæsninger/Fordøjelse II",
     "Billeder/Mikrobiologi/Pasted image 20260929103441.png",
