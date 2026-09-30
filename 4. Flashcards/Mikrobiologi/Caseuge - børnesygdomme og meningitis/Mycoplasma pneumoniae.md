@@ -17,6 +17,7 @@
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med M. pneumoniae:: De forekommer læbende med en lille epidemi ca hver 4 år
+<!--SR:!2026-10-03,3,250-->
 - Hvordan smitter M. pneumoniae?
 
 ## Symptomer og komplikationer

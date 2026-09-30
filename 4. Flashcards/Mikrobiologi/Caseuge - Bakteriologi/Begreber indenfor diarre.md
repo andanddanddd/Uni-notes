@@ -2,7 +2,7 @@
 
 
 - Hvad er diarre?:: 3 eller mere vandtynde afføringer pr døgn
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-04,65,310-->
 - Hvad er akut diarre?:: Diarre der har varet mindre end en uge
 <!--SR:!2026-11-24,57,310-->
 - Hvad er persisterende diarre?:: Diarre der har varet mellem 7 og 28 dage

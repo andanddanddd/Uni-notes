@@ -42,7 +42,7 @@
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP
 <!--SR:!2026-10-07,8,250-->
 - Hvorfor er det svært at lave et godt adaptivt repons mod glykoproteinerne på HIV?:: Der er hypervariable regioner i *env* genet (der laver glykoproteinerne)
-<!--SR:!2026-09-26,4,270-->
+<!--SR:!2026-10-16,16,290-->
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
 <!--SR:!2026-10-13,15,290-->

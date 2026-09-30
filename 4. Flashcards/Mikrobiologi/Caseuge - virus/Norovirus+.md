@@ -14,6 +14,7 @@
 - Hvilke celler inficere norovirus
 - Hvordan kommer vnoroviruslen? (mekanisme)
 - Hvor sker replikation og transskription af norovirus?:: Cytoplasma
+<!--SR:!2026-10-04,4,270-->
 ## Smitte og epidemiologi
 - Hvornår på året ses flest norovirus-tilfælde?:: Vinter
 - Hvor "lever" norovirus normalt
@@ -38,6 +39,7 @@
 - (evt let feber, hovedpine og muskelsmerter)
 <!--SR:!2026-09-30,16,290-->
 - Hvad kendetegner afføringen af en noroviruspatient?:: Den er ikke blodig
+<!--SR:!2026-10-04,4,270-->
 ## Diagonstik
 - Hvordan diagnosticeres norovirus?:: RT-PCR af fæcesprøver (den detektere RNA)
 

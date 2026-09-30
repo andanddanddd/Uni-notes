@@ -7,7 +7,7 @@
 - Hvilken test laves for at identificere staphylcoccerne fra hinanden?:: [[Koagulasetest]]
 <!--SR:!2026-12-03,66,310-->
 - Hvilken staphylcoc er koagulase+?:: [[Staphylococcus aureus+]]
-<!--SR:!2026-09-28,16,290-->
+<!--SR:!2026-12-03,64,310-->
 - Hvilke(n) staphylcoc er koagulase-?:: [[Staphylococcus epidermidis]] og [[Staphylococcus saprophyticus]]
 <!--SR:!2026-11-25,58,310-->
 - Hvordan er lejringen af staphylcoccer?:: Klaser (ligner vindruer)
@@ -21,7 +21,7 @@
 - Hvordan kommer staphylcoccer ned i dybere hudlag?:: De kan kun komme derned hvis der er åbent dertil  fx ved forbræninger eller sår
 <!--SR:!2026-12-01,63,310-->
 - Hvad findes udenpå kapslen af staphylcoccer?:: Slim
-<!--SR:!2026-09-26,14,290-->
+<!--SR:!2026-11-26,57,310-->
 
 
 ![[Staphylococcus aureus+]]

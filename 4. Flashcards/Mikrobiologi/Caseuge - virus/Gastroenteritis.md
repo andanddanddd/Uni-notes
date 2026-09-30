@@ -7,4 +7,4 @@
 - [[Præformeret toksin (gastroenteritis)]]
 - [[Sekretorisk enteritis]]
 - [[Inflammatorisk enterocolitis]]
-<!--SR:!2026-09-30,16,290-->
+<!--SR:!2026-12-04,65,310-->

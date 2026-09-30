@@ -17,7 +17,7 @@ Celler inficeret
 - Kapsel
 - [[Pneumolysin]]
 - IgA-protease
-<!--SR:!2026-09-30,2,250-->
+<!--SR:!2026-10-05,5,250-->
 
 ## Smitte og epidimologi
 Tendens
@@ -49,7 +49,9 @@ Tendens
 - Hvorfor er der få neutrofile granulocytter i den serøse fase af pneumoni grundet s. pneumoniae?:: De bliver dræbt af [[Pneumolysin]]
 ###### Røde hepatisationsstadium
 - Hvor længe varer det røde hepatisationsstadium af pneumoni grundet s. pneumoniae?:: ca 3 dage (dag 2-4)
+<!--SR:!2026-10-04,4,270-->
 - Hvad kendetegner det røde hepatisationsstadium?:: Blodfyldt sekret, mange neutrofile granulocytter men få bakterier
+<!--SR:!2026-10-04,4,270-->
 ###### Grå hepatisationsstadium
 - Hvor længe varer det grå hepatisationsstadium af pneumoni grundet s. pneumoniae?:: ca 4 dage (dag 4-8)
 - Hvad kendetegner det grå hepatisationsstadium?:: MANGE neutrofile granulocytter i alveolerne

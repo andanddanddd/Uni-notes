@@ -9,10 +9,12 @@
 - Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter morbilli virus?:: Aerosoler
+<!--SR:!2026-10-03,3,250-->
 - Hvilke celler inficere morbillivirus?:: Epitelceller i luftvejene i starten herfra spreder det sig gennem blodbanen
 - Hvordan kommer morbilli virus ind i cellen?
 
 - Hvilket protein bruger morbilivirus til at binde til vores celler?:: Hemaglutin
+<!--SR:!2026-10-01,1,230-->
 - Hvilke funktioner har F-protein?
 ?
 - Membranfusion
@@ -24,6 +26,7 @@
 ## Symptomer og komplikationer
 - Hvad er inkubationstiden af morbillivirus?:: 10-14 dage
 - Hvorfor er inkubationstiden af morbillivirus så lang?:: Efter den har inficeret luftvejsepitelet spreder den sig i blodet, herefter går der et par dage til der igen ses store mængder virus i blodet, først anden gang der er virus i blodet kommer symptomerne
+<!--SR:!2026-10-04,4,270-->
 - Hvordan gør morbillivirus os syge?:: Det dræber epitelceller men mange af symptomerne kommer fra immunresponset
 - Hvilken sygdom giver morbillivirus?:: [[Mæslinger]]
 <!--SR:!2026-10-14,16,290-->
@@ -42,10 +45,12 @@
 - Hvilken infektioner giver morbillivirus ofte i patienter der mangelr [[A-vitamin]]?:: Infektioner i øjet
 ## Diagonstik
 - Hvornår i sygdomsforløbet kan man finde antistoffer mod morbillivirus i blodet?:: Når udslettet kommer
+<!--SR:!2026-10-04,4,270-->
 - Hvordan diagnosticeres morbilivirus?:: Serologi
 
 ## Forebyggelse og behandling
 - Hvordan forebygges morbillivirus?:: Vaccination
+<!--SR:!2026-10-04,4,270-->
 #### Vaccine
 - Hvornår gives morbilli-virus-vaccinationen?:: 15 mdr og 4 år
 - Hvilkne type vacicine er morbilli-virus-vaccinen?:: [[Levende svækkede vacciner]]

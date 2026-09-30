@@ -2,7 +2,7 @@
 
 ## Statistik
 - Hvilke typer patogener giver oftest meningitis?:: Vira efterfulgt af bakterier
-<!--SR:!2026-09-29,4,270-->
+<!--SR:!2026-10-11,11,270-->
 
 - Hvilke bakterier giver oftest meningitis?
 ?

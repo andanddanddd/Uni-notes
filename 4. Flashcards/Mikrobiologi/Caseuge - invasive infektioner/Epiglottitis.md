@@ -3,6 +3,7 @@
 
 ## Epidimologi
 - Hvem får oftest epiglotitis?:: Børn (under 5)
+<!--SR:!2026-10-04,4,270-->
 
 ## Subtyper
 ## Patogenese

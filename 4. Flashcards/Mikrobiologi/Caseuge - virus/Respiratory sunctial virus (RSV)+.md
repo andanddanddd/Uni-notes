@@ -14,6 +14,7 @@
 - Hvordan gør RS-virus os syge?:: Det er cytotoksisk og det ødelægger cillier
 ## Smitte og epidemiologi
 - Hvem bliver oftest smittet med RS-virus?:: Børn (det er den hyppigste årsag til infektion i de nedre luftveje hos børn)
+<!--SR:!2026-10-04,4,270-->
 - Hvor "lever" RS-virus normalt?:: Kun mennesker
 - Hvordan smitter RS-virus
 

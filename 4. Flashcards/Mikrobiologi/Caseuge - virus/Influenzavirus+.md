@@ -58,7 +58,7 @@
 - Muskelsmerter
 - Træthed
 - Hovedpine
-<!--SR:!2026-09-28,4,270-->
+<!--SR:!2026-10-16,16,290-->
 
 - Hvilke "alvorlige" sygdomme kan influenzavirus give?
 ?

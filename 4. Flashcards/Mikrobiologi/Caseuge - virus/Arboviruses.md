@@ -21,6 +21,7 @@
 - Hvilke arbevirus er typisk spredt over det største geografiske areal?:: Dem der bruger fugle som hvert
 
 - Hvordan diagnsoticeres arbovirus?:: God resjeannamsese sammen med serologi
+<!--SR:!2026-10-03,3,250-->
 
 ![[Pasted image 20260929094141.png|323]]
 

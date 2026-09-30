@@ -5,6 +5,7 @@
 ## Generalt
 - Hvilken type cellevæg har L. pneumophila?:: [[Gram-negative bakterier]]
 - Hvilken form har L. pneumophila?:: Stav
+<!--SR:!2026-10-04,4,270-->
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber)
 - Hvilket oxidativt miljø lever L. pneumophila bedst i?
 

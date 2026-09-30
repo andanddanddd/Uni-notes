@@ -16,6 +16,7 @@
 ## Livscyklus
 - Hvilke celler inficere coronavirus?:: Epitelceller i luftvejene
 - Hvilken receptor bruger SARS-COV-1/2 til at komme ind i cellerne med?:: ACE-2
+<!--SR:!2026-10-04,4,270-->
 - Hvordan kommer coronavirus ind i cellen? (mekanisme):: Membranfusion
 - Hvad er specielt ved coronavirus RNA-polymerase?:: Den kan "hoppe" mellem forskelige steder på RNA og mellem forskellige stykker RNA hvilket resultere i rekombination, derudover har den en høj fejlrate
 - Hvordan kommer coronavirus ud af cellen?:: Den får en lipidmembran og kommer ind i en vesikel i golgi herefter sker exocytose
@@ -38,6 +39,7 @@
 
 ## Diagonstik
 - Hvordan diagnosticeres coronavirus oftest?:: De endemiske diagnosticeres typisk ikke man bruger PCR til [[Covid-19]]
+<!--SR:!2026-10-04,4,270-->
 
 ## Forebyggelse og behandling
 - Hvordan behandles coronavirus?:: Symptombehandling

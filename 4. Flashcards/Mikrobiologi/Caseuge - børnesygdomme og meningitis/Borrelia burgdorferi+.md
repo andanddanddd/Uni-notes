@@ -42,8 +42,10 @@
 - I hvilket stadie af borrelia er der flest systemiske komplikation?:: Stadie 2
 #### Stadie 1
 - Hvilke symptomer sker overordnet i stadie 1 af borrelia?:: Rundt udslet (skydeskive), derudover kan hovedpine, træthed og general utilpashed forekomme
+<!--SR:!2026-10-04,4,270-->
 - Hvor længe varer stadie 1 af borrelia?:: Par dage til flere uger
 - Hvad kaldes udslettet i stadie 1 af borrelia?:: Erythema migrans
+<!--SR:!2026-10-04,4,270-->
 #### Stadie 2
 - Hvad sker overodnet i stadie 2 af borrelia?:: B. burgdorferi spreder sig til store dele af kroppen inkl CNS, hjerte, led og det kan give nye udslet lidt rundt omrking
 - Hvad kaldes stadie 2 af borrelia?:: Tidlig disseminationsstadiet
@@ -66,7 +68,9 @@ Hvordan genkendes den?
 - Hvordan diagnosticeres B. burgdorferi?:: Serologi og anamnese (kræver til tider en lumbalpunktur)
 <!--SR:!2026-10-12,14,290-->
 - Hvornår kan det være svært at diagnosticere B. burgdorferi og hvorfor?:: I stadie 3, eftersom den er bekæmpet systemisk men stadig giver lokale problemer (det kan fx findes i ledvæske)
+<!--SR:!2026-10-04,4,270-->
 - Hvorfor dyrker man ikke B. burgdorferi?:: Det tager lang tid og spiraler er generalt sværre at genkende
+<!--SR:!2026-10-04,4,270-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?

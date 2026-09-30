@@ -15,6 +15,7 @@
 - Tendens i tilfælde
 - Hvor "lever" togavirus normalt
 - Hvordan smitter togavirus?:: Gennem myg
+<!--SR:!2026-10-04,4,270-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver togavirus overordnet?:: Enten [[Encephalitis]] eller et udslet og [[Artritis]] (afhængigt af subtypen)

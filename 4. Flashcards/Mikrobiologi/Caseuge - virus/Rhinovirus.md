@@ -11,6 +11,7 @@
 - Hvilke celler inficere rhinovirus?:: Epitelceller i næsen og nasopharynx
 - Hvordan kommer rhinovirus ind i cellen?:: Micropinocytose eller endocytose
 - Hvilken receptor bruger rhinovirus til at komme ind i celler med?:: ICAM-1 eller LDLr
+<!--SR:!2026-10-04,4,270-->
 - Hvornår/hvordan slipper RNAet ud af kapslen?:: I endosomet
 - Replikation
 - Hvordan inducere rhinovirus symptomer under forkølelse?:: Det er primært immunresponset vi kan mærke, blandt andet  der sker 
@@ -21,6 +22,7 @@
 
 ## Symptomer og komplikationer
 - Hvilken "sygdom" giver rhinovirus oftest?:: [[Forkølelse]]
+<!--SR:!2026-10-04,4,270-->
 - Udover forkølelse hvilke infektioner kan rhinovirus give?:: Infektioner i nedre luftveje ([[Pneumoni]])
 
 ## Diagonstik
