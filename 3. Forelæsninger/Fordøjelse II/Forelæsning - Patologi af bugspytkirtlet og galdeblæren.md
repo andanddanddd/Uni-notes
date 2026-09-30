@@ -6,6 +6,10 @@ Hvis den exokrine pancreas er meget ødelagt kan det påvirke den endekrine panc
 akut vs cronisk pancreatitis handler om om det kan reverteres eller ej
 Amylase bruges som markør for pancrasskade
 
+Pancras skal være under 10% fungerende før den er "insufficient" dvs man først opdager det sent hvilket resultere i høj dødelighed når det endelig opdages (særligt ved cancer)
+	Det er også impnerende hvor lidt af den vi faktisk har brug for
+
+
 
 ![[Galdevejene]]
 
