@@ -8,6 +8,16 @@
 
 ![[Leversvigt]]
 
+![[Alkoholisk leversygdom]]
+
+![[Lægemiddelinduceres liverskade]]
+
+![[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]
+
+![[Autoimmun hepatitis]]
+
+![[Hemachromatose]]
+
 Det er vigtigt at kunne skeldne mellem akut og kronisk leversygdom
 
 6 mdr er grænsen mellem akut og kronisk

@@ -3,6 +3,7 @@
 - Definer kronisk leversygdom?:: Leversygdom der varer i mere end 6 mdr
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
 - Hvorfor overordnet sker fibrose ved kronisk leversygdom?:: Gentagende episoder af inflammatorisk ødelæggelse og regenerering
+- Hvor "starter" fibrose?:: [[Disses rum]]
 - Hvad er de hyppigste etiologier til kronisk leversygdom?
 ?
 - [[Viral hepatitis]]
