@@ -1,5 +1,7 @@
 #flashcards/5/Fordøjelsesstsremet-II
 
+Der er mere fokus på diagnostik end på tidligere studieordning
+
 [[Forelæsning - Patologi af leveren]]
 [[Forelæsning - Patologi af bugspytkirtlet og galdeblæren]]
 [[Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet]]
