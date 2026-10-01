@@ -11,18 +11,20 @@
 - Hvilket oxidativt miljø lever L. pneumophila bedst i?:: Aerob
 
 ## Patogenese
-- Hvilke celler inficere L. pneumophila?:: Makrofager
+- Hvilke celler inficere L. pneumophila?:: Makrofager i [[Alveoler]]ne
 <!--SR:!2026-10-02,1,230-->
+- Hvilken effekt har makrofagerne i alveolerne på væksten af L. pneumophilia?:: De forhindre ikke vækst (eller dræber) før de bliver aktiveret af cytokiner
 - Hvordan undgår L. pneumophila at dø intracellulært?:: Forhindre fusion af fagosom og lysosom
 <!--SR:!2026-10-05,4,270-->
 - Hvor formere L. pneumophila sig?:: Den er fakultativ intracellulær særligt i makrofager
 <!--SR:!2026-10-04,3,250-->
-- Hvilke patogenesefaktorer har L. pneumophila?
+- Hvilke patogenesefaktorer har L. pneumophila?:: [[Biofilm]]
+- Hvad kendetegner L. pneumophilas emperaturtolerance/preferance?:: Den kan vækste i temperaturer op mod 45 grader C og dør ikke før meget højere temperaturer
 
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med L. pneumophila
-- Hvordan smitter L. pneumophila?:: Dråber
+- Hvordan smitter L. pneumophila?:: Gennem vand særligt vandbeholdere, men det kan også smitte fra menneske til menenske gennem dråber (det er den bakterie der hyppigst smitter fra vand i USA)
 <!--SR:!2026-10-05,4,270-->
 - Hvem smittes ofte af L. pneumophila?:: Ældre
 
@@ -34,6 +36,7 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres L. pneumophila?
+- Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
 
 ## Forebyggelse og behandling
 - Hvlke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
