@@ -20,4 +20,4 @@
 - Hvordan håndtere ST varme?:: Den er varmestabil (heat-Stabil-Toxin)
 <!--SR:!2026-11-30,62,310-->
 - Hvilken effekt har det når cAMP øges?:: Der optages mindre Na og sekreres Cl (osmose resultere dermed i mere vand i lumen)
-<!--SR:!2026-10-01,16,290-->
+<!--SR:!2026-12-07,67,310-->

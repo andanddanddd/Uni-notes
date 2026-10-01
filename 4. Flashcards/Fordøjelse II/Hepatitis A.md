@@ -5,6 +5,7 @@
 ## Struktur
 - Hvilken form har kapslen på hepatitis A
 - Har hepatitis A en lipidmembran?:: Nej
+<!--SR:!2026-10-05,4,270-->
 - Hvilken type arvematriale bruger hepatitis A?:: RNA+
 - Hvilken struktur har hepatitis A´ arvematriale
 ## Livscyklus
@@ -22,9 +23,12 @@
 - [[Icterus]]
 - Kvalme
 - [[Anorexi]]
+<!--SR:!2026-10-04,3,250-->
 
 - Hvor ofte udvikler en infektion med hepatitis A til en kronisk infektion?:: Aldrig
+<!--SR:!2026-10-05,4,270-->
 - Hvad kendetegner leversygdommen der kommer af hepatitis A?:: [[Akut leversygdom]]
+<!--SR:!2026-10-05,4,270-->
 
 ## Diagonstik
 

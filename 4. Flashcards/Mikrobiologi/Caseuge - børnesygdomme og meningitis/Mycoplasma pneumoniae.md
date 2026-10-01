@@ -4,6 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har M. pneumoniae?:: [[Mycoplasma]]
+<!--SR:!2026-10-05,4,270-->
 - Hvilken form har M. pneumoniae?:: Den er lille
 - Hvordan lejres M. pneumoniae?
 - Hvor lever M. pneumoniae normalt?:: Kun i mennesker
@@ -30,8 +31,9 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres M. pneumoniae?:: Ved
 - Hvad kendetegner M. pneumoniae på blodprøver?:: CRP kan være negativ (lav)
+<!--SR:!2026-10-02,1,230-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har M. pneumoniae?
 - Hvordan forebygges M. pneumoniae?
-- Hvordan behandles M. pneumoniae?:: [[Mycoplasma pneumoniae]]
+- Hvordan behandles M. pneumoniae

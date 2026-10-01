@@ -5,7 +5,9 @@
 ## Struktur
 - Hvilken form har kapslen på hepatitis B
 - Har hepatitis B en lipidmembran?:: Ja
+<!--SR:!2026-10-05,4,270-->
 - Hvilken type arvematriale bruger hepatitis B?:: Doppeltstrenget DNA
+<!--SR:!2026-10-05,4,270-->
 - Hvilken struktur har hepatitis B´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere hepatitis B
@@ -19,9 +21,11 @@
 - Deling af nåde
 - Sexuel kontakt
 - Vertikalt (mest almindeligt i DK)
+<!--SR:!2026-10-02,1,230-->
 
 ## Symptomer og komplikationer
 - Hvilken "type" leversygdom giver hepatitis B?:: Det kan både være [[Akut leversygdom]] og [[Kronisk leversygdom]]
+<!--SR:!2026-10-05,4,270-->
 
 ## Diagonstik
 

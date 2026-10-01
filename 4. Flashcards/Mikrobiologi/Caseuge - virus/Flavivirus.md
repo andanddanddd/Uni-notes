@@ -5,6 +5,7 @@
 ## Struktur
 - Hvilken form har kapslen på flavivirus
 - Har flavivirus en lipidmembran?:: Ja
+<!--SR:!2026-10-02,1,230-->
 - Hvilken type arvematriale bruger flavivirus?:: RNA+
 - Hvilken struktur har flavivirus´ arvematriale
 ## Livscyklus

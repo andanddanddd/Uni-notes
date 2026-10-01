@@ -13,8 +13,11 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 - Familiehistorie
 - Øget serumkolestrerol
 - Resten ligner det for hjerte-kar-sygdomme
+<!--SR:!2026-10-04,3,250-->
 
 - Hvad er tommelfingerreglen for alder som risikofaktor for galdesten?:: Mennesker over 40 har øget risiko
 - Hvilket køn har størst risiko for galdesten?:: Kvinder
 - Hvorfor har kvinder en højere risiko for galdesten?:: Østrogenniveu
+<!--SR:!2026-10-05,4,270-->
 - Hvorfor kan hurtigt vægttab give problemer?:: Der mangler lipider til at holde kolesterolen i opløsning
+<!--SR:!2026-10-05,4,270-->

@@ -7,6 +7,6 @@
 - Hvornår bliver man oftest smittet med H. pylori?:: I barndommen
 <!--SR:!2026-11-22,54,310-->
 - Hvor ofte fører H. pylori til en ulcussygedom?:: I 10-15% af smittede
-<!--SR:!2026-10-01,16,290-->
+<!--SR:!2026-11-14,44,290-->
 - Hvordan overlever helicobakter pylori i mavesækken?:: Den har urease ([[Ureasetest]])
 <!--SR:!2026-10-15,16,290-->

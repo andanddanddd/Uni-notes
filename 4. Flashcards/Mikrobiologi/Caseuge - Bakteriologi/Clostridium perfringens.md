@@ -35,7 +35,7 @@
 - Hvad sker med C. perfringens når det bliver varmt?:: Bakterier dør men spore overlever (Som så kan vækste når maden køles ned)
 <!--SR:!2026-11-21,54,310-->
 - Hvad sker når C. perfringens køles ned?:: Det begynder at vækste
-<!--SR:!2026-10-01,16,290-->
+<!--SR:!2026-12-07,67,310-->
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer
 <!--SR:!2026-11-08,45,290-->
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter

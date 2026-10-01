@@ -4,6 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har L. pneumophila?:: [[Gram-negative bakterier]]
+<!--SR:!2026-10-02,1,230-->
 - Hvilken form har L. pneumophila?:: Stav
 <!--SR:!2026-10-04,4,270-->
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber)
@@ -32,5 +33,6 @@ Hvordan genkendes den?
 
 ## Forebyggelse og behandling
 - Hvlke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
+<!--SR:!2026-10-04,3,250-->
 - Hvordan forebygges L. pneumophila?
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])

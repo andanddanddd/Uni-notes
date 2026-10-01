@@ -9,6 +9,7 @@
 - Hvilken struktur har rhinovirus´ arvematriale?:: 1 RNAmolekyle
 ## Livscyklus
 - Hvilke celler inficere rhinovirus?:: Epitelceller i næsen og nasopharynx
+<!--SR:!2026-10-05,4,270-->
 - Hvordan kommer rhinovirus ind i cellen?:: Micropinocytose eller endocytose
 - Hvilken receptor bruger rhinovirus til at komme ind i celler med?:: ICAM-1 eller LDLr
 <!--SR:!2026-10-04,4,270-->

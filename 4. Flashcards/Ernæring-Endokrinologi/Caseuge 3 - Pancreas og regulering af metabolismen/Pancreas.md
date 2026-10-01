@@ -9,6 +9,7 @@
 - [[Caput pancreatis]]
 - Corpus
 - [[Cauda pancreatis]]
+<!--SR:!2026-10-05,4,270-->
 
 - Hvad hedder pancreas 2 udførselsgange?
 ?

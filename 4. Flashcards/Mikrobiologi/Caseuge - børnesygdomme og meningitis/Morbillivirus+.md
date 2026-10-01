@@ -14,15 +14,18 @@
 - Hvordan kommer morbilli virus ind i cellen?
 
 - Hvilket protein bruger morbilivirus til at binde til vores celler?:: Hemaglutin
-<!--SR:!2026-10-01,1,230-->
+<!--SR:!2026-10-04,3,250-->
 - Hvilke funktioner har F-protein?
 ?
 - Membranfusion
 - Dannelse af syncytier
 ## Epidemiologi
 - Hvem smittes oftest af morbillivirus?:: Børn
+<!--SR:!2026-10-05,4,270-->
 - Hvor længe er kan en person inficeret med morbillivirus smitte?:: 2-3 dage før udslettet kommer og 4 dage efter det forsvinder
+<!--SR:!2026-10-05,4,270-->
 - Hvor "lever" morbillivirus normalt?:: Kun i mennesker
+<!--SR:!2026-10-05,4,270-->
 ## Symptomer og komplikationer
 - Hvad er inkubationstiden af morbillivirus?:: 10-14 dage
 - Hvorfor er inkubationstiden af morbillivirus så lang?:: Efter den har inficeret luftvejsepitelet spreder den sig i blodet, herefter går der et par dage til der igen ses store mængder virus i blodet, først anden gang der er virus i blodet kommer symptomerne
@@ -53,7 +56,9 @@
 <!--SR:!2026-10-04,4,270-->
 #### Vaccine
 - Hvornår gives morbilli-virus-vaccinationen?:: 15 mdr og 4 år
+<!--SR:!2026-10-05,4,270-->
 - Hvilkne type vacicine er morbilli-virus-vaccinen?:: [[Levende svækkede vacciner]]
+<!--SR:!2026-10-02,1,230-->
 - Hvorfor får vi først morbililvirus-vaccinen når vi er 15 mdr i DK i stedet for ved 9 mdr i andre dele af verdenen?:: Der er ikke store problemer med mæslinger i DK så det er ikke et problem at vente, ved at vente er der færre der har antistoffer fra deres mor og dermed er der flere der laver et godt respons
 - Hvorfor var det "nemt" at lave en vaccine mod morbillivirus?:: Der er kun 1 serotype
 

@@ -9,6 +9,6 @@
 - Hvilken type antibiotika er tetracyclinerne? (bakteriecider eller bakteriestatiske):: [[Bakteriostatisk virkende stoffer]]
 <!--SR:!2026-10-08,24,270-->
 - Hvilken effekt har tetracykliner molekylært?:: Stopper proteintranslation reversibelt ved at stoppe tRNA fra at binde til mRNA
-<!--SR:!2026-10-01,8,270-->
+<!--SR:!2026-10-22,21,270-->
 
 [[Doxycyklin]]

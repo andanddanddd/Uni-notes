@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken type bakterie bruges aminoglykosider til ?:: [[Gram-negative bakterier]] særligt aerobe stave, men det kan også bruges til grampositive bakterier
-<!--SR:!2026-10-01,13,250-->
+<!--SR:!2026-11-03,33,250-->
 - Hvad er målstrukturen for aminoglykosider?:: Den lille subunit (30S) af de bakterielle ribosomer
 <!--SR:!2026-11-23,61,310-->
 - Hvilken effekt har aminoglykosider på proteinsyntesen?:: Forårsager mange nonsense mutationer ved at påvirke initiering af translation, samt få tRNA til at skippe et eller flere basepar så der sker frameshift

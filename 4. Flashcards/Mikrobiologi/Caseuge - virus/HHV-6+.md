@@ -12,4 +12,4 @@
 - Hvor mange har været smittet med HHV-6?:: Alle (serumprævalens på over 95% i den voksne befolkning)
 <!--SR:!2026-10-15,16,290-->
 - Hvad er særligt ved latensen ved HHV-6?:: Den kan være chromosomalt integreret i samtlige celler dvs den nedarves og der testes MEGET positivt hvis man tester for HHV-6
-<!--SR:!2026-10-01,2,210-->
+<!--SR:!2026-10-07,6,230-->

@@ -5,9 +5,9 @@
 - Hvilken candida art er mest virulent?:: [[Candida albicans]]
 <!--SR:!2026-10-18,23,250-->
 - Hvor giver candida typisk infektioner?:: Hud og slimhinder (sjældent systemisk)
-<!--SR:!2026-10-01,15,290-->
+<!--SR:!2026-12-02,62,310-->
 - Hvad er candida balanitis?:: Candida på forhuden
-<!--SR:!2026-10-01,15,290-->
+<!--SR:!2026-12-03,63,310-->
 - Hvad er candida intertrigo?:: Candida mellem hudfolder
 <!--SR:!2026-10-02,16,290-->
 - Hvorfor hjælper en podning sjældent med at påvise candidainfektion?:: Ofte vil man bare påvise normalfloraen

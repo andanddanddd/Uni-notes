@@ -19,10 +19,10 @@
 ?
 - [[Streptococcus agalactiae]]
 - [[Escherichia coli+]]
-<!--SR:!2026-10-01,2,230-->
+<!--SR:!2026-10-06,5,230-->
 
 - Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
-<!--SR:!2026-10-01,1,210-->
+<!--SR:!2026-10-04,3,230-->
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 <!--SR:!2026-10-16,16,290-->

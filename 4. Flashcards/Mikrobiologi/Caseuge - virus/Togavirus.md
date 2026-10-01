@@ -2,6 +2,7 @@
 
 
 - Hvad kaldes togavirus også?:: Alphavirus
+<!--SR:!2026-10-02,1,230-->
 ## Struktur
 - Hvilken form har kapslen på togavirus
 - Har togavirus en lipidmembran?:: Ja

@@ -30,6 +30,7 @@
 - Hvem smittes ofte af rotavirus?:: Børn (det er den mest almindelige virale årsag til diarre hos børn)
 <!--SR:!2026-10-04,4,270-->
 - Hvornår bliver voksne smittet af rotavirus?:: Typisk kun hvis de får meget høje doser af virus og selv der får de oftest kun milde symptomer (eks forældre til små børn)
+<!--SR:!2026-10-05,4,270-->
 ## Symptomer og komplikationer
 - Hvilken sygdom giver rotavirus?:: [[Gastroenteritis]]
 - Hvad er latenstiden på rotavirus?:: Ca 2 dage
@@ -43,10 +44,13 @@
 - Feber
 ## Diagonstik
 - Hvordan diagnosticeres rotavirus?:: Antigentest på fæcesprøver (eller elektronmikroskopi)
+<!--SR:!2026-10-04,3,250-->
 
 ## Forebyggelse og behandling
 - Hvordan behandles rotavirus?:: Vand og elektrolytter
+<!--SR:!2026-10-05,4,270-->
 - Hvordan forebygges rotavirus?:: God hygiejne derudover findes der en oral vaccine
+<!--SR:!2026-10-05,4,270-->
 
 
 

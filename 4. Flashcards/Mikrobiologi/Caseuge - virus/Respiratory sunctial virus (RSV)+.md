@@ -6,9 +6,11 @@
 - Hvilken form har kapslen på RS-virus
 - Har RS-virus en lipidmembran?:: Ja
 - Hvilken type arvematriale bruger RS-virus:: RNA-
+<!--SR:!2026-10-04,3,250-->
 - Hvilken struktur har RS-virus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere RS-virus?:: EPitelceller i luftveje (det spreder sig ikke væk derfra)
+<!--SR:!2026-10-05,4,270-->
 - Hvordan kommer RS-virus ind i cellen? (mekanisme)
 - Replikation
 - Hvordan gør RS-virus os syge?:: Det er cytotoksisk og det ødelægger cillier

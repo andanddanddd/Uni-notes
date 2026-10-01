@@ -3,7 +3,7 @@
 - Hvorfor sker inflammatorisk enterocolitis overordnet?:: Bakterier eller cytotoksiner beskadiger slimhinden hvilket giver inflammation
 <!--SR:!2026-12-04,65,310-->
 - Hvad er inkubationstiden på inflammatorisk enterocolitis?:: 1-7 døgn
-<!--SR:!2026-10-01,16,290-->
+<!--SR:!2026-12-07,67,310-->
 - Hvilken del af mave-tarm-kanalen bliver påvirket af inflammatorisk enterocolitis?:: Typisk colon
 <!--SR:!2026-12-02,63,310-->
 - Hvordan behandles inflammatorisk enterocolitis typisk?:: Væskebehandling er typisk ikke nok så der skal gives antibiotika

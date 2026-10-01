@@ -7,7 +7,7 @@
 - Har adenovirus en lipidmembran?:: Nej
 - Hvilken type arvematriale bruger adenovirus?:: dsDNA
 - Hvilken struktur har adenovirus´ arvematriale?:: Lineært (1 segment)
-<!--SR:!2026-10-01,1,230-->
+<!--SR:!2026-10-04,3,250-->
 - Hvad kendetgener adenovirus udssende?:: I hver hjørne af kapslen er der et langt protein![[Pasted image 20260928103415.png]]
 <!--SR:!2026-10-04,4,270-->
 ## Livscyklus

@@ -2,7 +2,7 @@
 
 - Kan værea symptomatisk
 - I hvilke tilfælde skal salmonella typhi behandles?:: Alle
-<!--SR:!2026-10-01,16,290-->
+<!--SR:!2026-12-07,67,310-->
 - Hvordan behandles salmonella typhi?:: Antibiotika oftest [[Ceftriaxon]] eller [[Azithromycin]]
 <!--SR:!2026-11-02,35,250-->
 - Hvad kendetegner smittet af tyfus i DK?:: Næsten alle tilfælde af tyfus i DK har været smittet i udelandet

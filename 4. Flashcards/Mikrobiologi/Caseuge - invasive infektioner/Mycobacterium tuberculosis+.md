@@ -5,6 +5,7 @@
 ## Generalt
 - Hvilken type cellevæg har M. tuberculosis?:: [[Gram-positive bakterier]]
 - Hvilken form har M. tuberculosis?:: Stav
+<!--SR:!2026-10-02,1,230-->
 - Hvordan lejres M. tuberculosis?
 - Hvor lever M. tuberculosis normalt?
 - Hvilket oxidativt miljø lever M. tuberculosis bedst i?

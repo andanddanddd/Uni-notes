@@ -79,8 +79,7 @@
               "title": "Slides - Patologi af pancreas og galdevejene 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -269,7 +267,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",

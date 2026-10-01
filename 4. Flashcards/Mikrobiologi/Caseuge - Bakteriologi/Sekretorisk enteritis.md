@@ -11,4 +11,4 @@
 - Hvilken del af tarmen bliver påvirker af sekretorisk enteritis?:: Typisk tyndtarmen
 <!--SR:!2026-11-29,61,310-->
 - Hvordan behandles sekretorisk enteritis typisk?:: Væske, antibiotika er sjældent nødvendigt
-<!--SR:!2026-10-01,16,290-->
+<!--SR:!2026-12-07,67,310-->

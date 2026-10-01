@@ -26,6 +26,7 @@
 - Inficere områder af kroppen der er temmelig avaskulære og dermed er der mindre immunrespons
 - Den får opbygget en form for immunologisk tolerance (altså hvor immunsystemet tror det er en sød bakterie)
 - Hvordan inducere B. burgdorferi infllamation?:: IKKE igennem LPS, men den har maneg lipoproteienr
+<!--SR:!2026-10-05,4,270-->
 - Hvordan gør B. burgdorferi os syge?:: Primært igennem immunresponset
 
 ## Smitte og epidimologi
