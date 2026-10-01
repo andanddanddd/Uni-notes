@@ -8,12 +8,14 @@
 - Hvilken form har M. pneumoniae?:: Den er lille
 - Hvordan lejres M. pneumoniae?
 - Hvor lever M. pneumoniae normalt?:: Kun i mennesker
+<!--SR:!2026-10-05,4,270-->
 - Hvilket oxidativt miljø lever M. pneumoniae bedst i?
 
 ## Patogenese
 - Hvilke celler inficere M. pneumoniae?:: Det gør den ikke de
 - Hvilke patogenesefaktorer har M. pneumoniae?
 - Hvad sker med cellerne i respirationssystemet når M. pneumoniae binder dertil?:: Ciliostase
+<!--SR:!2026-10-05,4,270-->
 
 
 ## Smitte og epidimologi
@@ -29,7 +31,7 @@
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
-- Hvordan diagnosticeres M. pneumoniae?:: Ved
+- Hvordan diagnosticeres M. pneumoniae?
 - Hvad kendetegner M. pneumoniae på blodprøver?:: CRP kan være negativ (lav)
 <!--SR:!2026-10-02,1,230-->
 

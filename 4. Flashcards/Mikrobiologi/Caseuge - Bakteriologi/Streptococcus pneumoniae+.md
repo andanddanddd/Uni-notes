@@ -35,6 +35,7 @@ Tendens
 <!--SR:!2026-10-18,27,290-->
 #### Pneumoni
 - Hvilke langtidsvarende komplikation/skader giver S. pneumoniae ved [[Pneumoni]]?:: Ingen, det skader ikke de alveolære vægge'
+<!--SR:!2026-10-05,4,270-->
 - Hvor længe bruger S. pneumoniae på at sprede sig fra en lobe til andre lober?:: 10 dage
 - Hvad er de 4 stadier af pneumoni grundet S. pneumoniae?
 ?
@@ -47,6 +48,7 @@ Tendens
 - Hvor længe varer den serøse fase af pnuemoni grundet s. pneumoniae?:: 1 dag (dag 1)
 - Hvad kendetegner den serøse fase af penumoni grundet s. pneumoniae?:: Væske i alveoler men få neutrofile granulocytter
 - Hvorfor er der få neutrofile granulocytter i den serøse fase af pneumoni grundet s. pneumoniae?:: De bliver dræbt af [[Pneumolysin]]
+<!--SR:!2026-10-05,4,270-->
 ###### Røde hepatisationsstadium
 - Hvor længe varer det røde hepatisationsstadium af pneumoni grundet s. pneumoniae?:: ca 3 dage (dag 2-4)
 <!--SR:!2026-10-04,4,270-->
@@ -57,6 +59,7 @@ Tendens
 - Hvad kendetegner det grå hepatisationsstadium?:: MANGE neutrofile granulocytter i alveolerne
 ###### Resolulationsfase
 - Hvad sker overordnet i resolutionsfasen?:: Oprydning lavet af makrofager, eksudat forsvinder
+<!--SR:!2026-10-05,4,270-->
 ## Diagnostik
 
 - Hvordan kan streptococcus pneumoniae genkendes?:: Den laver falde kolonier og laver $\alpha$-hæmolyse

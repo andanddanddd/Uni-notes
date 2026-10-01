@@ -18,6 +18,7 @@
 - Hvem bliver oftest smittet med RS-virus?:: Børn (det er den hyppigste årsag til infektion i de nedre luftveje hos børn)
 <!--SR:!2026-10-04,4,270-->
 - Hvor "lever" RS-virus normalt?:: Kun mennesker
+<!--SR:!2026-10-05,4,270-->
 - Hvordan smitter RS-virus
 
 ## Symptomer og komplikationer

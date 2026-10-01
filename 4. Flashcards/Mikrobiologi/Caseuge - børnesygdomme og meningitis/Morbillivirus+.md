@@ -4,13 +4,16 @@
 
 ## Struktur
 - Hvilken form har kapslen på morbilli virus?:: Helical
+<!--SR:!2026-10-05,4,270-->
 - Har morbilli virusen lipidmembran?:: Ja
 - Hvilken type arvematriale bruger morbilli virus?:: RNA-
+<!--SR:!2026-10-02,1,230-->
 - Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter morbilli virus?:: Aerosoler
 <!--SR:!2026-10-03,3,250-->
 - Hvilke celler inficere morbillivirus?:: Epitelceller i luftvejene i starten herfra spreder det sig gennem blodbanen
+<!--SR:!2026-10-05,4,270-->
 - Hvordan kommer morbilli virus ind i cellen?
 
 - Hvilket protein bruger morbilivirus til at binde til vores celler?:: Hemaglutin
@@ -45,11 +48,13 @@
 <!--SR:!2026-10-13,15,290-->
 - Hvad sker ofte efter endt morbillivirusinfektion?:: Sekundær infektion (særligt pneumonier)
 - Hvilken næringsmangel gør morbillivirus infektion markant værre?:: [[A-vitamin]]-mangel
+<!--SR:!2026-10-05,4,270-->
 - Hvilken infektioner giver morbillivirus ofte i patienter der mangelr [[A-vitamin]]?:: Infektioner i øjet
 ## Diagonstik
 - Hvornår i sygdomsforløbet kan man finde antistoffer mod morbillivirus i blodet?:: Når udslettet kommer
 <!--SR:!2026-10-04,4,270-->
 - Hvordan diagnosticeres morbilivirus?:: Serologi
+<!--SR:!2026-10-05,4,270-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges morbillivirus?:: Vaccination

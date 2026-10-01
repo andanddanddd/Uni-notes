@@ -31,6 +31,7 @@
 
 ## Forebyggelse og behandling
 - Hvordan behandles adenovirus?:: Typisk er symptombehandling nok
+<!--SR:!2026-10-05,4,270-->
 - Hvordan forebygges adenovirus?:: God hygiejne, derudover er der en oral vaccine men den bruges kun meget lidt (militær i USA)
 <!--SR:!2026-10-03,3,250-->
 

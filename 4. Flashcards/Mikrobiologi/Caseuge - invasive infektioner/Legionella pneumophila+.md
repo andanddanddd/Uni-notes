@@ -12,14 +12,18 @@
 
 ## Patogenese
 - Hvilke celler inficere L. pneumophila?:: Makrofager
+<!--SR:!2026-10-02,1,230-->
 - Hvordan undgår L. pneumophila at dø intracellulært?:: Forhindre fusion af fagosom og lysosom
+<!--SR:!2026-10-05,4,270-->
 - Hvor formere L. pneumophila sig?:: Den er fakultativ intracellulær særligt i makrofager
+<!--SR:!2026-10-04,3,250-->
 - Hvilke patogenesefaktorer har L. pneumophila?
 
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med L. pneumophila
 - Hvordan smitter L. pneumophila?:: Dråber
+<!--SR:!2026-10-05,4,270-->
 - Hvem smittes ofte af L. pneumophila?:: Ældre
 
 ## Symptomer og komplikationer

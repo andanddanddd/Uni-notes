@@ -3,6 +3,7 @@
 cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 - Hvad kaldes galdesten på latin?:: Cholelithiasis
+<!--SR:!2026-10-04,3,250-->
 - Hvad er risikofaktorer for galdesten?
 ?
 - Alder

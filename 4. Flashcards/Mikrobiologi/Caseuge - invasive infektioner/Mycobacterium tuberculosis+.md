@@ -10,9 +10,11 @@
 - Hvor lever M. tuberculosis normalt?
 - Hvilket oxidativt miljø lever M. tuberculosis bedst i?
 - Hvad kendetegner motiliteten af M. tuberculosis?:: Den er ikke motil
+<!--SR:!2026-10-04,3,250-->
 
 ## Patogenese
 - Hvilke celler inficere M. tuberculosis?:: Makrofager
+<!--SR:!2026-10-05,4,270-->
 - Hvilke patogenesefaktorer har M. tuberculosis?:: Hæmning af fagosom-lysosom fusion
 - Hvordan bevæger M. tuberculosis sig rundt i kroppen?:: I makrofager (her kommer de blandt andet til lymfeknuder)
 

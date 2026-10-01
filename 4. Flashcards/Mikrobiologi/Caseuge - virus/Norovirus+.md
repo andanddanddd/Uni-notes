@@ -31,6 +31,7 @@
 - Hvor længe varer en norovirusinfektion?:: 1-3 døgn
 <!--SR:!2026-12-07,67,310-->
 - Hvor uniformt er sygdomsbilledet af norovirus?:: Det varierer meget selv indefor en enkel type virus, nogle får opkast + diarre mens andre kun får en af dem
+<!--SR:!2026-10-05,4,270-->
 - Hvilke symptomer har norovirus?
 ?
 - Kvalme 

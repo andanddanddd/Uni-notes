@@ -6,16 +6,21 @@
 - Hvilken form har kapslen på rotavirus?:: Icosadral (den har en indre og ydre kapsel)
 <!--SR:!2026-10-04,4,270-->
 - Har rotavirus en lipidmembran?:: nej, men den har en indre og ydre kapsel
+<!--SR:!2026-10-05,4,270-->
 - Hvilken type arvematriale bruger rotavirus?:: dsRNA
+<!--SR:!2026-10-05,4,270-->
 - Hvilken struktur har rotavirus´ arvematriale?:: Segmentret (11 segmenter)
 ## Livscyklus
 - Hvilket glykoprotein bruger rotavirus til at komme ind i celler og hvordan aktiveres den?:: Hemagluttin (VP4), den aktiveres ved at proteolyse
+<!--SR:!2026-10-02,1,230-->
 - Hvilke celler inficere rotavirus?:: Enterocytter i tyndtarmen
+<!--SR:!2026-10-05,4,270-->
 - Hvordan kommer rotavirus ind i cellen? (mekanisme):: Endocytose
 <!--SR:!2026-10-04,4,270-->
 - Hvor sker replikation og transskription af rotavirus?:: Cytoplasma
 - Hvor får rotavirus sin lipidmembran?:: Den har ikke en lipidmembran men den får sin ydre skal i ruER
 - Hvordan kommer rotavirus ud af cellen?:: Lysis
+<!--SR:!2026-10-05,4,270-->
 - Hvordan giver rotavirus diarre?
 ?
 - Dræber absorptive celler 
@@ -25,6 +30,7 @@
 ## Smitte og epidemiologi
 - Tendens i tilfælde
 - Hvor "lever" rotavirus normalt?:: Både mennesker og andre dyr
+<!--SR:!2026-10-04,3,250-->
 - Hvordan smitter rotavirus?:: Fæcalt-oralt (sjældent igennem mad eller vand)
 <!--SR:!2026-10-04,4,270-->
 - Hvem smittes ofte af rotavirus?:: Børn (det er den mest almindelige virale årsag til diarre hos børn)

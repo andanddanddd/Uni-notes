@@ -21,6 +21,7 @@
 - Samfunserhvervet (CAP)
 - Hospitalserhvervet (HAP)
 - Respirator-associeret (VAP)
+<!--SR:!2026-10-04,3,250-->
 
 ![[Pasted image 20260925081858.png]]
 ## Patogenese

@@ -5,6 +5,7 @@
 - Systolisk BT < 100
 - Respirationsfrekvens $\geq$ 22
 - Ændret mentalstatus
+<!--SR:!2026-10-05,4,270-->
 
 - Hvilke faktorer bruger den udvidede SOFA-skala?
 ?
@@ -28,6 +29,7 @@
 <!--SR:!2026-10-04,4,270-->
 
 - Hvad sker med lungerne under sepsis?:: Alveolerne bliver fyldt med væske så de ikke kan lave gasudveksling
-- Hvad sker med hjernen under sepsis?:: Den får ikke nok ilt hvilket leder til konfusion 
+- Hvad sker med hjernen under sepsis?:: Den får ikke nok ilt hvilket leder til konfusion
+<!--SR:!2026-10-04,3,250-->
 - Hvad sker med nyrene under sepsis?:: Nekrose
 <!--SR:!2026-10-03,3,250-->

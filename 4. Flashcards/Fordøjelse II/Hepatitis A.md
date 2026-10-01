@@ -7,6 +7,7 @@
 - Har hepatitis A en lipidmembran?:: Nej
 <!--SR:!2026-10-05,4,270-->
 - Hvilken type arvematriale bruger hepatitis A?:: RNA+
+<!--SR:!2026-10-05,4,270-->
 - Hvilken struktur har hepatitis A´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere hepatitis A
@@ -16,6 +17,7 @@
 - Tendens i tilfælde
 - Hvor "lever" hepatitis A normalt
 - Hvordan smitter hepatitis A?:: Fæcal-oralt
+<!--SR:!2026-10-05,4,270-->
 
 ## Symptomer og komplikationer
 - Hvilke symptomer har hepatitis A?
