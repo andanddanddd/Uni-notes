@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -298,6 +297,9 @@
   },
   "active": "c92c64d13996ce33",
   "lastOpenFiles": [
+    "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Lobær pneumoni.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Legionella pneumophila+.md",
+    "Pasted image 20261001140844.png",
     "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
     "2. Caseuger/MIkrobiologi/Caseuge - Bakteriologi.md",
@@ -326,8 +328,6 @@
     "4. Flashcards/Fordøjelse II/Steatorré.md",
     "4. Flashcards/Fordøjelse II/Gynaecomasti.md",
     "4. Flashcards/Fordøjelse II/Spider angiomas.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Bilirubin.md",
-    "4. Flashcards/Fordøjelse II/Hepatomegali.md",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930144525.png",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930144115.png",
@@ -341,7 +341,6 @@
     "Billeder/Mikrobiologi/Pasted image 20260928103239.png",
     "3. Forelæsninger/Fordøjelse II",
     "Billeder/Mikrobiologi/Pasted image 20260929103441.png",
-    "Billeder/Mikrobiologi/Pasted image 20260929102506.png",
     "Externe dokumenter/MIkrobiologi/Børnesygdomme og meningitis/Slides - Bakterier_børnesygdomme.pdf",
     "Externe dokumenter/MIkrobiologi/Invasive infektioner/Slides - kroniske infektioner og reaktivering af bakterier (Tuberkulose)_E26.pdf",
     "Untitled.canvas"

@@ -16,11 +16,13 @@
 - Hvilken effekt har makrofagerne i alveolerne på væksten af L. pneumophilia?:: De forhindre ikke vækst (eller dræber) før de bliver aktiveret af cytokiner
 - Hvordan undgår L. pneumophila at dø intracellulært?:: Forhindre fusion af fagosom og lysosom
 <!--SR:!2026-10-05,4,270-->
+- Hvordan forhindre L. pneumophilia fagosom og lysosom i at fusionere?:: Injicere proteiner (>300) ind i cytoplasmaet af hvertcellen, den bruger [[Type II sekretion]] og [[Type IV secretion]]
 - Hvad sker med fagosomet som indeholder L. pneumophilia?:: Det bliver omkranset af ruER (of fusionere ikke med et lysosom)
 - Hvor formere L. pneumophila sig?:: Den er fakultativ intracellulær særligt i makrofager
 <!--SR:!2026-10-04,3,250-->
 - Hvilke patogenesefaktorer har L. pneumophila?:: [[Biofilm]]
 - Hvad kendetegner L. pneumophilas emperaturtolerance/preferance?:: Den kan vækste i temperaturer op mod 45 grader C og dør ikke før meget højere temperaturer
+- Hvornår skifter L. pneumophilia phenotype?:: Når der mangler næring særligt nukleisyre
 - Hvad kendetegner L. pneumophilias 2 phenotyper?
 ?
 - Den replikative form når der er næring inde i en makrofag
@@ -34,6 +36,8 @@
 - Inhibation af fusion af fagosom og lysosom
 
 - Hvordan har L. pneumophilia "lært" at overleve intracellulært?:: I naturen bliver den tit spist af amøber og protozoer
+
+![[Pasted image 20261001140844.png]]
 ## Smitte og epidimologi 
 - Hvilken tendens har smittetilfælde med L. pneumophila
 - Hvordan smitter L. pneumophila?:: Gennem vand særligt vandbeholdere, men det kan også smitte fra menneske til menenske gennem dråber (det er den bakterie der hyppigst smitter fra vand i USA)
@@ -41,7 +45,20 @@
 - Hvem smittes ofte af L. pneumophila?:: Ældre
 
 ## Symptomer og komplikationer
-- Hvilke infektioner giver L. pneumophila?
+- Hvilke infektioner giver L. pneumophila?:: [[Lobær pneumoni]] 
+- Hvilke symptomer kommer først i en infektion med L. pneumophilia?:: [[Forkølelse]]
+- Hvilke symptomer giver L. pneumophilia?
+?
+- Feber (nærmest altid)
+- Hoste
+- Åndenød
+- Brystsmerter
+- Forvirring
+- (Diarre)
+- (Kvalme + opkast)
+- (Mavesmerter)
+
+- Hvad kendetegner opspyttet fra L. pneumophilia-infektion?:: Det er ikke grøn-gult som ved de fleste bakterieinfektioner
 
 - Hvilke komplikationer kan L. pneumophila give?:
 ## Diagnostik
@@ -49,6 +66,16 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres L. pneumophila?
 - Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
+- Hvilke toks-værdier ændre sig ved en L. pneumophilia infektion?
+?
+- GCS kan falde
+- Temp er høj
+- Sat-O$_2$ er lav
+
+- Hvad findes på en blodprøve af en person med L. pneumophilia?
+?
+- Kun let forhøjede leukocytter og uden dominerende neutrofile granulocytter
+- Tegn på lever eller nyreskade
 
 ## Forebyggelse og behandling
 - Hvlke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
