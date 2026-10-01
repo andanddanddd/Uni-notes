@@ -62,7 +62,7 @@ Læsning
 - [ ] (22) (Helicobactor pylori)
 - [ ] 23 (Tuberculose)
 - [x] 24 (Syfilis)
-- [ ] 25 (Borelia)
+- [x] 25 (Borelia)
 - [x] 27 (Clamydia)
 - [ ] (29)
 #### Virus JEG MANGLER TBE OG RUBULAVIRUS

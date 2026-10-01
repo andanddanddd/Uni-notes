@@ -8,7 +8,7 @@
 - Hvilken form har L. pneumophila?:: Stav
 <!--SR:!2026-10-04,4,270-->
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber)
-- Hvilket oxidativt miljø lever L. pneumophila bedst i?
+- Hvilket oxidativt miljø lever L. pneumophila bedst i?:: Aerob
 
 ## Patogenese
 - Hvilke celler inficere L. pneumophila?:: Makrofager
