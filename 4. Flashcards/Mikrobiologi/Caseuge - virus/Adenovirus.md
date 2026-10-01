@@ -4,6 +4,7 @@
 
 ## Struktur
 - Hvilken form har kapslen på adenovirus?:: Icesadral
+<!--SR:!2026-10-05,4,270-->
 - Har adenovirus en lipidmembran?:: Nej
 - Hvilken type arvematriale bruger adenovirus?:: dsDNA
 - Hvilken struktur har adenovirus´ arvematriale?:: Lineært (1 segment)
@@ -25,6 +26,7 @@
 - Hvor giver adenovirus oftest infektiner?:: Luftveje og fordøjelseskanal, men det kan også give [[Conjunctivitis]]
 <!--SR:!2026-10-03,3,250-->
 - Hvilke symptomer giver adenovirus når den giver øvre luftvejsinfektioner?:: [[Forkølelse]] plus kulderystelser, hovedpine, feber og muskelsmerter
+<!--SR:!2026-10-05,4,270-->
 
 ## Diagonstik
 - Hvordan diagnosticeres adenovirus?:: PCR (af enten fæces eller snot)

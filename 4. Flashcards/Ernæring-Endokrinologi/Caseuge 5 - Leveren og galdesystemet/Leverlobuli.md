@@ -15,5 +15,6 @@
 ![[Disses rum]]
 
 - Hvad er en muralium?:: Plader af hepatocytter
+<!--SR:!2026-10-05,4,270-->
 - Hvordan er forløbet af blokar i leverlobuli?:: De starter på lanten (mellem leverlobuli) og bevæger sig så ind
 <!--SR:!2026-10-05,4,270-->

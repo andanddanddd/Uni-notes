@@ -25,6 +25,7 @@
 - Hvordan kommer coronavirus ind i cellen? (mekanisme):: Membranfusion
 <!--SR:!2026-10-05,4,270-->
 - Hvad er specielt ved coronavirus RNA-polymerase?:: Den kan "hoppe" mellem forskelige steder på RNA og mellem forskellige stykker RNA hvilket resultere i rekombination, derudover har den en høj fejlrate
+<!--SR:!2026-10-05,4,270-->
 - Hvordan kommer coronavirus ud af cellen?:: Den får en lipidmembran og kommer ind i en vesikel i golgi herefter sker exocytose
 ## Smitte og epidemiologi
 - Hvornår ses flest tilfælde af coronavirus?:: Vinter og tidlig forår
@@ -57,6 +58,7 @@
 - Hvordan behandles coronavirus?:: Symptombehandling
 <!--SR:!2026-10-05,4,270-->
 - Hvordan forebygges coronaviris?:: Vaccine (mod [[Covid-19]])
+<!--SR:!2026-10-05,4,270-->
 - Hvad kendetegner [[Covid-19]]-vaccinen?:: mRNA-vaccine mod spike-proteiner
 <!--SR:!2026-10-05,4,270-->
 

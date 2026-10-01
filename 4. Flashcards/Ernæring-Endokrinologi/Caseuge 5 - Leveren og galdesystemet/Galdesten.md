@@ -17,7 +17,9 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 <!--SR:!2026-10-04,3,250-->
 
 - Hvad er tommelfingerreglen for alder som risikofaktor for galdesten?:: Mennesker over 40 har øget risiko
+<!--SR:!2026-10-05,4,270-->
 - Hvilket køn har størst risiko for galdesten?:: Kvinder
+<!--SR:!2026-10-05,4,270-->
 - Hvorfor har kvinder en højere risiko for galdesten?:: Østrogenniveu
 <!--SR:!2026-10-05,4,270-->
 - Hvorfor kan hurtigt vægttab give problemer?:: Der mangler lipider til at holde kolesterolen i opløsning

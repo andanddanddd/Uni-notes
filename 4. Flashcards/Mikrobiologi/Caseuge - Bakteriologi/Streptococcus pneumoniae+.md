@@ -46,6 +46,7 @@ Tendens
 
 ###### Serøse fase
 - Hvor længe varer den serøse fase af pnuemoni grundet s. pneumoniae?:: 1 dag (dag 1)
+<!--SR:!2026-10-05,4,270-->
 - Hvad kendetegner den serøse fase af penumoni grundet s. pneumoniae?:: Væske i alveoler men få neutrofile granulocytter
 - Hvorfor er der få neutrofile granulocytter i den serøse fase af pneumoni grundet s. pneumoniae?:: De bliver dræbt af [[Pneumolysin]]
 <!--SR:!2026-10-05,4,270-->

@@ -5,6 +5,7 @@
 - Hvor i leveren sker nekrose under akut leversygdom?:: Ved [[Centralvenen]]
 <!--SR:!2026-10-05,4,270-->
 - Hvad kendetegner akut leversygdom histologisk?:: Nekrose (særligt omkring centralvenen)
+<!--SR:!2026-10-05,4,270-->
 - Hvad er de hyppigste etiologier til akut leversygdom?
 ?
 - [[Viral hepatitis]]

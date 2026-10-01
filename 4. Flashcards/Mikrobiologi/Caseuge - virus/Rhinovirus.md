@@ -2,6 +2,7 @@
 
 
 - Hvilken virusfamilie bor rhinovirus i?:: [[Enterovirus]]
+<!--SR:!2026-10-05,4,270-->
 ## Struktur
 - Hvilken form har kapslen på rhinovirus
 - Har rhinovirus en lipidmembran?:: Nej

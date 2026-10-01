@@ -6,6 +6,7 @@ Mutere meget
 ## Struktur
 - Hvilken form har kapslen på hepatitis C
 - Har hepatitis C en lipidmembran?:: Ja
+<!--SR:!2026-10-05,4,270-->
 - Hvilken type arvematriale bruger hepatitis C?:: RNA+
 <!--SR:!2026-10-05,4,270-->
 - Hvilken struktur har hepatitis C´ arvematriale
@@ -20,7 +21,8 @@ Mutere meget
 <!--SR:!2026-10-05,4,270-->
 
 ## Symptomer og komplikationer
-- Hvor ofte giver hepatitis C [[Kronisk leversygdom]]?:: 80% af alle der får symptomer får kronisk leversygdom 
+- Hvor ofte giver hepatitis C [[Kronisk leversygdom]]?:: 80% af alle der får symptomer får kronisk leversygdom
+<!--SR:!2026-10-05,4,270-->
 - 
 
 ## Diagonstik

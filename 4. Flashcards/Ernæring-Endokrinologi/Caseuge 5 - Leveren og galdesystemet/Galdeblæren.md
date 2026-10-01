@@ -2,6 +2,7 @@
 
 
 - Hvad hedder galdeblæren på latin?:: Vesica biliaris
+<!--SR:!2026-10-05,4,270-->
 
 ![[Anatomi af gladeblæren]]
 
