@@ -23,7 +23,7 @@
 - Herpes
 - [[Neisseria gonorrhoeae+]]
 - [[HPV]]
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-15,43,290-->
 
 - Hvilke seksuelt overførte sygdomme får kun dem der udøver høj-risiko adfærd?
 ?

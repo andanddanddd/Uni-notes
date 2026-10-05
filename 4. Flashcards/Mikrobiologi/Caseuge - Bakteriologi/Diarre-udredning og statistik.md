@@ -5,7 +5,7 @@
 - Hvordan testes for tarmpatogener?:: [[PCR]] på en fæcesprøve
 <!--SR:!2026-11-28,60,310-->
 - Hvilken bakteriegruppe giver oftest diarresygdomme?:: [[Salmonella enterica]]
-<!--SR:!2026-10-02,10,230-->
+<!--SR:!2026-11-04,33,250-->
 - Hvilken virus giver ofetst diarre-sygdomme?:: [[Norovirus+]]
 <!--SR:!2026-11-30,62,310-->
 - Hvem dør oftest af diarre?:: Børn i u-lande (det er det der dræber næstflest børn)

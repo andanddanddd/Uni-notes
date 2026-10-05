@@ -45,7 +45,7 @@
 - Hvem smittes ofte af L. pneumophila?:: Ældre
 
 ## Symptomer og komplikationer
-- Hvilke infektioner giver L. pneumophila?:: [[Lobær pneumoni]] 
+- Hvilke infektioner giver L. pneumophila?:: [[Atypisk pneumoni]] (men alvorligt)
 - Hvilke symptomer kommer først i en infektion med L. pneumophilia?:: [[Forkølelse]]
 - Hvilke symptomer giver L. pneumophilia?
 ?
@@ -64,8 +64,10 @@
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
-- Hvordan diagnosticeres L. pneumophila?
+- Hvordan diagnosticeres L. pneumophila?:: Urinprøve eller bakteriekulturer (man kan også bruge PCR eller massespektroskopi)
+- Hvilke problemer har urinprøve som diagnostik for L. pneumophilia?:: Den opfanger kun havldelen af serotyper
 - Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
+- Hvilke ulemper har det at bruge dyrkning til diagnostik af L. pneumophilia?:: Det tager lang tid (3-5 dage) og kræver en speciel dyrkningsmedie
 - Hvilke toks-værdier ændre sig ved en L. pneumophilia infektion?
 ?
 - GCS kan falde
@@ -77,8 +79,12 @@ Hvordan genkendes den?
 - Kun let forhøjede leukocytter og uden dominerende neutrofile granulocytter
 - Tegn på lever eller nyreskade
 
+- Hvad ses typisk på en gram-farvning af opspyt fra en person inficerede med L. pneumophilia?:: Mange neutrofile granulocytter men nærmest ingen bakterier
+
+
 ## Forebyggelse og behandling
-- Hvlke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
+- Hvilke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
 <!--SR:!2026-10-04,3,250-->
-- Hvordan forebygges L. pneumophila?
+- Hvordan forebygges L. pneumophila?:: Monitorering af vand
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])
+- Hvilke krav er der til antibiotika mod L. pneumophilia?:: Det skal penetrere vores celler

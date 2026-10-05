@@ -5,4 +5,4 @@
 - Hvordan ses stapylococcus saprophyticus på en [[Koagulasetest]]?:: Den er koagulase- (ligesom de fleste andre staphylcoccer det er kun s. aureus der er koagulase+)
 <!--SR:!2026-12-03,66,310-->
 - Hvornår giver S. saprophyticus flest urinvejsinfektioner?:: Efterår
-<!--SR:!2026-10-02,16,290-->
+<!--SR:!2026-12-08,67,310-->

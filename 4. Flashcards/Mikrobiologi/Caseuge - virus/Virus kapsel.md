@@ -11,14 +11,14 @@
 - Ikosaedrisk
 - Helical/spiral (filamentous på engelsk)
 - Head tail (Kompleks)
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-16,44,290-->
 
 ![[Virus kapsel.png]]
 #### Occlusion
 
 ![[Virus kapsel former]]A?:: Ikosaedrisk
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-18,46,290-->
 ![[Virus kapsel former]]B?:: Helical/spiral (filamentous på engelsk)
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-19,47,290-->
 ![[Virus kapsel former]]C?:: Head tail (Kompleks)
 <!--SR:!2026-10-08,16,290-->

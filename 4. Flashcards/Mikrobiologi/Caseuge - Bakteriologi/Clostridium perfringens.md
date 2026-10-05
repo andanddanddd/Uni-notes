@@ -48,7 +48,7 @@
 <!--SR:!2026-10-14,16,290-->
 
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
-<!--SR:!2026-10-03,5,230-->
+<!--SR:!2026-10-16,13,230-->
 - Hvad kendetegner en sårinfektion grundet C. perfringens?::
 <!--SR:!2026-10-15,16,290-->
 ## Diagnostik

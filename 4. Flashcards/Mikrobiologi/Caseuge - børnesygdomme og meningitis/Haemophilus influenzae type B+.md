@@ -35,6 +35,7 @@ Smitevej
 <!--SR:!2026-10-09,11,270-->
 
 - Hvilke(n) type pneumoni giver H. influenzae?:: Både [[Bronkopneumoni]], [[Lobær pneumoni]] og [[Atypisk pneumoni]]
+<!--SR:!2026-10-06,4,270-->
 
 
 ## Diagnostik

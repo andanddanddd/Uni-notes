@@ -58,7 +58,7 @@ Læsning
 - [x] 17 (Inflammatorisk coleitis)
 - [ ] 18 (Pseudomonas)
 - [x] 19 (Bortadella pertussi)
-- [ ] 21 (Legionella)
+- [x] 21 (Legionella)
 - [ ] (22) (Helicobactor pylori)
 - [ ] 23 (Tuberculose)
 - [x] 24 (Syfilis)

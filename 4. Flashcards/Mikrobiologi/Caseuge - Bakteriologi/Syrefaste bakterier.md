@@ -9,4 +9,4 @@
 - Hvad kendetegner væksten af de syrefaste bakterier?:: De deler sig langsomt
 <!--SR:!2026-11-16,56,310-->
 - Hvilken farvemetode bruges til at farve de syrefaste bakterier?:: Ziehl-Neelsen technique
-<!--SR:!2026-10-03,16,210-->
+<!--SR:!2026-11-20,48,230-->

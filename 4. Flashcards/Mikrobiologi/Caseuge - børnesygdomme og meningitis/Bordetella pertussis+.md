@@ -22,7 +22,7 @@
 - [[Tracheal cytotoxin (TCT)]]
 - [[Lipooligosaccharide (LOS)]]
 - [[Biofilm]]
-<!--SR:!2026-10-03,3,170-->
+<!--SR:!2026-10-10,7,190-->
 
 - Hvilke mekanismer giver den karakteristisek hoste fra B. pertussis?:: Der er meget mucus samtidig med at hostereceptorer bliver mere følsomme og cillierne bliver ødelagt så de nedre luftveje er generalt dårligere til at komme af med mucus
 <!--SR:!2026-10-14,16,290-->

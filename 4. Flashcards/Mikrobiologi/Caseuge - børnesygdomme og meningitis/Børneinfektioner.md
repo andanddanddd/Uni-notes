@@ -12,7 +12,7 @@
 - [[Hånd-fod-mund-syge]]
 - [[Roseola infantum]]
 - [[Scarletina]]
-<!--SR:!2026-10-03,5,230-->
+<!--SR:!2026-10-16,13,230-->
 
 - Hvad er de typiske infektioner af nyfødte (kogenitte infektinoer)?
 ?
@@ -21,7 +21,7 @@
 - [[Rubulavirus+]]
 - [[CMV+]]
 - [[Alfaherpesvirus]]
-<!--SR:!2026-10-03,5,230-->
+<!--SR:!2026-10-16,13,230-->
 
 - Hvorfor skal man være særlig opmærksom på feber ved små børn?:: De er generalt dårlige til at lave feber
 <!--SR:!2026-10-13,15,290-->

@@ -9,7 +9,7 @@
 - Hvilke infektioner giver skimmelsvampe oftest?:: Hud, hår og neglesvamp
 <!--SR:!2026-10-06,14,290-->
 - Hvilke ikke overfladiske infektioner giver skimmelsvampe oftest?:: Lungeinfektioner og infektioner i bihulerne
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-17,45,290-->
 - Hvilker toksin kan nogle skimmelsvampe lave der kan være i fødevarer?:: aflatoxin
 <!--SR:!2026-10-16,16,230-->
 

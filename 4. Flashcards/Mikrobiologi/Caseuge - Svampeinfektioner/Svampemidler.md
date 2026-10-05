@@ -5,4 +5,4 @@
 - Hvorfor virker [[Sulfonamider]] mod svampe?:: De skal også lave deres egen folsyre
 <!--SR:!2026-10-07,16,290-->
 - Hvilke 2 strukture/synteser rammes overordnet af svampemidler?:: Ergosterol og $\beta$-glucan
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-17,45,290-->

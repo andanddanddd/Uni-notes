@@ -49,7 +49,7 @@
 - Budding (omvendt membranfusion)
 - Exocytose
 - Lyse
-<!--SR:!2026-10-04,12,270-->
+<!--SR:!2026-11-19,45,290-->
 
 ![[Latente virus]]
 

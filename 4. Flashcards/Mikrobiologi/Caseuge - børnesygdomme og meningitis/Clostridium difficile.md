@@ -52,7 +52,7 @@ Hvordan genkendes den?
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er C. difficile resistente overfor?:: [[Flourquinoloner]] (sporene er resistente overfor det meste)
-<!--SR:!2026-10-03,5,230-->
+<!--SR:!2026-10-06,3,210-->
 - Hvordan forebygges C. difficile?:: Hygiejne og undgå at give specifikke antibiotika til folk i risikogruppen for C. difficile
 <!--SR:!2026-10-14,15,290-->
 - Hvordan behandles C. difficile?:: Nogle gange skal den antibiotiakkur der førte til infektionen stoppes ellers kan [[Vancomyocin]] eller [[Metronidazol]] gives
