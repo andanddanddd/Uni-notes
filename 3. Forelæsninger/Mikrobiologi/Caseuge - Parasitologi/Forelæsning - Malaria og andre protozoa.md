@@ -3,6 +3,8 @@
 
 ![[Parasitter]]
 
+![[Protozoa]]
+
 [[Malaria+]]
 [[Entamoeba]]
 [[Giardia]]
