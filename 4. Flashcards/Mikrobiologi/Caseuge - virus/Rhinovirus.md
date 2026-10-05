@@ -10,18 +10,19 @@
 - Hvilken type arvematriale bruger rhinovirus?:: RNA+
 <!--SR:!2026-10-07,4,270-->
 - Hvilken struktur har rhinovirus´ arvematriale?:: 1 RNAmolekyle
+<!--SR:!2026-10-09,4,270-->
 ## Livscyklus
 - Hvilke celler inficere rhinovirus?:: Epitelceller i næsen og nasopharynx
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 - Hvordan kommer rhinovirus ind i cellen?:: Micropinocytose eller endocytose
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-16,11,270-->
 - Hvilken receptor bruger rhinovirus til at komme ind i celler med?:: ICAM-1 eller LDLr
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - Hvornår/hvordan slipper RNAet ud af kapslen?:: I endosomet
 <!--SR:!2026-10-12,7,250-->
 - Replikation
 - Hvordan inducere rhinovirus symptomer under forkølelse?:: Det er primært immunresponset vi kan mærke, blandt andet  der sker
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 ## Smitte og epidemiologi
 - Hvornår på året sker flest infektioner med rhinovirus?:: Det sker hele året men særligt i forår og efterår
 <!--SR:!2026-10-09,4,270-->
@@ -32,7 +33,7 @@
 
 ## Symptomer og komplikationer
 - Hvilken "sygdom" giver rhinovirus oftest?:: [[Forkølelse]]
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-20,15,290-->
 - Udover forkølelse hvilke infektioner kan rhinovirus give?:: Infektioner i nedre luftveje ([[Pneumoni]])
 <!--SR:!2026-10-17,12,270-->
 

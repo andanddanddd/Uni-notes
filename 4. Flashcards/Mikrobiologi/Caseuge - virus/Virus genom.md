@@ -7,7 +7,7 @@
 - Hvad er et episom?:: Cirkulært DNA som kan integreres i kromosomet (lidt ligesom et plasmid)
 <!--SR:!2026-10-16,16,290-->
 - Hvilken forskel er der på strukturen af et gen i en virus og et menneske?:: Virus har ingen introns
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-11-28,54,310-->
 - Hvad er forskellen på et gen og en open reading frame?:: ORF er bare en stykke nukleinsyre med et start og slut-codon
 <!--SR:!2026-12-02,58,310-->
 - Hvordan får virus plads til så mange open reading frames på meget lidt plads?:: De kan forekomme i begge retninger og de kan ligge oveni hinaden (som om der er sket frameshift) ![[Pasted image 20260916151447.png]]

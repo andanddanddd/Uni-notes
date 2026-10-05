@@ -39,6 +39,7 @@
 - Giver det immunitet at være smittet tidligere?:: Det gør senere infektioner mildere
 <!--SR:!2026-10-20,15,290-->
 - Hvordan behandles RS-virus?:: Symptombehandling
+<!--SR:!2026-10-09,4,270-->
 
 
 

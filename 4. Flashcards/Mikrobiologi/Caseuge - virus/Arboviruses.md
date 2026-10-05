@@ -5,7 +5,7 @@
 - Hvad er arboviruser overordnet?:: Viruser der smitter gennem insekter
 <!--SR:!2026-10-07,4,270-->
 - Hvilke insekter kan bruges til at overfører arboviruser?:: Myg, flåter, blodsugende fluer
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - Hvad sker med arbevirus i insektet (vektoren) før den kan smitte til mennesker?:: Virussen replikere og ender i smyttet af insekten
 <!--SR:!2026-10-09,4,270-->
 - Hvor ender arbovirussen når et insekt smitter et menneske?:: Blodbanen
@@ -25,7 +25,7 @@
 - Hvordan giver det mening af smitte med arbovirus er sesonafhængig?:: Insekterne flytter sig eller går i hi eller noget
 <!--SR:!2026-10-19,14,290-->
 - Hvorfor giver det mening at arbovirus er geografisk låst?:: For den kan sprede sig skal både insekterne og dyrene den der ikke er dead end host flytte sig
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 - Hvilke arbevirus er typisk spredt over det største geografiske areal?:: Dem der bruger fugle som hvert
 <!--SR:!2026-10-20,15,290-->
 

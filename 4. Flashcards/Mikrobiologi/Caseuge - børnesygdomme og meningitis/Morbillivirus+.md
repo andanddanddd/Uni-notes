@@ -29,12 +29,12 @@
 - Hvor længe er kan en person inficeret med morbillivirus smitte?:: 2-3 dage før udslettet kommer og 4 dage efter det forsvinder
 <!--SR:!2026-10-19,14,290-->
 - Hvor "lever" morbillivirus normalt?:: Kun i mennesker
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 ## Symptomer og komplikationer
 - Hvad er inkubationstiden af morbillivirus?:: 10-14 dage
 <!--SR:!2026-10-06,4,270-->
 - Hvorfor er inkubationstiden af morbillivirus så lang?:: Efter den har inficeret luftvejsepitelet spreder den sig i blodet, herefter går der et par dage til der igen ses store mængder virus i blodet, først anden gang der er virus i blodet kommer symptomerne
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - Hvordan gør morbillivirus os syge?:: Det dræber epitelceller men mange af symptomerne kommer fra immunresponset
 <!--SR:!2026-10-08,3,250-->
 - Hvilken sygdom giver morbillivirus?:: [[Mæslinger]]

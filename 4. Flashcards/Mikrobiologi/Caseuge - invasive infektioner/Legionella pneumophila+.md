@@ -8,12 +8,13 @@
 - Hvilken form har L. pneumophila?:: Stav
 <!--SR:!2026-10-21,16,290-->
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber og [[Protozoa]])
+<!--SR:!2026-10-09,4,270-->
 - Hvilket oxidativt miljø lever L. pneumophila bedst i?:: Aerob
 <!--SR:!2026-10-17,12,270-->
 
 ## Patogenese
 - Hvilke celler inficere L. pneumophila?:: Makrofager i [[Alveoler]]ne
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-16,11,270-->
 - Hvilken effekt har makrofagerne i alveolerne på væksten af L. pneumophilia?:: De forhindre ikke vækst (eller dræber) før de bliver aktiveret af cytokiner
 <!--SR:!2026-10-06,4,270-->
 - Hvordan undgår L. pneumophila at dø intracellulært?:: Forhindre fusion af fagosom og lysosom
@@ -42,6 +43,7 @@
 - Flageller
 - Resistent overfor osmotisk tryk
 - Inhibation af fusion af fagosom og lysosom
+<!--SR:!2026-10-09,4,270-->
 
 - Hvordan har L. pneumophilia "lært" at overleve intracellulært?:: I naturen bliver den tit spist af amøber og protozoer
 <!--SR:!2026-10-06,4,270-->
@@ -69,6 +71,7 @@
 - (Diarre)
 - (Kvalme + opkast)
 - (Mavesmerter)
+<!--SR:!2026-10-08,3,250-->
 
 - Hvad kendetegner opspyttet fra L. pneumophilia-infektion?:: Det er ikke grøn-gult som ved de fleste bakterieinfektioner
 <!--SR:!2026-10-06,4,270-->
@@ -78,11 +81,13 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres L. pneumophila?:: Urinprøve eller bakteriekulturer (man kan også bruge PCR eller massespektroskopi)
+<!--SR:!2026-10-09,4,270-->
 - Hvilke problemer har urinprøve som diagnostik for L. pneumophilia?:: Den opfanger kun havldelen af serotyper
 <!--SR:!2026-10-07,4,270-->
 - Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
 <!--SR:!2026-10-07,4,270-->
 - Hvilke ulemper har det at bruge dyrkning til diagnostik af L. pneumophilia?:: Det tager lang tid (3-5 dage) og kræver en speciel dyrkningsmedie
+<!--SR:!2026-10-09,4,270-->
 - Hvilke toks-værdier ændre sig ved en L. pneumophilia infektion?
 ?
 - GCS kan falde

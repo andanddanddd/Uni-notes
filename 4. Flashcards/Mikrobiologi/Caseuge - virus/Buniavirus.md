@@ -5,9 +5,9 @@
 ## Struktur
 - Hvilken form har kapslen på buniavirus
 - Har buniavirus en lipidmembran?:: Ja
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-19,14,290-->
 - Hvilken type arvematriale bruger buniavirus?:: RNA-
-<!--SR:!2026-10-05,2,210-->
+<!--SR:!2026-10-09,4,210-->
 - Hvilken struktur har buniavirus´ arvematriale?:: Lineært segmenteret
 <!--SR:!2026-10-08,3,230-->
 ## Livscyklus

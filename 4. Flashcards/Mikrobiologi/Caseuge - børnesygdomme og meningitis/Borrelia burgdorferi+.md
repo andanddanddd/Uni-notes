@@ -21,6 +21,7 @@
 - Hvor hurtigt deler B. burgdorferi sig?:: Hver 8-12 time
 <!--SR:!2026-10-09,4,270-->
 - Hvorfor bliver vi typisk ikke smittet hvis vi fjerner flåten indenfor 24 timer?:: B. burgdorferi skal lave nogle modifikationer hvilket tager tid (fx skal de overleve ved en højere temperatur)
+<!--SR:!2026-10-09,4,270-->
 - Hvordan ændres overfladeproteinerne på B. burgdorferi når den skal inficere pattedyr?:: OspA erstattes med OspC
 <!--SR:!2026-10-06,3,250-->
 - Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
@@ -91,9 +92,9 @@ Hvordan genkendes den?
 - Hvordan diagnosticeres B. burgdorferi?:: Serologi og anamnese (kræver til tider en lumbalpunktur)
 <!--SR:!2026-10-12,14,290-->
 - Hvornår kan det være svært at diagnosticere B. burgdorferi og hvorfor?:: I stadie 3, eftersom den er bekæmpet systemisk men stadig giver lokale problemer (det kan fx findes i ledvæske)
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - Hvorfor dyrker man ikke B. burgdorferi?:: Det tager lang tid og spiraler er generalt sværre at genkende
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-20,15,290-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?

@@ -14,7 +14,7 @@
 
 ## Patogenese
 - Hvilke celler inficere M. pneumoniae?:: Det gør den ikke de
-<!--SR:!2026-10-05,2,230-->
+<!--SR:!2026-10-12,7,250-->
 - Hvilke patogenesefaktorer har M. pneumoniae?
 - Hvad sker med cellerne i respirationssystemet når M. pneumoniae binder dertil?:: Ciliostase
 <!--SR:!2026-10-17,12,270-->
@@ -35,7 +35,7 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres M. pneumoniae?
 - Hvad kendetegner M. pneumoniae på blodprøver?:: CRP kan være negativ (lav)
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-17,12,270-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har M. pneumoniae?

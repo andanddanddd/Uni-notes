@@ -49,7 +49,7 @@ Overlever godt i neutrofile granulocytter
 ?
 - Gentagende sekvenser mellem promoterregionen og genet, disse replikeres ofte forkert når det sker vil genet enten stoppe med at blive transskriberes eller begynde på det igen
 - Inversion, vender genet om i forhold til promoterregionen
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-12-02,58,310-->
 
 ## Symptomer/komplikationer
 

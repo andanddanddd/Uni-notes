@@ -16,14 +16,14 @@
 - [[Bronkopneumoni]]
 - [[Atypisk pneumoni]]
 - Oppertunistisk pneumoni (sekundlr bakteriel pneumoni)
-<!--SR:!2026-10-05,3,250-->
+<!--SR:!2026-10-16,11,270-->
 
 - Hvad er de 3 typer af pneumoni baseret på smittekilde?
 ?
 - Samfunserhvervet (CAP)
 - Hospitalserhvervet (HAP)
 - Respirator-associeret (VAP)
-<!--SR:!2026-10-04,3,250-->
+<!--SR:!2026-10-13,8,250-->
 
 ![[Pasted image 20260925081858.png]]
 ## Patogenese

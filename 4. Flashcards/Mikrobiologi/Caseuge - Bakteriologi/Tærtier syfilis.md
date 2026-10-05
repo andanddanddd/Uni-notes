@@ -7,4 +7,4 @@
 - Hvorfor er tærtier syfilis blevet mere sjældent selvom syfilistilfælde er steget?:: Der går så lang tid før tærtier syfilis finder sted at mange når at blive behandlet for en ureleteret infektion og dermed også dræber [[Treponema pallidum]] i processen
 <!--SR:!2026-12-02,58,310-->
 - Hvad sker overordnet i tærtier syfilis?:: Der dannes en nekotiserende granuloma
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-11-14,40,290-->

@@ -26,7 +26,7 @@
 - Hvor "normal" er norovirus(hvor ofte giver den sygdomme)?:: Det er den mest almindelige virale årsag til diarre i voksne (2. mest i børn)
 <!--SR:!2026-10-07,4,270-->
 - Hvilken genetisk "tilstand" giver resistens mod nogle norovirus?:: Blodtype O
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-19,14,290-->
 
 ## Symptomer og komplikationer
 - Hvad er inkubationstiden af norovirus?:: 12-48 timer

@@ -10,7 +10,7 @@
 - Har influenzavirus en lipidmembran?:: Ja
 <!--SR:!2026-10-16,16,290-->
 - Hvad hedder influenza 2 typer glykoproteiner?:: Hemaggutinin (HA) og Neuraminidase (NA)
-<!--SR:!2026-10-04,5,230-->
+<!--SR:!2026-10-18,13,230-->
 - Hvilken effekt har M2 proteiner?:: Influx af H+ igennem lipidmembranen hvilket denaturere kapslen så arvematrialet kan komme ud
 <!--SR:!2026-10-13,15,290-->
 
