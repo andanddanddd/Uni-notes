@@ -12,7 +12,7 @@
 - Hvor længe går der fra myggestik til man opdager malaria for P. ovale?:: Der kan gå flere måneder
 - Hvor længe går der fra myggestik til man opdager malaria for P. vivax?:: Der kan gå flere år
 - Hvordan overlever for der bor i malariaområde?:: Der anses det som en børnesygdom hvorefter der opbygges immunitet
-- Hvorfor er der stor 
+- Hvorfor er der stor risiko for at flygtninge der besøger der malariaramte hjemland bliver syge?:: De har mistet deres immunitet
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
 
@@ -25,5 +25,8 @@
 2. Feberstadiet (Feber og intens hovedpine)
 3. Svedestadiet (Meget sved, temp og hovedpine falder)
 ## Diagnostik
-- Hvordan diagnosticeres malaria overordnet?:: Blodudstryg og bloddyrkning
+- Hvordan diagnosticeres malaria overordnet?:: Blodudstryg + bloddyrkning eller PCR
 - Hvornår mistænkes malaria?:: Feber på personer der for nyligt har været i en malariaområde
+
+## Forebyggelse og behandling
+- Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk

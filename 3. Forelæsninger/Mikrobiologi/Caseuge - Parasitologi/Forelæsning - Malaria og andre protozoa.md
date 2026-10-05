@@ -7,5 +7,5 @@
 
 [[Malaria+]]
 [[Entamoeba]]
-[[Giardia]]
+[[Giardia lamblia]]
 [[Toxoplasma gondii]]
