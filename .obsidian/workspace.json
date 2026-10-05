@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flagellata.md",
+                "file": "Metazoa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flagellata"
+              "title": "Metazoa"
             }
           }
         ]
@@ -52,9 +52,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - Malaria og andre protozoer"
             }
+          },
+          {
+            "id": "f51176909e802845",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Børneorm, Spoleorm og andre Metazoa"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,13 +257,18 @@
   },
   "active": "3fb455bd3592cabe",
   "lastOpenFiles": [
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Børneorm, spoleorm og andre metazoa.md",
+    "Metazoa.md",
+    "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
+    "1. Fag/Mikrobiologi.md",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Malaria og andre protozoa.md",
+    "Entamoeba histolytika.md",
     "Giardia lamblia.md",
     "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Malaria og andre protozoer.pdf",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Malaria og andre protozoa.md",
+    "Amoeba.md",
+    "Flagellata.md",
     "Sporozoa.md",
     "Toxoplasma gondii.md",
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Børneorm, spoleorm og andre metazoa.md",
-    "1. Fag/Mikrobiologi.md",
     "Malaria+.md",
     "Plasmodium falciparum.md",
     "Pasted image 20261005133613.png",
@@ -259,12 +276,9 @@
     "Ciliophora.md",
     "Pasted image 20261005131636.png",
     "Pasted image 20261005131549.png",
-    "Flagellata.md",
     "Pasted image 20261005131426.png",
-    "Amoeba.md",
     "Pasted image 20261005131321.png",
     "Parasitter.md",
-    "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
     "Externe dokumenter/MIkrobiologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
     "Externe dokumenter/MIkrobiologi/Parasitologi/msoE00.tmp",
     "Externe dokumenter/MIkrobiologi/Parasitologi",
@@ -285,7 +299,6 @@
     "4. Flashcards/Fordøjelse II/Hemachromatose.md",
     "Billeder/Fordøjelsesystemet",
     "4. Flashcards/Fordøjelse II/Leversygdomme.md",
-    "4. Flashcards/Fordøjelse II/Autoimmun hepatitis.md",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930152305.png",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930144525.png",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930144115.png",

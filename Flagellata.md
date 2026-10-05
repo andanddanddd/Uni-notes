@@ -1,5 +1,5 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kendetegenr flagellata?:: Flageller
-- E
+- Eksempel på flagellata?:: [[Giardia lamblia]]
 ![[Pasted image 20261005131426.png]]

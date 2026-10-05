@@ -6,6 +6,6 @@
 ![[Protozoa]]
 
 [[Malaria+]]
-[[Entamoeba]]
+[[Entamoeba histolytika]]
 [[Giardia lamblia]]
 [[Toxoplasma gondii]]
