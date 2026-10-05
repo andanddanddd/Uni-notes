@@ -34,9 +34,9 @@
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
 <!--SR:!2026-10-15,16,290-->
 - Hvad gør proteinet VIF?:: Stopper en antiviral komponent der inducere fejl i revers transskribtion
-<!--SR:!2026-10-03,2,170-->
+<!--SR:!2026-10-06,3,170-->
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
-<!--SR:!2026-10-02,1,170-->
+<!--SR:!2026-10-10,5,190-->
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
 <!--SR:!2026-10-08,7,250-->
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP

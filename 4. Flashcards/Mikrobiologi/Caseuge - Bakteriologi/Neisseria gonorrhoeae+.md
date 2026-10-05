@@ -6,7 +6,7 @@ Methylblot på slide 8
 - Hvilken sygdom giver N. gonorrhaeae?:: [[Gonoré]]
 <!--SR:!2026-10-08,16,290-->
 - Hvilken form har N. gonorrhoaea?:: Kokker (bønneformede)
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-18,46,290-->
 - Hvordan er lejringen af N. gonorrhoaea?:: Diplokokker
 <!--SR:!2026-10-07,16,290-->
 - Hvilken vækstmedie gror man typisk N. gonorrhoaea på?:: [[Chokoladeagerplader]]
@@ -42,9 +42,9 @@ Overlever godt i neutrofile granulocytter
 - Hvilken type epitelcelle interagere N. gonorrhoeae særligt med?:: Dem med cilia
 <!--SR:!2026-10-06,15,290-->
 - Hvordan inducere N. gonorrhoeae inflammation?:: [[Lipooligosaccharide (LOS)]]
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-12-01,57,310-->
 - Hvordan kan N. gomorrhoeae ændre sin pili?:: I dens DNA findes 1 egentligt gen til pili og mange (15 ish) kodende sekvnser for pili der mangler en promoterregion, gonokkoken kan så kopiere en del af en af de ekstra pili-sekvenser hen til pili-sekvenser med promoterregion
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-16,44,290-->
 - Hvilke 2 måder kan fasevariation ske på?
 ?
 - Gentagende sekvenser mellem promoterregionen og genet, disse replikeres ofte forkert når det sker vil genet enten stoppe med at blive transskriberes eller begynde på det igen
@@ -61,7 +61,7 @@ Kan give blivende bruskskade
 - Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt
 <!--SR:!2026-10-06,14,290-->
 - Hvad kaldes tilstanden når N. gonorrhoeae når adnexa?:: [[Pelvic inflammatory disease (PID)]]
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-05,33,270-->
 - Hvilken tilstand kan det give hvis N. gonorrhoeae bevæger sig "dybere" i en mand:: [[Epididymidis]]
 <!--SR:!2026-10-08,16,290-->
 - Hvad sker overordnet hvis man for N. gonorrhoeae fra oralsex?:: Det giver usymptomatisk pharyngitis
@@ -72,7 +72,7 @@ Kan give blivende bruskskade
 - Hvordan tester man typisk for gonorré?:: PCR-test
 <!--SR:!2026-10-06,15,290-->
 - Hvilken bakterier tester man for samtidig test for N. gonorrhoeae?:: [[Chlamydia trachomatis+]]
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-11-28,54,310-->
 - Hvorfor poder man mange steder fra når man skla dyrke N. gonorrhoeae?:: Den er svær at dyrke
 <!--SR:!2026-10-06,15,290-->
 - Hvorfor kan immunsystemet nemt genkende N. gonorrhoeaes pili men uden at kunne lave et godt adaptivt respons imod det eller kunne bruge det i en vaccine?:: De varriere meget fra gonokok til gonokok

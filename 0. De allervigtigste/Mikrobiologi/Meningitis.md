@@ -22,7 +22,7 @@
 <!--SR:!2026-10-06,5,230-->
 
 - Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
-<!--SR:!2026-10-04,3,230-->
+<!--SR:!2026-10-16,11,250-->
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 <!--SR:!2026-10-16,16,290-->
@@ -70,7 +70,7 @@
 - Hvad kendetegner meningitis grundet [[Listeria monocytogenes+]]?:: Gammel (>50 år), immundefekter, lang symptomvarighed
 <!--SR:!2026-10-09,11,270-->
 - Hvad kendetegner menigitis grundet [[Haemophilus influenzae type B+]]?:: Ældre, tidligere eller nuværende infektioner med [[Otitis media]] eller [[Sinuitis]], potentielt defekt i [[Basis cranii]]
-<!--SR:!2026-10-05,5,230-->
+<!--SR:!2026-10-22,17,250-->
 - Hvad kendetegner meningitis grundet [[Staphylococcus aureus+]]?:: Tidligere eller nuværende infektion af enten [[Endocardidis]] eller [[OSteromyelitis]]
 <!--SR:!2026-10-09,11,270-->
 - Hvad kendetegner meningitis grundet [[Streptococcus agalactiae]]?:: Ældre, strofmisbrug, tidligere eller nuværende infektion af [[Endocardidis]], [[Otitis media]] eller [[Sinuitis]]

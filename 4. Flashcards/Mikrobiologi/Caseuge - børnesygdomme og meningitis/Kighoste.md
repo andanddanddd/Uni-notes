@@ -9,7 +9,7 @@
 - Hvad er symptomerne i stadie 1 af kighoste?:: Det ligner forkølelse (snottet, tårer og hoste)
 <!--SR:!2026-10-13,14,290-->
 - Hvad kaldes stadie 1 af kighoste?:: Kataralsk stadie
-<!--SR:!2026-10-02,1,190-->
+<!--SR:!2026-10-10,5,210-->
 #### Stadie 2
 - Hvad er symptomerne i stadie 2 af kighoste?:: Hyppige slemme [[Paroxysms]]
 <!--SR:!2026-10-13,15,290-->
@@ -23,4 +23,4 @@
 - Hvor længe varer stadie 3 af kighoste?:: 2-3 uger (op til 6 mdr ifølge bogen)
 <!--SR:!2026-10-13,15,290-->
 - Hvad kaldes stadie 3 af kighoste?:: Rekonvalescens stadie:
-<!--SR:!2026-10-03,5,230-->
+<!--SR:!2026-10-16,13,230-->

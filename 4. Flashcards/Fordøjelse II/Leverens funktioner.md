@@ -6,6 +6,6 @@
 - Eksretion af [[Galdesalte]]
 - Aftoksificering
 - Syntese
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 
 ![[Pasted image 20260930142720.png]]

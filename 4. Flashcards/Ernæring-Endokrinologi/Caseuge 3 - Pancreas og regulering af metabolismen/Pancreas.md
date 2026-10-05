@@ -9,13 +9,13 @@
 - [[Caput pancreatis]]
 - Corpus
 - [[Cauda pancreatis]]
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 
 - Hvad hedder pancreas 2 udførselsgange?
 ?
 - [[Ductus pancreaticus]]
 - [[Ductus pancreaticus accessorius]]
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 
 ![[Den exokrine pancreas]]
 

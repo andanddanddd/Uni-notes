@@ -23,7 +23,7 @@
 - [[Proctitis]]
 - [[Reaktiv arthritis]]
 - [[Conjunctivitis]]
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-05,33,270-->
 
 - Hvilke "sygdomme"/infektioner kan C. trachomatis give hos mænd? (5)
 ?
@@ -32,19 +32,19 @@
 - [[Reaktiv arthritis]]
 - [[Conjunctivitis]]
 - [[Reithers syndrom]]
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-03,31,270-->
 
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
 <!--SR:!2026-10-11,13,230-->
 - Hvor kan clamydia sprede sig hen fra vagina?:: Rectum og højre op dvs det kan give [[Endometritis]] og [[Pelvic inflammatory disease (PID)]]
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-11-28,54,310-->
 - Hvilken type cancer kan kvinder med tidligere C. trachomatis infektion være i øget risiko for at få?:: Ovariecancer
 <!--SR:!2026-10-07,15,290-->
 
 ![[Trachoma]]
 ## Diagnostik/behandling
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
-<!--SR:!2026-10-03,12,270-->
+<!--SR:!2026-11-17,45,290-->
 - Hvordan diagnosticeres en infektion med C. trachomatis?:: PCR
 <!--SR:!2026-10-07,16,290-->
 - Hvor kan man pode til en bakteriedyrkning med C. trachomatis? (5)

@@ -82,4 +82,4 @@
 - Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet
 - RNA-replikation hæmmes
 - Stoppe Sialinsyrereceptorer fra at blive nedbrugt/internaliseret
-<!--SR:!2026-10-05,10,270-->
+<!--SR:!2026-10-31,26,270-->

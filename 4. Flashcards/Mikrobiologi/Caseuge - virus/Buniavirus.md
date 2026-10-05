@@ -7,8 +7,9 @@
 - Har buniavirus en lipidmembran?:: Ja
 <!--SR:!2026-10-05,4,270-->
 - Hvilken type arvematriale bruger buniavirus?:: RNA-
-<!--SR:!2026-10-02,1,230-->
+<!--SR:!2026-10-05,2,210-->
 - Hvilken struktur har buniavirus´ arvematriale?:: Lineært segmenteret
+<!--SR:!2026-10-08,3,230-->
 ## Livscyklus
 - Hvilke celler inficere buniavirus
 - Hvordan kommer buniavirus ind i cellen? (mekanisme)

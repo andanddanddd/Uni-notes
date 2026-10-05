@@ -21,7 +21,7 @@
 - Hvilken sygdom giver C. tetani typisk?:: [[Stivkrampe]]
 <!--SR:!2026-10-12,14,290-->
 - Hvad kaldes tetanus' toksin der giver sygdom?:: [[Tetanospasmin]]
-<!--SR:!2026-10-05,10,270-->
+<!--SR:!2026-11-11,37,290-->
 - Hvorfor sker neonatal tetanus?:: Tetanus i navlestrengen
 <!--SR:!2026-10-13,15,290-->
 - Hvad er typisk det første symptom på stivkrampe?:: Låst kæbe

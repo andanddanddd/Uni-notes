@@ -6,9 +6,9 @@ Mutere meget
 ## Struktur
 - Hvilken form har kapslen på hepatitis C
 - Har hepatitis C en lipidmembran?:: Ja
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-19,14,290-->
 - Hvilken type arvematriale bruger hepatitis C?:: RNA+
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-19,14,290-->
 - Hvilken struktur har hepatitis C´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere hepatitis C
@@ -18,11 +18,11 @@ Mutere meget
 - Tendens i tilfælde
 - Hvor "lever" hepatitis C normalt
 - Hvordan smitter hepatitis C?:: Deling af blod eller sexuel kontakt (IV stofmisbrug er mest alminelig i DK)
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 
 ## Symptomer og komplikationer
 - Hvor ofte giver hepatitis C [[Kronisk leversygdom]]?:: 80% af alle der får symptomer får kronisk leversygdom
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - 
 
 ## Diagonstik
