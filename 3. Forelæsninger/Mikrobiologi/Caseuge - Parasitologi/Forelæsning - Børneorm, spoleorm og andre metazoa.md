@@ -4,6 +4,6 @@
 ![[Metazoa]]
 
 [[Cestodes (Bændelorm)]]
-[[Ascaris (Spolorm)]]
+[[Ascaris lumbricoide(Spoleorm)]]
 [[Enterobiasis (Børneorm)]]
 [[Schistosomiasis (sneglefeber/Bilharziose)]]
