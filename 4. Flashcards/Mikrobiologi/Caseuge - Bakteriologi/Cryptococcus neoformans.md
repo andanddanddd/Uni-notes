@@ -2,7 +2,7 @@
 
 
 - Hvad er Cryptococcus neoformans overordnet?:: En gærscamp ([[Gærsvampe]])
-<!--SR:!2026-10-04,12,270-->
+<!--SR:!2026-11-06,32,270-->
 - Hvor lever Cryptococcus neoformans neoformans normalt?:: Rådne planter og fugle (inkl fugleafføring)
 <!--SR:!2026-11-19,45,290-->
 - Hvordan smitter Cryptococcus neoformans normalt?:: Inhalation af spore

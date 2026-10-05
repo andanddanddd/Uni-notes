@@ -10,9 +10,9 @@
 - Hvilken type arvematriale bruger adenovirus?:: dsDNA
 <!--SR:!2026-10-04,1,210-->
 - Hvilken struktur har adenovirus´ arvematriale?:: Lineært (1 segment)
-<!--SR:!2026-10-04,3,250-->
+<!--SR:!2026-10-16,11,270-->
 - Hvad kendetgener adenovirus udssende?:: I hver hjørne af kapslen er der et langt protein![[Pasted image 20260928103415.png]]
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-21,16,290-->
 ## Livscyklus
 - Hvilke celler inficere adenovirus
 - Hvordan kommer adenovirus ind i cellen? (mekanisme):: Endocytose
@@ -25,13 +25,13 @@
 - Hvordan smitter adenovirus?:: Dråber eller i vand/mad
 <!--SR:!2026-10-07,4,270-->
 - I hvilke grupper sker der oftest udbrud af adenovirus?:: Skolebørn og i militeret
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-17,12,270-->
 
 ## Symptomer og komplikationer
 - Hvor giver adenovirus oftest infektiner?:: Luftveje og fordøjelseskanal, men det kan også give [[Conjunctivitis]]
 <!--SR:!2026-10-15,12,270-->
 - Hvilke symptomer giver adenovirus når den giver øvre luftvejsinfektioner?:: [[Forkølelse]] plus kulderystelser, hovedpine, feber og muskelsmerter
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-21,16,290-->
 
 ## Diagonstik
 - Hvordan diagnosticeres adenovirus?:: PCR (af enten fæces eller snot)

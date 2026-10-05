@@ -17,7 +17,7 @@
 - Hvilke celler inficere M. tuberculosis?:: Makrofager
 <!--SR:!2026-10-05,4,270-->
 - Hvilke patogenesefaktorer har M. tuberculosis?:: Hæmning af fagosom-lysosom fusion
-<!--SR:!2026-10-04,1,230-->
+<!--SR:!2026-10-08,3,250-->
 - Hvordan bevæger M. tuberculosis sig rundt i kroppen?:: I makrofager (her kommer de blandt andet til lymfeknuder)
 <!--SR:!2026-10-06,3,250-->
 

@@ -40,7 +40,7 @@
 - Antimikrobielle stoffer ([[Lysozom]] og [[IgA]])
 - Alveolære makrofager
 ![[Pasted image 20260925101310.png]]
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-19,14,290-->
 
 ## Klinisk præsentation
 - Hvad er de typiske symptomer på pneumoni

@@ -3,7 +3,7 @@
 - Hvilken type cellevæg har C. diphtheriae?:: [[Gram-positive bakterier]]
 <!--SR:!2026-10-12,14,290-->
 - Hvilken form har C. diphtheriae?:: Stav
-<!--SR:!2026-10-04,5,230-->
+<!--SR:!2026-10-18,13,230-->
 - Hvordan lejres C. diphtheriae?:: "Kinesiske skriftstegn" ![[Pasted image 20260921142601.png]]
 <!--SR:!2026-10-14,16,290-->
 - Hvor lever C. diphtheriae normalt?

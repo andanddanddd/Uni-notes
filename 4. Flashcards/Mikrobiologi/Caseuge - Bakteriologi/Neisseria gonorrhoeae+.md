@@ -23,7 +23,7 @@ Methylblot på slide 8
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 <!--SR:!2026-10-06,15,290-->
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
-<!--SR:!2026-10-05,14,290-->
+<!--SR:!2026-11-30,56,310-->
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
 <!--SR:!2026-10-08,16,290-->
 ## Patogenese

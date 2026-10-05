@@ -8,6 +8,7 @@
 ## Struktur
 - Hvilken form har kapslen på norovirus
 - Har norovirus en lipidmembran?:: Nej
+<!--SR:!2026-10-09,4,270-->
 - Hvilken type arvematriale bruger norovirus?:: RNA+
 <!--SR:!2026-10-06,3,250-->
 - Hvilken struktur har norovirus´ arvematriale
@@ -44,7 +45,7 @@
 - (evt let feber, hovedpine og muskelsmerter)
 <!--SR:!2026-09-30,16,290-->
 - Hvad kendetegner afføringen af en noroviruspatient?:: Den er ikke blodig
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-19,14,290-->
 ## Diagonstik
 - Hvordan diagnosticeres norovirus?:: RT-PCR af fæcesprøver (den detektere RNA)
 <!--SR:!2026-10-17,12,270-->

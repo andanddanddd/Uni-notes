@@ -5,6 +5,7 @@
 ## Struktur
 - Hvilken form har kapslen på RS-virus
 - Har RS-virus en lipidmembran?:: Ja
+<!--SR:!2026-10-09,4,270-->
 - Hvilken type arvematriale bruger RS-virus:: RNA-
 <!--SR:!2026-10-13,8,250-->
 - Hvilken struktur har RS-virus´ arvematriale

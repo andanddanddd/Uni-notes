@@ -15,7 +15,7 @@
 
 ## Karakteristiske gener/proteiner
 - Hvad koder *pol* for?:: Revers transkripase og integrase (precursers)
-<!--SR:!2026-10-05,5,250-->
+<!--SR:!2026-10-23,18,270-->
 - Hvad gør integrase?:: Inkoperere provirus i genomet
 <!--SR:!2026-10-16,16,290-->
 - Hvilket enzym bruger retrovirus til at lave RNA om til DNA?:: Revers transskripase

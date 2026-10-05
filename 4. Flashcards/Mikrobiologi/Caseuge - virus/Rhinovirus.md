@@ -24,6 +24,7 @@
 <!--SR:!2026-10-05,4,270-->
 ## Smitte og epidemiologi
 - Hvornår på året sker flest infektioner med rhinovirus?:: Det sker hele året men særligt i forår og efterår
+<!--SR:!2026-10-09,4,270-->
 - Hvordan smitter rhinovirus?:: Dråber og direkte kontakt
 <!--SR:!2026-10-21,16,290-->
 - Hvor "lever" rhinovirus normalt?:: Kun mennesker

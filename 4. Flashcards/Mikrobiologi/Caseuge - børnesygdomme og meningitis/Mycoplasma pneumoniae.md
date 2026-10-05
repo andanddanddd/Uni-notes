@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har M. pneumoniae?:: [[Mycoplasma]]
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 - Hvilken form/størrelse har M. pneumoniae?:: Den er lille
 <!--SR:!2026-10-07,4,270-->
 - Hvordan lejres M. pneumoniae?

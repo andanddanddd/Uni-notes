@@ -4,20 +4,20 @@
 
 ## Struktur
 - Hvilken form har kapslen på rotavirus?:: Icosadral (den har en indre og ydre kapsel)
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - Har rotavirus en lipidmembran?:: nej, men den har en indre og ydre kapsel
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-19,14,290-->
 - Hvilken type arvematriale bruger rotavirus?:: dsRNA
 <!--SR:!2026-10-05,4,270-->
 - Hvilken struktur har rotavirus´ arvematriale?:: Segmentret (11 segmenter)
-<!--SR:!2026-10-04,1,230-->
+<!--SR:!2026-10-06,1,210-->
 ## Livscyklus
 - Hvilket glykoprotein bruger rotavirus til at komme ind i celler og hvordan aktiveres den?:: Hemagluttin (VP4), den aktiveres ved at proteolyse
 <!--SR:!2026-10-04,2,230-->
 - Hvilke celler inficere rotavirus?:: Enterocytter i tyndtarmen
 <!--SR:!2026-10-05,4,270-->
 - Hvordan kommer rotavirus ind i cellen? (mekanisme):: Endocytose
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-19,14,290-->
 - Hvor sker replikation og transskription af rotavirus?:: Cytoplasma
 <!--SR:!2026-10-07,4,270-->
 - Hvor får rotavirus sin lipidmembran?:: Den har ikke en lipidmembran men den får sin ydre skal i ruER
@@ -59,7 +59,7 @@
 
 ## Forebyggelse og behandling
 - Hvordan behandles rotavirus?:: Vand og elektrolytter
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 - Hvordan forebygges rotavirus?:: God hygiejne derudover findes der en oral vaccine
 <!--SR:!2026-10-21,16,290-->
 

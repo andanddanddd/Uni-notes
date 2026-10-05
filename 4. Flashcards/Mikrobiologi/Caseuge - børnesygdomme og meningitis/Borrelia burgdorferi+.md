@@ -19,12 +19,14 @@
 - Hvilke næringsstoffer skal B. burgdorferi finde i sne opgivelser? (dem den ikke selv kan lave):: Aminosyrer, fedtsyrer og nukleotider
 <!--SR:!2026-10-06,4,270-->
 - Hvor hurtigt deler B. burgdorferi sig?:: Hver 8-12 time
+<!--SR:!2026-10-09,4,270-->
 - Hvorfor bliver vi typisk ikke smittet hvis vi fjerner flåten indenfor 24 timer?:: B. burgdorferi skal lave nogle modifikationer hvilket tager tid (fx skal de overleve ved en højere temperatur)
 - Hvordan ændres overfladeproteinerne på B. burgdorferi når den skal inficere pattedyr?:: OspA erstattes med OspC
 <!--SR:!2026-10-06,3,250-->
 - Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
 <!--SR:!2026-10-07,4,270-->
 - Hvad kendetegner immunresponset mod b. burgdorferi?:: Når først en infektion er etableret er det virkeligt svært for immunforsvaret at fjerne, selv med store koncentrationer af specifikke antistoffer
+<!--SR:!2026-10-08,3,250-->
 - Hvordan overlever B. burgdorferi immunsystemet?
 ?
 - Binder regulatoriske [[Komplementfaktorer]]
@@ -43,6 +45,7 @@
 - Hvilket dyr "bor" B. burgdorferi normalt i?:: Mus
 <!--SR:!2026-10-17,12,270-->
 - Hvilke dyr kan mennesker videregi B. burdorferi til?:: Ingen
+<!--SR:!2026-10-09,4,270-->
 - Hvornår på året sker flest flåtbid og hvorfor?:: Forår og sommer (det er der flåter er aktive og der vi er mest udenfor)
 <!--SR:!2026-10-07,4,270-->
 ![[Pasted image 20260929103441.png]]
@@ -59,7 +62,7 @@
 - Hvor længe varer stadie 1 af borrelia?:: Par dage til flere uger
 <!--SR:!2026-10-07,4,270-->
 - Hvad kaldes udslettet i stadie 1 af borrelia?:: Erythema migrans
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-19,14,290-->
 #### Stadie 2
 - Hvad sker overodnet i stadie 2 af borrelia?:: B. burgdorferi spreder sig til store dele af kroppen inkl CNS, hjerte, led og det kan give nye udslet lidt rundt omrking
 <!--SR:!2026-10-20,15,290-->

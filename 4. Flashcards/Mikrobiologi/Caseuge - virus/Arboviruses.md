@@ -7,6 +7,7 @@
 - Hvilke insekter kan bruges til at overfører arboviruser?:: Myg, flåter, blodsugende fluer
 <!--SR:!2026-10-05,4,270-->
 - Hvad sker med arbevirus i insektet (vektoren) før den kan smitte til mennesker?:: Virussen replikere og ender i smyttet af insekten
+<!--SR:!2026-10-09,4,270-->
 - Hvor ender arbovirussen når et insekt smitter et menneske?:: Blodbanen
 <!--SR:!2026-10-07,4,270-->
 - Hvad menes med at mennesker ofte er "dead-end host" vi opnår ikke høje nok virusconcentration til at inficere nye insekter

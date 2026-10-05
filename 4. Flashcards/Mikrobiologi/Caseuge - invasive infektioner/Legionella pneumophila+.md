@@ -6,7 +6,7 @@
 - Hvilken type cellevæg har L. pneumophila?:: [[Gram-negative bakterier]]
 <!--SR:!2026-10-17,12,270-->
 - Hvilken form har L. pneumophila?:: Stav
-<!--SR:!2026-10-04,4,270-->
+<!--SR:!2026-10-21,16,290-->
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber og [[Protozoa]])
 - Hvilket oxidativt miljø lever L. pneumophila bedst i?:: Aerob
 <!--SR:!2026-10-17,12,270-->
@@ -50,7 +50,7 @@
 ## Smitte og epidimologi 
 - Hvilken tendens har smittetilfælde med L. pneumophila
 - Hvordan smitter L. pneumophila?:: Gennem vand særligt vandbeholdere, men det kan også smitte fra menneske til menenske gennem dråber (det er den bakterie der hyppigst smitter fra vand i USA)
-<!--SR:!2026-10-05,4,270-->
+<!--SR:!2026-10-20,15,290-->
 - Hvem smittes ofte af L. pneumophila?:: Ældre
 <!--SR:!2026-10-07,4,270-->
 
@@ -106,5 +106,6 @@ Hvordan genkendes den?
 - Hvordan forebygges L. pneumophila?:: Monitorering af vand
 <!--SR:!2026-10-07,4,270-->
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])
+<!--SR:!2026-10-08,3,250-->
 - Hvilke krav er der til antibiotika mod L. pneumophilia?:: Det skal penetrere vores celler
 <!--SR:!2026-10-06,4,270-->
