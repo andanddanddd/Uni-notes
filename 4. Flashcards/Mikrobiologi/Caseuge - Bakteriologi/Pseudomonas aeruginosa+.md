@@ -15,6 +15,8 @@
 - Hvilke celler inficere P. aeruginosa?
 - Hvilke patogenesefaktorer har P. aeruginosa?:: [[Biofilm]], flaggel, pili LPS
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
+- Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
+- Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
 
 
 ## Smitte og epidimologi
@@ -35,10 +37,18 @@
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
-- Hvordan diagnosticeres P. aeruginosa?
+- Hvordan diagnosticeres P. aeruginosa?:: Dyrkning
 - Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
 
 ## Forebyggelse og behandling
-- Hvilke resistensmekanismer har P. aeruginosa?
+- Hvilke antibiotika er P. aeruginosa resistente overfor?
+?
+- [[Penicilin]]
+- [[Cefalosporiner]]
+- [[Tetracykliner]]
+- [[Chloramphenicol]]
+- [[Vancomyocin]]
+
+- Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
 - Hvordan forebygges P. aeruginosa?
-- Hvordan behandles P. aeruginosa?
+- Hvordan behandles P. aeruginosa?:: [[Carbapenemer]], [[Aminoglykosider]] eller [[Flourquinoloner]]
