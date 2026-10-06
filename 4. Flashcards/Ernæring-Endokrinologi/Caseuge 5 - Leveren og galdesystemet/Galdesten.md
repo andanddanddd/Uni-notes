@@ -4,6 +4,16 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 - Hvad kaldes galdesten på latin?:: Cholelithiasis
 <!--SR:!2026-10-17,12,270-->
+- Hvad kaldes det når en galdesten sættes fast i 
+- Hvad kaldes de 2 typer af galdesten?
+?
+- [[Cholesterolsten]]
+- [[Pigmentsten]]
+
+- Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde
+-
+
+## Risikofaktorer
 - Hvad er risikofaktorer for galdesten?
 ?
 - Alder
@@ -24,3 +34,6 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor kan hurtigt vægttab give problemer?:: Der mangler lipider til at holde kolesterolen i opløsning
 <!--SR:!2026-10-21,16,290-->
+
+
+
