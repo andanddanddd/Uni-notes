@@ -6,13 +6,15 @@
 - Hvilken type cellevæg har P. aeruginosa?:: [[Gram-negative bakterier]]
 - Hvilken form har P. aeruginosa?:: Stav
 - Hvordan lejres P. aeruginosa?
-- Hvor lever P. aeruginosa normalt?
-- Hvilket oxidativt miljø lever P. aeruginosa bedst i?
+- Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
+- Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil
+- Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)
 
 ## Patogenese
 - Hvilke celler inficere P. aeruginosa?
 - Hvilke patogenesefaktorer har P. aeruginosa?
+- Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 
 
 ## Smitte og epidimologi
@@ -25,12 +27,14 @@
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver P. aeruginosa?
-
+- Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]]
+- Hvilken infektion kan forekomme hvis man bader i vand inficeret med P. aeruginosa?:: [[Foliculitis]]
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres P. aeruginosa?
+- Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har P. aeruginosa?
