@@ -5,7 +5,7 @@
 - Hvad kaldes viruskaplsen?:: Kapsid
 <!--SR:!2026-11-29,55,310-->
 - Hvad består en virus overordnet af?:: Nukleinsyre inde i en proteinkapsel
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-07,62,310-->
 - Hvor i virus findes glukoproteiner?:: Udenpå kapslen eller lipidmembranen hvis den har sådan en (de er ikke begge steder på en gang)
 <!--SR:!2026-10-08,16,290-->
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
@@ -29,13 +29,13 @@
 
 #### Occlusion
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] A?:: Glukoproteiner
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-05,60,310-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] B?:: Nukleotid (genom)
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-05,60,310-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] C?:: Protein kapsel
 <!--SR:!2026-10-08,16,290-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] D:: Tegument
 <!--SR:!2026-11-08,34,270-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] E?:: Lipidmembran
-<!--SR:!2026-10-06,14,290-->
+<!--SR:!2026-12-03,58,310-->
 

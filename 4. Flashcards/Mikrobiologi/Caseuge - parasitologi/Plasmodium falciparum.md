@@ -1,6 +1,9 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er plasmodium falciparum?:: Malaria
+<!--SR:!2026-10-10,4,270-->
 - Hvilke erytrocytter kan P. falciparum inficere?:: Dem alle (alle faser)
+<!--SR:!2026-10-10,4,270-->
 - Hvorfor er P. palciparum farlig?:: Det får erytrocytterne til at udstrykke et adhæsionsprotein så der kommer mikrotromber i kapilærene
+<!--SR:!2026-10-07,1,230-->
 ![[Pasted image 20261005133613.png]]

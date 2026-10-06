@@ -1,9 +1,9 @@
 #flashcards/5/Mikrobiologi [[4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur|Virus struktur]]
 
 - Hvor mange proteiner består kapsel typisk af?:: En del men typisk ikke mange forskellige (3 ish)
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-07,62,310-->
 - Hvilke virus har en head-tail-kapsel?:: Kun [[Bakteriofager]]
-<!--SR:!2026-10-06,14,290-->
+<!--SR:!2026-12-03,58,310-->
 - Hvordan samles viras kapsel?:: Den samler sig selv
 <!--SR:!2026-10-07,15,290-->
 - Hvilke 3 former kan kapslen på en virus have?

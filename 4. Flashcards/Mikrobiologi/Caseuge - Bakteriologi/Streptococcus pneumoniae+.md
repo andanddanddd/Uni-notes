@@ -24,7 +24,7 @@ Tendens
 - Hvilken smittevej har S. pneumoniae overordnet?:: Dråbesmitte der starter med at kolonisere nasopharynx
 <!--SR:!2026-10-07,4,270-->
 - Hvilken risikofakter øger risikoen for at få pneumoni men S. pneimoniae?:: Alkohol
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-18,12,270-->
 
 ## Symptomer og komplikationer
 - Hvilke sygdomme giver streptococcus pneumoniae?
@@ -39,7 +39,7 @@ Tendens
 - Hvilke langtidsvarende komplikation/skader giver S. pneumoniae ved [[Pneumoni]]?:: Ingen, det skader ikke de alveolære vægge'
 <!--SR:!2026-10-21,16,290-->
 - Hvor længe bruger S. pneumoniae på at sprede sig fra en lobe til andre lober?:: 10 dage
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvad er de 4 stadier af pneumoni grundet S. pneumoniae?
 ?
 - Serøs fase

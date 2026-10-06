@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er sepsis?:: Livstruende tilstand med organpåvirkning grundet dysreguleret immunrespons
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvilke skala bruges til at vurdere om en person har sepsis?:: [[Sequential Organ Fauilere Assesment (SOFA)]]
 <!--SR:!2026-10-07,4,270-->
 

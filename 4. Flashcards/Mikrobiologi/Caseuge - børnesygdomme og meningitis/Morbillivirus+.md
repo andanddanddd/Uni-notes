@@ -32,7 +32,7 @@
 <!--SR:!2026-10-20,15,290-->
 ## Symptomer og komplikationer
 - Hvad er inkubationstiden af morbillivirus?:: 10-14 dage
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvorfor er inkubationstiden af morbillivirus så lang?:: Efter den har inficeret luftvejsepitelet spreder den sig i blodet, herefter går der et par dage til der igen ses store mængder virus i blodet, først anden gang der er virus i blodet kommer symptomerne
 <!--SR:!2026-10-21,16,290-->
 - Hvordan gør morbillivirus os syge?:: Det dræber epitelceller men mange af symptomerne kommer fra immunresponset
@@ -51,7 +51,7 @@
 - Hvor mange dør af morbillivirus?:: 1/3000 smittede
 <!--SR:!2026-10-13,15,290-->
 - Hvad sker ofte efter endt morbillivirusinfektion?:: Sekundær infektion (særligt pneumonier)
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvilken næringsmangel gør morbillivirus infektion markant værre?:: [[A-vitamin]]-mangel
 <!--SR:!2026-10-20,15,290-->
 - Hvilken infektioner giver morbillivirus ofte i patienter der mangelr [[A-vitamin]]?:: Infektioner i øjet
@@ -73,7 +73,7 @@
 - Hvorfor får vi først morbililvirus-vaccinen når vi er 15 mdr i DK i stedet for ved 9 mdr i andre dele af verdenen?:: Der er ikke store problemer med mæslinger i DK så det er ikke et problem at vente, ved at vente er der færre der har antistoffer fra deres mor og dermed er der flere der laver et godt respons
 <!--SR:!2026-10-07,4,270-->
 - Hvorfor var det "nemt" at lave en vaccine mod morbillivirus?:: Der er kun 1 serotype
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 
 
 

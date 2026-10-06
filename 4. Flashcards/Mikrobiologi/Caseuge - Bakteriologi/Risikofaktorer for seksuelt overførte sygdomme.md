@@ -37,4 +37,4 @@
 - Færre folk bruger kondomer
 - Datingapps
 - Mere risikovillighed da HIV kan håndteres
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-04,59,310-->

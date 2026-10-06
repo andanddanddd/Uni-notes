@@ -9,4 +9,4 @@
 - Hvilket patogen giver erythema infectionsum?:: [[parvovirus]]
 <!--SR:!2026-10-11,8,190-->
 - Hvordan smitter erythema infectionsum?:: Vertikalt, blod, dråber
-<!--SR:!2026-10-06,8,250-->
+<!--SR:!2026-11-03,28,270-->

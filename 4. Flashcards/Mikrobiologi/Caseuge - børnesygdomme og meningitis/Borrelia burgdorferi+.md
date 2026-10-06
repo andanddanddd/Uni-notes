@@ -11,19 +11,19 @@
 - Hvor lever B. burgdorferi normalt?
 - Hvilket oxidativt miljø lever B. burgdorferi bedst i?
 - Hvad kendetegner motiliteten af B. burgdorferi?:: De er MEGET motile
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 
 ## Patogenese
 - Hvilke celler inficere B. burgdorferi?
 - Hvilke patogenesefaktorer har B. burgdorferi?
 - Hvilke næringsstoffer skal B. burgdorferi finde i sne opgivelser? (dem den ikke selv kan lave):: Aminosyrer, fedtsyrer og nukleotider
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvor hurtigt deler B. burgdorferi sig?:: Hver 8-12 time
 <!--SR:!2026-10-09,4,270-->
 - Hvorfor bliver vi typisk ikke smittet hvis vi fjerner flåten indenfor 24 timer?:: B. burgdorferi skal lave nogle modifikationer hvilket tager tid (fx skal de overleve ved en højere temperatur)
 <!--SR:!2026-10-09,4,270-->
 - Hvordan ændres overfladeproteinerne på B. burgdorferi når den skal inficere pattedyr?:: OspA erstattes med OspC
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-18,12,270-->
 - Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
 <!--SR:!2026-10-07,4,270-->
 - Hvad kendetegner immunresponset mod b. burgdorferi?:: Når først en infektion er etableret er det virkeligt svært for immunforsvaret at fjerne, selv med store koncentrationer af specifikke antistoffer
@@ -42,7 +42,7 @@
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med B. burgdorferi
 - Hvordan smitter B. burgdorferi?:: Gennem flåter
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvilket dyr "bor" B. burgdorferi normalt i?:: Mus
 <!--SR:!2026-10-17,12,270-->
 - Hvilke dyr kan mennesker videregi B. burdorferi til?:: Ingen
@@ -52,7 +52,7 @@
 ![[Pasted image 20260929103441.png]]
 ## Symptomer og komplikationer
 - Hvilke infektioner giver B. burgdorferi?:: Borrelia
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 
 - Hvilke komplikationer kan B. burgdorferi give?:
 - I hvilket stadie af borrelia er der flest systemiske komplikation?:: Stadie 2
@@ -79,9 +79,9 @@
 - [[Artritis]]
 #### Stadie 3
 - Hvad sker overordnet i stadie 3 af borrelia?:: B burgdoferi har typisk indfundet sig i et væv og giver symptomer der (men ikke systemisk), typisk enten hud eller led, og i sjældne tilfælde CNS, dvs bakteiren bliver holdt i skak
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvornår sker stadie 3 af borrelia?:: Måneder til år efter flåtbidet
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvilke led påvirkes typisk i stadie 3 af borrelia?:: De store led særligt knæled
 <!--SR:!2026-10-07,4,270-->
 

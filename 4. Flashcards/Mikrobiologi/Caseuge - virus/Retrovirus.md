@@ -25,4 +25,4 @@
 - Hvad koder *gag* for?:: De strukturelle komponenter (precursers)
 <!--SR:!2026-10-11,12,270-->
 - Hvad koder *env* for?:: Glykoproteiner (precurser)
-<!--SR:!2026-10-06,8,250-->
+<!--SR:!2026-11-02,27,270-->

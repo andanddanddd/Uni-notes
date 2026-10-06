@@ -43,7 +43,7 @@
 
 ## Forebyggelse og behandling
 - Hvorfor er det svært at lave en vaccine mod rhinovirus?:: Der er mange forskellige serotyper
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvordan behandles forkølelse grundet rhinovirus?:: Symptombehandling (der er antivirale midler der i princippet virker men de bliver ikke brugt)
 <!--SR:!2026-10-20,15,290-->
 

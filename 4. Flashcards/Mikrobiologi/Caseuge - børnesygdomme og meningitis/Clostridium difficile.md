@@ -39,7 +39,7 @@
 - Hvad er det mest almindelige symptom af C. difficile?:: Diarre
 <!--SR:!2026-10-13,15,290-->
 - Hvilken "sygdom" C. difficile?:: [[Pseudomembranøs collitis (PMC)]]
-<!--SR:!2026-10-06,7,250-->
+<!--SR:!2026-10-24,18,250-->
 - Hvilke infektioner giver C. difficile?
 - 
 
@@ -48,11 +48,11 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres C. difficile?:: Elisa af toksiner fra fæces
-<!--SR:!2026-10-06,7,250-->
+<!--SR:!2026-10-30,24,270-->
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er C. difficile resistente overfor?:: [[Flourquinoloner]] (sporene er resistente overfor det meste)
-<!--SR:!2026-10-06,3,210-->
+<!--SR:!2026-10-12,6,210-->
 - Hvordan forebygges C. difficile?:: Hygiejne og undgå at give specifikke antibiotika til folk i risikogruppen for C. difficile
 <!--SR:!2026-10-14,15,290-->
 - Hvordan behandles C. difficile?:: Nogle gange skal den antibiotiakkur der førte til infektionen stoppes ellers kan [[Vancomyocin]] eller [[Metronidazol]] gives

@@ -3,7 +3,7 @@
 - Hvilke sygdomme giver N. meningitidis?:: [[Sepsis]] og [[Meningitis]]
 <!--SR:!2026-12-01,57,310-->
 - Hvor starter en N. meningitidis infektion?:: Øvre luftvejsslimhinder (særligt i næsen)
-<!--SR:!2026-10-06,14,290-->
+<!--SR:!2026-11-15,40,290-->
 - Hvad secenere N. meningitidis?::  [[Lipooligosaccharide (LOS)]]
 <!--SR:!2026-11-29,55,310-->
 - Hvorfor er N. meningitidis mere dødelig end [[Neisseria gonorrhoeae+]]?:: Den har en tyk kapsel

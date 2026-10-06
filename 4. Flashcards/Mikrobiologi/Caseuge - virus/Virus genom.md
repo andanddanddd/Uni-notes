@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi [[4. Flashcards/Immunologi/Caseuge 1 - Det innate immunsystem/Virus struktur|Virus struktur]]
 
 - Hvad består virus genom af?:: Enkeltstrenget/doppeltstrengen DNA/RNA
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-06,61,310-->
 - Hvordan er strukturen overordnet af virus-genom?:: Enten lineært, circulært eller segmenteret
 <!--SR:!2026-12-02,58,310-->
 - Hvad er et episom?:: Cirkulært DNA som kan integreres i kromosomet (lidt ligesom et plasmid)
@@ -14,5 +14,5 @@
 <!--SR:!2026-10-08,16,290-->
 
 - Hvorfor mutere virus så meget?:: Når de har flere "gener" oveni hinanden er der meget mindre redundans
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-07,62,310-->
 
