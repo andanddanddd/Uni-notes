@@ -38,7 +38,8 @@
 - Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt
 - Hvordan kommer malaria ud af erytrocytter?:: Lyse
 - Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
-- Hvad kaldes cellerne der 
+- Hvad kaldes cellerne der kommer fra sexuel deling af malaria?::  [[Sporozoitter]]
+- Hvorfor sker cyklisk feber ved malaria?:: Alle blodceller lyseres på en gang, dermed udsendes mange parasitter og dermed mange PAMPs
 
 ## Symptomer og komplikationer
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)
@@ -59,3 +60,5 @@
 ## Forebyggelse og behandling
 - Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk
 <!--SR:!2026-10-10,4,270-->
+- Hvordan behandles malaria overodnet?:: Dræber [[Hypnozoiter]] og giver blod
+- Hvordan bekæmper kroppen?:: Milten kan finde rigide erytorcytter (dem inficered med malaria) og dræbe dem
