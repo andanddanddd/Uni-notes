@@ -10,7 +10,7 @@
 ## Smitte
 - Hvor forekommer malaria?:: Primært Afrika men også det norlige Sydamerika, Asien og nordlige Oceanien
 <!--SR:!2026-10-10,4,270-->
-- Hvordan smitter malaria?:: Myg(gestik)
+- Hvordan smitter malaria?:: Myg(gestik), deling af blod (blodtransfusion eller IV stofmisbrug)
 <!--SR:!2026-10-10,4,270-->
 - Hvad kendetegner myggestikket der giver malaria?:: Der er intet særligt ved det, det klør ikke ekstra
 <!--SR:!2026-10-10,4,270-->
@@ -24,6 +24,8 @@
 <!--SR:!2026-10-10,4,270-->
 - Hvorfor er der stor risiko for at flygtninge der besøger der malariaramte hjemland bliver syge?:: De har mistet deres immunitet
 <!--SR:!2026-10-10,4,270-->
+- Hvilke myg kan smitte malaria?:: Kvinder
+- Hvorfor bliver man typisk ikke smittet med malaria i fx DK?:: Der er få smittetilfælde og mygene er derfor raske, hvis mygene bliver inficeret dør de (pga kulden vist nok)
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
 <!--SR:!2026-10-09,3,250-->
