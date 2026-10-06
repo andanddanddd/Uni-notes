@@ -79,9 +79,9 @@ Læsning
 #### Svamp
 - [x] 47 (Oppertunistiske svampe)
 #### Parasitter
-- [ ] 50
-- [ ] 51
-- [ ] 53
+- [x] 50 (Generalt)
+- [x] 51 (Malaria, har ikke læst resten)
+- [ ] (53)
 #### Sygdomme 
 - [x] 60 (infektioner i CNS)
 - [x] 61 (infektioner i respirationsystemet)

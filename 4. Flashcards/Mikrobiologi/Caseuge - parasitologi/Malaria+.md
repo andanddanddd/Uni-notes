@@ -40,6 +40,7 @@
 - Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
 - Hvad kaldes cellerne der kommer fra sexuel deling af malaria?::  [[Sporozoitter]]
 - Hvorfor sker cyklisk feber ved malaria?:: Alle blodceller lyseres på en gang, dermed udsendes mange parasitter og dermed mange PAMPs
+- Hvordan beskytter genet for [[Seglcelleanæmi]] mod malaria?:: Det bidrager til at inficerede celler opdages og dræbes
 
 ## Symptomer og komplikationer
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)
@@ -56,6 +57,7 @@
 <!--SR:!2026-10-10,4,270-->
 - Hvornår mistænkes malaria?:: Feber på personer der for nyligt har været i en malariaområde
 <!--SR:!2026-10-10,4,270-->
+- Hvad kendetegner sesitivitet og fejl på hurtigttest mod malaria?:: De er meget sensitive men kan give falsk-negative (fanger 85% af tilfælde)
 
 ## Forebyggelse og behandling
 - Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk
