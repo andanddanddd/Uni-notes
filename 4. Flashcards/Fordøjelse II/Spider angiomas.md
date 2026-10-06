@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er spider angiomas?:: Små udvidede blodkar i huden
 <!--SR:!2026-10-19,14,290-->

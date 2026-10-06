@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er leverens 4 overordnede funktion?
 ?

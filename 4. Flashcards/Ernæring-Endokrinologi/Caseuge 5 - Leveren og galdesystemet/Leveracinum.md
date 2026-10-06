@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvilken form har en leveracinus?:: Rombeformet
 <!--SR:!2026-10-20,15,290-->

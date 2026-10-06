@@ -17,5 +17,5 @@ Pancras skal være under 10% fungerende før den er "insufficient" dvs man førs
 
 ![[Galdesten]]
 
-
+![[Sygdomme i galdegangene]]
 

@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad hedder leveren på latin?:: Hepar
 <!--SR:!2026-10-20,15,290-->

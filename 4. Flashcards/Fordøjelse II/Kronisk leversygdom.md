@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Definer kronisk leversygdom?:: Leversygdom der varer i mere end 6 mdr
 <!--SR:!2026-10-19,14,290-->

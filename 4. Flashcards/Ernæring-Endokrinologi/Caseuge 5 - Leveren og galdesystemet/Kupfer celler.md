@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er kupferceller?:: Residente [[Makrofager]]
 <!--SR:!2026-10-17,12,270-->

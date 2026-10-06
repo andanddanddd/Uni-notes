@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er icterus?:: Gule slimhinder eller hud
 <!--SR:!2026-10-20,15,290-->
