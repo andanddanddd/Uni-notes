@@ -12,7 +12,7 @@
 <!--SR:!2026-10-07,4,270-->
 - Hvad menes med at mennesker ofte er "dead-end host" vi opnår ikke høje nok virusconcentration til at inficere nye insekter
 - Hvor længe overlever insekter inficeret med arbovirus?:: Det påvirker dem ikke
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvordan er livscyklussen af arbovirus overordnet?
 ?
 1. Et dyr (ofte fugle) er smittet
@@ -20,7 +20,7 @@
 3. Virusen replikere i insektet
 4. Insektet stikker et nyt dyr der bliver smittet
 5. Afhængigt af dyret uddør virussen eller overlever så et nyt insekt kan komme og blive inficeret
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 
 - Hvordan giver det mening af smitte med arbovirus er sesonafhængig?:: Insekterne flytter sig eller går i hi eller noget
 <!--SR:!2026-10-19,14,290-->

@@ -17,7 +17,7 @@
 - Hvad hedder de 4 subtyper af coronavirus?:: $\alpha$-, $\beta$-, $\delta$- $\gamma$-coronavirus
 <!--SR:!2026-10-17,12,270-->
 - Hvad er forskellen i sværhedsgrad mellem $\alpha$ og $\beta$ coronavirus?:: $\alpha$ coronavirus giver bare normal forkølelse mens $\beta$-coronavirus også giver alvorlige nedre luftvejsinfektioner (det er altid $\beta$-coronavirus der giver de slemme epidemier)
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 
 ## Livscyklus
 - Hvilke celler inficere coronavirus?:: Epitelceller i luftvejene
@@ -34,7 +34,7 @@
 - Hvornår ses flest tilfælde af coronavirus?:: Vinter og tidlig forår
 <!--SR:!2026-10-17,12,270-->
 - Hvad kendetegner smittetilfælde af coronavira?:: De har flere gange givet store epidemier/pandemier når en ny zoonose sker
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvor "lever" $\alpha$ og $\beta$ coronavirus normalt?:: Pattedyr (inkl mennesker)
 <!--SR:!2026-10-12,7,250-->
 - Hvor lever $\delta$ og $\gamma$ coronavirus normalt?:: Fugle

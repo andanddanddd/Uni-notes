@@ -2,7 +2,7 @@
 
 ## Ankomst til cellen
 - Hvordan kommer virus ind i en celle?:: Enten receptormedieret endocytose eller fusion med cellemembranen
-<!--SR:!2026-10-06,15,290-->
+<!--SR:!2026-12-08,63,310-->
 - Hvad kan en virus bruge som ligand til receptormedieret endocytose?:: Glykoproteiner eller selve kapslen
 <!--SR:!2026-10-08,16,290-->
 - Hvordan kommer genomet ud af kapslen?:: Ofte sker der en konformitetsændring når virussen binder til værtcellen der tillader genomet i at slippe ud, andre gange kræver det enzymatisk hjælp fra værtscellen

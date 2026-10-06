@@ -2,7 +2,7 @@
 
 
 - Hvordan ses atypisk pneumoni på et røntgen?:: Der er meget bindevæv
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-22,16,290-->
 - Hvorfor er det ikke altid nemt at dyrke bakterier fra atypiske pneumonier?:: Både clamydiabakterierne og coxiella kan kun dyrkes i cellekulture
 <!--SR:!2026-10-09,4,270-->
 - Hvilke bakterier giver atypisk pneumoni?

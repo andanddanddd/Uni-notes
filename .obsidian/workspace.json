@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ascaris lumbricoide(Spoleorm).md",
+                "file": "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Toxoplasma gondii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ascaris lumbricoide(Spoleorm)"
+              "title": "Toxoplasma gondii"
             }
           }
         ]
@@ -40,33 +40,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "3d37f6abbf1aa610",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Malaria og andre protozoer.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Malaria og andre protozoer"
-            }
-          },
-          {
-            "id": "f51176909e802845",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Børneorm, Spoleorm og andre Metazoa"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -251,39 +225,45 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fb455bd3592cabe",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Børneorm, spoleorm og andre metazoa.md",
-    "Enterobiasis (Børneorm).md",
-    "Ascaris lumbricoide(Spoleorm).md",
-    "Rundorm.md",
-    "Cestodes (Bændelorm).md",
-    "Fladorm.md",
-    "Metazoa.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Toxoplasma gondii.md",
+    "Billeder/Mikrobiologi/Pasted image 20261005141440.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi",
+    "Billeder/Mikrobiologi/Pasted image 20261005131321.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Schistosomiasis (sneglefeber-Bilharziose).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Katayama feber.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Akut schistosomiasis.md",
     "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
+    "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Børneorm, spoleorm og andre metazoa.md",
+    "Schistosomiasis (sneglefeber/Bilharziose).md",
+    "Schistosomiasis (sneglefeber",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Cestodes (Bændelorm).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Ascaris lumbricoide(Spoleorm).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Enterobiasis (Børneorm).md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Rundorm.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Fladorm.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Metazoa.md",
     "1. Fag/Mikrobiologi.md",
     "3. Forelæsninger/Mikrobiologi/Caseuge - Parasitologi/Forelæsning - Malaria og andre protozoa.md",
-    "Entamoeba histolytika.md",
-    "Giardia lamblia.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Entamoeba histolytika.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Giardia lamblia.md",
     "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Malaria og andre protozoer.pdf",
-    "Amoeba.md",
-    "Flagellata.md",
-    "Sporozoa.md",
-    "Toxoplasma gondii.md",
-    "Malaria+.md",
-    "Plasmodium falciparum.md",
-    "Pasted image 20261005133613.png",
-    "Protozoa.md",
-    "Ciliophora.md",
-    "Pasted image 20261005131636.png",
-    "Pasted image 20261005131549.png",
-    "Pasted image 20261005131426.png",
-    "Pasted image 20261005131321.png",
-    "Parasitter.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Amoeba.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Flagellata.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Sporozoa.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Malaria+.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Plasmodium falciparum.md",
+    "Billeder/Mikrobiologi/Pasted image 20261005133613.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Protozoa.md",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Ciliophora.md",
+    "Billeder/Mikrobiologi/Pasted image 20261005131636.png",
+    "Billeder/Mikrobiologi/Pasted image 20261005131549.png",
+    "Billeder/Mikrobiologi/Pasted image 20261005131426.png",
+    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Parasitter.md",
     "Externe dokumenter/MIkrobiologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
     "Externe dokumenter/MIkrobiologi/Parasitologi/msoE00.tmp",
     "Externe dokumenter/MIkrobiologi/Parasitologi",
@@ -291,18 +271,10 @@
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "2. Caseuger/MIkrobiologi/Caseuge - Bakteriologi.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - invasive infektioner/Pneumoni.md",
-    "4. Flashcards/Fordøjelse II/Akut leversygdom.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
-    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "Billeder/Mikrobiologi/Pasted image 20261001140844.png",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930152407.png",
-    "Billeder/Fordøjelsesystemet",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930152305.png",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930144525.png",
-    "Billeder/Fordøjelsesystemet/Pasted image 20260930144115.png",
-    "Externe dokumenter/Fordøjelse II/mso21A1.tmp",
     "Untitled.canvas"
   ]
 }

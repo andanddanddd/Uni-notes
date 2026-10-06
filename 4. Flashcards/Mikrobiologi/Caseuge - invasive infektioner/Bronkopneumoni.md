@@ -8,7 +8,7 @@
 - [[Haemophilus influenzae type B+]]
 - [[Klebsiella pneumoniae+]]
 - [[Pseudomonas aeruginosa+]]
-<!--SR:!2026-10-06,3,230-->
+<!--SR:!2026-10-13,7,230-->
 
 
 - Eksempler på vira der kan giver bronkopneumoni?
@@ -18,7 +18,7 @@
 - [[Respiratory sunctial virus (RSV)+]]
 - [[Influenzavirus+]]
 - [[Adenovirus]]
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-18,12,270-->
 
 
 - Hvornår forekommer bronkopneumoni oftest?:: Som sekundær infektion til en viral infektion

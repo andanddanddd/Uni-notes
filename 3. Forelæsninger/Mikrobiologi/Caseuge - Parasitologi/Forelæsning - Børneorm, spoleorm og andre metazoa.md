@@ -6,4 +6,4 @@
 [[Cestodes (Bændelorm)]]
 [[Ascaris lumbricoide(Spoleorm)]]
 [[Enterobiasis (Børneorm)]]
-[[Schistosomiasis (sneglefeber/Bilharziose)]]
+[[Schistosomiasis (sneglefeber-Bilharziose)]]

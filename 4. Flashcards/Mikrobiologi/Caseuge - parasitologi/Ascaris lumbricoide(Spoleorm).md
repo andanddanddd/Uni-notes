@@ -5,4 +5,6 @@
 - Hvordan smitter spoleorm?:: Indtagelse af dens æg
 - Hvad er forskellen på ascaris lumbricoide og ascaris suum?:: A. lumbricoide er i menneske mens A. suum er i grise
 - Hvor mange grise er inficeret med spoleorm?:: 20%
-- På hvilket organ kaa
+- På hvilket organ kan ses hvide pletter ved massiv infektion af spoleorm?:: Lever
+- Hvordan diagnostocers spoleorm?:: Mikroskopi af æg i fæces
+- Hvilke symptomer giver spoleorm?:: Lungesymptomer (mavesmerter hvis der er mange orme)

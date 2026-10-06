@@ -10,7 +10,7 @@
 - Har norovirus en lipidmembran?:: Nej
 <!--SR:!2026-10-09,4,270-->
 - Hvilken type arvematriale bruger norovirus?:: RNA+
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-18,12,270-->
 - Hvilken struktur har norovirus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere norovirus

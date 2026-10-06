@@ -19,7 +19,7 @@
 ?
 - [[Streptococcus agalactiae]]
 - [[Escherichia coli+]]
-<!--SR:!2026-10-06,5,230-->
+<!--SR:!2026-10-18,12,230-->
 
 - Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
 <!--SR:!2026-10-16,11,250-->
@@ -74,7 +74,7 @@
 - Hvad kendetegner meningitis grundet [[Staphylococcus aureus+]]?:: Tidligere eller nuværende infektion af enten [[Endocardidis]] eller [[OSteromyelitis]]
 <!--SR:!2026-10-09,11,270-->
 - Hvad kendetegner meningitis grundet [[Streptococcus agalactiae]]?:: Ældre, strofmisbrug, tidligere eller nuværende infektion af [[Endocardidis]], [[Otitis media]] eller [[Sinuitis]]
-<!--SR:!2026-10-06,8,250-->
+<!--SR:!2026-10-27,21,250-->
 - Hvad kendetegner meningitis grundet [[Escherichia coli+]]?:: Spædbørn og ældre, bakterieæmi
 <!--SR:!2026-10-09,11,270-->
 

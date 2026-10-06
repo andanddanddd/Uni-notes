@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har M. tuberculosis?:: [[Gram-positive bakterier]]
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-15,9,250-->
 - Hvilken form har M. tuberculosis?:: Stav
 <!--SR:!2026-10-17,12,270-->
 - Hvordan lejres M. tuberculosis?
@@ -19,13 +19,13 @@
 - Hvilke patogenesefaktorer har M. tuberculosis?:: Hæmning af fagosom-lysosom fusion
 <!--SR:!2026-10-08,3,250-->
 - Hvordan bevæger M. tuberculosis sig rundt i kroppen?:: I makrofager (her kommer de blandt andet til lymfeknuder)
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-14,8,250-->
 
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med M. tuberculosis
 - Hvordan smitter M. tuberculosis?:: Inhalation
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-14,8,250-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver M. tuberculosis?

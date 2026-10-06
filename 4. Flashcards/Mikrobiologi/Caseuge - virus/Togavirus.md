@@ -6,9 +6,9 @@
 ## Struktur
 - Hvilken form har kapslen på togavirus
 - Har togavirus en lipidmembran?:: Ja
-<!--SR:!2026-10-06,3,250-->
+<!--SR:!2026-10-18,12,270-->
 - Hvilken type arvematriale bruger togavirus?:: RNA+
-<!--SR:!2026-10-06,4,270-->
+<!--SR:!2026-10-18,12,270-->
 - Hvilken struktur har togavirus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere togavirus

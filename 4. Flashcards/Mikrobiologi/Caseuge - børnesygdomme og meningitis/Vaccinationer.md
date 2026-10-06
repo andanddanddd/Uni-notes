@@ -8,7 +8,7 @@
 
 ![[Adjuvans]]
 - Hvad kaldes en tilbage-mutation til en mere virulent form?:: Revertere
-<!--SR:!2026-10-06,8,250-->
+<!--SR:!2026-11-02,27,270-->
 - Hvilke 3 typer af vacciner har vi?
 ?
 - [[Levende svækkede vacciner]]
