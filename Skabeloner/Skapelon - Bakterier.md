@@ -6,6 +6,7 @@
 - Hvordan lejres bX?
 - Hvor lever bX normalt?
 - Hvilket oxidativt miljø lever bX bedst i?
+- Hvad kendetegner mobiliteten af bX
 
 ## Patogenese
 - Hvilke celler inficere bX?
