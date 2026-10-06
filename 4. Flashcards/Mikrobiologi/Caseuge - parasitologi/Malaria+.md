@@ -29,6 +29,16 @@
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
 <!--SR:!2026-10-09,3,250-->
+- Hvilke celler inficere malaria først i mennesker?:: Leverceller
+- Hvor længe er malaria i leverceller?:: 1-2 uger
+- Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
+- Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
+- Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)
+- Hvad sker med malaria efter 1-2 uger i leverceller?:: De bliver frigivet til blodbanen for de inficere erytrocytter
+- Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt
+- Hvordan kommer malaria ud af erytrocytter?:: Lyse
+- Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
+- Hvad kaldes cellerne der 
 
 ## Symptomer og komplikationer
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)
