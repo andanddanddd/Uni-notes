@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 [[Slides - Børneorm, Spoleorm og andre Metazoa.pdf]]
 
-![[Metazoa]]
+![[Metazoa (Helminter)]]
 
 [[Cestodes (Bændelorm)]]
 [[Ascaris lumbricoide(Spoleorm)]]
