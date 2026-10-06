@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II [[Slides - patologi af leveren.pdf]]
+#flashcards/5/Fordøjelsessystemet-II -II [[Slides - patologi af leveren.pdf]]
 
 - Med baggrund i de patofysiologiske forhold, beskriv symptomer og objektive fund som kan ses hos en leverpatient 
 - Beskriv de kliniske konsekvenser af leversvigt 

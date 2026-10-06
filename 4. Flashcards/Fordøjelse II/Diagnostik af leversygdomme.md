@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 Hvad betyder de specifikke levermarkører (hvorfor stiger/falder de)
 - Hvilke 3 diagostiske metoder bruges til at diagnosticere leversygdomme?

@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er ascites?:: Vand i maven
 <!--SR:!2026-10-19,14,290-->

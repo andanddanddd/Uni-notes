@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II
+#flashcards/5/Fordøjelsessystemet-II 
 
 Der er mere fokus på diagnostik end på tidligere studieordning
 

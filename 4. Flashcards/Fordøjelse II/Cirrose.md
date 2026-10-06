@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Hvor i leveren starter fibrose?:: Omkring [[Glissons triade]]
 <!--SR:!2026-10-21,16,290-->

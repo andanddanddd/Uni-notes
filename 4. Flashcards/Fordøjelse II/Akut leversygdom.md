@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsesstsremet-II 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Definer akutleversygdom?:: Leversygdom der varer i mindre end 6 mdr
 <!--SR:!2026-10-21,16,290-->
