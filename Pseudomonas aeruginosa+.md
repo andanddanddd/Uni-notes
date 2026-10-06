@@ -8,12 +8,12 @@
 - Hvordan lejres P. aeruginosa?
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
-- Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil
+- Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
 - Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)
 
 ## Patogenese
 - Hvilke celler inficere P. aeruginosa?
-- Hvilke patogenesefaktorer har P. aeruginosa?
+- Hvilke patogenesefaktorer har P. aeruginosa?:: [[Biofilm]], flaggel, pili LPS
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 
 
@@ -26,10 +26,12 @@
 - Hvem bliver oftest smittet af P. aeruginosa?:: Cancer-patienter, patienter med cystisk fibrose eller forbrændinger
 
 ## Symptomer og komplikationer
-- Hvilke infektioner giver P. aeruginosa?
+- Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod 
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
-- Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]]
-- Hvilken infektion kan forekomme hvis man bader i vand inficeret med P. aeruginosa?:: [[Foliculitis]]
+- Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
+- Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
+- Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
+- Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
