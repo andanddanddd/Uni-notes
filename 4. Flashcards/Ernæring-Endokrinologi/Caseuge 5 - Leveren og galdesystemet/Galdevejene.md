@@ -10,3 +10,5 @@
 
 ![[Ductus choleductus]]
 
+![[Pasted image 20261006140125.png]]
+## Occlusion

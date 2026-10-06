@@ -4,7 +4,7 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 - Hvad kaldes galdesten på latin?:: Cholelithiasis
 <!--SR:!2026-10-17,12,270-->
-- Hvad kaldes det når en galdesten sættes fast i 
+- Hvad kaldes det når en galdesten sættes fast i halsen af galdeblæren? (collum vesica biliaris):: [[Cholecystitis]]
 - Hvad kaldes de 2 typer af galdesten?
 ?
 - [[Cholesterolsten]]
