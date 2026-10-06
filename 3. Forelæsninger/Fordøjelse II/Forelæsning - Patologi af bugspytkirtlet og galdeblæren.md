@@ -11,7 +11,7 @@ Pancras skal være under 10% fungerende før den er "insufficient" dvs man førs
 
 
 
-![[Galdevejene]]
+![[4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene]]
 
 ![[Pancreas]]
 

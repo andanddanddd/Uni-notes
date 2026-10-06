@@ -1,4 +1,4 @@
 #flashcards/2/Ernæring-Endokrinologi 
 
 [[Leveren]]
-[[Galdevejene]]
+[[4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene]]

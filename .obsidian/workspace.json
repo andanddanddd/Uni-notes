@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
+                "file": "Cholecystitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galdevejene"
+              "title": "Cholecystitis"
             }
           }
         ]
@@ -30,20 +30,6 @@
         "dimension": 55.19417475728156,
         "children": [
           {
-            "id": "714fcb5e056f2a6d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-06 14.02.24.excalidraw.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-06 14.02.24.excalidraw"
-            }
-          },
-          {
             "id": "83ab088479f8d619",
             "type": "leaf",
             "state": {
@@ -53,6 +39,18 @@
               },
               "icon": "lucide-file-text",
               "title": "Slides - Patologi af pancreas og galdevejene 2026"
+            }
+          },
+          {
+            "id": "714fcb5e056f2a6d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -117,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -244,17 +241,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "3fb455bd3592cabe",
   "lastOpenFiles": [
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
-    "Excalidraw/Drawing 2026-10-06 14.02.24.excalidraw.md",
-    "Pasted image 20261006140125.png",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+    "Pasted image 20261006141334.png",
+    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
+    "Cholecystitis.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdesten.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
+    "Excalidraw/Fordøjelse II/Oclussion - Galdevejene.md",
+    "Excalidraw/Fordøjelse II",
+    "Pasted image 20261006140125.png",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Pigmentsten.md",
-    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "Cholesterolsten.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Twiching.md",
     "4. Flashcards/Mikrobiologi/Caseuge - Bakteriologi/Pseudomonas aeruginosa+.md",
@@ -274,9 +274,7 @@
     "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Protozoa.md",
     "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Ciliophora.md",
     "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Sporozoa.md",
-    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Amoeba.md",
     "Billeder/Mikrobiologi/Pasted image 20261006114344.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi/Parasitter.md",
     "Billeder/Mikrobiologi/Pasted image 20261005141440.png",
     "4. Flashcards/Mikrobiologi/Caseuge - parasitologi",
     "Billeder/Mikrobiologi/Pasted image 20261005131321.png",
@@ -289,7 +287,6 @@
     "Billeder/Mikrobiologi/Pasted image 20261005131426.png",
     "Externe dokumenter/MIkrobiologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
     "Externe dokumenter/MIkrobiologi/Parasitologi/msoE00.tmp",
-    "Externe dokumenter/MIkrobiologi/Parasitologi",
     "Billeder/Mikrobiologi/Pasted image 20261001140844.png",
     "Billeder/Fordøjelsesystemet/Pasted image 20260930152407.png",
     "Untitled.canvas"
