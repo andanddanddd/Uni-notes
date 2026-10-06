@@ -11,11 +11,11 @@ Pancras skal være under 10% fungerende før den er "insufficient" dvs man førs
 
 
 
-![[4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene]]
+[[Galdevejene]]
+[[Pancreas]]
 
-![[Pancreas]]
-
-![[Galdesten]]
+![[Choleliathitis]]
 
 ![[Sygdomme i galdegangene]]
 
+![[Pancreatitis]]

@@ -3,4 +3,4 @@
 [[Kolesterol]]
 ![[Galdesalte]]
 
-![[Galdesten]]
+![[Choleliathitis]]
