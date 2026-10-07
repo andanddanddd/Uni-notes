@@ -46,7 +46,7 @@
 - Hvilken effekt har penicilin på C. trachomatis?:: Det gør den "sovende"
 <!--SR:!2026-11-17,45,290-->
 - Hvordan diagnosticeres en infektion med C. trachomatis?:: PCR
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-13,67,310-->
 - Hvor kan man pode til en bakteriedyrkning med C. trachomatis? (5)
 ?
 - Uretra

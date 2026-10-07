@@ -11,7 +11,7 @@
 - Hvor lever M. tuberculosis normalt?
 - Hvilket oxidativt miljø lever M. tuberculosis bedst i?
 - Hvad kendetegner motiliteten af M. tuberculosis?:: Den er ikke motil
-<!--SR:!2026-10-07,2,230-->
+<!--SR:!2026-10-12,5,230-->
 
 ## Patogenese
 - Hvilke celler inficere M. tuberculosis?:: Makrofager
@@ -30,7 +30,7 @@
 ## Symptomer og komplikationer
 - Hvilke infektioner giver M. tuberculosis?
 - Hvilken sygdom giver M. tuberculosis?:: [[Tuberculose]]
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 
 - Hvilke komplikationer kan M. tuberculosis give?:
 ## Diagnostik

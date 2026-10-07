@@ -5,7 +5,7 @@
 - Transmission (regnes i sansynlighed for smitte pr samleje)
 - Kontakt-tid til næste partner
 - Varighed af infektion (afhænger af symptomer og dermed behandling)
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-11,65,310-->
 
 - Hvad er risikofaktorene for at få seksuelt overførte sygdomme?
 ?

@@ -14,7 +14,7 @@
 - Hvordan kan en virus nogle gange lave transskription i cytoplasma?:: Hvis det er en RNA-virus skal den alligevel bruge sine egne enzymer, så er der ingen grund til at skulle ind i kernen
 <!--SR:!2026-10-08,16,290-->
 - Hvor formere virus sig?:: Altíd intracellulært
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-10,64,310-->
 - Når en virus er kommet ind i en celle hvordan deler den sig så overordnet?:: Den bruger cellens egne mekanismer til at replikere dens genom og syntetisere dens kapsel
 <!--SR:!2026-10-08,16,290-->
 #### Replikation af genom

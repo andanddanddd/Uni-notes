@@ -9,6 +9,7 @@
 <!--SR:!2026-10-11,4,270-->
 - Hvordan lejres P. aeruginosa?
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
+<!--SR:!2026-10-11,4,270-->
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
 <!--SR:!2026-10-10,3,250-->
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
@@ -30,6 +31,7 @@
 
 ## Smitte og epidimologi
 - Hvad kendetegner smitte af P. aeruginosa?:: Det er den mest prævalente oppertunistiske patogen
+<!--SR:!2026-10-10,3,250-->
 - Hvor sker meget smitte med P. aeruginosa og hvorfor?:: Sygehuse, den er god til adaptagtioner og er meget resistent'
 <!--SR:!2026-10-11,4,270-->
 - Hvilke infektioner giver P. aeruginosa i diabetespatienter og hvorfor?:: Infektioner af sår, de ahr dårlig circulation så der kommer færre immunceller til at dræbe dem

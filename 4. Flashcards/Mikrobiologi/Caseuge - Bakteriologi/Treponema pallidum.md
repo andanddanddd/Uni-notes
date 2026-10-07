@@ -14,7 +14,7 @@
 - Hvor "bor" syfilis normalt?:: Kun mennesker
 <!--SR:!2026-10-08,16,290-->
 - Hvorfor kan en syfilisinfektion øge risikoen for [[Human immunodeficiency virus (HIV)+]]?:: Det giver sår og øger antallet af CD4+ celler (dem HIV inficere)
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-11-20,44,290-->
 - Hvornår smitter T. pallidum mest?:: Under [[Sekundær syfilis]]
 <!--SR:!2026-11-13,39,290-->
 
