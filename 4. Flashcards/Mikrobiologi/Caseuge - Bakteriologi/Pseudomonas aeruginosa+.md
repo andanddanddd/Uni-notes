@@ -45,6 +45,7 @@
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
 <!--SR:!2026-10-11,4,270-->
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
+<!--SR:!2026-10-10,3,250-->
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
 <!--SR:!2026-10-10,3,250-->
@@ -52,6 +53,7 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres P. aeruginosa?:: Dyrkning
+<!--SR:!2026-10-10,3,250-->
 - Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
 <!--SR:!2026-10-08,1,230-->
 

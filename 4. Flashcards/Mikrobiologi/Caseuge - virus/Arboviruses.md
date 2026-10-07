@@ -3,7 +3,7 @@
  (Togavirus, Flavivirus; **Tick-borne encephalitis** (TBE), Buniavirus, Filivirus)
 
 - Hvad er arboviruser overordnet?:: Viruser der smitter gennem insekter
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvilke insekter kan bruges til at overfører arboviruser?:: Myg, flåter, blodsugende fluer
 <!--SR:!2026-10-21,16,290-->
 - Hvad sker med arbevirus i insektet (vektoren) før den kan smitte til mennesker?:: Virussen replikere og ender i smyttet af insekten

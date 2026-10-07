@@ -91,7 +91,7 @@ Kan give blivende bruskskade
 - Hvordan behandles en infektion med N. gonorrhoeae overordnet?:: [[Ceftriaxon]] (IM) og [[Azithromycin]]
 <!--SR:!2026-10-23,23,250-->
 - Hvor foregår behandlingen af N. gonorrhoeae typisk?:: Man giver typisk medicin allerede i almen praksis så komplience ikke kan være et problem
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-13,67,310-->
 
 
 

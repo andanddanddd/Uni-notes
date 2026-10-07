@@ -26,7 +26,7 @@
 
 #### Viral proteinsyntese
 - Hvor forgår transskription henne?:: Enten cytoplasma eller i cellekernen
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-10,64,310-->
 - Hvordan laver en RNA+ virus mRNA?:: Det er allerede mRNA
 <!--SR:!2026-10-08,16,290-->
 - Hvordan laver en RNA- virus mRNA?: Det skal undergå en form for replikation så det bliver RNA+/mRNA, dette kræver et enzym virussen selv skal have med

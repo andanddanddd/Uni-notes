@@ -8,6 +8,7 @@
 - Hvad findes på den objektive undersøgelse ved en patient med akut pancreatitis?:: Ømhed (maven)
 <!--SR:!2026-10-11,4,270-->
 - Hvad ses på en blodprøver af en patient med akut pancreatitis?:: Øgede niveuer af [[Amylase]] og [[Lipase]]
+<!--SR:!2026-10-11,4,270-->
 - Hvad er de 3 patogeneseveje til akut pancreatitis?
 ?
 - Skade i kirtelceller

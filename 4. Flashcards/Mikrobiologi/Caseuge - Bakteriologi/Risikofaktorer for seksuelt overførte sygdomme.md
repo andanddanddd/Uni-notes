@@ -15,7 +15,7 @@
 - Svangssex
 - Misbrug (alkohol eller euforiserende stoffer)
 - 15-24 år (alder)
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-11-20,44,290-->
 
 - Hvilke seksuelt overførte sygdomme får folk i lav-risikogrupper oftest?
 ?

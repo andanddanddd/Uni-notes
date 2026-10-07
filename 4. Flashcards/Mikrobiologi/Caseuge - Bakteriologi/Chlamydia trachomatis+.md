@@ -39,7 +39,7 @@
 - Hvor kan clamydia sprede sig hen fra vagina?:: Rectum og højre op dvs det kan give [[Endometritis]] og [[Pelvic inflammatory disease (PID)]]
 <!--SR:!2026-11-28,54,310-->
 - Hvilken type cancer kan kvinder med tidligere C. trachomatis infektion være i øget risiko for at få?:: Ovariecancer
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-09,63,310-->
 
 ![[Trachoma]]
 ## Diagnostik/behandling

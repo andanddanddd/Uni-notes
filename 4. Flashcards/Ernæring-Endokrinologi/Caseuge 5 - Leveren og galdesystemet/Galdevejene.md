@@ -13,6 +13,7 @@
 ![[Pasted image 20261006140125.png]]
 ## Occlusion
 ![[Oclussion - Galdevejene]]A:: Collumna vesicae biliaris
+<!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]B:: Corpus vesicae biliaris
 <!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]C:: Fundus vesicae biliaris

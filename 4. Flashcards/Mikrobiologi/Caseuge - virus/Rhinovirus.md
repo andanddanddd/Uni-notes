@@ -29,7 +29,7 @@
 - Hvordan smitter rhinovirus?:: Dråber og direkte kontakt
 <!--SR:!2026-10-21,16,290-->
 - Hvor "lever" rhinovirus normalt?:: Kun mennesker
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 
 ## Symptomer og komplikationer
 - Hvilken "sygdom" giver rhinovirus oftest?:: [[Forkølelse]]

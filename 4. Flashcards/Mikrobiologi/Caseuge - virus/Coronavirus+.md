@@ -50,7 +50,7 @@
 - [[Covid-19]]
 ## Symptomer og komplikationer
 - Hvilke infektioner giver coronavirus oftest?:: Infektioner i luftvejene
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvilke symptomer giver endemisk coronavirus typisk?:: [[Forkølelse]]
 <!--SR:!2026-10-19,14,290-->
 - Hvem for oftest slemem coronavirusinfektioner?:: Ældre (og immunkomprimiterede)

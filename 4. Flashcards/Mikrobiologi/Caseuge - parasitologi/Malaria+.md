@@ -35,6 +35,7 @@
 - Hvor længe er malaria i leverceller?:: 1-2 uger
 <!--SR:!2026-10-11,4,270-->
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
+<!--SR:!2026-10-08,1,230-->
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
 <!--SR:!2026-10-10,3,250-->
 - Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)

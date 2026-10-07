@@ -25,7 +25,7 @@
 - Hvordan ændres overfladeproteinerne på B. burgdorferi når den skal inficere pattedyr?:: OspA erstattes med OspC
 <!--SR:!2026-10-18,12,270-->
 - Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvad kendetegner immunresponset mod b. burgdorferi?:: Når først en infektion er etableret er det virkeligt svært for immunforsvaret at fjerne, selv med store koncentrationer af specifikke antistoffer
 <!--SR:!2026-10-08,3,250-->
 - Hvordan overlever B. burgdorferi immunsystemet?

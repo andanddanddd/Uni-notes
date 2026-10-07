@@ -9,7 +9,7 @@
 - Hvor lever B. pertussis normalt?:: I mennesker (den giver forkølelse i ellers raske voksne dermed kan de smitte til børn der bliver meget syge)
 <!--SR:!2026-10-11,12,270-->
 - Hvilket oxidativt miljø lever B. pertussis bedst i?:: Den er aerob
-<!--SR:!2026-10-07,7,250-->
+<!--SR:!2026-10-31,24,270-->
 
 ## Patogenese
 - Hvilke celler inficere B. pertussis?:: Cilieret epitel i luftveje

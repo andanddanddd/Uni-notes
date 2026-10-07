@@ -52,7 +52,7 @@
 
 ## Forebyggelse og behandling
 - Hvorfor kan man blive inficere med norovirus flere gange?:: Der er mange variation og vores respons forsvinder (man kan blive inficeret med den samme norovirus efter 2-3 pr)
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvordan behandles norovirus?:: Vand+elektrolytter
 <!--SR:!2026-10-21,16,290-->
 
