@@ -38,7 +38,7 @@
 - Hvor "lever" $\alpha$ og $\beta$ coronavirus normalt?:: Pattedyr (inkl mennesker)
 <!--SR:!2026-10-12,7,250-->
 - Hvor lever $\delta$ og $\gamma$ coronavirus normalt?:: Fugle
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - I hvilket dyr bor flest forskellige coronavirus og hvorfor?:: Flagermuse, det ligner ikke de bliver syge af det
 <!--SR:!2026-10-21,16,290-->
 - Hvordan smitter coronavirus?:: Dråber eller aerosoler

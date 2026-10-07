@@ -4,10 +4,13 @@
 
 ## Generalt
 - Hvilken type cellevæg har P. aeruginosa?:: [[Gram-negative bakterier]]
+<!--SR:!2026-10-11,4,270-->
 - Hvilken form har P. aeruginosa?:: Stav
+<!--SR:!2026-10-11,4,270-->
 - Hvordan lejres P. aeruginosa?
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
+<!--SR:!2026-10-10,3,250-->
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
 <!--SR:!2026-10-10,3,250-->
 - Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)
@@ -38,6 +41,7 @@
 <!--SR:!2026-10-11,4,270-->
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
+<!--SR:!2026-10-11,4,270-->
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]

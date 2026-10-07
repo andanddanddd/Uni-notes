@@ -24,6 +24,7 @@
 ![[Oclussion - Galdevejene]]F:: Ductus cysticus
 <!--SR:!2026-10-08,1,230-->
 ![[Oclussion - Galdevejene]]G:: Plica spiralis
+<!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]H:: Ductus choleductus
 ![[Oclussion - Galdevejene]]I:: Ductus pancreaticus
 <!--SR:!2026-10-11,4,270-->
