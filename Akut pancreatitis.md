@@ -10,3 +10,7 @@
 - Skade i cellerne i udførselsgangene
 - Neoplastiske ændringer
 
+- Hvad sker typisk når kirtelcellerne i pancreas går i stykker?:: Enzymer aktiveres i pancreas i stedet for duodenum, dermed nedbrydes mange cellulære komponenter
+
+![[Pasted image 20261006144401.png]]
+![[Pasted image 20261006144409.png]]
