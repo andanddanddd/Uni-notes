@@ -12,14 +12,12 @@
             "id": "3fb455bd3592cabe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20261006140125.png"
               },
-              "icon": "lucide-file",
-              "title": "Forelæsning - Patologi af bugspytkirtlet og galdeblæren"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261006140125"
             }
           }
         ]
@@ -53,7 +51,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +86,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fordøjelsesst",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -241,8 +240,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
+    "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
     "Neoplasmer i pancreas.md",
     "Sygdom i pancreas.md",
@@ -270,8 +271,6 @@
     "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/V. portae.md",
     "4. Flashcards/Fordøjelse II/Steatorré.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Sinussoider (leveren).md",
-    "Pigmentsten.md",
     "Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
     "Pasted image 20261006140125.png",
