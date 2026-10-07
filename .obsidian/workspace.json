@@ -12,12 +12,14 @@
             "id": "3fb455bd3592cabe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20261006140125.png"
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261006140125"
+              "icon": "lucide-file",
+              "title": "Forelæsning - Patologi af bugspytkirtlet og galdeblæren"
             }
           }
         ]
@@ -51,8 +53,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,40 +241,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "83ab088479f8d619",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+    "4. Flashcards/Fordøjelse II/Sygdomme i galdegangene.md",
+    "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
+    "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
+    "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",
+    "Billeder/Fordøjelse II",
     "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "0. De allervigtigste/Mikrobiologi/Gram-positive bakterier.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
-    "Neoplasmer i pancreas.md",
-    "Sygdom i pancreas.md",
-    "Pancreatitis.md",
-    "Kronisk pancreatitis.md",
-    "Akut pancreatitis.md",
-    "Pasted image 20261006144409.png",
-    "Pasted image 20261006144401.png",
+    "4. Flashcards/Fordøjelse II/Neoplasmer i pancreas.md",
+    "4. Flashcards/Fordøjelse II/Sygdom i pancreas.md",
+    "4. Flashcards/Fordøjelse II/Pancreatitis.md",
+    "4. Flashcards/Fordøjelse II/Kronisk pancreatitis.md",
+    "4. Flashcards/Fordøjelse II/Akut pancreatitis.md",
+    "Billeder/Fordøjelsesystemet II/Pasted image 20261006144401.png",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Pancreas.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
     "4. Flashcards/Fordøjelse II/Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD).md",
-    "Adenocarcinoma i galdeblæren.md",
+    "4. Flashcards/Fordøjelse II/Adenocarcinoma i galdeblæren.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Choleliathitis.md",
-    "Kronsik cholecystitis.md",
-    "Cholecystitis.md",
-    "Akut cholecystitis.md",
-    "Sygdomme i galdegangene.md",
-    "Cholangitis.md",
-    "Biliary atresia.md",
+    "4. Flashcards/Fordøjelse II/Kronsik cholecystitis.md",
+    "4. Flashcards/Fordøjelse II/Cholecystitis.md",
+    "4. Flashcards/Fordøjelse II/Akut cholecystitis.md",
+    "4. Flashcards/Fordøjelse II/Cholangitis.md",
+    "4. Flashcards/Fordøjelse II/Biliary atresia.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
     "4. Flashcards/Fordøjelse II/Spider angiomas.md",
     "4. Flashcards/Fordøjelse II/Leversvigt.md",
-    "Choledocholithiasis.md",
+    "4. Flashcards/Fordøjelse II/Choledocholithiasis.md",
     "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/V. portae.md",
-    "4. Flashcards/Fordøjelse II/Steatorré.md",
-    "Pasted image 20261006141334.png",
+    "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
-    "Pasted image 20261006140125.png",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Billeder/Mikrobiologi/Pasted image 20261006114344.png",
@@ -285,9 +287,7 @@
     "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Malaria og andre protozoer.pdf",
     "Billeder/Mikrobiologi/Pasted image 20261005133613.png",
     "Billeder/Mikrobiologi/Pasted image 20261005131636.png",
-    "Billeder/Mikrobiologi/Pasted image 20261005131549.png",
     "Externe dokumenter/MIkrobiologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
-    "Externe dokumenter/MIkrobiologi/Parasitologi/msoE00.tmp",
     "Untitled.canvas"
   ]
 }
