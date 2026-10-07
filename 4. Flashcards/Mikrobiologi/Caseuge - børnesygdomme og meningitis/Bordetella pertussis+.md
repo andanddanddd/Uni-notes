@@ -3,9 +3,9 @@
 
 ## Generalt
 - Hvilken type cellevæg har B. pertussis?:: [[Gram-negative bakterier]]
-<!--SR:!2026-10-07,9,250-->
+<!--SR:!2026-10-29,22,250-->
 - Hvilken form har B. pertussis?:: Kokker
-<!--SR:!2026-10-07,7,270-->
+<!--SR:!2026-11-01,25,290-->
 - Hvor lever B. pertussis normalt?:: I mennesker (den giver forkølelse i ellers raske voksne dermed kan de smitte til børn der bliver meget syge)
 <!--SR:!2026-10-11,12,270-->
 - Hvilket oxidativt miljø lever B. pertussis bedst i?:: Den er aerob

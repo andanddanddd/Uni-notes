@@ -16,6 +16,7 @@
 <!--SR:!2026-10-11,4,270-->
 
 - Hvad sker typisk når kirtelcellerne i pancreas går i stykker?:: Enzymer aktiveres i pancreas i stedet for duodenum, dermed nedbrydes mange cellulære komponenter
+<!--SR:!2026-10-11,4,270-->
 
 ![[Pasted image 20261006144401.png]]
 ![[Pasted image 20261006144409.png]]

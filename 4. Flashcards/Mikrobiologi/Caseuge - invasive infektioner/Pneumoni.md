@@ -7,7 +7,7 @@
 - Aspiration af slim fra øvre luftveje
 - Blodbanen
 - Traumer (patogener direkte ind i lungen)
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 
 ## Subtyper
 - Hvad er de 4 overordnede typer af pneumoni?

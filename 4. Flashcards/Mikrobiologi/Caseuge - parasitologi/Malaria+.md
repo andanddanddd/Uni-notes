@@ -33,6 +33,7 @@
 <!--SR:!2026-10-09,3,250-->
 - Hvilke celler inficere malaria først i mennesker?:: Leverceller
 - Hvor længe er malaria i leverceller?:: 1-2 uger
+<!--SR:!2026-10-11,4,270-->
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
 <!--SR:!2026-10-10,3,250-->
@@ -41,13 +42,17 @@
 - Hvad sker med malaria efter 1-2 uger i leverceller?:: De bliver frigivet til blodbanen for de inficere erytrocytter
 <!--SR:!2026-10-11,4,270-->
 - Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt
+<!--SR:!2026-10-11,4,270-->
 - Hvordan kommer malaria ud af erytrocytter?:: Lyse
+<!--SR:!2026-10-11,4,270-->
 - Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
+<!--SR:!2026-10-11,4,270-->
 - Hvad kaldes cellerne der kommer fra sexuel deling af malaria?::  [[Sporozoitter]]
 <!--SR:!2026-10-08,1,230-->
 - Hvorfor sker cyklisk feber ved malaria?:: Alle blodceller lyseres på en gang, dermed udsendes mange parasitter og dermed mange PAMPs
 <!--SR:!2026-10-11,4,270-->
 - Hvordan beskytter genet for [[Seglcelleanæmi]] mod malaria?:: Det bidrager til at inficerede celler opdages og dræbes
+<!--SR:!2026-10-11,4,270-->
 
 ## Symptomer og komplikationer
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)

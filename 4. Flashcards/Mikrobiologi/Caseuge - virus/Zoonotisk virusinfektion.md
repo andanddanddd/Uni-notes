@@ -7,7 +7,7 @@
 - Svampe
 - Bakterier
 - Virus
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-11-20,44,290-->
 
 - Hvorfor er zoonotisk virusinfektioner typisk slemme?:: De er typisk helt nye for os og vi har derfor intet immunsystem til dem
 <!--SR:!2026-12-10,64,310-->

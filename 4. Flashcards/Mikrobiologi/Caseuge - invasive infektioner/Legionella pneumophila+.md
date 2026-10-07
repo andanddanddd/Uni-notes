@@ -85,7 +85,7 @@ Hvordan genkendes den?
 - Hvilke problemer har urinprøve som diagnostik for L. pneumophilia?:: Den opfanger kun havldelen af serotyper
 <!--SR:!2026-10-07,4,270-->
 - Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-18,11,270-->
 - Hvilke ulemper har det at bruge dyrkning til diagnostik af L. pneumophilia?:: Det tager lang tid (3-5 dage) og kræver en speciel dyrkningsmedie
 <!--SR:!2026-10-09,4,270-->
 - Hvilke toks-værdier ændre sig ved en L. pneumophilia infektion?
@@ -93,7 +93,7 @@ Hvordan genkendes den?
 - GCS kan falde
 - Temp er høj
 - Sat-O$_2$ er lav
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-18,11,270-->
 
 - Hvad findes på en blodprøve af en person med L. pneumophilia?
 ?

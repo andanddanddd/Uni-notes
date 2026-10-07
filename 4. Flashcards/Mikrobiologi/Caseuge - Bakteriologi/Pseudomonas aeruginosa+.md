@@ -30,6 +30,7 @@
 ## Smitte og epidimologi
 - Hvad kendetegner smitte af P. aeruginosa?:: Det er den mest prævalente oppertunistiske patogen
 - Hvor sker meget smitte med P. aeruginosa og hvorfor?:: Sygehuse, den er god til adaptagtioner og er meget resistent'
+<!--SR:!2026-10-11,4,270-->
 - Hvilke infektioner giver P. aeruginosa i diabetespatienter og hvorfor?:: Infektioner af sår, de ahr dårlig circulation så der kommer færre immunceller til at dræbe dem
 <!--SR:!2026-10-11,4,270-->
 - Hvilken tendens har smittetilfælde med P. aeruginosa
@@ -40,11 +41,13 @@
 - Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod
 <!--SR:!2026-10-11,4,270-->
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
+<!--SR:!2026-10-11,4,270-->
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
 <!--SR:!2026-10-11,4,270-->
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
+<!--SR:!2026-10-10,3,250-->
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
@@ -60,6 +63,7 @@ Hvordan genkendes den?
 - [[Tetracykliner]]
 - [[Chloramphenicol]]
 - [[Vancomyocin]]
+<!--SR:!2026-10-08,1,230-->
 
 - Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
 <!--SR:!2026-10-11,4,270-->
