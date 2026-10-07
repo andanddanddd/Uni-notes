@@ -24,7 +24,7 @@
 - Hvorfor er det ikke smart at have en extracellulær retikularlgeme? (fra bakteriens synspunkt):: Den er ikke osmotisk stabil nok og den kan ikke binde til celler
 <!--SR:!2026-12-08,63,310-->
 - Hvordan omdannes et retikularlegeme til et elementarlegeme?:: Hver gang en clamydia deler sig bliver de lidt mindre, når de er små nok begynder de at omdanne sig
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-11-20,44,290-->
 
 ![[Pasted image 20260916122223.png]]
 

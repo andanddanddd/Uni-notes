@@ -48,7 +48,7 @@
 - Høj feber
 - Brystsmerter
 - Kulderystelser
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-18,11,270-->
 
 ## Komplikationer
 

@@ -2,6 +2,7 @@
 
 - Hvad er de 2 hyppigste etiologier til akut pancreatitis?:: Alkoholisme og galdesten ([[Choleliathitis]])
 - Hvilke symptomer har akut pancreatitis?:: Kvalme + opkast, mavesmerter bagudtil
+<!--SR:!2026-10-10,3,250-->
 - Hvad findes på den objektive undersøgelse ved en patient med akut pancreatitis?:: Ømhed (maven)
 - Hvad ses på en blodprøver af en patient med akut pancreatitis?:: Øgede niveuer af [[Amylase]] og [[Lipase]]
 - Hvad er de 3 patogeneseveje til akut pancreatitis?

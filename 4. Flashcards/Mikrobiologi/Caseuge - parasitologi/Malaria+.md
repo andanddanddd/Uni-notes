@@ -25,6 +25,7 @@
 - Hvorfor er der stor risiko for at flygtninge der besøger der malariaramte hjemland bliver syge?:: De har mistet deres immunitet
 <!--SR:!2026-10-10,4,270-->
 - Hvilke myg kan smitte malaria?:: Kvinder
+<!--SR:!2026-10-11,4,270-->
 - Hvorfor bliver man typisk ikke smittet med malaria i fx DK?:: Der er få smittetilfælde og mygene er derfor raske, hvis mygene bliver inficeret dør de (pga kulden vist nok)
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
@@ -33,6 +34,7 @@
 - Hvor længe er malaria i leverceller?:: 1-2 uger
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
+<!--SR:!2026-10-10,3,250-->
 - Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)
 - Hvad sker med malaria efter 1-2 uger i leverceller?:: De bliver frigivet til blodbanen for de inficere erytrocytter
 - Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt
@@ -58,6 +60,7 @@
 - Hvornår mistænkes malaria?:: Feber på personer der for nyligt har været i en malariaområde
 <!--SR:!2026-10-10,4,270-->
 - Hvad kendetegner sesitivitet og fejl på hurtigttest mod malaria?:: De er meget sensitive men kan give falsk-negative (fanger 85% af tilfælde)
+<!--SR:!2026-10-11,4,270-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk

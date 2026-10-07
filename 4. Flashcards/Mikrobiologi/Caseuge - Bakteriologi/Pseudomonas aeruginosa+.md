@@ -17,6 +17,7 @@
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
+<!--SR:!2026-10-11,4,270-->
 
 
 ## Smitte og epidimologi

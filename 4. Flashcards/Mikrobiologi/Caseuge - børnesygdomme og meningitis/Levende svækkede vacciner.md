@@ -21,4 +21,4 @@
 - De skal håndteres meget påpasseligt for ikke at dræbe mirkoorganismerne
 - De kan tilbagemutere til den "farlige" form
 - Kan giev midlertidlig immunsupression
-<!--SR:!2026-10-07,23,250-->
+<!--SR:!2026-12-04,58,250-->
