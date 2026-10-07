@@ -75,7 +75,7 @@ Tendens
 - Hvilken test laves for at genkende s. pneumoniae fra de andre [[Streptococcer]] og hvordan gendkendes s. pneumonia derpå?:: [[Optochin test]] S. pneumonia er følsom overfor optochin derfor laves en hæmningszone
 <!--SR:!2026-10-13,15,290-->
 - Hvorfor kan det være svært at dyrke S. pneumoniae når patienter indlægges med pneumoni?:: De indlægges typisk på dag 2/3 her er de i det røde hepatisationsstadium hvor ekspektorat er mere præget af neutrofile granulocytter end bakterier
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 
 ## Forebyggelse og behandling
 Resistens

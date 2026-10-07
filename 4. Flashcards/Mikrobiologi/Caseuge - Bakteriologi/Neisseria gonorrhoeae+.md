@@ -85,7 +85,7 @@ Kan give blivende bruskskade
 - Cervix
 - Rektum
 - Svælg
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-12,66,310-->
 
 
 - Hvordan behandles en infektion med N. gonorrhoeae overordnet?:: [[Ceftriaxon]] (IM) og [[Azithromycin]]

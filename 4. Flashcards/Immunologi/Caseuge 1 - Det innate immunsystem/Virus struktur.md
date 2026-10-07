@@ -1,7 +1,7 @@
 #flashcards/3/Immunologi #flashcards/5/Mikrobiologi 
 
 - Hvor stor er en virus?:: 10-300 nm (1/10 del af en bakterie)
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-11,65,310-->
 - Hvad kaldes viruskaplsen?:: Kapsid
 <!--SR:!2026-11-29,55,310-->
 - Hvad består en virus overordnet af?:: Nukleinsyre inde i en proteinkapsel

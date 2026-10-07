@@ -23,6 +23,7 @@
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 <!--SR:!2026-10-11,4,270-->
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
+<!--SR:!2026-10-11,4,270-->
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
 <!--SR:!2026-10-11,4,270-->
 
@@ -36,6 +37,7 @@
 - Hvilken tendens har smittetilfælde med P. aeruginosa
 - Hvordan smitter P. aeruginosa?
 - Hvem bliver oftest smittet af P. aeruginosa?:: Cancer-patienter, patienter med cystisk fibrose eller forbrændinger
+<!--SR:!2026-10-11,4,270-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod
