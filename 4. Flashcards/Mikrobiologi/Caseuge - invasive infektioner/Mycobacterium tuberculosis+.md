@@ -38,7 +38,7 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres M. tuberculosis?
 - Hvad kendetegner tuberculose histologisk?:: Gigant celler og [[Caseøs nekrose]]
-<!--SR:!2026-10-07,2,230-->
+<!--SR:!2026-10-14,7,250-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har M. tuberculosis?

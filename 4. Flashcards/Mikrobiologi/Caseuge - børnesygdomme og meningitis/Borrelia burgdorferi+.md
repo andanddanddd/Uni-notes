@@ -83,7 +83,7 @@
 - Hvornår sker stadie 3 af borrelia?:: Måneder til år efter flåtbidet
 <!--SR:!2026-10-22,16,290-->
 - Hvilke led påvirkes typisk i stadie 3 af borrelia?:: De store led særligt knæled
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 
 ![[Pasted image 20260929101624.png|433]]![[Pasted image 20260929102506.png|375]]
 ## Diagnostik

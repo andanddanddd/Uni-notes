@@ -8,7 +8,7 @@ Methylblot på slide 8
 - Hvilken form har N. gonorrhoaea?:: Kokker (bønneformede)
 <!--SR:!2026-11-18,46,290-->
 - Hvordan er lejringen af N. gonorrhoaea?:: Diplokokker
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-11,65,310-->
 - Hvilken vækstmedie gror man typisk N. gonorrhoaea på?:: [[Chokoladeagerplader]]
 <!--SR:!2026-12-04,59,310-->
 
@@ -19,7 +19,7 @@ Methylblot på slide 8
 - Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder), det kan IKKE smitte fra objekter eks tiletbræt
 <!--SR:!2026-12-06,61,310-->
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-13,67,310-->
 - Hvad er den overordnede tendens i smittetilfælde med N. gonorrhoeae?:: Den stiger
 <!--SR:!2026-12-04,59,310-->
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt

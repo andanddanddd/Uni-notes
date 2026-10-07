@@ -2,7 +2,7 @@
 
 ## Struktur
 - Hvilken type arvematriale bruger influenzavirus?:: RNA-
-<!--SR:!2026-10-07,7,270-->
+<!--SR:!2026-10-26,19,270-->
 - Hvordan er strukturen af influenzavirus arvematriale?:: 8 lineære segmenter (kun 7 ved influenza C)
 <!--SR:!2026-10-12,14,290-->
 - Hvilken form har proteinkapslen på influenzavirus?:: Hver RNA har en helikalligenende kapsel omkring sig

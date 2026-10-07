@@ -8,7 +8,7 @@
 - Har rhinovirus en lipidmembran?:: Nej
 <!--SR:!2026-10-08,3,250-->
 - Hvilken type arvematriale bruger rhinovirus?:: RNA+
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvilken struktur har rhinovirus´ arvematriale?:: 1 RNAmolekyle
 <!--SR:!2026-10-09,4,270-->
 ## Livscyklus

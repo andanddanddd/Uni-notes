@@ -18,7 +18,9 @@
 ![[Oclussion - Galdevejene]]C:: Fundus vesicae biliaris
 <!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]D:: Ductus hepaticus dxt/sin
+<!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]E:: Ductus hepaticus communis
+<!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]F:: Ductus cysticus
 <!--SR:!2026-10-08,1,230-->
 ![[Oclussion - Galdevejene]]G:: Plica spiralis

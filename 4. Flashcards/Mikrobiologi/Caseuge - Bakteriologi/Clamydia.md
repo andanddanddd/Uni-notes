@@ -3,11 +3,11 @@
 - Hvad kendetegner clamydias vækst?:: Den kan kun dele sig inde i andre celler
 <!--SR:!2026-11-20,60,310-->
 - Hvilken type cellevæg har clamydia?:: Det minder mest om en gram-negativ men den har ingen murein så den er atypisk (den har murein ifølge bogen)
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-09,63,310-->
 - Hvor store er clamydia?:: Små
 <!--SR:!2026-11-30,56,310-->
 - Hvad betyder autotrofisk?:: At en organisme ikke kan syntetisere et stof nødvendigt for vækst
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-10-16,9,270-->
 - Hvordan kommer clamydia ind i celler?:: Ved at sætte sig på overlafden og injicere (med [[Type III Sekretion]]) toksiner ind  cellen der inducere "endocytose" (eller fagocytose)
 <!--SR:!2026-11-20,45,290-->
 - Hvordan undergår clamydia at blive dræbt at lysosomale stoffer?:: De ændre membranen af endosomet for at undgå fusion med lysosomet

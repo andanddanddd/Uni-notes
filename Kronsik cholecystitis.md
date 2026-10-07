@@ -7,5 +7,6 @@
 - Kvalme
 - Opkast
 - Intolerance af fedtrigt mad
+<!--SR:!2026-10-08,1,230-->
 
 - Hvilke komplikationer kan kronisk cholecystitis lede til?:: Cancer

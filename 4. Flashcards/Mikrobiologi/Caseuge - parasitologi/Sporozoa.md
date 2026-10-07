@@ -5,5 +5,6 @@
 - Eksempel på sportozoa?:: [[Malaria+]] og [[Toxoplasma gondii]]
 <!--SR:!2026-10-10,4,270-->
 - Hvor deler sporozoa sig henne?:: Kun intracellulært
+<!--SR:!2026-10-11,4,270-->
 
 ![[Pasted image 20261005131549.png]]

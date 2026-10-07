@@ -11,7 +11,7 @@
 - Hvad er resultatet af en gram-farvning af svampe?:: Den bliver gram-positiv
 <!--SR:!2026-12-06,65,310-->
 - Er svampe kønnet eller ukønnet?:: det varierer
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-09,63,310-->
 - Hvad er en hyfe?:: En streng svampeceller med sammenhængende cellevæg
 <!--SR:!2026-12-11,65,310-->
 - Hvad er en pseudohyfe?:: Svampeceller der ligger i forlængelse af hinanden men med små indsmøringer mellem cellerne og derfor ligner en hyfe men uden en sammenhængende cellevæg

@@ -6,7 +6,7 @@
 - Hvilken type parasit er malaria?:: [[Protozoa]] specifikt [[Sporozoa]]
 <!--SR:!2026-10-10,4,270-->
 - Hvilket "genus" har malaria?:: Plasmodium
-<!--SR:!2026-10-07,1,230-->
+<!--SR:!2026-10-09,2,230-->
 ## Smitte
 - Hvor forekommer malaria?:: Primært Afrika men også det norlige Sydamerika, Asien og nordlige Oceanien
 <!--SR:!2026-10-10,4,270-->
@@ -27,6 +27,7 @@
 - Hvilke myg kan smitte malaria?:: Kvinder
 <!--SR:!2026-10-11,4,270-->
 - Hvorfor bliver man typisk ikke smittet med malaria i fx DK?:: Der er få smittetilfælde og mygene er derfor raske, hvis mygene bliver inficeret dør de (pga kulden vist nok)
+<!--SR:!2026-10-11,4,270-->
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
 <!--SR:!2026-10-09,3,250-->
@@ -70,4 +71,5 @@
 - Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk
 <!--SR:!2026-10-10,4,270-->
 - Hvordan behandles malaria overodnet?:: Dræber [[Hypnozoiter]] og giver blod
+<!--SR:!2026-10-11,4,270-->
 - Hvordan bekæmper kroppen?:: Milten kan finde rigide erytorcytter (dem inficered med malaria) og dræbe dem

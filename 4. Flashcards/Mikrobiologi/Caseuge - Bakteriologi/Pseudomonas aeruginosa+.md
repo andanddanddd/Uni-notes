@@ -18,6 +18,7 @@
 - Hvilke patogenesefaktorer har P. aeruginosa?:: [[Biofilm]], flaggel, pili LPS
 <!--SR:!2026-10-10,3,250-->
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
+<!--SR:!2026-10-11,4,270-->
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
 <!--SR:!2026-10-11,4,270-->
@@ -27,6 +28,7 @@
 - Hvad kendetegner smitte af P. aeruginosa?:: Det er den mest prævalente oppertunistiske patogen
 - Hvor sker meget smitte med P. aeruginosa og hvorfor?:: Sygehuse, den er god til adaptagtioner og er meget resistent'
 - Hvilke infektioner giver P. aeruginosa i diabetespatienter og hvorfor?:: Infektioner af sår, de ahr dårlig circulation så der kommer færre immunceller til at dræbe dem
+<!--SR:!2026-10-11,4,270-->
 - Hvilken tendens har smittetilfælde med P. aeruginosa
 - Hvordan smitter P. aeruginosa?
 - Hvem bliver oftest smittet af P. aeruginosa?:: Cancer-patienter, patienter med cystisk fibrose eller forbrændinger

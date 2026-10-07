@@ -71,7 +71,7 @@
 - Hvilkne type vacicine er morbilli-virus-vaccinen?:: [[Levende svækkede vacciner]]
 <!--SR:!2026-10-17,12,270-->
 - Hvorfor får vi først morbililvirus-vaccinen når vi er 15 mdr i DK i stedet for ved 9 mdr i andre dele af verdenen?:: Der er ikke store problemer med mæslinger i DK så det er ikke et problem at vente, ved at vente er der færre der har antistoffer fra deres mor og dermed er der flere der laver et godt respons
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvorfor var det "nemt" at lave en vaccine mod morbillivirus?:: Der er kun 1 serotype
 <!--SR:!2026-10-22,16,290-->
 

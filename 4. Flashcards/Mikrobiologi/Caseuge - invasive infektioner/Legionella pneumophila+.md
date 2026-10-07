@@ -107,7 +107,7 @@ Hvordan genkendes den?
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
-<!--SR:!2026-10-07,2,230-->
+<!--SR:!2026-10-08,1,210-->
 - Hvordan forebygges L. pneumophila?:: Monitorering af vand
 <!--SR:!2026-10-18,11,270-->
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvor hurtigt vokser skimmelsvampe?:: Langsommere end [[Gærsvampe]]
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-09,63,310-->
 - Hvor i kroppen bor skimmelsvampe normalt?:: Det gør de normalt ikke
 <!--SR:!2026-12-06,61,310-->
 - Hvem får oftest systemiske infektioner med skimmelsvampe?:: Immunkomprimiterede
