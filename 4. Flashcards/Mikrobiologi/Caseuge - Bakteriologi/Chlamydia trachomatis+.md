@@ -14,7 +14,7 @@
 
 ## Symptomer/komplikationer
 - Hvad kendetegenr det udflåd der kan komme ud af penis ved en C. trachomatis infektion?:: Det er serøst
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-12,66,310-->
 - Hvilke "sygdommer"/infektioner kan C. trachomatis give hos kvinder? (6)
 ?
 - [[Cervicitis]]

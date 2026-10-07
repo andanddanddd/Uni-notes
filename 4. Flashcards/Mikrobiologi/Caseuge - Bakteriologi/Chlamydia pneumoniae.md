@@ -2,7 +2,7 @@
 [[Clamydia]]
 
 - Hvilken type pneumoni giver C. pnuemoniae?:: "[[Atypisk pneumoni]]" (typisk mild eller asymptomatisk)
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-13,67,310-->
 - Hvordan smitter C. pneumoniae?:: Dropper eller aerosoler
 <!--SR:!2026-11-14,39,290-->
 - Hvor lever C. pneumoniae normalt?:: Kun i mennesker

@@ -6,7 +6,7 @@
 <!--SR:!2026-10-07,4,270-->
 
 - Hvad gøres når en patient får konstateret sepsis?:: Udredning (dvs find ud af hvilken bakterie der forårsager det hvis det ikke allerede er kendt) behandling med antibiotika
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvordan behandles sepsis?:: Antibiotika IV, evt ilt og [[Volumenterapi]]
 <!--SR:!2026-10-07,4,270-->
 - Hvilke antibiotika bruges til sepsis med ukendt etiologi?:: [[Ampicillin]] + [[Gentamicin]]

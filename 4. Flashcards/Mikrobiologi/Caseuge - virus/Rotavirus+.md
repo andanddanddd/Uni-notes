@@ -19,7 +19,7 @@
 - Hvordan kommer rotavirus ind i cellen? (mekanisme):: Endocytose
 <!--SR:!2026-10-19,14,290-->
 - Hvor sker replikation og transskription af rotavirus?:: Cytoplasma
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvor får rotavirus sin lipidmembran?:: Den har ikke en lipidmembran men den får sin ydre skal i ruER
 <!--SR:!2026-10-22,16,290-->
 - Hvordan kommer rotavirus ud af cellen?:: Lysis

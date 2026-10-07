@@ -40,7 +40,7 @@
 - Hvilken sygdom giver morbillivirus?:: [[Mæslinger]]
 <!--SR:!2026-10-14,16,290-->
 - Hvordan er sygdomsforløbet af morbillivirus overordnet?:: 2-3 dage med feber før der kommer et karakteristisk udslet
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvilke komplikation har morbilli virus give?
 ?
 - [[Encephalitis]]

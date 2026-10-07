@@ -10,10 +10,12 @@
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
 - Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)
+<!--SR:!2026-10-10,3,250-->
 
 ## Patogenese
 - Hvilke celler inficere P. aeruginosa?
 - Hvilke patogenesefaktorer har P. aeruginosa?:: [[Biofilm]], flaggel, pili LPS
+<!--SR:!2026-10-10,3,250-->
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin

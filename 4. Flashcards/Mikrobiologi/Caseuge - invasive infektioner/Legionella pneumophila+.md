@@ -28,7 +28,7 @@
 - Hvilke patogenesefaktorer har L. pneumophila?:: [[Biofilm]]
 <!--SR:!2026-10-18,12,270-->
 - Hvad kendetegner L. pneumophilas emperaturtolerance/preferance?:: Den kan vækste i temperaturer op mod 45 grader C og dør ikke før meget højere temperaturer
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvornår skifter L. pneumophilia phenotype?:: Når der mangler næring særligt nukleisyre
 <!--SR:!2026-10-22,16,290-->
 - Hvad kendetegner L. pneumophilias 2 phenotyper?
@@ -54,7 +54,7 @@
 - Hvordan smitter L. pneumophila?:: Gennem vand særligt vandbeholdere, men det kan også smitte fra menneske til menenske gennem dråber (det er den bakterie der hyppigst smitter fra vand i USA)
 <!--SR:!2026-10-20,15,290-->
 - Hvem smittes ofte af L. pneumophila?:: Ældre
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-18,11,270-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver L. pneumophila?:: [[Atypisk pneumoni]] (men alvorligt)
@@ -109,7 +109,7 @@ Hvordan genkendes den?
 - Hvilke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
 <!--SR:!2026-10-07,2,230-->
 - Hvordan forebygges L. pneumophila?:: Monitorering af vand
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-18,11,270-->
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])
 <!--SR:!2026-10-08,3,250-->
 - Hvilke krav er der til antibiotika mod L. pneumophilia?:: Det skal penetrere vores celler

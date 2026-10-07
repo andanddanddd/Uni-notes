@@ -22,7 +22,7 @@ Celler inficeret
 ## Smitte og epidimologi
 Tendens
 - Hvilken smittevej har S. pneumoniae overordnet?:: Dråbesmitte der starter med at kolonisere nasopharynx
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvilken risikofakter øger risikoen for at få pneumoni men S. pneimoniae?:: Alkohol
 <!--SR:!2026-10-18,12,270-->
 

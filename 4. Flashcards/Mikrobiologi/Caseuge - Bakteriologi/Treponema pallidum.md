@@ -8,7 +8,7 @@
 
 ## Smitte
 - Hvad er sandsynligheden for at en person med T. pallidum giver det videre?:: 30% pr samleje
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-09,63,310-->
 - Hvordan smitter treponema pallidum?:: Ved samleje (særlig anal eller oralsex) eller potentielt fra mor til barn (det kan også smittes gennem blodtransfusioner men det screenes der for)
 <!--SR:!2026-12-02,58,310-->
 - Hvor "bor" syfilis normalt?:: Kun mennesker
