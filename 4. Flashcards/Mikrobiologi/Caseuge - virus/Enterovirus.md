@@ -16,7 +16,7 @@
 <!--SR:!2026-10-10,7,250-->
 - Hvor "lever" enterovirus normalt
 - Hvordan smitter enterovirus?:: Typisk fæcal-oral men det kan også smitte gennem mad/vand
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-18,11,270-->
 
 ## Symptomer og komplikationer
 

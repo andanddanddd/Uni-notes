@@ -24,7 +24,7 @@
 - Hvem får oftest candida intertrigo?:: Ældre (og andre der har fugtige hudfolder)
 <!--SR:!2026-12-03,58,310-->
 - Hvem får oftest candida vaginitis/balanitis?:: Ældre eller folk der har haft en antibiotikabehandling
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-09,63,310-->
 
 Meget dødelig hvis de når blodbanen
 

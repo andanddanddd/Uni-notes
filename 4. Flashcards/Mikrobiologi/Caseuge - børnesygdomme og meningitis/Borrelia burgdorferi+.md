@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har B. burgdorferi?:: [[Gram-negative bakterier]]
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 - Hvilken form har B. burgdorferi?:: Spiral
 <!--SR:!2026-10-23,16,290-->
 - Hvordan lejres B. burgdorferi?
@@ -48,7 +48,7 @@
 - Hvilke dyr kan mennesker videregi B. burdorferi til?:: Ingen
 <!--SR:!2026-10-09,4,270-->
 - Hvornår på året sker flest flåtbid og hvorfor?:: Forår og sommer (det er der flåter er aktive og der vi er mest udenfor)
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 ![[Pasted image 20260929103441.png]]
 ## Symptomer og komplikationer
 - Hvilke infektioner giver B. burgdorferi?:: Borrelia

@@ -102,7 +102,7 @@ Hvordan genkendes den?
 <!--SR:!2026-10-18,12,270-->
 
 - Hvad ses typisk på en gram-farvning af opspyt fra en person inficerede med L. pneumophilia?:: Mange neutrofile granulocytter men nærmest ingen bakterier
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-23,16,290-->
 
 
 ## Forebyggelse og behandling

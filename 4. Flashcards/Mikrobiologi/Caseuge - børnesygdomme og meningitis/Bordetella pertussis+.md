@@ -34,7 +34,7 @@
 
 ## Symptomer og komplikationer
 - Hvilken infektion giver B. pertussis typisk?:: [[Bronkopneumoni]]
-<!--SR:!2026-10-07,9,250-->
+<!--SR:!2026-10-29,22,250-->
 - Hvad kaldes sygdommen forårsaget af B. pertussis i daglig tale?:: [[Kighoste]]
 <!--SR:!2026-10-14,15,290-->
 - Hvilken patientgruppe bliver mest syg af B. pertussis?:: Børn

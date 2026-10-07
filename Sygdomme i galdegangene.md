@@ -10,3 +10,4 @@
 ?
 - [[Adenocarcinoma i galdeblæren]]
 - [[Cholangiocarcinoma]]
+<!--SR:!2026-10-08,1,230-->

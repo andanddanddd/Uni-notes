@@ -14,7 +14,9 @@
 ## Occlusion
 ![[Oclussion - Galdevejene]]A:: Collumna vesicae biliaris
 ![[Oclussion - Galdevejene]]B:: Corpus vesicae biliaris
+<!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]C:: Fundus vesicae biliaris
+<!--SR:!2026-10-11,4,270-->
 ![[Oclussion - Galdevejene]]D:: Ductus hepaticus dxt/sin
 ![[Oclussion - Galdevejene]]E:: Ductus hepaticus communis
 ![[Oclussion - Galdevejene]]F:: Ductus cysticus

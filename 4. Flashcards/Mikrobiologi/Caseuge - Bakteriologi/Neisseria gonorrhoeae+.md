@@ -15,7 +15,7 @@ Methylblot på slide 8
 ## Smitte
 
 - Hvor lever N. gonorrhoeae normalt?:: De lever kun i mennesker
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-11,65,310-->
 - Hvordan smitter N. gonorrhoeae?:: Samleje (dvs bakteriern kommer ind igennem slimhinder), det kan IKKE smitte fra objekter eks tiletbræt
 <!--SR:!2026-12-06,61,310-->
 - Hvornår kan N. gonorrhoeae findes i rectum for hhv mænd og kvinder?:: Den findes kun i mænds rectum hvis de har analsex mens den for kvinder godt selv kan vandre fra vagina til rectum

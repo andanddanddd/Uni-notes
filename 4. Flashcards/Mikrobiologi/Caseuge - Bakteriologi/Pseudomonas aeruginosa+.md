@@ -9,6 +9,7 @@
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
+<!--SR:!2026-10-10,3,250-->
 - Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)
 <!--SR:!2026-10-10,3,250-->
 
@@ -31,7 +32,8 @@
 - Hvem bliver oftest smittet af P. aeruginosa?:: Cancer-patienter, patienter med cystisk fibrose eller forbrændinger
 
 ## Symptomer og komplikationer
-- Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod 
+- Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod
+<!--SR:!2026-10-11,4,270-->
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
@@ -42,6 +44,7 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres P. aeruginosa?:: Dyrkning
 - Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
+<!--SR:!2026-10-08,1,230-->
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er P. aeruginosa resistente overfor?
@@ -53,5 +56,7 @@ Hvordan genkendes den?
 - [[Vancomyocin]]
 
 - Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
+<!--SR:!2026-10-11,4,270-->
 - Hvordan forebygges P. aeruginosa?
 - Hvordan behandles P. aeruginosa?:: [[Carbapenemer]], [[Aminoglykosider]] eller [[Flourquinoloner]]
+<!--SR:!2026-10-10,3,250-->
