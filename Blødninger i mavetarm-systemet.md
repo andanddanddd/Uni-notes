@@ -2,6 +2,7 @@
 
 - Hvilken anatomisk struktur definere forskellen mellem blødninger i øvre GI og nedre GI?:: [[Treiz' ligament]]
 - Hvor ofte kommer blødninger i GI fra hhv øvre og nedre fordøjelsessytem?:: 90% af tiden kommer det fra det øvre og 10% af tiden fra det nedre
+- Hvad kaldes blødninger i GI der kan måles i afføring men ikke kan ses?:: [[Okkult blødning]]
 
 ![[Blødninger i det øvre mave-tarm-system]]
 

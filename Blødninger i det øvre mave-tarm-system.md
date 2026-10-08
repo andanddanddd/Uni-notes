@@ -8,3 +8,4 @@
 3. [[Øsofagit]]
 
 - Hvad kaldes blodig opkast?:: [[Hæmatemese]]
+- Hvad kaldes blodig afføring der skyldes blødning i øvre GI?:: [[Melæna]]
