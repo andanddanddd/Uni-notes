@@ -55,3 +55,7 @@ Man må ikke give for meget blod grundet for stort tryk(volumen)
 
 Man laver aldrig akut colonskopi (den er fyldt)
 
+Hemoglobin er ikke en retvisende markør i den akutte fase (den er en andel (%))
+
+Rigeligt ilt
+

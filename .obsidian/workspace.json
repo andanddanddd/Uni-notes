@@ -36,7 +36,8 @@
               "title": "Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -66,9 +67,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - GI blødninger"
             }
+          },
+          {
+            "id": "5e82cd03689d13a8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Kliniske biokemiske undersøgelser 2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/5/Fordøjelsessystemet-II",
+                "query": "spider",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +139,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,11 +271,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "888cc28e309bbe14",
+  "active": "5e82cd03689d13a8",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Mave-tarm blødninger.md",
     "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
+    "4. Flashcards/Fordøjelse II/Spider angiomas.md",
+    "Pasted image 20261008105913.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "Externe dokumenter/Fordøjelse II/msoF51B.tmp",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
@@ -293,7 +309,6 @@
     "4. Flashcards/Fordøjelse II/Cholecystitis.md",
     "4. Flashcards/Fordøjelse II/Akut cholecystitis.md",
     "4. Flashcards/Fordøjelse II/Cholangitis.md",
-    "4. Flashcards/Fordøjelse II/Biliary atresia.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
@@ -303,7 +318,6 @@
     "4. Flashcards/Mikrobiologi/Caseuge - parasitologi",
     "Billeder/Mikrobiologi/Pasted image 20261005131321.png",
     "Billeder/Mikrobiologi/Pasted image 20261005133613.png",
-    "Billeder/Mikrobiologi/Pasted image 20261005131636.png",
     "Untitled.canvas"
   ]
 }
