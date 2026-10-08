@@ -9,3 +9,8 @@
 
 - Hvad kaldes blodig opkast?:: [[Hæmatemese]]
 - Hvad kaldes blodig afføring der skyldes blødning i øvre GI?:: [[Melæna]]
+
+- Hvilke risikofaktorer giver øget risiko for blødning specifikt i øvre GI?
+?
+- [[Helicobacter pylori]]
+- Alkohol

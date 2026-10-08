@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Mikrobiologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Mikrobiologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad gør helicobactor pylori?:: Sænker pH
 <!--SR:!2026-12-04,65,310-->
