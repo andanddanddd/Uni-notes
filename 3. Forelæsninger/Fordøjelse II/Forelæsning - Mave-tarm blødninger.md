@@ -1,5 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II [[Slides - GI blødninger.pdf]]
 
+![[Blødninger i mavetarm-systemet]]
+
 Treitz ligament = ligament mellem duodenum og jejunum 
 	Deler øvre og nedre GI blødning
 

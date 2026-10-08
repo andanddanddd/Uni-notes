@@ -1,4 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi [[Sygdomme]]
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II  [[Sygdomme]] 
 
 - Hvor er det mest almindeligt at få ulcus?:: [[Duodenum]]
 - Hvad sker med smerten hvis man spiser mens man har ulcers i mavesækken?:: Den bliver værre
