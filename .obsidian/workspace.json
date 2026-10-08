@@ -12,12 +12,14 @@
             "id": "83ab088479f8d619",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf"
+                "file": "Vericer (øsefagus).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Studieordning for bacheloruddannelsen i medicin 2024"
+              "icon": "lucide-file",
+              "title": "Vericer (øsefagus)"
             }
           },
           {
@@ -297,9 +299,15 @@
   },
   "active": "83ab088479f8d619",
   "lastOpenFiles": [
-    "Endoskopi.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Ulcers.md",
+    "Pasted image 20261008132037.png",
+    "Pasted image 20261008132010.png",
+    "Pasted image 20261008131944.png",
+    "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
+    "Vericer (øsefagus).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Mave-tarm blødninger.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Ulcers.md",
+    "Endoskopi.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Hæmatemese.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Divertikler.md",
     "Blødende ulcus.md",
@@ -309,7 +317,6 @@
     "Blødninger i det nedre mave-tarm-system.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Helicobacter pylori.md",
     "Okkult blødning.md",
-    "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
     "Fecal occult blodtest (FOBT).md",
     "Colon-cancer.md",
     "Melæna.md",
@@ -327,12 +334,10 @@
     "Cholesterolsten.md",
     "Pigmentsten.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
-    "4. Flashcards/Fordøjelse II/Sygdomme i galdegangene.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",
     "Billeder/Fordøjelse II",
-    "0. De allervigtigste/Mikrobiologi/Gram-negative bakterier.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144401.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
@@ -340,9 +345,6 @@
     "Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Billeder/Mikrobiologi/Pasted image 20261006114344.png",
     "Billeder/Mikrobiologi/Pasted image 20261005141440.png",
-    "4. Flashcards/Mikrobiologi/Caseuge - parasitologi",
-    "Billeder/Mikrobiologi/Pasted image 20261005131321.png",
-    "Billeder/Mikrobiologi/Pasted image 20261005133613.png",
     "Untitled.canvas"
   ]
 }

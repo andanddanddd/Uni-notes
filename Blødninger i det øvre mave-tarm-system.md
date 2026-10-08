@@ -4,7 +4,7 @@
 - Hvad er de hyppigste etiologier til blødning i øvre GI?
 ?
 1. [[Ulcers]]
-2. [[Vericer]]
+2. [[Vericer (øsefagus)]]
 3. [[Øsofagit]]
 4. [[Mallory-weiss-læsion]]
 5. Cancer
