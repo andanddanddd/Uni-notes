@@ -6,3 +6,5 @@
 1. [[Ulcers]]
 2. [[Vericer]]
 3. [[Øsofagit]]
+
+- Hvad kaldes blodig opkast?:: [[Hæmatemese]]
