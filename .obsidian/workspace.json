@@ -237,12 +237,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ab088479f8d619",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
+    "Akut pancreatitis.md",
+    "Cholangitis.md",
+    "Cholesterolsten.md",
+    "Pigmentsten.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
     "4. Flashcards/Fordøjelse II/Sygdomme i galdegangene.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
@@ -257,7 +261,6 @@
     "4. Flashcards/Fordøjelse II/Kronisk pancreatitis.md",
     "4. Flashcards/Fordøjelse II/Akut pancreatitis.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144401.png",
-    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Pancreas.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
     "4. Flashcards/Fordøjelse II/Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD).md",
@@ -271,9 +274,6 @@
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
     "4. Flashcards/Fordøjelse II/Spider angiomas.md",
     "4. Flashcards/Fordøjelse II/Leversvigt.md",
-    "4. Flashcards/Fordøjelse II/Choledocholithiasis.md",
-    "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/V. portae.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",

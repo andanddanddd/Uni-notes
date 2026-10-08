@@ -21,4 +21,4 @@
 ![[Virus kapsel former]]B?:: Helical/spiral (filamentous på engelsk)
 <!--SR:!2026-11-19,47,290-->
 ![[Virus kapsel former]]C?:: Head tail (Kompleks)
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-12,65,310-->

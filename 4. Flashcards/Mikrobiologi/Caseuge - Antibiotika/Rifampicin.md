@@ -5,6 +5,6 @@
 - Hvad er rifampicins målstruktur?:: DNAet hvor RNA-polymerase skal bindes
 <!--SR:!2026-12-05,66,310-->
 - Hvad bruges rifampicin til?:: [[Tuberculose]]
-<!--SR:!2026-10-08,3,210-->
+<!--SR:!2026-10-18,10,230-->
 - Hvordan opnår bakterier resistens mod rifampicin?:: Mutationer ved bindingstedet
 <!--SR:!2026-12-02,63,310-->

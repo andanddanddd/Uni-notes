@@ -8,7 +8,7 @@
 - Har morbilli virusen lipidmembran?:: Ja
 <!--SR:!2026-10-20,15,290-->
 - Hvilken type arvematriale bruger morbilli virus?:: RNA-
-<!--SR:!2026-10-08,3,210-->
+<!--SR:!2026-10-10,2,190-->
 - Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter morbilli virus?:: Aerosoler
@@ -36,7 +36,7 @@
 - Hvorfor er inkubationstiden af morbillivirus så lang?:: Efter den har inficeret luftvejsepitelet spreder den sig i blodet, herefter går der et par dage til der igen ses store mængder virus i blodet, først anden gang der er virus i blodet kommer symptomerne
 <!--SR:!2026-10-21,16,290-->
 - Hvordan gør morbillivirus os syge?:: Det dræber epitelceller men mange af symptomerne kommer fra immunresponset
-<!--SR:!2026-10-08,3,250-->
+<!--SR:!2026-10-18,10,270-->
 - Hvilken sygdom giver morbillivirus?:: [[Mæslinger]]
 <!--SR:!2026-10-14,16,290-->
 - Hvordan er sygdomsforløbet af morbillivirus overordnet?:: 2-3 dage med feber før der kommer et karakteristisk udslet
@@ -55,7 +55,7 @@
 - Hvilken næringsmangel gør morbillivirus infektion markant værre?:: [[A-vitamin]]-mangel
 <!--SR:!2026-10-20,15,290-->
 - Hvilken infektioner giver morbillivirus ofte i patienter der mangelr [[A-vitamin]]?:: Infektioner i øjet
-<!--SR:!2026-10-08,3,250-->
+<!--SR:!2026-10-18,10,270-->
 ## Diagonstik
 - Hvornår i sygdomsforløbet kan man finde antistoffer mod morbillivirus i blodet?:: Når udslettet kommer
 <!--SR:!2026-10-21,16,290-->

@@ -5,9 +5,10 @@
 - [[Biliary atresia]]
 - [[Choledocholithiasis]]
 - [[Cholangitis]]
+<!--SR:!2026-10-12,4,270-->
 
 - Hvad hedder de 2 typer af cancer der kan forekomme i galdeganene?
 ?
 - [[Adenocarcinoma i galdeblæren]]
 - [[Cholangiocarcinoma]]
-<!--SR:!2026-10-08,1,230-->
+<!--SR:!2026-10-09,1,190-->

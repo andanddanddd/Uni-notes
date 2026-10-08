@@ -13,7 +13,7 @@
 - [[Listeria monocytogenes+]]
 - [[Escherichia coli+]]
 - [[Streptococcus agalactiae]]
-<!--SR:!2026-10-08,9,250-->
+<!--SR:!2026-11-10,33,270-->
 
 - Hvilke bakterier giver oftest meningitis i nyfødte og helt smp børn?
 ?

@@ -12,4 +12,4 @@
 - Hvilken fund laves på den objektive udnersøgelse der tyder på akut cholecystitis?:: [[Murphy's tegn]]
 <!--SR:!2026-10-11,4,270-->
 - Hvad findes på en blodprøve af en patient med akut cholecystitis?:: Forhøjede leukocytter
-<!--SR:!2026-10-08,1,230-->
+<!--SR:!2026-10-11,3,250-->

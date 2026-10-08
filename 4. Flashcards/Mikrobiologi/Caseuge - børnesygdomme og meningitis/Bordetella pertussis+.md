@@ -52,7 +52,7 @@
 - Når man skal dyrke B. pertussis behandler man prøven med penicilin, hvorfor? og hvorfor er man ikke bange for at dræbe B. pertussis?:: Den har naturlig resistens så alle stammer er resistente, man gør det altså for at forhindre "støj" fra andre bakterier
 <!--SR:!2026-10-15,16,290-->
 - Hvordan diagnosticeres B. pertussi oftest?:: Fluroscerende antistoftest
-<!--SR:!2026-10-08,9,250-->
+<!--SR:!2026-10-30,22,250-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
