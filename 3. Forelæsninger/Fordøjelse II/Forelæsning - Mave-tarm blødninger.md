@@ -21,12 +21,12 @@ Hvis frisk blod kommer fra ractum grundet øvre GI blødning så er pt MEGET på
 Coloncancer udvikler sig langsomt  (10-15 år)
 	derfor screener man ikke folk over 74 år
 
-
 AK = antikoagulerende (slide 10)
 
 Obstruktoion øger risikoen for divertikler
 
 Peptisk ulcus kommer balndt andet fra NSAID
+
 
 Gastrit kommer tit fra H. pylori
 

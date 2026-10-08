@@ -6,6 +6,8 @@
 1. [[Ulcers]]
 2. [[Vericer]]
 3. [[Øsofagit]]
+4. [[Mallory-weiss-læsion]]
+5. Cancer
 
 - Hvad kaldes blodig opkast?:: [[Hæmatemese]]
 - Hvad kaldes blodig afføring der skyldes blødning i øvre GI?:: [[Melæna]]

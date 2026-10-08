@@ -10,4 +10,8 @@
 
 - Hvad er de hyppigste etiologier til nedre GI blødning?
 ?
-- [[Diverticulum]]
+- [[Divertikler]]
+- [[Hæmorider]]
+- [[IBD]]
+- [[Arteriovenøs malfunktion]]
+- Cancer
