@@ -10,8 +10,8 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 <!--SR:!2026-10-11,4,270-->
 - Hvad kaldes de 2 typer af galdesten?
 ?
-- [[Cholesterolsten]]
-- [[Pigmentsten]]
+- [[Cholesterolsten 1]]
+- [[Pigmentsten 1]]
 <!--SR:!2026-10-11,4,270-->
 
 - Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde

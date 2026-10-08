@@ -1,5 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II [[Slides - Kliniske biokemiske undersøgelser 2026.pdf]]
 
+![[Evaluering af laboratorietest]]
+
 Svaret på slide 3 er dem alle
 	Pointen er at en enkel test ikke er nok til en diagnose (de kan jo også tage fejl)
 
