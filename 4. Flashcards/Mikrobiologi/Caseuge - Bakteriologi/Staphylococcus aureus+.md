@@ -21,7 +21,7 @@
 - Hvilket protein "hjælper" koagulase med at lave koagulere plasma?:: "clumbing factor"
 <!--SR:!2026-12-02,63,310-->
 - Hvad hedder protein laves a s. aureus der kan nedbryde hvide blodceller?:: Leucocidin
-<!--SR:!2026-10-08,9,270-->
+<!--SR:!2026-11-11,34,290-->
 - Hvad gør hyaluronidase?:: Nedbryder ECM
 <!--SR:!2026-12-01,64,310-->
 - ![[Pasted image 20260907121934.png]]

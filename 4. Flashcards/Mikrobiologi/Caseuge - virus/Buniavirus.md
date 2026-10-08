@@ -9,7 +9,7 @@
 - Hvilken type arvematriale bruger buniavirus?:: RNA-
 <!--SR:!2026-10-09,4,210-->
 - Hvilken struktur har buniavirus´ arvematriale?:: Lineært segmenteret
-<!--SR:!2026-10-08,3,230-->
+<!--SR:!2026-10-15,7,230-->
 ## Livscyklus
 - Hvilke celler inficere buniavirus
 - Hvordan kommer buniavirus ind i cellen? (mekanisme)

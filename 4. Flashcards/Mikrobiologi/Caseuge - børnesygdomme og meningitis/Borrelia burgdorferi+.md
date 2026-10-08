@@ -27,7 +27,7 @@
 - Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
 <!--SR:!2026-10-23,16,290-->
 - Hvad kendetegner immunresponset mod b. burgdorferi?:: Når først en infektion er etableret er det virkeligt svært for immunforsvaret at fjerne, selv med store koncentrationer af specifikke antistoffer
-<!--SR:!2026-10-08,3,250-->
+<!--SR:!2026-10-18,10,270-->
 - Hvordan overlever B. burgdorferi immunsystemet?
 ?
 - Binder regulatoriske [[Komplementfaktorer]]
@@ -68,9 +68,9 @@
 - Hvad sker overodnet i stadie 2 af borrelia?:: B. burgdorferi spreder sig til store dele af kroppen inkl CNS, hjerte, led og det kan give nye udslet lidt rundt omrking
 <!--SR:!2026-10-20,15,290-->
 - Hvad kaldes stadie 2 af borrelia?:: Tidlig disseminationsstadiet
-<!--SR:!2026-10-08,3,250-->
+<!--SR:!2026-10-18,10,270-->
 - Hvornår sker stadie 2 af borrelia?:: Uger til måneder efter flåtbidet
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-24,16,290-->
 - Hvilke infektioner kan B. burdorferi give i stadie 2 af borrelia?
 ?
 - [[Erytema migrans]]
@@ -101,4 +101,4 @@ Hvordan genkendes den?
 - Hvordan forebygges B. burgdorferi?:: Være opmærksom på flåter og fjern dem hurtigt (man kan give profylaktisk antibiotika ved flåtbid)
 <!--SR:!2026-10-12,14,290-->
 - Hvordan behandles B. burgdorferi?:: [[Doxycyklin]] (eller [[Ceftriaxon]] hvis det er langt)
-<!--SR:!2026-10-08,6,210-->
+<!--SR:!2026-10-27,19,230-->

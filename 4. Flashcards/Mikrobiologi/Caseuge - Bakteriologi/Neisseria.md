@@ -3,7 +3,7 @@
 - Hvilken type cellevæg gar neisseria?:: [[Gram-negative bakterier]]
 <!--SR:!2026-12-09,63,310-->
 - Hvilken form har neisseria?:: Kokker
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-12,65,310-->
 - Hvilken patientgruppe har øget risiko for at få bakterieæmi af neisseria?:: Dem med sygdomme i [[Komplementsystemet]], særligt dem der ikke kan producere [[Membranangrebskompleks (MAC)]] (men det ses også i ellers raske individer)
 <!--SR:!2026-11-18,44,290-->
 - I hvilket oxidativt miljø lever neisseria bedst?:: De er fakualtivt anaerobe

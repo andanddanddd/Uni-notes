@@ -8,7 +8,7 @@
 - Har coronavirus en lipidmembran?:: Ja
 <!--SR:!2026-10-20,15,290-->
 - Hvilken type arvematriale bruger coronavirus?:: RNA+
-<!--SR:!2026-10-08,3,250-->
+<!--SR:!2026-10-18,10,270-->
 - Hvilken struktur har coronavirus´ arvematriale
 - Hvad kendetegner strukturen/udseendet af coronavirus?:: Spike-proteiner
 <!--SR:!2026-10-21,16,290-->
@@ -29,7 +29,7 @@
 - Hvad er specielt ved coronavirus RNA-polymerase?:: Den kan "hoppe" mellem forskelige steder på RNA og mellem forskellige stykker RNA hvilket resultere i rekombination, derudover har den en høj fejlrate
 <!--SR:!2026-10-21,16,290-->
 - Hvordan kommer coronavirus ud af cellen?:: Den får en lipidmembran og kommer ind i en vesikel i golgi herefter sker exocytose
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-24,16,290-->
 ## Smitte og epidemiologi
 - Hvornår ses flest tilfælde af coronavirus?:: Vinter og tidlig forår
 <!--SR:!2026-10-17,12,270-->

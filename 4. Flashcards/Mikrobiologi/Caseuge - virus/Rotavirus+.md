@@ -10,7 +10,7 @@
 - Hvilken type arvematriale bruger rotavirus?:: dsRNA
 <!--SR:!2026-10-17,12,270-->
 - Hvilken struktur har rotavirus´ arvematriale?:: Segmentret (11 segmenter)
-<!--SR:!2026-10-07,1,190-->
+<!--SR:!2026-10-10,2,190-->
 ## Livscyklus
 - Hvilket glykoprotein bruger rotavirus til at komme ind i celler og hvordan aktiveres den?:: Hemagluttin (VP4), den aktiveres ved at proteolyse
 <!--SR:!2026-10-12,7,250-->
@@ -42,7 +42,7 @@
 <!--SR:!2026-10-21,16,290-->
 ## Symptomer og komplikationer
 - Hvilken sygdom giver rotavirus?:: [[Gastroenteritis]]
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-24,16,290-->
 - Hvad er latenstiden på rotavirus?:: Ca 2 dage
 <!--SR:!2026-10-21,16,290-->
 - Hvordan er sygdomsforløbet af rotavirus overordnet?:: Det starter med 2 dages opkast efterfulgt af 3-8 dages diarre

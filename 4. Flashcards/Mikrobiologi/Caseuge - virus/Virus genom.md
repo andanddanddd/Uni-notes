@@ -11,7 +11,7 @@
 - Hvad er forskellen på et gen og en open reading frame?:: ORF er bare en stykke nukleinsyre med et start og slut-codon
 <!--SR:!2026-12-02,58,310-->
 - Hvordan får virus plads til så mange open reading frames på meget lidt plads?:: De kan forekomme i begge retninger og de kan ligge oveni hinaden (som om der er sket frameshift) ![[Pasted image 20260916151447.png]]
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-11,64,310-->
 
 - Hvorfor mutere virus så meget?:: Når de har flere "gener" oveni hinanden er der meget mindre redundans
 <!--SR:!2026-12-07,62,310-->

@@ -7,11 +7,11 @@
 - Hvad består en virus overordnet af?:: Nukleinsyre inde i en proteinkapsel
 <!--SR:!2026-12-07,62,310-->
 - Hvor i virus findes glukoproteiner?:: Udenpå kapslen eller lipidmembranen hvis den har sådan en (de er ikke begge steder på en gang)
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-13,66,310-->
 - Hvad er viras kappe lavet af?:: Fedt fra humane celler, når de bevæger sig ud af cellen
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-10,63,310-->
 - Hvilken funktion har glykoproteinerne på virus?:: Komme ind i celler
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-14,67,310-->
 - Hvad kaldes viruses genom + dens kapsel?:: Nukleokapsid
 <!--SR:!2026-110-04,12,12,270-->
 - Hvad er funktionen af M-proteiner?:: Hjælpe med budding og stabilisere kontakten mellem glykoprotein og værtscelle
@@ -33,7 +33,7 @@
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] B?:: Nukleotid (genom)
 <!--SR:!2026-12-05,60,310-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] C?:: Protein kapsel
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-14,67,310-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] D:: Tegument
 <!--SR:!2026-11-08,34,270-->
 ![[Excalidraw/Mikrobiologi/Virus struktur|Virus struktur]] E?:: Lipidmembran

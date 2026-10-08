@@ -8,7 +8,7 @@
 - Har adenovirus en lipidmembran?:: Nej
 <!--SR:!2026-10-12,7,250-->
 - Hvilken type arvematriale bruger adenovirus?:: dsDNA
-<!--SR:!2026-10-08,1,150-->
+<!--SR:!2026-10-09,1,130-->
 - Hvilken struktur har adenovirus´ arvematriale?:: Lineært (1 segment)
 <!--SR:!2026-10-16,11,270-->
 - Hvad kendetgener adenovirus udssende?:: I hver hjørne af kapslen er der et langt protein![[Pasted image 20260928103415.png]]
@@ -16,7 +16,7 @@
 ## Livscyklus
 - Hvilke celler inficere adenovirus
 - Hvordan kommer adenovirus ind i cellen? (mekanisme):: Endocytose
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-24,16,290-->
 - Replikation
 ## Smitte og epidemiologi
 - Tendens i tilfælde

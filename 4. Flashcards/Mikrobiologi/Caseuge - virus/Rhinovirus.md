@@ -6,7 +6,7 @@
 ## Struktur
 - Hvilken form har kapslen på rhinovirus
 - Har rhinovirus en lipidmembran?:: Nej
-<!--SR:!2026-10-08,3,250-->
+<!--SR:!2026-10-18,10,270-->
 - Hvilken type arvematriale bruger rhinovirus?:: RNA+
 <!--SR:!2026-10-23,16,290-->
 - Hvilken struktur har rhinovirus´ arvematriale?:: 1 RNAmolekyle

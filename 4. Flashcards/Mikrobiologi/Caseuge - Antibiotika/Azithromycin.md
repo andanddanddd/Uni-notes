@@ -5,4 +5,4 @@
 - Hvad bruges azithromycin til?:: Genitalinfektioner
 <!--SR:!2026-11-10,39,230-->
 - Hvilken klasse af antibiotika tilhører azithromycin?:: [[Makrolider]]
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-14,67,310-->

@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken bakterie giver kighoste?:: [[Bordetella pertussis+]]
-<!--SR:!2026-10-08,9,250-->
+<!--SR:!2026-10-31,23,250-->
 - Hvad kaldes hosten i kighoste?:: [[Paroxysms]]
 <!--SR:!2026-10-13,15,290-->
 

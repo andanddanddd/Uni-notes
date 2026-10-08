@@ -35,7 +35,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Hvordan behandles HHV overordnet biokemisk?:: Man giver en nukleosidanalog som ikke kan påkoples flere nukleotider og på den måde stopper det DNA-syntese
 <!--SR:!2026-10-10,12,270-->
 - Hvad hedder det mest almindelige antivirale lægemiddel mod HHV?:: Acyclorvir
-<!--SR:!2026-10-08,9,250-->
+<!--SR:!2026-11-10,33,270-->
 
 ![[Alfaherpesvirus]]
 

@@ -65,7 +65,7 @@
 - [[Reye's syndrom]]
 - [[Guillain-Barre syndrom]]
 - [[Kleine-Levin syndrom]]
-<!--SR:!2026-10-08,1,150-->
+<!--SR:!2026-10-10,2,170-->
 
 ## Diagsostik
 - Hvordan diagnosticeres influenza oftest?:: Kliniske fund

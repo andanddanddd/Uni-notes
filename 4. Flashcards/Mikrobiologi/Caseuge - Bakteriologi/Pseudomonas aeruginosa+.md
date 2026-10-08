@@ -51,6 +51,7 @@
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
 <!--SR:!2026-10-10,3,250-->
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
+<!--SR:!2026-10-12,4,270-->
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
 <!--SR:!2026-10-10,3,250-->
 ## Diagnostik
@@ -59,7 +60,7 @@ Hvordan genkendes den?
 - Hvordan diagnosticeres P. aeruginosa?:: Dyrkning
 <!--SR:!2026-10-10,3,250-->
 - Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
-<!--SR:!2026-10-08,1,230-->
+<!--SR:!2026-10-11,3,250-->
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er P. aeruginosa resistente overfor?
@@ -69,7 +70,7 @@ Hvordan genkendes den?
 - [[Tetracykliner]]
 - [[Chloramphenicol]]
 - [[Vancomyocin]]
-<!--SR:!2026-10-08,1,230-->
+<!--SR:!2026-10-09,1,210-->
 
 - Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
 <!--SR:!2026-10-11,4,270-->

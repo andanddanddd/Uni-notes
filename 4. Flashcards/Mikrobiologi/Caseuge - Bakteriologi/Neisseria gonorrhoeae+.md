@@ -4,7 +4,7 @@ Methylblot på slide 8
 
 ## Generalt
 - Hvilken sygdom giver N. gonorrhaeae?:: [[Gonoré]]
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-10,63,310-->
 - Hvilken form har N. gonorrhoaea?:: Kokker (bønneformede)
 <!--SR:!2026-11-18,46,290-->
 - Hvordan er lejringen af N. gonorrhoaea?:: Diplokokker
@@ -25,7 +25,7 @@ Methylblot på slide 8
 - Hvorfor er N. gonorrhoeae ikke en større epidemi end det er når det smitter så hyppigt ved samleje?:: Det giver hurtigt symptomer og man kan derfor behandle det hurtigt
 <!--SR:!2026-11-30,56,310-->
 - Hvad er sandsynligheden for at en person inficeret med N. gonorrhoeae smitter?:: 50% pr samleje
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-12,65,310-->
 ## Patogenese
 Overlever godt i neutrofile granulocytter
 - Hvilke patogenesefaktorer har N. gonorrhoaea?
@@ -57,13 +57,13 @@ Kan give blivende bruskskade
 - ![[Pasted image 20260916090616.png]]
 
 - Hvad sker når N. gonorrhoae går i blodbanen?:: Det giver bakteriæmi men ikke sepsis
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-13,66,310-->
 - Hvad kendetegner det udflåd der kan komme fra penis ved en N. gonorrhoeae infektion?:: Det er tykt
 <!--SR:!2026-12-03,58,310-->
 - Hvad kaldes tilstanden når N. gonorrhoeae når adnexa?:: [[Pelvic inflammatory disease (PID)]]
 <!--SR:!2026-11-05,33,270-->
 - Hvilken tilstand kan det give hvis N. gonorrhoeae bevæger sig "dybere" i en mand:: [[Epididymidis]]
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-14,67,310-->
 - Hvad sker overordnet hvis man for N. gonorrhoeae fra oralsex?:: Det giver usymptomatisk pharyngitis
 <!--SR:!2026-12-07,62,310-->
 
@@ -78,7 +78,7 @@ Kan give blivende bruskskade
 - Hvorfor kan immunsystemet nemt genkende N. gonorrhoeaes pili men uden at kunne lave et godt adaptivt respons imod det eller kunne bruge det i en vaccine?:: De varriere meget fra gonokok til gonokok
 <!--SR:!2026-12-08,63,310-->
 - Hvorfor er N. gonorrhoeae ofte resistent?:: Den kan optage resistente plasmider fra andre [[Neisseria]]-arter
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-11,64,310-->
 - Hvor kan man pode for at få en dyrkning af N. gonorrhoeae?
 ?
 - Urethra

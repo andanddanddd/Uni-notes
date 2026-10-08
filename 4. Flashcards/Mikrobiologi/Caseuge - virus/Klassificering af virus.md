@@ -6,10 +6,10 @@
 - Kapseltype ([[Virus kapsel]])
 - +- Lipidmembran
 - Dimensioner
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-10-16,8,270-->
 
 - Hvad kunne potentielt være med i virusklassifikation som ikke er?:: Hvilke celler en virus inficere
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-11,64,310-->
 - Hvordan diagnosticeres virusinfektioner typisk?:: PCR og antigentest
 <!--SR:!2026-10-13,15,290-->
 
