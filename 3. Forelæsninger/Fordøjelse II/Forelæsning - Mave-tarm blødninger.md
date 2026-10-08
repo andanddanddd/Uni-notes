@@ -36,3 +36,18 @@ Ulcus er typisk i antrum eller startern af duodenum
 Ulcus = tab af mucosa
 
 Gastrskopi når ned til papillen der i diodenum hvor galdesalte og pancreasproteiner udskilles
+
+Hvis man ikke genbløder indenfor et døgn genbløder man typisk ikke
+
+Man giver MEGET PPI i starten efter et blødende ulcus
+
+ASA = asetylsalisylsyre (skal undgås hvis muligt efter blødende ulcus)
+
+Esofagusvaricer bløder MEGET hvis de bløder
+
+Slide 18
+	Normal glat slimhinde til venstre
+	Varice i midten der ikke bløder
+	Blødning til højre
+
+Man må ikke give for meget blod grundet for stort tryk(volumen)
