@@ -6,20 +6,34 @@
       {
         "id": "be13c5ef83f7b4d3",
         "type": "tabs",
-        "dimension": 44.80582524271844,
+        "dimension": 37.0873786407767,
         "children": [
           {
-            "id": "3fb455bd3592cabe",
+            "id": "83ab088479f8d619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Mave-tarm blødninger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Patologi af bugspytkirtlet og galdeblæren"
+              "title": "Forelæsning - Mave-tarm blødninger"
+            }
+          },
+          {
+            "id": "b0ceeb8ace853cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet"
             }
           }
         ]
@@ -27,20 +41,8 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 55.19417475728156,
+        "dimension": 62.912621359223294,
         "children": [
-          {
-            "id": "83ab088479f8d619",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Patologi af pancreas og galdevejene 2026"
-            }
-          },
           {
             "id": "714fcb5e056f2a6d",
             "type": "leaf",
@@ -52,8 +54,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "888cc28e309bbe14",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - GI blødninger"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/5/Fordøjelsessystemet-II",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -241,13 +257,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "888cc28e309bbe14",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Mave-tarm blødninger.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
+    "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
+    "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
+    "Externe dokumenter/Fordøjelse II/msoF51B.tmp",
+    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
+    "Externe dokumenter/Fordøjelse II/msoC368.tmp",
     "Akut pancreatitis.md",
     "Cholangitis.md",
     "Cholesterolsten.md",
     "Pigmentsten.md",
-    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
     "4. Flashcards/Fordøjelse II/Sygdomme i galdegangene.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
@@ -273,8 +295,6 @@
     "4. Flashcards/Fordøjelse II/Cholangitis.md",
     "4. Flashcards/Fordøjelse II/Biliary atresia.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
-    "4. Flashcards/Fordøjelse II/Spider angiomas.md",
-    "4. Flashcards/Fordøjelse II/Leversvigt.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
@@ -283,12 +303,8 @@
     "Billeder/Mikrobiologi/Pasted image 20261005141440.png",
     "4. Flashcards/Mikrobiologi/Caseuge - parasitologi",
     "Billeder/Mikrobiologi/Pasted image 20261005131321.png",
-    "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
-    "Schistosomiasis (sneglefeber",
-    "Externe dokumenter/MIkrobiologi/Parasitologi/Slides - Malaria og andre protozoer.pdf",
     "Billeder/Mikrobiologi/Pasted image 20261005133613.png",
     "Billeder/Mikrobiologi/Pasted image 20261005131636.png",
-    "Externe dokumenter/MIkrobiologi/Slides - Børneorm, Spoleorm og andre Metazoa.pdf",
     "Untitled.canvas"
   ]
 }
