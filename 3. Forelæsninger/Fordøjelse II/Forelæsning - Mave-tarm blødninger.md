@@ -44,6 +44,7 @@ Man giver MEGET PPI i starten efter et blødende ulcus
 ASA = asetylsalisylsyre (skal undgås hvis muligt efter blødende ulcus)
 
 Esofagusvaricer bløder MEGET hvis de bløder
+	Vena porta skal aflastes (princippet i mange behndlinger)
 
 Slide 18
 	Normal glat slimhinde til venstre
@@ -51,3 +52,6 @@ Slide 18
 	Blødning til højre
 
 Man må ikke give for meget blod grundet for stort tryk(volumen)
+
+Man laver aldrig akut colonskopi (den er fyldt)
+
