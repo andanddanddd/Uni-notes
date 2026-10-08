@@ -12,3 +12,5 @@ Analyt???? (er det det du måler)
 PPV og NPV kan ændre sig baseret på hvilken gruppe man måler på
 	Hvis man tester mange sunde er der gode ods for man tester mange falsk positive
 		Derfor tester man ikke alt og alle
+
+I DK bruger vi amylase mere end lipase til pancreasfunktion
