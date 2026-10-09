@@ -19,9 +19,9 @@
 - Hvilke næringsstoffer skal B. burgdorferi finde i sne opgivelser? (dem den ikke selv kan lave):: Aminosyrer, fedtsyrer og nukleotider
 <!--SR:!2026-10-22,16,290-->
 - Hvor hurtigt deler B. burgdorferi sig?:: Hver 8-12 time
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-21,12,270-->
 - Hvorfor bliver vi typisk ikke smittet hvis vi fjerner flåten indenfor 24 timer?:: B. burgdorferi skal lave nogle modifikationer hvilket tager tid (fx skal de overleve ved en højere temperatur)
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-25,16,290-->
 - Hvordan ændres overfladeproteinerne på B. burgdorferi når den skal inficere pattedyr?:: OspA erstattes med OspC
 <!--SR:!2026-10-18,12,270-->
 - Hvornår har B. burgdorferi OspC på sin overflade?:: Når den skal inficere mennesker (eller ander pattedyr) men det forsvinder ved stadie 2
@@ -46,7 +46,7 @@
 - Hvilket dyr "bor" B. burgdorferi normalt i?:: Mus
 <!--SR:!2026-10-17,12,270-->
 - Hvilke dyr kan mennesker videregi B. burdorferi til?:: Ingen
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-25,16,290-->
 - Hvornår på året sker flest flåtbid og hvorfor?:: Forår og sommer (det er der flåter er aktive og der vi er mest udenfor)
 <!--SR:!2026-10-23,16,290-->
 ![[Pasted image 20260929103441.png]]

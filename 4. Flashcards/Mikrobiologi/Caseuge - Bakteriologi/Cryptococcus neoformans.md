@@ -12,4 +12,4 @@
 - Hvilke infektion giver Cryptococcus neoformans?:: Lungebetændelse men det kan sprede sig til resten af kroppen uden der har været symptomer i lungerne, her kan det eks sprede sig til hjernehinderne
 <!--SR:!2026-10-11,6,230-->
 - Hvorfor kan cryptococcus neoformans overleve i kroppen?:: Den har en tyk kapsel
-<!--SR:!2026-10-09,6,250-->
+<!--SR:!2026-10-30,21,270-->

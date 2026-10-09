@@ -2,11 +2,11 @@
 
 
 - Hvor bor malaria?:: Erytrocytter
-<!--SR:!2026-10-09,3,250-->
+<!--SR:!2026-10-20,11,270-->
 - Hvilken type parasit er malaria?:: [[Protozoa]] specifikt [[Sporozoa]]
 <!--SR:!2026-10-10,4,270-->
 - Hvilket "genus" har malaria?:: Plasmodium
-<!--SR:!2026-10-09,2,230-->
+<!--SR:!2026-10-16,7,250-->
 ## Smitte
 - Hvor forekommer malaria?:: Primært Afrika men også det norlige Sydamerika, Asien og nordlige Oceanien
 <!--SR:!2026-10-10,4,270-->
@@ -30,13 +30,13 @@
 <!--SR:!2026-10-11,4,270-->
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
-<!--SR:!2026-10-09,3,250-->
+<!--SR:!2026-10-11,2,230-->
 - Hvilke celler inficere malaria først i mennesker?:: Leverceller
 <!--SR:!2026-10-12,4,270-->
 - Hvor længe er malaria i leverceller?:: 1-2 uger
 <!--SR:!2026-10-11,4,270-->
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
-<!--SR:!2026-10-09,1,210-->
+<!--SR:!2026-10-10,1,190-->
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
 <!--SR:!2026-10-10,3,250-->
 - Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)
@@ -58,7 +58,7 @@
 
 ## Symptomer og komplikationer
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)
-<!--SR:!2026-10-09,3,250-->
+<!--SR:!2026-10-19,10,270-->
 - Hvor ofte giver malaria cycklisk feber?:: Sjældent
 <!--SR:!2026-10-10,4,270-->
 - Hvad er cyklisk feber?

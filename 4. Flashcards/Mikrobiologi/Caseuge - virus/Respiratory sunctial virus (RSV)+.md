@@ -5,7 +5,7 @@
 ## Struktur
 - Hvilken form har kapslen på RS-virus
 - Har RS-virus en lipidmembran?:: Ja
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-25,16,290-->
 - Hvilken type arvematriale bruger RS-virus:: RNA-
 <!--SR:!2026-10-13,8,250-->
 - Hvilken struktur har RS-virus´ arvematriale
@@ -39,7 +39,7 @@
 - Giver det immunitet at være smittet tidligere?:: Det gør senere infektioner mildere
 <!--SR:!2026-10-20,15,290-->
 - Hvordan behandles RS-virus?:: Symptombehandling
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-25,16,290-->
 
 
 

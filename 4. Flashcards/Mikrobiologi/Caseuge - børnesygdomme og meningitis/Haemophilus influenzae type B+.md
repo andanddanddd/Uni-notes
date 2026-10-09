@@ -32,7 +32,7 @@ Smitevej
 - [[Pneumoni]]
 - [[Epiglottitis]]
 - [[Meningitis]]
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-17,39,290-->
 
 - Hvilke(n) type pneumoni giver H. influenzae?:: Både [[Bronkopneumoni]], [[Lobær pneumoni]] og [[Atypisk pneumoni]]
 <!--SR:!2026-10-22,16,290-->

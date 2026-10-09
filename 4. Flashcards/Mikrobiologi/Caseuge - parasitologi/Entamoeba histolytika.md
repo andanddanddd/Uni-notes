@@ -9,4 +9,4 @@
 - Hvor giver E. histolytika overordnet infektioner?:: Tarmen
 <!--SR:!2026-10-10,4,270-->
 - Hvordan diagnosticeres E. histolytiks?:: Mikroskopi, (eller antistiftest eller PCR)
-<!--SR:!2026-10-09,3,250-->
+<!--SR:!2026-10-19,10,270-->

@@ -7,4 +7,4 @@
 - [[Akut schistosomiasis]]
 - [[Kronisk schistosomiasis]]
 - [[Katayama feber]]
-<!--SR:!2026-10-09,3,250-->
+<!--SR:!2026-10-11,2,230-->

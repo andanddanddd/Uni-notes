@@ -58,9 +58,9 @@
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
 <!--SR:!2026-10-13,15,290-->
 - Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-08,30,270-->
 - Hvordan behandles B. pertussi?:: [[Makrolider]] og [[Tetracykliner]]
-<!--SR:!2026-10-09,11,250-->
+<!--SR:!2026-11-07,29,250-->
 
 #### Vaccine
 - Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner

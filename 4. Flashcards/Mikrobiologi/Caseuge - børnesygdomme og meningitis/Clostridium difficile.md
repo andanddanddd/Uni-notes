@@ -17,7 +17,7 @@
 - Hvordan skader C. difficile tarmvæggen?:: Dens toksiner gør
 <!--SR:!2026-10-13,15,290-->
 - Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-18,40,290-->
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
 <!--SR:!2026-10-10,12,270-->
 - Hvilke patogenesefaktorer har C. difficile?

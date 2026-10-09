@@ -8,7 +8,7 @@
 - Hvilken form har L. pneumophila?:: Stav
 <!--SR:!2026-10-21,16,290-->
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber og [[Protozoa]])
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-25,16,290-->
 - Hvilket oxidativt miljø lever L. pneumophila bedst i?:: Aerob
 <!--SR:!2026-10-17,12,270-->
 
@@ -43,7 +43,7 @@
 - Flageller
 - Resistent overfor osmotisk tryk
 - Inhibation af fusion af fagosom og lysosom
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-20,11,270-->
 
 - Hvordan har L. pneumophilia "lært" at overleve intracellulært?:: I naturen bliver den tit spist af amøber og protozoer
 <!--SR:!2026-10-22,16,290-->
@@ -81,13 +81,13 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres L. pneumophila?:: Urinprøve eller bakteriekulturer (man kan også bruge PCR eller massespektroskopi)
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-19,10,270-->
 - Hvilke problemer har urinprøve som diagnostik for L. pneumophilia?:: Den opfanger kun havldelen af serotyper
 <!--SR:!2026-10-23,16,290-->
 - Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
 <!--SR:!2026-10-18,11,270-->
 - Hvilke ulemper har det at bruge dyrkning til diagnostik af L. pneumophilia?:: Det tager lang tid (3-5 dage) og kræver en speciel dyrkningsmedie
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-24,15,290-->
 - Hvilke toks-værdier ændre sig ved en L. pneumophilia infektion?
 ?
 - GCS kan falde
@@ -107,7 +107,7 @@ Hvordan genkendes den?
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
-<!--SR:!2026-10-09,1,190-->
+<!--SR:!2026-10-12,3,210-->
 - Hvordan forebygges L. pneumophila?:: Monitorering af vand
 <!--SR:!2026-10-18,11,270-->
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])

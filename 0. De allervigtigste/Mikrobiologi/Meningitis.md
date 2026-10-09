@@ -68,15 +68,15 @@
 - Hvad kendetegner meningitis grundet [[Neisseria meningitidis+]]?:: Yngre pt med huduslet og normalt bevisthedsniveu
 <!--SR:!2026-10-10,12,270-->
 - Hvad kendetegner meningitis grundet [[Listeria monocytogenes+]]?:: Gammel (>50 år), immundefekter, lang symptomvarighed
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-09,31,270-->
 - Hvad kendetegner menigitis grundet [[Haemophilus influenzae type B+]]?:: Ældre, tidligere eller nuværende infektioner med [[Otitis media]] eller [[Sinuitis]], potentielt defekt i [[Basis cranii]]
 <!--SR:!2026-10-22,17,250-->
 - Hvad kendetegner meningitis grundet [[Staphylococcus aureus+]]?:: Tidligere eller nuværende infektion af enten [[Endocardidis]] eller [[OSteromyelitis]]
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-17,39,290-->
 - Hvad kendetegner meningitis grundet [[Streptococcus agalactiae]]?:: Ældre, strofmisbrug, tidligere eller nuværende infektion af [[Endocardidis]], [[Otitis media]] eller [[Sinuitis]]
 <!--SR:!2026-10-27,21,250-->
 - Hvad kendetegner meningitis grundet [[Escherichia coli+]]?:: Spædbørn og ældre, bakterieæmi
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-08,30,270-->
 
 ## Klinisk præsentatin
 - Hvad er de 4 hyppigste symptomer på meningitis?

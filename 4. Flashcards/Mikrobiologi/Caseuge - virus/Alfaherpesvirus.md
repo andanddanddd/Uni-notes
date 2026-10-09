@@ -26,7 +26,7 @@ HSV 1 og 2
 - Hvorfor spreder HSV-1/2 sig ikke systemisk?:: De bliver dræbt i blodbanen men kan overleve ved at bevæge sig fra celle til celle
 <!--SR:!2026-10-14,16,290-->
 - Hvad bliver transskriberet i latensfsaen af HSV-1/2?:: Latency associated transcript (LAT)
-<!--SR:!2026-10-09,9,250-->
+<!--SR:!2026-11-11,33,270-->
 - Hvad bliver transskriberet i latensfasen af VZV?:: VLT
 <!--SR:!2026-10-21,19,250-->
 - Hvor dybt går infektioner med HSV-1/2?:: Typsik kun epidermis

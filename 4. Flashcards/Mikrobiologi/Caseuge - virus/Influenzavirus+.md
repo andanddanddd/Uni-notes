@@ -31,7 +31,7 @@
 - Hvordan smitter influenza?:: Dråber
 <!--SR:!2026-10-13,15,290-->
 - Hvilke celler inficere influenza?:: Epitelceller (primært uden cilia) i øvre og nedre luftvejssystem
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-19,41,290-->
 - Hvordan kommer influenza ind i cellen?:: Enten ved fusion direkte på cellemembranen eller ved at blive optaget i et endosom og fusionere med den
 <!--SR:!2026-10-12,14,290-->
 - Hvornår slipper influenza ud af endosomet?:: Når pH falder

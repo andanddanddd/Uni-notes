@@ -8,7 +8,7 @@
 ## Struktur
 - Hvilken form har kapslen på norovirus
 - Har norovirus en lipidmembran?:: Nej
-<!--SR:!2026-10-09,4,270-->
+<!--SR:!2026-10-25,16,290-->
 - Hvilken type arvematriale bruger norovirus?:: RNA+
 <!--SR:!2026-10-18,12,270-->
 - Hvilken struktur har norovirus´ arvematriale

@@ -5,7 +5,7 @@
 - Hvilken type hemolyse laver S. agalctia på blod-agar-plader?:: $\beta$-hemolyse
 <!--SR:!2026-11-07,43,290-->
 - Hvor lever S. agalactae normalt?:: Nedre fordøjelsessystem og vagina
-<!--SR:!2026-10-09,18,250-->
+<!--SR:!2026-12-14,66,270-->
 - Hvornår er det et problem at S. agalactiae er i vagina?:: Når der skal et barn igennem
 <!--SR:!2026-10-19,26,290-->
 - Hvordan undgås det at en nyfødt bliver inficeret med S. agalactiae fra moderens vagina?:: Der screenes ved ug 35-37 hvorefter der gives antibiotika
