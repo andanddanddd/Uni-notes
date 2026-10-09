@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Kronisk leversygdom.md",
+                "file": "4. Flashcards/Fordøjelse II/Cirrose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kronisk leversygdom"
+              "title": "Cirrose"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metabolic dysfunction-associated steatohepatitis (MASH).md",
+                "file": "4. Flashcards/Fordøjelse II/Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metabolic dysfunction-associated steatohepatitis (MASH)"
+              "title": "Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)"
             }
           },
           {
@@ -64,8 +64,7 @@
               "title": "Metabolismen af lægemidler"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -299,11 +298,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "83ab088479f8d619",
   "lastOpenFiles": [
-    "Metabolic dysfunction-associated steatohepatitis (MASH).md",
+    "4. Flashcards/Fordøjelse II/Kronisk leversygdom.md",
     "4. Flashcards/Fordøjelse II/Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD).md",
     "Steatose.md",
+    "Steatohepatitis.md",
+    "Metabolic dysfunction-associated steatohepatitis (MASH).md",
+    "Mallory-legemer.md",
     "4. Flashcards/Fordøjelse II/Alkoholrelateret leversygdom.md",
     "Metabolisme af alkohol.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Leverens anatomi, embryologi og fysiologi.md",
@@ -317,7 +319,6 @@
     "4. Flashcards/Molekylær biologi/Caseuge 1/Metabolisme.md",
     "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
     "0. De allervigtigste/Farmakologi/Farmakokinetik.md",
-    "4. Flashcards/Fordøjelse II/Kronisk leversygdom.md",
     "4. Flashcards/Fordøjelse II/Autoimmun hepatitis.md",
     "4. Flashcards/Fordøjelse II/Lægemiddelinduceres liverskade.md",
     "4. Flashcards/Farmakologi/Typer af bivirkninger.md",
@@ -325,8 +326,6 @@
     "4. Flashcards/Fordøjelse II/Akut leversygdom.md",
     "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
     "4. Flashcards/Fordøjelse II/Hepatitis C.md",
-    "4. Flashcards/Fordøjelse II/Hepatitis A.md",
-    "4. Flashcards/Fordøjelse II/Hepatitis B.md",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Pasted image 20261008133923.png",

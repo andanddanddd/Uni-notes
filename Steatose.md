@@ -21,6 +21,8 @@
 
 - Hvordan genkendes steatose makroskopisk?:: Stor gul lever (lys)
 - Hvor i [[Leveracinum]] er steatose tydeligt?:: Zone 3
+## Komplikationer
+- Hvad kan steatose udvikle sig til?:: [[Steatohepatitis]]
 
 ## Diagnose
 - Hvordan diagnosteres steatose typisk?:: Sekundært til en anden sygdom da det oftest er asymptomatisk

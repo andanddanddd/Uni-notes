@@ -2,6 +2,7 @@
 
 
 ## Etiologi
+- Hvad hedder precurseren til MASH?:: [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]
 
 ## Klinisk præsentation
 
@@ -9,12 +10,5 @@
 
 ## Patofysiologi
 ## Diagnose
-- Hvordan ser MASH ud histologisk?
-?
-- Levercele-balooning
-- Fokal levercellenekrose
-- Neurofile granulocytter
-- [[Mallory-legemer]]
-- Pericellulær
 
 ## Behandling
