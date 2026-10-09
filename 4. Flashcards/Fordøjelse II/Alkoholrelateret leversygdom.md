@@ -7,8 +7,14 @@
 ## Klinisk præsentation
 
 ## Komplikationer
+- Hvilken komplikation kan alkoholrelateret leversygdom give?:: [[Cirrose]]
 
 ## Patofysiologi
+- Hvilket nedbrydningsprodukt fra alkohol giver celleskade?:: Acetylaldehyd'
+- Hvilket stof fører til ophobning af fedt i leveren og hvorfor stiger det ved indtagelse af alkohol?:: Acetylaldehyd stimulere produktionen af NADH der stimulere fedtophobning
+- Hvilke 2 metabolske systemer påvirkes af NADH under alkoholpåvirkning til at lagre mere fedt?:: [[Syntese af fedtsyrer]] stiger mens [[Lipolyse]] falder
+- Hvad er resultatet af ændret leverstofstifte grundet alkohol?:: Ophobning af fedt
+- Hvorfor kan alkohol give fibrose og [[Cirrose]]?:: Det stimulere kollagensyntesen
 
 ## Diagnose
 
