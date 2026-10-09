@@ -7,7 +7,7 @@
 - Hvad er de hyppigste etiologier til kronisk leversygdom?
 ?
 - [[Viral hepatitis]]
-- Autoimun hepatitis
+- [[Autoimmun hepatitis]]
 - [[Cholestasis]]
 - Generiske årsager
 - Iskæmi
@@ -53,5 +53,6 @@
 ## Diagnostik
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
 <!--SR:!2026-10-21,16,290-->
+- Hvorfor laves typisk en biopsi ved kronisk leversygdom selvom det ikke bruges meget til af finde etiologien?:: Det bruges til sværhedsgrad og valg af behandling
 
 ![[Pasted image 20260930144054.png]]
