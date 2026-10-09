@@ -33,11 +33,7 @@
 - [[Steatorré]]
 - Ødemer
 - Blå mærker
-- [[Hepatisk encefalopati]]
-- Neurologiske forstyrrelse (motoriske, sanselige og adfærdsmæssige eller coma)
 <!--SR:!2026-10-17,12,270-->
-
-
 ## Patofysiologi
 - Hvorfor kan kronisk leversygdom give ødemer?:: Nedsat osmolaritet grundet færre proteiner
 <!--SR:!2026-10-20,15,290-->
@@ -47,6 +43,11 @@
 <!--SR:!2026-10-19,14,290-->
 - Hvor "starter" fibrose?:: [[Disses rum]]
 <!--SR:!2026-10-12,7,250-->
+## Komplikationer
+- Hvilke komplikationer kan svær nedsat leverfunktion lede til?
+?
+- [[Hepatisk encefalopati]]
+- [[Portal hypertension]]
 ## Diagnostik
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
 <!--SR:!2026-10-21,16,290-->
