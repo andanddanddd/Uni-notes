@@ -13,6 +13,7 @@
 - Motoriske forstyrrelse
 - Sanselige forstyrrelser
 - Adfærdsændringer
+- [[Asterixis]]
 - Coma
 ## Komplikationer
 

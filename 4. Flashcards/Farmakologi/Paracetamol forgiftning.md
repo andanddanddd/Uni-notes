@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad hedder det "farlige" biprodukt af elimination ad [[Paracetamol]]?:: [[NAPQI]]
 

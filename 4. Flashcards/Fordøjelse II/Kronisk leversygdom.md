@@ -48,6 +48,8 @@
 ?
 - [[Hepatisk encefalopati]]
 - [[Portal hypertension]]
+- [[Hepatocellulær karcinom]]
+- [[Leverinsufficiens]]
 ## Diagnostik
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
 <!--SR:!2026-10-21,16,290-->

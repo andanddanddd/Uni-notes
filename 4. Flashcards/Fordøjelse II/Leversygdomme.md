@@ -7,7 +7,7 @@
 
 ![[Kronisk leversygdom]]
 
-![[Leversvigt]]
+![[Leverinsufficiens]]
 
 ![[Alkoholisk leversygdom]]
 

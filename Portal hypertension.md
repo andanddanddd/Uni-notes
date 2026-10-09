@@ -7,7 +7,7 @@
 ## Klinisk præsentation
 
 ## Komplikationer
-- Hvilken komplikation sker oftest grundet portal hypertension?:: [[øse]]
+- Hvilken komplikation sker oftest grundet portal hypertension?:: [[Varicer (øsefagus)]]
 
 ## Patofysiologi
 - Hvorfor sker portal hypertension?:: Obstruktion af blodgennemstrømningen i leveren 
