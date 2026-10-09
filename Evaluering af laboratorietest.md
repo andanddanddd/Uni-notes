@@ -4,7 +4,7 @@
 ?
 - [[Biologisk varians]]
 - [[Analytisk varians]]
-- [[Sensitivitet og specificitet]]
+- [[Sensitivitet og specificitet]] (det her jeg er nået til)
 - Klinisk kontekst
 <!--SR:!2026-10-13,4,270-->
 

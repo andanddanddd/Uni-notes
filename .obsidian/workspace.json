@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Akut pancreatitis 1.md",
+                "file": "4. Flashcards/Fordøjelse II/Icterus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akut pancreatitis 1"
-            }
-          },
-          {
-            "id": "b0ceeb8ace853cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluering af laboratorietest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evaluering af laboratorietest"
+              "title": "Icterus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -55,33 +40,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "888cc28e309bbe14",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - GI blødninger"
-            }
-          },
-          {
-            "id": "5e82cd03689d13a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Kliniske biokemiske undersøgelser 2026"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,15 +229,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "83ab088479f8d619",
   "lastOpenFiles": [
+    "4. Flashcards/Fordøjelse II/Alkoholisk leversygdom.md",
+    "4. Flashcards/Fordøjelse II/Icterus.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Anatomi af leveren.md",
+    "4. Flashcards/Fordøjelse II/Akut pancreatitis 1.md",
     "Evaluering af laboratorietest.md",
     "Analytisk varians.md",
     "Biologisk varians.md",
     "Pasted image 20261008133923.png",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
-    "4. Flashcards/Fordøjelse II/Akut pancreatitis 1.md",
     "4. Flashcards/Fordøjelse II/Vericer (øsefagus).md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",
     "4. Flashcards/Fordøjelse II/Glasgow Blatchford score (GBS).md",
@@ -300,11 +264,7 @@
     "4. Flashcards/Fordøjelse II/Okkult blødning.md",
     "4. Flashcards/Fordøjelse II/Fecal occult blodtest (FOBT).md",
     "4. Flashcards/Fordøjelse II/Colon-cancer.md",
-    "4. Flashcards/Fordøjelse II/Melæna.md",
-    "4. Flashcards/Fordøjelse II/Treiz' ligament.md",
-    "4. Flashcards/Fordøjelse II/Hæmatokesi.md",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
-    "4. Flashcards/Fordøjelse II/Spider angiomas.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008105913.png",
     "Externe dokumenter/Fordøjelse II/msoF51B.tmp",
     "Externe dokumenter/Fordøjelse II/msoC368.tmp",

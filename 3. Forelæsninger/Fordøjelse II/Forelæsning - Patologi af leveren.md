@@ -6,7 +6,7 @@
 - Gør rede for serologiske markører for leversygdom (levertal) 
 - Beskriv de vigtigste årsager til akut og kronisk hepatitis (herunder viral, autoimmun, medikament-, og alkohol-induceret hepatitis) 
 
-![[Leveren]]
+[[Leveren]]
 
 ![[Leversygdomme]]
 
