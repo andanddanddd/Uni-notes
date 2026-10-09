@@ -12,12 +12,14 @@
             "id": "83ab088479f8d619",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf"
+                "file": "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Studieordning for bacheloruddannelsen i medicin 2024"
+              "icon": "lucide-file",
+              "title": "Viral hepatitis"
             }
           }
         ]
@@ -243,11 +245,13 @@
   },
   "active": "83ab088479f8d619",
   "lastOpenFiles": [
+    "4. Flashcards/Fordøjelse II/Akut leversygdom.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Leveracinum.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Ampulla hepatopancreatica.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ductus choleductus.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Galdevejene.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Leveracinum.md",
     "0. De allervigtigste/Ernæring og endokrinologi/Leveren.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Ito-celler (stelite cells).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Leverens lober.md",
@@ -255,7 +259,6 @@
     "Pruritus.md",
     "4. Flashcards/Fordøjelse II/Cholecystitis.md",
     "4. Flashcards/Fordøjelse II/Akut cholecystitis.md",
-    "4. Flashcards/Fordøjelse II/Akut leversygdom.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Urobilin.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Urobilinogen.md",
     "4. Flashcards/Fordøjelse II/Leverinsufficiens.md",
@@ -268,14 +271,12 @@
     "Skabeloner/Skapelon - Sygdom.md",
     "Skabeloner/Sygdom.md",
     "4. Flashcards/Fordøjelse II/Icterus.md",
-    "4. Flashcards/Fordøjelse II/Alkoholisk leversygdom.md",
     "Pasted image 20261008133923.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132010.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008131944.png",
     "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008105913.png",
     "Externe dokumenter/Fordøjelse II/msoF51B.tmp",
