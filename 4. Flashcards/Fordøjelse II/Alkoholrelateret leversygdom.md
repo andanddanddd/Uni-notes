@@ -16,4 +16,4 @@
 - Hvordan behandles alkoholrelateret leversygdom overordnet?:: Ophør af alkohol
 
 ![[Pasted image 20260930152305.png]]
-![[Metabolisme ]]
+![[Metabolisme af alkohol]]
