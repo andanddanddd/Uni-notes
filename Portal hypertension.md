@@ -5,7 +5,11 @@
 - Hvilken leversygdom fører oftest til portal hypertension?:: [[Cirrose]]
 
 ## Klinisk præsentation
-- Hvilken "symptom" ses ved portal hypertension?:: Tydelige vener der går fra navlen til ribene
+- Hvad kan findes på den objektive undersøgelse af en pt  med portal hypertension?
+?
+- Tydelige vener der går fra navlen til ribene
+- Splenomegali hvis det er meget slemt
+- [[Hepatisk encefalopati]]
 
 ## Komplikationer
 - Hvilken komplikation sker oftest grundet portal hypertension?:: [[Varicer (øsefagus)]]

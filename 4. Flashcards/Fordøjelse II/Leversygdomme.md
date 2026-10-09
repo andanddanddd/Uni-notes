@@ -19,6 +19,8 @@
 
 ![[Hemachromatose]]
 
+![[Neoplasmer i leveren]]
+
 Det er vigtigt at kunne skeldne mellem akut og kronisk leversygdom
 
 6 mdr er grænsen mellem akut og kronisk

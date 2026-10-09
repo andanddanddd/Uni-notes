@@ -14,3 +14,4 @@
 - [[Viral hepatitis]]
 - [[Autoimmun hepatitis]]
 - [[Alkoholrelateret leversygdom]]
+- Tumorer
