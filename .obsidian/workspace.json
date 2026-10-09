@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "e973879b9a4f3c7c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - patologi af leveren"
+            }
+          },
+          {
             "id": "0c7f6280564e0cd8",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               "title": "Ampulla hepatopancreatica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,6 +259,10 @@
   "active": "83ab088479f8d619",
   "lastOpenFiles": [
     "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
+    "4. Flashcards/Fordøjelse II/Hepatitis B.md",
+    "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
+    "4. Flashcards/Fordøjelse II/Hepatitis A.md",
     "Steatose.md",
     "4. Flashcards/Fordøjelse II/Akut leversygdom.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Leveracinum.md",
@@ -268,10 +285,6 @@
     "Hepatisk encefalopati.md",
     "Asterixis.md",
     "4. Flashcards/Fordøjelse II/Ascites.md",
-    "Portal hypertension.md",
-    "4. Flashcards/Fordøjelse II/Varicer (øsefagus).md",
-    "Skabeloner/Skapelon - Sygdom.md",
-    "Skabeloner/Sygdom.md",
     "Pasted image 20261008133923.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",
@@ -290,7 +303,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
-    "Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Untitled.canvas"
   ]
 }

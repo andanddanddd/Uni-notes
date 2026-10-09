@@ -22,17 +22,22 @@
 ## Symptomer og komplikationer
 - Hvilke symptomer har hepatitis A?
 ?
-- [[Icterus]]
+- [[Icterus]] (ikke i starten)
+- Mørk urin (ikke i starten)
+- Lys afføring (ikke i starten)
 - Kvalme
-- [[Anorexi]]
+- Manglende appatit
+- Muskel og ledsmerter
 <!--SR:!2026-10-17,12,270-->
 
 - Hvor ofte udvikler en infektion med hepatitis A til en kronisk infektion?:: Aldrig
 <!--SR:!2026-10-21,16,290-->
 - Hvad kendetegner leversygdommen der kommer af hepatitis A?:: [[Akut leversygdom]]
 <!--SR:!2026-10-21,16,290-->
+- Hvilken komplikation kan hepatitis A have?:: Akut [[Leverinsufficiens]]
 
 ## Diagonstik
+- Hvordan diagnosticeres hepatitis A?:: IgM antistoffer i serum
 
 ## Forebyggelse og behandling
 
