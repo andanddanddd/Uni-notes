@@ -9,7 +9,7 @@
 
 ![[Leverinsufficiens]]
 
-![[Alkoholisk leversygdom]]
+![[Alkoholrelateret leversygdom]]
 
 ![[Lægemiddelinduceres liverskade]]
 

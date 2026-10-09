@@ -13,4 +13,4 @@
 ?
 - [[Viral hepatitis]]
 - [[Autoimmun hepatitis]]
-- [[Alkoholisk leversygdom]]
+- [[Alkoholrelateret leversygdom]]

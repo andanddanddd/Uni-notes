@@ -11,6 +11,8 @@
 - [[Cholestasis]]
 - Generiske årsager
 - Iskæmi
+- [[Alkoholrelateret leversygdom]]
+- [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]
 <!--SR:!2026-10-12,7,250-->
 
 ## Klinisk præsentation
@@ -54,5 +56,6 @@
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor laves typisk en biopsi ved kronisk leversygdom selvom det ikke bruges meget til af finde etiologien?:: Det bruges til sværhedsgrad og valg af behandling
+- Hvorfor er det vigtigt at kunne kende forskel på [[Alkoholrelateret leversygdom]] og [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]?:: De skal behandles forskelligt
 
 ![[Pasted image 20260930144054.png]]
