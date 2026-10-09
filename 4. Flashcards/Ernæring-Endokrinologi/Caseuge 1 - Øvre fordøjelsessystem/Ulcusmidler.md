@@ -7,3 +7,4 @@
 - Antikolinergika
 - [[Sukralfat]]
 - Antibiotika
+<!--SR:!2026-10-12,3,250-->
