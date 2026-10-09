@@ -16,7 +16,7 @@
 ## Klinisk præsentation
 - Hvilke symptomer har kronisk leversygdom, (og hvilke egentlige objektive ting kan en pt have lagt mærke til)?
 ?
-- Kløe
+- [[Pruritus]]
 - Blodig opkast
 - General svaghed
 - (blå mærker og næseblod)

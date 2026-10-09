@@ -22,7 +22,8 @@
 - Mørk urin
 <!--SR:!2026-10-12,7,250-->
 
-- Hvorfor bliver urin mørkt under akut leversygdom?:: Ekstra [[Bilirubin]] i urin eftrsom det ikke kan udskilles med fæces pga evt ebstruktion
+## Patofysiologi
+- Hvorfor bliver urin mørkt under akut leversygdom?:: Ekstra [[Urobilin]] i urin eftrsom det ikke kan udskilles med fæces pga evt ebstruktion
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor bliver afføring lys under akut leversygdom?:: Hvis galdevejen er blokeret kommer alle de pigmenterede galdesalte ikke ud i fæces
 <!--SR:!2026-10-20,15,290-->

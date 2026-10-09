@@ -2,6 +2,7 @@
 
 - Hvad er etiologien bag akut cholecystitis?:: [[Choleliathitis]] der sidder fast i halsen af galdeblæren![[Pasted image 20261006141334.png|441]]
 <!--SR:!2026-10-11,4,270-->
+## Klinisk præsentation
 - Hvilke symptomer har akut cholecystitis?
 ?
 - Svære mavesmerter i øvre del af maven
@@ -11,5 +12,9 @@
 
 - Hvilken fund laves på den objektive udnersøgelse der tyder på akut cholecystitis?:: [[Murphy's tegn]]
 <!--SR:!2026-10-11,4,270-->
+- Hvor stråler smerter grundet akut cholecystitis hen?:: Ryg og højre skulderblad
+## Patofysiologi
+- 
+## Diagnostik
 - Hvad findes på en blodprøve af en patient med akut cholecystitis?:: Forhøjede leukocytter
 <!--SR:!2026-10-11,3,250-->

@@ -1,3 +1,4 @@
-#flashcards/2/Ernæring-Endokrinologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
-- Hvilken farve har urobiln?:: Gult
+- Hvilken farve har urobilin?:: Gult
+- Hvilket stof laves urobilin fra?:: [[Urobilinogen]]
