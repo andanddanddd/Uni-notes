@@ -8,9 +8,12 @@
 - Hvilken type biotransformation undergår alkohol i leveren?:: [[Fase 1 processor]] specifikt oxidation
 - Hvilket "enzymsystem" nedbruger mest alkohol?:: **Alkoholdehydrogenasesystemet**
 	- Hvad gør alkoholdehydrogenasesystemet ved alkohol i leveren?:: Omdanner det til acetylaldehyd og derfra til acetat
+	- Hvad hedder enzymet der laver acetylaldehyd fra alkohol?:: Ethanol-dehydrogenase
+	- Hvad hedder enzymet der laver acetat fra acetylaldehyd?:: Acetylaldehyd-dehydrogenase
 	- Hvad sker med acetat?:: Det går fra levere til blodet til vævene hvor det forbrændes til energi end lagres som fedt
 - Hvilken "enzymsystem" nedbryder nestmest alkohol?:: MEOS (mitrokondrielle ethanol-oxiderende system)
 	- Hvilket enzym bruger MEOS?:: CYP-450
+	- Hvad er slutproduktet af MEOS?:: Acetat
 - Hvilken af leveren 2 enzymsystemer til metabolisme af alkohol forøges ved daglig indtagelse?:: MEOS
 - Hvilken reaktionsorden følger metabolisme af alkohol?:: 0. ordens-reaktion ([[Metabolismen af lægemidler]])
 
