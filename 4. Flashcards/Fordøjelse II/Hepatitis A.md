@@ -35,6 +35,7 @@
 - Hvad kendetegner leversygdommen der kommer af hepatitis A?:: [[Akut leversygdom]]
 <!--SR:!2026-10-21,16,290-->
 - Hvilken komplikation kan hepatitis A have?:: Akut [[Leverinsufficiens]]
+- Hvad kendetegner symptomer og komplikation på hepatitis i børn der fik det vertikalt?:: De får ikke symptomer men det bliver kronisk
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis A?:: IgM antistoffer i serum

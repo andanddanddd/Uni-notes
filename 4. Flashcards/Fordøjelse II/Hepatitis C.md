@@ -23,9 +23,10 @@ Mutere meget
 ## Symptomer og komplikationer
 - Hvor ofte giver hepatitis C [[Kronisk leversygdom]]?:: 80% af alle der får symptomer får kronisk leversygdom
 <!--SR:!2026-10-21,16,290-->
-- 
+- Hvornår giver hepatitis C symptomer?:: Typisk først når det er kronisk
 
 ## Diagonstik
+- Hvordan diagnosticeres hepatitis C?:: Enten ved påvisning af antistoffer eller antigener
 
 ## Forebyggelse og behandling
 

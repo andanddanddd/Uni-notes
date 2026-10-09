@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er en type A bivirkning?:: En forudsigelig bivirkning der skyldes for meget stof der virker på den forventelige receptor (ekse hypoglykæmi ved insulin)
 - Hvor slemme er type A bivirkninger?:: Typisk ikke slemme
