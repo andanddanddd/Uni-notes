@@ -4,71 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "be13c5ef83f7b4d3",
+        "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 47.62135922330097,
+        "dimension": 37.71844660194175,
         "children": [
           {
-            "id": "83ab088479f8d619",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Studieordning for bacheloruddannelsen i medicin 2024"
-            }
-          },
-          {
-            "id": "7df51e4b2be6320b",
+            "id": "657df77a56e3b943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neoplasmer i leveren.md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neoplasmer i leveren"
-            }
-          },
-          {
-            "id": "e919ffd4c728f045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Fordøjelse II/Alkoholrelateret leversygdom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alkoholrelateret leversygdom"
-            }
-          },
-          {
-            "id": "6942f01ff4a1222e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metabolismen af lægemidler"
+              "title": "Forelæsning - Inflammatoriske tarmsygdomme (og behandling)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 52.37864077669903,
+        "dimension": 62.28155339805825,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -83,32 +42,19 @@
             }
           },
           {
-            "id": "e973879b9a4f3c7c",
+            "id": "3a7b7ca343a56d3c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf"
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - patologi af leveren"
-            }
-          },
-          {
-            "id": "0c7f6280564e0cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ampulla hepatopancreatica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ampulla hepatopancreatica"
+              "title": "Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -292,11 +239,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "657df77a56e3b943",
   "lastOpenFiles": [
+    "Inflammatory bowel disease (IBD).md",
+    "Colitis ulcerosa (UC).md",
+    "Crohns sygdom.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
+    "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
     "Neoplasmer i leveren.md",
     "4. Flashcards/Fordøjelse II/Leversygdomme.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
@@ -320,10 +273,6 @@
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Forelæsning - Hæm. metabolisme.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Syntese af fedtsyrer og triglycerider.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Syntese af fedtsyrer.md",
-    "4. Flashcards/Molekylær biologi/Caseuge 1/Metabolisme.md",
-    "4. Flashcards/Farmakologi/Metabolismen af lægemidler.md",
-    "0. De allervigtigste/Farmakologi/Farmakokinetik.md",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Pasted image 20261008133923.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
@@ -342,7 +291,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144401.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
-    "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Untitled.canvas"
   ]
 }
