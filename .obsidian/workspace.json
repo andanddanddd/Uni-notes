@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MRI.md",
+                "file": "1. Fag/Bevægeapparatet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MRI"
+              "title": "Bevægeapparatet"
             }
           }
         ],
@@ -81,9 +81,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - Diagnostic methods - 2026"
             }
+          },
+          {
+            "id": "b2bfa2a3af028966",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Introduktion til bevægeapparatet – DCA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,15 +286,22 @@
   },
   "active": "f431678ed25c42d0",
   "lastOpenFiles": [
+    "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf",
+    "1. Fag/Bevægeapparatet.md",
+    "Externe dokumenter/Bevægeapparatet/Introduktion til bevægeapparatet – DCA.pdf",
+    "Externe dokumenter/Bevægeapparatet",
+    "Externe dokumenter/New folder",
+    "Externe dokumenter/Introduktion til bevægeapparatet – DCA.pdf",
+    "Introduktion til bevægeapparatet – DCA.pdf",
+    "4. Flashcards/Fordøjelse II/Ultralyd af abdomen.md",
+    "4. Flashcards/Fordøjelse II/Capsulær endoskopi.md",
+    "4. Flashcards/Fordøjelse II/MRI.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
-    "MRI.md",
     "4. Flashcards/Farmakologi/Røntgen.md",
-    "Ultralyd af abdomen.md",
     "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
-    "Capsulær endoskopi.md",
-    "Colonskopi.md",
+    "4. Flashcards/Fordøjelse II/Colonskopi.md",
     "4. Flashcards/Fordøjelse II/Endoskopi.md",
-    "Pasted image 20261012111817.png",
+    "Billeder/Fordøjelsesystemet II/Pasted image 20261012111817.png",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
     "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
     "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
@@ -291,7 +310,6 @@
     "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 5+6- Collumna, thorax og hovedet.md",
     "2. Caseuger/Bevægeapparatet",
-    "1. Fag/Bevægeapparatet.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 3+4- Underekstremiteterne.md",
     "4. Flashcards/Fordøjelse II/Steatose.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012084057.png",
@@ -301,22 +319,15 @@
     "4. Flashcards/Farmakologi/Typer af bivirkninger.md",
     "4. Flashcards/Farmakologi/Oxidation af lægemidler.md",
     "0. De allervigtigste/Farmakologi/CYP-enzymer.md",
-    "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
     "4. Flashcards/Farmakologi/Biotransformation af lægemiddler.md",
     "4. Flashcards/Farmakologi/Fase-2 processer.md",
     "4. Flashcards/Farmakologi/Fase 1 processor.md",
     "4. Flashcards/Farmakologi/Ekskretion.md",
-    "4. Flashcards/Fordøjelse II/Crohns sygdom.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012083148.png",
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
-    "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008133923.png",
-    "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132010.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008131944.png",
-    "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
-    "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008105913.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
