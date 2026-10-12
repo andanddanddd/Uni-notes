@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colitis ulcerosa (UC)"
+              "title": "Forelæsning - Inflammatoriske tarmsygdomme (og behandling)"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Farmakologi/Paracetamol forgiftning.md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paracetamol forgiftning"
+              "title": "Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler"
             }
           },
           {
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
+                "file": "4. Flashcards/Fordøjelse II/Endoskopi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caseuge 1+2 - Overekstremiteterne og billedediagnostik"
+              "title": "Endoskopi"
             }
           }
         ],
@@ -71,18 +71,19 @@
             }
           },
           {
-            "id": "10396341fa069de8",
+            "id": "2cfc8803b47bb6bf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf"
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - New Drugs the large Bowel_E2026"
+              "title": "Slides - Diagnostic methods - 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -272,18 +274,24 @@
   },
   "active": "f431678ed25c42d0",
   "lastOpenFiles": [
+    "Pasted image 20261012111817.png",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
+    "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
+    "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
+    "4. Flashcards/Farmakologi/Paracetamol forgiftning.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 5+6- Collumna, thorax og hovedet.md",
     "2. Caseuger/Bevægeapparatet",
     "1. Fag/Bevægeapparatet.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 3+4- Underekstremiteterne.md",
     "4. Flashcards/Fordøjelse II/Steatose.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012084057.png",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
     "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
-    "4. Flashcards/Farmakologi/Paracetamol forgiftning.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
     "4. Flashcards/Farmakologi/Typer af bivirkninger.md",
     "4. Flashcards/Farmakologi/Oxidation af lægemidler.md",
     "0. De allervigtigste/Farmakologi/CYP-enzymer.md",
@@ -292,17 +300,13 @@
     "4. Flashcards/Farmakologi/Fase-2 processer.md",
     "4. Flashcards/Farmakologi/Fase 1 processor.md",
     "4. Flashcards/Farmakologi/Ekskretion.md",
-    "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
-    "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
     "4. Flashcards/Fordøjelse II/Crohns sygdom.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012083148.png",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
     "4. Flashcards/Fordøjelse II/Neoplasmer i leveren.md",
     "4. Flashcards/Fordøjelse II/Leversygdomme.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
     "4. Flashcards/Fordøjelse II/Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD).md",
     "4. Flashcards/Fordøjelse II/Kronisk leversygdom.md",
-    "4. Flashcards/Fordøjelse II/Akut leversygdom.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008133923.png",
@@ -313,7 +317,6 @@
     "Externe dokumenter/Fordøjelse II/Slides - GI blødninger.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Patologi af pancreas og galdevejene 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008105913.png",
-    "Externe dokumenter/Fordøjelse II/msoF51B.tmp",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",

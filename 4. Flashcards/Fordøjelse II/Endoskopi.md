@@ -2,3 +2,4 @@
 
 - Hvor langt ned kan man endoskopere?:: [[Papilla duodeni major]]
 <!--SR:!2026-10-13,4,270-->
+![[Pasted image 20261012111817.png|286]]
