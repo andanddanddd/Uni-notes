@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "Paracetamol forgiftning"
             }
+          },
+          {
+            "id": "f431678ed25c42d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d6a845a27b882733",
@@ -57,15 +71,15 @@
             }
           },
           {
-            "id": "f431678ed25c42d0",
+            "id": "10396341fa069de8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf"
+                "file": "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Drugs_liver_2026"
+              "title": "Slides - New Drugs the large Bowel_E2026"
             }
           }
         ],
@@ -258,13 +272,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f431678ed25c42d0",
+  "active": "10396341fa069de8",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
+    "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "4. Flashcards/Farmakologi/Paracetamol forgiftning.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
     "4. Flashcards/Farmakologi/Typer af bivirkninger.md",
-    "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "4. Flashcards/Farmakologi/Oxidation af lægemidler.md",
     "0. De allervigtigste/Farmakologi/CYP-enzymer.md",
     "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
@@ -305,7 +320,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",
-    "Billeder/Fordøjelse II",
     "Untitled.canvas"
   ]
 }
