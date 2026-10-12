@@ -5,3 +5,6 @@ Hjernen i CYP.enzymet reduceres under oxidationen af lægemidlet (midelrtidigt)
 
 ![[Biotransformation af lægemiddler]]
 
+![[Typer af bivirkninger]]
+
+![[Paracetamol forgiftning]]
