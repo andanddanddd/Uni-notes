@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvilken CYP familie oxidere flest lægemidler?:: CYP3A 
 - Hvor i cellen er CYP-enzymerne?:: Forankrede i glat ER
