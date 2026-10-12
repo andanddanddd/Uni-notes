@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 37.71844660194175,
+        "dimension": 32.13592233009709,
         "children": [
           {
             "id": "657df77a56e3b943",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
+                "file": "Colitis ulcerosa (UC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Inflammatoriske tarmsygdomme (og behandling)"
+              "title": "Colitis ulcerosa (UC)"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 62.28155339805825,
+        "dimension": 67.86407766990291,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steatohe",
+                "query": "tag:#flashcards/5/Fordøjelsessystemet-II",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,10 +247,11 @@
   "active": "657df77a56e3b943",
   "lastOpenFiles": [
     "Inflammatory bowel disease (IBD).md",
-    "Colitis ulcerosa (UC).md",
     "Crohns sygdom.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
+    "Pasted image 20261012083148.png",
+    "Colitis ulcerosa (UC).md",
     "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
     "Neoplasmer i leveren.md",
     "4. Flashcards/Fordøjelse II/Leversygdomme.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
@@ -272,7 +274,6 @@
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Omsætning af aminosyre og ureacyclus.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Forelæsning - Hæm. metabolisme.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Syntese af fedtsyrer og triglycerider.md",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Pasted image 20261008133923.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
@@ -289,7 +290,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",
     "Billeder/Fordøjelse II",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144401.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261006141334.png",
     "Excalidraw/Fordøjelse II",
     "Untitled.canvas"
   ]
