@@ -2,3 +2,5 @@
 
 Nogle opioder nedsætter tarmmotilitet (deducere frekvensen af konstriksinoer)
 Pas på med lægemidler der direkte reducere diarre
+
+Anorektal manimetry = trykmåler
