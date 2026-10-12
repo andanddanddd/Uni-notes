@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 32.13592233009709,
+        "dimension": 37.0082564351627,
         "children": [
           {
             "id": "657df77a56e3b943",
@@ -42,7 +42,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 67.86407766990291,
+        "dimension": 62.9917435648373,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -258,10 +258,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f431678ed25c42d0",
+  "active": "3a7b7ca343a56d3c",
   "lastOpenFiles": [
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
     "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
+    "4. Flashcards/Farmakologi/Biotransformation af lægemiddler.md",
+    "4. Flashcards/Farmakologi/Fase-2 processer.md",
+    "4. Flashcards/Farmakologi/Fase 1 processor.md",
+    "4. Flashcards/Farmakologi/Ekskretion.md",
     "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "Colitis ulcerosa (UC).md",
     "Inflammatory bowel disease (IBD).md",
@@ -286,11 +290,6 @@
     "Mallory-legemer.md",
     "Metabolisme af alkohol.md",
     "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Leverens anatomi, embryologi og fysiologi.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Galde og kolesterol.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Fordøjelse, optag og metabolisme af fedt.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 5 - Leveren og galdesystemet/Forelæsning - Omsætning af aminosyre og ureacyclus.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Forelæsning - Hæm. metabolisme.md",
-    "3. Forelæsninger/Ernæring endokrinologi/Caseuge 3 - Pancreas og regulering af metabolismen/Forelæsning - Glykoneogenese, beta-oxidation og syntese af ketonstoffer.md",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Pasted image 20261008133923.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",

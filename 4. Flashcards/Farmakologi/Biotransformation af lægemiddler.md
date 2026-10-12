@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi 
+#flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 ![[Prodrugs]]
 

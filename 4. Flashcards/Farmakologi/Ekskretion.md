@@ -11,6 +11,7 @@
 ![[Clearence]]
 
 - Hvilken enhed har AUC?::  $\frac{n \cdot t}{V}$ hvor n er stofmængde t er tid og V er volumen
+
 ![[Halveringstid]]
 - 
 - Hvad kaldes den ligevægt der gerne vil opnås ved gentagen tilføjelse af lægemiddel?:: [[Steady state]]
