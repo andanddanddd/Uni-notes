@@ -26,6 +26,16 @@ Primær skleroserende cholangit kan dræbe unde mennesker
 
 De fleste ekstraintestinael manifestationer går væk med behandling af IBD
 
+Det er vigtigt at vide hvor mange af afføringerne er om natten
+
+Man kigger på tilbagevejen ved kolonskopi
+	Man ender i terminal illium
+
+Slide 25
+	0 = tydelige blodkar   
+
+Ro i sygdommen = rask tarm
+
 ![[Colitis ulcerosa (UC)]]
 
 ![[Crohns sygdom]]

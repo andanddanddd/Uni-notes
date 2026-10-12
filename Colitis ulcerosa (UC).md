@@ -10,3 +10,5 @@
 - Inflammationeen er overfladiddk (kun i mucosa)
 - Kan give pseudopolypper
 - Toksisk megacolon er vist ret farlig
+
+- 
