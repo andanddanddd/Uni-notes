@@ -36,6 +36,8 @@ Slide 25
 
 Ro i sygdommen = rask tarm
 
+Behandles tit med biologiske lægemideler
+
 ![[Colitis ulcerosa (UC)]]
 
 ![[Crohns sygdom]]

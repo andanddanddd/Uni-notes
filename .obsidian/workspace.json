@@ -14,15 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflammatory bowel disease (IBD).md",
+                "file": "Colitis ulcerosa (UC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inflammatory bowel disease (IBD)"
+              "title": "Colitis ulcerosa (UC)"
+            }
+          },
+          {
+            "id": "3a7b7ca343a56d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -42,15 +57,15 @@
             }
           },
           {
-            "id": "3a7b7ca343a56d3c",
+            "id": "f431678ed25c42d0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf"
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026"
+              "title": "Slides - Drugs_liver_2026"
             }
           }
         ],
@@ -112,8 +127,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,11 +258,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "657df77a56e3b943",
+  "active": "f431678ed25c42d0",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
+    "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "Colitis ulcerosa (UC).md",
     "Inflammatory bowel disease (IBD).md",
-    "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
     "Pasted image 20261012084057.png",
     "Crohns sygdom.md",
     "Pasted image 20261012083148.png",
@@ -290,7 +306,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",
     "Billeder/Fordøjelse II",
-    "Excalidraw/Fordøjelse II",
     "Untitled.canvas"
   ]
 }

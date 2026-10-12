@@ -11,4 +11,5 @@
 - Kan give pseudopolypper
 - Toksisk megacolon er vist ret farlig
 
-- 
+- Man tager hele colon hvis man fjerner den
+	- Ved krohns tager man kun det syge
