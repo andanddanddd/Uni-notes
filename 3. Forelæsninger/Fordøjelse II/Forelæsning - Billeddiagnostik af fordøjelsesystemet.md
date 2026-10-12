@@ -11,3 +11,5 @@ Kamarametoder kan kun se mucosa
 ![[Ultralyd af abdomen]]
 
 ![[Røntgen]]
+
+![[MRI]]
