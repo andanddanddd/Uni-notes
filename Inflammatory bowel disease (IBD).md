@@ -4,6 +4,27 @@
 Kvinder rammes marginalt mere end mænd
 Rammer omkring 20-årige og igen ved 50-årsalderen
 Man dør ikke af det, dvs både incidens og prævalens stiger (der er ikke flere resurcer)
+Det skal behandles eller er der øget ririsko for kræft
+
+Imperiøs træng = følelse af at skulle på toilet NU (eller slet ikek kunne holde det)
+
+Husk at maneg af symptomerne er de samme som ved bakterier
+
+Kolitis giver ikke malarbsorbsion men krohns gør
+	Eftersomm kolitis ikke rammer tyndtarmen
+
+Tenesmi = stor smerte ved defekation
+
+Fistel = falsk udførselsgang
+
+![[Pasted image 20261012084057.png]]IKKE betændt
+
+Erythema nodusum er oftest på skinneben
+
+Primær skleroserende cholangit kan dræbe unde mennesker
+	Derfor tjekker man levertal en gang om året
+
+De fleste ekstraintestinael manifestationer går væk med behandling af IBD
 
 ![[Colitis ulcerosa (UC)]]
 

@@ -7,4 +7,6 @@
 - Rygning kan hjælpe (for nogen er det den eneste behandling der hjælper)
 	- KUN VED COLITIS IKKE KRONES
 - Fjerne blindtarmen kan agere behandling mod colitis
-- Inflammationeen er overfladiddk (kun i )
+- Inflammationeen er overfladiddk (kun i mucosa)
+- Kan give pseudopolypper
+- Toksisk megacolon er vist ret farlig
