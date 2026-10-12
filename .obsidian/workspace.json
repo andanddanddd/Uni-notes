@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Endoskopi.md",
+                "file": "Ultralyd af abdomen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endoskopi"
+              "title": "Ultralyd af abdomen"
             }
           }
         ],
@@ -274,8 +274,12 @@
   },
   "active": "f431678ed25c42d0",
   "lastOpenFiles": [
-    "Pasted image 20261012111817.png",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
+    "Ultralyd af abdomen.md",
+    "Capsulær endoskopi.md",
+    "Colonskopi.md",
+    "4. Flashcards/Fordøjelse II/Endoskopi.md",
+    "Pasted image 20261012111817.png",
     "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
     "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
@@ -304,9 +308,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012083148.png",
     "4. Flashcards/Fordøjelse II/Neoplasmer i leveren.md",
     "4. Flashcards/Fordøjelse II/Leversygdomme.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
-    "4. Flashcards/Fordøjelse II/Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD).md",
-    "4. Flashcards/Fordøjelse II/Kronisk leversygdom.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - patologi af leveren.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008133923.png",
@@ -319,7 +320,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008105913.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261006144409.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20260930142720.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261006140125.png",
     "Untitled.canvas"
   ]
 }
