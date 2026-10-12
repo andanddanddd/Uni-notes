@@ -4,7 +4,7 @@
 
 - Hvor meget paracetamol oxideres under normale forhold?:: Få procent
 - Hvordan biotransformeres paracetamol primært?:: Sulfatering og [[Glukuronidering]]
-- Hvor meget paracetamol skal typisk bruges til en dødelig forgiftning?:: >25g (toksisk ved 10 - 15 g)
+- Hvor meget paracetamol skal typisk bruges til en dødelig forgiftning?:: >25g (10-15 ifølge forelæsning)
 - Hvad øger risikioen for paracetamolforgiftning?
 ?
 - Ethanol
