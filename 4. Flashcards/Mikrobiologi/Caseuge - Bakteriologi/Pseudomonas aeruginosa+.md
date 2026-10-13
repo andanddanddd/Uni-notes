@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har P. aeruginosa?:: [[Gram-negative bakterier]]
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvilken form har P. aeruginosa?:: Stav
 <!--SR:!2026-10-11,4,270-->
 - Hvordan lejres P. aeruginosa?
@@ -15,7 +15,7 @@
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
 <!--SR:!2026-10-10,3,250-->
 - Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-25,12,270-->
 
 ## Patogenese
 - Hvilke celler inficere P. aeruginosa?
@@ -60,7 +60,7 @@ Hvordan genkendes den?
 - Hvordan diagnosticeres P. aeruginosa?:: Dyrkning
 <!--SR:!2026-10-10,3,250-->
 - Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
-<!--SR:!2026-10-11,3,250-->
+<!--SR:!2026-10-24,11,270-->
 
 ## Forebyggelse og behandling
 - Hvilke antibiotika er P. aeruginosa resistente overfor?

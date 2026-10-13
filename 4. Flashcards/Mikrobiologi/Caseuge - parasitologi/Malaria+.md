@@ -11,7 +11,7 @@
 - Hvor forekommer malaria?:: Primært Afrika men også det norlige Sydamerika, Asien og nordlige Oceanien
 <!--SR:!2026-10-10,4,270-->
 - Hvordan smitter malaria?:: Myg(gestik), deling af blod (blodtransfusion eller IV stofmisbrug)
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvad kendetegner myggestikket der giver malaria?:: Der er intet særligt ved det, det klør ikke ekstra
 <!--SR:!2026-10-10,4,270-->
 - Hvor længe går der fra myggestik til man opdager malaria for P. falciparum?:: 7-30 dage

@@ -35,7 +35,7 @@
 <!--SR:!2026-11-03,31,270-->
 
 - Hvilke sygdomme giver C. trachomatis hos nyfødte?:: [[Ophthalmia neonatorum]] og [[Pneumoni]]
-<!--SR:!2026-10-11,13,230-->
+<!--SR:!2026-11-12,30,230-->
 - Hvor kan clamydia sprede sig hen fra vagina?:: Rectum og højre op dvs det kan give [[Endometritis]] og [[Pelvic inflammatory disease (PID)]]
 <!--SR:!2026-11-28,54,310-->
 - Hvilken type cancer kan kvinder med tidligere C. trachomatis infektion være i øget risiko for at få?:: Ovariecancer

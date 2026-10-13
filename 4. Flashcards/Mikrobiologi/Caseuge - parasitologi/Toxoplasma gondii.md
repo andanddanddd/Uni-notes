@@ -5,7 +5,7 @@
 - Hvilken sygdom giver toxoplasma gondii?:: [[Haresyge]]
 <!--SR:!2026-10-18,9,250-->
 - Hvilken type patogen er T. gondii?:: [[Protozoa]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvilken type [[Protozoa]] er T. gondii?:: [[Sporozoa]]
 <!--SR:!2026-10-10,4,270-->
 - Hvilke dyr inficere T. gondii?:: De fleste varmblodede dyr (særligt katte)
@@ -19,4 +19,4 @@
 - Hvordan behandles T. gondii?:: Oftest selvlimiterende
 <!--SR:!2026-10-18,9,250-->
 - Hvordan forebygges T. gondii?:: Det er særligt kogenit [[Toxoplasmose]] der skal forebygges, det gøres ved at undgå råt kød, vaske grøntsager grundigt, have godhygiejne ved kontakt med jord og undgå direkte kontakt med kattebakke
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->

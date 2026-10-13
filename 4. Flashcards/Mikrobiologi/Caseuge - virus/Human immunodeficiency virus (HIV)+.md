@@ -14,7 +14,7 @@
 - Hvilken receptor binder HIV til?:: Cd4 (og 2 chemokinreceptorer, CCR5 og CxCR4)
 <!--SR:!2026-10-15,16,290-->
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
 <!--SR:!2026-10-12,14,290-->
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)

@@ -45,7 +45,7 @@
 - Hvilke patogene giver oftest Aseptisk meningitis?:: Vira
 <!--SR:!2026-10-15,16,290-->
 - Hvilken patogen giver oftest de værste sygdomstilfælde af meningitis?:: Bakterier
-<!--SR:!2026-10-13,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Hvilken bakterie kan give kronisk meningitis?:: [[Mycobacterium tuberculosis+]]
 <!--SR:!2026-10-13,14,290-->
 - Hvorfor kan tuberculose i hjernen pludselig aktiveres til en meningitis?:: Ved anden sygdom (særligt skoldkopper virker det til)
@@ -94,7 +94,7 @@
 
 ## Behandling
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
-<!--SR:!2026-10-13,14,290-->
+<!--SR:!2026-12-09,57,310-->
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
 <!--SR:!2026-10-16,16,290-->
 - Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor

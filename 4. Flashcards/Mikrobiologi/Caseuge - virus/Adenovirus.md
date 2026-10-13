@@ -21,7 +21,7 @@
 ## Smitte og epidemiologi
 - Tendens i tilfælde
 - Hvor "lever" adenovirus normalt?:: Det kan overleve udenfor mennesker i temmelig lang tid, men det inficere vist ikke andre dyr end mennesker
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-07,25,270-->
 - Hvordan smitter adenovirus?:: Dråber eller i vand/mad
 <!--SR:!2026-10-23,16,290-->
 - I hvilke grupper sker der oftest udbrud af adenovirus?:: Skolebørn og i militeret

@@ -7,7 +7,7 @@ Gram-farvning
 - Hvilken form har H. influenzae?:: Lille stav (pleomorf)![[Pasted image 20260922094654.png]]
 <!--SR:!2026-10-11,12,270-->
 - Hvor lever H. influenzae normalt?:: Normalflora i øvre luftveje
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 ## Patogenese
 Celler inficeret
 - Hvilke patogenesefaktorer har H. influenzae type B?

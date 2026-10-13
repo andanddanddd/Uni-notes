@@ -19,7 +19,7 @@
 - Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
 <!--SR:!2026-11-18,40,290-->
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-25,43,290-->
 - Hvilke patogenesefaktorer har C. difficile?
 ?
 -

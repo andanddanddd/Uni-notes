@@ -68,4 +68,4 @@
 - Hvornår gives B. pertussis vaccinen?:: ved 3, 5, 12 mdr, 5 år og i 3. trimester af graviditet
 <!--SR:!2026-10-14,16,290-->
 - Hvordan har B. perussis-vaccinen udviklet sig?:: Det startede som en levende svækkede bakterie men nu er den en toksidvaccine
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,57,310-->

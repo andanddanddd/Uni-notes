@@ -9,5 +9,5 @@
 - Hvordan bevæger amoeba sig?:: De skyder en pseudopo frem og bevæger derefter resten af cit cytoplasma derhen![[Pasted image 20261006114344.png]]
 <!--SR:!2026-10-11,4,270-->
 - Hvilke infektioner giver amoeba typisk?:: Tarminfektioner
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - ![[Pasted image 20261005131321.png]]

@@ -71,7 +71,7 @@ Tendens
 ## Diagnostik
 
 - Hvordan kan streptococcus pneumoniae genkendes?:: Den laver falde kolonier og laver $\alpha$-hæmolyse
-<!--SR:!2026-10-13,25,270-->
+<!--SR:!2027-01-16,95,290-->
 - Hvilken test laves for at genkende s. pneumoniae fra de andre [[Streptococcer]] og hvordan gendkendes s. pneumonia derpå?:: [[Optochin test]] S. pneumonia er følsom overfor optochin derfor laves en hæmningszone
 <!--SR:!2026-10-13,15,290-->
 - Hvorfor kan det være svært at dyrke S. pneumoniae når patienter indlægges med pneumoni?:: De indlægges typisk på dag 2/3 her er de i det røde hepatisationsstadium hvor ekspektorat er mere præget af neutrofile granulocytter end bakterier
@@ -86,7 +86,7 @@ Resistens
 
 #### Vaccination
 - Hvad kendetegner S. pneumoniae vaccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvornår vaccineres man mod S. pneumoniae?:: 3,5,12 mdr
 <!--SR:!2026-10-12,14,290-->
 - Hvorfor kan man blive inficeret med S. pneumoniae selvom man er vaccineret?:: Der er ca 90 forskellige kapsler og vi vaccinere ikke mod dem allle
