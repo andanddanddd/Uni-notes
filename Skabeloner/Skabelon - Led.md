@@ -1,12 +1,12 @@
 
 
-## Ledtype
+### Ledtype
 
-## Ledflader
+### Ledflader
 
-## Ledkapsel og hule
+### Ledkapsel og hule
 
-## Funktion
+### Funktion
 
-## Klinik
+### Klinik
 

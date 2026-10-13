@@ -1,6 +1,6 @@
 
 
-## Generalt
+### Generalt
 - Hvilken type cellevæg har bX?
 - Hvilken form har bX?
 - Hvordan lejres bX?
@@ -8,25 +8,25 @@
 - Hvilket oxidativt miljø lever bX bedst i?
 - Hvad kendetegner mobiliteten af bX
 
-## Patogenese
+### Patogenese
 - Hvilke celler inficere bX?
 - Hvilke patogenesefaktorer har bX?
 
 
-## Smitte og epidimologi
+### Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med bX
 - Hvordan smitter bX?
 
-## Symptomer og komplikationer
+### Symptomer og komplikationer
 - Hvilke infektioner giver bX?
 
 - Hvilke komplikationer kan bX give?:
-## Diagnostik
+### Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres bX?
 
-## Forebyggelse og behandling
+### Forebyggelse og behandling
 - Hvilke resistensmekanismer har bX?
 - Hvordan forebygges bX?
 - Hvordan behandles bX?

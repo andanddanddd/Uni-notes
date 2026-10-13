@@ -34,7 +34,7 @@
 ![[Pasted image 20261013113059.png]]
 ## Klinisk præsentation
 - Hvad er imperiøs træng?:: Følelsen af at skulle på toilet NU (eller slet ikke kunne holde sig)
-- Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ve
+- Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ved [[Colitis ulcerosa (UC)]] men kan også forekomme ved [[Crohns sygdom]] 
 ## Komplikationer
 - Hvilke komplikationer kan ubehandlet IBD give?
 ?
@@ -78,6 +78,8 @@ Ro i sygdommen = rask tarm
 Behandles tit med biologiske lægemideler
 
 ![[Colitis ulcerosa (UC)]]
+
+
 
 ![[Crohns sygdom]]
 

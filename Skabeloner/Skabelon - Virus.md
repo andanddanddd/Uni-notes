@@ -1,24 +1,24 @@
 
 
-## Struktur
+### Struktur
 - Hvilken form har kapslen på vX
 - Har vX en lipidmembran
 - Hvilken type arvematriale bruger vX
 - Hvilken struktur har vX´ arvematriale
-## Livscyklus
+### Livscyklus
 - Hvilke celler inficere vX
 - Hvordan kommer vX ind i cellen? (mekanisme)
 - Replikation
-## Smitte og epidemiologi
+### Smitte og epidemiologi
 - Tendens i tilfælde
 - Hvor "lever" vX normalt
 - Hvordan smitter vX
 
-## Symptomer og komplikationer
+### Symptomer og komplikationer
 
-## Diagonstik
+### Diagonstik
 
-## Forebyggelse og behandling
+### Forebyggelse og behandling
 
 
 

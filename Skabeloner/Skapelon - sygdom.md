@@ -1,11 +1,11 @@
 
-## Etiologi
+### Etiologi
 
-## Klinisk præsentation
+### Klinisk præsentation
 
-## Komplikationer
+### Komplikationer
 
-## Patofysiologi
-## Diagnose
+### Patofysiologi
+### Diagnose
 
-## Behandling
+### Behandling

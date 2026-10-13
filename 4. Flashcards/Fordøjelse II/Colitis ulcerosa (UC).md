@@ -1,18 +1,20 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 
-## Etiologi
+### Etiologi
 Se [[Inflammatory bowel disease (IBD)]]
 
-## Klinisk præsentation
+### Klinisk præsentation
 
-## Komplikationer
+### Komplikationer
 
-## Patofysiologi
+### Patofysiologi
 - Hvad kendetegner lokaliseringen af UC?:: Der er kontinuerlig inflammation startende fra rectum, det har en klar linje mellem rask og syg
-## Diagnose
+- Hvilke lag af tarmen kan påvirkes af UC?:: Kun mucosa og submucosa
+### Diagnose
+- Hvordan ses UC med endoskopi/colonskopi?:: Grnuleret, skrøbelig blødende slimhinde med pseudopolypper
 
-## Behandling
+### Behandling
 
 - [x] KOninuerligt
 	- Tydelig grænse
