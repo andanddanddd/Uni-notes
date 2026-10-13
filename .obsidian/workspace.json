@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti-diarre lægemidler.md",
+                "file": "4. Flashcards/Fordøjelse II/Endoskopi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anti-diarre lægemidler"
+              "title": "Endoskopi"
             }
           }
         ]
@@ -52,9 +52,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - New Drugs the large Bowel_E2026"
             }
+          },
+          {
+            "id": "03054bf4dc1fafe9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Diagnostic methods - 2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -244,8 +257,10 @@
   },
   "active": "657df77a56e3b943",
   "lastOpenFiles": [
-    "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
     "Anti-diarre lægemidler.md",
+    "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
@@ -280,9 +295,7 @@
     "Biokemiske test af leveren.md",
     "Pasted image 20261013105220.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
-    "4. Flashcards/Molekylær biologi/Caseuge 4/Albumin.md",
     "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf",
-    "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
     "Externe dokumenter/Bevægeapparatet/Introduktion til bevægeapparatet – DCA.pdf",
     "Externe dokumenter/Bevægeapparatet",
     "Externe dokumenter/New folder",
