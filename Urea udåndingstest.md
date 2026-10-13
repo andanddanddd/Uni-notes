@@ -1,4 +1,5 @@
 #flashcards/5/Fordøjelsessystemet-II [[Urea]]
 
 - Hvad bruges urea udåndigstest til?:: Diagnostik af [[Helicobacter pylori]]
-- 
+- Hvordan foregår ureatest overordnet?:: Man indtager (enten som væske eller pille) urea mærket med C13, herefter udånder man i rør der testes
+- Hvad er princippet bag urea udåndingstest?:: Mærket urea spaltes af [[Helicobacter pylori]] til mærket CO2 og ammoniak, det mærkede CO2 kan findes i udåndigsluften

@@ -3,4 +3,5 @@
 - Hvilke 3 biokemiske test bruges til diagnostik af fordøjelseskanalen?
 ?
 - [[Urea udåndingstest]]
-- 
+- [[Fecal occult blodtest (FOBT)]]
+- [[F-calprotectin]]
