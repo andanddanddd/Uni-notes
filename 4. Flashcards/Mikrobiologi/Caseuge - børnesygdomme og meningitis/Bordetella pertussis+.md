@@ -7,7 +7,7 @@
 - Hvilken form har B. pertussis?:: Kokker
 <!--SR:!2026-11-01,25,290-->
 - Hvor lever B. pertussis normalt?:: I mennesker (den giver forkølelse i ellers raske voksne dermed kan de smitte til børn der bliver meget syge)
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-25,43,290-->
 - Hvilket oxidativt miljø lever B. pertussis bedst i?:: Den er aerob
 <!--SR:!2026-10-31,24,270-->
 
@@ -22,7 +22,7 @@
 - [[Tracheal cytotoxin (TCT)]]
 - [[Lipooligosaccharide (LOS)]]
 - [[Biofilm]]
-<!--SR:!2026-10-10,7,190-->
+<!--SR:!2026-11-01,19,210-->
 
 - Hvilke mekanismer giver den karakteristisek hoste fra B. pertussis?:: Der er meget mucus samtidig med at hostereceptorer bliver mere følsomme og cillierne bliver ødelagt så de nedre luftveje er generalt dårligere til at komme af med mucus
 <!--SR:!2026-10-14,16,290-->

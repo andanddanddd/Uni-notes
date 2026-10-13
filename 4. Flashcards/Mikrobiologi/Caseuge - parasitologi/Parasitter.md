@@ -4,7 +4,7 @@
 ?
 - En organisme der bor på eller i en anden (oftest større) organisme og lever af denne eller dennes føde (CDC)
 - En organisme der bor ernæres og beskyttes af en anden organisme samtidig med at den ikke bidrager til værtens overlevelse
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 
 - Hvad kommer ordet parasit fra?:: En person der spiser ved en andens bord
 <!--SR:!2026-10-10,4,270-->

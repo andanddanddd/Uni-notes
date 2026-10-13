@@ -20,7 +20,7 @@
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 <!--SR:!2026-10-15,16,290-->
 - Hvordan kommer HIV ud af celler?:: Budding
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,57,310-->
 ![[Pasted image 20260921115642.png]]
 ## Igangsættelse og fortsættelse af infektion
 - Hvor spreder en infektion sig hen fra slimhinder?:: I starter spreder den sig ikke meget kun slimhinden og lokale lymfeknuder

@@ -5,5 +5,5 @@
 - Hvad hedder cellen der agere makrofag i hjernen?:: [[Mikroglia]]
 <!--SR:!2026-10-15,16,290-->
 - Hvor kommer makrofager og lymfocytter ind i hjernehinderne hene?:: [[Virchow robin]]-spaces
-<!--SR:!2026-10-12,10,270-->
+<!--SR:!2026-11-19,37,290-->
 - 

@@ -13,9 +13,9 @@
 - Hvordan smitter børneorm?:: Ofte autoinfektion (smittet af sin egen tidligere børneorm) ellers fæcal-oralt
 <!--SR:!2026-10-10,4,270-->
 - Hvordan diagnosticeres børneorm?:: Mikroskopi af æg eller ved fund af orme
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvor store er ormene i børneorm?:: 1 cm lange
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvordan undgås re/autoinfektion?
 ?
 - Korte negle

@@ -1,6 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes rundorm på latin?:: Nematoda
-<!--SR:!2026-10-10,1,130-->
+<!--SR:!2026-10-15,2,150-->
 - Hvilken udseendesmæssig forskel er der på rundorme og jordorme?:: Rundorme har ikke segmenteret krop
 <!--SR:!2026-10-11,4,270-->

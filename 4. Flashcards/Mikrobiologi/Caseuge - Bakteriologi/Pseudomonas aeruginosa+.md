@@ -43,7 +43,7 @@
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
 <!--SR:!2026-10-11,4,270-->
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]

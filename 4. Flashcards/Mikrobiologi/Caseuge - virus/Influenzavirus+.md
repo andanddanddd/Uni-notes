@@ -4,7 +4,7 @@
 - Hvilken type arvematriale bruger influenzavirus?:: RNA-
 <!--SR:!2026-10-26,19,270-->
 - Hvordan er strukturen af influenzavirus arvematriale?:: 8 lineære segmenter (kun 7 ved influenza C)
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Hvilken form har proteinkapslen på influenzavirus?:: Hver RNA har en helikalligenende kapsel omkring sig
 <!--SR:!2026-10-15,16,290-->
 - Har influenzavirus en lipidmembran?:: Ja
@@ -69,7 +69,7 @@
 
 ## Diagsostik
 - Hvordan diagnosticeres influenza oftest?:: Kliniske fund
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Hvilke laboratorietest laves for at diagnosticere influenza?:: Isolering af virus og PCR
 <!--SR:!2026-12-09,57,310-->
 ## Forebyggelse og behandling

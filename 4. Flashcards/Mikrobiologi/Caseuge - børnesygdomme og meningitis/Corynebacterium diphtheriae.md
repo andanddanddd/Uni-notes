@@ -28,7 +28,7 @@
 - Hvilke komplikationer kan C. diphtheriae give?
 
 - Hvad gør C. diphteriae farlig?:: [[C. diphtheriae toksin]]
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-13,31,270-->
 - Hvilken sygdom giver C. diphteriae?:: [[Difteri]]
 <!--SR:!2026-10-16,16,290-->
 
