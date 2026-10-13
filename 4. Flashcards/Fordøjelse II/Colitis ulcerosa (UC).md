@@ -32,6 +32,8 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Forstyrret kryparkitektur
 - Kryptatrofi
 - General inflammation
+
+- Hvilken ikke-biokemisk test er vigtigt for diagnostik af UC?:: [[Colonskopi]]
 ![[Pasted image 20261013115434.png]]
 ### Behandling
 

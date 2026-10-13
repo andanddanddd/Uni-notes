@@ -36,16 +36,28 @@
 - Hvad er imperiøs træng?:: Følelsen af at skulle på toilet NU (eller slet ikke kunne holde sig)
 - Hvilke sygdomme kan IBD ligne?:: Bakterielle infektioner
 - Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ved [[Colitis ulcerosa (UC)]] men kan også forekomme ved [[Crohns sygdom]] 
+- Hvord
 - Hvilke ekstraintestiane manifestationer kan IBD give?
 ?
 - [[Pyoderma gangrenosum]]
 - [[Erytema nodusum]]
 - [[Episcleritis]] og [[Uveit]]
 - Ledsmerter
-- [[Primær skleroserende scholangitis]]
-## Komplikationer
-- Hvilke komplikationer kan ubehandlet IBD give?:: Kræft
+- [[Primær skleroserende cholangitis]]
 
+- Hvad kendetegner forløbet at IBD?:: Det variere meget, for nogle lægger det latent i lang tid og kommer med store opblusninger, for andre er det der lidt hele tiden![[Pasted image 20261013120557.png]]
+### Komplikationer
+- Hvilke komplikationer kan ubehandlet IBD give?:: Kræft
+### Diagnostik
+- Hvilke fæcesprøver laves?:: Diarreudredning (patogener) og [[F-calprotectin]] ([[Diarre-udredning og statistik]])
+- Hvilke blodprøver taget for at diagnosticere IBD?
+?
+- Anæmipakken
+- Infektionstal 
+- Trombocytter
+- [[Albumin]]
+- Levertal ([[Biokemiske test af leveren]])
+- Væsketal
 
 - [x] 2/3 IBD patienter er colitis mens 1/# er krohns
 - [x] Kvinder rammes marginalt mere end mænd
@@ -61,7 +73,7 @@
 Kolitis giver ikke malarbsorbsion men krohns gør
 	Eftersomm kolitis ikke rammer tyndtarmen
 
-Tenesmi = stor smerte ved defekation
+- [x] Tenesmi = stor smerte ved defekation
 
 Fistel = falsk udførselsgang
 
