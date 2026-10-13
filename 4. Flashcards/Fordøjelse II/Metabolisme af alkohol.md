@@ -10,13 +10,17 @@
 	- Hvad gør alkoholdehydrogenasesystemet ved alkohol i leveren?:: Omdanner det til acetylaldehyd og derfra til acetat
 	- Hvad hedder enzymet der laver acetylaldehyd fra alkohol?:: Ethanol-dehydrogenase
 	- Hvad hedder enzymet der laver acetat fra acetylaldehyd?:: Acetylaldehyd-dehydrogenase
+<!--SR:!2026-10-17,4,270-->
 	- Hvad sker med acetat?:: Det går fra levere til blodet til vævene hvor det forbrændes til energi end lagres som fedt
 - Hvilken "enzymsystem" nedbryder nestmest alkohol?:: MEOS (mitrokondrielle ethanol-oxiderende system)
 	- Hvilket enzym bruger MEOS?:: CYP-450
 	- Hvad er slutproduktet af MEOS?:: Acetat
+<!--SR:!2026-10-17,4,270-->
 - Hvilken af leveren 2 enzymsystemer til metabolisme af alkohol forøges ved daglig indtagelse?:: MEOS
 - Hvilken reaktionsorden følger metabolisme af alkohol?:: 0. ordens-reaktion ([[Metabolismen af lægemidler]])
+<!--SR:!2026-10-17,4,270-->
 
 ## Ekskretion
 - Hvor meget alkohol udskilles uomdannet?:: 10%
+<!--SR:!2026-10-17,4,270-->
 - Hvordan udskilles uomdannet alkohol?:: Urin, afføring, sved og udåndingsluft

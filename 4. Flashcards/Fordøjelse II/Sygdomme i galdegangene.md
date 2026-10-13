@@ -4,7 +4,7 @@
 ?
 - [[Biliary atresia]]
 - [[Choledocholithiasis]]
-- [[Cholangitis 1]]
+- [[Cholangitis]]
 <!--SR:!2026-10-27,14,290-->
 
 - Hvad hedder de 2 typer af cancer der kan forekomme i galdeganene?

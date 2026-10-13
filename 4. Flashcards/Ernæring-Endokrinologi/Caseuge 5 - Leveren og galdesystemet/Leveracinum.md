@@ -7,3 +7,4 @@
 - Hvad er forskellen på de 3 zoner i en leveracinum?:: Mængden af oxygen tilstede (1 har mest)
 <!--SR:!2026-10-20,15,290-->
 - Hvad er forskellen i opbygning på de 3 zoner i en leveracinum?:: Enzymsammensætningen
+<!--SR:!2026-10-17,4,270-->

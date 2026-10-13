@@ -42,12 +42,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fag/Bevægeapparatet.md",
+                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Choleliathitis.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Bevægeapparatet"
+              "title": "Choleliathitis"
             }
           }
         ],
@@ -157,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -280,11 +289,23 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "f431678ed25c42d0",
   "lastOpenFiles": [
+    "4. Flashcards/Fordøjelse II/Pigmentsten 1.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Choleliathitis.md",
+    "4. Flashcards/Fordøjelse II/Pigmentsten.md",
+    "4. Flashcards/Fordøjelse II/Cholesterolsten 1.md",
+    "4. Flashcards/Fordøjelse II/Cholesterolsten.md",
+    "4. Flashcards/Fordøjelse II/Sygdomme i galdegangene.md",
+    "4. Flashcards/Fordøjelse II/Cholangitis 1.md",
+    "4. Flashcards/Fordøjelse II/Cholangitis.md",
+    "4. Flashcards/Fordøjelse II/Pancreatitis.md",
+    "4. Flashcards/Fordøjelse II/Akut pancreatitis 1.md",
+    "4. Flashcards/Fordøjelse II/Akut pancreatitis.md",
     "1. Fag/Bevægeapparatet.md",
     "Skabeloner/Skabelon - Knogle.md",
     "Skabeloner/Skabelon - Led.md",
@@ -308,21 +329,10 @@
     "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
     "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
-    "4. Flashcards/Farmakologi/Paracetamol forgiftning.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 5+6- Collumna, thorax og hovedet.md",
     "2. Caseuger/Bevægeapparatet",
-    "2. Caseuger/Bevægeapparatet/Caseuge 3+4- Underekstremiteterne.md",
-    "4. Flashcards/Fordøjelse II/Steatose.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012084057.png",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
     "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
-    "4. Flashcards/Farmakologi/Typer af bivirkninger.md",
-    "4. Flashcards/Farmakologi/Oxidation af lægemidler.md",
-    "0. De allervigtigste/Farmakologi/CYP-enzymer.md",
-    "4. Flashcards/Farmakologi/Biotransformation af lægemiddler.md",
-    "4. Flashcards/Farmakologi/Fase-2 processer.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012083148.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008133923.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",

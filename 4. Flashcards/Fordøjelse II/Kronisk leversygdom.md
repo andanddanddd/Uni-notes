@@ -13,7 +13,7 @@
 - Iskæmi
 - [[Alkoholrelateret leversygdom]]
 - [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-10-30,17,250-->
 
 ## Klinisk præsentation
 - Hvilke symptomer har kronisk leversygdom, (og hvilke egentlige objektive ting kan en pt have lagt mærke til)?

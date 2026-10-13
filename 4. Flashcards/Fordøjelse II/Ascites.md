@@ -9,3 +9,4 @@
 - [[Portal hypertension]]
 - Færre serumproteiner (særligt albumin)
 - Sekundær hyperaldosteronæmi
+<!--SR:!2026-10-16,3,250-->

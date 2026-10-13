@@ -6,5 +6,6 @@
 ?
 - Lobus hepatis dxt
 - Lobus hepatis sin
+<!--SR:!2026-10-17,4,270-->
 
 - Hvorfor giver det mening at inddele leveren i 8 sektioner?:: De har hver deres blod/galde forsyning uden anastomoser

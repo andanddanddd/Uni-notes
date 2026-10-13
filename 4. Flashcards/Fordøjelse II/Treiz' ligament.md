@@ -3,4 +3,4 @@
 - Hvor ligger treiz' ligament?:: Mellem [[Duodenum]] og [[Jejunum]]
 <!--SR:!2026-10-28,15,290-->
 - Hvilken klinisk relevans har treiz' ligament?:: Definere om en blødning i GI er øvre eller nedre
-<!--SR:!2026-10-13,4,270-->
+<!--SR:!2026-10-29,16,290-->

@@ -1,6 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad kaldes cirrose i daglig tale?:: Skrumpelever
+<!--SR:!2026-10-17,4,270-->
 
 ## Etiologi
 - Hvorfor sker mikronodulær cirrose typisk?:: Kronisk alkoholoverforbrug
@@ -30,6 +31,7 @@
 - Dannelse af regenrationsnoduli
 
 - Hvad er brofibroser?:: Fibrose mellem glissons triade og centralvenen
+<!--SR:!2026-10-17,4,270-->
 - Hvorfor er brofibroser skadelige?:: De ødelægger blodflow
 - Hvad er regenerationsnoduli?:: "nye" leverceller der er uorganiseret
 ## Diagnose

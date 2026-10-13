@@ -9,10 +9,10 @@
 3. [[Øsofagit]]
 4. [[Mallory-weiss-læsion]]
 5. Cancer
-<!--SR:!2026-10-12,3,250-->
+<!--SR:!2026-10-22,9,250-->
 
 - Hvad kaldes blodig opkast?:: [[Hæmatemese]]
-<!--SR:!2026-10-10,1,230-->
+<!--SR:!2026-10-16,3,250-->
 - Hvad kaldes blodig afføring der skyldes blødning i øvre GI?:: [[Melæna]]
 <!--SR:!2026-10-13,4,270-->
 
@@ -20,4 +20,4 @@
 ?
 - [[Helicobacter pylori]]
 - Alkohol
-<!--SR:!2026-10-12,3,250-->
+<!--SR:!2026-10-24,11,270-->
