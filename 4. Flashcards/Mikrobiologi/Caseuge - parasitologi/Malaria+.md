@@ -50,7 +50,7 @@
 - Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
 <!--SR:!2026-10-11,4,270-->
 - Hvad kaldes cellerne der kommer fra sexuel deling af malaria?::  [[Sporozoitter]]
-<!--SR:!2026-10-11,3,250-->
+<!--SR:!2026-10-25,12,270-->
 - Hvorfor sker cyklisk feber ved malaria?:: Alle blodceller lyseres på en gang, dermed udsendes mange parasitter og dermed mange PAMPs
 <!--SR:!2026-10-11,4,270-->
 - Hvordan beskytter genet for [[Seglcelleanæmi]] mod malaria?:: Det bidrager til at inficerede celler opdages og dræbes
@@ -76,8 +76,8 @@
 
 ## Forebyggelse og behandling
 - Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvordan behandles malaria overodnet?:: Dræber [[Hypnozoiter]] og giver blod
 <!--SR:!2026-10-27,14,290-->
 - Hvordan bekæmper kroppen?:: Milten kan finde rigide erytorcytter (dem inficered med malaria) og dræbe dem
-<!--SR:!2026-10-12,4,270-->
+<!--SR:!2026-10-29,16,290-->

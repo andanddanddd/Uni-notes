@@ -9,7 +9,7 @@
 - Hvilken type [[Protozoa]] er T. gondii?:: [[Sporozoa]]
 <!--SR:!2026-10-10,4,270-->
 - Hvilke dyr inficere T. gondii?:: De fleste varmblodede dyr (særligt katte)
-<!--SR:!2026-10-10,2,230-->
+<!--SR:!2026-10-20,7,250-->
 - Hvilken effekt har T. gondii på gnavere?:: De bliver mere risikovillige
 <!--SR:!2026-10-10,4,270-->
 - Hvor "normal" er T. gondii i DK?:: 26% af bloddonere har antistoffer imod det

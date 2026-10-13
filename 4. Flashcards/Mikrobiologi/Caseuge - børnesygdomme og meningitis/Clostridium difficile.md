@@ -31,13 +31,13 @@
 - Hvordan smitter C. difficile?:: Gennem spore, særligt på hospitaler
 <!--SR:!2026-11-21,39,290-->
 - Hvem får oftest en infektion med C. difficile?:: Kvinder oftere end mænd men det er primært ældre og indlagte
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-14,62,310-->
 - Hvad kan øge en persons risiko for at blive inficeret med C. difficile?:: Specifike antibiotikabehandlinger
 <!--SR:!2026-10-14,15,290-->
 
 ## Symptomer og komplikationer
 - Hvad er det mest almindelige symptom af C. difficile?:: Diarre
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-13,61,310-->
 - Hvilken "sygdom" C. difficile?:: [[Pseudomembranøs collitis (PMC)]]
 <!--SR:!2026-10-24,18,250-->
 - Hvilke infektioner giver C. difficile?

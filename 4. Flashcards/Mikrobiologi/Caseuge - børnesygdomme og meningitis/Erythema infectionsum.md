@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad kaldes erythema infectionsum i daglig tale?:: Lussingesyge
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-08,56,310-->
 - Hvilke symptomer har erythema infectionsum?:: Oftest asymptomatisk eller giver det udslet i en uge og feber i 2-3 dage
 <!--SR:!2026-11-19,41,290-->
 - Hvilken komplikation kan erythema infectionsum give?:: [[Apalstisk krise]]

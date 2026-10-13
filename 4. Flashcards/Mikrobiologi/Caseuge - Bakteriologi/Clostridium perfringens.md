@@ -10,7 +10,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. perfringes?:: [[Gram-positive bakterier]]
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-25,43,290-->
 - Hvilken form har C. perfringes?:: Stav
 <!--SR:!2026-12-15,63,310-->
 - Hvordan lejres C. perfringes?

@@ -30,7 +30,7 @@
 <!--SR:!2026-10-20,15,290-->
 
 - Hvordan diagnsoticeres arbovirus?:: God resjeannamsese sammen med serologi
-<!--SR:!2026-10-11,8,250-->
+<!--SR:!2026-11-10,28,270-->
 
 ![[Pasted image 20260929094141.png|323]]
 

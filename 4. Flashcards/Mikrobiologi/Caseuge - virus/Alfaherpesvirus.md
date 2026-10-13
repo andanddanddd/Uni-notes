@@ -16,7 +16,7 @@ HSV 1 og 2
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
 <!--SR:!2026-10-14,16,290-->
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-25,43,290-->
 - Hvornår bliver $\alpha$-HPVs DNA lavet om til et episom?:: I neuroner (hviket deaktivere det)
 <!--SR:!2026-10-14,15,290-->
 - Hvor i neuronerne ender $\alpha$-HPV?:: [[Soma (neuron)]] (i mange tilfælde vil det være sensoriske ganglier)

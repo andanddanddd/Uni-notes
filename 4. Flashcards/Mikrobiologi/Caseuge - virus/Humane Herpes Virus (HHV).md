@@ -10,7 +10,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 
 
 - Hvilken form har kapslen på HPV?:: Ikosadral
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-28,46,290-->
 - Hvor stor er HPV?:: Stor (150-200 nm)
 <!--SR:!2026-10-16,16,290-->
 - Hvad bruger HPV som arvematriale?:: Linerært dsDNA

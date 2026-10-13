@@ -45,7 +45,7 @@
 - Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod
 <!--SR:!2026-10-27,14,290-->
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
 <!--SR:!2026-10-28,15,290-->
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
@@ -53,7 +53,7 @@
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
 <!--SR:!2026-10-29,16,290-->
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-24,11,270-->
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?

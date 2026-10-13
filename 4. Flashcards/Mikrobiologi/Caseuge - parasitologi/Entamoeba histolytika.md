@@ -5,7 +5,7 @@
 - Hvilken type protozoa er E. histolytika?:: [[Amoeba]]
 <!--SR:!2026-10-10,4,270-->
 - Hvordan smitter E. histolytika?:: Fæcal-oralt vira drikkevand eller mad'
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvor giver E. histolytika overordnet infektioner?:: Tarmen
 <!--SR:!2026-10-10,4,270-->
 - Hvordan diagnosticeres E. histolytiks?:: Mikroskopi, (eller antistiftest eller PCR)

@@ -45,7 +45,7 @@
 <!--SR:!2026-10-16,16,290-->
 ## Smitte og epidimologi
 - I hvilken gruppe er der flest tilfælde af HIV? (i den vestlige verden):: 70% af alle tilfælde kommer fra MSM
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-11,59,310-->
 - Hvor mange smittetilfælde kommer fra seksuel kontakt blandt heteroseksuelle?:: 24% i den vestlige verden (størstedelen af smittetilfælde i Afrika er herfra)
 <!--SR:!2026-10-15,16,290-->
 - Hvorfor tror man ikke at HIV smitter igennem myg og lignende?:: Man ser ikke "tilfældig" smitte af børn

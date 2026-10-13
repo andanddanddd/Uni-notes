@@ -11,6 +11,6 @@
 - Hvad kunne potentielt være med i virusklassifikation som ikke er?:: Hvilke celler en virus inficere
 <!--SR:!2026-12-11,64,310-->
 - Hvordan diagnosticeres virusinfektioner typisk?:: PCR og antigentest
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 
 ![[Pasted image 20260917100415.png]]![[Pasted image 20260917100447.png]]

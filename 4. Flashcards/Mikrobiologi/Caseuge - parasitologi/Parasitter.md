@@ -10,6 +10,6 @@
 <!--SR:!2026-10-10,4,270-->
 
 - Hvad er endoparasitter overordnet:: Parasitter ind i kroppen
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvad er ektoparasitter overordnet (med eksempler)?:: Parasitter udenfor kroppen dvs insekter eller andet der spiser os (lus, flåter)
 <!--SR:!2026-10-29,16,290-->

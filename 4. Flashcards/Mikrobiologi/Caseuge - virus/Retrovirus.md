@@ -11,7 +11,7 @@
 - Hvilken form har retroviras kapsel?:: Nærmest rund
 <!--SR:!2026-10-16,16,290-->
 - Hvad består retroviras arvematriale af?:: 2 stykker RNA der minder meget om mRNA (den har cap og poly-A-hale)
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-12,60,310-->
 
 ## Karakteristiske gener/proteiner
 - Hvad koder *pol* for?:: Revers transkripase og integrase (precursers)
@@ -23,6 +23,6 @@
 - Hvad koder *pro* for?:: En protease til at kløve *gag* og *pol*
 <!--SR:!2026-10-11,11,270-->
 - Hvad koder *gag* for?:: De strukturelle komponenter (precursers)
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-26,44,290-->
 - Hvad koder *env* for?:: Glykoproteiner (precurser)
 <!--SR:!2026-11-02,27,270-->

@@ -51,6 +51,6 @@ Smitevej
 <!--SR:!2026-10-12,14,290-->
 #### Vaccination
 - Hvad kendetegner HIB vccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-07,55,310-->
 - Hvornår gives HIB vaccinationen?:: 3,5 og 12 mdr
 <!--SR:!2026-12-15,63,310-->
