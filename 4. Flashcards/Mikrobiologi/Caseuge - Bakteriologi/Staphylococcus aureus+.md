@@ -14,7 +14,7 @@
 - Koagulase
 - Diverse enzymer
 - [[Hemolysin]]
-<!--SR:!2026-10-10,19,250-->
+<!--SR:!2026-12-18,66,270-->
 
 - Hvorfor er katalase en patogenesefaktor?:: $H_2O_2$ er essentielt for ROS-produktion
 <!--SR:!2026-11-25,57,310-->

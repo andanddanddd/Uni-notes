@@ -19,7 +19,7 @@
 - Hvilken receptor bruger rhinovirus til at komme ind i celler med?:: ICAM-1 eller LDLr
 <!--SR:!2026-10-21,16,290-->
 - Hvornår/hvordan slipper RNAet ud af kapslen?:: I endosomet
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-06,24,270-->
 - Replikation
 - Hvordan inducere rhinovirus symptomer under forkølelse?:: Det er primært immunresponset vi kan mærke, blandt andet  der sker
 <!--SR:!2026-10-21,16,290-->

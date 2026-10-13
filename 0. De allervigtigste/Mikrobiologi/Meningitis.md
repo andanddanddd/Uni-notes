@@ -66,7 +66,7 @@
 - Hvad kendetegner meningitis grundet [[Streptococcus pneumoniae+]]?:: Tidligere eller nuværende infektion med enten [[Otitis media]], [[Sinuitis]] eller [[Pneumoni]], meningitistriade
 <!--SR:!2026-10-15,16,290-->
 - Hvad kendetegner meningitis grundet [[Neisseria meningitidis+]]?:: Yngre pt med huduslet og normalt bevisthedsniveu
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-26,44,290-->
 - Hvad kendetegner meningitis grundet [[Listeria monocytogenes+]]?:: Gammel (>50 år), immundefekter, lang symptomvarighed
 <!--SR:!2026-11-09,31,270-->
 - Hvad kendetegner menigitis grundet [[Haemophilus influenzae type B+]]?:: Ældre, tidligere eller nuværende infektioner med [[Otitis media]] eller [[Sinuitis]], potentielt defekt i [[Basis cranii]]

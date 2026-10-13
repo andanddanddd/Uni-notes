@@ -40,7 +40,7 @@
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
 <!--SR:!2026-11-02,25,270-->
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP
-<!--SR:!2026-10-12,4,230-->
+<!--SR:!2026-10-26,13,250-->
 - Hvorfor er det svært at lave et godt adaptivt repons mod glykoproteinerne på HIV?:: Der er hypervariable regioner i *env* genet (der laver glykoproteinerne)
 <!--SR:!2026-10-16,16,290-->
 ## Smitte og epidimologi

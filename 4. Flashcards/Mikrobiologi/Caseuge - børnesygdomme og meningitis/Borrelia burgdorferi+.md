@@ -99,6 +99,6 @@ Hvordan genkendes den?
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har B. burgdorferi?
 - Hvordan forebygges B. burgdorferi?:: Være opmærksom på flåter og fjern dem hurtigt (man kan give profylaktisk antibiotika ved flåtbid)
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,57,310-->
 - Hvordan behandles B. burgdorferi?:: [[Doxycyklin]] (eller [[Ceftriaxon]] hvis det er langt)
 <!--SR:!2026-10-27,19,230-->

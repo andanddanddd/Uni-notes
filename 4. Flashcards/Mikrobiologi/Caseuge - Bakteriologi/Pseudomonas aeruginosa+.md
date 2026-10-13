@@ -6,7 +6,7 @@
 - Hvilken type cellevæg har P. aeruginosa?:: [[Gram-negative bakterier]]
 <!--SR:!2026-10-29,16,290-->
 - Hvilken form har P. aeruginosa?:: Stav
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvordan lejres P. aeruginosa?
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
 <!--SR:!2026-10-11,4,270-->
@@ -73,7 +73,7 @@ Hvordan genkendes den?
 <!--SR:!2026-10-10,1,190-->
 
 - Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvordan forebygges P. aeruginosa?
 - Hvordan behandles P. aeruginosa?:: [[Carbapenemer]], [[Aminoglykosider]] eller [[Flourquinoloner]]
 <!--SR:!2026-10-22,9,250-->

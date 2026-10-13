@@ -17,7 +17,7 @@
 - Hvor længe går der fra myggestik til man opdager malaria for P. falciparum?:: 7-30 dage
 <!--SR:!2026-10-10,4,270-->
 - Hvor længe går der fra myggestik til man opdager malaria for P. ovale?:: Der kan gå flere måneder
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvor længe går der fra myggestik til man opdager malaria for P. vivax?:: Der kan gå flere år
 <!--SR:!2026-10-10,4,270-->
 - Hvordan overlever for der bor i malariaområde?:: Der anses det som en børnesygdom hvorefter der opbygges immunitet

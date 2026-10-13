@@ -27,9 +27,9 @@
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med C. difficile?:: Antallet af smittede steg i år 2000 da den muterede
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-11,59,310-->
 - Hvordan smitter C. difficile?:: Gennem spore, særligt på hospitaler
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-11-21,39,290-->
 - Hvem får oftest en infektion med C. difficile?:: Kvinder oftere end mænd men det er primært ældre og indlagte
 <!--SR:!2026-10-13,15,290-->
 - Hvad kan øge en persons risiko for at blive inficeret med C. difficile?:: Specifike antibiotikabehandlinger

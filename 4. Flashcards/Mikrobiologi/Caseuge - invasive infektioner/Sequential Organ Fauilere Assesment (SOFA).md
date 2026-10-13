@@ -14,7 +14,7 @@
 - P-bilirubin (leverskade)
 - P-kreatinin (nyreskade)
 - B-trombocyttal (koagulation)
-<!--SR:!2026-10-10,7,250-->
+<!--SR:!2026-10-31,18,250-->
 
 ## Patofyiologi
 - Hvordan "starter" sepsis?:: Ved en normal infektion dvs der udskilles mange [[Proinflammatoriske cytokiner]] eks [[TNF-alfa]], [[IL-1]], [[IL-6]], [[IL-8]], [[IL-12]] og [[IL-18]]

@@ -12,7 +12,7 @@
 - Hvilken type cellevæg har C. perfringes?:: [[Gram-positive bakterier]]
 <!--SR:!2026-10-11,12,270-->
 - Hvilken form har C. perfringes?:: Stav
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvordan lejres C. perfringes?
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
 <!--SR:!2026-10-16,16,290-->

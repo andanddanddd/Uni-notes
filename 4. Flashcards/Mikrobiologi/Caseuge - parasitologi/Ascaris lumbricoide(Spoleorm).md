@@ -9,7 +9,7 @@
 - Hvad er forskellen på ascaris lumbricoide og ascaris suum?:: A. lumbricoide er i menneske mens A. suum er i grise
 <!--SR:!2026-10-10,4,270-->
 - Hvor mange grise er inficeret med spoleorm?:: 20%
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - På hvilket organ kan ses hvide pletter ved massiv infektion af spoleorm?:: Lever
 <!--SR:!2026-10-27,14,290-->
 - Hvordan diagnostocers spoleorm?:: Mikroskopi af æg i fæces

@@ -16,7 +16,7 @@ Ku celler der gar virus i sig kan phosporylere acyclovir (hvorfor rammer det ikk
 - Hvad bruger HPV som arvematriale?:: Linerært dsDNA
 <!--SR:!2026-10-10,12,270-->
 - Hvordan "slukkes" HPV?:: Dens DNA pakkes i nukleosomer
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Har HPV en lipidmembran?:: Ja
 <!--SR:!2026-10-12,14,290-->
 - Hvordan er infektionsforløbet overordnet af HPV?:: Primær infektion -> replikation -> latens -> reaktivering
