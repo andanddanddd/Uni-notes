@@ -11,7 +11,7 @@
 - Hvor lever M. tuberculosis normalt?
 - Hvilket oxidativt miljø lever M. tuberculosis bedst i?
 - Hvad kendetegner motiliteten af M. tuberculosis?:: Den er ikke motil
-<!--SR:!2026-10-12,5,230-->
+<!--SR:!2026-10-30,17,250-->
 
 ## Patogenese
 - Hvilke celler inficere M. tuberculosis?:: Makrofager

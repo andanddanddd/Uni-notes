@@ -5,7 +5,7 @@
 - Hvorfor dør mange protooer udenfor dyr?:: De udtørre
 <!--SR:!2026-10-29,16,290-->
 - Hvordan kan nogle protozoer overleve udenfro dyr?:: De skifter deres phenotype
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvad hedder de 4 typer af protozoa?
 ?
 - [[Amoeba]]

@@ -22,7 +22,7 @@
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
 <!--SR:!2026-10-14,16,290-->
 - Hvilke arter kan influenza D inficere?:: Køer og grise
-<!--SR:!2026-10-13,14,290-->
+<!--SR:!2026-12-09,57,310-->
 - Hvilke(n) undertype af influenza giver de værste infektioner?:: A (og B)
 <!--SR:!2026-10-14,15,290-->
 - Hvilken undertype af influenza ses oftest?:: A

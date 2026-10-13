@@ -13,7 +13,7 @@
 - Hvordan smitter malaria?:: Myg(gestik), deling af blod (blodtransfusion eller IV stofmisbrug)
 <!--SR:!2026-10-28,15,290-->
 - Hvad kendetegner myggestikket der giver malaria?:: Der er intet særligt ved det, det klør ikke ekstra
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvor længe går der fra myggestik til man opdager malaria for P. falciparum?:: 7-30 dage
 <!--SR:!2026-10-10,4,270-->
 - Hvor længe går der fra myggestik til man opdager malaria for P. ovale?:: Der kan gå flere måneder
@@ -38,11 +38,11 @@
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
 <!--SR:!2026-10-10,1,190-->
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-24,11,270-->
 - Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)
 <!--SR:!2026-10-29,16,290-->
 - Hvad sker med malaria efter 1-2 uger i leverceller?:: De bliver frigivet til blodbanen for de inficere erytrocytter
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt
 <!--SR:!2026-10-11,4,270-->
 - Hvordan kommer malaria ud af erytrocytter?:: Lyse
@@ -54,7 +54,7 @@
 - Hvorfor sker cyklisk feber ved malaria?:: Alle blodceller lyseres på en gang, dermed udsendes mange parasitter og dermed mange PAMPs
 <!--SR:!2026-10-11,4,270-->
 - Hvordan beskytter genet for [[Seglcelleanæmi]] mod malaria?:: Det bidrager til at inficerede celler opdages og dræbes
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 
 ## Symptomer og komplikationer
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)

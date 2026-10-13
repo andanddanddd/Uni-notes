@@ -10,7 +10,7 @@
 - Hvor hurtigt deler clamydia sig?:: Det tager op til 40 timer
 <!--SR:!2026-11-29,55,310-->
 - Hvad kaldes strukturen af mange clamydiaholdige endosomer der har fusioneret?:: Inklusion
-<!--SR:!2026-10-11,12,230-->
+<!--SR:!2026-11-20,38,250-->
 
 ## Symptomer/komplikationer
 - Hvad kendetegenr det udflåd der kan komme ud af penis ved en C. trachomatis infektion?:: Det er serøst

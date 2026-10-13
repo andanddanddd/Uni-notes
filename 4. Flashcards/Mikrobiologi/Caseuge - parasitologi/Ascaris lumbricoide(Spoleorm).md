@@ -5,7 +5,7 @@
 - Hvor sker flest infektioner med spoleorm?:: Tropiske og subtropiske områder
 <!--SR:!2026-10-10,4,270-->
 - Hvordan smitter spoleorm?:: Indtagelse af dens æg
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvad er forskellen på ascaris lumbricoide og ascaris suum?:: A. lumbricoide er i menneske mens A. suum er i grise
 <!--SR:!2026-10-10,4,270-->
 - Hvor mange grise er inficeret med spoleorm?:: 20%

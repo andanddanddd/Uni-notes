@@ -27,14 +27,14 @@
 - Hvad er typisk det første symptom på stivkrampe?:: Låst kæbe
 <!--SR:!2026-10-14,16,290-->
 - Hvordan dør man af stivkræmpe?:: paralyseret respirationsmuskulatur
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,57,310-->
 ## Forebyggelse og behandling
 - Hvordan forebygges infektion med C. tetani overordnet?:: Vaccine
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvad kendetegner C. tetani vaccinen?:: Toksidvaccine ([[Subunitvacciner]])
 <!--SR:!2026-10-15,16,290-->
 - Hvordan behandles en infektion med C. tetani?:: [[Passiv immunisering]], antitoksin, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-11-22,40,290-->
 
 
 

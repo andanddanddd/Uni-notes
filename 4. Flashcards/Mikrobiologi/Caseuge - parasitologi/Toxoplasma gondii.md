@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken sygdom giver T. gondii?:: [[Toxoplasmose]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-25,12,270-->
 - Hvilken sygdom giver toxoplasma gondii?:: [[Haresyge]]
 <!--SR:!2026-10-18,9,250-->
 - Hvilken type patogen er T. gondii?:: [[Protozoa]]

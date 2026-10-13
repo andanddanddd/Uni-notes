@@ -40,7 +40,7 @@ Hvordan genkendes den?
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har C. diphtheriae?
 - Hvordan forebygges C. diphtheriae?:: Vaccine
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvordan behandles C. diphtheriae?
 - Hvordan forebygges C. diphtheriae overordnet?
 #### Vaccine

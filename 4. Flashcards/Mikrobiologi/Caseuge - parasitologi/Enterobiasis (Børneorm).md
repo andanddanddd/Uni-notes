@@ -7,9 +7,9 @@
 - Hvem bliver oftest smittet af børneorm?:: Børn i alderen 5-11
 <!--SR:!2026-10-10,4,270-->
 - Hvilke symptomer giver børnorm?:: Perinal kløe (oftest asymptomatisk)
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvornår ses særligt kløe ved børneorm?:: Om natten (der bliver det ikke skjult, hvis det klør så klør vi)
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvordan smitter børneorm?:: Ofte autoinfektion (smittet af sin egen tidligere børneorm) ellers fæcal-oralt
 <!--SR:!2026-10-10,4,270-->
 - Hvordan diagnosticeres børneorm?:: Mikroskopi af æg eller ved fund af orme

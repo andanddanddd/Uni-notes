@@ -7,7 +7,7 @@
 - Har RS-virus en lipidmembran?:: Ja
 <!--SR:!2026-10-25,16,290-->
 - Hvilken type arvematriale bruger RS-virus:: RNA-
-<!--SR:!2026-10-13,8,250-->
+<!--SR:!2026-11-11,29,270-->
 - Hvilken struktur har RS-virus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere RS-virus?:: EPitelceller i luftveje (det spreder sig ikke væk derfra)

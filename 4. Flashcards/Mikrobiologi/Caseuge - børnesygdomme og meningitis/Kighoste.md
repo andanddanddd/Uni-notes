@@ -3,7 +3,7 @@
 - Hvilken bakterie giver kighoste?:: [[Bordetella pertussis+]]
 <!--SR:!2026-10-31,23,250-->
 - Hvad kaldes hosten i kighoste?:: [[Paroxysms]]
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-12,60,310-->
 
 #### Stadie 1
 - Hvad er symptomerne i stadie 1 af kighoste?:: Det ligner forkølelse (snottet, tårer og hoste)
@@ -19,7 +19,7 @@
 <!--SR:!2026-10-15,16,290-->
 #### Stadie 3
 - Hvad er symptomerne i stadie 3 af kighoste?:: Her falder [[Paroxysms]] i hyppighed og sværhedsgrad
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-27,45,290-->
 - Hvor længe varer stadie 3 af kighoste?:: 2-3 uger (op til 6 mdr ifølge bogen)
 <!--SR:!2026-10-13,15,290-->
 - Hvad kaldes stadie 3 af kighoste?:: Rekonvalescens stadie:
