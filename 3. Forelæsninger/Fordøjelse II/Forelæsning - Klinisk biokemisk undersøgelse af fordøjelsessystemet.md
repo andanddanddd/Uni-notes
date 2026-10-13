@@ -2,6 +2,8 @@
 
 ![[Evaluering af laboratorietest]]
 
+![[Biokemiske test af Fordøjelseskanalen]]
+
 Svaret på slide 3 er dem alle
 	Pointen er at en enkel test ikke er nok til en diagnose (de kan jo også tage fejl)
 
