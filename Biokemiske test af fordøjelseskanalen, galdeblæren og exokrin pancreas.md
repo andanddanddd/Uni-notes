@@ -11,3 +11,9 @@
 - [[Bilirubin]]
 - [[Leukocytter]]
 - [[Protrombin tid]]
+
+- Hvilke 2 biokemiske test bruges til diagnostik af exokrine pancreas?
+?
+- [[Amylase]]
+- [[Elastase]]
+

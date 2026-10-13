@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protrombin tid.md",
+                "file": "4. Flashcards/Farmakologi/ALAT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Protrombin tid"
+              "title": "ALAT"
             }
           }
         ],
@@ -93,18 +93,6 @@
             }
           },
           {
-            "id": "b2bfa2a3af028966",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Introduktion til bevægeapparatet – DCA"
-            }
-          },
-          {
             "id": "617b3e2df76599f4",
             "type": "leaf",
             "state": {
@@ -117,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -307,15 +295,22 @@
   },
   "active": "f431678ed25c42d0",
   "lastOpenFiles": [
-    "Biokemiske test af fordøjelseskanalen og dens accesoriske kirtler.md",
+    "Biokemiske test af leveren.md",
+    "ASAT.md",
+    "4. Flashcards/Farmakologi/ALAT.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
+    "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf",
+    "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
+    "Biokemiske test af fordøjelseskanalen, galdeblæren og exokrin pancreas.md",
+    "Elastase.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Amylase.md",
     "Protrombin tid.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Bilirubin.md",
     "F-calprotectin.md",
     "4. Flashcards/Fordøjelse II/Fecal occult blodtest (FOBT).md",
-    "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "Urea udåndingstest.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Urea.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
     "4. Flashcards/Fordøjelse II/Diagnostik af leversygdomme.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
     "Prediktive værdier.md",
@@ -329,18 +324,11 @@
     "4. Flashcards/Fordøjelse II/Cholesterolsten.md",
     "4. Flashcards/Fordøjelse II/Sygdomme i galdegangene.md",
     "4. Flashcards/Fordøjelse II/Cholangitis 1.md",
-    "4. Flashcards/Fordøjelse II/Cholangitis.md",
-    "4. Flashcards/Fordøjelse II/Pancreatitis.md",
-    "4. Flashcards/Fordøjelse II/Akut pancreatitis 1.md",
-    "4. Flashcards/Fordøjelse II/Akut pancreatitis.md",
-    "1. Fag/Bevægeapparatet.md",
-    "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/Introduktion til bevægeapparatet – DCA.pdf",
     "Externe dokumenter/Bevægeapparatet",
     "Externe dokumenter/New folder",
     "Externe dokumenter/Introduktion til bevægeapparatet – DCA.pdf",
     "Introduktion til bevægeapparatet – DCA.pdf",
-    "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012111817.png",
     "2. Caseuger/Bevægeapparatet",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012084057.png",

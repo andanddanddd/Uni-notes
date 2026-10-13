@@ -2,7 +2,9 @@
 
 ![[Evaluering af laboratorietest]]
 
-![[Biokemiske test af fordøjelseskanalen og dens accesoriske kirtler]]
+![[Biokemiske test af fordøjelseskanalen, galdeblæren og exokrin pancreas]]
+
+![[Biokemiske test af leveren]]
 
 Svaret på slide 3 er dem alle
 	Pointen er at en enkel test ikke er nok til en diagnose (de kan jo også tage fejl)
