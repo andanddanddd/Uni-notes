@@ -13,6 +13,10 @@
 
 ## Etiologi
 - Hvordan kan genetik påvirke IBD?:: Det er en multigensygdom, dvs man kan være disponeret men selv hvis begge forældre har sygdommen er man ikke sikker på at få det
+- Hvilken af de 2 typer af IBD har den største genetisk risikofaktor?:: [[Crohns sygdom]]
+- Hvordan påvirker rygning IBD?:: Det kan mindske symptomer fra [[Colitis ulcerosa (UC)]] men det forværre [[Crohns sygdom]]
+- Hvilken effekt har appendektomi på IBD?:: Det beskytter imod [[Colitis ulcerosa (UC)]] men har ingen effekt på [[Crohns sygdom]]
+- Hvilken effekt har høj hygiejne i barndommen på risikoen for udvikling af IBD?:: Påvirkningen på [[Colitis ulcerosa (UC)]] kendes ikke men det øger risikoen for [[Crohns sygdom]]
 - Hvorfor er rygning, dårlig kost og antibiotika risikofaktorer for IBD?:: det ødelægger tarmfloraen
 - Hvilke risikofaktorer er der for udvikling af IBD?
 ?
@@ -22,10 +26,15 @@
 
 - Hvad er de 4 faktorer der skal spille sammen til udviklingen af IBD?
 ?
-- 
+- Gener
+- Miljø og atrmflora
+- Tynde tarmbarierre
+- Immunforsvaret (for voldsomt angreb)
+
 ![[Pasted image 20261013113059.png]]
-## Symptomer
+## Klinisk præsentation
 - Hvad er imperiøs træng?:: Følelsen af at skulle på toilet NU (eller slet ikke kunne holde sig)
+- Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ve
 ## Komplikationer
 - Hvilke komplikationer kan ubehandlet IBD give?
 ?
@@ -36,8 +45,7 @@
 - [x] Rammer omkring 20-årige og igen ved 50-årsalderen
 - [x] Man dør ikke af det, dvs både incidens og prævalens stiger (der er ikke flere resurcer)
 - [x] Det skal behandles eller er der øget ririsko for kræft
-
-Imperiøs træng = følelse af at skulle på toilet NU (eller slet ikek kunne holde det)
+- [x] Imperiøs træng = følelse af at skulle på toilet NU (eller slet ikek kunne holde det)
 
 Husk at maneg af symptomerne er de samme som ved bakterier
 
