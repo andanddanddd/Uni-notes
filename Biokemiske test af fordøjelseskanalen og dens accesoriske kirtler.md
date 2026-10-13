@@ -5,3 +5,9 @@
 - [[Urea udåndingstest]]
 - [[Fecal occult blodtest (FOBT)]]
 - [[F-calprotectin]]
+
+- Hvilke 3 biokemiske test bruges til diagnostik af galdeblæren?
+?
+- [[Bilirubin]]
+- [[Leukocytter]]
+- [[Protrombin tid]]
