@@ -11,7 +11,7 @@
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
 <!--SR:!2026-10-11,4,270-->
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-24,11,270-->
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
 <!--SR:!2026-10-24,11,270-->
 - Hvad kendetegner P. aeruginosa på en dyrkning?:: Den er klistret og grøn (ikke pga hemolyse)

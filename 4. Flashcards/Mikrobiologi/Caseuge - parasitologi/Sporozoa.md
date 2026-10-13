@@ -3,7 +3,7 @@
 - Hvad kendetegner sporozoa?:: De har ingen bevægelsesorganer
 <!--SR:!2026-10-10,4,270-->
 - Eksempel på sportozoa?:: [[Malaria+]] og [[Toxoplasma gondii]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvor deler sporozoa sig henne?:: Kun intracellulært
 <!--SR:!2026-10-11,4,270-->
 

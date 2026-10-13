@@ -9,7 +9,7 @@
 <!--SR:!2026-10-16,7,250-->
 ## Smitte
 - Hvor forekommer malaria?:: Primært Afrika men også det norlige Sydamerika, Asien og nordlige Oceanien
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvordan smitter malaria?:: Myg(gestik), deling af blod (blodtransfusion eller IV stofmisbrug)
 <!--SR:!2026-10-28,15,290-->
 - Hvad kendetegner myggestikket der giver malaria?:: Der er intet særligt ved det, det klør ikke ekstra
