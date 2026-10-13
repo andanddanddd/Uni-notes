@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemiske test af fordøjelseskanalen, galdeblæren og exokrin pancreas.md",
+                "file": "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Biokemiske test af fordøjelseskanalen, galdeblæren og exokrin pancreas"
+              "title": "Inflammatory bowel disease (IBD)"
             }
           }
         ],
@@ -78,6 +78,18 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "7ad5605fd1b48a94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026"
             }
           },
           {
@@ -104,7 +116,8 @@
               "title": "Slides - Kliniske biokemiske undersøgelser 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,8 +305,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "f431678ed25c42d0",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
+    "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
     "Biokemiske test af fordøjelseskanalen, galdeblæren og exokrin pancreas.md",
     "Pasted image 20261013105235.png",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
@@ -323,7 +338,6 @@
     "4. Flashcards/Fordøjelse II/Analytisk varians.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Choleliathitis.md",
     "4. Flashcards/Fordøjelse II/Pigmentsten 1.md",
-    "4. Flashcards/Fordøjelse II/Pigmentsten.md",
     "Externe dokumenter/Bevægeapparatet/Introduktion til bevægeapparatet – DCA.pdf",
     "Externe dokumenter/Bevægeapparatet",
     "Externe dokumenter/New folder",
@@ -332,7 +346,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012111817.png",
     "2. Caseuger/Bevægeapparatet",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012084057.png",
-    "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012083148.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008133923.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",
