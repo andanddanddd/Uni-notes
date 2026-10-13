@@ -6,6 +6,7 @@
 - Hvor meget paracetamol oxideres under normale forhold?:: Få procent
 <!--SR:!2026-10-17,4,270-->
 - Hvordan biotransformeres paracetamol primært?:: Sulfatering og [[Glukuronidering]]
+<!--SR:!2026-10-17,4,270-->
 - Hvor meget paracetamol skal typisk bruges til en dødelig forgiftning?:: >25g (10-15 ifølge forelæsning)
 <!--SR:!2026-10-17,4,270-->
 - Hvad øger risikioen for paracetamolforgiftning?
@@ -13,6 +14,7 @@
 - Ethanol
 - Antiepileptika
 - Dårlig ernæringstilstand
+<!--SR:!2026-10-17,4,270-->
 
 - Hvorfor giver dårlig ernæringstilstand øget risiko for paracetamolforgiftning?:: Der vil være mindre glutation til at fjerne NAPQI
 <!--SR:!2026-10-17,4,270-->

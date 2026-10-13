@@ -12,6 +12,7 @@
 - Hvilket type steatose forekommer hyppigst?:: Makroskopisk
 <!--SR:!2026-10-16,3,250-->
 - Hvordan ses makroskopisk steatose mikroskopisk?:: Store fedtdråber der presser kernerne ud til cellemembranen
+<!--SR:!2026-10-17,4,270-->
 - Hvordan ses mikroskopisk steasose på et mikrosop?:: Smp fedtdråber inde i hepatocytterne
 <!--SR:!2026-10-17,4,270-->
 

@@ -9,7 +9,7 @@
 - [[Viral hepatitis]]
 - Overdose af lægemidler/euforiserende stoffer/alkohol
 - [[Metabolic dysfunction-associated steatohepatitis (MASH)]]
-<!--SR:!2026-10-12,7,250-->
+
 ## Klinisk præsentation
 - Hvilke symptomer og kliniske fund har akut leversygdom?
 ?
@@ -19,7 +19,7 @@
 - [[Hepatomegali]]
 - Lys afføring
 - Mørk urin
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-06,24,270-->
 
 ## Patofysiologi
 - Hvorfor bliver urin mørkt under akut leversygdom?:: Ekstra [[Urobilin]] i urin eftrsom det ikke kan udskilles med fæces pga evt ebstruktion
