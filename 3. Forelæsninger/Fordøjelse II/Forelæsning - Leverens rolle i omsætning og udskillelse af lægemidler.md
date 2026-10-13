@@ -8,3 +8,5 @@ Hjernen i CYP.enzymet reduceres under oxidationen af lægemidlet (midelrtidigt)
 ![[Typer af bivirkninger]]
 
 ![[Paracetamol forgiftning]]
+
+![[First pass metabolisme]]
