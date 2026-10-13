@@ -18,11 +18,13 @@
 - [[Ascites]]
 - Kronisk [[Leverinsufficiens]]
 - [[Hepatocellulær karcinom]]
+<!--SR:!2026-10-16,3,250-->
 
 ## Patofysiologi
 - Hvor i leveren starter fibrose?:: Omkring [[Glissons triade]]
 <!--SR:!2026-10-21,16,290-->
 - Hvad kendetegner leveren størrelse under cirrose og hvorfor?:: Den starter forstørret men skrumper
+<!--SR:!2026-10-17,4,270-->
 - Hvad er de 4 trin af cirrose?
 ?
 - Levercellenekrose (kronisk/gentagen nekrose)
@@ -33,6 +35,7 @@
 - Hvad er brofibroser?:: Fibrose mellem glissons triade og centralvenen
 <!--SR:!2026-10-17,4,270-->
 - Hvorfor er brofibroser skadelige?:: De ødelægger blodflow
+<!--SR:!2026-10-17,4,270-->
 - Hvad er regenerationsnoduli?:: "nye" leverceller der er uorganiseret
 ## Diagnose
 

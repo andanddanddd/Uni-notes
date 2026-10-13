@@ -17,7 +17,7 @@
 - Hvad er den mest almindelige årsag til ulcus?:: [[Helicobacter pylori]]-infektion
 <!--SR:!2026-10-27,14,290-->
 - Hvilken lægemiddelgruppe øger risikoen for peptisk ulcus?:: [[NSAID]]
-<!--SR:!2026-10-13,4,270-->
+<!--SR:!2026-10-27,14,290-->
 
 
  ![[Ulcusmidler]]

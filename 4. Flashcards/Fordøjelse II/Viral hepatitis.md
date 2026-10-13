@@ -8,8 +8,9 @@
 - Apoptotiske celler (acidofile evt med små mærke kerner)
 - Lymfocytter
 - Mange [[Kupfer celler]]
-- Akkumulation af galdesalte 
+- Akkumulation af galdesalte
 - Evt [[Steatose]]
+<!--SR:!2026-10-14,1,230-->
 
 ![[Hepatitis A]]
 

@@ -1,8 +1,9 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er en varice?:: Abnormt udvidet og snoet vene
+<!--SR:!2026-10-16,3,250-->
 - Definer øsofagusvarice?:: Dilaterede vener i distale øsefagus
-<!--SR:!2026-10-12,3,250-->
+<!--SR:!2026-10-25,12,270-->
 - Hvor i øsofagus sker varicer?:: Distale ende
 <!--SR:!2026-10-28,15,290-->
 - Hvad er overordnet etiologien bag øsofagusvericer?:: [[Cirrose]] fører til mere tryk i [[V. portae]] det tryk fortsætter opad til venerne fra mavesækken og øsefagus, dermed udvider de sig og kan springe

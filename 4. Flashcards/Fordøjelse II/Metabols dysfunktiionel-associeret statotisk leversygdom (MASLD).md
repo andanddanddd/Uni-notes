@@ -1,6 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er MASLD overordnet?:: [[Steatose]] der ikke er forårsaget af alkohol
+<!--SR:!2026-10-16,3,250-->
 - Hvor mange danskere har MASLD?:: 25%
 ## Etiologi
 - Hvilke risikofaktorer har MASLD?
@@ -21,3 +22,4 @@
 
 ## Behandling
 - Hvordan behandles MASLD overordnet?:: Livsstilsændringer (og behandling af diabetes)
+<!--SR:!2026-10-17,4,270-->

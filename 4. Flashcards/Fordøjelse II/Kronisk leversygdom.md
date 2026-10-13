@@ -57,5 +57,6 @@
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor laves typisk en biopsi ved kronisk leversygdom selvom det ikke bruges meget til af finde etiologien?:: Det bruges til sværhedsgrad og valg af behandling
 - Hvorfor er det vigtigt at kunne kende forskel på [[Alkoholrelateret leversygdom]] og [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]?:: De skal behandles forskelligt
+<!--SR:!2026-10-17,4,270-->
 
 ![[Pasted image 20260930144054.png]]

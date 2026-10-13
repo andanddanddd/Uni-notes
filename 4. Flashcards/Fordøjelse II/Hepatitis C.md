@@ -27,6 +27,7 @@ Mutere meget
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis C?:: Enten ved påvisning af antistoffer eller antigener
+<!--SR:!2026-10-17,4,270-->
 
 ## Forebyggelse og behandling
 

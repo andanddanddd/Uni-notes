@@ -17,7 +17,7 @@
 ![[Oclussion - Galdevejene]]B:: Corpus vesicae biliaris
 <!--SR:!2026-10-28,15,290-->
 ![[Oclussion - Galdevejene]]C:: Fundus vesicae biliaris
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-29,16,290-->
 ![[Oclussion - Galdevejene]]D:: Ductus hepaticus dxt/sin
 <!--SR:!2026-10-28,15,290-->
 ![[Oclussion - Galdevejene]]E:: Ductus hepaticus communis

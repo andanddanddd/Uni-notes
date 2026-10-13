@@ -1,7 +1,9 @@
 #flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad hedder indskæringen der deler leveren i 2 lapper?:: [[Incisura ligamenti teretis]]
+<!--SR:!2026-10-14,1,230-->
 - Hvad hedder tilhæftningen til perotoneum?:: [[Lig. falciforme hepatis]]
+<!--SR:!2026-10-14,1,230-->
 - Hvad hedder de 2 lober?
 ?
 - Lobus hepatis dxt
@@ -9,3 +11,4 @@
 <!--SR:!2026-10-17,4,270-->
 
 - Hvorfor giver det mening at inddele leveren i 8 sektioner?:: De har hver deres blod/galde forsyning uden anastomoser
+<!--SR:!2026-10-17,4,270-->

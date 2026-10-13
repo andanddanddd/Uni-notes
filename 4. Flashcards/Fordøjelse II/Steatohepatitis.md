@@ -1,6 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er de 2 typiske former for steatohepatitis?:: [[Metabolic dysfunction-associated steatohepatitis (MASH)]] og [[Alkohol associeret steatohepatitis (ASH)]]
+<!--SR:!2026-10-17,4,270-->
 - Hvordan ser statohepatitis ud histologisk?
 ?
 - Levercele-balooning

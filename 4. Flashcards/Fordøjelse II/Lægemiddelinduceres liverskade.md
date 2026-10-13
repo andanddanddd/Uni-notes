@@ -7,3 +7,4 @@
 - Celleskade
 - Skade leverens evne til at producere eller secenere galdesalte
 ![[Pasted image 20260930152407.png]]
+<!--SR:!2026-10-16,3,250-->

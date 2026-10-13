@@ -16,6 +16,7 @@
 ## Smitte og epidemiologi
 - Hvem smittes oftest af hepatitis?:: Børn og unge
 - Hvor "lever" hepatitis A normalt?:: Kun mennesker
+<!--SR:!2026-10-17,4,270-->
 - Hvordan smitter hepatitis A?:: Fæcal-oralt
 <!--SR:!2026-10-19,14,290-->
 
@@ -36,6 +37,7 @@
 <!--SR:!2026-10-21,16,290-->
 - Hvilken komplikation kan hepatitis A have?:: Akut [[Leverinsufficiens]]
 - Hvad kendetegner symptomer og komplikation på hepatitis i børn der fik det vertikalt?:: De får ikke symptomer men det bliver kronisk
+<!--SR:!2026-10-17,4,270-->
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis A?:: IgM antistoffer i serum

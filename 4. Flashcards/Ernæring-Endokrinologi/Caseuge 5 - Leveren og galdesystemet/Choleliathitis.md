@@ -3,11 +3,11 @@
 cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 - Hvad er choleliathitis?:: Gladesten
-<!--SR:!2026-10-12,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvad kaldes det når en galdesten sættes fast i halsen af galdeblæren? (collum vesica biliaris):: [[Cholecystitis]]
 <!--SR:!2026-10-29,16,290-->
 - Hvad kaldes tilstanden når galdesten sætter sig fast udenfor galdeblæren?:: [[Choledocholithiasis]]
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-24,11,270-->
 - Hvad kaldes de 2 typer af galdesten?
 ?
 - [[Cholesterolsten]]

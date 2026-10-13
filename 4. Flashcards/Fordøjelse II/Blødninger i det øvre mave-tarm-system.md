@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvor akut er blødninger i øvre GI?:: Typisk meget akut
-<!--SR:!2026-10-13,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvad er de hyppigste etiologier til blødning i øvre GI?
 ?
 1. [[Ulcers]]

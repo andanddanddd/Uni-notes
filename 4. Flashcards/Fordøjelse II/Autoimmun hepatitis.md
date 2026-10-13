@@ -18,3 +18,4 @@
 
 ## Behandling
 - Hvordan behandles autoimmun hepatitis overordnet?:: Immunsupresiv behandling
+<!--SR:!2026-10-17,4,270-->
