@@ -5,4 +5,4 @@
 - Overmætning af [[Kolesterol]]
 - Nedsat mobilitet af [[Galdeblæren]]
 - Øget mucin sekretion
-<!--SR:!2026-10-10,2,230-->
+<!--SR:!2026-10-14,1,210-->

@@ -6,8 +6,8 @@
 - [[Analytisk varians]]
 - [[Sensitivitet og specificitet]] (det her jeg er nået til)
 - Klinisk kontekst
-<!--SR:!2026-10-13,4,270-->
+<!--SR:!2026-10-28,15,290-->
 
 
 - Hvordan er referanceintervallet lavet?:: Taget udfra hvad raske mennesker hvor 2,5% med højeste og laveste værdier er taget fra![[Pasted image 20261008133923.png]]
-<!--SR:!2026-10-13,4,270-->
+<!--SR:!2026-10-29,16,290-->

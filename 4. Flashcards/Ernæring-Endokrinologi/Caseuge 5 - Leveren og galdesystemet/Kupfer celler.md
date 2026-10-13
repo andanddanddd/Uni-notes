@@ -5,4 +5,4 @@
 - Hvad gør kupferceller?:: Nedbryder [[Erytrocytter]], blodbårene bakterier og vira
 <!--SR:!2026-10-17,12,270-->
 - Hvor er kupfer celler?:: I sinussoidlumen [[Sinussoider (leveren)]]
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-10-31,18,250-->
