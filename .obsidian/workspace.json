@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Endoskopi.md",
+                "file": "4. Flashcards/Fordøjelse II/Ultralyd af abdomen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endoskopi"
+              "title": "Ultralyd af abdomen"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/5/Fordøjelsessystemet-II",
+                "query": "IBD",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,6 +259,11 @@
   "lastOpenFiles": [
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
     "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
+    "4. Flashcards/Fordøjelse II/Capsulær endoskopi.md",
+    "4. Flashcards/Fordøjelse II/Colonskopi.md",
+    "4. Flashcards/Fordøjelse II/Blødninger i det nedre mave-tarm-system.md",
+    "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
+    "4. Flashcards/Fordøjelse II/Endoskopi.md",
     "Anti-diarre lægemidler.md",
     "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika).md",
@@ -267,13 +272,11 @@
     "4. Flashcards/Farmakologi/First pass metabolisme.md",
     "4. Flashcards/Farmakologi/Paracetamol forgiftning.md",
     "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
-    "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
     "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
     "4. Flashcards/Fordøjelse II/Crohns sygdom.md",
     "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
     "Fistler.md",
     "Erytema nodusum.md",
-    "4. Flashcards/Fordøjelse II/Colonskopi.md",
     "Pasted image 20261013120557.png",
     "Primær skleroserende cholangitis.md",
     "Pasted image 20261013120306.png",
@@ -289,10 +292,7 @@
     "Skabeloner/Skapelon - Bakterier.md",
     "Pasted image 20261013114807.png",
     "Pasted image 20261013113059.png",
-    "Biokemiske test af fordøjelseskanalen, galdeblæren og exokrin pancreas.md",
     "Pasted image 20261013105235.png",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
-    "Biokemiske test af leveren.md",
     "Pasted image 20261013105220.png",
     "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "Externe dokumenter/Bevægeapparatet/Slides - Introduktion til bevægeapparatet – DCA.pdf",

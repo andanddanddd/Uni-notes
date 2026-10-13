@@ -9,14 +9,14 @@
 - Hvilke risikofaktorer giver øget risiko for blødning specifikt i nedre GI?
 ?
 - [[Obstipation]]
-- [[IBD]]
+- [[Inflammatory bowel disease (IBD)]]
 <!--SR:!2026-10-25,12,270-->
 
 - Hvad er de hyppigste etiologier til nedre GI blødning?
 ?
 - [[Divertikler]]
 - [[Hæmorider]]
-- [[IBD]]
+- [[Inflammatory bowel disease (IBD)]]
 - [[Arteriovenøs malfunktion]]
 - Cancer
 <!--SR:!2026-10-15,2,230-->
