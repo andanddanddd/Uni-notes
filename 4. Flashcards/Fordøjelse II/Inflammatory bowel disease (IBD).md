@@ -34,11 +34,18 @@
 ![[Pasted image 20261013113059.png]]
 ## Klinisk præsentation
 - Hvad er imperiøs træng?:: Følelsen af at skulle på toilet NU (eller slet ikke kunne holde sig)
+- Hvilke sygdomme kan IBD ligne?:: Bakterielle infektioner
 - Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ved [[Colitis ulcerosa (UC)]] men kan også forekomme ved [[Crohns sygdom]] 
-## Komplikationer
-- Hvilke komplikationer kan ubehandlet IBD give?
+- Hvilke ekstraintestiane manifestationer kan IBD give?
 ?
-- Kræft
+- [[Pyoderma gangrenosum]]
+- [[Erytema nodusum]]
+- [[Episcleritis]] og [[Uveit]]
+- Ledsmerter
+- [[Primær skleroserende scholangitis]]
+## Komplikationer
+- Hvilke komplikationer kan ubehandlet IBD give?:: Kræft
+
 
 - [x] 2/3 IBD patienter er colitis mens 1/# er krohns
 - [x] Kvinder rammes marginalt mere end mænd
@@ -47,7 +54,9 @@
 - [x] Det skal behandles eller er der øget ririsko for kræft
 - [x] Imperiøs træng = følelse af at skulle på toilet NU (eller slet ikek kunne holde det)
 
-Husk at maneg af symptomerne er de samme som ved bakterier
+
+
+- [x] Husk at maneg af symptomerne er de samme som ved bakterier
 
 Kolitis giver ikke malarbsorbsion men krohns gør
 	Eftersomm kolitis ikke rammer tyndtarmen

@@ -5,12 +5,24 @@
 Se [[Inflammatory bowel disease (IBD)]]
 
 ## Klinisk præsentation
+- Hvilke symptomer har crohns?
+?
+- Mavesmerter
+- Diarre (oftest uden synligt blod)
+- Vægttab
+- Træthed
+- Feber
+- Perianale smerter (fistler og abcesser)
+- Obstruktive symptomer
+
+- Hvorfor er symptombilledet ved crohns mere varieret end ved [[Colitis ulcerosa (UC)]]?:: Inflammationen kan være forskellige steder
 
 ## Komplikationer
 - Hvilke komplikationer kan crohns lede til?
 ?
 - [[Stenoser]]
 - [[Fistler]]
+- [[Dysplasi]]
 - Abcesser
 - Cancer
 
