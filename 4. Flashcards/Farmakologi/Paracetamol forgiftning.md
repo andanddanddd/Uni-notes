@@ -1,6 +1,7 @@
 #flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad hedder det "farlige" biprodukt af elimination ad [[Paracetamol]]?:: [[NAPQI]]
+<!--SR:!2026-10-17,4,270-->
 
 - Hvor meget paracetamol oxideres under normale forhold?:: Få procent
 <!--SR:!2026-10-17,4,270-->
@@ -14,11 +15,14 @@
 - Dårlig ernæringstilstand
 
 - Hvorfor giver dårlig ernæringstilstand øget risiko for paracetamolforgiftning?:: Der vil være mindre glutation til at fjerne NAPQI
+<!--SR:!2026-10-17,4,270-->
 - Hvad bruges som modgift mod paracetamolforgiftning?:: [[N-acetylcystein]]
 <!--SR:!2026-10-17,4,270-->
 - Hvad kan måles i blodet ved paracetamolforgiftning? (udover paracetamol):: [[ALAT]] (leverenzymer)
+<!--SR:!2026-10-17,4,270-->
 - Hvilken reationsoraden følger sulfatering af paracetamol?:: 0. orden (det bliver hurtigt mættet) [[Metabolismen af lægemidler]]
 <!--SR:!2026-10-17,4,270-->
 - Hvilken reaktionsorden følger glukuronidering af paracetamol?:: 0. orden (det bliver hurtigt mættet) [[Metabolismen af lægemidler]]
 <!--SR:!2026-10-17,4,270-->
 - Hvilken reaktionsorden følger oxidation af paracetamol?:: 1. orden [[Metabolismen af lægemidler]]
+<!--SR:!2026-10-17,4,270-->

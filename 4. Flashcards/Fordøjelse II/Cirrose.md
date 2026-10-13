@@ -7,6 +7,7 @@
 - Hvorfor sker mikronodulær cirrose typisk?:: Kronisk alkoholoverforbrug
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor sker amkronodulær cirrose typisk?:: Videreudvikling af mikronodulær cirrose eller grundet viral hepatitis
+<!--SR:!2026-10-17,4,270-->
 
 
 ## Klinisk præsentation
@@ -31,6 +32,7 @@
 - Ito-celler laver kollagen for helling
 - Dannelse af brofibroser
 - Dannelse af regenrationsnoduli
+<!--SR:!2026-10-14,1,230-->
 
 - Hvad er brofibroser?:: Fibrose mellem glissons triade og centralvenen
 <!--SR:!2026-10-17,4,270-->

@@ -17,9 +17,11 @@
 - [[Asterixis]]
 - Coma
 ## Komplikationer
+<!--SR:!2026-10-17,4,270-->
 
 ## Patofysiologi
 - Hvorfor sker hepatisk encefalopati?:: Toksiske stoffer ophobes i kroppen (særligt ammonium og [[GABA]])
+<!--SR:!2026-10-17,4,270-->
 ## Diagnose
 
 ## Behandling

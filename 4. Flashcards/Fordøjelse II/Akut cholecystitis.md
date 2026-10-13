@@ -13,6 +13,7 @@
 - Hvilken fund laves på den objektive udnersøgelse der tyder på akut cholecystitis?:: [[Murphy's tegn]]
 <!--SR:!2026-10-27,14,290-->
 - Hvor stråler smerter grundet akut cholecystitis hen?:: Ryg og højre skulderblad
+<!--SR:!2026-10-17,4,270-->
 ## Patofysiologi
 - 
 ## Diagnostik

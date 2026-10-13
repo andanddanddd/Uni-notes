@@ -14,7 +14,7 @@
 - Hvad kaldes blodig opkast?:: [[Hæmatemese]]
 <!--SR:!2026-10-16,3,250-->
 - Hvad kaldes blodig afføring der skyldes blødning i øvre GI?:: [[Melæna]]
-<!--SR:!2026-10-13,4,270-->
+<!--SR:!2026-10-28,15,290-->
 
 - Hvilke risikofaktorer giver øget risiko for blødning specifikt i øvre GI?
 ?

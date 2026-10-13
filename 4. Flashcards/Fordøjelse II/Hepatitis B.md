@@ -33,6 +33,7 @@ Hvad kaldes hepatitis B også og hvorfor?:: Serum hepatitis da den kan overføre
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis B?:: Påvisning af virusantigener
+<!--SR:!2026-10-16,3,250-->
 ## Forebyggelse og behandling
 
 

@@ -6,7 +6,7 @@
 - Hvilke symptomer har akut pancreatitis?:: Kvalme + opkast, mavesmerter bagudtil
 <!--SR:!2026-10-25,12,270-->
 - Hvad findes på den objektive undersøgelse ved en patient med akut pancreatitis?:: Ømhed (maven)
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvad ses på en blodprøver af en patient med akut pancreatitis?:: Øgede niveuer af [[Amylase]] og [[Lipase]]
 <!--SR:!2026-10-28,15,290-->
 - Hvad er de 3 patogeneseveje til akut pancreatitis?

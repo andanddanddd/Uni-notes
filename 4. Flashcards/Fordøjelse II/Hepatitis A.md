@@ -2,6 +2,7 @@
 
 
 - Hvad kaldes hepatitis A også og hvorfor?:: Infektion hepatitis da det forekommer i epidemier (også HAV)
+<!--SR:!2026-10-16,3,250-->
 ## Struktur
 - Hvilken form har kapslen på hepatitis A
 - Har hepatitis A en lipidmembran?:: Nej
@@ -43,6 +44,7 @@
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis A?:: IgM antistoffer i serum
+<!--SR:!2026-10-16,3,250-->
 
 ## Forebyggelse og behandling
 

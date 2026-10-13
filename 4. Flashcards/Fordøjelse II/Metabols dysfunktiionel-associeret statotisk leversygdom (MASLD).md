@@ -3,6 +3,7 @@
 - Hvad er MASLD overordnet?:: [[Steatose]] der ikke er forårsaget af alkohol
 <!--SR:!2026-10-16,3,250-->
 - Hvor mange danskere har MASLD?:: 25%
+<!--SR:!2026-10-17,4,270-->
 ## Etiologi
 - Hvilke risikofaktorer har MASLD?
 ?

@@ -25,7 +25,7 @@
 - ([[Spider angiomas]])
 - ([[Gynaecomasti]])
 - ([[Ascites]])
-<!--SR:!2026-10-11,2,190-->
+<!--SR:!2026-10-18,5,210-->
 
 - Hvilke objektive fund kan leves på en patient med kronisk leversygdom?
 ?
