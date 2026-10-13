@@ -17,3 +17,4 @@
 - [[Amylase]]
 - [[Elastase]]
 
+![[Pasted image 20261013105235.png]]

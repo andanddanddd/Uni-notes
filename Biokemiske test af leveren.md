@@ -24,3 +24,5 @@
 ?
 - [[Protrombin tid (INR)]]
 - [[Albumin]]
+
+![[Pasted image 20261013105220.png]]
