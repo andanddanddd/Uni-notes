@@ -26,6 +26,7 @@
 
 ## Behandling
 - Hvordan behandles alkoholrelateret leversygdom overordnet?:: Ophør af alkohol
+<!--SR:!2026-10-17,4,270-->
 
 ![[Pasted image 20260930152305.png]]
 ![[Metabolisme af alkohol]]

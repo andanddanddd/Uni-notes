@@ -15,6 +15,7 @@
 - Replikation
 ## Smitte og epidemiologi
 - Hvem smittes oftest af hepatitis?:: Børn og unge
+<!--SR:!2026-10-17,4,270-->
 - Hvor "lever" hepatitis A normalt?:: Kun mennesker
 <!--SR:!2026-10-17,4,270-->
 - Hvordan smitter hepatitis A?:: Fæcal-oralt

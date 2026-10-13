@@ -22,6 +22,7 @@
 	- Hvad er slutproduktet af MEOS?:: Acetat
 <!--SR:!2026-10-17,4,270-->
 - Hvilken af leveren 2 enzymsystemer til metabolisme af alkohol forøges ved daglig indtagelse?:: MEOS
+<!--SR:!2026-10-17,4,270-->
 - Hvilken reaktionsorden følger metabolisme af alkohol?:: 0. ordens-reaktion ([[Metabolismen af lægemidler]])
 <!--SR:!2026-10-17,4,270-->
 

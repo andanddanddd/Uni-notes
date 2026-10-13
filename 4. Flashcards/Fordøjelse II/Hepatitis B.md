@@ -29,6 +29,7 @@ Hvad kaldes hepatitis B også og hvorfor?:: Serum hepatitis da den kan overføre
 - Hvilken "type" leversygdom giver hepatitis B?:: Det kan både være [[Akut leversygdom]] og [[Kronisk leversygdom]]
 <!--SR:!2026-10-21,16,290-->
 - Hvilke komplikationer kan hepatitis B have?:: Akut [[Leverinsufficiens]] eller [[Kronisk leversygdom]]
+<!--SR:!2026-10-17,4,270-->
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis B?:: Påvisning af virusantigener

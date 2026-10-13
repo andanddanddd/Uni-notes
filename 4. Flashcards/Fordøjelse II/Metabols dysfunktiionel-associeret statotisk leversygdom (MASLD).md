@@ -16,9 +16,11 @@
 
 ## Komplikationer
 - Hvad kan MASLD udvikle sig til?:: [[Metabolic dysfunction-associated steatohepatitis (MASH)]]
+<!--SR:!2026-10-17,4,270-->
 
 ## Patofysiologi
-- Hvorfor er insulinresistens en vigtig faktor i udviklingen af MASLD og MASH?:: Det øger lipidsyntese og 
+- Hvorfor er insulinresistens en vigtig faktor i udviklingen af MASLD og MASH?:: Det øger lipidsyntese og
+<!--SR:!2026-10-17,4,270-->
 ## Diagnose
 
 ## Behandling

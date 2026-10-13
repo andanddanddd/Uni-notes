@@ -44,7 +44,7 @@
 - Hvorfor overordnet sker fibrose ved kronisk leversygdom?:: Gentagende episoder af inflammatorisk ødelæggelse og regenerering
 <!--SR:!2026-10-19,14,290-->
 - Hvor "starter" fibrose?:: [[Disses rum]]
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-07,25,270-->
 ## Komplikationer
 - Hvilke komplikationer kan svær nedsat leverfunktion lede til?
 ?
@@ -56,6 +56,7 @@
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor laves typisk en biopsi ved kronisk leversygdom selvom det ikke bruges meget til af finde etiologien?:: Det bruges til sværhedsgrad og valg af behandling
+<!--SR:!2026-10-17,4,270-->
 - Hvorfor er det vigtigt at kunne kende forskel på [[Alkoholrelateret leversygdom]] og [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]?:: De skal behandles forskelligt
 <!--SR:!2026-10-17,4,270-->
 

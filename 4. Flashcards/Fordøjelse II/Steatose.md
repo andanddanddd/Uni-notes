@@ -3,6 +3,7 @@
 - Hvad er steatose overordnet?:: Fedtlever
 <!--SR:!2026-10-17,4,270-->
 - Hvilken type fedt ophobes i levren udner steatose?:: Triglycerider
+<!--SR:!2026-10-17,4,270-->
 - Er steatose reversibelt?:: Typisk ja
 <!--SR:!2026-10-17,4,270-->
 
@@ -29,9 +30,11 @@
 - Hvordan genkendes steatose makroskopisk?:: Stor gul lever (lys)
 <!--SR:!2026-10-17,4,270-->
 - Hvor i [[Leveracinum]] er steatose tydeligt?:: Zone 3
+<!--SR:!2026-10-17,4,270-->
 ## Komplikationer
 - Hvad kan steatose udvikle sig til?:: [[Steatohepatitis]]
 <!--SR:!2026-10-16,3,250-->
 
 ## Diagnose
 - Hvordan diagnosteres steatose typisk?:: Sekundært til en anden sygdom da det oftest er asymptomatisk
+<!--SR:!2026-10-17,4,270-->
