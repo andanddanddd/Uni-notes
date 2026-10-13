@@ -35,7 +35,7 @@
 
 ## Diagonstik
 - Hvordan diagnosticeres adenovirus?:: PCR (af enten fæces eller snot)
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-07,25,270-->
 
 ## Forebyggelse og behandling
 - Hvordan behandles adenovirus?:: Typisk er symptombehandling nok

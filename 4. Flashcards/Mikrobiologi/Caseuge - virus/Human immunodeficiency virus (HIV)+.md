@@ -16,7 +16,7 @@
 - Hvordan kommer HIV ind i celler?:: Membranfusion med cellemembranen
 <!--SR:!2026-12-15,63,310-->
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
 <!--SR:!2026-10-15,16,290-->
 - Hvordan kommer HIV ud af celler?:: Budding
@@ -71,7 +71,7 @@
 <!--SR:!2026-10-14,16,290-->
 
 - Hvor længe går der fra infektion af HIV til [[AIDS]] indtræder?:: Omkring 10 år
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-07,55,310-->
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
 <!--SR:!2026-10-14,16,290-->
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
@@ -95,7 +95,7 @@
 ?
 - Revers transkripase (ofte ved at være en nukleotid der ikke kan forlænges på)
 - Inhibase inhibitor
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-06,54,310-->
 
 
 

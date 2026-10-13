@@ -24,7 +24,7 @@
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 <!--SR:!2026-10-11,4,270-->
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
 <!--SR:!2026-10-29,16,290-->
 
@@ -58,7 +58,7 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres P. aeruginosa?:: Dyrkning
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-25,12,270-->
 - Hvilket test laves for at differentiere P. aeruginosa fra eks [[Escherichia coli+]]?:: [[Oxidasetest]]
 <!--SR:!2026-10-24,11,270-->
 

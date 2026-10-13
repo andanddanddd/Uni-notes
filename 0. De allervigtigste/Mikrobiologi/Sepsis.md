@@ -10,4 +10,4 @@
 - Hvordan behandles sepsis?:: Antibiotika IV, evt ilt og [[Volumenterapi]]
 <!--SR:!2026-10-23,16,290-->
 - Hvilke antibiotika bruges til sepsis med ukendt etiologi?:: [[Ampicillin]] + [[Gentamicin]]
-<!--SR:!2026-10-10,5,230-->
+<!--SR:!2026-10-30,17,250-->

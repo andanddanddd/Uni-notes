@@ -3,7 +3,7 @@
 - Hvilken HPV giver neonatal herpes?:: Oftest [[HSV-2+]] men det kan også være [[HSV-1+]]
 <!--SR:!2026-10-14,16,290-->
 - Hvor stor er risikoen for at få neonatal herpes?:: 50% hvis moderen undergår primær infektion men kun 2% hvis moderen undergå en sekundær infektion
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-08,56,310-->
 - Hvorfor er der mindre risiko for smitte fra mor til barn hvis moderen undergår sekundær infektion? (i forhold til primær infektion):: Moderen giver antistoffer med til barnet
 <!--SR:!2026-12-13,66,310-->
 - Hvorfor kommer det oftest som overraskelse når et spædbarn for neonatal herpes?:: Moderen har højst sandsynligt haft en asymptomatisk primær infektion

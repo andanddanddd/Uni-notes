@@ -5,7 +5,7 @@
 ## Generalt
 Gram-farvning
 - Hvilken form har H. influenzae?:: Lille stav (pleomorf)![[Pasted image 20260922094654.png]]
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-27,45,290-->
 - Hvor lever H. influenzae normalt?:: Normalflora i øvre luftveje
 <!--SR:!2026-12-15,63,310-->
 ## Patogenese
@@ -42,7 +42,7 @@ Smitevej
 - Hvilket medie bruges til dyrkning af H. influenzae type B?:: [[Chokoladeagerplader]]
 <!--SR:!2026-12-15,63,310-->
 - Hvad gøres med en [[Blodplader agerplade]] for at H. influenzae kan gro derpå?:: Man laver en stribe af [[Staphylcoccer]]
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-06,54,310-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanisme har nogle H. influenzae type B?:: $\beta$-lactamase produktion og mange er resistente overfor [[Makrolider]]

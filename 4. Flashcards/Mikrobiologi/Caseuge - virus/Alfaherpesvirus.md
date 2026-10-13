@@ -8,7 +8,7 @@ HSV 1 og 2
 - Hvad kendetegner $\alpha$-HPV?:: De er neurotrope (Inficere neuroner som sekundær infektion)
 <!--SR:!2026-10-12,14,290-->
 - Hvor er $\alpha$-HPV når den er latens?:: Neuroner
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,57,310-->
 - Hvorfor smitter [[VZV+]] mere end [[HSV-1+]] og [[HSV-2+]]?:: Den kræver ikke direkte kontakt
 <!--SR:!2026-11-12,38,290-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske

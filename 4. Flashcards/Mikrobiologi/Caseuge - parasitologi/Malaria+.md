@@ -19,7 +19,7 @@
 - Hvor længe går der fra myggestik til man opdager malaria for P. ovale?:: Der kan gå flere måneder
 <!--SR:!2026-10-28,15,290-->
 - Hvor længe går der fra myggestik til man opdager malaria for P. vivax?:: Der kan gå flere år
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvordan overlever for der bor i malariaområde?:: Der anses det som en børnesygdom hvorefter der opbygges immunitet
 <!--SR:!2026-10-10,4,270-->
 - Hvorfor er der stor risiko for at flygtninge der besøger der malariaramte hjemland bliver syge?:: De har mistet deres immunitet
@@ -48,7 +48,7 @@
 - Hvordan kommer malaria ud af erytrocytter?:: Lyse
 <!--SR:!2026-10-11,4,270-->
 - Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvad kaldes cellerne der kommer fra sexuel deling af malaria?::  [[Sporozoitter]]
 <!--SR:!2026-10-25,12,270-->
 - Hvorfor sker cyklisk feber ved malaria?:: Alle blodceller lyseres på en gang, dermed udsendes mange parasitter og dermed mange PAMPs

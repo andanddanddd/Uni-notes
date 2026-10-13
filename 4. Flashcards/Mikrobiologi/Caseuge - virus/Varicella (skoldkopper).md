@@ -7,7 +7,7 @@ Dugdråbe på et rosenblad (skoldkopper)
  - Blodpropper (hyppigeste årsag til blodpropper hos børn)
  - Sekundære infektioner (i sårene)
  - Akut cerebelar ataksi
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-26,44,290-->
 
 - Udover udslet hvilke symptomer giver skoldkopper hos børn?:: Feber og kløen men barnet er typisk ikke mega påvirket
 <!--SR:!2026-10-12,14,290-->

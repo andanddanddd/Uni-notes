@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken type patogen er E. histolytika?:: [[Protozoa]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvilken type protozoa er E. histolytika?:: [[Amoeba]]
 <!--SR:!2026-10-10,4,270-->
 - Hvordan smitter E. histolytika?:: Fæcal-oralt vira drikkevand eller mad'

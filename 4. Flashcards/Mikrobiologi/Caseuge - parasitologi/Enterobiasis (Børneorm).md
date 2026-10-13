@@ -11,7 +11,7 @@
 - Hvornår ses særligt kløe ved børneorm?:: Om natten (der bliver det ikke skjult, hvis det klør så klør vi)
 <!--SR:!2026-10-28,15,290-->
 - Hvordan smitter børneorm?:: Ofte autoinfektion (smittet af sin egen tidligere børneorm) ellers fæcal-oralt
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvordan diagnosticeres børneorm?:: Mikroskopi af æg eller ved fund af orme
 <!--SR:!2026-10-27,14,290-->
 - Hvor store er ormene i børneorm?:: 1 cm lange
@@ -22,4 +22,4 @@
 - Grundig håndvask (og undgå at spise direkte med hænder)
 - Daglige bade
 - Kogevask af sengetøj
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-29,16,290-->

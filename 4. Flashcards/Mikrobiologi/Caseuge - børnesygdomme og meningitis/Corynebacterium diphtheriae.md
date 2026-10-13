@@ -45,6 +45,6 @@ Hvordan genkendes den?
 - Hvordan forebygges C. diphtheriae overordnet?
 #### Vaccine
 - Hvornår gives C. diphtheriae vaccinen?:: 3,5,12 mdr og 5 år
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-13,61,310-->
 - Hvad kendetegner C. diphtheriae vaccinen overordnet?:: Det er en toksid-vaccine ([[Subunitvacciner]])
 <!--SR:!2026-10-13,15,290-->
