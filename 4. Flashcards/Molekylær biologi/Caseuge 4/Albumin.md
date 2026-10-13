@@ -6,3 +6,5 @@
 - Opretholde osmotisk tryk
 - Transport af stoffer
 - pH-buffer
+
+- Hvornår testes for albumin?:: Ved mistanke eller monitorering af kronisk leversygdom

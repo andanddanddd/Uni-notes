@@ -5,5 +5,5 @@
 - Hvorfor skal bilirubin være vandopløseligt?:: For det kan udskilles med galde
 
 ###### Biokemi
-- Hvornår testes for bilirubin?:: Ved mistanke om sygdom i galdegangene
+- Hvornår testes for bilirubin?:: Ved mistanke om sygdom i galdegangene eller leveren
 - Hvilke biokemiske test laves for bilirubin?:: Urinstix eller blodprøve

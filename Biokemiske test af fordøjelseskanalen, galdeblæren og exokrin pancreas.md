@@ -10,7 +10,7 @@
 ?
 - [[Bilirubin]]
 - [[Leukocytter]]
-- [[Protrombin tid]]
+- [[Protrombin tid (INR)]]
 
 - Hvilke 2 biokemiske test bruges til diagnostik af exokrine pancreas?
 ?
