@@ -3,4 +3,15 @@
 T1 = 90 grader
 T2 = 180 grader
 
-Man måler vist på hvornår spin vender tilabge ti luordnet
+Man måler vist på hvornår spin vender tilabge til uordnet
+
+- Hvornår laves en MRI af absomen?
+?
+- Finde ud af hvilket stadie rectal cancer er i
+- Lever lesioner
+- Kig på galdegange
+- Crohns
+- Fistualser
+
+- Hvornår må MRI ikke laves?:: Når pt har implantationer
+- Hvorfår får alle pt ikke MRI?:: Det er dyrt og claustrofobisk

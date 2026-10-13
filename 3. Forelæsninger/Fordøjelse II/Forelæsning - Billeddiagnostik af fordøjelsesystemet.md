@@ -10,6 +10,8 @@ Kamarametoder kan kun se mucosa
 
 ![[Ultralyd af abdomen]]
 
-![[Røntgen]]
+![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
+
+![[Computed tomography (CT)]]
 
 ![[MRI]]

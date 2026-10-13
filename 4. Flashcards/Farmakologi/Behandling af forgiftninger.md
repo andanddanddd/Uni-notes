@@ -16,7 +16,7 @@
 
 - Hvilke diagnostiske test kan bruges ved forgiftning?
 ?
-- [[Røntgen]]
+- [[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
 - [[EKG]]
  - [[Blodgasanalyse]]
  

@@ -39,7 +39,7 @@
 - Hvilken tendens har smittetilfælde med P. aeruginosa
 - Hvordan smitter P. aeruginosa?
 - Hvem bliver oftest smittet af P. aeruginosa?:: Cancer-patienter, patienter med cystisk fibrose eller forbrændinger
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver P. aeruginosa?:: Der den lige kan komme til, hud, sår, ører, luftveje, blod
