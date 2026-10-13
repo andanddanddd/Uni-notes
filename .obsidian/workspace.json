@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Choleliathitis.md",
+                "file": "Sensitivitet og specificitet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Choleliathitis"
+              "title": "Sensitivitet og specificitet"
             }
           }
         ],
@@ -103,9 +103,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - Introduktion til bevægeapparatet – DCA"
             }
+          },
+          {
+            "id": "617b3e2df76599f4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Kliniske biokemiske undersøgelser 2026"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,10 +305,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f431678ed25c42d0",
+  "active": "617b3e2df76599f4",
   "lastOpenFiles": [
-    "4. Flashcards/Fordøjelse II/Pigmentsten 1.md",
+    "Sensitivitet og specificitet.md",
+    "4. Flashcards/Fordøjelse II/Evaluering af laboratorietest.md",
+    "4. Flashcards/Fordøjelse II/Analytisk varians.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Klinisk biokemisk undersøgelse af fordøjelsessystemet.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Kliniske biokemiske undersøgelser 2026.pdf",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 5 - Leveren og galdesystemet/Choleliathitis.md",
+    "4. Flashcards/Fordøjelse II/Pigmentsten 1.md",
     "4. Flashcards/Fordøjelse II/Pigmentsten.md",
     "4. Flashcards/Fordøjelse II/Cholesterolsten 1.md",
     "4. Flashcards/Fordøjelse II/Cholesterolsten.md",
@@ -325,14 +342,9 @@
     "4. Flashcards/Fordøjelse II/Colonskopi.md",
     "4. Flashcards/Fordøjelse II/Endoskopi.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012111817.png",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
-    "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
-    "4. Flashcards/Fordøjelse II/Colitis ulcerosa (UC).md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler.md",
     "2. Caseuger/Bevægeapparatet",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012084057.png",
     "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
-    "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261012083148.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008133923.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261008132037.png",
