@@ -36,6 +36,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 ![[Pasted image 20261013114807.png]]
 
 ## Behandling
+- Hvor meget af tarmen fjernes ved kirugi af krohns?:: Kun det inficerede
 
 - [x] IKke nødvendigvis kontinuerligt
 - [x] Kan være blødig

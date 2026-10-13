@@ -11,7 +11,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Imperiøs træng
 - [[Tenesmi]]
 - Hyppige små afføringer, også om natten
-- Vægttab
+- (Vægttab)
 - Feber
 
 ### Komplikationer
@@ -36,6 +36,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Hvilken ikke-biokemisk test er vigtigt for diagnostik af UC?:: [[Colonskopi]]
 ![[Pasted image 20261013115434.png]]
 ### Behandling
+- Hvilken kirugisk indgreb laves ved slem UC?:: Kolektomi (fjerner HELE colon)
 
 - [x] KOninuerligt
 	- Tydelig grænse
