@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken type HPV giver herpes encephalitis?:: [[HSV-1+]]
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Hvilken del ag hjernen bliver oftest ramt har herpes encephalitis?:: [[Temporallappen]]
 <!--SR:!2026-10-13,15,290-->
 - Hvor dødeligt er herpes encephalitis?:: 70% uden behandling 40% med

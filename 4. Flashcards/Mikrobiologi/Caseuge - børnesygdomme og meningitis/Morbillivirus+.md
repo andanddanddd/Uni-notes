@@ -49,7 +49,7 @@
 <!--SR:!2026-10-22,17,250-->
 
 - Hvor mange dør af morbillivirus?:: 1/3000 smittede
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvad sker ofte efter endt morbillivirusinfektion?:: Sekundær infektion (særligt pneumonier)
 <!--SR:!2026-10-22,16,290-->
 - Hvilken næringsmangel gør morbillivirus infektion markant værre?:: [[A-vitamin]]-mangel

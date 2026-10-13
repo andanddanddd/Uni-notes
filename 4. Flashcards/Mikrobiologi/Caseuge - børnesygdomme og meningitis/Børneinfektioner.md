@@ -3,7 +3,7 @@
 - Hvorfor bliver børn ofte syge når de starter i vuggestue?:: Der er mange nye patogener og deres oassiv immunitet fra moderen er ved at udløbe
 <!--SR:!2026-10-12,14,290-->
 - Hvor ofte skyldes inflæggelser af børn infektioner?:: 80% af tiden
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,58,310-->
 
 - Hvad er de 5 klassiske børnesygdomme?
 ?

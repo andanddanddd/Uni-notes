@@ -13,7 +13,7 @@
 - [[Mycoplasma pneumoniae]]
 - [[Legionella pneumophila+]]
 - [[Corxiella burnetii]]
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-08,26,270-->
 
 - Hvilke parakliniske prøver laves for at diagnosticere atypisk pneumoni?:: PCR (fra både ovre og nedre luftveje) urinprøve hvis [[Legionella pneumophila+]] mistænkes
 <!--SR:!2026-10-17,12,270-->

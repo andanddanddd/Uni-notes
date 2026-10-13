@@ -27,14 +27,14 @@
 - Hvilke myg kan smitte malaria?:: Kvinder
 <!--SR:!2026-10-11,4,270-->
 - Hvorfor bliver man typisk ikke smittet med malaria i fx DK?:: Der er få smittetilfælde og mygene er derfor raske, hvis mygene bliver inficeret dør de (pga kulden vist nok)
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-28,15,290-->
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
 <!--SR:!2026-10-11,2,230-->
 - Hvilke celler inficere malaria først i mennesker?:: Leverceller
 <!--SR:!2026-10-12,4,270-->
 - Hvor længe er malaria i leverceller?:: 1-2 uger
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
 <!--SR:!2026-10-10,1,190-->
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
@@ -78,6 +78,6 @@
 - Hvordan forebygges malaria?:: Lange bukser + ærmer eller andre måder at holde myg væk
 <!--SR:!2026-10-10,4,270-->
 - Hvordan behandles malaria overodnet?:: Dræber [[Hypnozoiter]] og giver blod
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvordan bekæmper kroppen?:: Milten kan finde rigide erytorcytter (dem inficered med malaria) og dræbe dem
 <!--SR:!2026-10-12,4,270-->

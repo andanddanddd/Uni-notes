@@ -40,7 +40,7 @@ Smitevej
 
 ## Diagnostik
 - Hvilket medie bruges til dyrkning af H. influenzae type B?:: [[Chokoladeagerplader]]
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 - Hvad gøres med en [[Blodplader agerplade]] for at H. influenzae kan gro derpå?:: Man laver en stribe af [[Staphylcoccer]]
 <!--SR:!2026-10-12,14,290-->
 
@@ -53,4 +53,4 @@ Smitevej
 - Hvad kendetegner HIB vccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
 <!--SR:!2026-10-12,14,290-->
 - Hvornår gives HIB vaccinationen?:: 3,5 og 12 mdr
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->

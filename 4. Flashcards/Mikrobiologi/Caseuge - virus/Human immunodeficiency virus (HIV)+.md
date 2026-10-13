@@ -4,7 +4,7 @@
 
 ## Struktur
 - Hvilken form har HIVs kapsel?:: Kegleformet
-<!--SR:!2026-10-13,14,290-->
+<!--SR:!2026-12-10,58,310-->
 - Hvilken funktion har de accessoriske proteiner i HIV?:: Undvige immunforsvaret (der kan ske replikationcykler uden dem derfor er de accessoriske)
 <!--SR:!2026-10-10,12,270-->
 
@@ -28,7 +28,7 @@
 - Hvorfor "dør" en lokal infektion typisk?:: HIV løb tør for celler
 <!--SR:!2026-10-14,16,290-->
 - Hvorfor "løber HIV ikke altid tør for celler at inficere" når den kun er lokalt i starten?:: Den inducere inflammation og der tilkaldes derfor flere immunceller og dermed flere celler den kan inficere
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,63,310-->
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
@@ -36,7 +36,7 @@
 - Hvad gør proteinet VIF?:: Stopper en antiviral komponent der inducere fejl i revers transskribtion
 <!--SR:!2026-10-13,7,190-->
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
-<!--SR:!2026-10-10,5,190-->
+<!--SR:!2026-10-26,13,210-->
 - Hvad gør proteinet NeF?:: Mindsker antallet ah [[MHC-I molekyler]] på overfladen
 <!--SR:!2026-11-02,25,270-->
 - Hvad gør Vpx?:: Stopper en antiviral protein der forhindre revers transskription ved at mindske mængden af dNTP

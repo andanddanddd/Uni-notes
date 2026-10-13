@@ -26,14 +26,14 @@
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
 <!--SR:!2026-10-11,4,270-->
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-29,16,290-->
 
 
 ## Smitte og epidimologi
 - Hvad kendetegner smitte af P. aeruginosa?:: Det er den mest prævalente oppertunistiske patogen
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-11-13,31,270-->
 - Hvor sker meget smitte med P. aeruginosa og hvorfor?:: Sygehuse, den er god til adaptagtioner og er meget resistent'
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-27,14,290-->
 - Hvilke infektioner giver P. aeruginosa i diabetespatienter og hvorfor?:: Infektioner af sår, de ahr dårlig circulation så der kommer færre immunceller til at dræbe dem
 <!--SR:!2026-10-11,4,270-->
 - Hvilken tendens har smittetilfælde med P. aeruginosa
@@ -47,11 +47,11 @@
 - Hvad kendetegner infektionen af P. aeruginosa i personer med [[Cystisk fibrose]]?:: Den bliver kronisk
 <!--SR:!2026-10-11,4,270-->
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-28,15,290-->
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
 <!--SR:!2026-10-10,3,250-->
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
-<!--SR:!2026-10-12,4,270-->
+<!--SR:!2026-10-29,16,290-->
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
 <!--SR:!2026-10-10,3,250-->
 ## Diagnostik

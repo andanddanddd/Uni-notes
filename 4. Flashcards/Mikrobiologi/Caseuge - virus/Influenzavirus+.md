@@ -71,7 +71,7 @@
 - Hvordan diagnosticeres influenza oftest?:: Kliniske fund
 <!--SR:!2026-10-12,14,290-->
 - Hvilke laboratorietest laves for at diagnosticere influenza?:: Isolering af virus og PCR
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,57,310-->
 ## Forebyggelse og behandling
 - Hvordan behandles influenza oftest?:: Symptombehandling
 <!--SR:!2026-10-15,16,290-->

@@ -8,6 +8,6 @@
 - Hvilke sygdom giver CMV?:: Det giver typisk ikke infektioner medmindre det er [[Kongenit CMV]]
 <!--SR:!2026-10-11,12,270-->
 - Hvordan diagnosticeres CMV?:: Serologi
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-13,31,270-->
 - Hvordan kan CMV ses på lysmikorskopi?:: Kæmpe kerner ![[Pasted image 20260918133324.png]]
 <!--SR:!2026-10-13,15,290-->
