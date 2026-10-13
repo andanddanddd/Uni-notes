@@ -8,6 +8,7 @@
 
 ## Komplikationer
 - Hvilken komplikation kan alkoholrelateret leversygdom give?:: [[Cirrose]]
+<!--SR:!2026-10-17,4,270-->
 
 ## Patofysiologi
 - Hvilket nedbrydningsprodukt fra alkohol giver celleskade?:: Acetylaldehyd'

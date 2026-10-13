@@ -37,6 +37,7 @@
 - Hvorfor er brofibroser skadelige?:: De ødelægger blodflow
 <!--SR:!2026-10-17,4,270-->
 - Hvad er regenerationsnoduli?:: "nye" leverceller der er uorganiseret
+<!--SR:!2026-10-17,4,270-->
 ## Diagnose
 
 ## Behandling

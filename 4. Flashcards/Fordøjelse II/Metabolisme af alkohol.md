@@ -15,6 +15,7 @@
 	- Hvad hedder enzymet der laver acetat fra acetylaldehyd?:: Acetylaldehyd-dehydrogenase
 <!--SR:!2026-10-17,4,270-->
 	- Hvad sker med acetat?:: Det går fra levere til blodet til vævene hvor det forbrændes til energi end lagres som fedt
+<!--SR:!2026-10-17,4,270-->
 - Hvilken "enzymsystem" nedbryder nestmest alkohol?:: MEOS (mitrokondrielle ethanol-oxiderende system)
 <!--SR:!2026-10-14,1,230-->
 	- Hvilket enzym bruger MEOS?:: CYP-450
@@ -28,3 +29,4 @@
 - Hvor meget alkohol udskilles uomdannet?:: 10%
 <!--SR:!2026-10-17,4,270-->
 - Hvordan udskilles uomdannet alkohol?:: Urin, afføring, sved og udåndingsluft
+<!--SR:!2026-10-17,4,270-->

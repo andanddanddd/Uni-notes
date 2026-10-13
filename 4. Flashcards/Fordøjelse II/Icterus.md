@@ -3,6 +3,7 @@
 - Hvad er icterus?:: Gule slimhinder, hud og sclera (og indre organer)
 <!--SR:!2026-10-20,15,290-->
 - Hvilket stof giver den gule farve til under icterus?:: Bilirubin
+<!--SR:!2026-10-17,4,270-->
 - Beskriv 2 mulige patogeneseveje der fører til icterus?
 ?
 - Manglende konjugation af [[Bilirubin]]

@@ -33,5 +33,7 @@
 - Hvad kendetegner akut leversygdom histologisk?:: Nekrose (særligt omkring centralvenen)
 <!--SR:!2026-10-20,15,290-->
 - Hvad ses på en blodprøve af en pt med akut leverinflammation?:: Forhøjet [[Bilirubin]] og leverenzymer
-- Hvilken blodprøve laves for at finde etiologien til akut leversygdom?:: Blandt andet antigentest for viral og autoimmun hepatitis 
+<!--SR:!2026-10-16,3,250-->
+- Hvilken blodprøve laves for at finde etiologien til akut leversygdom?:: Blandt andet antigentest for viral og autoimmun hepatitis
+<!--SR:!2026-10-17,4,270-->
 ![[Pasted image 20260930144115.png]]
