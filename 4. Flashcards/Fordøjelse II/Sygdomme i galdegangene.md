@@ -13,3 +13,4 @@
 - [[Cholangiocarcinoma]]
 <!--SR:!2026-10-16,3,170-->
 
+- Hvad kaldes galdeophobning?:: [[Kolestase]]
