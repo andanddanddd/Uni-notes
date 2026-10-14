@@ -16,7 +16,6 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 - Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde
 <!--SR:!2026-10-24,11,270-->
--
 
 ## Risikofaktorer
 - Hvad er risikofaktorer for galdesten?

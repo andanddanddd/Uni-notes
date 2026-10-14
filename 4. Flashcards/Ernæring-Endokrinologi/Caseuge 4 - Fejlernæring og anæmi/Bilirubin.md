@@ -12,3 +12,5 @@
 <!--SR:!2026-10-18,4,270-->
 - Hvilke biokemiske test laves for bilirubin?:: Urinstix eller blodprøve
 <!--SR:!2026-10-18,4,270-->
+- Hvad sker med bilirubinniveuerne ved kronisk leversygdom?:: Øgede niveuer af konjugeret bilirubin i serum og urin
+- Hvad sker med bilirubinniveuerne ved autoimmun hæmolytisk anæmi:: Øgede niveuer af ukonjugeret bilirubin i serum og urin
