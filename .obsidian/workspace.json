@@ -251,14 +251,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "657df77a56e3b943",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "4. Flashcards/Fordøjelse II/MRI.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Billeddiagnostik af fordøjelsesystemet.md",
+    "4. Flashcards/Fordøjelse II/MRI.md",
     "Computed tomography (CT).md",
     "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
     "4. Flashcards/Fordøjelse II/Ultralyd af abdomen.md",

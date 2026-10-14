@@ -10,7 +10,7 @@
 - Mange [[Kupfer celler]]
 - Akkumulation af galdesalte
 - Evt [[Steatose]]
-<!--SR:!2026-10-14,1,230-->
+<!--SR:!2026-10-17,3,250-->
 
 ![[Hepatitis A]]
 

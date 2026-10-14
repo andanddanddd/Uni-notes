@@ -5,7 +5,7 @@
 - Hvor kommer blødninger i nedre GI typisk fra?:: Colon (80%) og anorektalt (10%)
 <!--SR:!2026-10-28,15,290-->
 - Hvad kaldes den afføring der typisk kommer fra blødninger i nedre GI?:: [[Hæmatokesi]]
-<!--SR:!2026-10-14,1,210-->
+<!--SR:!2026-10-17,3,230-->
 - Hvilke risikofaktorer giver øget risiko for blødning specifikt i nedre GI?
 ?
 - [[Obstipation]]

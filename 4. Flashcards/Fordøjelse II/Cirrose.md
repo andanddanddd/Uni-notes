@@ -32,7 +32,7 @@
 - Ito-celler laver kollagen for helling
 - Dannelse af brofibroser
 - Dannelse af regenrationsnoduli
-<!--SR:!2026-10-14,1,230-->
+<!--SR:!2026-10-17,3,250-->
 
 - Hvad er brofibroser?:: Fibrose mellem glissons triade og centralvenen
 <!--SR:!2026-10-17,4,270-->
