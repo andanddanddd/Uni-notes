@@ -1,11 +1,13 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
-- Hvad er etiologien bag akut cholecystitis?:: [[Choleliathitis]] der sidder fast i halsen af galdeblæren![[Pasted image 20261006141334.png|441]]
+### Etiologi
+- Hvad er etiologien bag akut cholecystitis?:: [[Choleliathitis]] der sidder fast i halsen af galdeblæren (oftest)![[Pasted image 20261006141334.png|441]]
 <!--SR:!2026-10-27,14,290-->
+- Hvornår er der bakterier i akut cholecystitis?:: Det er der som udgangspunkt ikke men, det foregår ofte som sekundær infektion
 ## Klinisk præsentation
 - Hvilke symptomer har akut cholecystitis?
 ?
-- Svære mavesmerter i øvre del af maven
+- Svære mavesmerter og ømhed i øvre del af maven
 - Kvalme
 - Feber
 <!--SR:!2026-10-25,12,270-->

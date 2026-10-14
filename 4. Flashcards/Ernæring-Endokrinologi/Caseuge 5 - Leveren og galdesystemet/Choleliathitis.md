@@ -19,12 +19,13 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 ### Klinisk præsentation
 - Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde
 <!--SR:!2026-10-24,11,270-->
-- Hvad kendetegner mavesmerterne ved galdesten?:: De kommer hutigt men går langsomt, ofte måltidrele
+- Hvad kendetegner mavesmerterne ved galdesten?:: De kommer hurtigt men går langsomt, ofte måltidreleteret
 ### Komplikationer
 - Hvad kaldes det når en galdesten sættes fast i halsen af galdeblæren? (collum vesica biliaris):: [[Cholecystitis]]
 <!--SR:!2026-10-29,16,290-->
 - Hvad kaldes tilstanden når galdesten sætter sig fast udenfor galdeblæren?:: [[Choledocholithiasis]]
 <!--SR:!2026-10-24,11,270-->
+- Hvilket andet organ kan få komplikationer fra galdesten?:: Pancreast ([[Akut pancreatitis]])
 
 ### Patofysiologi
 - Hvor dannes galdesten henne?:: Typsik galdeblæren
@@ -52,5 +53,7 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 <!--SR:!2026-10-21,16,290-->
 
 ### Diagnose
+- Hvilken billeddiagnostiske metode bruges til at finde galdesten?:: UL
+- Hvilke blodprøver tages ved mistaneke om galdesten?:: [[Bilirubin]], basisk fosfatase og leverenzymer ([[ALAT]], [[ASAT]] og [[g-Glutamyltransferase (GGT)]])
 
 ### Behandling
