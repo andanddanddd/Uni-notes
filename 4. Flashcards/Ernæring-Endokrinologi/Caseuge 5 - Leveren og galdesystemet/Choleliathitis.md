@@ -4,20 +4,32 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 - Hvad er choleliathitis?:: Gladesten
 <!--SR:!2026-10-28,15,290-->
+
+
+### Etiologi
+- Hvilken type galdesten er hyppigst?:: Blandingssten
+- Hvad kaldes de 2 (3) typer af galdesten?
+?
+- [[Cholesterolsten]]
+- [[Pigmentsten]]
+- Blandingssten
+<!--SR:!2026-10-28,15,290-->
+
+
+### Klinisk præsentation
+- Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde
+<!--SR:!2026-10-24,11,270-->
+- Hvad kendetegner mavesmerterne ved galdesten?:: De kommer hutigt men går langsomt, ofte måltidrele
+### Komplikationer
 - Hvad kaldes det når en galdesten sættes fast i halsen af galdeblæren? (collum vesica biliaris):: [[Cholecystitis]]
 <!--SR:!2026-10-29,16,290-->
 - Hvad kaldes tilstanden når galdesten sætter sig fast udenfor galdeblæren?:: [[Choledocholithiasis]]
 <!--SR:!2026-10-24,11,270-->
-- Hvad kaldes de 2 typer af galdesten?
-?
-- [[Cholesterolsten]]
-- [[Pigmentsten]]
-<!--SR:!2026-10-28,15,290-->
 
-- Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde
-<!--SR:!2026-10-24,11,270-->
+### Patofysiologi
+- Hvor dannes galdesten henne?:: Typsik galdeblæren
 
-## Risikofaktorer
+#### Risikofaktorer
 - Hvad er risikofaktorer for galdesten?
 ?
 - Alder
@@ -39,5 +51,6 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 - Hvorfor kan hurtigt vægttab give problemer?:: Der mangler lipider til at holde kolesterolen i opløsning
 <!--SR:!2026-10-21,16,290-->
 
+### Diagnose
 
-
+### Behandling
