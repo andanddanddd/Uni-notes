@@ -16,8 +16,17 @@
 <!--SR:!2026-10-27,14,290-->
 - Hvor stråler smerter grundet akut cholecystitis hen?:: Ryg og højre skulderblad
 <!--SR:!2026-10-17,4,270-->
+
+### Komplikationer
+- Hvilke komplikationer kan akut cholecystitis føre til?
+?
+- Fistler (til tarm eller mavesæk)
+- Perforation
+- Abcesser (hvis den inficeres af bakterier)
 ## Patofysiologi
 - 
 ## Diagnostik
 - Hvad findes på en blodprøve af en patient med akut cholecystitis?:: Forhøjede leukocytter
 <!--SR:!2026-10-24,11,270-->
+### Behandling
+- Hvordan behandles akut cholecystitis typisk?:: Kiruisk fjernelse af galdeblæren
