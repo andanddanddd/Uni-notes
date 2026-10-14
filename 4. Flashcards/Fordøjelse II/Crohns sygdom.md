@@ -14,8 +14,10 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Feber
 - Perianale smerter (fistler og abcesser)
 - Obstruktive symptomer
+<!--SR:!2026-10-17,3,250-->
 
 - Hvorfor er symptombilledet ved crohns mere varieret end ved [[Colitis ulcerosa (UC)]]?:: Inflammationen kan være forskellige steder
+<!--SR:!2026-10-18,4,270-->
 
 ## Komplikationer
 - Hvilke komplikationer kan crohns lede til?
@@ -25,18 +27,25 @@ Se [[Inflammatory bowel disease (IBD)]]
 - [[Dysplasi]]
 - Abcesser
 - Cancer
+<!--SR:!2026-10-15,1,230-->
 
 ## Patofysiologi
 - Hvad kendetegner lokaliseringen af Crohns?:: Der kan være flere seperate stykker inficeret fordøjelseskanal, det kan forekomme fra mund til anus
+<!--SR:!2026-10-18,4,270-->
 - Hvilken del af fordøjelseskanalen er typisk påvirket af crohns?:: Illium og colon
+<!--SR:!2026-10-18,4,270-->
 - Hvilke lag af tarmen kan påvirkes af crohns?:: Dem alle (den kan lave fistler)
+<!--SR:!2026-10-18,4,270-->
 ## Diagnose
 - Hvordan ses crohns ved endoskopi/colonskopi?:: Dybe længdegående står, brostensmønster
+<!--SR:!2026-10-15,1,230-->
 - Hvordan ses crohns på en biopsi?:: Transmural lymfocytær inflammation og til tider ikke-nekrotiserende epitelcellegranulomer
+<!--SR:!2026-10-15,1,230-->
 ![[Pasted image 20261013114807.png]]
 
 ## Behandling
 - Hvor meget af tarmen fjernes ved kirugi af krohns?:: Kun det inficerede
+<!--SR:!2026-10-18,4,270-->
 
 - [x] IKke nødvendigvis kontinuerligt
 - [x] Kan være blødig

@@ -11,7 +11,7 @@
 - Tydelige vener der går fra navlen til ribene
 - Splenomegali hvis det er meget slemt
 - [[Hepatisk encefalopati]]
-<!--SR:!2026-10-14,1,230-->
+<!--SR:!2026-10-16,2,230-->
 
 ## Komplikationer
 - Hvilken komplikation sker oftest grundet portal hypertension?:: [[Varicer (øsefagus)]]

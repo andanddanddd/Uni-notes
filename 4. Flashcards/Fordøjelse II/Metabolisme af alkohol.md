@@ -19,9 +19,9 @@
 	- Hvad sker med acetat?:: Det går fra levere til blodet til vævene hvor det forbrændes til energi end lagres som fedt
 <!--SR:!2026-10-17,4,270-->
 - Hvilken "enzymsystem" nedbryder nestmest alkohol?:: MEOS (mitrokondrielle ethanol-oxiderende system)
-<!--SR:!2026-10-14,1,230-->
+<!--SR:!2026-10-17,3,250-->
 	- Hvilket enzym bruger MEOS?:: CYP-450
-<!--SR:!2026-10-14,1,230-->
+<!--SR:!2026-10-17,3,250-->
 	- Hvad er slutproduktet af MEOS?:: Acetat
 <!--SR:!2026-10-17,4,270-->
 - Hvilken af leveren 2 enzymsystemer til metabolisme af alkohol forøges ved daglig indtagelse?:: MEOS

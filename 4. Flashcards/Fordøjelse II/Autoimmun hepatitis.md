@@ -19,7 +19,7 @@
 - Hvad ses overordnet på et histologisk snit af en lever påvirket af autoimmun hepatitis?:: Det ligner oftest en lever med kronisk leversygdom men kan også ligne viral hepatitis
 <!--SR:!2026-10-16,3,250-->
 - Hvilken celle ses særligt mange af på et histologisk snit af en lever med autoimmun hepatitis?:: [[Plasmaceller]]
-<!--SR:!2026-10-14,1,230-->
+<!--SR:!2026-10-17,3,250-->
 
 ## Behandling
 - Hvordan behandles autoimmun hepatitis overordnet?:: Immunsupresiv behandling

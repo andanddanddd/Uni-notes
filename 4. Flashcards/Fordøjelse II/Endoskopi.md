@@ -3,22 +3,28 @@
 - Hvor langt ned kan man endoskopere?:: [[Papilla duodeni major]]
 <!--SR:!2026-10-29,16,290-->
 - Hvor langt op kan man nå med en endoskopi fra anus?:: Sigmoideum
+<!--SR:!2026-10-18,4,270-->
 - Hvad bruges endoskopi til?:: Visualisering af mucosa, biosier og behandling
+<!--SR:!2026-10-18,4,270-->
 - Hvad kan undersøges ved øvre endoskopi?
 ?
 - Blødning
 - Dysphagi
 - [[Gastroesopageal disease (GERD)]]
 - Ulcers
+<!--SR:!2026-10-15,1,230-->
 
 - Hvad kan undersøges ved nedre endoskopi?:: Kolorektalkræft og [[Colitis ulcerosa (UC)]]
+<!--SR:!2026-10-18,4,270-->
 
 - Hvad er fordelen ved at lave endoskopi i tarmen i forhold til [[Colonskopi]]?:: Man behøves ikke at have en hel tom tarm
+<!--SR:!2026-10-18,4,270-->
 - Hvornår er endoskopi kontraindikeret?
 ?
 - Ved pt der ikke tåler "bedøvelse"
 - Patienter med meget blødning
 - Pt med dicertikler
+<!--SR:!2026-10-17,3,250-->
 
 
 Man måler ikke motilitet da man kun måler et sted
