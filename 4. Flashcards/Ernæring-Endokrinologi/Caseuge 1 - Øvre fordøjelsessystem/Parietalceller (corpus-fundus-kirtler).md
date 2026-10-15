@@ -1,7 +1,7 @@
-#flashcards/2/Ernæring-Endokrinologi 
+#flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
-- Parietalceller er {{6522626022786353::acidofile}}
-- Hvordan ses parietalceller histologisk?:: De er acidofile
+
+- Hvordan ses parietalceller histologisk? (HE-farvning):: De er acidofile
 - Hvor finden parietalceller?:: Halsen af kirtlen [[Corpus-fundus-kirtler]]
 - Hvad sekrere parietalceller?
 ?
