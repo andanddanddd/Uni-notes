@@ -7,7 +7,7 @@
 
 #### Stadie 1
 - Hvad er symptomerne i stadie 1 af kighoste?:: Det ligner forkølelse (snottet, tårer og hoste)
-<!--SR:!2026-10-13,14,290-->
+<!--SR:!2026-12-09,55,310-->
 - Hvad kaldes stadie 1 af kighoste?:: Kataralsk stadie
 <!--SR:!2026-10-30,15,230-->
 #### Stadie 2

@@ -4,7 +4,7 @@
 - Hvad er en provirus?:: DNA laves af en retrovirus
 <!--SR:!2026-10-14,16,290-->
 - Hvilke "komplikationer" giver retrovira ofte?:: Cancer
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-11,57,310-->
 ## Struktur
 - Har retrovira en lipidmembran?:: Ja
 <!--SR:!2026-12-20,66,310-->
