@@ -8,3 +8,7 @@
 ### Interaktioner
 
 ### Klinisk anvendelse
+
+#### Indikationer
+
+#### Kontraindikationer

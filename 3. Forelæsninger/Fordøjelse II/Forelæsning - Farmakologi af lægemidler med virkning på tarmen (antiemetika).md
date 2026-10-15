@@ -10,4 +10,4 @@ Mange laxativer virker på colon (derfor er det dumt at mennesker med anorexi br
 
 ![[Prokinetika]]
 
-![[Anti-diarre lægemidler]]
+![[Lægemidler mod diarre (Obstipantia)]]
