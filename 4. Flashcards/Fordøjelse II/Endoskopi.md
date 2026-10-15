@@ -12,7 +12,7 @@
 - Dysphagi
 - [[Gastroesopageal disease (GERD)]]
 - Ulcers
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-18,3,250-->
 
 - Hvad kan undersøges ved nedre endoskopi?:: Kolorektalkræft og [[Colitis ulcerosa (UC)]]
 <!--SR:!2026-10-18,4,270-->

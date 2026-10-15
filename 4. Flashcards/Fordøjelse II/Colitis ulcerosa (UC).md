@@ -21,7 +21,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - [[Toksisk megacolon]]
 - [[Dysplasi]]
 - Kolorektal cancer
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-17,2,230-->
 
 ### Patofysiologi
 - Hvad kendetegner lokaliseringen af UC?:: Der er kontinuerlig inflammation startende fra rectum, det har en klar linje mellem rask og syg

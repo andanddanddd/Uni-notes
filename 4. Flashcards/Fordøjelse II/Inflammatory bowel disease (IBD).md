@@ -63,7 +63,7 @@
 - [[Episcleritis]] og [[Uveit]]
 - Ledsmerter
 - [[Primær skleroserende cholangitis]]
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-18,3,250-->
 
 - Hvad kendetegner forløbet at IBD?:: Det variere meget, for nogle lægger det latent i lang tid og kommer med store opblusninger, for andre er det der lidt hele tiden![[Pasted image 20261013120557.png]]
 <!--SR:!2026-10-18,4,270-->
@@ -86,7 +86,7 @@
 - [[Albumin]]
 - Levertal ([[Biokemiske test af leveren]])
 - Væsketal
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-16,1,210-->
 
 ### Behandling
 - Hvilke lægemidler bruges ofte mod IBD?:: Biologiske lægemidler (immunsuprimerende)

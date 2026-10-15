@@ -26,7 +26,7 @@
 - Parental ernæring
 - Kronisk blodstase
 - Medfødte fedtstofskiftedefekter
-<!--SR:!2026-10-15,1,210-->
+<!--SR:!2026-10-17,2,210-->
 
 - Hvordan genkendes steatose makroskopisk?:: Stor gul lever (lys)
 <!--SR:!2026-10-17,4,270-->

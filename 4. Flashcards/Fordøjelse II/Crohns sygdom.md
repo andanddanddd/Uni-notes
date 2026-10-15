@@ -27,7 +27,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - [[Dysplasi]]
 - Abcesser
 - Cancer
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-17,2,230-->
 
 ## Patofysiologi
 - Hvad kendetegner lokaliseringen af Crohns?:: Der kan være flere seperate stykker inficeret fordøjelseskanal, det kan forekomme fra mund til anus
@@ -38,9 +38,9 @@ Se [[Inflammatory bowel disease (IBD)]]
 <!--SR:!2026-10-18,4,270-->
 ## Diagnose
 - Hvordan ses crohns ved endoskopi/colonskopi?:: Dybe længdegående står, brostensmønster
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-18,3,250-->
 - Hvordan ses crohns på en biopsi?:: Transmural lymfocytær inflammation og til tider ikke-nekrotiserende epitelcellegranulomer
-<!--SR:!2026-10-15,1,230-->
+<!--SR:!2026-10-17,2,230-->
 ![[Pasted image 20261013114807.png]]
 
 ## Behandling
