@@ -12,3 +12,6 @@
 <!--SR:!2026-11-14,44,290-->
 - Hvordan overlever helicobakter pylori i mavesækken?:: Den har urease ([[Ureasetest]])
 <!--SR:!2026-12-17,63,310-->
+
+### Behandling
+- Hvad består tripelterapi mod H. pylori overodnet af?:: [[Syrepumpehæmmer]] + 2 antibiotika
