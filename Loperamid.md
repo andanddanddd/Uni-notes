@@ -2,7 +2,7 @@
 
 
 ### Farmakodynamik
-- Hvilken receptor binder loperamid til?:: Opioidreceptorer i tarmvæggen
+- Hvilken receptor binder loperamid til?:: $\mu$-Opioidreceptorer i tarmvæggen 
 - Hvilken virkning har loperamid overordnet?:: Antisekretorisk
 
 ### Farmakokinetik

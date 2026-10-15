@@ -2,7 +2,7 @@
 
 - Hvad er de 3 overordnede principper til behandling af diarre?
 ?
-- Skabe elektrolyt/væskebalance
+- Skabe elektrolyt/væskebalance 
 - Dræbe infektiøse agenter
 - Nedsætte motilitet [[Loperamid]]
 <!--SR:!2026-10-18,4,270-->
