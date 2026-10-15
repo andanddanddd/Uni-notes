@@ -6,7 +6,7 @@
 - Hvordan spreder E. faecalis sig?:: Typisk igennem hænder (men det kan også være objekter)
 <!--SR:!2026-12-04,65,310-->
 - Hvor sker de fleste tilfælde af E. faecalis henne?:: Hospitaler
-<!--SR:!2026-10-15,24,270-->
+<!--SR:!2027-01-13,90,290-->
 - Hvilke infektioner giver enterocuccus faecalis?
 ?
 - Urinvejsinfektioner

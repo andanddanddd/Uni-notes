@@ -6,7 +6,7 @@
 - Hvilken form har HIVs kapsel?:: Kegleformet
 <!--SR:!2026-12-10,58,310-->
 - Hvilken funktion har de accessoriske proteiner i HIV?:: Undvige immunforsvaret (der kan ske replikationcykler uden dem derfor er de accessoriske)
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-28,44,290-->
 
 ## Livscyklus
 - Hvilke celler inficere HIV?:: Cd4+ [[T-celler]] og [[Monocytter]]
@@ -18,7 +18,7 @@
 - Hvornår laver HIV mRNA?:: Udfra DNA når det er integreret i værtcellens genom
 <!--SR:!2026-12-10,58,310-->
 - Hvorfor er der så mange "variationer" af HIV?:: Revers transkribase har høj fejlrate (1:10.000)
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-18,64,310-->
 - Hvordan kommer HIV ud af celler?:: Budding
 <!--SR:!2026-12-09,57,310-->
 ![[Pasted image 20260921115642.png]]
@@ -32,7 +32,7 @@
 
 ## Undvigelse af immunforsvaret og behandling
 - Hvorfor vil en person der har været i behandling i mange år udvikle AIDS hvis personen stopper behandling?:: En integreret provirus kan ligge latent og vil derfor ikke producere virale produkter og blive opdaget af immunforsvaret og behandlingen, de vil ofte tilfældigt blive reaktiveret
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvad gør proteinet VIF?:: Stopper en antiviral komponent der inducere fejl i revers transskribtion
 <!--SR:!2026-10-28,13,190-->
 - Hvad gør proteinert VPU?:: Inhibere tetherin der forhindre budding
@@ -57,7 +57,7 @@
 - Sexuel kontakt
 - Nåle
 - Mor til barn (gennem modermælk eller ved fødsel fra cervix)
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-17,63,310-->
 
 ## Symptomer og komplikationer
 - Hvilken sygdom kan den initielle HIV-infektion ofte forveksles med?:: [[Mononukleose]]
@@ -75,7 +75,7 @@
 - Hvilken type infektioner får mennesker med AIDS ofte?:: Opportunistiske infektioner
 <!--SR:!2026-12-17,63,310-->
 - Hvilken effekt har HIV på [[B-celler]]?:: Eftersom T-celler hjælper med modning af B-celler er det til tider svært at lave de rigtige antistofresponser
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-14,60,310-->
 ## Diagonstik
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 <!--SR:!2026-12-11,57,310-->

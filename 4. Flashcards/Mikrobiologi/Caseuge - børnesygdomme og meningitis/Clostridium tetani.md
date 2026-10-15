@@ -8,7 +8,7 @@
 - Hvilken form har C. tetani?:: Stav
 <!--SR:!2026-12-18,64,310-->
 - Hvor lever C. tetani normalt?:: Jord, og GI af mennesker
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-16,62,310-->
 - Hvordan smittes man typisk med C. tetani?:: Stiksår (kan ske uden man har ste såret)
 <!--SR:!2026-12-17,63,310-->
 

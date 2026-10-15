@@ -27,7 +27,7 @@
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 <!--SR:!2026-10-16,16,290-->
 - Hvad menes med at kunne sejre sig selv ihjel med vacciner?:: Vi har vaccineret mod de patogener som førhen oftest gav meningitis dvs der er relativt flere af nogle andre patogener men der er bare mange færre totalt
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-16,62,310-->
 ## Patogenese
 
 - Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
@@ -39,7 +39,7 @@
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
 <!--SR:!2026-10-16,16,290-->
 - Hvad sker til tider med hjernen når intracranielt tryk stiger?:: [[Inkarcerationer]]
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-02,48,290-->
 - Hvilken effekt har [[Blod-hjerne-barrieren]] på hyppighed og sværhedsgrad af meningitis?:: Det beskytter som udgangspunkt mod infektioner i CNS men når der så kommer infektioner deri er det svært at bekæmpe
 <!--SR:!2026-12-17,63,310-->
 - Hvilke patogene giver oftest Aseptisk meningitis?:: Vira
@@ -88,7 +88,7 @@
 <!--SR:!2026-12-18,64,310-->
 
 - Hvad er "meningitistriaden"?:: [[Nakke-ryg-stivhed]], feber og ændret bevisthedsniveu
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-15,61,310-->
 - Hvad er forskellen i symptombillede mellem meningitis og [[Encephalitis]]?:: ENcephalitis giver flere neurale udfald
 <!--SR:!2026-12-17,63,310-->
 

@@ -18,13 +18,13 @@
 - Hvilke arter kan influenza A inficere?:: Mange arter inklusiv mennesker, hunde, grise og fugle
 <!--SR:!2026-12-11,57,310-->
 - Hvilke arter kan influenza B inficere?:: Mennesker og sæler
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-30,46,290-->
 - Hvilke arter kan influenza C infivere?:: Kun mennesker
 <!--SR:!2026-12-18,64,310-->
 - Hvilke arter kan influenza D inficere?:: Køer og grise
 <!--SR:!2026-12-09,57,310-->
 - Hvilke(n) undertype af influenza giver de værste infektioner?:: A (og B)
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-14,60,310-->
 - Hvilken undertype af influenza ses oftest?:: A
 <!--SR:!2026-12-19,65,310-->
 ## Livscyklus
@@ -76,7 +76,7 @@
 - Hvordan behandles influenza oftest?:: Symptombehandling
 <!--SR:!2026-12-18,64,310-->
 - Hvordan forebygges influenza?:: Vacciner
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-17,63,310-->
 - Hvordan virker antivirale lægemidler mod influenza?
 ?
 - Stopper M2 proteiner fra at tillade hydroner at komme ind til kapslen og dermed denaturere det ikke så RNAet ikke kommer ud i cytoplasmaet

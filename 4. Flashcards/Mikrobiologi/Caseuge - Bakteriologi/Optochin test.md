@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad bruges optochintest til?:: At differentiere [[Streptococcer]] fra hinanden
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvad er optochintest overordnet?:: En specifik type resistensbestemmelse overfor optochin
 <!--SR:!2026-12-16,62,310-->
 

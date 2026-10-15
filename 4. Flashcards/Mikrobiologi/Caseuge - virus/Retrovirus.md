@@ -2,7 +2,7 @@
 
 
 - Hvad er en provirus?:: DNA laves af en retrovirus
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvilke "komplikationer" giver retrovira ofte?:: Cancer
 <!--SR:!2026-12-11,57,310-->
 ## Struktur

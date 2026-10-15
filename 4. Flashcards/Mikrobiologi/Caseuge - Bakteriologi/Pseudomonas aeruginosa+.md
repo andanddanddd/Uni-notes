@@ -20,7 +20,7 @@
 ## Patogenese
 - Hvilke celler inficere P. aeruginosa?
 - Hvilke patogenesefaktorer har P. aeruginosa?:: [[Biofilm]], flaggel, pili LPS
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-26,11,270-->
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
 <!--SR:!2026-10-31,16,290-->
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])

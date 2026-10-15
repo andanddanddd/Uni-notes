@@ -15,7 +15,7 @@
 ## Patogenese
 - Hvilke celler inficere C. botulinum?
 - Hvilke patogenesefaktorer har C. botulinum?:: Dens toksin er MEGET potent (bogen siger den kan bruges som biovåben)
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-14,60,310-->
 - Hvilken type toksin er C. boutulinums toksiner?:: Neurotoksiner
 <!--SR:!2026-12-21,67,310-->
 

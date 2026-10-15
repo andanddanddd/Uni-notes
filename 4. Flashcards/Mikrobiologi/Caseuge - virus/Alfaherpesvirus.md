@@ -6,13 +6,13 @@ HSV 1 og 2
 <!--SR:!2026-10-15,16,290-->
 
 - Hvad kendetegner $\alpha$-HPV?:: De er neurotrope (Inficere neuroner som sekundær infektion)
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-08,54,310-->
 - Hvor er $\alpha$-HPV når den er latens?:: Neuroner
 <!--SR:!2026-12-09,57,310-->
 - Hvorfor smitter [[VZV+]] mere end [[HSV-1+]] og [[HSV-2+]]?:: Den kræver ikke direkte kontakt
 <!--SR:!2026-11-12,38,290-->
 - Hvornår smitter [[HSV-1+]] og [[HSV-2+]]?:: De kan godt smitte når de er asymptomatiske
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-15,61,310-->
 - Hvordan kan HSV-1/2 inficere mange forskellige typer celler?:: De har mange forskellige glykoproteiner på deres overflade
 <!--SR:!2026-12-21,67,310-->
 - Hvordan kommer $\alpha$-HPV ind i celler?:: Membranfusion

@@ -30,13 +30,13 @@
 - Hvor smitsom er B. pertussis?:: MEGET smitsom
 <!--SR:!2026-12-14,60,310-->
 - Hvilken smittevej har B. pertussis?:: Inhalation
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-21,67,310-->
 
 ## Symptomer og komplikationer
 - Hvilken infektion giver B. pertussis typisk?:: [[Bronkopneumoni]]
 <!--SR:!2026-10-29,22,250-->
 - Hvad kaldes sygdommen forårsaget af B. pertussis i daglig tale?:: [[Kighoste]]
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-13,59,310-->
 - Hvilken patientgruppe bliver mest syg af B. pertussis?:: Børn
 <!--SR:!2026-12-19,65,310-->
 - Hvorfor kan B. pertussis lede til dehydrering?:: At synke kan give et hosteadfærd derfor prøver børn at undgå det
@@ -56,7 +56,7 @@
 
 ## Forebyggelse og behandling
 - Hvordan forebygges infektioner ved B. pertussis?:: Vaccine
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-13,59,310-->
 - Hvilken resistensmekanisme har B. persussi smod penicilin?:: Naturlig resistens
 <!--SR:!2026-11-08,30,270-->
 - Hvordan behandles B. pertussi?:: [[Makrolider]] og [[Tetracykliner]]
@@ -66,6 +66,6 @@
 - Hvad kendetegner B. pertussis vaccinen?:: [[Subunitvacciner]] der indeholder toksiner samt adhæsionsproteiner
 <!--SR:!2026-12-16,62,310-->
 - Hvornår gives B. pertussis vaccinen?:: ved 3, 5, 12 mdr, 5 år og i 3. trimester af graviditet
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvordan har B. perussis-vaccinen udviklet sig?:: Det startede som en levende svækkede bakterie men nu er den en toksidvaccine
 <!--SR:!2026-12-09,57,310-->

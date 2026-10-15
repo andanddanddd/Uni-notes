@@ -3,7 +3,7 @@
 - Hvad betyder vaccination (vaccinus)?:: Fra koen
 <!--SR:!2026-11-22,62,310-->
 - Hvad er pasteurs fund?:: Efter han gav sine kyllinger en død bakterie (ved et uheld) blev de ikke længere syge af den levende bakterie
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-13,59,310-->
 ![[Pasted image 20260923131453.png]]
 
 ![[Adjuvans]]
@@ -14,7 +14,7 @@
 - [[Levende svækkede vacciner]]
 - [[Ikke-levende vacciner]]
 - [[DNA og mRNA-baseret vacciner (tjek)]]
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-21,67,310-->
 
 
 - Hvad er en cocktailvaccine?:: Når en sprøjte indeholder flere vacciner på en gang

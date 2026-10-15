@@ -3,7 +3,7 @@
 - Hvad kaldes amoeba også?:: Slimdyr
 <!--SR:!2026-10-28,15,290-->
 - Hvad kendetegenr amoeba?:: Pseudopodier
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-30,15,290-->
 - Eksempel på amoeba?:: [[Entamoeba histolytika]]
 <!--SR:!2026-10-16,3,230-->
 - Hvordan bevæger amoeba sig?:: De skyder en pseudopo frem og bevæger derefter resten af cit cytoplasma derhen![[Pasted image 20261006114344.png]]

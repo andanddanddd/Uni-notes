@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken form har spoleorm?:: [[Rundorm]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-30,15,290-->
 - Hvor sker flest infektioner med spoleorm?:: Tropiske og subtropiske områder
 <!--SR:!2026-10-10,4,270-->
 - Hvordan smitter spoleorm?:: Indtagelse af dens æg

@@ -11,7 +11,7 @@
 - Hvilke dyr inficere T. gondii?:: De fleste varmblodede dyr (særligt katte)
 <!--SR:!2026-10-20,7,250-->
 - Hvilken effekt har T. gondii på gnavere?:: De bliver mere risikovillige
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-30,15,290-->
 - Hvor "normal" er T. gondii i DK?:: 26% af bloddonere har antistoffer imod det
 <!--SR:!2026-10-18,9,250-->
 - Hvilke symptomer giver T. gondii?:: Ofte asymptomatisk  eller giver det cervical lymfadenitis med influanza-lignende symptomer

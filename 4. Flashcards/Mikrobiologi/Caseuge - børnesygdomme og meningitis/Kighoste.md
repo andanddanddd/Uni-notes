@@ -14,7 +14,7 @@
 - Hvad er symptomerne i stadie 2 af kighoste?:: Hyppige slemme [[Paroxysms]]
 <!--SR:!2026-12-16,62,310-->
 - Hvor længe varer stadie 2 af kighoste?:: 1-6 uger (2-8 uger ifølge bogen)
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-15,61,310-->
 - Hvad kaldes stadie 2 af kighoste?:: Paroxysmal stadiet
 <!--SR:!2026-12-20,66,310-->
 #### Stadie 3

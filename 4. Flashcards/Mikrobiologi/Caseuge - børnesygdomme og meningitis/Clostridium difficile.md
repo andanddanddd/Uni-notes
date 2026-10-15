@@ -5,7 +5,7 @@
 - Hvilken type cellevæg har C. difficile?:: [[Gram-positive bakterier]]
 <!--SR:!2026-10-12,14,290-->
 - Hvilken form har C. difficile?:: Stav
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-02,48,290-->
 - Hvordan lejres C. difficile?
 - Hvor lever C. difficile normalt?
 - Hvilket oxidativt miljø lever C. difficile bedst i?:: Anaerob
@@ -23,7 +23,7 @@
 - Hvilke patogenesefaktorer har C. difficile?
 ?
 -
-<!--SR:!2026-10-15,16,290--> 
+<!--SR:!2026-12-19,65,310--> 
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med C. difficile?:: Antallet af smittede steg i år 2000 da den muterede

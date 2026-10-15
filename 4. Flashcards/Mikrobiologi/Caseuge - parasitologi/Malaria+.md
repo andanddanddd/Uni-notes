@@ -21,7 +21,7 @@
 - Hvor længe går der fra myggestik til man opdager malaria for P. vivax?:: Der kan gå flere år
 <!--SR:!2026-10-28,15,290-->
 - Hvordan overlever for der bor i malariaområde?:: Der anses det som en børnesygdom hvorefter der opbygges immunitet
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvorfor er der stor risiko for at flygtninge der besøger der malariaramte hjemland bliver syge?:: De har mistet deres immunitet
 <!--SR:!2026-10-10,4,270-->
 - Hvilke myg kan smitte malaria?:: Kvinder
@@ -30,7 +30,7 @@
 <!--SR:!2026-10-28,15,290-->
 ## Patogenese
 - Hvilken "art" af malaria er farligst?:: [[Plasmodium falciparum]]
-<!--SR:!2026-10-11,2,230-->
+<!--SR:!2026-10-22,7,250-->
 - Hvilke celler inficere malaria først i mennesker?:: Leverceller
 <!--SR:!2026-10-31,16,290-->
 - Hvor længe er malaria i leverceller?:: 1-2 uger
@@ -46,7 +46,7 @@
 - Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt
 <!--SR:!2026-10-30,15,290-->
 - Hvordan kommer malaria ud af erytrocytter?:: Lyse
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvordan reproducere malaria?:: Typisk haploid (celledeling), men i blodlumen kan de udvikle sig til at dele sig sexuelt
 <!--SR:!2026-10-27,14,290-->
 - Hvad kaldes cellerne der kommer fra sexuel deling af malaria?::  [[Sporozoitter]]
