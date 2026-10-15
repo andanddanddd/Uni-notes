@@ -9,7 +9,7 @@
 - Hvor lever C. diphtheriae normalt?
 <!--SR:!2026-09-28,4,270-->
 - Hvilket oxidativt miljø lever C. diphtheriae bedst i?:: Anaerobt
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-15,31,270-->
 
 ## Patogenese
 - Hvilke celler inficere C. diphtheriae?

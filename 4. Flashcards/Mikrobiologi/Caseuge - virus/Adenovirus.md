@@ -6,7 +6,7 @@
 - Hvilken form har kapslen på adenovirus?:: Icesadral
 <!--SR:!2026-10-19,14,290-->
 - Har adenovirus en lipidmembran?:: Nej
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-10,26,270-->
 - Hvilken type arvematriale bruger adenovirus?:: dsDNA
 <!--SR:!2026-10-16,1,130-->
 - Hvilken struktur har adenovirus´ arvematriale?:: Lineært (1 segment)
@@ -41,7 +41,7 @@
 - Hvordan behandles adenovirus?:: Typisk er symptombehandling nok
 <!--SR:!2026-10-20,15,290-->
 - Hvordan forebygges adenovirus?:: God hygiejne, derudover er der en oral vaccine men den bruges kun meget lidt (militær i USA)
-<!--SR:!2026-10-15,12,270-->
+<!--SR:!2026-11-29,45,290-->
 
 
 

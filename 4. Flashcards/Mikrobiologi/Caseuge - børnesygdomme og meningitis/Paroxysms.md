@@ -4,7 +4,7 @@
 <!--SR:!2026-12-18,64,310-->
 
 - Hvad sker i en paroxysm?:: >10 kraftfulde host på 1 udånding efterfulgt af en gispen for luft mos en lukket glottis (det sidste giver et "whoop")
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-16,62,310-->
 - Hvilke "symptomer" fremkommer under en paroxysms?
 ?
 - Fremstående øjne

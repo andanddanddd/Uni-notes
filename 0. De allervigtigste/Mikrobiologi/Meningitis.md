@@ -33,7 +33,7 @@
 - Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
 <!--SR:!2026-10-16,16,290-->
 - Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-12-01,47,290-->
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren
 <!--SR:!2026-12-21,67,310-->
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
@@ -54,7 +54,7 @@
 
 ## Diagnostik
 - Hvordan diagnosticeres meningitis overordnet?:: Lumbalpunktur og bloddyrkning
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvad undersøges for i [[Cerebrospinalvæsken (CSF)]] ved mistanke om meningitis?
 ?
 - Leukocytter (med noget der ligner differentialtælling)

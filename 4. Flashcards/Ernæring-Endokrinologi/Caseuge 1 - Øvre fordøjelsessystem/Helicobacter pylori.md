@@ -15,3 +15,4 @@
 
 ### Behandling
 - Hvad består tripelterapi mod H. pylori overodnet af?:: [[Syrepumpehæmmer]] + 2 antibiotika
+<!--SR:!2026-10-19,4,270-->

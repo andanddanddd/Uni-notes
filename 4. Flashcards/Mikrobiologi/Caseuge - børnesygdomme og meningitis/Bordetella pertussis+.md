@@ -13,7 +13,7 @@
 
 ## Patogenese
 - Hvilke celler inficere B. pertussis?:: Cilieret epitel i luftveje
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-14,60,310-->
 - Hvilke patogenesefaktorer har B. pertissis?
 ?
 - [[Pertussis toksin (PTX)]]

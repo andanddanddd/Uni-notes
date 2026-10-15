@@ -60,7 +60,7 @@
 - Hvilke symptomer ses oftest  ved malaria?:: Symptomer der ligner influenze (hovedpine, feber, ledsmerter, manglende appatit, opkast, diarre, hoste og utilpashed)
 <!--SR:!2026-10-19,10,270-->
 - Hvor ofte giver malaria cycklisk feber?:: Sjældent
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvad er cyklisk feber?
 ?
 1. Kuldestadiet (kulderystelser uden feber)

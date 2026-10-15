@@ -8,7 +8,7 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 - Hvad er princippet bag gram-farvning overrdnet?:: Ved de [[Gram-positive bakterier]] bliver det blå kompleks ikke skyldes væk med alkohol dermed forbliver de blå mens de [[Gram-negative bakterier]] bliver "klare"
 <!--SR:!2026-11-20,59,310-->
 - Hvad bruges til at give den røde farve i gram farvning?:: Safranin
-<!--SR:!2026-10-10,28,270-->
+<!--SR:!2027-01-27,104,290-->
 - Safranin er vandopløseligt
 - Hvilken type bakterier bliver røde ved gram-farvning?:: [[Gram-negative bakterier]]
 <!--SR:!2026-11-25,64,310-->
@@ -20,7 +20,7 @@ Hvorfor skal vi varme dem op???? Ødelægger det ikke det vi skal teste for?
 - Hvorfor skal vanddråben+bakterierne tørre helt fr man kan fiksere dem?:: Ellers risikoere man at der ker aerosoldannelse
 <!--SR:!2026-10-16,16,290-->
 - Hvorfor kan et præperat til tider ligne det både er rødt og blåt?:: Det ændre sin cellevæg gennem sin replikationscyklus
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-20,66,310-->
 
 ![[Gram-negative bakterier]]
 

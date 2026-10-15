@@ -3,7 +3,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har C. difficile?:: [[Gram-positive bakterier]]
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-10,56,310-->
 - Hvilken form har C. difficile?:: Stav
 <!--SR:!2026-12-02,48,290-->
 - Hvordan lejres C. difficile?

@@ -6,7 +6,7 @@
 - Hvilken type cellevæg har C. botulinum?:: [[Gram-positive bakterier]]
 <!--SR:!2026-12-16,62,310-->
 - Hvilken form har C. botulinum?:: Stav
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvordan lejres C. botulinum?
 - Hvor lever C. botulinum normalt?
 - Hvilket oxidativt miljø lever C. botulinum bedst i?:: Anaerobt

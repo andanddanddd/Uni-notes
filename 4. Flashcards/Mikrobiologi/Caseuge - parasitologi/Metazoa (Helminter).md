@@ -8,6 +8,6 @@
 - Hvordan deler metazoa sig?:: Sexuelt (dvs der skal være både hanner og hunner for at kunne lave en infektion)
 <!--SR:!2026-10-31,16,290-->
 - Hvordan er livscyklusen typisk af metazoa?:: De kan typisk ikke fuldende en hel livscyklus i mennesker men skal derimod tilbage i et andet dyr
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-30,15,290-->
 - Hvorfor er det vigtigt at vide hvor i livsscyklussen en metazo er?:: For at vælge den rigtige behandling
 <!--SR:!2026-10-28,15,290-->

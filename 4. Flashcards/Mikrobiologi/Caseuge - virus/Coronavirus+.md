@@ -36,7 +36,7 @@
 - Hvad kendetegner smittetilfælde af coronavira?:: De har flere gange givet store epidemier/pandemier når en ny zoonose sker
 <!--SR:!2026-10-22,16,290-->
 - Hvor "lever" $\alpha$ og $\beta$ coronavirus normalt?:: Pattedyr (inkl mennesker)
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-09,25,270-->
 - Hvor lever $\delta$ og $\gamma$ coronavirus normalt?:: Fugle
 <!--SR:!2026-10-23,16,290-->
 - I hvilket dyr bor flest forskellige coronavirus og hvorfor?:: Flagermuse, det ligner ikke de bliver syge af det

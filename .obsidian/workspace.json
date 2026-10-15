@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "Viral hepatitis"
             }
+          },
+          {
+            "id": "0c51b2cfc02fc880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natriumpicosulfat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natriumpicosulfat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d6a845a27b882733",
@@ -257,8 +271,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
+    "4. Flashcards/Fordøjelse II/Viral hepatitis.md",
     "Midler mod forstoppelse (laksantia).md",
     "Serotoninagonister.md",
     "Natriumpicosulfat.md",
@@ -287,7 +302,6 @@
     "4. Flashcards/Fordøjelse II/Pancreatitis.md",
     "4. Flashcards/Fordøjelse II/Akut pancreatitis.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af bugspytkirtlet og galdeblæren.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 4 - Fejlernæring og anæmi/Bilirubin.md",
     "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",
     "Pasted image 20261013120557.png",

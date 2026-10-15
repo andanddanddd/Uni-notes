@@ -19,7 +19,7 @@
 <!--SR:!2026-12-12,58,310-->
 ## Symptomer og komlikation
 - Hvilken sygdom giver C. tetani typisk?:: [[Stivkrampe]]
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-09,55,310-->
 - Hvad kaldes tetanus' toksin der giver sygdom?:: [[Tetanospasmin]]
 <!--SR:!2026-11-11,37,290-->
 - Hvorfor sker neonatal tetanus?:: Tetanus i navlestrengen

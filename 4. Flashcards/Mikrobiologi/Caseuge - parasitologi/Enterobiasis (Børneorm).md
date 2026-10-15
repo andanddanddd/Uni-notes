@@ -3,7 +3,7 @@
 - Hvilken form har børneorm?:: [[Rundorm]]
 <!--SR:!2026-10-30,15,290-->
 - Hvor mange børn er smittet af børneorm i DK?:: Omrking 20%
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvem bliver oftest smittet af børneorm?:: Børn i alderen 5-11
 <!--SR:!2026-10-29,16,290-->
 - Hvilke symptomer giver børnorm?:: Perinal kløe (oftest asymptomatisk)

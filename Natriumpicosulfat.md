@@ -1,4 +1,4 @@
-#flashcards/5/Mikrobiologi 
+#flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad gør natriumpicosulfat overordnet?:: Øger peristaltik af tarmen
 ### Farmakodynamik
