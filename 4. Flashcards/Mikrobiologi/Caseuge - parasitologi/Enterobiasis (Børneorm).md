@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilken form har børneorm?:: [[Rundorm]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-30,15,290-->
 - Hvor mange børn er smittet af børneorm i DK?:: Omrking 20%
 <!--SR:!2026-10-10,4,270-->
 - Hvem bliver oftest smittet af børneorm?:: Børn i alderen 5-11

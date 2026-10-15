@@ -41,7 +41,7 @@
 
 ## Afgang
 - Hvornår kommer genomet ind i kapslen?:: Nogle små vira samler sin kapsel rundt om genomet mens de fleste større samler kapslen først og derefter får genomet derind
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvorfor kan budding resultere i celledød?:: Der mistet for meget cellemembran til tider
 <!--SR:!2026-12-10,58,310-->
 - Hvordan kommer en virus ud af cellen igen?

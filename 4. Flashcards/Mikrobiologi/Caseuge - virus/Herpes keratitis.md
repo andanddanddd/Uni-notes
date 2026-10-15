@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er herpes keratitis overordnet?:: Infektion i cornea forårsaget af HSV 1(/2)
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvornår giver herpes keratitis infektioner?:: Både ved primær og sekundær infektioner
 <!--SR:!2026-11-16,38,270-->
 - Hvilke komplikationer kan herpes keratitis give?:: Arvæv og evt blindhed (eller bar enedsat syn)

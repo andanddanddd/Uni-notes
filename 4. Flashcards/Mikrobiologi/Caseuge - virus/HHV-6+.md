@@ -10,6 +10,6 @@
 - Hvilken sygdom giver HHV-6 oftest?:: [[Roseola infantum]]
 <!--SR:!2026-10-27,14,230-->
 - Hvor mange har været smittet med HHV-6?:: Alle (serumprævalens på over 95% i den voksne befolkning)
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvad er særligt ved latensen ved HHV-6?:: Den kan være chromosomalt integreret i samtlige celler dvs den nedarves og der testes MEGET positivt hvis man tester for HHV-6
 <!--SR:!2026-10-28,21,250-->

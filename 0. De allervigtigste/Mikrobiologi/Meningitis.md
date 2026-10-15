@@ -35,21 +35,21 @@
 - Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
 <!--SR:!2026-10-10,12,270-->
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvilken effekt har meningitis på intracranielt tryk og hvorfor?:: Det stiger pga inflammation resultere i ødemer og nogle gange stopper venerne også med at kunne få ekstra væske væk
 <!--SR:!2026-10-16,16,290-->
 - Hvad sker til tider med hjernen når intracranielt tryk stiger?:: [[Inkarcerationer]]
 <!--SR:!2026-10-15,16,290-->
 - Hvilken effekt har [[Blod-hjerne-barrieren]] på hyppighed og sværhedsgrad af meningitis?:: Det beskytter som udgangspunkt mod infektioner i CNS men når der så kommer infektioner deri er det svært at bekæmpe
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-17,63,310-->
 - Hvilke patogene giver oftest Aseptisk meningitis?:: Vira
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvilken patogen giver oftest de værste sygdomstilfælde af meningitis?:: Bakterier
 <!--SR:!2026-12-10,58,310-->
 - Hvilken bakterie kan give kronisk meningitis?:: [[Mycobacterium tuberculosis+]]
-<!--SR:!2026-10-13,14,290-->
+<!--SR:!2026-11-24,40,290-->
 - Hvorfor kan tuberculose i hjernen pludselig aktiveres til en meningitis?:: Ved anden sygdom (særligt skoldkopper virker det til)
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-18,64,310-->
 ![[Pasted image 20260924115519.png]]
 
 ## Diagnostik
@@ -64,7 +64,7 @@
 <!--SR:!2026-10-16,16,290-->
 
 - Hvad kendetegner meningitis grundet [[Streptococcus pneumoniae+]]?:: Tidligere eller nuværende infektion med enten [[Otitis media]], [[Sinuitis]] eller [[Pneumoni]], meningitistriade
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvad kendetegner meningitis grundet [[Neisseria meningitidis+]]?:: Yngre pt med huduslet og normalt bevisthedsniveu
 <!--SR:!2026-11-26,44,290-->
 - Hvad kendetegner meningitis grundet [[Listeria monocytogenes+]]?:: Gammel (>50 år), immundefekter, lang symptomvarighed
@@ -85,12 +85,12 @@
 - [[Nakke-ryg-stivhed]]
 - Feber
 - Ændret bevisthedsniveu
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-18,64,310-->
 
 - Hvad er "meningitistriaden"?:: [[Nakke-ryg-stivhed]], feber og ændret bevisthedsniveu
 <!--SR:!2026-10-15,16,290-->
 - Hvad er forskellen i symptombillede mellem meningitis og [[Encephalitis]]?:: ENcephalitis giver flere neurale udfald
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-17,63,310-->
 
 ## Behandling
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
@@ -98,9 +98,9 @@
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
 <!--SR:!2026-10-16,16,290-->
 - Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-18,64,310-->
 - Hvorfor vælger man at behandle med $\beta$-lactamere selvom de ikke går meget igennem [[Blod-hjerne-barrieren]]? (der opnås 6-gange så høje concentrationer i serum end i CSF):: De har et højt [[Terapeutisk index]]
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-19,65,310-->
 ![[Pasted image 20260924121316.png]]
 
 Slide 11 viser hvor hjernen kan bevæge sig hen når den løber tør for plads (nr 1 er den mest normale men de er alle meget sjælde og det er i virkeligheden sjældent det man før af)

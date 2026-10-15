@@ -90,7 +90,7 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres B. burgdorferi?:: Serologi og anamnese (kræver til tider en lumbalpunktur)
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-11,57,310-->
 - Hvornår kan det være svært at diagnosticere B. burgdorferi og hvorfor?:: I stadie 3, eftersom den er bekæmpet systemisk men stadig giver lokale problemer (det kan fx findes i ledvæske)
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor dyrker man ikke B. burgdorferi?:: Det tager lang tid og spiraler er generalt sværre at genkende

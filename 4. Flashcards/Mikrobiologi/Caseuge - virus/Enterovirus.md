@@ -13,7 +13,7 @@
 - Replikation
 ## Smitte og epidemiologi
 - Hvornår på året ses flest tilfælde af enterovirus?:: Sensommer og tidlig efterår
-<!--SR:!2026-10-10,7,250-->
+<!--SR:!2026-11-09,25,270-->
 - Hvor "lever" enterovirus normalt
 - Hvordan smitter enterovirus?:: Typisk fæcal-oral men det kan også smitte gennem mad/vand
 <!--SR:!2026-10-18,11,270-->

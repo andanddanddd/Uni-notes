@@ -7,7 +7,7 @@
 - Hvilken type patogen er T. gondii?:: [[Protozoa]]
 <!--SR:!2026-10-27,14,290-->
 - Hvilken type [[Protozoa]] er T. gondii?:: [[Sporozoa]]
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvilke dyr inficere T. gondii?:: De fleste varmblodede dyr (særligt katte)
 <!--SR:!2026-10-20,7,250-->
 - Hvilken effekt har T. gondii på gnavere?:: De bliver mere risikovillige
@@ -15,7 +15,7 @@
 - Hvor "normal" er T. gondii i DK?:: 26% af bloddonere har antistoffer imod det
 <!--SR:!2026-10-18,9,250-->
 - Hvilke symptomer giver T. gondii?:: Ofte asymptomatisk  eller giver det cervical lymfadenitis med influanza-lignende symptomer
-<!--SR:!2026-10-14,1,210-->
+<!--SR:!2026-10-17,2,210-->
 - Hvordan behandles T. gondii?:: Oftest selvlimiterende
 <!--SR:!2026-10-18,9,250-->
 - Hvordan forebygges T. gondii?:: Det er særligt kogenit [[Toxoplasmose]] der skal forebygges, det gøres ved at undgå råt kød, vaske grøntsager grundigt, have godhygiejne ved kontakt med jord og undgå direkte kontakt med kattebakke

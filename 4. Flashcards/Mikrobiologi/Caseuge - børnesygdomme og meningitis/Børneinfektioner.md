@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvorfor bliver børn ofte syge når de starter i vuggestue?:: Der er mange nye patogener og deres oassiv immunitet fra moderen er ved at udløbe
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-12,58,310-->
 - Hvor ofte skyldes inflæggelser af børn infektioner?:: 80% af tiden
 <!--SR:!2026-12-10,58,310-->
 
@@ -24,7 +24,7 @@
 <!--SR:!2026-10-16,13,230-->
 
 - Hvorfor skal man være særlig opmærksom på feber ved små børn?:: De er generalt dårlige til at lave feber
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-16,62,310-->
 
 Aplastisk krise er noget med at dæmpe knolgemarven
 Hvis modereren giver lussingesyg evidere til barnet kan abrnet ikek længere lave røde blodlegemer

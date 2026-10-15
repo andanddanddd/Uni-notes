@@ -5,6 +5,6 @@
 - Hvilke bakterier bruges ureasetest til?:: De store enterobakterier
 <!--SR:!2026-12-12,60,310-->
 - Hvordan laves ureasetest overordnet?:: Podepind med bakterier tilsættes til et ureaserør (indeholder vist noget syre og  en indikator)
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 
 ![[Pasted image 20260922140617.png]]

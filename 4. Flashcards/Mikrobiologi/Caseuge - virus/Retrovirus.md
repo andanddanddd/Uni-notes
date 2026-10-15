@@ -7,7 +7,7 @@
 <!--SR:!2026-10-12,14,290-->
 ## Struktur
 - Har retrovira en lipidmembran?:: Ja
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvilken form har retroviras kapsel?:: Nærmest rund
 <!--SR:!2026-10-16,16,290-->
 - Hvad består retroviras arvematriale af?:: 2 stykker RNA der minder meget om mRNA (den har cap og poly-A-hale)
@@ -19,9 +19,9 @@
 - Hvad gør integrase?:: Inkoperere provirus i genomet
 <!--SR:!2026-10-16,16,290-->
 - Hvilket enzym bruger retrovirus til at lave RNA om til DNA?:: Revers transskripase
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-17,63,310-->
 - Hvad koder *pro* for?:: En protease til at kløve *gag* og *pol*
-<!--SR:!2026-10-11,11,270-->
+<!--SR:!2026-11-23,39,290-->
 - Hvad koder *gag* for?:: De strukturelle komponenter (precursers)
 <!--SR:!2026-11-26,44,290-->
 - Hvad koder *env* for?:: Glykoproteiner (precurser)

@@ -10,10 +10,10 @@ Dugdråbe på et rosenblad (skoldkopper)
 <!--SR:!2026-11-26,44,290-->
 
 - Udover udslet hvilke symptomer giver skoldkopper hos børn?:: Feber og kløen men barnet er typisk ikke mega påvirket
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-12,58,310-->
 - Hvordan er udviklingen af udslettet i skoldkopper?:: Blæner popper op i ca 4 dage, herefter dannes der skorper på blærene
 <!--SR:!2026-12-09,57,310-->
 
 - Hvordan forebygges skoldkopper?:: [[Levende svækkede vacciner]]
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-12,58,310-->
 - 

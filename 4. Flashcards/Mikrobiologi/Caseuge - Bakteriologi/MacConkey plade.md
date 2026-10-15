@@ -5,7 +5,7 @@
 - Hvordan kan macconkey-pladen adskille de store enterobakterier?:: Hvorvidt de er Laktosefermenterende eller ej
 <!--SR:!2026-10-15,16,290-->
 - Hvornår sker farveskift på MacConkey-pladen?:: Når en laktosefermenterende bakterie vokser derpå vil der være et pH skift så bakterierne bliver lyserøde
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-18,64,310-->
 - Hvad siger det om en bakterie hvis den er laktosefermenterende?:: Den er en del af normalfloraen i tarmen
 <!--SR:!2026-10-15,16,290-->
 

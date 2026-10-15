@@ -9,7 +9,7 @@
 <!--SR:!2026-10-29,16,290-->
 - Hvordan lejres P. aeruginosa?
 - Hvor lever P. aeruginosa normalt?:: Vand (eller våde overflader) og grøntsager
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvilket oxidativt miljø lever P. aeruginosa bedst i?:: Mange er obligat aerobe men nogle kan bruge nitrat som elektronacceptor
 <!--SR:!2026-10-24,11,270-->
 - Hvad kendetegner mobiliteten af P. aeruginosa?:: Den er motil (både ved hjælp af [[Flagel]]ler, men også [[Twiching]]
@@ -22,7 +22,7 @@
 - Hvilke patogenesefaktorer har P. aeruginosa?:: [[Biofilm]], flaggel, pili LPS
 <!--SR:!2026-10-10,3,250-->
 - Hvilken "normal" energikilde har P. aeruginosa svært ved at bruge?:: Den kan ikke nedbruge polysakarider (inkl sukrose og laktose)
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvilket eksotoksin producere P. aeruginosa?:: Eksotoksin a (det ligner toksinet dannet af [[Corynebacterium diphtheriae]])
 <!--SR:!2026-10-27,14,290-->
 - Hvilken del af ECM nedbrydes af P. aeruginosa?:: Elastin
@@ -35,7 +35,7 @@
 - Hvor sker meget smitte med P. aeruginosa og hvorfor?:: Sygehuse, den er god til adaptagtioner og er meget resistent'
 <!--SR:!2026-10-27,14,290-->
 - Hvilke infektioner giver P. aeruginosa i diabetespatienter og hvorfor?:: Infektioner af sår, de ahr dårlig circulation så der kommer færre immunceller til at dræbe dem
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvilken tendens har smittetilfælde med P. aeruginosa
 - Hvordan smitter P. aeruginosa?
 - Hvem bliver oftest smittet af P. aeruginosa?:: Cancer-patienter, patienter med cystisk fibrose eller forbrændinger
@@ -49,7 +49,7 @@
 - Hvilken infektioner giver P. aeruginosa ofte ved svømmere?:: [[Otitis eksterna]]
 <!--SR:!2026-10-28,15,290-->
 - Hvilke infektioner giver P. aeruginosa typisk på sygehuse?:: Infektioner af sår og luftvejsinfektioner
-<!--SR:!2026-10-10,3,250-->
+<!--SR:!2026-10-26,11,270-->
 - Hvilke komplikationer kan P. aeruginosa give?:: [[Sepsis]] (den er god til at lave inflammation)
 <!--SR:!2026-10-29,16,290-->
 - Hvilken infektion kan forekomme hvis man bader i varmt vand inficeret med P. aeruginosa?:: [[Foliculitis]]
@@ -70,7 +70,7 @@ Hvordan genkendes den?
 - [[Tetracykliner]]
 - [[Chloramphenicol]]
 - [[Vancomyocin]]
-<!--SR:!2026-10-10,1,190-->
+<!--SR:!2026-10-18,3,210-->
 
 - Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
 <!--SR:!2026-10-27,14,290-->

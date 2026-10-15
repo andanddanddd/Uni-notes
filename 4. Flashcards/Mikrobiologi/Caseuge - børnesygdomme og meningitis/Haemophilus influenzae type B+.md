@@ -21,7 +21,7 @@ Celler inficeret
 
 ## Smitte og epidimologi
 - Hvordan har udviklingen i [[Meningitis]] grundet HIB været?:: Det Inden 1990 var det den bakterie der gav næstflest tilfælde af meningitis, nu ser vi den meget lidt
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-20,66,310-->
 Smitevej
 
 ## Symptomer og komplikationer
@@ -46,9 +46,9 @@ Smitevej
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanisme har nogle H. influenzae type B?:: $\beta$-lactamase produktion og mange er resistente overfor [[Makrolider]]
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-15,61,310-->
 - Hvordan forebygges infektioner med H. influenzae type B?:: Vacciation
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-11,57,310-->
 #### Vaccination
 - Hvad kendetegner HIB vccinationen?:: Kapsidvaccine ([[Subunitvacciner]])
 <!--SR:!2026-12-07,55,310-->

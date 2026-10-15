@@ -12,7 +12,7 @@
 - Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter morbilli virus?:: Aerosoler
-<!--SR:!2026-10-10,7,250-->
+<!--SR:!2026-11-09,25,270-->
 - Hvilke celler inficere morbillivirus?:: Epitelceller i luftvejene i starten herfra spreder det sig gennem blodbanen
 <!--SR:!2026-10-20,15,290-->
 - Hvordan kommer morbilli virus ind i cellen?
@@ -38,7 +38,7 @@
 - Hvordan gør morbillivirus os syge?:: Det dræber epitelceller men mange af symptomerne kommer fra immunresponset
 <!--SR:!2026-10-18,10,270-->
 - Hvilken sygdom giver morbillivirus?:: [[Mæslinger]]
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvordan er sygdomsforløbet af morbillivirus overordnet?:: 2-3 dage med feber før der kommer et karakteristisk udslet
 <!--SR:!2026-10-23,16,290-->
 - Hvilke komplikation har morbilli virus give?

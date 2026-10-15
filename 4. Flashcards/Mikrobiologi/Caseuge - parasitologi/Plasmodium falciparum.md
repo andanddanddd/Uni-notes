@@ -7,5 +7,5 @@
 - Hvorfor er P. palciparum farlig?:: Det får erytrocytterne til at udstrykke et adhæsionsprotein så der kommer mikrotromber i kapilærene
 <!--SR:!2026-10-16,7,250-->
 - Hvorfor er P. falciparum meget mere virulent end de andre malaria?:: Det inficere alle stadier af erytrocytter
-<!--SR:!2026-10-11,4,270-->
+<!--SR:!2026-10-31,16,290-->
 ![[Pasted image 20261005133613.png]]

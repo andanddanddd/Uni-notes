@@ -16,4 +16,4 @@
 - Hud der ser "solbrændt ud" (det kan også pilles af når sygdommmen er ved at gå over)
 - Lavt blodtryk
 - Dysfunktionelle organsystemer
-<!--SR:!2026-10-10,19,250-->
+<!--SR:!2026-12-04,50,250-->

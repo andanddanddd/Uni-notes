@@ -61,7 +61,7 @@
 - [[Ciprofloxacin]]
 - [[Sulfamethizol]] + [[Trimethoprim]]
 - Hvadend bakterien respondere på
-<!--SR:!2026-10-13,21,250--> 
+<!--SR:!2026-12-06,52,250--> 
 
 ## Komplikationer
 - Hvad er de 2 typiske komplikationer til cystitis?

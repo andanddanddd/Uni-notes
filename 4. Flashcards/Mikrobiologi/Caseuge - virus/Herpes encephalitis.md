@@ -7,6 +7,6 @@
 - Hvor dødeligt er herpes encephalitis?:: 70% uden behandling 40% med
 <!--SR:!2026-10-15,16,290-->
 - Hvorfor giver det mening af HPV kan give herpes encephalitis?:: Det ligger latent i neuroner, derfra skal det "bare" bevæge sig den forkerte vej
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-14,60,310-->
 - Hvem får oftest herpes encephalitis?:: Mennesker med defekter i TLR-3
 <!--SR:!2026-10-18,13,230-->

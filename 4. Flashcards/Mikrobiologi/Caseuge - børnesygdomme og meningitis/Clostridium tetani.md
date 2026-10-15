@@ -2,37 +2,37 @@
 
 ## Generalt
 - Hvilket oxidativt forhold lever C. tetani bedst i?:: Anaerob
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvilken type cellemembran har C. tetani?:: [[Gram-positive bakterier]]
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvilken form har C. tetani?:: Stav
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-18,64,310-->
 - Hvor lever C. tetani normalt?:: Jord, og GI af mennesker
 <!--SR:!2026-10-14,16,290-->
 - Hvordan smittes man typisk med C. tetani?:: Stiksår (kan ske uden man har ste såret)
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-17,63,310-->
 
 ## Patogenese
 - Hvordan giver tetanospasmin overordnet symptomer?:: Stopper GABA fra at blive frigivet i synapsekløften
 <!--SR:!2026-10-16,16,290-->
 - Hvordan kommer tetanospasmin hen til axonenden?:: Det bevæger dig retrograd (fra axonende til dendrit) herfra går det over synapsekløften og ender derfor i axonenden på 1. moterneuron
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-12,58,310-->
 ## Symptomer og komlikation
 - Hvilken sygdom giver C. tetani typisk?:: [[Stivkrampe]]
 <!--SR:!2026-10-12,14,290-->
 - Hvad kaldes tetanus' toksin der giver sygdom?:: [[Tetanospasmin]]
 <!--SR:!2026-11-11,37,290-->
 - Hvorfor sker neonatal tetanus?:: Tetanus i navlestrengen
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-11-29,45,290-->
 - Hvad er typisk det første symptom på stivkrampe?:: Låst kæbe
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-21,67,310-->
 - Hvordan dør man af stivkræmpe?:: paralyseret respirationsmuskulatur
 <!--SR:!2026-12-09,57,310-->
 ## Forebyggelse og behandling
 - Hvordan forebygges infektion med C. tetani overordnet?:: Vaccine
 <!--SR:!2026-12-15,63,310-->
 - Hvad kendetegner C. tetani vaccinen?:: Toksidvaccine ([[Subunitvacciner]])
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-18,64,310-->
 - Hvordan behandles en infektion med C. tetani?:: [[Passiv immunisering]], antitoksin, [[Benzylpenicillin]] og evt muskel relaksantia (kan føre til respiratorbehandling)
 <!--SR:!2026-11-22,40,290-->
 

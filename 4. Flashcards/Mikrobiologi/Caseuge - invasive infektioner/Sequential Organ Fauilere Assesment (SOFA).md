@@ -22,9 +22,9 @@
 - Hvilke cytokiner får leveren til at producere ekstra [[C-reaktivt protein (CRP)]], [[Komplementfaktorer]], og koagulationsfaktorer ?:: [[IL-6]] og [[IL-1beta]]'
 <!--SR:!2026-10-17,12,270-->
 - Hvilke metabolske ændringer sker under sepsis der leder til organsvigt?:: [[Insulinresistens]] og [[Hyperglykæmi]]
-<!--SR:!2026-10-14,11,270-->
+<!--SR:!2026-11-24,40,290-->
 - Hvilken tilstand kan øget mængde koagulationsfaktorer lede til?:: [[Dissminated intravascular coagulation (DIC)]]
-<!--SR:!2026-10-11,8,250-->
+<!--SR:!2026-11-12,28,270-->
 - Hvilken type bakterie giver oftets sepsis og hvorfor?:: [[Gram-negative bakterier]] bakterie eftersom [[Lipopolysakkarid (LPS)]] giver stor cytokinproduktion
 <!--SR:!2026-10-22,16,290-->
 - Hvorfor sker hypotention i sepsis?
@@ -36,4 +36,4 @@
 - Hvad sker med hjernen under sepsis?:: Den får ikke nok ilt hvilket leder til konfusion
 <!--SR:!2026-10-17,12,270-->
 - Hvad sker med nyrene under sepsis?:: Nekrose
-<!--SR:!2026-10-14,11,270-->
+<!--SR:!2026-11-23,39,290-->

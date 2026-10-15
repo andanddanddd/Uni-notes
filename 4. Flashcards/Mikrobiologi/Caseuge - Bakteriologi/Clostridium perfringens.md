@@ -17,7 +17,7 @@
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
 <!--SR:!2026-10-16,16,290-->
 - Hvilket oxidativt miljø lever C. perfringes bedst i?:: Anerob
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-16,62,310-->
 
 ## Patogenese
 - Hvad er inkubtionstiden på madforgiftning grundet C. perfringens?:: 8-24 timer
@@ -45,12 +45,12 @@
 ?
 - Madforgiftning
 - Sårinfektioner (cellulitis)
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-19,65,310-->
 
 - Hvilke komplikationer kan C. perfringes give?:: [[Crepitus]]
 <!--SR:!2026-10-16,13,230-->
 - Hvad kendetegner en sårinfektion grundet C. perfringens?::
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-19,65,310-->
 ## Diagnostik
 Dyrkningsmedie?
 Hvordan genkendes den?
@@ -60,7 +60,7 @@ Hvordan genkendes den?
 - Hvilke resistensmekanismer har C. perfringes?
 - Hvordan forebygges C. perfringes?
 - Hvordan behandles gastroenteritis C. perfringes?:: Det gør det typisk ikke, hvis det gør er det vand + elektrolytter
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-19,65,310-->
 
 - Hvilken effekt har antibiotika på madforgiftning grundet C. perfringens?:: Ingen
 <!--SR:!2026-11-04,40,290-->

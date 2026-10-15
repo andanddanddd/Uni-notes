@@ -4,6 +4,7 @@
 - Hvad er etiologien bag akut cholecystitis?:: [[Choleliathitis]] der sidder fast i halsen af galdeblæren (oftest)![[Pasted image 20261006141334.png|441]]
 <!--SR:!2026-10-27,14,290-->
 - Hvornår er der bakterier i akut cholecystitis?:: Det er der som udgangspunkt ikke men, det foregår ofte som sekundær infektion
+<!--SR:!2026-10-19,4,270-->
 ## Klinisk præsentation
 - Hvilke symptomer har akut cholecystitis?
 ?
@@ -30,3 +31,4 @@
 <!--SR:!2026-10-24,11,270-->
 ### Behandling
 - Hvordan behandles akut cholecystitis typisk?:: Kiruisk fjernelse af galdeblæren
+<!--SR:!2026-10-19,4,270-->

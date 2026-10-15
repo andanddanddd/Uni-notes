@@ -9,13 +9,13 @@
 - Hvordan lejres C. difficile?
 - Hvor lever C. difficile normalt?
 - Hvilket oxidativt miljø lever C. difficile bedst i?:: Anaerob
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-11,57,310-->
 
 ## Patogenese
 - Hvilke celler inficere C. difficile?:: Den kolonisere colon og udskiller toksiner
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-17,63,310-->
 - Hvordan skader C. difficile tarmvæggen?:: Dens toksiner gør
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-16,62,310-->
 - Hvad gør C. difficile toksin A?:: Øger permabilitet af enterocytter (forårsager diarre)
 <!--SR:!2026-11-18,40,290-->
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
@@ -33,7 +33,7 @@
 - Hvem får oftest en infektion med C. difficile?:: Kvinder oftere end mænd men det er primært ældre og indlagte
 <!--SR:!2026-12-14,62,310-->
 - Hvad kan øge en persons risiko for at blive inficeret med C. difficile?:: Specifike antibiotikabehandlinger
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-16,62,310-->
 
 ## Symptomer og komplikationer
 - Hvad er det mest almindelige symptom af C. difficile?:: Diarre
@@ -54,6 +54,6 @@ Hvordan genkendes den?
 - Hvilke antibiotika er C. difficile resistente overfor?:: [[Flourquinoloner]] (sporene er resistente overfor det meste)
 <!--SR:!2026-10-26,13,210-->
 - Hvordan forebygges C. difficile?:: Hygiejne og undgå at give specifikke antibiotika til folk i risikogruppen for C. difficile
-<!--SR:!2026-10-14,15,290-->
+<!--SR:!2026-12-15,61,310-->
 - Hvordan behandles C. difficile?:: Nogle gange skal den antibiotiakkur der førte til infektionen stoppes ellers kan [[Vancomyocin]] eller [[Metronidazol]] gives
 <!--SR:!2026-10-10,12,270-->

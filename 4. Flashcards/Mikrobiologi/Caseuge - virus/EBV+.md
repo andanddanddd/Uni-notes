@@ -7,13 +7,13 @@
 - Hvilke celler inficere EBV?:: [[B-celler]] og epitelceller
 <!--SR:!2026-12-09,57,310-->
 - Hvorfor bliver teeangere syge med EBV?:: Det er der de begynder at dele spyt igen (dvs dem der ikke fik den dom lille får den der)
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-16,62,310-->
 - Hvor mange voksne er smittet med EBV?:: Nærmest alle
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-20,66,310-->
 - Hvorfor er det værre at få EBV som teenager end som barn?:: De har et større immunrespons
 <!--SR:!2026-10-15,16,290-->
 - Hvordan diagnosticeres EBV?:: Serologi
-<!--SR:!2026-10-12,14,290-->
+<!--SR:!2026-12-11,57,310-->
 
 
 T-celler på slide 40 til venstre (effekter-T-celler da responset foregår i blodet)

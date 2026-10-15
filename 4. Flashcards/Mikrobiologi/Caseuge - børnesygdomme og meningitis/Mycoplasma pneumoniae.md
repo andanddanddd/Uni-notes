@@ -14,7 +14,7 @@
 
 ## Patogenese
 - Hvilke celler inficere M. pneumoniae?:: Det gør den ikke de
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-03,19,250-->
 - Hvilke patogenesefaktorer har M. pneumoniae?
 - Hvad sker med cellerne i respirationssystemet når M. pneumoniae binder dertil?:: Ciliostase
 <!--SR:!2026-10-17,12,270-->
@@ -22,12 +22,12 @@
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med M. pneumoniae:: De forekommer læbende med en lille epidemi ca hver 4 år
-<!--SR:!2026-10-13,10,270-->
+<!--SR:!2026-11-22,38,290-->
 - Hvordan smitter M. pneumoniae?
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver M. pneumoniae?:: [[Atypisk pneumoni]]
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-12-01,47,290-->
 
 - Hvilke komplikationer kan M. pneumoniae give?:
 ## Diagnostik

@@ -1,6 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er cholangitis?:: Inflammation i galdegangene
+<!--SR:!2026-10-19,4,270-->
 - Hvad er de 2 etiologier til cholangitis?
 ?
 - Autoimmunt

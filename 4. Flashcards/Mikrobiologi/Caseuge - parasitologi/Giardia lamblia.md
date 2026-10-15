@@ -11,4 +11,4 @@
 - Hvilke symptomer giver G. lamblia?:: Diarre, træthed, mavekramper, kvalme og oppustethed
 <!--SR:!2026-10-21,12,270-->
 - Hvordan diagnosticeres G. lamblia?:: PCR
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-31,16,290-->

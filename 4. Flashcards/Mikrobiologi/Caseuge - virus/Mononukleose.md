@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad hedder mononukleose på dansk?:: Kyssesyge
-<!--SR:!2026-10-14,16,290-->
+<!--SR:!2026-12-19,65,310-->
 - Hvad kendetegner mononukleose på et blodudstrøg?:: Lymfocytter med store irregulere kerner (de er effektorceller)![[Pasted image 20260918130644.png]]
 <!--SR:!2026-12-09,57,310-->
 - Hvilke symptomer har mononukleose typisk?

@@ -25,14 +25,14 @@
 ?
 - Antistoffer der forhindre virusens tilhæftning
 - Tc-respons
-<!--SR:!2026-10-13,15,290-->
+<!--SR:!2026-12-17,63,310-->
 
 - Hvad er målet at immunsystemet gør når vi vaccinere mod en bakterie
 ?
 - Antistoffer der forhindre tilhæftning
 - Opsoiniserende antistoffer
 - Antistoffer til neutralisering af toksiner
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-16,62,310-->
 
 ![[Vaccinetiming]]
 

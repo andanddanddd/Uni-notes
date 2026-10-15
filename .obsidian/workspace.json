@@ -250,11 +250,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "Dysplasi.md",
     "4. Flashcards/Fordøjelse II/Kronisk pancreatitis.md",
     "4. Flashcards/Fordøjelse II/Pancreatitis.md",
     "4. Flashcards/Fordøjelse II/Akut pancreatitis.md",
@@ -281,7 +283,6 @@
     "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
     "4. Flashcards/Fordøjelse II/Ultralyd af abdomen.md",
     "Externe dokumenter/Fordøjelse II/Slides - Diagnostic methods - 2026.pdf",
-    "4. Flashcards/Fordøjelse II/Capsulær endoskopi.md",
     "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Drugs_liver_2026.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Inflammatorisk tarmsygdom (IBD) - bachelor i medicin, AAU 07102026.pdf",

@@ -55,7 +55,7 @@
 - Feber
 ## Diagonstik
 - Hvordan diagnosticeres rotavirus?:: Antigentest på fæcesprøver (eller elektronmikroskopi)
-<!--SR:!2026-10-12,7,250-->
+<!--SR:!2026-11-09,25,270-->
 
 ## Forebyggelse og behandling
 - Hvordan behandles rotavirus?:: Vand og elektrolytter
