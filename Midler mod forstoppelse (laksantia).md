@@ -8,7 +8,8 @@
 - Blødgøende
 - Volumenforøgende [[Kostfibre]]
 - Osmotisk [[Linaclotid]]
-- Reflektorisk
+- Peristaltikfremmende [[Natriumpicosulfat]]
+- [[Serotoninagonister]]
 
 ### Farmakokinetik
 
