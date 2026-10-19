@@ -20,7 +20,7 @@
 - Hvordan "starter" sepsis?:: Ved en normal infektion dvs der udskilles mange [[Proinflammatoriske cytokiner]] eks [[TNF-alfa]], [[IL-1]], [[IL-6]], [[IL-8]], [[IL-12]] og [[IL-18]]
 <!--SR:!2026-10-18,12,270-->
 - Hvilke cytokiner får leveren til at producere ekstra [[C-reaktivt protein (CRP)]], [[Komplementfaktorer]], og koagulationsfaktorer ?:: [[IL-6]] og [[IL-1beta]]'
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-02,44,290-->
 - Hvilke metabolske ændringer sker under sepsis der leder til organsvigt?:: [[Insulinresistens]] og [[Hyperglykæmi]]
 <!--SR:!2026-11-24,40,290-->
 - Hvilken tilstand kan øget mængde koagulationsfaktorer lede til?:: [[Dissminated intravascular coagulation (DIC)]]

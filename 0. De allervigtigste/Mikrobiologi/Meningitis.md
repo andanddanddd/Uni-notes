@@ -19,13 +19,13 @@
 ?
 - [[Streptococcus agalactiae]]
 - [[Escherichia coli+]]
-<!--SR:!2026-10-18,12,230-->
+<!--SR:!2026-11-15,27,230-->
 
 - Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
 <!--SR:!2026-10-16,11,250-->
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-24,66,310-->
 - Hvad menes med at kunne sejre sig selv ihjel med vacciner?:: Vi har vaccineret mod de patogener som førhen oftest gav meningitis dvs der er relativt flere af nogle andre patogener men der er bare mange færre totalt
 <!--SR:!2026-12-16,62,310-->
 ## Patogenese
@@ -61,7 +61,7 @@
 - Proteinkoncentration
 - Glykose
 - Laktat
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-22,64,310-->
 
 - Hvad kendetegner meningitis grundet [[Streptococcus pneumoniae+]]?:: Tidligere eller nuværende infektion med enten [[Otitis media]], [[Sinuitis]] eller [[Pneumoni]], meningitistriade
 <!--SR:!2026-12-21,67,310-->

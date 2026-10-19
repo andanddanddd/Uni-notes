@@ -64,7 +64,7 @@ Tendens
 - Hvor længe varer det grå hepatisationsstadium af pneumoni grundet s. pneumoniae?:: ca 4 dage (dag 4-8)
 <!--SR:!2026-10-23,16,290-->
 - Hvad kendetegner det grå hepatisationsstadium?:: MANGE neutrofile granulocytter i alveolerne
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-03,45,290-->
 ###### Resolulationsfase
 - Hvad sker overordnet i resolutionsfasen?:: Oprydning lavet af makrofager, eksudat forsvinder
 <!--SR:!2026-10-20,15,290-->

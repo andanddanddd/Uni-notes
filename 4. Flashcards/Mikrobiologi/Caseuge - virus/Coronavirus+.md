@@ -15,17 +15,17 @@
 
 ## Subtyper
 - Hvad hedder de 4 subtyper af coronavirus?:: $\alpha$-, $\beta$-, $\delta$- $\gamma$-coronavirus
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-03,45,290-->
 - Hvad er forskellen i sværhedsgrad mellem $\alpha$ og $\beta$ coronavirus?:: $\alpha$ coronavirus giver bare normal forkølelse mens $\beta$-coronavirus også giver alvorlige nedre luftvejsinfektioner (det er altid $\beta$-coronavirus der giver de slemme epidemier)
 <!--SR:!2026-10-22,16,290-->
 
 ## Livscyklus
 - Hvilke celler inficere coronavirus?:: Epitelceller i luftvejene
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-13,55,310-->
 - Hvilken receptor bruger SARS-COV-1/2 til at komme ind i cellerne med?:: ACE-2
 <!--SR:!2026-10-19,14,290-->
 - Hvordan kommer coronavirus ind i cellen? (mekanisme):: Membranfusion
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-16,58,310-->
 - Hvad er specielt ved coronavirus RNA-polymerase?:: Den kan "hoppe" mellem forskelige steder på RNA og mellem forskellige stykker RNA hvilket resultere i rekombination, derudover har den en høj fejlrate
 <!--SR:!2026-10-21,16,290-->
 - Hvordan kommer coronavirus ud af cellen?:: Den får en lipidmembran og kommer ind i en vesikel i golgi herefter sker exocytose
@@ -52,7 +52,7 @@
 - Hvilke infektioner giver coronavirus oftest?:: Infektioner i luftvejene
 <!--SR:!2026-10-23,16,290-->
 - Hvilke symptomer giver endemisk coronavirus typisk?:: [[Forkølelse]]
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,56,310-->
 - Hvem for oftest slemem coronavirusinfektioner?:: Ældre (og immunkomprimiterede)
 <!--SR:!2026-10-19,14,290-->
 

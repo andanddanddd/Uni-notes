@@ -5,7 +5,7 @@
 
 ## Patogenese
 - Hvad er myelitis overordnet?:: Infektion i rygmarven
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-25,67,310-->
 
 ## Klinisk præsentation
 

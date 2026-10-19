@@ -14,7 +14,7 @@
 
 ## Patogenese
 - Hvordan giver tetanospasmin overordnet symptomer?:: Stopper GABA fra at blive frigivet i synapsekløften
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-23,65,310-->
 - Hvordan kommer tetanospasmin hen til axonenden?:: Det bevæger dig retrograd (fra axonende til dendrit) herfra går det over synapsekløften og ender derfor i axonenden på 1. moterneuron
 <!--SR:!2026-12-12,58,310-->
 ## Symptomer og komlikation

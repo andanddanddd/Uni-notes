@@ -39,7 +39,7 @@
 - Hvordan smitter C. perfringens?:: Ikke gennem mennesker kun gennem fødevarer
 <!--SR:!2026-11-08,45,290-->
 - Hvilke symptomer har madforgiftning grundet C. perfringens?:: Pludselig indtrædning af vandig diarre og mavesmerter
-<!--SR:!2026-10-16,25,270-->
+<!--SR:!2027-01-21,94,290-->
 ## Symptomer og komplikationer
 - Hvilke infektioner giver C. perfringes?
 ?

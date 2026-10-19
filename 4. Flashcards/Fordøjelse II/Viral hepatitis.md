@@ -13,7 +13,7 @@
 <!--SR:!2026-10-17,3,250-->
 
 - Hvordan behandles viral hepatitis overordnet?:: Antivirale midler eller immunsuprimerende
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-10-31,12,270-->
 
 ![[Hepatitis A]]
 

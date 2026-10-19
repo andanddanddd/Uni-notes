@@ -41,7 +41,7 @@
 
 ## Epidimologi
 - Hvorfor har influenza mulighed for at give gentagne pandemier?:: Eftersom det består af 8 seperate stykker RNA er der mulighed for [[Antigenskift]], dette er særligt muligt da der findes mange influenzavarianter i dyr
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-23,65,310-->
 - Hvor længe tager det for [[Genetisk drift]] at "lave" en virus som igen kan smitte et tidligere inficeret menneske?:: 3-5 år
 <!--SR:!2026-12-16,62,310-->
 - Hvornår er der flest tilfælde af influenza A+B?:: Vinterhalvåretet (Oktober til april i den norlige hemisphere)
@@ -58,7 +58,7 @@
 - Muskelsmerter
 - Træthed
 - Hovedpine
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-23,65,310-->
 
 - Hvilke "alvorlige" sygdomme kan influenzavirus give?
 ?

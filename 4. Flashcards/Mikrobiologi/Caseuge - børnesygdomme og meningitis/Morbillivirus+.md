@@ -8,7 +8,7 @@
 - Har morbilli virusen lipidmembran?:: Ja
 <!--SR:!2026-10-20,15,290-->
 - Hvilken type arvematriale bruger morbilli virus?:: RNA-
-<!--SR:!2026-10-17,4,190-->
+<!--SR:!2026-10-26,7,190-->
 - Hvilken struktur har morbilli virus arvematriale
 ## Livscyklus
 - Hvordan smitter morbilli virus?:: Aerosoler

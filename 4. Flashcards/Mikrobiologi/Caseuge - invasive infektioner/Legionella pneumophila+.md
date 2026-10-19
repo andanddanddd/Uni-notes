@@ -14,7 +14,7 @@
 
 ## Patogenese
 - Hvilke celler inficere L. pneumophila?:: Makrofager i [[Alveoler]]ne
-<!--SR:!2026-10-16,11,270-->
+<!--SR:!2026-11-28,40,290-->
 - Hvilken effekt har makrofagerne i alveolerne på væksten af L. pneumophilia?:: De forhindre ikke vækst (eller dræber) før de bliver aktiveret af cytokiner
 <!--SR:!2026-10-22,16,290-->
 - Hvordan undgår L. pneumophila at dø intracellulært?:: Forhindre fusion af fagosom og lysosom
@@ -26,7 +26,7 @@
 - Hvor formere L. pneumophila sig?:: Den er fakultativ intracellulær særligt i makrofager
 <!--SR:!2026-10-17,12,270-->
 - Hvilke patogenesefaktorer har L. pneumophila?:: [[Biofilm]]
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-12-04,46,290-->
 - Hvad kendetegner L. pneumophilas emperaturtolerance/preferance?:: Den kan vækste i temperaturer op mod 45 grader C og dør ikke før meget højere temperaturer
 <!--SR:!2026-10-23,16,290-->
 - Hvornår skifter L. pneumophilia phenotype?:: Når der mangler næring særligt nukleisyre
@@ -54,7 +54,7 @@
 - Hvordan smitter L. pneumophila?:: Gennem vand særligt vandbeholdere, men det kan også smitte fra menneske til menenske gennem dråber (det er den bakterie der hyppigst smitter fra vand i USA)
 <!--SR:!2026-10-20,15,290-->
 - Hvem smittes ofte af L. pneumophila?:: Ældre
-<!--SR:!2026-10-18,11,270-->
+<!--SR:!2026-11-30,42,290-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver L. pneumophila?:: [[Atypisk pneumoni]] (men alvorligt)
@@ -81,11 +81,11 @@
 Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres L. pneumophila?:: Urinprøve eller bakteriekulturer (man kan også bruge PCR eller massespektroskopi)
-<!--SR:!2026-10-19,10,270-->
+<!--SR:!2026-11-14,26,270-->
 - Hvilke problemer har urinprøve som diagnostik for L. pneumophilia?:: Den opfanger kun havldelen af serotyper
 <!--SR:!2026-10-23,16,290-->
 - Hvordan dyrkes L. pneumophila?:: På specialplader med mange aminosyrer
-<!--SR:!2026-10-18,11,270-->
+<!--SR:!2026-11-27,39,290-->
 - Hvilke ulemper har det at bruge dyrkning til diagnostik af L. pneumophilia?:: Det tager lang tid (3-5 dage) og kræver en speciel dyrkningsmedie
 <!--SR:!2026-10-24,15,290-->
 - Hvilke toks-værdier ændre sig ved en L. pneumophilia infektion?
@@ -99,7 +99,7 @@ Hvordan genkendes den?
 ?
 - Kun let forhøjede leukocytter og uden dominerende neutrofile granulocytter
 - Tegn på lever eller nyreskade
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-11-20,32,270-->
 
 - Hvad ses typisk på en gram-farvning af opspyt fra en person inficerede med L. pneumophilia?:: Mange neutrofile granulocytter men nærmest ingen bakterier
 <!--SR:!2026-10-23,16,290-->

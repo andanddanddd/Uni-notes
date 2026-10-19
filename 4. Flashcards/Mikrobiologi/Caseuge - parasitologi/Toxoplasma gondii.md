@@ -13,10 +13,10 @@
 - Hvilken effekt har T. gondii på gnavere?:: De bliver mere risikovillige
 <!--SR:!2026-10-30,15,290-->
 - Hvor "normal" er T. gondii i DK?:: 26% af bloddonere har antistoffer imod det
-<!--SR:!2026-10-18,9,250-->
+<!--SR:!2026-11-19,31,270-->
 - Hvilke symptomer giver T. gondii?:: Ofte asymptomatisk  eller giver det cervical lymfadenitis med influanza-lignende symptomer
 <!--SR:!2026-10-17,2,210-->
 - Hvordan behandles T. gondii?:: Oftest selvlimiterende
-<!--SR:!2026-10-18,9,250-->
+<!--SR:!2026-11-19,31,270-->
 - Hvordan forebygges T. gondii?:: Det er særligt kogenit [[Toxoplasmose]] der skal forebygges, det gøres ved at undgå råt kød, vaske grøntsager grundigt, have godhygiejne ved kontakt med jord og undgå direkte kontakt med kattebakke
 <!--SR:!2026-10-27,14,290-->

@@ -45,7 +45,7 @@
 - (evt let feber, hovedpine og muskelsmerter)
 <!--SR:!2026-09-30,16,290-->
 - Hvad kendetegner afføringen af en noroviruspatient?:: Den er ikke blodig
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-15,57,310-->
 ## Diagonstik
 - Hvordan diagnosticeres norovirus?:: RT-PCR af fæcesprøver (den detektere RNA)
 <!--SR:!2026-12-05,47,290-->
