@@ -20,7 +20,7 @@
 - Hvor "lever" hepatitis A normalt?:: Kun mennesker
 <!--SR:!2026-11-03,15,290-->
 - Hvordan smitter hepatitis A?:: Fæcal-oralt
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,56,310-->
 
 ## Symptomer og komplikationer
 - Hvilke symptomer har hepatitis A?

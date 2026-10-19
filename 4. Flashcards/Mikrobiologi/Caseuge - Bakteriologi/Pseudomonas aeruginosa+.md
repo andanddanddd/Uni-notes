@@ -70,7 +70,7 @@ Hvordan genkendes den?
 - [[Tetracykliner]]
 - [[Chloramphenicol]]
 - [[Vancomyocin]]
-<!--SR:!2026-10-18,3,210-->
+<!--SR:!2026-10-25,6,210-->
 
 - Hvorfor er P. aeruginosa resistent overfor så mange antibiotika?:: Den er bare impermibel
 <!--SR:!2026-10-27,14,290-->

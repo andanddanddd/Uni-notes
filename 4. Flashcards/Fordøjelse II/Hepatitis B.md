@@ -2,7 +2,7 @@
 
 
 Hvad kaldes hepatitis B også og hvorfor?:: Serum hepatitis da den kan overføres via blod (også HBV)
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->
 ## Struktur
 - Hvilken form har kapslen på hepatitis B
 - Har hepatitis B en lipidmembran?:: Ja

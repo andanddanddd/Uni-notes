@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilke bakterier bruges macConkey-pladen typisk til?:: Store enterobakterier (store gramnegative stave)
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-22,64,310-->
 - Hvordan kan macconkey-pladen adskille de store enterobakterier?:: Hvorvidt de er Laktosefermenterende eller ej
 <!--SR:!2026-12-16,62,310-->
 - Hvornår sker farveskift på MacConkey-pladen?:: Når en laktosefermenterende bakterie vokser derpå vil der være et pH skift så bakterierne bliver lyserøde

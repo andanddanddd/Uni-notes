@@ -46,7 +46,7 @@ Tendens
 - Rødt hepatisationsstadium
 - Gråt hepatisationsstadium
 - Resolutionsfasen
-<!--SR:!2026-10-16,11,270-->
+<!--SR:!2026-12-01,43,290-->
 
 ###### Serøse fase
 - Hvor længe varer den serøse fase af pnuemoni grundet s. pneumoniae?:: 1 dag (dag 1)

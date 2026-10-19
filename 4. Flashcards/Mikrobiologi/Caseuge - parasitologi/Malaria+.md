@@ -6,7 +6,7 @@
 - Hvilken type parasit er malaria?:: [[Protozoa]] specifikt [[Sporozoa]]
 <!--SR:!2026-10-31,16,290-->
 - Hvilket "genus" har malaria?:: Plasmodium
-<!--SR:!2026-10-16,7,250-->
+<!--SR:!2026-11-12,24,270-->
 ## Smitte
 - Hvor forekommer malaria?:: Primært Afrika men også det norlige Sydamerika, Asien og nordlige Oceanien
 <!--SR:!2026-10-29,16,290-->
@@ -36,7 +36,7 @@
 - Hvor længe er malaria i leverceller?:: 1-2 uger
 <!--SR:!2026-10-27,14,290-->
 - Hvad kaldes malaria når de frigives fra leverecellerne?:: Merozoitter
-<!--SR:!2026-10-16,1,170-->
+<!--SR:!2026-10-20,1,150-->
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
 <!--SR:!2026-10-24,11,270-->
 - Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)

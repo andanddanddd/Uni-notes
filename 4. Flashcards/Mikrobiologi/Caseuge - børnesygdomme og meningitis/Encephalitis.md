@@ -10,7 +10,7 @@
 - [[Arboviruses]]
 ## Patogenese
 - Hvad er en cephalitis overordnet?:: Infektion af hjernen
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-23,65,310-->
 
 ## Klinisk præsentation
 - Hvad er de klassiske symptomer på encephalitis?

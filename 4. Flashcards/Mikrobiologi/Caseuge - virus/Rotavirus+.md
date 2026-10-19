@@ -15,7 +15,7 @@
 - Hvilket glykoprotein bruger rotavirus til at komme ind i celler og hvordan aktiveres den?:: Hemagluttin (VP4), den aktiveres ved at proteolyse
 <!--SR:!2026-11-09,25,270-->
 - Hvilke celler inficere rotavirus?:: Enterocytter i tyndtarmen
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-04,46,290-->
 - Hvordan kommer rotavirus ind i cellen? (mekanisme):: Endocytose
 <!--SR:!2026-10-19,14,290-->
 - Hvor sker replikation og transskription af rotavirus?:: Cytoplasma

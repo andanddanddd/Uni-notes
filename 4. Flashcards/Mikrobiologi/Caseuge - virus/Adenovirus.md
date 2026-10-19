@@ -4,13 +4,13 @@
 
 ## Struktur
 - Hvilken form har kapslen på adenovirus?:: Icesadral
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-16,58,310-->
 - Har adenovirus en lipidmembran?:: Nej
 <!--SR:!2026-11-10,26,270-->
 - Hvilken type arvematriale bruger adenovirus?:: dsDNA
 <!--SR:!2026-10-16,1,130-->
 - Hvilken struktur har adenovirus´ arvematriale?:: Lineært (1 segment)
-<!--SR:!2026-10-16,11,270-->
+<!--SR:!2026-11-29,41,290-->
 - Hvad kendetgener adenovirus udssende?:: I hver hjørne af kapslen er der et langt protein![[Pasted image 20260928103415.png]]
 <!--SR:!2026-10-21,16,290-->
 ## Livscyklus

@@ -10,7 +10,7 @@
 - Mange [[Kupfer celler]]
 - Akkumulation af galdesalte
 - Evt [[Steatose]]
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-10-26,7,250-->
 
 - Hvordan behandles viral hepatitis overordnet?:: Antivirale midler eller immunsuprimerende
 <!--SR:!2026-10-31,12,270-->

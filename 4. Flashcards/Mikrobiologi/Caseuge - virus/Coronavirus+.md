@@ -23,7 +23,7 @@
 - Hvilke celler inficere coronavirus?:: Epitelceller i luftvejene
 <!--SR:!2026-12-13,55,310-->
 - Hvilken receptor bruger SARS-COV-1/2 til at komme ind i cellerne med?:: ACE-2
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-15,57,310-->
 - Hvordan kommer coronavirus ind i cellen? (mekanisme):: Membranfusion
 <!--SR:!2026-12-16,58,310-->
 - Hvad er specielt ved coronavirus RNA-polymerase?:: Den kan "hoppe" mellem forskelige steder på RNA og mellem forskellige stykker RNA hvilket resultere i rekombination, derudover har den en høj fejlrate
@@ -58,7 +58,7 @@
 
 ## Diagonstik
 - Hvordan diagnosticeres coronavirus oftest?:: De endemiske diagnosticeres typisk ikke man bruger PCR til [[Covid-19]]
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,56,310-->
 
 ## Forebyggelse og behandling
 - Hvordan behandles coronavirus?:: Symptombehandling

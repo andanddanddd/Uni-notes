@@ -15,7 +15,7 @@
 - Hvor "normal" er T. gondii i DK?:: 26% af bloddonere har antistoffer imod det
 <!--SR:!2026-11-19,31,270-->
 - Hvilke symptomer giver T. gondii?:: Ofte asymptomatisk  eller giver det cervical lymfadenitis med influanza-lignende symptomer
-<!--SR:!2026-10-17,2,210-->
+<!--SR:!2026-10-23,4,210-->
 - Hvordan behandles T. gondii?:: Oftest selvlimiterende
 <!--SR:!2026-11-19,31,270-->
 - Hvordan forebygges T. gondii?:: Det er særligt kogenit [[Toxoplasmose]] der skal forebygges, det gøres ved at undgå råt kød, vaske grøntsager grundigt, have godhygiejne ved kontakt med jord og undgå direkte kontakt med kattebakke
