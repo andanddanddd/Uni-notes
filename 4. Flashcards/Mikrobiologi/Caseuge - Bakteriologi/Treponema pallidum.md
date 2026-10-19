@@ -24,6 +24,6 @@
 - Hvad er en gammel alternativ behandling til T. pallidum?:: Feber terapi (den kan ikke tåle varme)
 <!--SR:!2026-12-14,67,310-->
 - Hvordan diagnosticeres syfilis idag?:: mikroskopi af chancre eller test af antistoffer
-<!--SR:!2026-10-17,9,270-->
+<!--SR:!2026-11-22,34,290-->
 - Hvilke faktorer kan "hjælpe" med at give et falsk-positivt T. pallidum antigentest?:: [[Systematisk lupus ery (SLE)]], stofmisbrug, alderdom og graviditet
 <!--SR:!2026-11-07,33,270-->

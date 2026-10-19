@@ -16,7 +16,7 @@
 - [[Bronkopneumoni]]
 - [[Atypisk pneumoni]]
 - Oppertunistisk pneumoni (sekundlr bakteriel pneumoni)
-<!--SR:!2026-10-16,11,270-->
+<!--SR:!2026-11-27,39,290-->
 
 - Hvad er de 3 typer af pneumoni baseret på smittekilde?
 ?

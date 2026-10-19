@@ -10,7 +10,7 @@
 - Har norovirus en lipidmembran?:: Nej
 <!--SR:!2026-10-25,16,290-->
 - Hvilken type arvematriale bruger norovirus?:: RNA+
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-12-03,45,290-->
 - Hvilken struktur har norovirus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere norovirus
@@ -48,7 +48,7 @@
 <!--SR:!2026-10-19,14,290-->
 ## Diagonstik
 - Hvordan diagnosticeres norovirus?:: RT-PCR af fæcesprøver (den detektere RNA)
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-05,47,290-->
 
 ## Forebyggelse og behandling
 - Hvorfor kan man blive inficere med norovirus flere gange?:: Der er mange variation og vores respons forsvinder (man kan blive inficeret med den samme norovirus efter 2-3 pr)

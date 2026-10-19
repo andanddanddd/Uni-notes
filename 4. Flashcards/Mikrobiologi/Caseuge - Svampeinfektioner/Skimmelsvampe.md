@@ -11,7 +11,7 @@
 - Hvilke ikke overfladiske infektioner giver skimmelsvampe oftest?:: Lungeinfektioner og infektioner i bihulerne
 <!--SR:!2026-11-17,45,290-->
 - Hvilker toksin kan nogle skimmelsvampe lave der kan være i fødevarer?:: aflatoxin
-<!--SR:!2026-10-16,16,230-->
+<!--SR:!2026-11-24,36,230-->
 
 
 ![[Pneumocystis jiroveci (carinii)]]

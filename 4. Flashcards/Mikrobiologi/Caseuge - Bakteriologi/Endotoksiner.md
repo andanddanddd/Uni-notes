@@ -5,4 +5,4 @@
 - Hvad er endotoksiner?:: [[Lipopolysakkarid (LPS)]]
 <!--SR:!2026-11-25,64,310-->
 - Hvad gør endotoksiner?:: Stimulere cytokinproduktion
-<!--SR:!2026-10-18,32,270-->
+<!--SR:!2027-02-17,121,290-->

@@ -9,4 +9,4 @@
 - Hvorfor giver det mening af HPV kan give herpes encephalitis?:: Det ligger latent i neuroner, derfra skal det "bare" bevæge sig den forkerte vej
 <!--SR:!2026-12-14,60,310-->
 - Hvem får oftest herpes encephalitis?:: Mennesker med defekter i TLR-3
-<!--SR:!2026-10-18,13,230-->
+<!--SR:!2026-12-01,43,250-->

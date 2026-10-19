@@ -21,7 +21,7 @@
 - [[Rubulavirus+]]
 - [[CMV+]]
 - [[Alfaherpesvirus]]
-<!--SR:!2026-10-16,13,230-->
+<!--SR:!2026-11-18,30,230-->
 
 - Hvorfor skal man være særlig opmærksom på feber ved små børn?:: De er generalt dårlige til at lave feber
 <!--SR:!2026-12-16,62,310-->

@@ -93,7 +93,7 @@ Hvordan genkendes den?
 - GCS kan falde
 - Temp er høj
 - Sat-O$_2$ er lav
-<!--SR:!2026-10-18,11,270-->
+<!--SR:!2026-11-29,41,290-->
 
 - Hvad findes på en blodprøve af en person med L. pneumophilia?
 ?

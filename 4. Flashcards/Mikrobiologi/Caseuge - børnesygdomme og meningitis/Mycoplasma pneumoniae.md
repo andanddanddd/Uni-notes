@@ -17,7 +17,7 @@
 <!--SR:!2026-11-03,19,250-->
 - Hvilke patogenesefaktorer har M. pneumoniae?
 - Hvad sker med cellerne i respirationssystemet når M. pneumoniae binder dertil?:: Ciliostase
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-04,46,290-->
 
 
 ## Smitte og epidimologi
@@ -35,7 +35,7 @@ Dyrkningsmedie?
 Hvordan genkendes den?
 - Hvordan diagnosticeres M. pneumoniae?
 - Hvad kendetegner M. pneumoniae på blodprøver?:: CRP kan være negativ (lav)
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-05,47,290-->
 
 ## Forebyggelse og behandling
 - Hvilke resistensmekanismer har M. pneumoniae?
