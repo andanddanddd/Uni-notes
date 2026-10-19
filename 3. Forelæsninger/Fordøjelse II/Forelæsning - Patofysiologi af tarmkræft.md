@@ -6,4 +6,6 @@
 
 ![[Non-neoplastiske forandinger i colon og rectum]]
 
+![[Neoplastiske forandinger i colon og rectum]]
+
 [[Patologi af Gi billeder]]
