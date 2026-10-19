@@ -1,7 +1,7 @@
 #flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvilken CYP familie oxidere flest lægemidler?:: CYP3A
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-10-30,11,270-->
 - Hvor i cellen er CYP-enzymerne?:: Forankrede i glat ER
 <!--SR:!2026-10-30,11,270-->
 - Hvad bruger CYP-enzymer som proteatisk gruppe?:: Hæm

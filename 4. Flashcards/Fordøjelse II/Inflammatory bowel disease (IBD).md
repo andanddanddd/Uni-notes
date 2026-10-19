@@ -26,7 +26,7 @@
 - Hvordan påvirker rygning IBD?:: Det kan mindske symptomer fra [[Colitis ulcerosa (UC)]] men det forværre [[Crohns sygdom]]
 <!--SR:!2026-10-18,4,270-->
 - Hvilken effekt har appendektomi på IBD?:: Det beskytter imod [[Colitis ulcerosa (UC)]] men har ingen effekt på [[Crohns sygdom]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvilken effekt har høj hygiejne i barndommen på risikoen for udvikling af IBD?:: Påvirkningen på [[Colitis ulcerosa (UC)]] kendes ikke men det øger risikoen for [[Crohns sygdom]]
 <!--SR:!2026-11-04,16,290-->
 - Hvorfor er rygning, dårlig kost og antibiotika risikofaktorer for IBD?:: det ødelægger tarmfloraen

@@ -11,7 +11,7 @@
 - Hvilket "enzymsystem" nedbruger mest alkohol?:: **Alkoholdehydrogenasesystemet**
 <!--SR:!2026-10-16,3,250-->
 	- Hvad gør alkoholdehydrogenasesystemet ved alkohol i leveren?:: Omdanner det til acetylaldehyd og derfra til acetat
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,16,290-->
 	- Hvad hedder enzymet der laver acetylaldehyd fra alkohol?:: Ethanol-dehydrogenase
 <!--SR:!2026-11-03,15,290-->
 	- Hvad hedder enzymet der laver acetat fra acetylaldehyd?:: Acetylaldehyd-dehydrogenase

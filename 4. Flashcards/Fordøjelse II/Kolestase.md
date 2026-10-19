@@ -28,7 +28,7 @@
 - I hvilke celler ender galden under kolestase?:: Både hepatocytter, [[Kupfer celler]] og i opsvulmede galdeveje
 <!--SR:!2026-11-02,14,290-->
 ### Diagnose
-- Hvad kan måles i blodet ved kolestase?:: Forhøjet basisk fosfatase (særlig ved ekstrahepatisk kolestase)
+- Hvad kan måles i blodet ved kolestase?:: Forhøjet [[Alkaline phosphatase (ALP)]] (særlig ved ekstrahepatisk kolestase)
 <!--SR:!2026-10-22,3,250-->
 - Hvordan ses forskel på intrahepatisk og ekstrahepatisk kolestase mikroskopisk?:: Ved begge tilstande ses galdetromber (brunt pigment i de intracellulære galdeveje) ved ekstrahepatisk kolestase ses derudover ødemer i portalrumene og inflammation
 <!--SR:!2026-11-03,15,290-->
