@@ -90,4 +90,4 @@ Resistens
 - Hvornår vaccineres man mod S. pneumoniae?:: 3,5,12 mdr
 <!--SR:!2026-12-11,57,310-->
 - Hvorfor kan man blive inficeret med S. pneumoniae selvom man er vaccineret?:: Der er ca 90 forskellige kapsler og vi vaccinere ikke mod dem allle
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-19,65,310-->

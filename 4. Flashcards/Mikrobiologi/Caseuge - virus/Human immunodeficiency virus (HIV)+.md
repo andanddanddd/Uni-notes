@@ -80,7 +80,7 @@
 - Hvad kan ses på en blodprøve af en person med [[AIDS]]?:: Få T-celler (særligt Cd4+)
 <!--SR:!2026-12-11,57,310-->
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-17,63,310-->
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS
 <!--SR:!2026-10-16,16,290-->
 

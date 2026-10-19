@@ -23,7 +23,7 @@
 - Hvordan overlever for der bor i malariaområde?:: Der anses det som en børnesygdom hvorefter der opbygges immunitet
 <!--SR:!2026-10-31,16,290-->
 - Hvorfor er der stor risiko for at flygtninge der besøger der malariaramte hjemland bliver syge?:: De har mistet deres immunitet
-<!--SR:!2026-10-10,4,270-->
+<!--SR:!2026-10-31,16,290-->
 - Hvilke myg kan smitte malaria?:: Kvinder
 <!--SR:!2026-10-30,15,290-->
 - Hvorfor bliver man typisk ikke smittet med malaria i fx DK?:: Der er få smittetilfælde og mygene er derfor raske, hvis mygene bliver inficeret dør de (pga kulden vist nok)

@@ -33,7 +33,7 @@
 ## Smitte og epidemiologi
 - Tendens i tilfælde
 - Hvor "lever" rotavirus normalt?:: Både mennesker og andre dyr
-<!--SR:!2026-10-14,9,250-->
+<!--SR:!2026-11-15,31,270-->
 - Hvordan smitter rotavirus?:: Fæcalt-oralt (sjældent igennem mad eller vand)
 <!--SR:!2026-10-20,15,290-->
 - Hvem smittes ofte af rotavirus?:: Børn (det er den mest almindelige virale årsag til diarre hos børn)

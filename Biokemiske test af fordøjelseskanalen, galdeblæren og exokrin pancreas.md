@@ -5,7 +5,7 @@
 - [[Urea udåndingstest]]
 - [[Fecal occult blodtest (FOBT)]]
 - [[F-calprotectin]]
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-10-30,11,270-->
 
 - Hvilke 3 biokemiske test bruges til diagnostik af galdeblæren?
 ?

@@ -7,7 +7,7 @@
 
 ## Etiologi
 - Hvilken sygdom fører til hepatisk encefalopati?:: Meget nedsat leverfunktion [[Kronisk leversygdom]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,16,290-->
 ## Klinisk præsentation
 - Hvilke symptomer har hepatisk encefalopati?
 ?

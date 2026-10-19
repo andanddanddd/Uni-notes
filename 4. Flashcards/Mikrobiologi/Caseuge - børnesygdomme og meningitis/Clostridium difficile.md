@@ -56,4 +56,4 @@ Hvordan genkendes den?
 - Hvordan forebygges C. difficile?:: Hygiejne og undgå at give specifikke antibiotika til folk i risikogruppen for C. difficile
 <!--SR:!2026-12-15,61,310-->
 - Hvordan behandles C. difficile?:: Nogle gange skal den antibiotiakkur der førte til infektionen stoppes ellers kan [[Vancomyocin]] eller [[Metronidazol]] gives
-<!--SR:!2026-10-10,12,270-->
+<!--SR:!2026-11-28,44,290-->

@@ -3,7 +3,7 @@
 HSV 1 og 2
 
 - Hvad kendetegner forskellen på HPV-1 og 2?:: De kan give de samme infektioner den ene giver det bare hyppigere end den anden
-<!--SR:!2026-10-15,16,290-->
+<!--SR:!2026-12-16,62,310-->
 
 - Hvad kendetegner $\alpha$-HPV?:: De er neurotrope (Inficere neuroner som sekundær infektion)
 <!--SR:!2026-12-08,54,310-->

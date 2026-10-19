@@ -5,5 +5,5 @@
 - Hvad gør TCT molekylært?:: Stimulere NO produktion
 <!--SR:!2026-11-27,43,290-->
 - Hvor kommer TCT fra?:: [[Bakterier peptidoglykanlag]]![[Pasted image 20260922112959.png]]
-<!--SR:!2026-10-11,12,270-->
+<!--SR:!2026-11-30,46,290-->
 	- Det blå på billedet er TCT
