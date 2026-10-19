@@ -11,5 +11,18 @@
 ### Etiologi og patogenese
 mangler
 ### Morfologi
+- Hvor meget "stikker" kolorektal adenom ud i lumen?:: Det variere, det kan være fladt
+- Hvad kendetegner fastgørelsen af koloraktal adenom (polyppen) til colon?:: Den kan enten være stilket eller bredbaset (sessil)
+- Hvad hedder de 3 strukture som kolorektal adenom kan have?
+?
+- Tubulært adenom
+- Tubovilløst adenom
+- Villøst adenom
 
+- Hvornår er overfladen på kolorektal adenom glat?:: Ved et tubulært adenom
+- Hvornår er overfladen på kolorektal adenom ureggelmæssig (ikke glat)?:: Ved villøst adenom (eller tubulovilløst adenom)
+- Hvilken struktur har bredbaset kolorektale adenomer ofte?:: Villøst
+
+- Hvordan ses forskel på kolorektal adenom og hyperplastisk polyp?:: Ved kolorektal adenom ses dysplasi
 ### Klinisk patologisk korrelation
+- Hvor stor skal en kolorektal adenom være før den giver symptomer?:: over 1
