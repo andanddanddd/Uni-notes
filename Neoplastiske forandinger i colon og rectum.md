@@ -3,3 +3,5 @@
 ![[Kolorektal adenom]]
 
 ![[Kolorektal karcinom]]
+
+![[Molekylære signalveje til kolorektal cancer]]

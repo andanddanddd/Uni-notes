@@ -9,3 +9,5 @@
 - [[Kolorektal karcinom]]
 - Cancer i urinvejene
 - Cancer i uterus
+
+- Hvordan behandles/screenes mennesker med HNPCC?:: Colonskopi hver 2. år
