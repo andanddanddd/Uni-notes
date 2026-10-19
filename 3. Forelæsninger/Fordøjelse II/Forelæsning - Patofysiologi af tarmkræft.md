@@ -5,3 +5,5 @@
 - [ ] Forklare de molekylære patogenetiske mekanismer bag familiære former for kolorektal neoplasi.
 
 ![[Non-neoplastiske forandinger i colon og rectum]]
+
+[[Patologi af Gi billeder]]
