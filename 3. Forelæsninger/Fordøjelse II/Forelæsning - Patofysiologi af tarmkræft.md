@@ -4,3 +4,4 @@
 - [ ] Nævne de vigtigste protoonkogener og tumorsuppressorgener involveret i kolorektal carcinogenese.
 - [ ] Forklare de molekylære patogenetiske mekanismer bag familiære former for kolorektal neoplasi.
 
+![[Non-neoplastiske forandinger i colon og rectum]]

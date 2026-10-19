@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "flashcards/5/b",
+  "search": "flashcards/5/f",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.35918048780488,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.45186136071887,
-  "repelStrength": 19.4182794496029,
-  "linkStrength": 0.61617458279846,
+  "centerStrength": 0.383397518185708,
+  "repelStrength": 20,
+  "linkStrength": 0.848951647411211,
   "linkDistance": 30,
-  "scale": 0.35378594122578483,
-  "close": false
+  "scale": 0.2642893219833617,
+  "close": true
 }
