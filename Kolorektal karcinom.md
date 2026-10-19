@@ -16,6 +16,25 @@
 ?
 - [[Lynch syndrom]]
 - [[Familiær adenomatøs polypsa (FAP)]]
+
+- Hvilke risikofaktorer giver øget risiko for kolorektal karcinom= (og adenom)
+?
+- Kost
+- Fysisk aktivitet
+- Rygning
+- Alkohol
+
+- Hvilken kost giver øget risiko for kolorecktal karcinom? (og adenom)
+?
+- Meget animalsk fedt
+- Fiberfattig kost
+- For lidt kalcium
+- Lav vitamin D,C og E
+
+- Hvorfor kan fibre mindre risikoen for kolorecktal karcinom? (og adenom):: Den binder carcinogener og mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
+- Hvorfor kan motion nedsætte risikoen for kolorecktal karcinom? (og adenom):: Det mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
+- Hvorfor kan kalcium mindske risikoen for kolorecktal karcinom? (og adenom):: Det nedsætter proliferationshastigheden af mucosa
 ### Morfologi
+- Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
 ### Klinisk præsentation
 ### Behandling
