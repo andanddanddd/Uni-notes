@@ -87,6 +87,7 @@
 - Levertal ([[Biokemiske test af leveren]])
 - Væsketal
 <!--SR:!2026-10-20,1,190-->
+- Hvornår er det muligt at UC 
 
 ### Behandling
 - Hvilke lægemidler bruges ofte mod IBD?:: Biologiske lægemidler (immunsuprimerende)

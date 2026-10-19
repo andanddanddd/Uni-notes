@@ -7,3 +7,5 @@ CRP = 52 er meget for de inflammatoriske tarmsygdomme
 Mikroskopisk colit = inflammation man ikke kan se vd kikkertundersøgelse
 
 ![[Pseudomembranøs collitis (PMC)]]
+
+![[Mikroskopisk colitis]]
