@@ -14,7 +14,7 @@
 - Hvor ofte ses "arv" (andre i familien med kolorektal karcinom) ved kolorektal karcinom?:: 20% af tilfælde
 - Hvilke 2 arvelige tilstande giver øget risiko for kolorektal carcinom og hvilken ses hyppigst?
 ?
-- [[Lynch syndrom]]
+- [[Herisitær non-polypøs koloraktal cancer (HNPCC)]][[Lynch syndrom]]
 - [[Familiær adenomatøs polypsa (FAP)]]
 
 - Hvilke risikofaktorer giver øget risiko for kolorektal karcinom= (og adenom)
@@ -44,6 +44,7 @@
 - Hvilke ikke-billeddiagnostike diagnostike bruges til diagnostik af rektal carcinom?:: Rektaleksploration
 - Hvilke billeddiagnostika bruges til diagnostik af kolorektal carconim?:: Som udgangspunkt kolonskopi, hvis det ikke er muligt kan [[Computed tomography (CT)]] eller [[MRI]] laves
 - Hvordan udredes patienter med cancer i rectum?:: [[MRI]]
+- Hvordan screenes for colorektal cancar?:: [[Fecal occult blodtest (FOBT)]]
 
 ### Behandling
 
