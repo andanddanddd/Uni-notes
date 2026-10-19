@@ -1,8 +1,8 @@
-#flashcards/5/Fordøjelsessystemet-II 
+#flashcards/5/Fordøjelsessystemet-II [[Slides - Colon cancer-E26_MMJ.pdf]]
 
 - [ ] Redegøre for de patologiske forandringer ved colonpolypper (ikke-neoplastiske polypper, konventionelle adenomer og serrate læsioner).
-- [ ] Nævne de vigtigste protoonkogener og tumorsuppressorgener involveret i kolorektal carcinogenese.
-- [ ] Forklare de molekylære patogenetiske mekanismer bag familiære former for kolorektal neoplasi.
+- [x] Nævne de vigtigste protoonkogener og tumorsuppressorgener involveret i kolorektal carcinogenese.
+- [x] Forklare de molekylære patogenetiske mekanismer bag familiære former for kolorektal neoplasi.
 
 ![[Non-neoplastiske forandinger i colon og rectum]]
 
