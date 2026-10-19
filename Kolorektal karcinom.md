@@ -37,4 +37,16 @@
 ### Morfologi
 - Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
 ### Klinisk præsentation
+- Hvad kendetegner symptombilledet ved kolorektal carcinom i ceacum?:: Almensymptomer (træthed, feber, vægttab og anæmi)
+- Hvad kendetegner symptombilledet ved kolorektal carcinom colon og rectum?:: Lokale symptomer inkl blodig afføring, mavesmerter, ændret afføringsmønster og [[Tenesmi]] 
+- Hvorfor er der forskel i symptombilledet ved kolorektal carcinom i ceacum og resten af tarmen?:: I ceacum er der mere plads og 
+
 ### Behandling
+
+#### T-kategoriinddeling
+- Hvad viser T-kategoriinddelingen overordnet?:: Hvor dybt kolorektal karcinom har indvaderet
+- Hvor dybt er kolorektal carcinom ved T1?:: Submucosa
+- Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis
+- Hvor dybt er kolorektal carcinom ved T3?:: Gennem tunica muskularis
+- Hvor dybt er kolorektal carcinom ved T4?:: Gennem peritoneum
+- Hvor dybt er kolorektal carcinom ved T3N1?:: Spredt sig til lymfeknuder
