@@ -14,7 +14,7 @@
 - Hvor ofte ses "arv" (andre i familien med kolorektal karcinom) ved kolorektal karcinom?:: 20% af tilfælde
 - Hvilke 2 arvelige tilstande giver øget risiko for kolorektal carcinom og hvilken ses hyppigst?
 ?
-- [[Herisitær non-polypøs koloraktal cancer (HNPCC)]][[Lynch syndrom]]
+- [[Herisitær non-polypøs kolorektal cancer (HNPCC)]]
 - [[Familiær adenomatøs polypsa (FAP)]]
 
 - Hvilke risikofaktorer giver øget risiko for kolorektal karcinom= (og adenom)
