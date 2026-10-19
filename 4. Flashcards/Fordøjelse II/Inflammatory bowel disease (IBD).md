@@ -87,7 +87,7 @@
 - Levertal ([[Biokemiske test af leveren]])
 - Væsketal
 <!--SR:!2026-10-20,1,190-->
-- Hvornår er det muligt at UC 
+- Hvornår er det muligt at UC er aktivt i dele af tarmen uden dele af rectum?:: Hvis der er givet antiinflammatorisk behandling specifikt i rectum
 
 ### Behandling
 - Hvilke lægemidler bruges ofte mod IBD?:: Biologiske lægemidler (immunsuprimerende)
