@@ -21,9 +21,8 @@
 - Hvad gør C. difficile toksin B?:: Ødelægger cytoskelet af enterocytter
 <!--SR:!2026-11-25,43,290-->
 - Hvilke patogenesefaktorer har C. difficile?
-?
--
-<!--SR:!2026-12-19,65,310--> 
+
+
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med C. difficile?:: Antallet af smittede steg i år 2000 da den muterede

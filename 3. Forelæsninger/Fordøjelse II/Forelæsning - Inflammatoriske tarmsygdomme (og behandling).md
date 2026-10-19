@@ -5,3 +5,5 @@ CRP = 52 er meget for de inflammatoriske tarmsygdomme
 ![[Inflammatory bowel disease (IBD)]]
 
 Mikroskopisk colit = inflammation man ikke kan se vd kikkertundersøgelse
+
+![[Pseudomembranøs collitis (PMC)]]
