@@ -20,7 +20,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 ?
 - [[Toksisk megacolon]]
 - [[Dysplasi]]
-- Kolorektal cancer
+- Kolorektal cancer ([[Kolorektal karcinom]])
 <!--SR:!2026-10-17,2,230-->
 
 ### Patofysiologi
@@ -30,6 +30,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 <!--SR:!2026-10-18,4,270-->
 ### Diagnose
 - Hvordan ses UC med endoskopi/colonskopi?:: Grnuleret, skrøbelig blødende slimhinde med pseudopolypper
+- Hvad er pseudopolypper overordnet?:: Øer af inflammation
 <!--SR:!2026-10-18,4,270-->
 - Hvordan ses UC på en biopsi?
 ?

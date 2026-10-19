@@ -93,6 +93,7 @@
 <!--SR:!2026-10-18,4,270-->
 - Hvad er målet overordnet med behandling af IBD?:: Dyb remission (dvs komme tilbage til en rask tarm)
 <!--SR:!2026-11-03,15,290-->
+- Ved hvilken type IBD er operation kurativ?:: [[Colitis ulcerosa (UC)]]
 - 
 
 - [x] 2/3 IBD patienter er colitis mens 1/# er krohns
