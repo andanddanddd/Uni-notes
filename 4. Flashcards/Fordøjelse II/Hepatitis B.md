@@ -8,7 +8,7 @@ Hvad kaldes hepatitis B også og hvorfor?:: Serum hepatitis da den kan overføre
 - Har hepatitis B en lipidmembran?:: Ja
 <!--SR:!2026-10-21,16,290-->
 - Hvilken type arvematriale bruger hepatitis B?:: Doppeltstrenget DNA
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-13,55,310-->
 - Hvilken struktur har hepatitis B´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere hepatitis B
@@ -33,7 +33,7 @@ Hvad kaldes hepatitis B også og hvorfor?:: Serum hepatitis da den kan overføre
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis B?:: Påvisning af virusantigener
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-10-30,11,270-->
 ## Forebyggelse og behandling
 
 

@@ -8,7 +8,7 @@
 - Hvor mange af IBD patienter her hhv UC og crohn?:: 2/3 Uc 1/3 crohns
 <!--SR:!2026-10-18,4,270-->
 - Hvilket køn rammes oftest af IBD?:: Kvinder en lille smule mere end mænd (53-47% ish)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvilken aldersgruppe rammes oftest af IBD?:: Primært mennesker i 20-års alderen men det spiker igen ved 50-års-alderen
 <!--SR:!2026-10-18,4,270-->
 - Hvilken tendens har incidens og prævalens af IBD?:: Begge stiger
@@ -28,7 +28,7 @@
 - Hvilken effekt har appendektomi på IBD?:: Det beskytter imod [[Colitis ulcerosa (UC)]] men har ingen effekt på [[Crohns sygdom]]
 <!--SR:!2026-10-18,4,270-->
 - Hvilken effekt har høj hygiejne i barndommen på risikoen for udvikling af IBD?:: Påvirkningen på [[Colitis ulcerosa (UC)]] kendes ikke men det øger risikoen for [[Crohns sygdom]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,16,290-->
 - Hvorfor er rygning, dårlig kost og antibiotika risikofaktorer for IBD?:: det ødelægger tarmfloraen
 <!--SR:!2026-10-18,4,270-->
 - Hvilke risikofaktorer er der for udvikling af IBD?
@@ -51,11 +51,11 @@
 - Hvad er imperiøs træng?:: Følelsen af at skulle på toilet NU (eller slet ikke kunne holde sig)
 <!--SR:!2026-10-18,4,270-->
 - Hvilke sygdomme kan IBD ligne?:: Bakterielle infektioner
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ved [[Colitis ulcerosa (UC)]] men kan også forekomme ved [[Crohns sygdom]]
 <!--SR:!2026-10-18,4,270-->
 - Hvornår ses ekstraintestinale manifestationer af IBD?:: Når sygdommen er i opblussning
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvilke ekstraintestiane manifestationer kan IBD give?
 ?
 - [[Pyoderma gangrenosum]]
@@ -63,7 +63,7 @@
 - [[Episcleritis]] og [[Uveit]]
 - Ledsmerter
 - [[Primær skleroserende cholangitis]]
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-10-26,7,250-->
 
 - Hvad kendetegner forløbet at IBD?:: Det variere meget, for nogle lægger det latent i lang tid og kommer med store opblusninger, for andre er det der lidt hele tiden![[Pasted image 20261013120557.png]]
 <!--SR:!2026-10-18,4,270-->
@@ -72,7 +72,7 @@
 <!--SR:!2026-10-18,4,270-->
 ### Patofysiologi
 - Hvorfor giver [[Crohns sygdom]] vægtab men [[Colitis ulcerosa (UC)]] ikke gør?:: UC påvirker kun tyktarmen, her er absorbsion allerede sket, (crohns påvirker ofte tyndtarmen hvor absorbsion sker)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-02,14,290-->
 ### Diagnostik
 - Hvad er særligt vigtigt at spørge ind til under anamnese ved IBD?:: Aførringsmønster særligt om der er afføringer om natten
 <!--SR:!2026-10-18,4,270-->
@@ -86,13 +86,13 @@
 - [[Albumin]]
 - Levertal ([[Biokemiske test af leveren]])
 - Væsketal
-<!--SR:!2026-10-16,1,210-->
+<!--SR:!2026-10-20,1,190-->
 
 ### Behandling
 - Hvilke lægemidler bruges ofte mod IBD?:: Biologiske lægemidler (immunsuprimerende)
 <!--SR:!2026-10-18,4,270-->
 - Hvad er målet overordnet med behandling af IBD?:: Dyb remission (dvs komme tilbage til en rask tarm)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - 
 
 - [x] 2/3 IBD patienter er colitis mens 1/# er krohns

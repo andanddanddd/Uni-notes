@@ -3,4 +3,4 @@
 - Hvilken farve har urobilin?:: Gult
 <!--SR:!2026-10-17,4,270-->
 - Hvilket stof laves urobilin fra?:: [[Urobilinogen]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->

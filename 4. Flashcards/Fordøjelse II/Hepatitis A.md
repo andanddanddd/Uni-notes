@@ -2,7 +2,7 @@
 
 
 - Hvad kaldes hepatitis A også og hvorfor?:: Infektion hepatitis da det forekommer i epidemier (også HAV)
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-10-26,7,250-->
 ## Struktur
 - Hvilken form har kapslen på hepatitis A
 - Har hepatitis A en lipidmembran?:: Nej
@@ -16,9 +16,9 @@
 - Replikation
 ## Smitte og epidemiologi
 - Hvem smittes oftest af hepatitis?:: Børn og unge
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvor "lever" hepatitis A normalt?:: Kun mennesker
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvordan smitter hepatitis A?:: Fæcal-oralt
 <!--SR:!2026-10-19,14,290-->
 
@@ -31,7 +31,7 @@
 - Kvalme
 - Manglende appatit
 - Muskel og ledsmerter
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-04,46,290-->
 
 - Hvor ofte udvikler en infektion med hepatitis A til en kronisk infektion?:: Aldrig
 <!--SR:!2026-10-21,16,290-->
@@ -40,7 +40,7 @@
 - Hvilken komplikation kan hepatitis A have?:: Akut [[Leverinsufficiens]]
 <!--SR:!2026-10-17,4,270-->
 - Hvad kendetegner symptomer og komplikation på hepatitis i børn der fik det vertikalt?:: De får ikke symptomer men det bliver kronisk
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,15,290-->
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis A?:: IgM antistoffer i serum

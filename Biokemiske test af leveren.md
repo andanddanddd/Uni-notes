@@ -21,12 +21,12 @@
 - [[Alkaline phosphatase (ALP)]]
 - [[g-Glutamyltransferase (GGT)]]
 - [[Bilirubin]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-10-31,12,270-->
 
 - Hvilke 2 biokemiske test laves for at bedømme leverens syntesefunktionalitet?
 ?
 - [[Protrombin tid (INR)]]
 - [[Albumin]]
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-10-26,7,250-->
 
 ![[Pasted image 20261013105220.png]]

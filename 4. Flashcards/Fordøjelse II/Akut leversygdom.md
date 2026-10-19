@@ -9,7 +9,7 @@
 - [[Viral hepatitis]]
 - Overdose af lægemidler/euforiserende stoffer/alkohol
 - [[Metabolic dysfunction-associated steatohepatitis (MASH)]]
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-10-26,7,250-->
 
 ## Klinisk præsentation
 - Hvilke symptomer og kliniske fund har akut leversygdom?
@@ -34,7 +34,7 @@
 - Hvad kendetegner akut leversygdom histologisk?:: Nekrose (særligt omkring centralvenen)
 <!--SR:!2026-10-20,15,290-->
 - Hvad ses på en blodprøve af en pt med akut leverinflammation?:: Forhøjet [[Bilirubin]] og leverenzymer
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-10-31,12,270-->
 - Hvilken blodprøve laves for at finde etiologien til akut leversygdom?:: Blandt andet antigentest for viral og autoimmun hepatitis
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->
 ![[Pasted image 20260930144115.png]]

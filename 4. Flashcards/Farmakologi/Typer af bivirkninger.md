@@ -11,9 +11,9 @@
 - Hvad er en type B bivirkning?:: En uforusigelig bivirkning der skyldes reaktion med en receptor man ikke forventer og som der ikke reageres med ved fysiologiske forhold
 <!--SR:!2026-10-17,4,270-->
 - Hvor stor skal dosis være før en type B birvirknig sker?:: Det varier meget fra person til person det er det der er med ti at gøre det uforusigeligt
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvor slemme er type B bivirkninger?:: Typisk værre end type A
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->
 - Hvor ofte sker type B bibirkninger?:: Sjældnere end type A
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,15,290-->
 

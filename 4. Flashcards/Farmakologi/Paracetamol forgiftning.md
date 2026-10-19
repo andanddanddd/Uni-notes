@@ -25,6 +25,6 @@
 - Hvilken reationsoraden følger sulfatering af paracetamol?:: 0. orden (det bliver hurtigt mættet) [[Metabolismen af lægemidler]]
 <!--SR:!2026-10-17,4,270-->
 - Hvilken reaktionsorden følger glukuronidering af paracetamol?:: 0. orden (det bliver hurtigt mættet) [[Metabolismen af lægemidler]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvilken reaktionsorden følger oxidation af paracetamol?:: 1. orden [[Metabolismen af lægemidler]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->

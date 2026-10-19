@@ -15,6 +15,6 @@ Man måler vist på hvornår spin vender tilabge til uordnet
 <!--SR:!2026-10-17,3,250-->
 
 - Hvornår må MRI ikke laves?:: Når pt har implantationer
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-02,14,290-->
 - Hvorfår får alle pt ikke MRI?:: Det er dyrt og claustrofobisk
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,16,290-->

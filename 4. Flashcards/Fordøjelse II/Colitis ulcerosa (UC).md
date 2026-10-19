@@ -13,7 +13,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Hyppige små afføringer, også om natten
 - (Vægttab)
 - Feber
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-10-31,12,270-->
 
 ### Komplikationer
 - Hvilke komplikationer kan UC give?
@@ -25,7 +25,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 
 ### Patofysiologi
 - Hvad kendetegner lokaliseringen af UC?:: Der er kontinuerlig inflammation startende fra rectum, det har en klar linje mellem rask og syg
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-02,14,290-->
 - Hvilke lag af tarmen kan påvirkes af UC?:: Kun mucosa og submucosa
 <!--SR:!2026-10-18,4,270-->
 ### Diagnose
@@ -37,14 +37,14 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Forstyrret kryparkitektur
 - Kryptatrofi
 - General inflammation
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-10-31,12,270-->
 
 - Hvilken ikke-biokemisk test er vigtigt for diagnostik af UC?:: [[Colonskopi]]
 <!--SR:!2026-10-18,4,270-->
 ![[Pasted image 20261013115434.png]]
 ### Behandling
 - Hvilken kirugisk indgreb laves ved slem UC?:: Kolektomi (fjerner HELE colon)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,16,290-->
 
 - [x] KOninuerligt
 	- Tydelig grænse

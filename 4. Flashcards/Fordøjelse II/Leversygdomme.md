@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Definer leversygdom?:: En tilstand hvor vævskade ændre på leverens funktioner
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-05,47,290-->
 
 ![[Akut leversygdom]]
 

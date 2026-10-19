@@ -8,7 +8,7 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 
 ### Etiologi
 - Hvilken type galdesten er hyppigst?:: Blandingssten
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-03,15,290-->
 - Hvad kaldes de 2 (3) typer af galdesten?
 ?
 - [[Cholesterolsten]]
@@ -28,11 +28,11 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 - Hvad kaldes tilstanden når galdesten sætter sig fast udenfor galdeblæren?:: [[Choledocholithiasis]]
 <!--SR:!2026-10-24,11,270-->
 - Hvilket andet organ kan få komplikationer fra galdesten?:: Pancreast ([[Akut pancreatitis]])
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-04,16,290-->
 
 ### Patofysiologi
 - Hvor dannes galdesten henne?:: Typsik galdeblæren
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-02,14,290-->
 
 #### Risikofaktorer
 - Hvad er risikofaktorer for galdesten?
@@ -60,6 +60,6 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 - Hvilken billeddiagnostiske metode bruges til at finde galdesten?:: UL
 <!--SR:!2026-10-19,4,270-->
 - Hvilke blodprøver tages ved mistaneke om galdesten?:: [[Bilirubin]], basisk fosfatase og leverenzymer ([[ALAT]], [[ASAT]] og [[g-Glutamyltransferase (GGT)]])
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-10-31,12,270-->
 
 ### Behandling

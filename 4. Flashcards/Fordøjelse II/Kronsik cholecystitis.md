@@ -19,4 +19,4 @@
 
 ### Patofysiologi
 - Hvad kendetegner galdeblæren under kronisk cholecystitis?:: Skrumped galdeblære med fortykket og fibrotisk væg
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-04,16,290-->

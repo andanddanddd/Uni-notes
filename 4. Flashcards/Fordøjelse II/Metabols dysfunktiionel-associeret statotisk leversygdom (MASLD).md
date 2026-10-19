@@ -1,9 +1,9 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er MASLD overordnet?:: [[Steatose]] der ikke er forårsaget af alkohol
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-10-30,11,270-->
 - Hvor mange danskere har MASLD?:: 25%
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->
 ## Etiologi
 - Hvilke risikofaktorer har MASLD?
 ?
@@ -21,7 +21,7 @@
 
 ## Patofysiologi
 - Hvorfor er insulinresistens en vigtig faktor i udviklingen af MASLD og MASH?:: Det øger lipidsyntese og
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-10-31,12,270-->
 ## Diagnose
 
 ## Behandling

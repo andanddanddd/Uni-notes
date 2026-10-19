@@ -8,7 +8,7 @@ Mutere meget
 - Har hepatitis C en lipidmembran?:: Ja
 <!--SR:!2026-10-19,14,290-->
 - Hvilken type arvematriale bruger hepatitis C?:: RNA+
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-15,57,310-->
 - Hvilken struktur har hepatitis C´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere hepatitis C
@@ -28,7 +28,7 @@ Mutere meget
 
 ## Diagonstik
 - Hvordan diagnosticeres hepatitis C?:: Enten ved påvisning af antistoffer eller antigener
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->
 
 ## Forebyggelse og behandling
 

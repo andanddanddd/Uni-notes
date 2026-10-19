@@ -2,7 +2,7 @@
 
 
 - Definer kronisk leversygdom?:: Leversygdom der varer i mere end 6 mdr
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,56,310-->
 ## Etiologi
 - Hvad er de hyppigste etiologier til kronisk leversygdom?
 ?
@@ -40,7 +40,7 @@
 - Hvorfor kan kronisk leversygdom give ødemer?:: Nedsat osmolaritet grundet færre proteiner
 <!--SR:!2026-10-20,15,290-->
 - Hvorfor kan kronsik leversygdom give mange blå mærker?:: Manglende syntese af koagulationsfaktorer
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,56,310-->
 - Hvorfor overordnet sker fibrose ved kronisk leversygdom?:: Gentagende episoder af inflammatorisk ødelæggelse og regenerering
 <!--SR:!2026-10-19,14,290-->
 - Hvor "starter" fibrose?:: [[Disses rum]]
@@ -58,6 +58,6 @@
 - Hvorfor laves typisk en biopsi ved kronisk leversygdom selvom det ikke bruges meget til af finde etiologien?:: Det bruges til sværhedsgrad og valg af behandling
 <!--SR:!2026-10-17,4,270-->
 - Hvorfor er det vigtigt at kunne kende forskel på [[Alkoholrelateret leversygdom]] og [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]?:: De skal behandles forskelligt
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-02,14,290-->
 
 ![[Pasted image 20260930144054.png]]
