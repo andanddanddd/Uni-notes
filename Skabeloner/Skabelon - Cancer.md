@@ -3,4 +3,5 @@
 ### Forekomst
 ### Etiologi og patogenese
 ### Morfologi
-### Klinisk patologisk korrelation
+### Klinisk præsentation
+### Behandling
