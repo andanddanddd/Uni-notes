@@ -19,7 +19,7 @@
 - Hvilket stof fører til ophobning af fedt i leveren og hvorfor stiger det ved indtagelse af alkohol?:: Acetylaldehyd stimulere produktionen af NADH der stimulere fedtophobning
 <!--SR:!2026-11-04,16,290-->
 - Hvilke 2 metabolske systemer påvirkes af NADH under alkoholpåvirkning til at lagre mere fedt?:: [[Syntese af fedtsyrer]] stiger mens [[Lipolyse]] falder
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvad er resultatet af ændret leverstofstifte grundet alkohol?:: Ophobning af fedt
 <!--SR:!2026-11-03,15,290-->
 - Hvorfor kan alkohol give fibrose og [[Cirrose]]?:: Det ødelægger mikrobiota i tarmen og tarmvæggen så endotoksin kan komme til leveren og stimulere kollagensyntesen (i [[Ito-celler (stelite cells)]])

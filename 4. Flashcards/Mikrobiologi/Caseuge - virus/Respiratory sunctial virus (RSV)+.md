@@ -11,7 +11,7 @@
 - Hvilken struktur har RS-virus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere RS-virus?:: EPitelceller i luftveje (det spreder sig ikke væk derfra)
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Hvordan kommer RS-virus ind i cellen? (mekanisme)
 - Replikation
 - Hvordan gør RS-virus os syge?:: Det er cytotoksisk og det ødelægger cillier
@@ -20,7 +20,7 @@
 - Hvem bliver oftest smittet med RS-virus?:: Børn (det er den hyppigste årsag til infektion i de nedre luftveje hos børn)
 <!--SR:!2026-10-19,14,290-->
 - Hvor "lever" RS-virus normalt?:: Kun mennesker
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Hvordan smitter RS-virus
 
 ## Symptomer og komplikationer

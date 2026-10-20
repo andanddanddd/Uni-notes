@@ -36,7 +36,7 @@
 - Rygning (primært crohns)
 - Kost
 - Antibiotika
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 
 - Hvad er de 4 faktorer der skal spille sammen til udviklingen af IBD?
 ?
@@ -49,7 +49,7 @@
 ![[Pasted image 20261013113059.png]]
 ### Klinisk præsentation
 - Hvad er imperiøs træng?:: Følelsen af at skulle på toilet NU (eller slet ikke kunne holde sig)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvilke sygdomme kan IBD ligne?:: Bakterielle infektioner
 <!--SR:!2026-11-03,15,290-->
 - Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ved [[Colitis ulcerosa (UC)]] men kan også forekomme ved [[Crohns sygdom]]
@@ -75,7 +75,7 @@
 <!--SR:!2026-11-02,14,290-->
 ### Diagnostik
 - Hvad er særligt vigtigt at spørge ind til under anamnese ved IBD?:: Aførringsmønster særligt om der er afføringer om natten
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvilke fæcesprøver laves?:: Diarreudredning (patogener) og [[F-calprotectin]] ([[Diarre-udredning og statistik]])
 <!--SR:!2026-10-18,4,270-->
 - Hvilke blodprøver taget for at diagnosticere IBD?

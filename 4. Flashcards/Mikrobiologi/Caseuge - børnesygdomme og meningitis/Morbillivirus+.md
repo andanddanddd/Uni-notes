@@ -25,7 +25,7 @@
 - Dannelse af syncytier
 ## Epidemiologi
 - Hvem smittes oftest af morbillivirus?:: Børn
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-06,47,290-->
 - Hvor længe er kan en person inficeret med morbillivirus smitte?:: 2-3 dage før udslettet kommer og 4 dage efter det forsvinder
 <!--SR:!2026-12-13,55,310-->
 - Hvor "lever" morbillivirus normalt?:: Kun i mennesker
@@ -64,7 +64,7 @@
 
 ## Forebyggelse og behandling
 - Hvordan forebygges morbillivirus?:: Vaccination
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 #### Vaccine
 - Hvornår gives morbilli-virus-vaccinationen?:: 15 mdr og 4 år
 <!--SR:!2026-12-17,58,310-->

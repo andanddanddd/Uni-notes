@@ -17,7 +17,7 @@
 <!--SR:!2026-10-17,4,270-->
 
 - Hvorfor giver dårlig ernæringstilstand øget risiko for paracetamolforgiftning?:: Der vil være mindre glutation til at fjerne NAPQI
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvad bruges som modgift mod paracetamolforgiftning?:: [[N-acetylcystein]]
 <!--SR:!2026-10-17,4,270-->
 - Hvad kan måles i blodet ved paracetamolforgiftning? (udover paracetamol):: [[ALAT]] (leverenzymer)

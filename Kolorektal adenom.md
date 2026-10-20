@@ -23,10 +23,12 @@ mangler
 
 - Hvornår er overfladen på kolorektal adenom glat?:: Ved et tubulært adenom
 - Hvornår er overfladen på kolorektal adenom ureggelmæssig (ikke glat)?:: Ved villøst adenom (eller tubulovilløst adenom)
+<!--SR:!2026-10-23,3,250-->
 - Hvilken struktur har bredbaset kolorektale adenomer ofte?:: Villøst
 <!--SR:!2026-10-24,4,270-->
 
 - Hvordan ses forskel på kolorektal adenom og hyperplastisk polyp?:: Ved kolorektal adenom ses dysplasi
+<!--SR:!2026-10-23,3,250-->
 ### Klinisk præsentation
 - Hvor stor skal en kolorektal adenom være før den giver symptomer?:: over 10 mm
 <!--SR:!2026-10-24,4,270-->

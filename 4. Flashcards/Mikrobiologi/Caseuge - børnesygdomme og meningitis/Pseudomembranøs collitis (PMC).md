@@ -5,6 +5,7 @@
 - Hvad er PMC overordnet?:: Bakterielle ulcerationer i colon
 <!--SR:!2026-12-13,61,310-->
 - Hvordan ser pseudomembranøs collitis ud makroskopisk?:: Lyse grågule/hvidlige belægninger (pseudomembraner)
+<!--SR:!2026-10-23,3,250-->
 - Hvad består pseudomembraner af?:: Inflammatorisk eksudat (slim, fibrin og cellerester)
 - Hvilke symptomer har pseudomembranøs collitis?
 ?

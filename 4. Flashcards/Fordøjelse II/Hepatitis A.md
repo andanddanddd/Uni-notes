@@ -8,7 +8,7 @@
 - Har hepatitis A en lipidmembran?:: Nej
 <!--SR:!2026-10-19,14,290-->
 - Hvilken type arvematriale bruger hepatitis A?:: RNA+
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Hvilken struktur har hepatitis A´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere hepatitis A

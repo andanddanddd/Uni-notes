@@ -8,7 +8,7 @@
 - Hvilken form har proteinkapslen på influenzavirus?:: Hver RNA har en helikalligenende kapsel omkring sig
 <!--SR:!2026-12-19,65,310-->
 - Har influenzavirus en lipidmembran?:: Ja
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-26,67,310-->
 - Hvad hedder influenza 2 typer glykoproteiner?:: Hemaggutinin (HA) og Neuraminidase (NA)
 <!--SR:!2026-10-18,13,230-->
 - Hvilken effekt har M2 proteiner?:: Influx af H+ igennem lipidmembranen hvilket denaturere kapslen så arvematrialet kan komme ud

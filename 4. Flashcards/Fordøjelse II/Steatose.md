@@ -5,7 +5,7 @@
 - Hvilken type fedt ophobes i levren udner steatose?:: Triglycerider
 <!--SR:!2026-11-04,16,290-->
 - Er steatose reversibelt?:: Typisk ja
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
 
 - Hvad er de 2 former for steatose?:: Makroskopisk og mikroskopisk
 <!--SR:!2026-10-31,12,270-->
@@ -26,7 +26,7 @@
 - Parental ernæring
 - Kronisk blodstase
 - Medfødte fedtstofskiftedefekter
-<!--SR:!2026-10-17,2,210-->
+<!--SR:!2026-10-26,6,230-->
 
 - Hvordan genkendes steatose makroskopisk?:: Stor gul lever (lys)
 <!--SR:!2026-11-02,14,290-->

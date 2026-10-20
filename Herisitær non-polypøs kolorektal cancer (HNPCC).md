@@ -3,6 +3,7 @@
 - Hvad er HNPCC?:: EN karateristisk tendens til at udvikle colorektalcancer i en familie
 - Hvad kaldes gruppen HNPCC der skyldes fejl i et [[Mismatch repair]] gene?:: [[Lynch syndrom]]
 - Hvor mange med HNPCC udvikler kolorektal cancer?:: 50-70% (afhængig af køn)
+<!--SR:!2026-10-24,4,270-->
 - Hvilken effekt har HNPCC på [[Kolorektal adenom]]?:: De udvikles hurtigere til kolorektal carcinom
 - Hvilke type cancer har mennesker med HNPCC øget risiko for?
 ?

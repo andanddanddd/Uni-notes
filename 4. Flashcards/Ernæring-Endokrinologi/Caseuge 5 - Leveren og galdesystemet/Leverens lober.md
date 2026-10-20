@@ -11,4 +11,4 @@
 <!--SR:!2026-11-02,14,290-->
 
 - Hvorfor giver det mening at inddele leveren i 8 sektioner?:: De har hver deres blod/galde forsyning uden anastomoser
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->

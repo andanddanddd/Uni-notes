@@ -15,7 +15,7 @@
 <!--SR:!2026-12-15,63,310-->
 - Hvordan lejres C. perfringes?
 - Hvor lever C. perfringes normalt?:: GI af mange dyr og i jorden
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-26,67,310-->
 - Hvilket oxidativt miljø lever C. perfringes bedst i?:: Anerob
 <!--SR:!2026-12-16,62,310-->
 

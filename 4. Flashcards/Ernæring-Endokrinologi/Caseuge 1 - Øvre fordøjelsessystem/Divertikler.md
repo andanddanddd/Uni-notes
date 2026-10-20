@@ -7,7 +7,7 @@
 - Hvad kan øge risikoen for divertikler i tarmen?:: Obstipation
 <!--SR:!2026-10-27,14,290-->
 - Hvor i nedre GI sker divertikulose oftest?:: [[Colon descendens]] og [[Colon sigmoideum]]
-<!--SR:!2026-10-20,5,230-->
+<!--SR:!2026-11-01,12,230-->
 - Hvordan behandles divertikulose i nedre GI?:: Det er typisk selvlimiterende
 <!--SR:!2026-10-27,14,290-->
 - Hvad kaldes en divertikel der består af alle tarmens lag?:: [[Ægte divertikel]]

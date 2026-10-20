@@ -37,7 +37,7 @@
 - Hvordan inducere B. burgdorferi infllamation?:: IKKE igennem LPS, men den har maneg lipoproteienr
 <!--SR:!2026-10-21,16,290-->
 - Hvordan gør B. burgdorferi os syge?:: Primært igennem immunresponset
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 
 ## Smitte og epidimologi
 - Hvilken tendens har smittetilfælde med B. burgdorferi

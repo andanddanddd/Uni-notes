@@ -7,6 +7,6 @@
 
 ###### Biokemi
 - I hvilken kropslig væske måles amylase?:: Serum
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvornår testes for amylase i serum?:: Ved mistanke om [[Akut pancreatitis]] eller ved kontrol af [[Kronisk pancreatitis]]
 <!--SR:!2026-10-18,4,270-->

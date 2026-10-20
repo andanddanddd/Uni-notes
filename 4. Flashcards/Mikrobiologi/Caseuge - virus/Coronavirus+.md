@@ -62,7 +62,7 @@
 
 ## Forebyggelse og behandling
 - Hvordan behandles coronavirus?:: Symptombehandling
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-17,58,310-->
 - Hvordan forebygges coronaviris?:: Vaccine (mod [[Covid-19]])
 <!--SR:!2026-10-20,15,290-->
 - Hvad kendetegner [[Covid-19]]-vaccinen?:: mRNA-vaccine mod spike-proteiner

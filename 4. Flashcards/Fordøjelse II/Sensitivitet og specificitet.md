@@ -15,9 +15,9 @@
 - Hvad er specificitet overordnet?:: En tests evne til at finde folk uden sygdom, dvs få falsk positive
 <!--SR:!2026-10-18,4,270-->
 - Hvordan udregnes specificitet?:: $$\text{Specificitet}=\frac{TM}{TN+FP}$$ Hvor TN er sand negativ og FP er falsk positiv
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 
 - Hvad er en type I fejl?:: Falsk positiv
 <!--SR:!2026-10-18,4,270-->
 - Hvad er en type II fejl?:: Falsk negativ
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->

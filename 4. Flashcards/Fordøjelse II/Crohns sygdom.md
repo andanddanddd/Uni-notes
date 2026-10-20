@@ -32,7 +32,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Hvad kendetegner lokaliseringen af Crohns?:: Der kan være flere seperate stykker inficeret fordøjelseskanal, det kan forekomme fra mund til anus
 <!--SR:!2026-11-03,15,290-->
 - Hvilken del af fordøjelseskanalen er typisk påvirket af crohns?:: Illium og colon
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvilke lag af tarmen kan påvirkes af crohns?:: Dem alle (den kan lave fistler)
 <!--SR:!2026-10-18,4,270-->
 ## Diagnose

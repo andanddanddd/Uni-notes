@@ -19,4 +19,4 @@
 - [[Inflammatory bowel disease (IBD)]]
 - [[Arteriovenøs malfunktion]]
 - Cancer
-<!--SR:!2026-10-20,5,230-->
+<!--SR:!2026-11-06,17,250-->

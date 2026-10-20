@@ -7,4 +7,5 @@
 - Hvad er risikoen for at få [[Kolorektal karcinom]] ved FAP?:: 100% (fuld penetrans)
 - Hvilken effekt har FAP på [[Kolorektal adenom]]?:: Der forårsager MANGE af dem (100-1000), allerede i 20-30 årsalderen
 - Hvordan behandles/screenes mennesker md FAP?:: Profylaktisk fjernelse af colon
+<!--SR:!2026-10-24,4,270-->
 

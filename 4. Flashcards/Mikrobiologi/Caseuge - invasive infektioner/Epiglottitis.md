@@ -14,7 +14,7 @@
 - [[Streptococcus pneumoniae+]]
 - [[Streptococcus pyogenes+]]
 - [[Staphylococcus aureus+]]
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-12-06,47,290-->
 
 ## Klinisk præsentation
 

@@ -5,7 +5,7 @@
 - Hvilken type protozoa er G. lamblia?:: [[Flagellata]]
 <!--SR:!2026-10-21,12,270-->
 - Hvad kendetegner afføringen ved G. lamblia-infektion?:: De variere meget den kan være vandig, løs, fedtet og eller ildelugtende
-<!--SR:!2026-10-20,11,270-->
+<!--SR:!2026-12-02,43,290-->
 - Hvor giver G. lamblia overordnet infektioner?:: Tarmen
 <!--SR:!2026-10-29,16,290-->
 - Hvilke symptomer giver G. lamblia?:: Diarre, træthed, mavekramper, kvalme og oppustethed
