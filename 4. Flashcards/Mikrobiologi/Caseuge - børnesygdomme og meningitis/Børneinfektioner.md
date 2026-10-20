@@ -12,7 +12,7 @@
 - [[Hånd-fod-mund-syge]]
 - [[Roseola infantum]]
 - [[Scarletina]]
-<!--SR:!2026-10-16,13,230-->
+<!--SR:!2026-12-01,42,250-->
 
 - Hvad er de typiske infektioner af nyfødte (kogenitte infektinoer)?
 ?

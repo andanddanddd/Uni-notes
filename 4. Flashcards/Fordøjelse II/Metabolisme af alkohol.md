@@ -31,6 +31,6 @@
 
 ## Ekskretion
 - Hvor meget alkohol udskilles uomdannet?:: 10%
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvordan udskilles uomdannet alkohol?:: Urin, afføring, sved og udåndingsluft
 <!--SR:!2026-11-04,15,290-->

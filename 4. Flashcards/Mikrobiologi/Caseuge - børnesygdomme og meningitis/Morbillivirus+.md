@@ -6,7 +6,7 @@
 - Hvilken form har kapslen på morbilli virus?:: Helical
 <!--SR:!2026-10-19,14,290-->
 - Har morbilli virusen lipidmembran?:: Ja
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-19,60,310-->
 - Hvilken type arvematriale bruger morbilli virus?:: RNA-
 <!--SR:!2026-10-26,7,190-->
 - Hvilken struktur har morbilli virus arvematriale
@@ -14,7 +14,7 @@
 - Hvordan smitter morbilli virus?:: Aerosoler
 <!--SR:!2026-11-09,25,270-->
 - Hvilke celler inficere morbillivirus?:: Epitelceller i luftvejene i starten herfra spreder det sig gennem blodbanen
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-18,59,310-->
 - Hvordan kommer morbilli virus ind i cellen?
 
 - Hvilket protein bruger morbilivirus til at binde til vores celler?:: Hemaglutin

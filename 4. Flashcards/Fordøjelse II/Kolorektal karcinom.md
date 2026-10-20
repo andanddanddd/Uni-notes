@@ -3,9 +3,11 @@
 
 ### Defination
 - Hvad er kolorektal karcinom overordnet?:: Cancer (malign tumor)
+<!--SR:!2026-10-24,4,270-->
 - Hvilken celletype er kolorektal karcinom vokset udfra?:: Mucosa
 <!--SR:!2026-10-24,4,270-->
 - I hvilket lag af tarmen skal kolorektal karcinom være gennemvokset for at være et karcinom og hvorfor?:: Lamina mocosa muskularis, eftersom den ikke kan lave metatsater herover da der meget få lymfekar er
+<!--SR:!2026-10-24,4,270-->
 - Hvad hedder forstadiet til kolorektal karcinom?:: [[Kolorektal adenom]]
 <!--SR:!2026-10-24,4,270-->
 ### Forekomst
@@ -28,6 +30,7 @@
 - Fysisk aktivitet
 - Rygning
 - Alkohol
+<!--SR:!2026-10-24,4,270-->
 
 - Hvilken kost giver øget risiko for kolorecktal karcinom? (og adenom)
 ?
@@ -42,11 +45,13 @@
 - Hvorfor kan motion nedsætte risikoen for kolorecktal karcinom? (og adenom):: Det mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
 <!--SR:!2026-10-24,4,270-->
 - Hvorfor kan kalcium mindske risikoen for kolorecktal karcinom? (og adenom):: Det nedsætter proliferationshastigheden af mucosa
+<!--SR:!2026-10-21,1,230-->
 ### Morfologi
 - Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
 <!--SR:!2026-10-24,4,270-->
 ### Klinisk præsentation
 - Hvad kendetegner symptombilledet ved kolorektal carcinom i ceacum?:: Almensymptomer (træthed, feber, vægttab og anæmi)
+<!--SR:!2026-10-24,4,270-->
 - Hvad kendetegner symptombilledet ved kolorektal carcinom colon og rectum?:: Lokale symptomer inkl blodig afføring, mavesmerter, ændret afføringsmønster og [[Tenesmi]]
 <!--SR:!2026-10-24,4,270-->
 - Hvorfor er der forskel i symptombilledet ved kolorektal carcinom i ceacum og resten af tarmen?:: I ceacum er der mere plads og fæces er løsere
@@ -66,7 +71,9 @@
 - Hvad viser T-kategoriinddelingen overordnet?:: Hvor dybt kolorektal karcinom har indvaderet
 - Hvor dybt er kolorektal carcinom ved T1?:: Submucosa
 - Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis
+<!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T3?:: Gennem tunica muskularis
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T4?:: Gennem peritoneum
+<!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T3N1?:: Spredt sig til lymfeknuder

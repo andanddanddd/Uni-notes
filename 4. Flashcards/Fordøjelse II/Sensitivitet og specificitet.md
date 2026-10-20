@@ -10,7 +10,7 @@
 - Hvad er sensitivitet overordnet?:: En tests evne til at finde folk med en sygdom, dvs få falsk negative
 <!--SR:!2026-11-03,14,290-->
 - Hvordan udregnes sensitivitet?:: $$\text{sensitivitet}=\frac{TP}{TP+FN}$$ Hvor TP er de sande positive og FN er de falske negative
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 
 - Hvad er specificitet overordnet?:: En tests evne til at finde folk uden sygdom, dvs få falsk positive
 <!--SR:!2026-10-18,4,270-->

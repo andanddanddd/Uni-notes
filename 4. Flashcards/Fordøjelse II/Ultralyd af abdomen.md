@@ -7,7 +7,7 @@ Væsker bliver sorte (da der intet ekko er)
 Der er mørkt bag meget hvide områder (skygge) da alt lyd allerede er reflekteret
 
 - Hvilke fordele af UL?:: Det er biligt og der er ingen stråling
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,15,290-->
 - Hvilke organer i abdomnen bruges UL særligt til?:: Galdeblæren og pancreas
 <!--SR:!2026-11-03,14,290-->
 - Hvad er sort og vidt på en UL?:: Sort = væske, luft = hvid

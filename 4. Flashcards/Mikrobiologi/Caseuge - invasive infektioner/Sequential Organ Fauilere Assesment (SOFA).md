@@ -34,6 +34,6 @@
 - Hvad sker med lungerne under sepsis?:: Alveolerne bliver fyldt med væske så de ikke kan lave gasudveksling
 <!--SR:!2026-10-23,16,290-->
 - Hvad sker med hjernen under sepsis?:: Den får ikke nok ilt hvilket leder til konfusion
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-02,43,290-->
 - Hvad sker med nyrene under sepsis?:: Nekrose
 <!--SR:!2026-11-23,39,290-->

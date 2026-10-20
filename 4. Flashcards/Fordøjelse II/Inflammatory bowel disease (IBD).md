@@ -2,8 +2,8 @@
 
 
 
-- Hvilke 2 sygdomme er under kategorien IBS?:: [[Colitis ulcerosa (UC)]] og [[Crohns sygdom]]
-<!--SR:!2026-10-18,4,270-->
+- Hvilke 2 sygdomme er under kategorien IBD?:: [[Colitis ulcerosa (UC)]] og [[Crohns sygdom]]
+<!--SR:!2026-11-03,14,290-->
 ### Epidimologi
 - Hvor mange af IBD patienter her hhv UC og crohn?:: 2/3 Uc 1/3 crohns
 <!--SR:!2026-10-18,4,270-->

@@ -37,7 +37,7 @@
 - Hvad er brofibroser?:: Fibrose mellem glissons triade og centralvenen
 <!--SR:!2026-11-02,14,290-->
 - Hvorfor er brofibroser skadelige?:: De ødelægger blodflow
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,15,290-->
 - Hvad er regenerationsnoduli?:: "nye" leverceller der er uorganiseret
 <!--SR:!2026-11-03,15,290-->
 ## Diagnose

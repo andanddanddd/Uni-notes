@@ -10,4 +10,4 @@
 - [[Mallory-legemer]]
 - Pericellulær fibrose (særligt omkring centralvenen)
 - Statose
-<!--SR:!2026-10-20,1,210-->
+<!--SR:!2026-10-22,2,210-->

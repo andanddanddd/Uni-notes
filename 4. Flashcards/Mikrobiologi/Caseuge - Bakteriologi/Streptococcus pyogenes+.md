@@ -49,7 +49,7 @@
 - [[Scarletina]]
 - [[Reumatisk feber]]
 - [[Glomerulonephritis]]
-<!--SR:!2026-10-17,26,270-->
+<!--SR:!2027-01-26,98,290-->
 
 - Hvad er den mest normale sygdom forårsaget af streptococcus pyogenes?:: Pharyngitis
 <!--SR:!2026-12-02,65,310-->

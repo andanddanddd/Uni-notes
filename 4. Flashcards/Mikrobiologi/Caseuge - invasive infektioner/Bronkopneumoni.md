@@ -1,7 +1,7 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvad er bronopneumoni overordnet?:: Pneumoni der er staretet i bronkierne herfra kan det sprede sig til resten af lungerne
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,55,310-->
 - Eksempel på bakterier der kan give bronkopneumoni?
 ?
 - [[Staphylococcus aureus+]]
@@ -18,7 +18,7 @@
 - [[Respiratory sunctial virus (RSV)+]]
 - [[Influenzavirus+]]
 - [[Adenovirus]]
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-12-06,47,290-->
 
 
 - Hvornår forekommer bronkopneumoni oftest?:: Som sekundær infektion til en viral infektion

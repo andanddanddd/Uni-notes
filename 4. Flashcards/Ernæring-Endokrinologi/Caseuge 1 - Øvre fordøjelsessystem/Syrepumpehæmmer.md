@@ -21,6 +21,7 @@
 
 ### Klinisk anvendelse
 - Hvor ofte bruges syrepumpehæmmere til ulcussygedomme?:: Ofte
+<!--SR:!2026-10-24,4,270-->
 - Hvad bruegs syrepumpehæmmere til?
 ?
 - Ulcussygdomme

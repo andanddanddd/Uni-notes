@@ -6,6 +6,7 @@
 <!--SR:!2026-10-24,4,270-->
 - Hvilken celletype udvikles kolorektal adenom fra?:: Mucosa i colon
 - Hvad kaldes kolorektal adenom også og hvorfor er det indre rigtigt?:: Polypper, men polypper kan også være non-neoplastiske (derfor er kolorektal adenom mere rigtigt)
+<!--SR:!2026-10-24,4,270-->
 ### Forekomst
 - Hvor (geografisk) ses flest kolorektale adenomer?:: Den vestliige verden
 <!--SR:!2026-10-24,4,270-->
@@ -22,6 +23,7 @@ mangler
 - Tubulært adenom
 - Tubovilløst adenom
 - Villøst adenom
+<!--SR:!2026-10-24,4,270-->
 
 - Hvornår er overfladen på kolorektal adenom glat?:: Ved et tubulært adenom
 - Hvornår er overfladen på kolorektal adenom ureggelmæssig (ikke glat)?:: Ved villøst adenom (eller tubulovilløst adenom)

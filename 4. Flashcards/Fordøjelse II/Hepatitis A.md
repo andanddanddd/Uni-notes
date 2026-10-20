@@ -6,7 +6,7 @@
 ## Struktur
 - Hvilken form har kapslen på hepatitis A
 - Har hepatitis A en lipidmembran?:: Nej
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-16,57,310-->
 - Hvilken type arvematriale bruger hepatitis A?:: RNA+
 <!--SR:!2026-12-22,63,310-->
 - Hvilken struktur har hepatitis A´ arvematriale

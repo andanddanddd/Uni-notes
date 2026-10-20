@@ -8,6 +8,7 @@
 ?
 - Hydroner (saltsyre)
 - [[Intrinsic faktor]]
+<!--SR:!2026-10-24,4,270-->
 
 - Hvilke receptorer har parietalcellen?
 ?
