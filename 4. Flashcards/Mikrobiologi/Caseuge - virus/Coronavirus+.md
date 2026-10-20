@@ -42,7 +42,7 @@
 - I hvilket dyr bor flest forskellige coronavirus og hvorfor?:: Flagermuse, det ligner ikke de bliver syge af det
 <!--SR:!2026-10-21,16,290-->
 - Hvordan smitter coronavirus?:: Dråber eller aerosoler
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-16,57,310-->
 - Hvad hedder de 3 nyeste epidemier forårsaget af coronavirus?
 ?
 - [[SARS]]

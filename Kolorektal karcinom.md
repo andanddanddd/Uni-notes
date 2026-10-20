@@ -13,6 +13,7 @@
 <!--SR:!2026-10-24,4,270-->
 - Hvilket køn rammes oftest af kolorektal karcinom?:: Mænd
 - Hvad er forskellen på colon- og rectum cancer i incidens mellem mænd og kvinder?:: Coloncancer ses hyppigst hos kvinder mens rectumcancer hyppigst ses hos mænd
+<!--SR:!2026-10-24,4,270-->
 ### Etiologi og patogenese
 - Hvor ofte ses "arv" (andre i familien med kolorektal karcinom) ved kolorektal karcinom?:: 20% af tilfælde
 - Hvilke 2 arvelige tilstande giver øget risiko for kolorektal carcinom og hvilken ses hyppigst?
@@ -34,6 +35,7 @@
 - Fiberfattig kost
 - For lidt kalcium
 - Lav vitamin D,C og E
+<!--SR:!2026-10-24,4,270-->
 
 - Hvorfor kan fibre mindre risikoen for kolorecktal karcinom? (og adenom):: Den binder carcinogener og mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
 <!--SR:!2026-10-24,4,270-->

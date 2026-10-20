@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvem rammen oftest af viral hepatitis?:: Kvinder mellem i alderen 13-25 og 56-65
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-01,12,270-->
 ## Etiologi
 
 ## Klinisk præsentation

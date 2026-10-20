@@ -21,7 +21,7 @@
 
 ## Patofysiologi
 - Hvorfor sker hepatisk encefalopati?:: Toksiske stoffer ophobes i kroppen (særligt ammonium og [[GABA]])
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,15,290-->
 ## Diagnose
 
 ## Behandling

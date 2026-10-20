@@ -17,7 +17,7 @@
 
 ### Patofysiologi
 - Hvordan ændres leveren makroskopisk under PBC?:: den bliver grøn-gul
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-03,14,290-->
 - Hvad kendetegner leveren snitflade (makroskopisk) under PBC?:: Den er fast og mirkonodulær
 <!--SR:!2026-11-01,12,270-->
 - Hvordan er udviklingen af PBC overordnet?:: Den er progressiv og først sent i forløbet diagnosticeres sygdommen

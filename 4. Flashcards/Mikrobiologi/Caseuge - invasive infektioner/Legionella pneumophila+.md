@@ -52,7 +52,7 @@
 ## Smitte og epidimologi 
 - Hvilken tendens har smittetilfælde med L. pneumophila
 - Hvordan smitter L. pneumophila?:: Gennem vand særligt vandbeholdere, men det kan også smitte fra menneske til menenske gennem dråber (det er den bakterie der hyppigst smitter fra vand i USA)
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-19,60,310-->
 - Hvem smittes ofte af L. pneumophila?:: Ældre
 <!--SR:!2026-11-30,42,290-->
 

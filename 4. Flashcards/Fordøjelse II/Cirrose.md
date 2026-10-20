@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad kaldes cirrose i daglig tale?:: Skrumpelever
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,14,290-->
 
 ## Etiologi
 - Hvorfor sker mikronodulær cirrose typisk?:: Kronisk alkoholoverforbrug

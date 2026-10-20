@@ -9,7 +9,7 @@
 - Hvilken type biotransformation undergår alkohol i leveren?:: [[Fase 1 processor]] specifikt oxidation
 <!--SR:!2026-11-05,16,290-->
 - Hvilket "enzymsystem" nedbruger mest alkohol?:: **Alkoholdehydrogenasesystemet**
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-11-01,12,270-->
 	- Hvad gør alkoholdehydrogenasesystemet ved alkohol i leveren?:: Omdanner det til acetylaldehyd og derfra til acetat
 <!--SR:!2026-11-04,16,290-->
 	- Hvad hedder enzymet der laver acetylaldehyd fra alkohol?:: Ethanol-dehydrogenase

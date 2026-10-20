@@ -7,6 +7,7 @@
 - Hvordan ser pseudomembranøs collitis ud makroskopisk?:: Lyse grågule/hvidlige belægninger (pseudomembraner)
 <!--SR:!2026-10-23,3,250-->
 - Hvad består pseudomembraner af?:: Inflammatorisk eksudat (slim, fibrin og cellerester)
+<!--SR:!2026-10-23,3,250-->
 - Hvilke symptomer har pseudomembranøs collitis?
 ?
 - Løs afføring/diarre (kan være blodig)

@@ -5,7 +5,7 @@
 - Hvad kaldes bindevævet om leveren?:: [[Glissons kapsel]]
 <!--SR:!2026-12-04,46,290-->
 - Ved hvilke leverlobuli er der mest bindevæv?:: Dem nær [[Porta hepatis]]
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-20,61,310-->
 
 ![[Leverlobuli]]
 

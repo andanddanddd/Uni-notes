@@ -25,7 +25,7 @@
 - Hvordan smitter adenovirus?:: Dråber eller i vand/mad
 <!--SR:!2026-10-23,16,290-->
 - I hvilke grupper sker der oftest udbrud af adenovirus?:: Skolebørn og i militeret
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-04,45,290-->
 
 ## Symptomer og komplikationer
 - Hvor giver adenovirus oftest infektiner?:: Luftveje og fordøjelseskanal, men det kan også give [[Conjunctivitis]]

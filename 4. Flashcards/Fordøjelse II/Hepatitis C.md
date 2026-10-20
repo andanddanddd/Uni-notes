@@ -6,7 +6,7 @@ Mutere meget
 ## Struktur
 - Hvilken form har kapslen på hepatitis C
 - Har hepatitis C en lipidmembran?:: Ja
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-17,58,310-->
 - Hvilken type arvematriale bruger hepatitis C?:: RNA+
 <!--SR:!2026-12-15,57,310-->
 - Hvilken struktur har hepatitis C´ arvematriale

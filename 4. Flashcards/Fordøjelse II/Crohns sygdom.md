@@ -34,7 +34,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Hvilken del af fordøjelseskanalen er typisk påvirket af crohns?:: Illium og colon
 <!--SR:!2026-11-05,16,290-->
 - Hvilke lag af tarmen kan påvirkes af crohns?:: Dem alle (den kan lave fistler)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,15,290-->
 ## Diagnose
 - Hvordan ses crohns ved endoskopi/colonskopi?:: Dybe længdegående står, brostensmønster
 <!--SR:!2026-10-18,3,250-->

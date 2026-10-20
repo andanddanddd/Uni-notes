@@ -11,6 +11,7 @@
 <!--SR:!2026-10-24,4,270-->
 - Hvornår (alder) stiger incidensen af kolorektal adenom drastisk?:: 40-års-alderen
 - Hvor hyppig er kolorektal adenom?:: Den hyppiske form for tarmkræft i vesten
+<!--SR:!2026-10-24,4,270-->
 ### Etiologi og patogenese
 mangler
 ### Morfologi

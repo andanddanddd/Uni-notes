@@ -7,11 +7,15 @@
 - Hvilken type antacid har en langvarrig virkningsprofil?:: Aluminiumhydroxid
 ### Bivirkninger
 - Hvilken bivirkning har antacida med magnesiumforbindelser?:: Diarre
+<!--SR:!2026-10-23,3,250-->
 - Hvilken bivirkning har antacida med aluminiumforbindelser?:: Obstipation
 ### Interaktioner
 - Hvilket medikament må ikke gives sammen med antacida?:: [[Sukralfat]]
+<!--SR:!2026-10-24,4,270-->
 - Hvordan er virkningsprofilen af antacida?:: Indtræder hurtigt og forsvinder hurtigt
 <!--SR:!2026-10-24,4,270-->
 ### Klinisk anvendelse
 -  Hvor ofte bruges antacida til ulcusbehandling?:: Sjældent, aldrig mod [[Helicobacter pylori]]
+<!--SR:!2026-10-24,4,270-->
 - Hvad bruges antacida til?:: Reflukssygdomme
+<!--SR:!2026-10-24,4,270-->

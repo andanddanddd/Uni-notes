@@ -1,6 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er divertikulose?:: Tilstand med mange [[Divertikler]]
+<!--SR:!2026-10-24,4,270-->
 
 ### Etiologi
 - Hvad er den største risikofaktor til divertikulose og hvorfor?:: Fiberfattig kost, eftersom nedsat tarmmotilitet fører til øget tryk
@@ -16,5 +17,6 @@
 ### Patofysiologi
 ### Diagnose
 - Hvordan diagnosticeres divatikulitis overordnet?:: Røntgen med kontrast
+<!--SR:!2026-10-23,3,250-->
 
 ### Behandling

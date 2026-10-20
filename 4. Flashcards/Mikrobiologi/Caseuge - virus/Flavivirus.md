@@ -7,7 +7,7 @@
 - Har flavivirus en lipidmembran?:: Ja
 <!--SR:!2026-10-17,12,270-->
 - Hvilken type arvematriale bruger flavivirus?:: RNA+
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-03,44,290-->
 - Hvilken struktur har flavivirus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere flavivirus
@@ -17,7 +17,7 @@
 - Tendens i tilfælde
 - Hvor "lever" flavivirus normalt
 - Hvordan smitter flavivirus?:: Oftest myg men det kan også være flåter
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,55,310-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver flavivirus?:: Enten [[Encephalitis]] eller hemoratisk feber evt også udslet (afhængig af subtypen)

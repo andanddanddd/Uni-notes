@@ -3,7 +3,7 @@
 - Hvilken sygdom giver T. gondii?:: [[Toxoplasmose]]
 <!--SR:!2026-10-25,12,270-->
 - Hvilken sygdom giver toxoplasma gondii?:: [[Haresyge]]
-<!--SR:!2026-10-18,9,250-->
+<!--SR:!2026-11-21,32,270-->
 - Hvilken type patogen er T. gondii?:: [[Protozoa]]
 <!--SR:!2026-10-27,14,290-->
 - Hvilken type [[Protozoa]] er T. gondii?:: [[Sporozoa]]

@@ -3,6 +3,7 @@
 
 ### Farmakodynamik
 - Hvordan virker prostagalndinanaloger overordnet?:: Beskytter mucosa i mavesækken
+<!--SR:!2026-10-24,4,270-->
 
 ### Farmakokinetik
 

@@ -18,7 +18,7 @@
 - Hvordan kommer morbilli virus ind i cellen?
 
 - Hvilket protein bruger morbilivirus til at binde til vores celler?:: Hemaglutin
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-05,46,290-->
 - Hvilke funktioner har F-protein?
 ?
 - Membranfusion
@@ -55,7 +55,7 @@
 - Hvilken næringsmangel gør morbillivirus infektion markant værre?:: [[A-vitamin]]-mangel
 <!--SR:!2026-10-20,15,290-->
 - Hvilken infektioner giver morbillivirus ofte i patienter der mangelr [[A-vitamin]]?:: Infektioner i øjet
-<!--SR:!2026-10-18,10,270-->
+<!--SR:!2026-11-16,27,270-->
 ## Diagonstik
 - Hvornår i sygdomsforløbet kan man finde antistoffer mod morbillivirus i blodet?:: Når udslettet kommer
 <!--SR:!2026-10-21,16,290-->
