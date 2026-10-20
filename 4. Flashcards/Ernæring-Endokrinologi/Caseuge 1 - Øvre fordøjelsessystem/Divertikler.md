@@ -11,6 +11,6 @@
 - Hvordan behandles divertikulose i nedre GI?:: Det er typisk selvlimiterende
 <!--SR:!2026-10-27,14,290-->
 - Hvad kaldes en divertikel der består af alle tarmens lag?:: [[Ægte divertikel]]
-- Hvad kaldes en divertikel bestående af mucosa (og evt submucosa)
+- Hvad kaldes en divertikel bestående af mucosa (og evt submucosa) der går ned i muskularis og fedtlaget?:: [[Falsk divertikel]]
 - Hvad kaldes tilstanden hvor en pt har mange divertikler?:: [[Divertikulose]]
 - Hvad kaldes tilstanden med mange divertikler der er inflammerede?:: [[Divertikulis]]

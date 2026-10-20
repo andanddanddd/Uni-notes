@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 50.48543689320388,
+        "dimension": 50.485436893203875,
         "children": [
           {
             "id": "657df77a56e3b943",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Divertikler.md",
+                "file": "Divertikulose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divertikler"
+              "title": "Divertikulose"
             }
           },
           {
@@ -56,7 +56,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 49.51456310679612,
+        "dimension": 49.514563106796125,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -266,15 +266,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c51b2cfc02fc880",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Divertikulis.md",
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Divertikler.md",
     "Divertikulose.md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Divertikler.md",
+    "Falsk divertikel.md",
+    "Divertikulis.md",
     "Ægte divertikel.md",
     "4. Flashcards/Fordøjelse II/Inflammatory bowel disease (IBD).md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Inflammatoriske tarmsygdomme (og behandling).md",
@@ -298,7 +298,6 @@
     "Kolorektal karcinom.md",
     "Herisitær non-polypøs kolorektal cancer (HNPCC).md",
     "Kolorektal adenom.md",
-    "Lynch syndrom.md",
     "Pasted image 20261019094654.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne",
