@@ -31,7 +31,7 @@
 ## Patogenese
 
 - Hvad er meningitis overordnet?:: Infektion i [[Subaraknoidalrummet]]
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-24,65,310-->
 - Hvor i [[Subaraknoidalrummet]] er der særligt meget infektion under en meningitisinfektion?:: [[Virchow robin]]
 <!--SR:!2026-12-01,47,290-->
 - Hvorfor er det svært for immunforsvaret at bekæmpe meningitis?:: Det er ikke meningen at hverken bakterier eller immunceller kan komme igennem blod-hjerne-barrieren

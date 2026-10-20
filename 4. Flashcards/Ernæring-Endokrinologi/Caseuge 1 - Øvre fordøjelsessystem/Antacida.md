@@ -5,6 +5,7 @@
 - Hvad er det aktive stof i antacida?:: En base oftest hydroxid
 ### Farmakokinetik
 - Hvilken type antacid har en langvarrig virkningsprofil?:: Aluminiumhydroxid
+<!--SR:!2026-10-24,4,270-->
 ### Bivirkninger
 - Hvilken bivirkning har antacida med magnesiumforbindelser?:: Diarre
 <!--SR:!2026-10-23,3,250-->

@@ -5,6 +5,7 @@
 - Hvad er kolorektal adenom overordnet?:: Polyp med dysplasi (dvs forstadie til cancer men ikke cancer endnu)
 <!--SR:!2026-10-24,4,270-->
 - Hvilken celletype udvikles kolorektal adenom fra?:: Mucosa i colon
+<!--SR:!2026-10-24,4,270-->
 - Hvad kaldes kolorektal adenom også og hvorfor er det indre rigtigt?:: Polypper, men polypper kan også være non-neoplastiske (derfor er kolorektal adenom mere rigtigt)
 <!--SR:!2026-10-24,4,270-->
 ### Forekomst

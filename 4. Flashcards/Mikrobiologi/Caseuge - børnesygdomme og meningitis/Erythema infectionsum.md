@@ -5,7 +5,7 @@
 - Hvilke symptomer har erythema infectionsum?:: Oftest asymptomatisk eller giver det udslet i en uge og feber i 2-3 dage
 <!--SR:!2026-11-19,41,290-->
 - Hvilken komplikation kan erythema infectionsum give?:: [[Apalstisk krise]]
-<!--SR:!2026-10-16,13,230-->
+<!--SR:!2026-11-18,29,230-->
 - Hvilket patogen giver erythema infectionsum?:: [[parvovirus]]
 <!--SR:!2026-11-04,22,210-->
 - Hvordan smitter erythema infectionsum?:: Vertikalt, blod, dråber

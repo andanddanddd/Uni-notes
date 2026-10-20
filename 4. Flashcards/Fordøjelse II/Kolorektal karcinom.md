@@ -70,6 +70,7 @@
 #### T-kategoriinddeling
 - Hvad viser T-kategoriinddelingen overordnet?:: Hvor dybt kolorektal karcinom har indvaderet
 - Hvor dybt er kolorektal carcinom ved T1?:: Submucosa
+<!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T3?:: Gennem tunica muskularis

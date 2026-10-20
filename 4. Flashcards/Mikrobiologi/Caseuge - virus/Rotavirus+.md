@@ -46,7 +46,7 @@
 - Hvad er latenstiden på rotavirus?:: Ca 2 dage
 <!--SR:!2026-10-21,16,290-->
 - Hvordan er sygdomsforløbet af rotavirus overordnet?:: Det starter med 2 dages opkast efterfulgt af 3-8 dages diarre
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-11-20,31,270-->
 - Hvilke symptomer har rotavirus?
 ?
 - Opkast

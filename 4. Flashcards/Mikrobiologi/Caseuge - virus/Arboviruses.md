@@ -25,7 +25,7 @@
 - Hvordan giver det mening af smitte med arbovirus er sesonafhængig?:: Insekterne flytter sig eller går i hi eller noget
 <!--SR:!2026-12-17,58,310-->
 - Hvorfor giver det mening at arbovirus er geografisk låst?:: For den kan sprede sig skal både insekterne og dyrene den der ikke er dead end host flytte sig
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Hvilke arbevirus er typisk spredt over det største geografiske areal?:: Dem der bruger fugle som hvert
 <!--SR:!2026-12-22,63,310-->
 

@@ -1,7 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad kaldes leverceller?:: [[Hepatocytter]]
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-20,61,310-->
 - Hvad kaldes bindevævet om leveren?:: [[Glissons kapsel]]
 <!--SR:!2026-12-04,46,290-->
 - Ved hvilke leverlobuli er der mest bindevæv?:: Dem nær [[Porta hepatis]]
