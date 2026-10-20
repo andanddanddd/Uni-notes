@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er spider angiomas?:: Små udvidede blodkar i huden
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-16,57,310-->
 - Hvornår forekommer spider angiomas?:: Ved [[Kronisk leversygdom]]
 <!--SR:!2026-12-13,55,310-->
 - Beskriv patogenesen bag spider angiomas?:: Leveren nedbryder ikke nok østrogen HVILKET GØR HVAD????

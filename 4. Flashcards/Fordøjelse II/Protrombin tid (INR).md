@@ -7,7 +7,7 @@
 - Hvornår laves en protrombintest?:: Ved mistanke om sygdom i galdeganene eller leveren og ved monitorering af leversygdom
 <!--SR:!2026-11-03,15,290-->
 - Hvad kan for'get protrombintid tyde på?:: Malabsorbsion af [[K-vitamin]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvordan "regnes" INR?:: $$INR=\biggl(\frac{PT_{patient}}{PT_{normal}}\biggr)^{ISI}$$ Hvor ISI er en værdi specifikt for hvert laboratorie så resultater kan sammenlignes
 <!--SR:!2026-10-18,4,270-->
 

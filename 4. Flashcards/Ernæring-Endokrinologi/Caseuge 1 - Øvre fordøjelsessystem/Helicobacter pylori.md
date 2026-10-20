@@ -1,7 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi #flashcards/5/Mikrobiologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvilken type cellevæg har H. pylori?:: [[Gram-negative bakterier]]
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvad gør helicobactor pylori?:: Sænker pH
 <!--SR:!2026-12-04,65,310-->
 - Hvordan smitter H. pylori?:: Oral-oral eller fæcal-oral (dvs mellem mennesker)

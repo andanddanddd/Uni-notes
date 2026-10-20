@@ -5,6 +5,7 @@
 ### Farmakodynamik
 - Hvor skal syrepumpehæmmere hen før de er aktive?:: Lumen af mavesækken
 - Hvilket enzym virker syrepumpe-hæmmere på?:: H+/K+-ATPasen
+<!--SR:!2026-10-24,4,270-->
 - Hvordan "aktiveres" syrepumpehæmmere?:: De aktiveres af syren i mavesækken
 
 ### Farmakokinetik

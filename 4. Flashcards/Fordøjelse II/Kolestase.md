@@ -9,7 +9,7 @@
 - Hepatocellulær dysfunktion (akut leversygdom eks pga virus, lægemidler eller alkohol)
 - Intrahepatisk galdevejsobstruktion
 - [[Kronisk kolestatisk leversygdomme]]
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-11-01,12,270-->
 
 
 - Hvilke ekstrahepatiske etiologier er der til kolestase?

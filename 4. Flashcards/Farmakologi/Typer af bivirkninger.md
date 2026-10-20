@@ -2,7 +2,7 @@
 
 #### Type A bivirkninger
 - Hvad er en type A bivirkning?:: En forudsigelig bivirkning der skyldes for meget stof der virker på den forventelige receptor (ekse hypoglykæmi ved insulin)
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvor slemme er type A bivirkninger?:: Typisk ikke slemme
 <!--SR:!2026-10-17,4,270-->
 - Hvor ofte sker type A bivirkninger?:: Ofte

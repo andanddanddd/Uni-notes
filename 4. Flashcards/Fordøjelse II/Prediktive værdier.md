@@ -9,7 +9,7 @@
 - Hvad er negative predictive value overordnet?:: Sandsynligheden for at være rask hvis man får et negativt resultat
 <!--SR:!2026-11-04,16,290-->
 - Hvordan udregnes negativ predictive value overordnet?:: $$NPV=\frac{TN}{TN+FN}$$ Hvor TN er sand negativ og FN er flask negativ
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 
 - Hvilken faktor kan ændre prædiktive værdier?:: Prævalens i population
 <!--SR:!2026-11-02,14,290-->

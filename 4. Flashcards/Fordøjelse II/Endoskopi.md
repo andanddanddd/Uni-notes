@@ -18,7 +18,7 @@
 <!--SR:!2026-10-18,4,270-->
 
 - Hvad er fordelen ved at lave endoskopi i tarmen i forhold til [[Colonskopi]]?:: Man behøves ikke at have en hel tom tarm
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvornår er endoskopi kontraindikeret?
 ?
 - Ved pt der ikke tåler "bedøvelse"

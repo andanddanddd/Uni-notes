@@ -24,7 +24,7 @@
 - Hvad sker med fagosomet som indeholder L. pneumophilia?:: Det bliver omkranset af ruER (of fusionere ikke med et lysosom)
 <!--SR:!2026-10-22,16,290-->
 - Hvor formere L. pneumophila sig?:: Den er fakultativ intracellulær særligt i makrofager
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-04,45,290-->
 - Hvilke patogenesefaktorer har L. pneumophila?:: [[Biofilm]]
 <!--SR:!2026-12-04,46,290-->
 - Hvad kendetegner L. pneumophilas emperaturtolerance/preferance?:: Den kan vækste i temperaturer op mod 45 grader C og dør ikke før meget højere temperaturer
