@@ -6,7 +6,7 @@
 - Kapseltype ([[Virus kapsel]])
 - +- Lipidmembran
 - Dimensioner
-<!--SR:!2026-10-16,8,270-->
+<!--SR:!2026-11-18,29,290-->
 
 - Hvad kunne potentielt være med i virusklassifikation som ikke er?:: Hvilke celler en virus inficere
 <!--SR:!2026-12-11,64,310-->

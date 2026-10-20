@@ -18,7 +18,7 @@
 - Tumorer
 ### Klinisk præsentation
 - Hvilket symptom er met karakteristisk for kolestase?:: [[Pruritus]]
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-03,14,290-->
 
 ### Komplikationer
 

@@ -7,7 +7,7 @@
 - Hvilken form har leverlobuli?:: Sekskantet
 <!--SR:!2026-10-20,15,290-->
 - Hvad kaldes samlingen af kar i hjærnerne af leverlobuli?:: [[Glissons triade]]
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Hvad kaldes venen i midten af leverlobuli?:: [[Centralvenen]]
 <!--SR:!2026-12-16,58,310-->
 - Hvad hedder blokarene mellem centralvenen og glissons triader?:: Sinusoider [[Sinussoider (leveren)]]
@@ -18,4 +18,4 @@
 - Hvad er en muralium?:: Plader af hepatocytter
 <!--SR:!2026-12-15,57,310-->
 - Hvordan er forløbet af blokar i leverlobuli?:: De starter på lanten (mellem leverlobuli) og bevæger sig så ind
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-15,56,310-->

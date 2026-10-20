@@ -8,7 +8,7 @@
 - Har rotavirus en lipidmembran?:: nej, men den har en indre og ydre kapsel
 <!--SR:!2026-10-19,14,290-->
 - Hvilken type arvematriale bruger rotavirus?:: dsRNA
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-05,46,290-->
 - Hvilken struktur har rotavirus´ arvematriale?:: Segmentret (11 segmenter)
 <!--SR:!2026-11-05,16,230-->
 ## Livscyklus
@@ -17,13 +17,13 @@
 - Hvilke celler inficere rotavirus?:: Enterocytter i tyndtarmen
 <!--SR:!2026-12-04,46,290-->
 - Hvordan kommer rotavirus ind i cellen? (mekanisme):: Endocytose
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-16,57,310-->
 - Hvor sker replikation og transskription af rotavirus?:: Cytoplasma
 <!--SR:!2026-10-23,16,290-->
 - Hvor får rotavirus sin lipidmembran?:: Den har ikke en lipidmembran men den får sin ydre skal i ruER
 <!--SR:!2026-10-22,16,290-->
 - Hvordan kommer rotavirus ud af cellen?:: Lysis
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-18,59,310-->
 - Hvordan giver rotavirus diarre?
 ?
 - Dræber absorptive celler 

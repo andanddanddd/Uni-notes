@@ -3,7 +3,7 @@
 - Hvilken type svamp er candida?:: Gærsvampe
 <!--SR:!2026-11-17,46,290-->
 - Hvilken candida art er mest virulent?:: [[Candida albicans]]
-<!--SR:!2026-10-18,23,250-->
+<!--SR:!2027-01-07,79,270-->
 - Hvor giver candida typisk infektioner?:: Hud og slimhinder (sjældent systemisk)
 <!--SR:!2026-12-02,62,310-->
 - Hvad er candida balanitis?:: Candida på forhuden

@@ -3,7 +3,7 @@
 - Hvad viser en ASAT-test?:: Integriteten af leverceller
 <!--SR:!2026-10-18,4,270-->
 - Hvilket stof testes for i en ASAT test?:: ASpartat
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,15,290-->
 - Hvornår testes for ASAT
 ?
 - Mistanke om leversygdom

@@ -21,7 +21,7 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 - Hvor ofte giver galdesten symptomer?:: 20 - 30% af tilfælde
 <!--SR:!2026-10-24,11,270-->
 - Hvad kendetegner mavesmerterne ved galdesten?:: De kommer hurtigt men går langsomt, ofte måltidreleteret
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-05,16,290-->
 ### Komplikationer
 - Hvad kaldes det når en galdesten sættes fast i halsen af galdeblæren? (collum vesica biliaris):: [[Cholecystitis]]
 <!--SR:!2026-10-29,16,290-->

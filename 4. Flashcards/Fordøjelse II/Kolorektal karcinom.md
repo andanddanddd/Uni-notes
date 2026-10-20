@@ -44,17 +44,21 @@
 - Hvorfor kan kalcium mindske risikoen for kolorecktal karcinom? (og adenom):: Det nedsætter proliferationshastigheden af mucosa
 ### Morfologi
 - Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
+<!--SR:!2026-10-24,4,270-->
 ### Klinisk præsentation
 - Hvad kendetegner symptombilledet ved kolorektal carcinom i ceacum?:: Almensymptomer (træthed, feber, vægttab og anæmi)
-- Hvad kendetegner symptombilledet ved kolorektal carcinom colon og rectum?:: Lokale symptomer inkl blodig afføring, mavesmerter, ændret afføringsmønster og [[Tenesmi]] 
+- Hvad kendetegner symptombilledet ved kolorektal carcinom colon og rectum?:: Lokale symptomer inkl blodig afføring, mavesmerter, ændret afføringsmønster og [[Tenesmi]]
+<!--SR:!2026-10-24,4,270-->
 - Hvorfor er der forskel i symptombilledet ved kolorektal carcinom i ceacum og resten af tarmen?:: I ceacum er der mere plads og fæces er løsere
 <!--SR:!2026-10-24,4,270-->
 ### Diagnostik og screening
 - Hvilke ikke-billeddiagnostike diagnostike bruges til diagnostik af rektal carcinom?:: Rektaleksploration
+<!--SR:!2026-10-24,4,270-->
 - Hvilke billeddiagnostika bruges til diagnostik af kolorektal carconim?:: Som udgangspunkt kolonskopi, hvis det ikke er muligt kan [[Computed tomography (CT)]] eller [[MRI]] laves
 <!--SR:!2026-10-24,4,270-->
 - Hvordan udredes patienter med cancer i rectum?:: [[MRI]]
 - Hvordan screenes for colorektal cancar?:: [[Fecal occult blodtest (FOBT)]]
+<!--SR:!2026-10-24,4,270-->
 
 ### Behandling
 

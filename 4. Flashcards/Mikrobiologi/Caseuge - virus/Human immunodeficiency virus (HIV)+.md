@@ -82,7 +82,7 @@
 - Hvordan diagnosticeres HIV typisk?:: Antistoffer (på en ELISA) men man kan også lave PCR eller serologi
 <!--SR:!2026-12-17,63,310-->
 - Hvornår kan en person være inficeret med HIV uden at man kan detektere antistoffer?:: I starten og i sen AIDS
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-26,67,310-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges vertikal smitte af HIV?:: Hvis moderen er behandlet er der en <2% risiko for at barnet bliver inficeret

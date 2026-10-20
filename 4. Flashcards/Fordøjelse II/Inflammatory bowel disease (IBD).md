@@ -24,7 +24,7 @@
 - Hvilken af de 2 typer af IBD har den største genetisk risikofaktor?:: [[Crohns sygdom]]
 <!--SR:!2026-11-05,16,290-->
 - Hvordan påvirker rygning IBD?:: Det kan mindske symptomer fra [[Colitis ulcerosa (UC)]] men det forværre [[Crohns sygdom]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvilken effekt har appendektomi på IBD?:: Det beskytter imod [[Colitis ulcerosa (UC)]] men har ingen effekt på [[Crohns sygdom]]
 <!--SR:!2026-11-03,15,290-->
 - Hvilken effekt har høj hygiejne i barndommen på risikoen for udvikling af IBD?:: Påvirkningen på [[Colitis ulcerosa (UC)]] kendes ikke men det øger risikoen for [[Crohns sygdom]]
@@ -88,6 +88,7 @@
 - Væsketal
 <!--SR:!2026-10-20,1,190-->
 - Hvornår er det muligt at UC er aktivt i dele af tarmen uden dele af rectum?:: Hvis der er givet antiinflammatorisk behandling specifikt i rectum
+<!--SR:!2026-10-24,4,270-->
 
 ### Behandling
 - Hvilke lægemidler bruges ofte mod IBD?:: Biologiske lægemidler (immunsuprimerende)

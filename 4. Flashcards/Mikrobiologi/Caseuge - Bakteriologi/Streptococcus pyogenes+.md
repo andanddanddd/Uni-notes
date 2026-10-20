@@ -41,7 +41,7 @@
 - Hvad gør streptokinase?:: Nedbryder plasminogen til plasmin (nedbryder koaguleres blod)
 <!--SR:!2026-11-18,41,250-->
 - Hvad gør SpeB-cystein protease?:: Aktivere enzymer til nedbrydning af ECM
-<!--SR:!2026-10-16,25,270-->
+<!--SR:!2027-01-22,94,290-->
 
 ## Symptomer/komplikationer
 - Hvad er de systemiske komplikationer af pharyngitis forårsaget af S. pyogenes?

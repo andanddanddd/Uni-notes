@@ -6,7 +6,7 @@
 - Hvilken form har kapslen på coronavirus?:: Rund
 <!--SR:!2026-10-17,12,270-->
 - Har coronavirus en lipidmembran?:: Ja
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-20,61,310-->
 - Hvilken type arvematriale bruger coronavirus?:: RNA+
 <!--SR:!2026-10-18,10,270-->
 - Hvilken struktur har coronavirus´ arvematriale

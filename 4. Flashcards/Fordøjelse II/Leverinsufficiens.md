@@ -5,4 +5,4 @@
 - Hvad er den hyppigste årsag til akut leverinsuficiens?:: [[Paracetamol forgiftning]]
 <!--SR:!2026-10-27,7,250-->
 - Hvad er de hyppigste årsager til kronisk leverinsuffieciens?:: [[Viral hepatitis]] ([[Hepatitis B]] og [[Hepatitis C]])
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,15,290-->

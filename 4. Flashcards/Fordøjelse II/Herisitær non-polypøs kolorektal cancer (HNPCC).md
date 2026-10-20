@@ -5,6 +5,7 @@
 - Hvor mange med HNPCC udvikler kolorektal cancer?:: 50-70% (afhængig af køn)
 <!--SR:!2026-10-24,4,270-->
 - Hvilken effekt har HNPCC på [[Kolorektal adenom]]?:: De udvikles hurtigere til kolorektal carcinom
+<!--SR:!2026-10-24,4,270-->
 - Hvilke type cancer har mennesker med HNPCC øget risiko for?
 ?
 - [[Kolorektal karcinom]]
@@ -12,3 +13,4 @@
 - Cancer i uterus
 
 - Hvordan behandles/screenes mennesker med HNPCC?:: Colonskopi hver 2. år
+<!--SR:!2026-10-24,4,270-->

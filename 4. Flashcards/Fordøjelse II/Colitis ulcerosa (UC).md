@@ -31,7 +31,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 ### Diagnose
 - Hvordan ses UC med endoskopi/colonskopi?:: Grnuleret, skrøbelig blødende slimhinde med pseudopolypper
 - Hvad er pseudopolypper overordnet?:: Øer af inflammation
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,14,290-->
 - Hvordan ses UC på en biopsi?
 ?
 - Kryptabcesser

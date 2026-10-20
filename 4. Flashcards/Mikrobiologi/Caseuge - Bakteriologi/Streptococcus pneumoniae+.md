@@ -24,7 +24,7 @@ Tendens
 - Hvilken smittevej har S. pneumoniae overordnet?:: Dråbesmitte der starter med at kolonisere nasopharynx
 <!--SR:!2026-10-23,16,290-->
 - Hvilken risikofakter øger risikoen for at få pneumoni men S. pneimoniae?:: Alkohol
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-12-03,44,290-->
 
 ## Symptomer og komplikationer
 - Hvilke sygdomme giver streptococcus pneumoniae?

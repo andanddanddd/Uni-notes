@@ -3,7 +3,7 @@
 
 ## Etiologi
 - Hvilken leversygdom fører oftest til portal hypertension?:: [[Cirrose]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
 
 ## Klinisk præsentation
 - Hvad kan findes på den objektive undersøgelse af en pt  med portal hypertension?

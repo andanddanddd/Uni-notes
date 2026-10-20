@@ -15,10 +15,10 @@
 - Hvordan kommer RS-virus ind i cellen? (mekanisme)
 - Replikation
 - Hvordan gør RS-virus os syge?:: Det er cytotoksisk og det ødelægger cillier
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-04,45,290-->
 ## Smitte og epidemiologi
 - Hvem bliver oftest smittet med RS-virus?:: Børn (det er den hyppigste årsag til infektion i de nedre luftveje hos børn)
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-14,55,310-->
 - Hvor "lever" RS-virus normalt?:: Kun mennesker
 <!--SR:!2026-12-22,63,310-->
 - Hvordan smitter RS-virus

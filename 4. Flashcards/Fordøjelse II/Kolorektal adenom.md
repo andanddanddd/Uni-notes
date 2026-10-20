@@ -35,5 +35,6 @@ mangler
 - Hvor stor skal en kolorektal adenom være før den giver symptomer?:: over 10 mm
 <!--SR:!2026-10-24,4,270-->
 - Hvad kendetegner afføring af en person med kolorektal adenom?:: Kan være slimet eller blodig hvis polyppen er stor
+<!--SR:!2026-10-24,4,270-->
 ### Behandling
 - Hvordan behandles kolorektal adenom typisk?:: Endoskopi

@@ -2,7 +2,7 @@
 
 ## Absorbsion
 - Hvor hurtigt optages alkohol?:: Hurtigt, det kan måles i blodet 5 min efter indtagelse
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-03,14,290-->
 ## Distribution
 
 ## Metabolisme
@@ -19,7 +19,7 @@
 	- Hvad sker med acetat?:: Det går fra levere til blodet til vævene hvor det forbrændes til energi end lagres som fedt
 <!--SR:!2026-11-05,16,290-->
 - Hvilken "enzymsystem" nedbryder nestmest alkohol?:: MEOS (mitrokondrielle ethanol-oxiderende system)
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-11-01,12,270-->
 	- Hvilket enzym bruger MEOS?:: CYP-450
 <!--SR:!2026-10-28,8,250-->
 	- Hvad er slutproduktet af MEOS?:: Acetat
@@ -33,4 +33,4 @@
 - Hvor meget alkohol udskilles uomdannet?:: 10%
 <!--SR:!2026-10-17,4,270-->
 - Hvordan udskilles uomdannet alkohol?:: Urin, afføring, sved og udåndingsluft
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,15,290-->

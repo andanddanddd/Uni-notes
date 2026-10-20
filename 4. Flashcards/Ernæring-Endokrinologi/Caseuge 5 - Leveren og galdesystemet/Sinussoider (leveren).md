@@ -3,4 +3,4 @@
 - Hvad er forskellen på sinusoider og kapilærer?:: Sinussoider er mere regelmæssige
 <!--SR:!2026-10-20,15,290-->
 - Hvad viler sinusoider på?:: Mikrovili på [[Hepatocytter]] i stdet for basalalamina
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-21,62,310-->

@@ -42,7 +42,7 @@
 - Hvorfor kan kronsik leversygdom give mange blå mærker?:: Manglende syntese af koagulationsfaktorer
 <!--SR:!2026-12-14,56,310-->
 - Hvorfor overordnet sker fibrose ved kronisk leversygdom?:: Gentagende episoder af inflammatorisk ødelæggelse og regenerering
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-13,54,310-->
 - Hvor "starter" fibrose?:: [[Disses rum]]
 <!--SR:!2026-11-07,25,270-->
 ## Komplikationer
