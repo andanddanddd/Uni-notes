@@ -10,7 +10,7 @@ Der er mere fokus på diagnostik end på tidligere studieordning
 [[Forelæsning - Leverens rolle i omsætning og udskillelse af lægemidler]]
 [[Forelæsning - Farmakologi af lægemidler med virkning på tarmen (antiemetika)]]
 [[Forelæsning - Billeddiagnostik af fordøjelsesystemet]]
-[[Forelæsning - Sygdomsrelateret underernæring (malabsorbsion)]]
+[[Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition)]]
 [[Forelæsning - Sygdomsrelateret underernæring (malnutrition)]]
 [[Forelæsning - Patofysiologi af tarmkræft]]
 [[Forelæsning - Viscerale smerter]]
