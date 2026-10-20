@@ -11,6 +11,7 @@
 ### Interaktioner
 - Hvilket medikament må ikke gives sammen med antacida?:: [[Sukralfat]]
 - Hvordan er virkningsprofilen af antacida?:: Indtræder hurtigt og forsvinder hurtigt
+<!--SR:!2026-10-24,4,270-->
 ### Klinisk anvendelse
 -  Hvor ofte bruges antacida til ulcusbehandling?:: Sjældent, aldrig mod [[Helicobacter pylori]]
 - Hvad bruges antacida til?:: Reflukssygdomme

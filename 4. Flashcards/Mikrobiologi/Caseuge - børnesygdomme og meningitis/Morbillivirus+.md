@@ -67,7 +67,7 @@
 <!--SR:!2026-10-20,15,290-->
 #### Vaccine
 - Hvornår gives morbilli-virus-vaccinationen?:: 15 mdr og 4 år
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-17,58,310-->
 - Hvilkne type vacicine er morbilli-virus-vaccinen?:: [[Levende svækkede vacciner]]
 <!--SR:!2026-10-17,12,270-->
 - Hvorfor får vi først morbililvirus-vaccinen når vi er 15 mdr i DK i stedet for ved 9 mdr i andre dele af verdenen?:: Der er ikke store problemer med mæslinger i DK så det er ikke et problem at vente, ved at vente er der færre der har antistoffer fra deres mor og dermed er der flere der laver et godt respons

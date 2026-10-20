@@ -11,5 +11,6 @@
 - Løs afføring/diarre (kan være blodig)
 - Feber
 - Mavesmerter
+<!--SR:!2026-10-24,4,270-->
 
 - Hvilken komplikation kan PMC lede til?:: [[Toksisk megacolon]]

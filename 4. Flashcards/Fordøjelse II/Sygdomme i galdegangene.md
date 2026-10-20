@@ -11,7 +11,7 @@
 ?
 - [[Adenocarcinoma i galdeblæren]]
 - [[Cholangiocarcinoma]]
-<!--SR:!2026-10-16,3,170-->
+<!--SR:!2026-10-27,7,190-->
 
 - Hvad kaldes galdeophobning?:: [[Kolestase]]
 <!--SR:!2026-11-02,14,290-->

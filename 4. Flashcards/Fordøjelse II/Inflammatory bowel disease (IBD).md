@@ -12,7 +12,7 @@
 - Hvilken aldersgruppe rammes oftest af IBD?:: Primært mennesker i 20-års alderen men det spiker igen ved 50-års-alderen
 <!--SR:!2026-10-18,4,270-->
 - Hvilken tendens har incidens og prævalens af IBD?:: Begge stiger
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 	- Hvorfor stiger både incidens og prævalens?:: Vi har ikke en forklaring på insidensstigningen, men folk dør ikke at det derfor dølger prævalens med
 <!--SR:!2026-10-18,4,270-->
 - Hvor mange danskere har IBD?:: 60.000
@@ -30,7 +30,7 @@
 - Hvilken effekt har høj hygiejne i barndommen på risikoen for udvikling af IBD?:: Påvirkningen på [[Colitis ulcerosa (UC)]] kendes ikke men det øger risikoen for [[Crohns sygdom]]
 <!--SR:!2026-11-04,16,290-->
 - Hvorfor er rygning, dårlig kost og antibiotika risikofaktorer for IBD?:: det ødelægger tarmfloraen
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvilke risikofaktorer er der for udvikling af IBD?
 ?
 - Rygning (primært crohns)
@@ -53,7 +53,7 @@
 - Hvilke sygdomme kan IBD ligne?:: Bakterielle infektioner
 <!--SR:!2026-11-03,15,290-->
 - Hvornår ses blødig afføring ved IBD? (hvilken type):: Det ses næsten altid ved [[Colitis ulcerosa (UC)]] men kan også forekomme ved [[Crohns sygdom]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvornår ses ekstraintestinale manifestationer af IBD?:: Når sygdommen er i opblussning
 <!--SR:!2026-11-03,15,290-->
 - Hvilke ekstraintestiane manifestationer kan IBD give?
@@ -95,6 +95,7 @@
 - Hvad er målet overordnet med behandling af IBD?:: Dyb remission (dvs komme tilbage til en rask tarm)
 <!--SR:!2026-11-03,15,290-->
 - Ved hvilken type IBD er operation kurativ?:: [[Colitis ulcerosa (UC)]]
+<!--SR:!2026-10-24,4,270-->
 - 
 
 - [x] 2/3 IBD patienter er colitis mens 1/# er krohns

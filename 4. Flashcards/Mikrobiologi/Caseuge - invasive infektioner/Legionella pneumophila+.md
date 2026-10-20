@@ -71,7 +71,7 @@
 - (Diarre)
 - (Kvalme + opkast)
 - (Mavesmerter)
-<!--SR:!2026-10-17,9,250-->
+<!--SR:!2026-11-11,22,250-->
 
 - Hvad kendetegner opspyttet fra L. pneumophilia-infektion?:: Det er ikke grøn-gult som ved de fleste bakterieinfektioner
 <!--SR:!2026-10-22,16,290-->
@@ -109,7 +109,7 @@ Hvordan genkendes den?
 - Hvilke antibiotika er L. pneumophila resistente overfor?:: [[Azithromycin]]
 <!--SR:!2026-10-23,10,230-->
 - Hvordan forebygges L. pneumophila?:: Monitorering af vand
-<!--SR:!2026-10-18,11,270-->
+<!--SR:!2026-11-18,29,270-->
 - Hvordan behandles L. pneumophila?:: [[Makrolider]] eller [[Flourquinoloner]] (dog er den til tider resistent mod [[Azithromycin]])
 <!--SR:!2026-11-20,32,270-->
 - Hvilke krav er der til antibiotika mod L. pneumophilia?:: Det skal penetrere vores celler

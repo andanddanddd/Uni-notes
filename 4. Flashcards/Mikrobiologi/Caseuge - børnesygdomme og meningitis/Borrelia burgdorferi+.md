@@ -68,7 +68,7 @@
 - Hvad sker overodnet i stadie 2 af borrelia?:: B. burgdorferi spreder sig til store dele af kroppen inkl CNS, hjerte, led og det kan give nye udslet lidt rundt omrking
 <!--SR:!2026-10-20,15,290-->
 - Hvad kaldes stadie 2 af borrelia?:: Tidlig disseminationsstadiet
-<!--SR:!2026-10-18,10,270-->
+<!--SR:!2026-11-26,37,290-->
 - Hvornår sker stadie 2 af borrelia?:: Uger til måneder efter flåtbidet
 <!--SR:!2026-10-24,16,290-->
 - Hvilke infektioner kan B. burdorferi give i stadie 2 af borrelia?

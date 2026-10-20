@@ -5,6 +5,7 @@
 - Hvad består sukralfat af?:: Basisk aluminiumsalt
 - Hvilken ladning har sukralfat?:: Negativt
 - Hvad gør sukralfat overordnet?:: Danner en barrier (skum) mellem syre og mucosa, ved at binde til de positivt ladede molekyler i ulcusbunden
+<!--SR:!2026-10-24,4,270-->
 ### Farmakokinetik
 
 ### Bivirninger

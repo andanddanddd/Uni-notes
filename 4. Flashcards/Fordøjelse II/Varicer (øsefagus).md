@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er en varice?:: Abnormt udvidet og snoet vene
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-11-01,12,270-->
 - Definer øsofagusvarice?:: Dilaterede vener i distale øsefagus
 <!--SR:!2026-10-25,12,270-->
 - Hvor i øsofagus sker varicer?:: Distale ende

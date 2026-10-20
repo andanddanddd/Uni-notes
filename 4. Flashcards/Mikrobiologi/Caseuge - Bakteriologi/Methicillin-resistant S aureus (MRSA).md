@@ -1,6 +1,6 @@
 #flashcards/5/Mikrobiologi 
 
 - Hvilket protein er karakteristisk for MRSA?:: penicillin-binding protein 2a (PBP2a)
-<!--SR:!2026-10-16,25,270-->
+<!--SR:!2026-12-27,68,270-->
 - Hvordan behandles MRSA typisk?:: [[Vancomyocin]]
 <!--SR:!2026-11-30,63,310-->

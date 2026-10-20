@@ -32,7 +32,9 @@
 - Lav vitamin D,C og E
 
 - Hvorfor kan fibre mindre risikoen for kolorecktal karcinom? (og adenom):: Den binder carcinogener og mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
+<!--SR:!2026-10-24,4,270-->
 - Hvorfor kan motion nedsætte risikoen for kolorecktal karcinom? (og adenom):: Det mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
+<!--SR:!2026-10-24,4,270-->
 - Hvorfor kan kalcium mindske risikoen for kolorecktal karcinom? (og adenom):: Det nedsætter proliferationshastigheden af mucosa
 ### Morfologi
 - Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
@@ -40,6 +42,7 @@
 - Hvad kendetegner symptombilledet ved kolorektal carcinom i ceacum?:: Almensymptomer (træthed, feber, vægttab og anæmi)
 - Hvad kendetegner symptombilledet ved kolorektal carcinom colon og rectum?:: Lokale symptomer inkl blodig afføring, mavesmerter, ændret afføringsmønster og [[Tenesmi]] 
 - Hvorfor er der forskel i symptombilledet ved kolorektal carcinom i ceacum og resten af tarmen?:: I ceacum er der mere plads og fæces er løsere
+<!--SR:!2026-10-24,4,270-->
 ### Diagnostik og screening
 - Hvilke ikke-billeddiagnostike diagnostike bruges til diagnostik af rektal carcinom?:: Rektaleksploration
 - Hvilke billeddiagnostika bruges til diagnostik af kolorektal carconim?:: Som udgangspunkt kolonskopi, hvis det ikke er muligt kan [[Computed tomography (CT)]] eller [[MRI]] laves

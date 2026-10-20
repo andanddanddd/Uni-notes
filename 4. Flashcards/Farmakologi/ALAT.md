@@ -5,7 +5,7 @@
 - Hvilket stof testes for i en ALAT test?:: ALanin
 <!--SR:!2026-10-18,4,270-->
 - Hvad viser en ALAT-test?:: Integriteten af leverceller
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvornår testes for ALAT
 ?
 - Mistanke om leversygdom

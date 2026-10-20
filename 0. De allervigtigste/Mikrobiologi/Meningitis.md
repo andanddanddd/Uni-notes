@@ -22,7 +22,7 @@
 <!--SR:!2026-11-15,27,230-->
 
 - Hvilken virus giver oftest meningitis?:: [[Enterovirus]]
-<!--SR:!2026-10-16,11,250-->
+<!--SR:!2026-11-28,39,270-->
 
 - Hvad er rebound immunitet?:: Når immunaktivitet vender tilbage efter det har været nedsat, eks efter corona eller efter antiinflammatorik behandling
 <!--SR:!2026-12-24,66,310-->

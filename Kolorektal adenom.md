@@ -3,6 +3,7 @@
 
 ### Defination
 - Hvad er kolorektal adenom overordnet?:: Polyp med dysplasi (dvs forstadie til cancer men ikke cancer endnu)
+<!--SR:!2026-10-24,4,270-->
 - Hvilken celletype udvikles kolorektal adenom fra?:: Mucosa i colon
 - Hvad kaldes kolorektal adenom også og hvorfor er det indre rigtigt?:: Polypper, men polypper kan også være non-neoplastiske (derfor er kolorektal adenom mere rigtigt)
 ### Forekomst
@@ -23,10 +24,12 @@ mangler
 - Hvornår er overfladen på kolorektal adenom glat?:: Ved et tubulært adenom
 - Hvornår er overfladen på kolorektal adenom ureggelmæssig (ikke glat)?:: Ved villøst adenom (eller tubulovilløst adenom)
 - Hvilken struktur har bredbaset kolorektale adenomer ofte?:: Villøst
+<!--SR:!2026-10-24,4,270-->
 
 - Hvordan ses forskel på kolorektal adenom og hyperplastisk polyp?:: Ved kolorektal adenom ses dysplasi
 ### Klinisk præsentation
 - Hvor stor skal en kolorektal adenom være før den giver symptomer?:: over 10 mm
+<!--SR:!2026-10-24,4,270-->
 - Hvad kendetegner afføring af en person med kolorektal adenom?:: Kan være slimet eller blodig hvis polyppen er stor
 ### Behandling
 - Hvordan behandles kolorektal adenom typisk?:: Endoskopi

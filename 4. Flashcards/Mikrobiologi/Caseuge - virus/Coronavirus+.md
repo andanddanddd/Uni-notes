@@ -32,7 +32,7 @@
 <!--SR:!2026-10-24,16,290-->
 ## Smitte og epidemiologi
 - Hvornår ses flest tilfælde af coronavirus?:: Vinter og tidlig forår
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-06,47,290-->
 - Hvad kendetegner smittetilfælde af coronavira?:: De har flere gange givet store epidemier/pandemier når en ny zoonose sker
 <!--SR:!2026-10-22,16,290-->
 - Hvor "lever" $\alpha$ og $\beta$ coronavirus normalt?:: Pattedyr (inkl mennesker)

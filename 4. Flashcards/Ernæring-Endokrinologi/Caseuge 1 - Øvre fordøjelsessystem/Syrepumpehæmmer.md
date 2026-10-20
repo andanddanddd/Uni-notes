@@ -11,6 +11,7 @@
 
 ### Bivirninger
 - Hvad er rebound?:: En forværring af den oprindelige sygdom efter seponering af medicin, i dette tilfælde øget syreproduktion
+<!--SR:!2026-10-24,4,270-->
 	- Hvordan undgås rebound?:: Ved at nedtrappe i stedet for at stoppe brat
 
 ### Interaktioner
