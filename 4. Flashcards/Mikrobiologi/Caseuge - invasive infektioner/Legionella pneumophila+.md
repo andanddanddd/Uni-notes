@@ -10,7 +10,7 @@
 - Hvor lever L. pneumophila normalt?:: Vand (og intracellulært i ferskvandsamøber og [[Protozoa]])
 <!--SR:!2026-10-25,16,290-->
 - Hvilket oxidativt miljø lever L. pneumophila bedst i?:: Aerob
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-05,46,290-->
 
 ## Patogenese
 - Hvilke celler inficere L. pneumophila?:: Makrofager i [[Alveoler]]ne

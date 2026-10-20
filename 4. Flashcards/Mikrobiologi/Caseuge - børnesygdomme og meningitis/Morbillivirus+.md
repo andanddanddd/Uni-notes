@@ -60,7 +60,7 @@
 - Hvornår i sygdomsforløbet kan man finde antistoffer mod morbillivirus i blodet?:: Når udslettet kommer
 <!--SR:!2026-10-21,16,290-->
 - Hvordan diagnosticeres morbilivirus?:: Serologi
-<!--SR:!2026-10-16,11,270-->
+<!--SR:!2026-11-18,29,270-->
 
 ## Forebyggelse og behandling
 - Hvordan forebygges morbillivirus?:: Vaccination

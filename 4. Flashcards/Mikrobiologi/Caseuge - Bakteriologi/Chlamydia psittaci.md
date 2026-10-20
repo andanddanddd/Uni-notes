@@ -11,4 +11,4 @@
 - Hvor kan pneumoni grundet C. psittaci sprede sig hen?:: Lever og milt
 <!--SR:!2026-11-21,37,290-->
 - Hvor slemt er pneumoni grundet C. psittaci?:: Dødeligt selv med behandling
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->

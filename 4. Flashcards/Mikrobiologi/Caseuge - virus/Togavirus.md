@@ -8,7 +8,7 @@
 - Har togavirus en lipidmembran?:: Ja
 <!--SR:!2026-10-18,12,270-->
 - Hvilken type arvematriale bruger togavirus?:: RNA+
-<!--SR:!2026-10-18,12,270-->
+<!--SR:!2026-12-06,47,290-->
 - Hvilken struktur har togavirus´ arvematriale
 ## Livscyklus
 - Hvilke celler inficere togavirus
@@ -18,7 +18,7 @@
 - Tendens i tilfælde
 - Hvor "lever" togavirus normalt
 - Hvordan smitter togavirus?:: Gennem myg
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver togavirus overordnet?:: Enten [[Encephalitis]] eller et udslet og [[Artritis]] (afhængigt af subtypen)

@@ -5,7 +5,7 @@
 - Hvilken polaritet har bilirubin?:: Upolært
 <!--SR:!2026-10-30,11,270-->
 - Hvorfor skal bilirubin være vandopløseligt?:: For det kan udskilles med galde
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,14,290-->
 
 ###### Biokemi
 - Hvornår testes for bilirubin?:: Ved mistanke om sygdom i galdegangene eller leveren

@@ -23,7 +23,7 @@ Hvad kaldes hepatitis B også og hvorfor?:: Serum hepatitis da den kan overføre
 - Sexuel kontakt
 - Vertikalt (mest almindeligt i DK)
 - Børn smittes til tider via små rifter og lignende
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-03,44,290-->
 
 ## Symptomer og komplikationer
 - Hvilken "type" leversygdom giver hepatitis B?:: Det kan både være [[Akut leversygdom]] og [[Kronisk leversygdom]]

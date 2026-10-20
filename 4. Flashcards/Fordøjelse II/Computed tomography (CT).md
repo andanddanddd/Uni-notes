@@ -8,4 +8,4 @@
 - Perforationer eller obstruktioner
 - Abcesser
 - Cancer
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,15,290-->

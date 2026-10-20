@@ -24,7 +24,7 @@
 - Ved pt der ikke tåler "bedøvelse"
 - Patienter med meget blødning
 - Pt med dicertikler
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-11-01,12,270-->
 
 
 Man måler ikke motilitet da man kun måler et sted

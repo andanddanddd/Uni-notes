@@ -96,7 +96,7 @@
 - Hvorfor er der mange af de meningitispatienter der får antibiotika præhospitalt der dør?:: Det er dem der er sygest
 <!--SR:!2026-12-09,57,310-->
 - Hvad er initialbehandling til meningitis inden man kender patogenet?:: [[Ceftriaxon]] og [[Penicilin]]
-<!--SR:!2026-10-16,16,290-->
+<!--SR:!2026-12-26,67,310-->
 - Hvorfor gives der både ceftriacon og penicin som initialbehandling?:: [[Ceftriaxon]] virker overfor det meste men [[Listeria monocytogenes+]] er resistent derfor
 <!--SR:!2026-12-18,64,310-->
 - Hvorfor vælger man at behandle med $\beta$-lactamere selvom de ikke går meget igennem [[Blod-hjerne-barrieren]]? (der opnås 6-gange så høje concentrationer i serum end i CSF):: De har et højt [[Terapeutisk index]]

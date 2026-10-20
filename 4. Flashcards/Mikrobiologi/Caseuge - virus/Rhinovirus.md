@@ -33,7 +33,7 @@
 
 ## Symptomer og komplikationer
 - Hvilken "sygdom" giver rhinovirus oftest?:: [[Forkølelse]]
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Udover forkølelse hvilke infektioner kan rhinovirus give?:: Infektioner i nedre luftveje ([[Pneumoni]])
 <!--SR:!2026-10-17,12,270-->
 

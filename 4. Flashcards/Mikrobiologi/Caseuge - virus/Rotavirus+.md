@@ -10,7 +10,7 @@
 - Hvilken type arvematriale bruger rotavirus?:: dsRNA
 <!--SR:!2026-10-17,12,270-->
 - Hvilken struktur har rotavirus´ arvematriale?:: Segmentret (11 segmenter)
-<!--SR:!2026-10-18,5,210-->
+<!--SR:!2026-11-05,16,230-->
 ## Livscyklus
 - Hvilket glykoprotein bruger rotavirus til at komme ind i celler og hvordan aktiveres den?:: Hemagluttin (VP4), den aktiveres ved at proteolyse
 <!--SR:!2026-11-09,25,270-->

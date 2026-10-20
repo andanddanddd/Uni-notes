@@ -11,7 +11,7 @@
 - Hvad kaldes venen i midten af leverlobuli?:: [[Centralvenen]]
 <!--SR:!2026-12-16,58,310-->
 - Hvad hedder blokarene mellem centralvenen og glissons triader?:: Sinusoider [[Sinussoider (leveren)]]
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 
 ![[Disses rum]]
 

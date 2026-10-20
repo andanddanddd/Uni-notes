@@ -26,13 +26,13 @@
 - Hvorfor bliver urin mørkt under akut leversygdom?:: Ekstra [[Urobilin]] i urin eftrsom det ikke kan udskilles med fæces pga evt ebstruktion
 <!--SR:!2026-10-21,16,290-->
 - Hvorfor bliver afføring lys under akut leversygdom?:: Hvis galdevejen er blokeret kommer alle de pigmenterede galdesalte ikke ud i fæces
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 
 ## Diagnostik
 - Hvor i leveren sker nekrose under akut leversygdom?:: Ved [[Centralvenen]]
 <!--SR:!2026-10-20,15,290-->
 - Hvad kendetegner akut leversygdom histologisk?:: Nekrose (særligt omkring centralvenen)
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 - Hvad ses på en blodprøve af en pt med akut leverinflammation?:: Forhøjet [[Bilirubin]] og leverenzymer
 <!--SR:!2026-10-31,12,270-->
 - Hvilken blodprøve laves for at finde etiologien til akut leversygdom?:: Blandt andet antigentest for viral og autoimmun hepatitis

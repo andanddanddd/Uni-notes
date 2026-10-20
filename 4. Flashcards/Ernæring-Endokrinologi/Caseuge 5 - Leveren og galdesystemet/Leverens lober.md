@@ -1,7 +1,7 @@
 #flashcards/2/Ernæring-Endokrinologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad hedder indskæringen der deler leveren i 2 lapper?:: [[Incisura ligamenti teretis]]
-<!--SR:!2026-10-17,2,210-->
+<!--SR:!2026-10-26,6,230-->
 - Hvad hedder tilhæftningen til perotoneum?:: [[Lig. falciforme hepatis]]
 <!--SR:!2026-10-16,2,230-->
 - Hvad hedder de 2 lober?

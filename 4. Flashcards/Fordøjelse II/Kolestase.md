@@ -24,7 +24,7 @@
 
 ### Patofysiologi
 - Hvad sker med hepatocytter ved kolestase?:: Hepatocytteren omkring en galdegang vil ophobe galde og dermed dilatere, derudover kan de undergå apoptose
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-03,14,290-->
 - I hvilke celler ender galden under kolestase?:: Både hepatocytter, [[Kupfer celler]] og i opsvulmede galdeveje
 <!--SR:!2026-11-02,14,290-->
 ### Diagnose

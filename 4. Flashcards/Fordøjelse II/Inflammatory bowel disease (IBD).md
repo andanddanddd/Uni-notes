@@ -14,7 +14,7 @@
 - Hvilken tendens har incidens og prævalens af IBD?:: Begge stiger
 <!--SR:!2026-11-05,16,290-->
 	- Hvorfor stiger både incidens og prævalens?:: Vi har ikke en forklaring på insidensstigningen, men folk dør ikke at det derfor dølger prævalens med
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-04,15,290-->
 - Hvor mange danskere har IBD?:: 60.000
 <!--SR:!2026-10-18,4,270-->
 
@@ -22,7 +22,7 @@
 - Hvordan kan genetik påvirke IBD?:: Det er en multigensygdom, dvs man kan være disponeret men selv hvis begge forældre har sygdommen er man ikke sikker på at få det
 <!--SR:!2026-10-18,4,270-->
 - Hvilken af de 2 typer af IBD har den største genetisk risikofaktor?:: [[Crohns sygdom]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-05,16,290-->
 - Hvordan påvirker rygning IBD?:: Det kan mindske symptomer fra [[Colitis ulcerosa (UC)]] men det forværre [[Crohns sygdom]]
 <!--SR:!2026-10-18,4,270-->
 - Hvilken effekt har appendektomi på IBD?:: Det beskytter imod [[Colitis ulcerosa (UC)]] men har ingen effekt på [[Crohns sygdom]]
@@ -44,7 +44,7 @@
 - Miljø og atrmflora
 - Tynde tarmbarierre
 - Immunforsvaret (for voldsomt angreb)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-03,14,290-->
 
 ![[Pasted image 20261013113059.png]]
 ### Klinisk præsentation

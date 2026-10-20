@@ -16,7 +16,7 @@
 - Hvilke celler inficere norovirus
 - Hvordan kommer vnoroviruslen? (mekanisme)
 - Hvor sker replikation og transskription af norovirus?:: Cytoplasma
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-22,63,310-->
 ## Smitte og epidemiologi
 - Hvornår på året ses flest norovirus-tilfælde?:: Vinter
 <!--SR:!2026-10-19,14,290-->

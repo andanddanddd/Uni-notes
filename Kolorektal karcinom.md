@@ -10,6 +10,7 @@
 <!--SR:!2026-10-24,4,270-->
 ### Forekomst
 - Hvor hyppig er kolorektal karcinom?:: 1/20 danskere rammes (20% af alle maligne sygdomme er kolorektal carcinom og det udgør halvdelen af maligne sygdomme i GI)
+<!--SR:!2026-10-24,4,270-->
 - Hvilket køn rammes oftest af kolorektal karcinom?:: Mænd
 - Hvad er forskellen på colon- og rectum cancer i incidens mellem mænd og kvinder?:: Coloncancer ses hyppigst hos kvinder mens rectumcancer hyppigst ses hos mænd
 ### Etiologi og patogenese
@@ -49,6 +50,7 @@
 ### Diagnostik og screening
 - Hvilke ikke-billeddiagnostike diagnostike bruges til diagnostik af rektal carcinom?:: Rektaleksploration
 - Hvilke billeddiagnostika bruges til diagnostik af kolorektal carconim?:: Som udgangspunkt kolonskopi, hvis det ikke er muligt kan [[Computed tomography (CT)]] eller [[MRI]] laves
+<!--SR:!2026-10-24,4,270-->
 - Hvordan udredes patienter med cancer i rectum?:: [[MRI]]
 - Hvordan screenes for colorektal cancar?:: [[Fecal occult blodtest (FOBT)]]
 
@@ -59,5 +61,6 @@
 - Hvor dybt er kolorektal carcinom ved T1?:: Submucosa
 - Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis
 - Hvor dybt er kolorektal carcinom ved T3?:: Gennem tunica muskularis
+<!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T4?:: Gennem peritoneum
 - Hvor dybt er kolorektal carcinom ved T3N1?:: Spredt sig til lymfeknuder

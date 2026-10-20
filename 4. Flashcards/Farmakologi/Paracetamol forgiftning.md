@@ -14,7 +14,7 @@
 - Ethanol
 - Antiepileptika
 - Dårlig ernæringstilstand
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-04,15,290-->
 
 - Hvorfor giver dårlig ernæringstilstand øget risiko for paracetamolforgiftning?:: Der vil være mindre glutation til at fjerne NAPQI
 <!--SR:!2026-11-05,16,290-->

@@ -29,7 +29,7 @@
 - Hoste
 - Hvæsen
 - Dyspnø
-<!--SR:!2026-10-18,11,270-->
+<!--SR:!2026-11-18,29,270-->
 
 - Hvilken infektion giver RS-virus?:: [[Bronkopneumoni]]
 <!--SR:!2026-10-17,12,270-->

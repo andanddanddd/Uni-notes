@@ -5,7 +5,7 @@
 
 ## Subtyper
 - Hvilken type øvre luftvejsinfektion er værst (dødeligst)?:: [[Epiglottitis]]
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-19,60,310-->
 ## Patogenese
 - Hvilken specifik patogen giver oftest øvre luftvejsinfektioner?:: [[Streptococcus pyogenes+]]
 <!--SR:!2026-11-08,26,270-->

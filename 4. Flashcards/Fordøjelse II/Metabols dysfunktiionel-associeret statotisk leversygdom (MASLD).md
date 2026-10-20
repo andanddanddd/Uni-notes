@@ -26,4 +26,4 @@
 
 ## Behandling
 - Hvordan behandles MASLD overordnet?:: Livsstilsændringer (og behandling af diabetes)
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,16,290-->
