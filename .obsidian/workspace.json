@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protein-energi-underernæring (PEM).md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein-energi-underernæring (PEM)"
+              "title": "Forelæsning - Viscerale smerter"
             }
           }
         ],
@@ -57,27 +57,15 @@
             }
           },
           {
-            "id": "9c2f6f14c8f62cbe",
+            "id": "d382ec8608f23583",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf"
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Malnut_malabsorption_stud (gammel)"
-            }
-          },
-          {
-            "id": "bc53813c41ffd0a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - New Drugs the large Bowel_E2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - New Drugs the large Bowel_E2026"
+              "title": "Slides - Viscerale smerter moodle"
             }
           }
         ],
@@ -143,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -265,19 +254,22 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
-    "Protein-energi-underernæring (PEM).md",
-    "Begreber indenfor underernæring.md",
-    "Kwashiorkor.md",
-    "Marasmus.md",
+    "4. Flashcards/Fordøjelse II/Sarcopenia.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
+    "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf",
+    "4. Flashcards/Fordøjelse II/Protein-energi-underernæring (PEM).md",
+    "4. Flashcards/Fordøjelse II/Begreber indenfor underernæring.md",
+    "4. Flashcards/Fordøjelse II/Kwashiorkor.md",
+    "4. Flashcards/Fordøjelse II/Marasmus.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
-    "Malabsorption.md",
+    "4. Flashcards/Fordøjelse II/Malabsorption.md",
     "4. Flashcards/Fordøjelse II/Steatorré.md",
-    "Sarcopenia.md",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Studiesal - Columna og hoved funktionel anatomi.md",
@@ -296,13 +288,10 @@
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne",
     "Billeder/Bevægeapparatet",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malnutrition).md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "4. Flashcards/Fordøjelse II/Divertikulose.md",
-    "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Divertikler.md",
     "4. Flashcards/Fordøjelse II/Falsk divertikel.md",
     "4. Flashcards/Fordøjelse II/Divertikulis.md",
-    "4. Flashcards/Fordøjelse II/Ægte divertikel.md",
     "Externe dokumenter/Fordøjelse II/Slides - Colon cancer-E26_MMJ.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261019094654.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet",
