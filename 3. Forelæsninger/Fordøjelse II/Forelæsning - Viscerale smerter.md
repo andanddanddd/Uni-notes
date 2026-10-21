@@ -11,3 +11,5 @@ Viceral smerte behandles primært centralt i nerven
 Dyreforsæg er gode til smerter da man kan klippe dem og ser hvad der sker
 
 Viceral smerte har en hooomungulus på samme måde 
+
+Peritoneum er somatisk innervers derfor kan blindtarmsbetændelse lokaliseres (når det når ud til peritoneum)
