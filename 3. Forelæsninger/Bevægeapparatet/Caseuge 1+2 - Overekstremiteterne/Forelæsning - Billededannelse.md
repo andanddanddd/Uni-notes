@@ -19,7 +19,13 @@ Røntgen er 2. demensionel, dette kan være et problem ved eks hånden hvor knog
 Helt hvid er ikke nødvendigvis knogle hvis man har valgt et andet vindue
 	Vindu = hvilke HU-enheder der skal være med
 
-Kontrast ved ultralys er luft (man ry)
+Kontrast ved ultralys er luft (man ryster væske og injicere det)
+
+Hvorfor er MR ikke ioniserende når man sender radiofrekvens? Har den en lang bølgelængde
+Ændring i Spin er afhængig af hvilket væv hydrogen er i?
+	Ændringen der kommer når man indsender radiofrekvensen
+Sigal måles når hydrogen vender tilbage (MRI)
+Metal kan blive opvarmet ved MRI
 
 
 ![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
