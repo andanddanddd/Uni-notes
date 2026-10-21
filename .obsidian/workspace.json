@@ -9,35 +9,20 @@
         "dimension": 39.51456310679612,
         "children": [
           {
-            "id": "657df77a56e3b943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Patofysiologi af tarmkræft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelæsning - Patofysiologi af tarmkræft"
-            }
-          },
-          {
             "id": "0c51b2cfc02fc880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Viscerale smerter"
+              "title": "Forelæsning - Billededannelse"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -131,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -260,8 +244,9 @@
   },
   "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
-    "4. Flashcards/Fordøjelse II/Sarcopenia.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
+    "4. Flashcards/Fordøjelse II/Sarcopenia.md",
     "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf",
     "4. Flashcards/Fordøjelse II/Protein-energi-underernæring (PEM).md",
     "4. Flashcards/Fordøjelse II/Begreber indenfor underernæring.md",
