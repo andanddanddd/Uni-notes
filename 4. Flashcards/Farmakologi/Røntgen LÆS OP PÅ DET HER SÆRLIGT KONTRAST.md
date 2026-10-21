@@ -1,4 +1,4 @@
-#flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
+#flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II #flashcards/5/Bevægeapparatet 
 
 - Når der tages røntgenbilleder af mennesker der har taget en overdosis hvad kigges så efter?:: Jern
 <!--SR:!2026-11-04,16,290-->
