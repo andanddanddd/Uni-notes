@@ -42,7 +42,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 60.48543689320388,
+        "dimension": 60.485436893203875,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -265,14 +265,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c51b2cfc02fc880",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Begreber indenfor underernæring.md",
     "Protein-energi-underernæring (PEM).md",
+    "Begreber indenfor underernæring.md",
     "Kwashiorkor.md",
     "Marasmus.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
