@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "c45bbf9beab31fdf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - billeddiagnostik_bevaegeapparat_DCA"
+            }
+          },
+          {
             "id": "d382ec8608f23583",
             "type": "leaf",
             "state": {
@@ -116,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -242,10 +255,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c51b2cfc02fc880",
+  "active": "c45bbf9beab31fdf",
   "lastOpenFiles": [
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
+    "Externe dokumenter/Bevægeapparatet/billeddiagnostik_bevaegeapparat_DCA.pdf",
+    "Externe dokumenter/billeddiagnostik_bevaegeapparat_DCA.pdf",
+    "billeddiagnostik_bevaegeapparat_DCA.pdf",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "4. Flashcards/Fordøjelse II/Sarcopenia.md",
     "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf",
     "4. Flashcards/Fordøjelse II/Protein-energi-underernæring (PEM).md",
@@ -270,17 +288,11 @@
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne",
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne",
-    "Billeder/Bevægeapparatet",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malnutrition).md",
     "4. Flashcards/Fordøjelse II/Divertikulose.md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 1 - Øvre fordøjelsessystem/Divertikler.md",
     "4. Flashcards/Fordøjelse II/Falsk divertikel.md",
-    "4. Flashcards/Fordøjelse II/Divertikulis.md",
-    "Externe dokumenter/Fordøjelse II/Slides - Colon cancer-E26_MMJ.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261019094654.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013105220.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013120557.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013120306.png",
