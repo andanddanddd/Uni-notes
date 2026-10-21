@@ -13,3 +13,6 @@
 
 Når man ser et CT-billede der ikke er et slice men forfra eller fra siden, så er det den samme data som fra slicesne men rekunstrueret anderledes
 CT er mere radioaktivt
+
+Hurtigt (2-min)
+Man kan gøre det med inyuberede patienter
