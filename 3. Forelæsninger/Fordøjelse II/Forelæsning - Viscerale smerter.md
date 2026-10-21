@@ -13,3 +13,5 @@ Dyreforsæg er gode til smerter da man kan klippe dem og ser hvad der sker
 Viceral smerte har en hooomungulus på samme måde 
 
 Peritoneum er somatisk innervers derfor kan blindtarmsbetændelse lokaliseres (når det når ud til peritoneum)
+Nogle gange kan vicerale smerter lokaliseres hvis de løber sammen med perifære nerver
+	Men det kan også være misvisende
