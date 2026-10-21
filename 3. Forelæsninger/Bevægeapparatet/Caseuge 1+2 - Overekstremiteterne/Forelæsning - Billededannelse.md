@@ -10,6 +10,20 @@ Man kan skrue op og ned for "intensiteten" af stråling
 Ved besmivelser kan reflekser forsvinde derfor prøver man ikke at redde/gribe sig selv (hvis man gør det tyder det derfor på at der ikke var en besvimelse)
 
 Intra/extraartikulær = om frakturen er ved ledet eller ej
+	Intraartikulær er mere kompliceret
+
+Nogle frakture er tegn på osteroperose (hvis de sker antager man det)
+
+Røntgen er 2. demensionel, dette kan være et problem ved eks hånden hvor knogler overlapper
 
 
 ![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
+
+![[Computed tomography (CT)]]
+
+![[MRI]]
+
+[[Ultralys]]
+
+
+

@@ -1,4 +1,4 @@
-#flashcards/5/Fordøjelsessystemet-II 
+#flashcards/5/Fordøjelsessystemet-II  #flashcards/5/Bevægeapparatet 
 
 T1 = 90 grader
 T2 = 180 grader
