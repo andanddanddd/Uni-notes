@@ -17,6 +17,9 @@ Nogle frakture er tegn på osteroperose (hvis de sker antager man det)
 Røntgen er 2. demensionel, dette kan være et problem ved eks hånden hvor knogler overlapper
 
 Helt hvid er ikke nødvendigvis knogle hvis man har valgt et andet vindue
+	Vindu = hvilke HU-enheder der skal være med
+
+Kontrast ved ultralys er luft (man ry)
 
 
 ![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
