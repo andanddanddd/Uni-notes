@@ -26,6 +26,11 @@ Hvorfor er MR ikke ioniserende når man sender radiofrekvens? Har den en lang b�
 	Ændringen der kommer når man indsender radiofrekvensen
 Sigal måles når hydrogen vender tilbage (MRI)
 Metal kan blive opvarmet ved MRI
+Relaktionsttid = tid det tager for hydrogen at komme tilbage til normalen efter at være påvirket af radiobølger
+T2 er god til væske (ødemer, eller betændelse)
+	Der er mere end T1 og T2 de er bare det mest benyttede
+		Man kan se det lidt som vinduer ved CT
+T1 er god til anatomi
 
 
 ![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
