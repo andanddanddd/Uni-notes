@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 39.51456310679612,
+        "dimension": 39.920045688178185,
         "children": [
           {
             "id": "0c51b2cfc02fc880",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Billededannelse"
+              "title": "Forelæsning - Overekstremitetens anatomi"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 60.485436893203875,
+        "dimension": 60.079954311821815,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -40,33 +40,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "c45bbf9beab31fdf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - billeddiagnostik_bevaegeapparat_DCA"
-            }
-          },
-          {
-            "id": "d382ec8608f23583",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - Viscerale smerter moodle"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -255,8 +229,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
+    "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
@@ -285,14 +261,12 @@
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Studiesal - underekstremiteterne bevægeapparat.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Studiesal - Overekstremitet bevægeapparat.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Studiesal - Overekstremiteterne funktionel anatomi.md",
     "4. Flashcards/Fordøjelse II/Patologi af Gi billeder.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Patologi af leveren.md",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malnutrition).md",
-    "4. Flashcards/Fordøjelse II/Divertikulose.md",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261019094654.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013105220.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013120557.png",
