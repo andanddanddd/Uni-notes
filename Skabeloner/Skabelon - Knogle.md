@@ -4,20 +4,17 @@
 #### Placering og orientering
 #### Form og størrelse
 
-### Knogletype
-- Hvilken knogletype er Kn
-- Parret vs uparret
-- Form og størrelse
-### Inddeling
-
 ### Relationer
 #### Led
 - Hvilke knogler danner Kn led med
 #### Muskler
 #### Kar- og nerveforsyning
-
-### Inspektion og palpation
+### Knogletype
+- Hvilken knogletype er Kn
+- Parret vs uparret
+- Form og størrelse
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
+### Inspektion og palpation
 ### Klinik

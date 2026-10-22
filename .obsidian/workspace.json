@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scapula.md",
+                "file": "Clavicula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scapula"
+              "title": "Clavicula"
             }
           }
         ]
@@ -231,12 +231,14 @@
   },
   "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
-    "Cavitas glenoidalis SKRIV MERE SENERE.md",
+    "Skabeloner/Skabelon - Knogle.md",
+    "Clavicula.md",
     "Scapula.md",
+    "Facies articularis clavicularis.md",
+    "Cavitas glenoidalis SKRIV MERE SENERE.md",
     "0. De allervigtigste/Latin.md",
     "Skulderbæltet.md",
     "Overekstremiteternes skelet.md",
-    "Skabeloner/Skabelon - Knogle.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
@@ -264,8 +266,6 @@
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Studiesal - Columna og hoved funktionel anatomi.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Studiesal - Columna bevægeapparat.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Studiesal - Underekstremiteterne funktionel anatomi.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Studiesal - underekstremiteterne bevægeapparat.md",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261019094654.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013105220.png",

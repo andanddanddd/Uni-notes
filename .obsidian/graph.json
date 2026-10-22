@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "flashcards/5/",
+  "search": "flashcards/5/b",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 0.848951647411211,
   "linkDistance": 30,
-  "scale": 0.14465196230230934,
+  "scale": 0.3598350062398604,
   "close": true
 }

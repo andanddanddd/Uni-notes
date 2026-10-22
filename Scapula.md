@@ -17,12 +17,19 @@
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis SKRIV MERE SENERE]]
 - Hvilken form har skulderbladets forside?:: Concav
+- Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
+	- Hvad hedder fremspringet på spina scapulae?:: Acromion
+		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
+- Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
 
 
 
 ### Relationer
 #### Led
-- Hvilke knogler danner Kn led med
+- Hvilke knogler danner scapula led med?
+?
+- [[Clavicula]]
+- [[Humerus]]
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
