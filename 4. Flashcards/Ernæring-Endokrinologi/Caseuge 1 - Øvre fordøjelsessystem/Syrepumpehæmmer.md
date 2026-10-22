@@ -4,6 +4,7 @@
 
 ### Farmakodynamik
 - Hvor skal syrepumpehæmmere hen før de er aktive?:: Lumen af mavesækken
+<!--SR:!2026-10-26,4,270-->
 - Hvilket enzym virker syrepumpe-hæmmere på?:: H+/K+-ATPasen
 <!--SR:!2026-10-24,4,270-->
 - Hvordan "aktiveres" syrepumpehæmmere?:: De aktiveres af syren i mavesækken
@@ -27,3 +28,4 @@
 - Ulcussygdomme
 - Refluxsygdomm
 - [[Zollinger-Ellisons syndrom]]
+<!--SR:!2026-10-26,4,270-->

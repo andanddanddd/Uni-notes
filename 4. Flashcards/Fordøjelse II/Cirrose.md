@@ -5,7 +5,7 @@
 
 ## Etiologi
 - Hvorfor sker mikronodulær cirrose typisk?:: Kronisk alkoholoverforbrug
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-28,67,310-->
 - Hvorfor sker amkronodulær cirrose typisk?:: Videreudvikling af mikronodulær cirrose eller grundet viral hepatitis
 <!--SR:!2026-10-30,11,270-->
 
@@ -23,16 +23,16 @@
 
 ## Patofysiologi
 - Hvor i leveren starter fibrose?:: Omkring [[Glissons triade]]
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-26,65,310-->
 - Hvad kendetegner leveren størrelse under cirrose og hvorfor?:: Den starter forstørret men skrumper
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvad er de 4 trin af cirrose?
 ?
 - Levercellenekrose (kronisk/gentagen nekrose)
 - Ito-celler laver kollagen for helling
 - Dannelse af brofibroser
 - Dannelse af regenrationsnoduli
-<!--SR:!2026-10-17,3,250-->
+<!--SR:!2026-11-01,10,270-->
 
 - Hvad er brofibroser?:: Fibrose mellem glissons triade og centralvenen
 <!--SR:!2026-11-02,14,290-->

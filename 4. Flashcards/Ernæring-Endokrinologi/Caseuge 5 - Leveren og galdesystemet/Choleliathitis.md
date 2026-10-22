@@ -48,17 +48,17 @@ cholecytitis vs choleliastitis?? coledocholithiasis - se slide 12
 <!--SR:!2026-11-19,31,270-->
 
 - Hvad er tommelfingerreglen for alder som risikofaktor for galdesten?:: Mennesker over 40 har øget risiko
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-25,64,310-->
 - Hvilket køn har størst risiko for galdesten?:: Kvinder
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-24,63,310-->
 - Hvorfor har kvinder en højere risiko for galdesten?:: Østrogenniveu
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-26,65,310-->
 - Hvorfor kan hurtigt vægttab give problemer?:: Der mangler lipider til at holde kolesterolen i opløsning
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-27,66,310-->
 
 ### Diagnose
 - Hvilken billeddiagnostiske metode bruges til at finde galdesten?:: UL
-<!--SR:!2026-10-19,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvilke blodprøver tages ved mistaneke om galdesten?:: [[Bilirubin]], basisk fosfatase og leverenzymer ([[ALAT]], [[ASAT]] og [[g-Glutamyltransferase (GGT)]])
 <!--SR:!2026-10-31,12,270-->
 

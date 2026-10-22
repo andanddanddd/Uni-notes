@@ -8,7 +8,7 @@
 ?
 - Manglende konjugation af [[Bilirubin]]
 - Manglende secernering af [[Bilirubin]] (obstruktion af galdevejene)
-<!--SR:!2026-10-17,12,270-->
+<!--SR:!2026-12-07,46,290-->
 
 - Hvilke sygdomme kan lede til icterus?
 ?
@@ -16,4 +16,4 @@
 - [[Autoimmun hepatitis]]
 - [[Alkoholrelateret leversygdom]]
 - Tumorer
-<!--SR:!2026-10-16,3,250-->
+<!--SR:!2026-11-01,10,270-->

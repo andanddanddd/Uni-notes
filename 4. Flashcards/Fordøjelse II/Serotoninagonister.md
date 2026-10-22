@@ -3,6 +3,7 @@
 
 ### Farmakodynamik
 - Hvad gør serotoninagonister overordned ved tarmen?:: Øger motilitet
+<!--SR:!2026-10-26,4,270-->
 
 ### Farmakokinetik
 
@@ -12,7 +13,7 @@
 
 ### Klinisk anvendelse
 - Hvilken serotoninagonist bruges til kronisk obstipation?:: Prucapolid
-<!--SR:!2026-10-21,1,230-->
+<!--SR:!2026-10-23,1,210-->
 
 #### Indikationer
 

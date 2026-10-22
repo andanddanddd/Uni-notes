@@ -34,9 +34,9 @@
 <!--SR:!2026-12-04,46,290-->
 
 - Hvor ofte udvikler en infektion med hepatitis A til en kronisk infektion?:: Aldrig
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-28,67,310-->
 - Hvad kendetegner leversygdommen der kommer af hepatitis A?:: [[Akut leversygdom]]
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-28,67,310-->
 - Hvilken komplikation kan hepatitis A have?:: Akut [[Leverinsufficiens]]
 <!--SR:!2026-10-30,11,270-->
 - Hvad kendetegner symptomer og komplikation på hepatitis i børn der fik det vertikalt?:: De får ikke symptomer men det bliver kronisk

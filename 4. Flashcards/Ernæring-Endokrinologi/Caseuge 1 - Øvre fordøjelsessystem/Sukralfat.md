@@ -3,6 +3,7 @@
 ### Farmakodynamik
 
 - Hvad består sukralfat af?:: Basisk aluminiumsalt
+<!--SR:!2026-10-26,4,270-->
 - Hvilken ladning har sukralfat?:: Negativt
 <!--SR:!2026-10-24,4,270-->
 - Hvad gør sukralfat overordnet?:: Danner en barrier (skum) mellem syre og mucosa, ved at binde til de positivt ladede molekyler i ulcusbunden
@@ -13,6 +14,7 @@
 
 ### Interaktioner
 - Hvad skal ikke gives sammen med sukralfat?:: Antisekretosriske midler ([[Syrepumpehæmmer]])
+<!--SR:!2026-10-26,4,270-->
 ### Klinisk anvendelse
 - Hvornår bruges sukralfat?
 ?

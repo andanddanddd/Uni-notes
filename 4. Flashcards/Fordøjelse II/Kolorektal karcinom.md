@@ -14,10 +14,12 @@
 - Hvor hyppig er kolorektal karcinom?:: 1/20 danskere rammes (20% af alle maligne sygdomme er kolorektal carcinom og det udgør halvdelen af maligne sygdomme i GI)
 <!--SR:!2026-10-24,4,270-->
 - Hvilket køn rammes oftest af kolorektal karcinom?:: Mænd
+<!--SR:!2026-10-26,4,270-->
 - Hvad er forskellen på colon- og rectum cancer i incidens mellem mænd og kvinder?:: Coloncancer ses hyppigst hos kvinder mens rectumcancer hyppigst ses hos mænd
 <!--SR:!2026-10-24,4,270-->
 ### Etiologi og patogenese
 - Hvor ofte ses "arv" (andre i familien med kolorektal karcinom) ved kolorektal karcinom?:: 20% af tilfælde
+<!--SR:!2026-10-26,4,270-->
 - Hvilke 2 arvelige tilstande giver øget risiko for kolorektal carcinom og hvilken ses hyppigst?
 ?
 - [[Herisitær non-polypøs kolorektal cancer (HNPCC)]]
@@ -45,7 +47,7 @@
 - Hvorfor kan motion nedsætte risikoen for kolorecktal karcinom? (og adenom):: Det mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
 <!--SR:!2026-10-24,4,270-->
 - Hvorfor kan kalcium mindske risikoen for kolorecktal karcinom? (og adenom):: Det nedsætter proliferationshastigheden af mucosa
-<!--SR:!2026-10-21,1,230-->
+<!--SR:!2026-10-25,3,250-->
 ### Morfologi
 - Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
 <!--SR:!2026-10-24,4,270-->
@@ -62,6 +64,7 @@
 - Hvilke billeddiagnostika bruges til diagnostik af kolorektal carconim?:: Som udgangspunkt kolonskopi, hvis det ikke er muligt kan [[Computed tomography (CT)]] eller [[MRI]] laves
 <!--SR:!2026-10-24,4,270-->
 - Hvordan udredes patienter med cancer i rectum?:: [[MRI]]
+<!--SR:!2026-10-26,4,270-->
 - Hvordan screenes for colorektal cancar?:: [[Fecal occult blodtest (FOBT)]]
 <!--SR:!2026-10-24,4,270-->
 
@@ -69,6 +72,7 @@
 
 #### T-kategoriinddeling
 - Hvad viser T-kategoriinddelingen overordnet?:: Hvor dybt kolorektal karcinom har indvaderet
+<!--SR:!2026-10-26,4,270-->
 - Hvor dybt er kolorektal carcinom ved T1?:: Submucosa
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis
@@ -78,3 +82,4 @@
 - Hvor dybt er kolorektal carcinom ved T4?:: Gennem peritoneum
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T3N1?:: Spredt sig til lymfeknuder
+<!--SR:!2026-10-26,4,270-->

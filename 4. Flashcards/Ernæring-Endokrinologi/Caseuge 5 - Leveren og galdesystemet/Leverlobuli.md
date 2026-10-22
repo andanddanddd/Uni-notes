@@ -3,9 +3,9 @@
 - Hvad er diameteren af en leverlobuli?:: 1 mm
 <!--SR:!2026-12-04,46,290-->
 - Hvor lang er en leverlobuli?:: 2 mm
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-18,57,310-->
 - Hvilken form har leverlobuli?:: Sekskantet
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-24,63,310-->
 - Hvad kaldes samlingen af kar i hjærnerne af leverlobuli?:: [[Glissons triade]]
 <!--SR:!2026-12-22,63,310-->
 - Hvad kaldes venen i midten af leverlobuli?:: [[Centralvenen]]

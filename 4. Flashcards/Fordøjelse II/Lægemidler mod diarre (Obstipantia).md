@@ -16,4 +16,5 @@
 <!--SR:!2026-11-03,15,290-->
 
 - Hvilke fordele har obstipantia selvom det lidt ses som symptombehandling?:: Det kan forbædre væske og elektrolytbalance
+<!--SR:!2026-10-26,4,270-->
 

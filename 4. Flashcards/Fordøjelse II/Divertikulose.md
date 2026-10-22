@@ -13,6 +13,7 @@
 - Hvad sker med fæces i divertikler?:: Det bliver hårdt og det erodere mucosa
 <!--SR:!2026-10-24,4,270-->
 - Hvad kaldes fæces i divertikler?:: Fækulitter
+<!--SR:!2026-10-23,1,230-->
 
 ### Patofysiologi
 ### Diagnose

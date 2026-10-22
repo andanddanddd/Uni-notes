@@ -7,4 +7,4 @@
 <!--SR:!2026-12-22,63,310-->
 
 - Hvor blandes blandes blodet fra de 2 kar der giver blod til leveren?:: [[Sinussoider (leveren)]]
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-25,64,310-->

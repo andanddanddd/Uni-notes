@@ -9,7 +9,7 @@
 3. [[Øsofagit]]
 4. [[Mallory-weiss-læsion]]
 5. Cancer
-<!--SR:!2026-10-22,9,250-->
+<!--SR:!2026-11-22,31,270-->
 
 - Hvad kaldes blodig opkast?:: [[Hæmatemese]]
 <!--SR:!2026-10-31,12,270-->

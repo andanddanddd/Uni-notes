@@ -9,7 +9,7 @@
 
 ###### Biokemi
 - Hvornår testes for bilirubin?:: Ved mistanke om sygdom i galdegangene eller leveren
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 - Hvilke biokemiske test laves for bilirubin?:: Urinstix eller blodprøve
 <!--SR:!2026-11-04,16,290-->
 - Hvad sker med bilirubinniveuerne ved kronisk leversygdom?:: Øgede niveuer af konjugeret bilirubin i serum og urin

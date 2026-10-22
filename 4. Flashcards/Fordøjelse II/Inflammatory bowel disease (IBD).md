@@ -6,21 +6,21 @@
 <!--SR:!2026-11-03,14,290-->
 ### Epidimologi
 - Hvor mange af IBD patienter her hhv UC og crohn?:: 2/3 Uc 1/3 crohns
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvilket køn rammes oftest af IBD?:: Kvinder en lille smule mere end mænd (53-47% ish)
 <!--SR:!2026-11-03,15,290-->
 - Hvilken aldersgruppe rammes oftest af IBD?:: Primært mennesker i 20-års alderen men det spiker igen ved 50-års-alderen
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvilken tendens har incidens og prævalens af IBD?:: Begge stiger
 <!--SR:!2026-11-05,16,290-->
 	- Hvorfor stiger både incidens og prævalens?:: Vi har ikke en forklaring på insidensstigningen, men folk dør ikke at det derfor dølger prævalens med
 <!--SR:!2026-11-04,15,290-->
 - Hvor mange danskere har IBD?:: 60.000
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 
 ### Etiologi
 - Hvordan kan genetik påvirke IBD?:: Det er en multigensygdom, dvs man kan være disponeret men selv hvis begge forældre har sygdommen er man ikke sikker på at få det
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 - Hvilken af de 2 typer af IBD har den største genetisk risikofaktor?:: [[Crohns sygdom]]
 <!--SR:!2026-11-05,16,290-->
 - Hvordan påvirker rygning IBD?:: Det kan mindske symptomer fra [[Colitis ulcerosa (UC)]] men det forværre [[Crohns sygdom]]
@@ -66,10 +66,10 @@
 <!--SR:!2026-10-26,7,250-->
 
 - Hvad kendetegner forløbet at IBD?:: Det variere meget, for nogle lægger det latent i lang tid og kommer med store opblusninger, for andre er det der lidt hele tiden![[Pasted image 20261013120557.png]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 ### Komplikationer
 - Hvilke komplikationer kan ubehandlet IBD give?:: Kræft
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 ### Patofysiologi
 - Hvorfor giver [[Crohns sygdom]] vægtab men [[Colitis ulcerosa (UC)]] ikke gør?:: UC påvirker kun tyktarmen, her er absorbsion allerede sket, (crohns påvirker ofte tyndtarmen hvor absorbsion sker)
 <!--SR:!2026-11-02,14,290-->
@@ -77,7 +77,7 @@
 - Hvad er særligt vigtigt at spørge ind til under anamnese ved IBD?:: Aførringsmønster særligt om der er afføringer om natten
 <!--SR:!2026-11-05,16,290-->
 - Hvilke fæcesprøver laves?:: Diarreudredning (patogener) og [[F-calprotectin]] ([[Diarre-udredning og statistik]])
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 - Hvilke blodprøver taget for at diagnosticere IBD?
 ?
 - Anæmipakken
@@ -86,13 +86,13 @@
 - [[Albumin]]
 - Levertal ([[Biokemiske test af leveren]])
 - Væsketal
-<!--SR:!2026-10-20,1,190-->
+<!--SR:!2026-10-24,2,190-->
 - Hvornår er det muligt at UC er aktivt i dele af tarmen uden dele af rectum?:: Hvis der er givet antiinflammatorisk behandling specifikt i rectum
 <!--SR:!2026-10-24,4,270-->
 
 ### Behandling
 - Hvilke lægemidler bruges ofte mod IBD?:: Biologiske lægemidler (immunsuprimerende)
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 - Hvad er målet overordnet med behandling af IBD?:: Dyb remission (dvs komme tilbage til en rask tarm)
 <!--SR:!2026-11-03,15,290-->
 - Ved hvilken type IBD er operation kurativ?:: [[Colitis ulcerosa (UC)]]

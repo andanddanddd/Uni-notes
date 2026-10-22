@@ -9,4 +9,4 @@
 ?
 - [[Primær biliær cirrose (PBC)]]
 - [[Primær skleroserende kolangitis]]
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-10-24,2,230-->

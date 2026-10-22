@@ -18,11 +18,11 @@ Mutere meget
 - Tendens i tilfælde
 - Hvor "lever" hepatitis C normalt
 - Hvordan smitter hepatitis C?:: Deling af blod eller sexuel kontakt (IV stofmisbrug er mest alminelig i DK)
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-28,67,310-->
 
 ## Symptomer og komplikationer
 - Hvor ofte giver hepatitis C [[Kronisk leversygdom]]?:: 80% af alle der får symptomer får kronisk leversygdom
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-28,67,310-->
 - Hvornår giver hepatitis C symptomer?:: Typisk først når det er kronisk
 <!--SR:!2026-11-04,15,290-->
 

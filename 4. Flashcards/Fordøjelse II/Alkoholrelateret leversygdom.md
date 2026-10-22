@@ -3,7 +3,7 @@
 
 ## Etiologi
 - Hvorfor sker alkoholrelateret leversygdom overordnet? (risikofaktorer):: Langvarigt overforbrug af alkohol
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-06,15,290-->
 
 ## Klinisk præsentation
 
@@ -31,7 +31,7 @@
 
 ## Behandling
 - Hvordan behandles alkoholrelateret leversygdom overordnet?:: Ophør af alkohol
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-05,14,290-->
 
 ![[Pasted image 20260930152305.png]]
 ![[Metabolisme af alkohol]]

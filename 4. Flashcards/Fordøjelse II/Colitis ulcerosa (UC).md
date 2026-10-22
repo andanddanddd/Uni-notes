@@ -21,13 +21,13 @@ Se [[Inflammatory bowel disease (IBD)]]
 - [[Toksisk megacolon]]
 - [[Dysplasi]]
 - Kolorektal cancer ([[Kolorektal karcinom]])
-<!--SR:!2026-10-17,2,230-->
+<!--SR:!2026-10-29,7,250-->
 
 ### Patofysiologi
 - Hvad kendetegner lokaliseringen af UC?:: Der er kontinuerlig inflammation startende fra rectum, det har en klar linje mellem rask og syg
 <!--SR:!2026-11-02,14,290-->
 - Hvilke lag af tarmen kan påvirkes af UC?:: Kun mucosa og submucosa
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 ### Diagnose
 - Hvordan ses UC med endoskopi/colonskopi?:: Grnuleret, skrøbelig blødende slimhinde med pseudopolypper
 <!--SR:!2026-10-24,4,270-->
@@ -42,7 +42,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 <!--SR:!2026-10-31,12,270-->
 
 - Hvilken ikke-biokemisk test er vigtigt for diagnostik af UC?:: [[Colonskopi]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 ![[Pasted image 20261013115434.png]]
 ### Behandling
 - Hvilken kirugisk indgreb laves ved slem UC?:: Kolektomi (fjerner HELE colon)

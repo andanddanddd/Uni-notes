@@ -38,7 +38,7 @@
 <!--SR:!2026-10-17,12,270-->
 ## Patofysiologi
 - Hvorfor kan kronisk leversygdom give ødemer?:: Nedsat osmolaritet grundet færre proteiner
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-23,62,310-->
 - Hvorfor kan kronsik leversygdom give mange blå mærker?:: Manglende syntese af koagulationsfaktorer
 <!--SR:!2026-12-14,56,310-->
 - Hvorfor overordnet sker fibrose ved kronisk leversygdom?:: Gentagende episoder af inflammatorisk ødelæggelse og regenerering
@@ -54,9 +54,9 @@
 - [[Leverinsufficiens]]
 ## Diagnostik
 - Hvad kendetegner kronisk leversygdom histologisk?:: Fibrose der kan lede til [[Cirrose]]
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-27,66,310-->
 - Hvorfor laves typisk en biopsi ved kronisk leversygdom selvom det ikke bruges meget til af finde etiologien?:: Det bruges til sværhedsgrad og valg af behandling
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvorfor er det vigtigt at kunne kende forskel på [[Alkoholrelateret leversygdom]] og [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]?:: De skal behandles forskelligt
 <!--SR:!2026-11-02,14,290-->
 

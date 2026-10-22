@@ -3,7 +3,7 @@
 - Hvad hedder indskæringen der deler leveren i 2 lapper?:: [[Incisura ligamenti teretis]]
 <!--SR:!2026-10-26,6,230-->
 - Hvad hedder tilhæftningen til perotoneum?:: [[Lig. falciforme hepatis]]
-<!--SR:!2026-10-16,2,230-->
+<!--SR:!2026-10-27,5,230-->
 - Hvad hedder de 2 lober?
 ?
 - Lobus hepatis dxt

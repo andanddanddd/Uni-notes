@@ -1,14 +1,14 @@
 #flashcards/4/Farmakologi #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad hedder det "farlige" biprodukt af elimination ad [[Paracetamol]]?:: [[NAPQI]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-07,16,290-->
 
 - Hvor meget paracetamol oxideres under normale forhold?:: Få procent
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-07,16,290-->
 - Hvordan biotransformeres paracetamol primært?:: Sulfatering og [[Glukuronidering]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-01,10,270-->
 - Hvor meget paracetamol skal typisk bruges til en dødelig forgiftning?:: >25g (10-15 ifølge forelæsning)
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-07,16,290-->
 - Hvad øger risikioen for paracetamolforgiftning?
 ?
 - Ethanol
@@ -23,7 +23,7 @@
 - Hvad kan måles i blodet ved paracetamolforgiftning? (udover paracetamol):: [[ALAT]] (leverenzymer)
 <!--SR:!2026-11-04,15,290-->
 - Hvilken reationsoraden følger sulfatering af paracetamol?:: 0. orden (det bliver hurtigt mættet) [[Metabolismen af lægemidler]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvilken reaktionsorden følger glukuronidering af paracetamol?:: 0. orden (det bliver hurtigt mættet) [[Metabolismen af lægemidler]]
 <!--SR:!2026-11-03,15,290-->
 - Hvilken reaktionsorden følger oxidation af paracetamol?:: 1. orden [[Metabolismen af lægemidler]]

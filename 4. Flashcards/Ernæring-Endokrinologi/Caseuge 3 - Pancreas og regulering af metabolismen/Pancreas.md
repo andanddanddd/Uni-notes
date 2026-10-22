@@ -15,7 +15,7 @@
 ?
 - [[Ductus pancreaticus]]
 - [[Ductus pancreaticus accessorius]]
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-27,66,310-->
 
 ![[Den exokrine pancreas]]
 

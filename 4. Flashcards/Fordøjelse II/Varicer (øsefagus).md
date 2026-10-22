@@ -15,7 +15,7 @@
 - Hvor mange oplever reblødning fra en øsefagusverice?:: 2/3
 <!--SR:!2026-10-28,15,290-->
 - Hvordan behandles øsefagusvericer overordnet?:: Non-selektiv [[beta-blokker]]
-<!--SR:!2026-10-22,7,250-->
+<!--SR:!2026-11-15,24,270-->
 ![[Pasted image 20261008131944.png]]Hvad ses på billedet?:: Normal (rask) øsefagus
 <!--SR:!2026-10-27,14,290-->
 ![[Pasted image 20261008132010.png]]Hvad ses på billedet?:: Øsefagus med vericer (ikke sprunget)

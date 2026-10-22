@@ -7,7 +7,7 @@
 - Hvad kaldes blødninger i GI der kan måles i afføring men ikke kan ses?:: [[Okkult blødning]]
 <!--SR:!2026-10-28,15,290-->
 - Hvilken skala bruges til at bedømme sværhedsgraden af en GI blødning?:: [[Glasgow Blatchford score (GBS)]]
-<!--SR:!2026-10-22,9,250-->
+<!--SR:!2026-11-13,22,250-->
 ## Klinisk præsentation
 - Hvilke toksværdier på virkes særligt og hvilken retning?:: Takykardi (hjertefrekvens) og Hypotension (BT)
 <!--SR:!2026-10-28,15,290-->
@@ -24,7 +24,7 @@
 - [[Antikoagulerende midler]]
 - [[Thrombocythæmmende midler]]
 - Tidligere blødning
-<!--SR:!2026-10-22,9,250-->
+<!--SR:!2026-11-14,23,250-->
 
 
 

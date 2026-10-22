@@ -15,7 +15,7 @@
 <!--SR:!2026-11-01,12,270-->
 
 - Hvad kan undersøges ved nedre endoskopi?:: Kolorektalkræft og [[Colitis ulcerosa (UC)]]
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-07,16,290-->
 
 - Hvad er fordelen ved at lave endoskopi i tarmen i forhold til [[Colonskopi]]?:: Man behøves ikke at have en hel tom tarm
 <!--SR:!2026-11-05,16,290-->

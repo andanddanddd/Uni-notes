@@ -12,13 +12,16 @@
 - Hvor (geografisk) ses flest kolorektale adenomer?:: Den vestliige verden
 <!--SR:!2026-10-24,4,270-->
 - Hvornår (alder) stiger incidensen af kolorektal adenom drastisk?:: 40-års-alderen
+<!--SR:!2026-10-26,4,270-->
 - Hvor hyppig er kolorektal adenom?:: Den hyppiske form for tarmkræft i vesten
 <!--SR:!2026-10-24,4,270-->
 ### Etiologi og patogenese
 mangler
 ### Morfologi
 - Hvor meget "stikker" kolorektal adenom ud i lumen?:: Det variere, det kan være fladt
+<!--SR:!2026-10-26,4,270-->
 - Hvad kendetegner fastgørelsen af koloraktal adenom (polyppen) til colon?:: Den kan enten være stilket eller bredbaset (sessil)
+<!--SR:!2026-10-26,4,270-->
 - Hvad hedder de 3 strukture som kolorektal adenom kan have?
 ?
 - Tubulært adenom
@@ -27,6 +30,7 @@ mangler
 <!--SR:!2026-10-24,4,270-->
 
 - Hvornår er overfladen på kolorektal adenom glat?:: Ved et tubulært adenom
+<!--SR:!2026-10-26,4,270-->
 - Hvornår er overfladen på kolorektal adenom ureggelmæssig (ikke glat)?:: Ved villøst adenom (eller tubulovilløst adenom)
 <!--SR:!2026-10-23,3,250-->
 - Hvilken struktur har bredbaset kolorektale adenomer ofte?:: Villøst
@@ -41,3 +45,4 @@ mangler
 <!--SR:!2026-10-24,4,270-->
 ### Behandling
 - Hvordan behandles kolorektal adenom typisk?:: Endoskopi
+<!--SR:!2026-10-26,4,270-->

@@ -1,8 +1,14 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvorfor sker marasmus?:: Underernæring (alle næringsstoffer)
+<!--SR:!2026-10-26,4,270-->
 - Hvad er marasmus overordnet?:: En form for meget slem underernæring
+<!--SR:!2026-10-26,4,270-->
 - Hvor meget muskelmasse har en person med marasmus?:: Meget lidt
+<!--SR:!2026-10-26,4,270-->
 - Hvor meget fedtvæv har en person med marasmus?:: Megte lidt
+<!--SR:!2026-10-26,4,270-->
 - Får en person med marasmus ødemer?:: Typisk ikke
+<!--SR:!2026-10-26,4,270-->
 - Hordan er albuminniveuet hos en person med marasmus?:: Typisk normalt
+<!--SR:!2026-10-26,4,270-->

@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Ved hvilken type test er begreberne sensitivitet og specificitet vigtigt?:: Kvalitative test
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvad er precision?:: Hvor tæt målinger er på hinanden
 <!--SR:!2026-10-27,14,290-->
 - Hvad er accuracy?:: Hvor tæt målingerne er på de egentlige værdier
@@ -13,7 +13,7 @@
 <!--SR:!2026-11-05,16,290-->
 
 - Hvad er specificitet overordnet?:: En tests evne til at finde folk uden sygdom, dvs få falsk positive
-<!--SR:!2026-10-18,4,270-->
+<!--SR:!2026-11-06,15,290-->
 - Hvordan udregnes specificitet?:: $$\text{Specificitet}=\frac{TM}{TN+FP}$$ Hvor TN er sand negativ og FP er falsk positiv
 <!--SR:!2026-11-05,16,290-->
 

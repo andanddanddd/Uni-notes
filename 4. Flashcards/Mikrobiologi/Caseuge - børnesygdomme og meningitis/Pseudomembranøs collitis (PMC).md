@@ -16,3 +16,4 @@
 <!--SR:!2026-10-24,4,270-->
 
 - Hvilken komplikation kan PMC lede til?:: [[Toksisk megacolon]]
+<!--SR:!2026-10-25,3,250-->

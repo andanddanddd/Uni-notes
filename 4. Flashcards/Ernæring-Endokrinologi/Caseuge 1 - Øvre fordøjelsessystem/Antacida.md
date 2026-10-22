@@ -2,7 +2,9 @@
 
 ### Farmakodynamik
 - Hvordan virker antacida?:: Neutralisere syren, derudover kan det øge prostaglandinsekrestion og dermed gør mucosa mere modstandsdygtigt overfor syre
+<!--SR:!2026-10-26,4,270-->
 - Hvad er det aktive stof i antacida?:: En base oftest hydroxid
+<!--SR:!2026-10-26,4,270-->
 ### Farmakokinetik
 - Hvilken type antacid har en langvarrig virkningsprofil?:: Aluminiumhydroxid
 <!--SR:!2026-10-24,4,270-->
@@ -10,6 +12,7 @@
 - Hvilken bivirkning har antacida med magnesiumforbindelser?:: Diarre
 <!--SR:!2026-10-23,3,250-->
 - Hvilken bivirkning har antacida med aluminiumforbindelser?:: Obstipation
+<!--SR:!2026-10-25,3,250-->
 ### Interaktioner
 - Hvilket medikament må ikke gives sammen med antacida?:: [[Sukralfat]]
 <!--SR:!2026-10-24,4,270-->

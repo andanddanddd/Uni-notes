@@ -9,3 +9,4 @@
 - Kan juvenil polyp give blødning?:: Ja
 <!--SR:!2026-10-24,4,270-->
 - Hvordan ser en juvenil polyp ud makroskopisk?:: Glat (ikke-fliget)
+<!--SR:!2026-10-26,4,270-->
