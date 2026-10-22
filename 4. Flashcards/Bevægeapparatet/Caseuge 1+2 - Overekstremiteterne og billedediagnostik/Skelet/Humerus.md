@@ -37,4 +37,33 @@
 ### Inspektion og palpation
 ### Klinik
 
-![[humerus anatomi 1.png]]
+![[humerus anatomi 1.png|588]]
+
+### Occlusion
+![[Humerus anatomi 1]]A?:: Collum anatomicum
+
+![[Humerus anatomi 1]]B?:: Tuberculum majus
+![[Humerus anatomi 1]]C?::Tuberositas deltoidea
+![[Humerus anatomi 1]]D?:: Epicondylus lateralis
+![[Humerus anatomi 1]]E?::Crista tuberculi majoris
+![[Humerus anatomi 1]]F?:: Margo lateralis
+![[Humerus anatomi 1]]G?:: Fossa radialis
+![[Humerus anatomi 1]]?:: Capitulum humeri
+Condylus humeri
+Sulcus intertubercularis
+Caput humeri
+Tuberculum minus
+Collum chiurgicum
+Crista tuberculi minoris
+Margo anterior
+Fossa coronoidea
+Fossa olecrani
+Epicondylus medialis
+Trochlea humeri
+Sulcus nervi ulnaris
+Trochlea humeri
+Humerus anteriort
+Extremitas proximalis
+Corpus humeri
+Extremitas distalis
+Humerus posteriort
