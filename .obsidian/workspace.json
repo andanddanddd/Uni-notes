@@ -14,12 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Scapula.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scapula"
+              "title": "Humerus"
+            }
+          },
+          {
+            "id": "06e01a4182a74eaa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Drawing 2026-10-22 13.28.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-22 13.28.12.excalidraw"
+            }
+          },
+          {
+            "id": "e8faec0dad435a7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Clavicula anatomi 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clavicula anatomi 1"
             }
           },
           {
@@ -48,7 +72,8 @@
               "title": "Skabelon - Knogle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -255,13 +280,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Scapula Anatomi 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
+    "Excalidraw/Bevægeapparatet/Drawing 2026-10-22 13.28.12.excalidraw.md",
+    "humerus anatomi 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Overekstremiteternes skelet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Clavicula.md",
+    "Excalidraw/Bevægeapparatet/Clavicula anatomi 1.md",
+    "clavicula anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Scapula.md",
+    "Excalidraw/Bevægeapparatet/Scapula Anatomi 1.md",
     "Scapula anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Skulderbæltet.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Overekstremiteternes skelet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Underarmets knogler.md",
     "Excalidraw/Bevægeapparatet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
@@ -281,11 +312,7 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Incisura radialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Incisura trochlearis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Caput radii.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Cavitas glenoidalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Condylus humeri.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Caput humeri.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Facies articularis acrominalis.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
@@ -301,8 +328,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013120002.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013115434.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013114807.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261013113059.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261013105235.png",
     "Untitled.canvas"
   ]
 }

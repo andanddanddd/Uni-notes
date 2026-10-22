@@ -42,17 +42,21 @@
 ### Inspektion og palpation
 ### Klinik
 ![[Scapula anatomi 1.png]]
-Acromion
-Facies articularis clavicularis
-Processus coracoideus
-Margo superior
-Angulus superior
-Anhulus lateralis
-Cavitas glenoidalis
-Collum scapulae
-Margo lateralis
-Costalis scapulae
-Angulus inferior
 
 ### Occlusion
-![[Scapula Anatomi 1]]
+![[Scapula Anatomi 1]]?:: Acromion
+![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis
+![[Scapula Anatomi 1]]C?:: Processus coracoideus
+![[Scapula Anatomi 1]]D?:: Margo superior
+![[Scapula Anatomi 1]]E?:: Angulus superior
+![[Scapula Anatomi 1]]F?:: Anhulus lateralis
+![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
+![[Scapula Anatomi 1]]H?:: Collum scapulae
+![[Scapula Anatomi 1]]I?:: Margo lateralis
+![[Scapula Anatomi 1]]J?:: Costalis scapulae
+![[Scapula Anatomi 1]]K?:: Angulus inferior
+![[Scapula Anatomi 1]]L?:: Margo medialis
+![[Scapula Anatomi 1]]M?:: Fossa supraspinata
+![[Scapula Anatomi 1]]N?:: Dorsalis scapulae
+![[Scapula Anatomi 1]]O?:: Suprascapulae
+![[Scapula Anatomi 1]]P?:: Infraspinata

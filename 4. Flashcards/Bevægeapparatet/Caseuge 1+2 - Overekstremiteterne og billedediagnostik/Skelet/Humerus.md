@@ -36,3 +36,5 @@
 - I hvilken epifyseskive sker længevækst af humerus?:: Proximale
 ### Inspektion og palpation
 ### Klinik
+
+![[humerus anatomi 1.png]]
