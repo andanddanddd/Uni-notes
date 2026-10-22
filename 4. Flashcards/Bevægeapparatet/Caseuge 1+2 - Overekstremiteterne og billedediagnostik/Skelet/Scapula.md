@@ -42,7 +42,9 @@
 ### Inspektion og palpation
 ### Klinik
 ![[Scapula anatomi 1.png]]
-
+![[scapula anatomi 2.png]]
+![[scapula anatomi 3.png]]
+![[scapula anatomi 4.png]]
 ### Occlusion
 ![[Scapula Anatomi 1]]?:: Acromion
 ![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis

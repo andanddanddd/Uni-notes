@@ -38,7 +38,7 @@
 ### Klinik
 
 ![[humerus anatomi 1.png|588]]
-
+![[humerus anatomi 2.png]]
 ### Occlusion
 ![[Humerus anatomi 1]]A?:: Collum anatomicum
 
