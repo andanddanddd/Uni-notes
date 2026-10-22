@@ -10,10 +10,14 @@
 - Hvilken overordnet form har scapula?:: Flad, trekantet
 - Hvor tyk er scapula?:: Tynd og pellucid
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
-- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
-	- Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
-- Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus)
-- Hvad kaldes indhakket i margo
+- Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
+	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
+	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
+- Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
+	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
+	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis SKRIV MERE SENERE]]
+- Hvilken form har skulderbladets forside?:: Concav
+
 
 
 ### Relationer
