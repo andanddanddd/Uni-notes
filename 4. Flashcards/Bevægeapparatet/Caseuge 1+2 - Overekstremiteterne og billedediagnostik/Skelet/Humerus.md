@@ -48,22 +48,23 @@
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
 ![[Humerus anatomi 1]]F?:: Margo lateralis
 ![[Humerus anatomi 1]]G?:: Fossa radialis
-![[Humerus anatomi 1]]?:: Capitulum humeri
-Condylus humeri
-Sulcus intertubercularis
-Caput humeri
-Tuberculum minus
-Collum chiurgicum
-Crista tuberculi minoris
-Margo anterior
-Fossa coronoidea
-Fossa olecrani
-Epicondylus medialis
-Trochlea humeri
-Sulcus nervi ulnaris
-Trochlea humeri
-Humerus anteriort
-Extremitas proximalis
-Corpus humeri
-Extremitas distalis
-Humerus posteriort
+![[Humerus anatomi 1]]H?:: Capitulum humeri
+![[Humerus anatomi 1]]I?:: Condylus humeri
+![[Humerus anatomi 1]]J?::Sulcus intertubercularis
+![[Humerus anatomi 1]]K?:: Caput humeri
+![[Humerus anatomi 1]]L?:: Tuberculum minus
+![[Humerus anatomi 1]]M?:: Collum chiurgicum
+![[Humerus anatomi 1]]N?:: Crista tuberculi minoris
+![[Humerus anatomi 1]]O?:: Margo anterior
+![[Humerus anatomi 1]]P?:: Margo lateralis
+![[Humerus anatomi 1]]Q?:: Fossa coronoidea
+![[Humerus anatomi 1]]R?:: Fossa olecrani
+![[Humerus anatomi 1]]S?:: Epicondylus medialis
+![[Humerus anatomi 1]]T?:: Trochlea humeri
+![[Humerus anatomi 1]]U?:: Sulcus nervi ulnaris
+![[Humerus anatomi 1]]V?:: Trochlea humeri
+![[Humerus anatomi 1]]W?:: Humerus anteriort
+![[Humerus anatomi 1]]v?:: Extremitas proximalis
+![[Humerus anatomi 1]]Y?:: Corpus humeri
+![[Humerus anatomi 1]]Z?:: Extremitas distalis
+![[Humerus anatomi 1]]Q?:: Humerus posteriort
