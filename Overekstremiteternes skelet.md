@@ -7,3 +7,5 @@
 ![[Humerus]]
 
 ![[Underarmets knogler]]
+
+![[Håndens skelet]]

@@ -6,7 +6,11 @@
 
 #### Placering og orientering
 #### Form og størrelse
-- Hvad hedder de 2 fremspring på den proxiamle ekstremitet af ulna?:: Olecranon og 
+- Hvad hedder de 2 fremspring på den proximale ekstremitet af ulna?:: Olecranon og processus coronoideus
+- Hvad kaldes ledskålen på den proximale ekstremitet af ulna?:: [[Incisura trochlearis]]
+- Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
+- Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
+- Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
 
 ### Relationer
 #### Led
@@ -19,5 +23,6 @@
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
+- I hvilken epifyseskive sker længdevækst af ulna?:: Den distale
 ### Inspektion og palpation
 ### Klinik
