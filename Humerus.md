@@ -16,7 +16,11 @@
 	- Hvilken form har den proxiamle del af corpus humeri?:: Cylinderformet
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
-- Hvad kaldes ledhovedet på den d
+- Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
+	- Hvor på den distale ekstremitet af humerus findes [[Condylus humeri]]?:: I midten
+- Hvad kaldes de 2 fremspring på den distale ekstremitet af humerus?:: Epicondylus medialis/lateralis
+- Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea
+- Hvad hedder fordybningen på bagsiden af den distale ekstremitet af humerus?:: Fossa olecrani
 
 ### Relationer
 #### Led
