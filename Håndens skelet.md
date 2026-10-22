@@ -3,5 +3,5 @@
 - Hvad hedder de 2 dele af håndens skelet? (dansk)
 ?
 - [[Håndroden]]
-- [[Mellemhånden]]
+- [[Mellemhåndsknoglerne]]
 - [[Fingrene (skelet)]]

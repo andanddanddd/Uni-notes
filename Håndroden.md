@@ -4,6 +4,7 @@
 - Hvad kaldes den samlede betegnelse for håndrodknoglerne på latin?:: Ossa carpi
 - Hvor mange knogler består håndroden af?:: 8
 - Hvordan er de 8 knogler i håndroden overordnet arrangeret?:: En proximal og distal række, hver bestående af 4 knogler
+- Hvornår ossificere håndrodsknoglerne?:: Først efter fødsel
 
 - Hvad hedder de 4 knogler i den prximale række af håndroden?
 ?
