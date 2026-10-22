@@ -42,5 +42,17 @@
 ### Inspektion og palpation
 ### Klinik
 ![[Scapula anatomi 1.png]]
+Acromion
+Facies articularis clavicularis
+Processus coracoideus
+Margo superior
+Angulus superior
+Anhulus lateralis
+Cavitas glenoidalis
+Collum scapulae
+Margo lateralis
+Costalis scapulae
+Angulus inferior
 
 ### Occlusion
+![[Scapula Anatomi 1]]
