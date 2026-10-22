@@ -4,4 +4,4 @@
 - Hvilken type knogler er mellemhåndsknoglerne?:: Små rørknogler
 - Hvad kaldes de 2 ekstremiteter i mellemhåndsknoglerne?:: Basis (proximal) caput (distal)
 - Hvad kendetegner epifyserne på mellemhåndsknoglerne?:: De har kun 1 hver 
-- Hvor er epifysen i mellemhåndsknoglerne?:: Proximalt i 
+- Hvor er epifysen i mellemhåndsknoglerne?:: Proximalt i Os metacarpale I og distalt i os metacarpale II-V
