@@ -21,3 +21,6 @@
 4. Digitus anularis
 5. Digitus minimus
 
+- Hvor på fingerne ses oftest sesamknogler?:: I ledet mellem os metacarpale I og phalinx proximalis  (tommenfingeren)
+- Hvornår forbener sesamknoglerne i fingrene?:: Ved pubertetens start
+
