@@ -8,6 +8,9 @@
 #### Form og størrelse
 - Hvilken overorndet form har radius?:: Trekantet prisme
 - Hvad kaldes ledhovedet i den proximale ende af radius?:: [[Caput radii]]
+- Hvad hedder indsnørringen under caput radii?:: Collum radii
+- Hvad kaldes knuden distalt for collum radii?:: tuberositas radii
+- Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii
 
 ### Relationer
 #### Led
@@ -20,5 +23,6 @@
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
+- I hvilken epifyseskive sker længdevækst af radius?:: Den distale
 ### Inspektion og palpation
 ### Klinik

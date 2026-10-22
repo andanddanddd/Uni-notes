@@ -33,5 +33,6 @@
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
+- I hvilken epifyseskive sker længevækst af humerus?:: Proximale
 ### Inspektion og palpation
 ### Klinik

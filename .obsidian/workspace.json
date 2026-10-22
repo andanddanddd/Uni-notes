@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caput radii.md",
+                "file": "Ulna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caput radii"
+              "title": "Ulna"
             }
           },
           {
@@ -243,14 +243,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c51b2cfc02fc880",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "Ulna.md",
+    "Underarmets knogler.md",
     "Radius.md",
     "Caput radii.md",
-    "Underarmets knogler.md",
+    "Humerus.md",
     "Overekstremiteternes skelet.md",
     "Cavitas glenoidalis.md",
-    "Humerus.md",
     "Condylus humeri.md",
     "Caput humeri.md",
     "Facies articularis acrominalis.md",
@@ -277,7 +278,6 @@
     "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf",
     "4. Flashcards/Fordøjelse II/Protein-energi-underernæring (PEM).md",
     "4. Flashcards/Fordøjelse II/Begreber indenfor underernæring.md",
-    "4. Flashcards/Fordøjelse II/Kwashiorkor.md",
     "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax",
