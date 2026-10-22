@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Håndens skelet.md",
+                "file": "Os trapezium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Håndens skelet"
+              "title": "Os trapezium"
             }
           },
           {
@@ -243,8 +243,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
+    "Os pisiforme.md",
+    "Os trapezium.md",
+    "Håndroden.md",
     "Håndens skelet.md",
     "Overekstremiteternes skelet.md",
     "Ulna.md",
@@ -269,9 +272,6 @@
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
-    "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
-    "4. Flashcards/Fordøjelse II/MRI.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/billeddiagnostik_bevaegeapparat_DCA.pdf",
