@@ -11,8 +11,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er Kn
-- Parret vs uparret
-- Form og størrelse
+- Er Kn parret eller uparret
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
