@@ -41,3 +41,6 @@
 - Ossifikationstidpunkt
 ### Inspektion og palpation
 ### Klinik
+![[Scapula anatomi 1.png]]
+
+### Occlusion
