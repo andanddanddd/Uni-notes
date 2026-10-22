@@ -7,6 +7,8 @@
 
 ![[underarmsknogler anatomi 1.png]]
 ![[underarmsknogler anatomi 2.png]]
+
+
 ### Occlusion
 ##### 1
 ![[Underarmsknogler anatomi 1]]A?:: Margo anterior
@@ -16,3 +18,18 @@
 
 
 ##### 2
+![[Underarmsknogler anatomi 2]]A?:: Olecranon
+![[Underarmsknogler anatomi 2]]B?:: Caput ulnae
+![[Underarmsknogler anatomi 2]]C?:: Processus styloideus ulnae
+![[Underarmsknogler anatomi 2]]D?:: Crista musculi supinatoris
+![[Underarmsknogler anatomi 2]]F?:: Tuberculum dorsale radii
+![[Underarmsknogler anatomi 2]]G?:: Incisura thochlearis
+![[Underarmsknogler anatomi 2]]H?:: Caput radii
+![[Underarmsknogler anatomi 2]]I?:: Collum radii
+![[Underarmsknogler anatomi 2]]J?:: Tuberositas radii
+![[Underarmsknogler anatomi 2]]K?:: Margo interosseus
+![[Underarmsknogler anatomi 2]]L?:: Margo posterior
+![[Underarmsknogler anatomi 2]]M?:: Margo anterior
+![[Underarmsknogler anatomi 2]]N?:: Processus styloideus radii
+![[Underarmsknogler anatomi 2]]O?:: Processus coronoideus
+![[Underarmsknogler anatomi 2]]P?:: Tuberositas ulnae
