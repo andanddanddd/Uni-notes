@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "e46fb42dae7c129b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Billeder/Bevægeapparatet/Overekstremiteterne/underarmsknogler anatomi 2.png"
+              },
+              "icon": "lucide-image",
+              "title": "underarmsknogler anatomi 2"
+            }
+          },
+          {
             "id": "a7e005dd748d1e16",
             "type": "leaf",
             "state": {
@@ -315,31 +327,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "Billeder/Bevægeapparatet/Overekstremiteterne/underarmsknogler anatomi 2.png",
+    "Excalidraw/Bevægeapparatet/Hånd(knogler) anatomi 2.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndens skelet.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/hånd(knogler) 2.png",
     "Pasted image 20261022141800.png",
     "Excalidraw/Bevægeapparatet/Hånd(knogle) anatomi 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Skulderbæltet.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndens skelet.md",
-    "hånd(knogle) anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/hånd(knogle) anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Overekstremiteternes skelet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Underarmets knogler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
     "Excalidraw/Bevægeapparatet/Ulna anatomi 1.md",
-    "ulna anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/ulna anatomi 1.png",
     "Excalidraw/Bevægeapparatet/Underarmsknogler anatomi 2.md",
-    "underarmsknogler anatomi 2.png",
     "Excalidraw/Bevægeapparatet/Underarmsknogler anatomi 1.md",
-    "underarmsknogler anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/underarmsknogler anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
     "Excalidraw/Bevægeapparatet/Humerus anatomi 1.md",
-    "humerus anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/humerus anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Clavicula.md",
     "Excalidraw/Bevægeapparatet/Clavicula anatomi 1.md",
-    "clavicula anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/clavicula anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Scapula.md",
     "Excalidraw/Bevægeapparatet/Scapula Anatomi 1.md",
-    "Scapula anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/Scapula anatomi 1.png",
     "Excalidraw/Bevægeapparatet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Fingrene (skelet).md",
@@ -351,7 +366,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os trapezoideum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os trapezium.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os pisiforme.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Radius.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
@@ -359,10 +373,7 @@
     "Externe dokumenter/billeddiagnostik_bevaegeapparat_DCA.pdf",
     "billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Viscerale smerter moodle.pdf",
-    "Externe dokumenter/Elsevier guide til clinicalkey (bøger etc.)-4.pdf",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261019094654.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261013105220.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261013120557.png",
     "Untitled.canvas"
   ]
 }
