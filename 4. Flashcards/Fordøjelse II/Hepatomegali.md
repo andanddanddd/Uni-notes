@@ -1,11 +1,11 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvad er hepatomegali?:: Forstørret lever
-<!--SR:!2026-10-19,14,290-->
+<!--SR:!2026-12-18,57,310-->
 - Hvornår sker hepatomegali?:: Under [[Akut leversygdom]]
 <!--SR:!2026-12-21,62,310-->
 - Beskriv 2 patogeneseveje der fører til hepatomegali?
 ?
 - Inflammation (ødemer og flere celler i leveren)
 - Tumor
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2026-12-23,62,310-->

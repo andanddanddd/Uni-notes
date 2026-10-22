@@ -3,7 +3,7 @@
 
 ## Etiologi
 - Hvad hedder precurseren til MASH?:: [[Metabols dysfunktiionel-associeret statotisk leversygdom (MASLD)]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-07,16,290-->
 
 ## Klinisk præsentation
 

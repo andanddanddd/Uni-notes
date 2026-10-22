@@ -251,14 +251,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c51b2cfc02fc880",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Viscerale smerter.md",
     "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
     "4. Flashcards/Fordøjelse II/MRI.md",
     "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",

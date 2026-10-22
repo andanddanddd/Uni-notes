@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II 
 
 - Hvilket gen er påvirket ved FAP?:: APC (adenomatøs polyposis coli-genet)
-<!--SR:!2026-10-21,1,230-->
+<!--SR:!2026-10-23,1,210-->
 - Hvilken type cancergen er APC?:: [[Tumor supressor genes]]
 <!--SR:!2026-10-24,4,270-->
 - Hvilken arvegang har FAP?:: Autosomal dominant (men mange tilfælde opstår ved de-novo mutation)

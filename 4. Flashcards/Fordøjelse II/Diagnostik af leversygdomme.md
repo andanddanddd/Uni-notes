@@ -6,4 +6,4 @@ Hvad betyder de specifikke levermarkører (hvorfor stiger/falder de)
 - Blodprøver [[Biokemiske test af leveren]]
 - Billeder
 - Biopsi og histopatologi
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-12-28,67,310-->

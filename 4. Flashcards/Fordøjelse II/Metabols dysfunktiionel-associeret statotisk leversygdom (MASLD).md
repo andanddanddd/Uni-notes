@@ -11,7 +11,7 @@
 - Insulinresistens [[Type 2-diabetes]]
 - Hypertension
 - [[Dyslipidæmi]]
-<!--SR:!2026-10-17,4,270-->
+<!--SR:!2026-11-01,10,270-->
 
 ## Klinisk præsentation
 

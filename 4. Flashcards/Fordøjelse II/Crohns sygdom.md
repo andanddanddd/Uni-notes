@@ -37,7 +37,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 <!--SR:!2026-11-04,15,290-->
 ## Diagnose
 - Hvordan ses crohns ved endoskopi/colonskopi?:: Dybe længdegående står, brostensmønster
-<!--SR:!2026-10-18,3,250-->
+<!--SR:!2026-11-01,10,270-->
 - Hvordan ses crohns på en biopsi?:: Transmural lymfocytær inflammation og til tider ikke-nekrotiserende epitelcellegranulomer
 <!--SR:!2026-10-26,7,250-->
 ![[Pasted image 20261013114807.png]]
