@@ -26,3 +26,12 @@
 - I hvilken epifyseskive sker længdevækst af ulna?:: Den distale
 ### Inspektion og palpation
 ### Klinik
+![[ulna anatomi 1.png]]
+
+### Occlusion
+![[Ulna anatomi 1]]A?:: Olecranon
+![[Ulna anatomi 1]]B?:: Incisura trochlearis
+![[Ulna anatomi 1]]C?:: Processus coronoideus
+![[Ulna anatomi 1]]D?:: Tuberositas ulnae
+![[Ulna anatomi 1]]E?:: Circumferentia articularis
+![[Ulna anatomi 1]]F?:: Caput ulnae

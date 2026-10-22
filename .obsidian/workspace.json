@@ -14,12 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndens skelet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ulna"
+              "title": "Håndens skelet"
+            }
+          },
+          {
+            "id": "a7e005dd748d1e16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Hånd(knogle) anatomi 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Hånd(knogle) anatomi 1"
+            }
+          },
+          {
+            "id": "5efb1adc321f95fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Ulna anatomi 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ulna anatomi 1"
             }
           },
           {
@@ -84,7 +108,8 @@
               "title": "Skabelon - Knogle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -291,14 +316,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "a7e005dd748d1e16",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndens skelet.md",
+    "Excalidraw/Bevægeapparatet/Hånd(knogle) anatomi 1.md",
+    "hånd(knogle) anatomi 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Overekstremiteternes skelet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Underarmets knogler.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
+    "Excalidraw/Bevægeapparatet/Ulna anatomi 1.md",
+    "ulna anatomi 1.png",
     "Excalidraw/Bevægeapparatet/Underarmsknogler anatomi 2.md",
     "underarmsknogler anatomi 2.png",
     "Excalidraw/Bevægeapparatet/Underarmsknogler anatomi 1.md",
     "underarmsknogler anatomi 1.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Overekstremiteternes skelet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
     "Excalidraw/Bevægeapparatet/Humerus anatomi 1.md",
     "humerus anatomi 1.png",
@@ -313,7 +344,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Fingrene (skelet).md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Phalinx distalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndens skelet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Mellemhåndsknoglerne.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndroden.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os hamatum.md",
@@ -321,11 +351,8 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os trapezoideum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os trapezium.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Os pisiforme.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Radius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Caput ulna.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Incisura radialis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Incisura trochlearis.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
@@ -337,8 +364,6 @@
     "Billeder/Fordøjelsesystemet II/Pasted image 20261019094654.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013105220.png",
     "Billeder/Fordøjelsesystemet II/Pasted image 20261013120557.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261013120306.png",
-    "Billeder/Fordøjelsesystemet II/Pasted image 20261013120002.png",
     "Untitled.canvas"
   ]
 }
