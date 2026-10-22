@@ -7,6 +7,11 @@
 #### Form og størrelse
 - Hvad er de 3 overordnede dele af humerus?:: Skaftet og 2 ekstremiteter
 - Hvad kaldes ledfladen på den proximale ekstremitet af humerus?:: [[Caput humeri]]
+- Hvad kaldes indsnørringen der afgrænser caput humeri?:: Collum anatomicum
+- Hvad hedder de 2 knuder på den proximale extremitet?:: Tuberculum majus/minus
+	- Hvad hedder furen mellem de 2 knuder på den proximale ekstremitet?:: Sulcus intertubercularis
+	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris
+- Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
 
 ### Relationer
 #### Led

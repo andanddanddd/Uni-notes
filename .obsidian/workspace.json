@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cavitas glenoidalis.md",
+                "file": "Humerus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cavitas glenoidalis"
+              "title": "Humerus"
             }
           },
           {
@@ -243,7 +243,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "0c51b2cfc02fc880",
   "lastOpenFiles": [
     "Cavitas glenoidalis.md",
     "Caput humeri.md",
