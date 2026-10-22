@@ -12,6 +12,11 @@
 	- Hvad hedder furen mellem de 2 knuder på den proximale ekstremitet?:: Sulcus intertubercularis
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris
 - Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
+- Hvad kaldes skaftet af humerus?:: **Corpus humeri**
+	- Hvilken form har den proxiamle del af corpus humeri?:: Cylinderformet
+	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
+	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
+- Hvad kaldes ledhovedet på den d
 
 ### Relationer
 #### Led
