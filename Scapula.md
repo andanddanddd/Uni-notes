@@ -15,7 +15,7 @@
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
-	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis SKRIV MERE SENERE]]
+	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
 - Hvilken form har skulderbladets forside?:: Concav
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
@@ -33,7 +33,7 @@
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
-- Hvilken knogletype er Kn
+- Hvilken knogletype er scapula?:: Flad knogle
 - Er scapula parret eller uparret?:: Parret
 - Form og størrelse
 ### Ossifikation og heeling

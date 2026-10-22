@@ -6,12 +6,12 @@
 
 ### Relationer
 #### Led
-- Hvilke knogler danner Kn led med
+- Hvilke knogler danner Kng led med
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
-- Hvilken knogletype er Kn
-- Er Kn parret eller uparret
+- Hvilken knogletype er Kng
+- Er Kng parret eller uparret
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

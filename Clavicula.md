@@ -13,11 +13,11 @@
 
 ### Relationer
 #### Led
-- Hvilke knogler danner claviculaled med
+- Hvilke knogler danner clavicula led med:: [[Scapula]] og [[Sternum]]
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
-- Hvilken knogletype er Kn
+- Hvilken knogletype er clavicula?:: Lang knogle
 - Er clavicula parret eller uparret?:: Parret
 - Form og størrelse
 ### Ossifikation og heeling
