@@ -3,6 +3,8 @@
 - Hvad hedder underarmen på latin?:: Antebrachium
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
 - Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)
+- Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
+- Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
 - Hvilke muskler er i 1. lag af underarmens foreste loge?
 ?
 - [[M. pronator teres]]

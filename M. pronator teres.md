@@ -2,19 +2,20 @@
 
 
 ### Lokation
-- Hvor er m. pronator teres?:: 1. lag af foreste underarmsloge
+- Hvor er m. pronator teres?:: 1. lag af foreste underarmsloge, mest radielt
 - Hvor dybt ligger m. pronator teres?:: Superficielt (lag 1)
 
 ### Form
 - Hvilken form har m. pronator teres?
 
 ### Udspring
-- Hvor udspringer m. pronator teres?:: Caput commune flexorum
+- Hvor udspringer m. pronator teres?:: Primært caput commune flexorum, men den har også et lille hoved der udspringer fra processus coronideus ulnae (se [[Ulna]])
 
 ### Insertion
-- Hvor har m. pronator teres insertion?
+- Hvor har m. pronator teres insertion?:: Lateralfladen af [[Radius]]
 
 ### Funktion
+- Hvilke bevægelser udfører m. pronator teres?:: Flektion af albue samt pronation
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
