@@ -9,10 +9,10 @@
 - Hvilken form har m. flexor carpi radialis?
 
 ### Udspring
-- Hvor udspringer m. flexor carpi radialis?
+- Hvor udspringer m. flexor carpi radialis?:: Caput commune fexorum
 
 ### Insertion
-- Hvor har m. flexor carpi radialis insertion?
+- Hvor har m. flexor carpi radialis insertion?:: Basis af os metacarple II på siden på håndfladen (på den proximale del af mellemhånsknoglen til pegefingeren) 
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor carpi radialis?

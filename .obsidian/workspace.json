@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. flexor carpi radialis.md",
+                "file": "M. flexor carpi ulnaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. flexor carpi radialis"
+              "title": "M. flexor carpi ulnaris"
             }
           }
         ]
@@ -231,9 +231,11 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "Skabeloner/Skabelon - Muskler.md",
-    "M. flexor carpi radialis.md",
     "Underarmen.md",
+    "M. flexor carpi ulnaris.md",
+    "M. palmaris longus.md",
+    "M. flexor carpi radialis.md",
+    "Skabeloner/Skabelon - Muskler.md",
     "M. pronator teres.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "Overarmen.md",
@@ -260,8 +262,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
     "Skabeloner/Skabelon - Occlusion.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskeler 1.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Dorsal muskelgruppe (skulder).md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske rygmuskler.md",
     "Excalidraw/Bevægeapparatet/Muskler",
     "Excalidraw/Bevægeapparatet/Skelet",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske rygmuskler 1.png",

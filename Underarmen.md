@@ -9,7 +9,7 @@
 ?
 - [[M. pronator teres]]
 - [[M. flexor carpi radialis]]
-- [[M. malmarislongus]]
+- [[M. palmaris longus]]
 - [[M. flexor carpi ulnaris]]
 
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
