@@ -15,7 +15,28 @@
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
 - Hvilke muskler er i 3. lag af underarmens foreste loge?
 ?
+- [[M. flexor pollicis longu]]
 - [[M. flexor digitorum profundus]]
-- [[M. flexor pollicis longus]]
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
+
+- Hvilke muskler er i den radiale superficielle extensorgruppe?
+?
+- [[M. brachioradialis]]
+- [[M. extensor carpi radialis longus]]
+- [[M. extensor carpi radialis brevis]]
+
+- Hvilke muskler er der i "den øvrige superficielle extensorgruppe"?
+?
+- [[M. anconeus]]
+- [[M. extensor digitorum]]
+- [[M. extensor digiti minimi]]
+- [[M. extensor carpi ulnaris]]
+
+- Hvilke muskler er der i den profunde extensergruppe?
+?
+- [[M. supinator]]
+- [[M. abductor pollicis longus]]
+- [[M. pollicis brevis]]
+- [[M. pollici longus]]
+- [[M. extensor indicis]]
