@@ -17,5 +17,7 @@
 - [[M. infraspinatus]]
 
 ![[skuldermsukler 1.png|582]]
+![[skuldermuskler 2.png]]
 
 [[Occlusion skuldermuskler 1]]
+[[Occlusion skuldermuskler 2]]
