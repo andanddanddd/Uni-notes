@@ -1,0 +1,29 @@
+#flashcards/5/Bevægeapparatet 
+
+
+### Lokation
+- Hvor er m. triceps brachii overordnet?:: Bagpå overarmen
+- Hvor dybt ligger m. triceps brachii
+
+### Form
+- Hvilken form har m. triceps brachii?
+
+### Udspring
+- Hvordan er biceps 3 udspringshoveder overrodnet arrangeret?:: 2 superficielle hoveder og 1 dybt hoved
+- Hvad hedder m. triceps brachii 3 udspringshoveder?
+?
+- Caput longum
+- Caput laterale
+- Caput mediale
+
+- 
+
+### Insertion
+- Hvor har m. triceps brachii insertion?
+
+### Funktion
+
+### Innerversion og reflekser
+Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
+Reflekser
+### Klinik

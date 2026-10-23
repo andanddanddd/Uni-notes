@@ -13,9 +13,10 @@
 - Hvor udspringer m. coracobrachialis?:: Processus corocoideus (sammen med det ene bicepshoved) (se [[Scapula]])
 
 ### Insertion
-- Hvor har m. coracobrachialis insertion?
+- Hvor har m. coracobrachialis insertion?:: Midt på [[Humerus]]
 
 ### Funktion
+- Hvilken funktion har m. coracobrachialis?:: Adduktion og flektion af skulderledet
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
