@@ -16,12 +16,15 @@
 - Caput laterale
 - Caput mediale
 
-- 
+- Hvor udspringer caput longum?:: Tuberculum infraglenoidale
+- Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
+- Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
 
 ### Insertion
-- Hvor har m. triceps brachii insertion?
+- Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])
 
 ### Funktion
+- Hvilken funktion har m. tricps brachii?:: Ekstension af albue og skulderled
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
