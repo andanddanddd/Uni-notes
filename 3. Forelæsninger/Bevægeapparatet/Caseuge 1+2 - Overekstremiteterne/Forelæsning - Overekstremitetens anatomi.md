@@ -5,3 +5,5 @@
 ![[Armen]]
 
 ![[Skulder og skulderled]]
+
+![[Overarmen]]
