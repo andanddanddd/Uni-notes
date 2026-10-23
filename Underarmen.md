@@ -2,3 +2,18 @@
 
 - Hvad hedder underarmen på latin?:: Antebrachium
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
+- Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)
+- Hvilke muskler er i 1. lag af underarmens foreste loge?
+?
+- [[M. pronator teres]]
+- [[M. flexor carpi radialis]]
+- [[M. malmarislongus]]
+- [[M. flexor carpi ulnaris]]
+
+- Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
+- Hvilke muskler er i 3. lag af underarmens foreste loge?
+?
+- [[M. flexor digitorum profundus]]
+- [[M. flexor pollicis longus]]
+
+- Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
