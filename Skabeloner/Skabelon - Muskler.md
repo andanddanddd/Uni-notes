@@ -1,11 +1,16 @@
 
 ### Lokation
+- Hvor er mK overordnet?
+- Hvor dybt ligger mK
 
 ### Form
+- Hvilken form har mK?
 
 ### Udspring
+- Hvor har udspringer mK
 
 ### Insertion
+- Hvor har mK insertion?
 
 ### Funktion
 

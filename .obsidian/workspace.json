@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. deltoideus.md",
+                "file": "M. teres major.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. deltoideus"
+              "title": "M. teres major"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#be",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,13 +99,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -231,10 +229,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "M. deltoideus.md",
+    "Skabeloner/Skabelon - Muskler.md",
+    "M. teres major.md",
     "Lateral skuldergrupe (skulder).md",
+    "M. deltoideus.md",
     "Skulder og skulderled.md",
     "Ventral skuldergruppe (skulder).md",
     "M. serratus anterior.md",
@@ -257,8 +257,6 @@
     "Skabeloner/Skabelon - Knogle.md",
     "Excalidraw/Bevægeapparatet/Scapula Anatomi 1.md",
     "Excalidraw/Bevægeapparatet/Clavicula anatomi 1.md",
-    "Excalidraw/Bevægeapparatet/Underarmsknogler anatomi 1.md",
-    "Excalidraw/Bevægeapparatet/Underarmsknogler anatomi 2.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/scapula anatomi 4.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd(knogle) 3.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd røntgen 1.png",
