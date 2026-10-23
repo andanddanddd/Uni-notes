@@ -3,3 +3,5 @@
 ![[Overekstremiteternes skelet]]
 
 ![[Armen]]
+
+![[Skulder og skulderled]]
