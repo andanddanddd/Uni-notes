@@ -9,5 +9,5 @@
 - [[M. latissimus dorsi]]
 - [[M. levator scapulae]]
 - [[M. rhomboideus]]
-
-[[Occlusion ]]
+![[overfladiske rygmuskler 1.png]]
+[[Occlusion overfladiske rygmuskler]]

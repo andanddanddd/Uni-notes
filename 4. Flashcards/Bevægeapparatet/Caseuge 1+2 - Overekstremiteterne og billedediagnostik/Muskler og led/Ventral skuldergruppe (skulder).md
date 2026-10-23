@@ -9,3 +9,7 @@
 - [[M. pectoralis minor]]
 - [[M. subclavicus]]
 - [[M. serratus anterior]]
+
+![[overfladiske brystmuskeler 1.png]]
+
+[[Occlusion overfladiske brystmuskler]]
