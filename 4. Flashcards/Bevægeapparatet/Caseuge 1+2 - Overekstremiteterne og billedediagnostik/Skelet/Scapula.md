@@ -30,8 +30,6 @@
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
 
-
-
 ### Relationer
 #### Led
 - Hvilke knogler danner scapula led med?
