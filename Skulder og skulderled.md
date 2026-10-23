@@ -5,3 +5,7 @@
 - [[Dorsal muskelgruppe (skulder)]]
 - [[Ventral skuldergruppe (skulder)]]
 - [[Lateral skuldergrupe (skulder)]]
+
+- Hvad hedder skulderens 3 ægte led?
+?
+- [[Articulatio sternoclavicularis]]
