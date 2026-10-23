@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
+- Hvor dybt ligger m. trapezius?:: Superficielt
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
 ### Udspring
