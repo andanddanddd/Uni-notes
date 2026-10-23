@@ -8,7 +8,9 @@
 #### Form og størrelse
 - Hvilken overorndet form har radius?:: Trekantet prisme
 - Hvad kaldes ledhovedet i den proximale ende af radius?:: [[Caput radii]]
+<!--SR:!2026-10-27,4,270-->
 - Hvad hedder indsnørringen under caput radii?:: Collum radii
+<!--SR:!2026-10-27,4,270-->
 - Hvad kaldes knuden distalt for collum radii?:: tuberositas radii
 - Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii
 
@@ -19,6 +21,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er radius?:: Rørknogle
+<!--SR:!2026-10-27,4,270-->
 - Er radius parret eller uparret?:: Parret
 ### Ossifikation og heeling
 - Type af ossifikation
