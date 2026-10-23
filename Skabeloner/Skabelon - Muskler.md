@@ -7,7 +7,7 @@
 - Hvilken form har mK?
 
 ### Udspring
-- Hvor har udspringer mK
+- Hvor udspringer mK
 
 ### Insertion
 - Hvor har mK insertion?
