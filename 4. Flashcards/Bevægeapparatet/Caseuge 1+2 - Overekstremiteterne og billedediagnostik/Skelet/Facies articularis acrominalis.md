@@ -1,4 +1,6 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogle sidder facies articularis acrominalis på?:: [[Clavicula]]
+<!--SR:!2026-10-26,3,250-->
 - Hvilken ledflade articulere facies articularis acrominalis med?:: [[Facies articularis clavicularis]]
+<!--SR:!2026-10-27,4,270-->

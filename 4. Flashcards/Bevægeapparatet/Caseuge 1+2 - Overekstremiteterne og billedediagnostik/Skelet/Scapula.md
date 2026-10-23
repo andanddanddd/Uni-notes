@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad hedder scapula på dansk?:: Skulderbladet
+<!--SR:!2026-10-27,4,270-->
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale
@@ -10,15 +11,22 @@
 - Hvilken overordnet form har scapula?:: Flad, trekantet
 - Hvor tyk er scapula?:: Tynd og pellucid
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
+<!--SR:!2026-10-26,3,250-->
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
+<!--SR:!2026-10-24,1,230-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
+<!--SR:!2026-10-26,3,250-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
+<!--SR:!2026-10-24,1,230-->
 - Hvilken form har skulderbladets forside?:: Concav
+<!--SR:!2026-10-26,3,250-->
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
+<!--SR:!2026-10-23,0,230-->
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
+<!--SR:!2026-10-27,4,270-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
 
@@ -34,6 +42,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er scapula?:: Flad knogle
+<!--SR:!2026-10-27,4,270-->
 - Er scapula parret eller uparret?:: Parret
 - Form og størrelse
 ### Ossifikation og heeling
@@ -46,19 +55,28 @@
 ![[scapula anatomi 3.png]]
 ![[scapula anatomi 4.png]]
 ### Occlusion
-![[Scapula Anatomi 1]]?:: Acromion
+![[Scapula Anatomi 1]]A?:: Acromion
+<!--SR:!2026-10-27,4,270-->
 ![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis
 ![[Scapula Anatomi 1]]C?:: Processus coracoideus
+<!--SR:!2026-10-23,0,230-->
 ![[Scapula Anatomi 1]]D?:: Margo superior
 ![[Scapula Anatomi 1]]E?:: Angulus superior
 ![[Scapula Anatomi 1]]F?:: Anhulus lateralis
 ![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
+<!--SR:!2026-10-27,4,270-->
 ![[Scapula Anatomi 1]]H?:: Collum scapulae
+<!--SR:!2026-10-26,3,250-->
 ![[Scapula Anatomi 1]]I?:: Margo lateralis
+<!--SR:!2026-10-27,4,270-->
 ![[Scapula Anatomi 1]]J?:: Costalis scapulae
+<!--SR:!2026-10-24,1,230-->
 ![[Scapula Anatomi 1]]K?:: Angulus inferior
+<!--SR:!2026-10-27,4,270-->
 ![[Scapula Anatomi 1]]L?:: Margo medialis
+<!--SR:!2026-10-27,4,270-->
 ![[Scapula Anatomi 1]]M?:: Fossa supraspinata
 ![[Scapula Anatomi 1]]N?:: Dorsalis scapulae
+<!--SR:!2026-10-26,3,250-->
 ![[Scapula Anatomi 1]]O?:: Suprascapulae
 ![[Scapula Anatomi 1]]P?:: Infraspinata
