@@ -4,7 +4,7 @@
 
 ### Ledflader
 
-### Ledkapsel og hule
+### Ledets strukture
 
 ### Funktion
 

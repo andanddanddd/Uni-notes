@@ -9,7 +9,7 @@
 - Hvilke 2 ledflader består articulatio sternoclavicularis af?:: [[Facies articularis sternalis]] og [[Incisura clavicularis]]
 
 ### Ledets struktur og dele
-- Hvilken st
+- Hvilke strukture binder [[Clavicula]] til 1. ribben?:: En leddisk (discus artikularis) samt [[Ligamentum costoclavicularis]]
 
 ### Funktion
 
