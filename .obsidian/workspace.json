@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. biceps brachii.md",
+                "file": "M. coracobrachialis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. biceps brachii"
+              "title": "M. coracobrachialis"
             }
           }
         ]
@@ -229,8 +229,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "M. coracobrachialis.md",
     "Overarmen.md",
     "M. biceps brachii.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
@@ -265,7 +266,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion humerus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. teres major.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Ligamentum costoclavicularis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led",
     "Billeder/Bevægeapparatet/Overekstremiteterne/scapula anatomi 4.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd(knogle) 3.png",
