@@ -11,5 +11,6 @@
 - [[M. serratus anterior]]
 
 ![[overfladiske brystmuskeler 1.png]]
-
-[[Occlusion overfladiske brystmuskler]]
+![[overfladiske brystmuskler 2.png]]
+[[Occlusion overfladiske brystmuskler 1]]
+[[Occlusion overfladiske brystmuskler 2]]

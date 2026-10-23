@@ -15,3 +15,7 @@
 - [[M. subscapularis]]
 - [[M. supraspinatus]]
 - [[M. infraspinatus]]
+
+![[skuldermsukler 1.png|582]]
+
+[[Occlusion skuldermuskler 1]]

@@ -14,12 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion overfladiske brystmuskler.md",
+                "file": "Occlusion skuldermuskler 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion overfladiske brystmuskler"
+              "title": "Occlusion skuldermuskler 1"
+            }
+          },
+          {
+            "id": "c5612e0aed2392d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Skuldermuskler 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Skuldermuskler 1"
+            }
+          },
+          {
+            "id": "20ad2131713af1cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Overfladiske brystmuskler 2"
             }
           },
           {
@@ -46,7 +70,8 @@
               "title": "Overfladiske rygmuskler 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -253,14 +278,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "c5612e0aed2392d5",
   "lastOpenFiles": [
-    "Skabeloner/Skabelon - Occlusion.md",
-    "Occlusion overfladiske brystmuskler.md",
-    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Ventral skuldergruppe (skulder).md",
-    "overfladiske brystmuskeler 1.png",
+    "Occlusion skuldermuskler 1.md",
+    "Excalidraw/Bevægeapparatet/Muskler/Skuldermuskler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Lateral skuldergrupe (skulder).md",
+    "skuldermsukler 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Skulder og skulderled.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Ventral skuldergruppe (skulder).md",
+    "Occlusion overfladiske brystmuskler 2.md",
+    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 2.md",
+    "overfladiske brystmuskler 3.png",
+    "overfladiske brystmuskler 2.png",
+    "Occlusion overfladiske brystmuskler 1.md",
+    "Skabeloner/Skabelon - Occlusion.md",
+    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md",
+    "overfladiske brystmuskeler 1.png",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Dorsal muskelgruppe (skulder).md",
     "Occlusion overfladiske rygmuskler.md",
@@ -282,18 +315,10 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Articulatio acromioclaviculare.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Facies articularis acrominalis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Facies articularis clavicularis.md",
-    "Skabeloner/Skabelon - Led.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Articulatio sternoclavicularis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Incisura clavicularis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Facies articularis sternalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Clavicula.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/scapula anatomi 4.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd(knogle) 3.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd røntgen 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/humerus anatomi 2.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/scapula anatomi 3.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/scapula anatomi 2.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/underarmsknogler anatomi 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne",
     "Excalidraw/Bevægeapparatet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
