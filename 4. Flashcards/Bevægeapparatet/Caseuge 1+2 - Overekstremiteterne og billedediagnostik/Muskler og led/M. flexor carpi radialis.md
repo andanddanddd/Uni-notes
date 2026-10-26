@@ -17,7 +17,7 @@
 - Hvor har m. flexor carpi radialis insertion?:: Basis af os metacarple II på siden på håndfladen (på den proximale del af mellemhånsknoglen til pegefingeren) 
 
 ### Funktion
-- Hvilke bevægelser udfører m. flexor carpi radialis?
+- Hvilke bevægelser udfører m. flexor carpi radialis?:: Fleksion og radialflektion af håndledet
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

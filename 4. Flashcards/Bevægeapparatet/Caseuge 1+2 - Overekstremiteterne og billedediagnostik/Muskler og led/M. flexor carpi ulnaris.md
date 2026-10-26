@@ -13,7 +13,7 @@
 - Hvor udspringer m. felxor carpi ulnaris?:: Caput commune flexorum (epicondylus medialis), samt proximale dele af [[Ulna]]
 
 ### Insertion
-- Hvor har m. felxor carpi ulnaris insertion?:: [[Os pisiforme]] samt basis af os metacaple V
+- Hvor har m. felxor carpi ulnaris insertion?:: [[Os pisiforme]], [[Os hamatum]] samt basis af os metacaple V
 <!--SR:!2026-10-29,3,250-->
 
 ### Funktion

@@ -6,7 +6,7 @@
 - Hvor dybt ligger m. palmaris longus?:: Superficielt (lag 1)
 
 ### Form
-- Hvilken form har m. palmaris longus?
+- Hvad er særligt ved formen af m. palmaris longus i forhold til andre underarmsmuskler?:: Selve musklen er kort dvs senen er ekstra lang
 
 ### Udspring
 - Hvor udspringer m. palmaris longus?:: Caput commune flexorum (epicondylus medialis)
