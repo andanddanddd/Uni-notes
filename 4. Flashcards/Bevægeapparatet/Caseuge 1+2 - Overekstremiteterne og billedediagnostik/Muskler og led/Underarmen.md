@@ -8,6 +8,8 @@
 - Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
 <!--SR:!2026-10-30,4,270-->
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
+
+### Knogler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?
 ?
 - [[M. pronator teres]]
@@ -19,13 +21,13 @@
 <!--SR:!2026-10-26,0,230-->
 - Hvilke muskler er i 3. lag af underarmens foreste loge?
 ?
-- [[M. flexor pollicis longu]]
+- [[M. flexor pollicis longus]]
 - [[M. flexor digitorum profundus]]
 <!--SR:!2026-10-27,1,230-->
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
 
-
+### Knogler til ekstention
 - Hvilke muskler er i den radiale superficielle extensorgruppe?
 ?
 - [[M. brachioradialis]]
