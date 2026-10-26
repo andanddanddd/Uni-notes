@@ -9,7 +9,7 @@
 - Hvilken form har m. palmaris longus?
 
 ### Udspring
-- Hvor udspringer m. palmaris longus?:: Caput commune felxorum
+- Hvor udspringer m. palmaris longus?:: Caput commune flexorum (epicondylus medialis)
 
 ### Insertion
 - Hvor har m. palmaris longus insertion?:: Aponeurosis palmaris

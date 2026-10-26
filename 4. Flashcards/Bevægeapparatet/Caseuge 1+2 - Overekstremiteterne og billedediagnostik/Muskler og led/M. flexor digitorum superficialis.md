@@ -10,7 +10,7 @@
 - Hvilken form har m. felxor digitorum superficialis?:: Bred
 
 ### Udspring
-- Hvor udspringer m. felxor digitorum superficialis?:: capur commune flexorum
+- Hvor udspringer m. felxor digitorum superficialis?:: caput commune flexorum (epicondylus medialis)
 
 ### Insertion
 - Hvor har m. felxor digitorum superficialis insertion?:: Phalanx media på de 4 ulnare fingre

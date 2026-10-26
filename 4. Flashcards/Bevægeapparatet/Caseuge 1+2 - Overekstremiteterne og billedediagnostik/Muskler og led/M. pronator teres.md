@@ -9,7 +9,7 @@
 - Hvilken form har m. pronator teres?
 
 ### Udspring
-- Hvor udspringer m. pronator teres?:: Primært caput commune flexorum, men den har også et lille hoved der udspringer fra processus coronideus ulnae (se [[Ulna]])
+- Hvor udspringer m. pronator teres?:: Primært caput commune flexorum (epicondylus medialis), men den har også et lille hoved der udspringer fra processus coronideus ulnae (se [[Ulna]])
 
 ### Insertion
 - Hvor har m. pronator teres insertion?:: Lateralfladen af [[Radius]]
