@@ -27,6 +27,7 @@
 <!--SR:!2026-10-29,3,250-->
 ![[Hånd(knogle) anatomi 1]]H?:: Phalanz proximalis
 ![[Hånd(knogle) anatomi 1]]I?:: Ossa sesamoidea
+<!--SR:!2026-10-30,4,270-->
 ![[Hånd(knogle) anatomi 1]]J?:: Ulna
 <!--SR:!2026-10-27,4,270-->
 ![[Hånd(knogle) anatomi 1]]K?:: Radius

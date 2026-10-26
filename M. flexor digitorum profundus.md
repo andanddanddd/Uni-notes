@@ -15,6 +15,7 @@
 
 ### Insertion
 - Hvor har m. felxor digitorum profundus insertion?:: Phalanx distale på de 4 ulnare fingre (se [[Fingrene (skelet)]])
+<!--SR:!2026-10-30,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor digitorum profundus?:: Flektion i håndled og fingerled

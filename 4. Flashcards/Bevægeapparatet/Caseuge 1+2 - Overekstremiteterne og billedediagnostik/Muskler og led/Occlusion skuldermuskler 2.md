@@ -4,6 +4,7 @@
 
 
 ![[Skuldermuskler 2]]A?:: [[M. teres major]]
+<!--SR:!2026-10-29,3,250-->
 ![[Skuldermuskler 2]]B?:: [[M. supraspinatus]]
 <!--SR:!2026-10-27,1,230-->
 ![[Skuldermuskler 2]]C?::[[M. subscapularis]]

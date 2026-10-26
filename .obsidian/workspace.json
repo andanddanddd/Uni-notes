@@ -40,8 +40,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "01e6893c2952e6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion humerus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Occlusion humerus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +253,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "01e6893c2952e6b5",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion humerus.md",
     "Underarmen.md",
     "M. pronator quadratus.md",
     "M. flexor digitorum profundus.md",
@@ -255,9 +282,7 @@
     "Excalidraw/Bevægeapparatet/Muskler/Skuldermuskler 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion skuldermuskler 2.md",
     "Excalidraw/Bevægeapparatet/Muskler/Skuldermuskler 2.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion skuldermuskler 1.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermsukler 1.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Skulder og skulderled.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskler 3.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskler 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskeler 1.png",

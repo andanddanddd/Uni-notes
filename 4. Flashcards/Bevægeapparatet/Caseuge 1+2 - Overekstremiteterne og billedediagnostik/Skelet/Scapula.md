@@ -15,6 +15,7 @@
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
 <!--SR:!2026-11-02,7,250-->
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
+<!--SR:!2026-10-30,4,270-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
 <!--SR:!2026-10-28,2,230-->
@@ -65,6 +66,7 @@
 <!--SR:!2026-10-30,4,270-->
 ![[Scapula Anatomi 1]]E?:: Angulus superior
 ![[Scapula Anatomi 1]]F?:: Anhulus lateralis
+<!--SR:!2026-10-29,3,250-->
 ![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
 <!--SR:!2026-10-27,4,270-->
 ![[Scapula Anatomi 1]]H?:: Collum scapulae

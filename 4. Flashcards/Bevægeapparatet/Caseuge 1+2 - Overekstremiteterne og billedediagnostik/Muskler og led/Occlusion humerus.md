@@ -1,5 +1,6 @@
 #flashcards/5/Bevægeapparatet 
 
+![[humerus anatomi 1.png]]
 
 ![[Humerus anatomi 1]]A?:: Collum anatomicum
 <!--SR:!2026-10-27,1,210-->
@@ -41,7 +42,7 @@
 <!--SR:!2026-11-07,12,270-->
 ![[Humerus anatomi 1]]W?:: Humerus anteriort
 <!--SR:!2026-10-27,4,270-->
-![[Humerus anatomi 1]]v?:: Extremitas proximalis
+![[Humerus anatomi 1]]Z?:: Extremitas proximalis
 ![[Humerus anatomi 1]]Y?:: Corpus humeri
 <!--SR:!2026-10-27,4,270-->
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
