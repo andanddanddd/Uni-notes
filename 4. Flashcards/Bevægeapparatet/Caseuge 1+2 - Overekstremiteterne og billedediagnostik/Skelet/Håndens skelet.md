@@ -64,3 +64,4 @@
 ![[Hånd(knogler) anatomi 2]]J?:: Index
 <!--SR:!2026-10-27,4,270-->
 ![[Hånd(knogler) anatomi 2]]K?:: Pollex
+<!--SR:!2026-10-29,3,250-->

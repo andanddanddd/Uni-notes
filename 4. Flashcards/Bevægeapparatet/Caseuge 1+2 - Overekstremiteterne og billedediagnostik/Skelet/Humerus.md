@@ -13,6 +13,7 @@
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
 <!--SR:!2026-10-27,4,270-->
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
+<!--SR:!2026-10-27,1,230-->
 ##### Proximal extremitet
 - Hvad kaldes ledfladen på den proximale ekstremitet af humerus?:: [[Caput humeri]]
 - Hvad kaldes indsnørringen der afgrænser caput humeri?:: Collum anatomicum
@@ -29,6 +30,7 @@
 	- Hvor på den distale ekstremitet af humerus findes [[Condylus humeri]]?:: I midten
 <!--SR:!2026-10-30,4,270-->
 - Hvad kaldes de 2 fremspring på den distale ekstremitet af humerus?:: Epicondylus medialis/lateralis
+<!--SR:!2026-10-30,4,270-->
 - Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea
 <!--SR:!2026-10-28,2,230-->
 - Hvad hedder fordybningen på bagsiden af den distale ekstremitet af humerus?:: Fossa olecrani

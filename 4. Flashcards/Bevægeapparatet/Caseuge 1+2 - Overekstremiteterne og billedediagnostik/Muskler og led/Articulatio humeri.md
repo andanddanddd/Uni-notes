@@ -7,6 +7,7 @@
 
 ### Ledflader
 - Hvilke ledflader danner articulatio humeri?:: [[Caput humeri]] og [[Cavitas glenoidalis]]
+<!--SR:!2026-10-30,4,270-->
 
 ### Ledets strukture
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale

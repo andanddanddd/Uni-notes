@@ -15,6 +15,7 @@
 
 ### Insertion
 - Hvor har m. teres minor insertion?:: Nederst (og bagerts) på tuberculum majoris humeri (se [[Humerus]])
+<!--SR:!2026-10-29,3,250-->
 
 ### Funktion
 

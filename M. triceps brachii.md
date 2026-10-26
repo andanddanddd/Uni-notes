@@ -17,6 +17,7 @@
 - Caput mediale
 
 - Hvor udspringer caput longum?:: Tuberculum infraglenoidale
+<!--SR:!2026-10-30,4,270-->
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
 <!--SR:!2026-10-29,3,250-->

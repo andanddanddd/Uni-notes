@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. latissimus dorsi overordnet?:: Fra thorax-hoften ud til humerus
 - Hvor dybt ligger m. latissimus dorsi?:: Superficielt
+<!--SR:!2026-10-30,4,270-->
 
 ### Form
 - Hvilken form har m. latissimus dorsi?:: Vifteformet

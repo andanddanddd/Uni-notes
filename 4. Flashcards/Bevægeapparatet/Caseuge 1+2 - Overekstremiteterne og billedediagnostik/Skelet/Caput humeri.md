@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogle sidder caput humeri på?:: [[Humerus]]
+<!--SR:!2026-10-30,4,270-->
 - Hvilken ledflade articulere caput humeri med?:: [[Cavitas glenoidalis]]
 <!--SR:!2026-10-27,4,270-->
 - Hvilken form har caput humeri?:: Halvkugleformet

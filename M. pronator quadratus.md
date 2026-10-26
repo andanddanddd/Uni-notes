@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. pronator quadratus?:: Distalt på [[Ulna]]s forflade
+<!--SR:!2026-10-27,1,230-->
 
 ### Insertion
 - Hvor har m. pronator quadratus insertion?:: Distalt på [[Radius]] forflade
