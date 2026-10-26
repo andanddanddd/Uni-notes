@@ -14,6 +14,7 @@
 
 ### Funktion
 - Hvilken funktion har m. rhomboideus?:: Løfte, indadrotere og adducere skulderen
+<!--SR:!2026-10-30,4,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

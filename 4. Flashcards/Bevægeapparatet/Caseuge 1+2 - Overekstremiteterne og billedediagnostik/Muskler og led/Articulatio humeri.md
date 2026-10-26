@@ -18,6 +18,7 @@
 - Flekstion-ekstenstion
 - Abduction-adduction
 - Indadrotation-udadrotation
+<!--SR:!2026-10-30,4,270-->
 
 ### Klinik
 

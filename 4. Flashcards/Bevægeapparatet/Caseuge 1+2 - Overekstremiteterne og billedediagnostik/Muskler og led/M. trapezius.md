@@ -3,9 +3,11 @@
 
 ### Lokation
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
+<!--SR:!2026-10-30,4,270-->
 - Hvor dybt ligger m. trapezius?:: Superficielt
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
+<!--SR:!2026-10-30,4,270-->
 ### Udspring
 - Hvor udspringer m. trapezius overordnet fra?:: Os. occipitale samt rygraden
 - Hvor udspringer m. trapezius fra? (de specifikke strukture)
@@ -34,8 +36,11 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. trapezius?:: [[N. accesorius]]
+<!--SR:!2026-10-30,4,270-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik
 - Hvad sker med skulderens hvilepotition hvis m. trapezius lammes?:: Den falder nedad og fremad
+<!--SR:!2026-10-30,4,270-->
 - Hvilke bevægelser er svære/umuglige at lave hvis m. trapezius lammes?:: Udadrotation samt løft over hovedet
+<!--SR:!2026-10-30,4,270-->

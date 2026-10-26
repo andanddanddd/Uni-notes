@@ -6,6 +6,7 @@
 
 ### Form
 - Hvilken form har m. pectoralis minor?:: Flad trekant
+<!--SR:!2026-10-29,3,250-->
 
 ### Udspring
 - Hvor har m. pectoralis minor udspring?:: 3 takker på overkanten af costalis 3-5

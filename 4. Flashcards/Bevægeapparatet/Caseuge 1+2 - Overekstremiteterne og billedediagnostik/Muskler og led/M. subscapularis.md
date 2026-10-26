@@ -7,6 +7,7 @@
 
 ### Form
 - Hvilken form har m. subscapularis?:: Tyk, multipennant, vifteformet
+<!--SR:!2026-10-27,1,230-->
 
 ### Udspring
 - Hvor udspringer m. subscapularis?:: [[Scapula]]s forflade

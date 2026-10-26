@@ -4,6 +4,7 @@
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
 - Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)
 - Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
+<!--SR:!2026-10-30,4,270-->
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
 - Hvilke muskler er i 1. lag af underarmens foreste loge?
 ?
@@ -13,6 +14,7 @@
 - [[M. flexor carpi ulnaris]]
 
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
+<!--SR:!2026-10-26,0,230-->
 - Hvilke muskler er i 3. lag af underarmens foreste loge?
 ?
 - [[M. flexor pollicis longu]]

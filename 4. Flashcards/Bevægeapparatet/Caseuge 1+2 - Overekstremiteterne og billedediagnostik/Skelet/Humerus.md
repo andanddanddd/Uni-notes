@@ -17,19 +17,21 @@
 - Hvad kaldes indsnørringen der afgrænser caput humeri?:: Collum anatomicum
 - Hvad hedder de 2 knuder på den proximale extremitet?:: Tuberculum majus/minus
 	- Hvad hedder furen mellem de 2 knuder på den proximale ekstremitet?:: Sulcus intertubercularis
-<!--SR:!2026-10-26,3,250-->
+<!--SR:!2026-11-07,12,270-->
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris humeri
 <!--SR:!2026-10-27,4,270-->
 - Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
-<!--SR:!2026-10-23,0,230-->
+<!--SR:!2026-10-28,2,230-->
 ##### Distal extremitet
 - Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
+<!--SR:!2026-10-30,4,270-->
 	- Hvor på den distale ekstremitet af humerus findes [[Condylus humeri]]?:: I midten
+<!--SR:!2026-10-30,4,270-->
 - Hvad kaldes de 2 fremspring på den distale ekstremitet af humerus?:: Epicondylus medialis/lateralis
 - Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea
-<!--SR:!2026-10-26,3,250-->
+<!--SR:!2026-10-28,2,230-->
 - Hvad hedder fordybningen på bagsiden af den distale ekstremitet af humerus?:: Fossa olecrani
-<!--SR:!2026-10-24,1,230-->
+<!--SR:!2026-10-29,3,250-->
 
 ### Relationer
 #### Led

@@ -12,7 +12,7 @@ Man måler vist på hvornår spin vender tilabge til uordnet
 - Kig på galdegange
 - Crohns
 - Fistualser
-<!--SR:!2026-10-24,2,230-->
+<!--SR:!2026-10-31,5,230-->
 
 - Hvornår må MRI ikke laves?:: Når pt har implantationer
 <!--SR:!2026-11-02,14,290-->

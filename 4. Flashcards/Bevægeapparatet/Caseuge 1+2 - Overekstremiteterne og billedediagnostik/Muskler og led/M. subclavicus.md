@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor dybt ligger m. subclavicus?:: Temmelig superficielt med under [[M. pectoralis major]]
+<!--SR:!2026-10-29,3,250-->
 
 ### Form
 - Hvilken form har m. subclavicus?:: Lille tenformet

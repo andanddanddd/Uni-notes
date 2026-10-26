@@ -5,9 +5,11 @@
 
 ### Form
 - Hvilken form har m. teres major?:: Tyk aflang
+<!--SR:!2026-10-30,4,270-->
 
 ### Udspring
 - Hvor udspringer m. teres major?:: Nederste del af [[Scapula]]s lateralkant
+<!--SR:!2026-10-27,1,230-->
 
 ### Insertion
 - Hvor har m. teres major insertion?:: Crista tuberculi minoris (se [[Humerus]])

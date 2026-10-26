@@ -13,6 +13,7 @@
 ?
 - [[Facies articularis acrominalis]]
 - [[Facies articularis sternalis]]
+<!--SR:!2026-10-30,4,270-->
 
 ### Relationer
 #### Led
@@ -35,5 +36,6 @@
 
 ### Occlusion
 ![[Clavicula anatomi 1]]A?:: Facies articularis acromialis
+<!--SR:!2026-10-30,4,270-->
 ![[Clavicula anatomi 1]]B?:: Facies articularis sternalis
-<!--SR:!2026-10-24,1,230-->
+<!--SR:!2026-10-29,3,250-->
