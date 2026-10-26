@@ -15,7 +15,7 @@
 - Hvor har m. extensor carpi ulnaris insertion?:: Basis af os metacarpale V (lillefinger)
 
 ### Funktion
-- Hvilke bevægelser udfører m. extensor carpi ulnaris?:: Ekstension og ulnarflektion af håndledet
+- Hvilke bevægelser udfører m. extensor carpi ulnaris?:: Ekstension og ulnarflektion (adduction) af håndledet, derudover har den en stabiliserende effekt af håndledet i forhold til [[Ulna]]
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

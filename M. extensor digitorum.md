@@ -2,7 +2,7 @@
 
 
 ### Lokation
-- Hvor er m. extensor digitorum overordnet?:: Dorsalt på underarmen
+- Hvor er m. extensor digitorum overordnet?:: Dorsalt på underarmen (centralt)
 - Hvor dybt ligger m. extensor digitorum?:: Superficielt
 
 ### Form
@@ -16,6 +16,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum?:: Ekstension af de 4 ulanre fingre samt håndled
+- Hvad hedder senerne der forbidner senerne fra m. extensor digitorum?:: [[Connexus intertendinei]]
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

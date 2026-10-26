@@ -9,7 +9,7 @@
 - Hvilken form har m. supinator?
 
 ### Udspring
-- Hvor udspringer m. supinator?:: Epicondulus lateralis 
+- Hvor udspringer m. supinator?:: Et hoved fra
 
 ### Insertion
 - Hvor har m. supinator insertion?:: [[Radius]] lateralflade

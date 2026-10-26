@@ -6,7 +6,7 @@
 - Hvor dybt ligger m. anconeus?:: Superficielt
 
 ### Form
-- Hvilken form har m. anconeus?
+- Hvilken form har m. anconeus?:: Lille trekantet
 
 ### Udspring
 - Hvor udspringer m. anconeus?:: Epicondulys lateralis
@@ -15,7 +15,7 @@
 - Hvor har m. anconeus insertion?:: Proximalt på [[Ulna]]s bagkant
 
 ### Funktion
-- Hvilke bevægelser udfører m. anconeus?:: Ekstension af albueledet (svag)
+- Hvilke bevægelser udfører m. anconeus?:: Ekstension af albueledet (svag) samt stabilisering af radiohumealledet
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
