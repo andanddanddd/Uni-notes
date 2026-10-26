@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articulatio cubiti.md",
+                "file": "Capitulum humeri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articulatio cubiti"
+              "title": "Capitulum humeri"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articulatio cubiti.md",
+                "file": "Capitulum humeri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,13 +232,18 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "Albuen.md",
     "Articulatio cubiti.md",
+    "Capitulum humeri.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Radius.md",
+    "Albuen.md",
+    "Insicura trochlea ulnae.md",
+    "Trochlea humeri.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Condylus humeri.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
     "Excalidraw/Bevægeapparatet/Skelet/Humerus anatomi 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion humerus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Humerus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. pronator quadratus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor digitorum profundus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor pollicis longu.md",
@@ -253,12 +258,7 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. brachialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. coracobrachialis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. biceps brachii.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Lateral skuldergrupe (skulder).md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermuskler 2.png",
-    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske rygmuskler 1.md",
-    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md",
-    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 2.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermsukler 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskler 3.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskler 2.png",
