@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion overarm 1.md",
+                "file": "Occlusion albue 1+2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Occlusion overarm 1"
+              "title": "Occlusion albue 1+2"
+            }
+          },
+          {
+            "id": "5c7c7fe5e57908ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Led/Albue anatomi 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Albue anatomi 1"
+            }
+          },
+          {
+            "id": "be2d798fe0c995d0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Overarm muskler 2"
             }
           },
           {
@@ -44,7 +68,8 @@
               "title": "Overarm muskler 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -141,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Occlusion overarm 1.md",
+                "file": "Excalidraw/Bevægeapparatet/Led/Albue anatomi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,20 +277,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "5c7c7fe5e57908ff",
   "lastOpenFiles": [
+    "Occlusion albue 1+2.md",
+    "Excalidraw/Bevægeapparatet/Led/Albue anatomi 1.md",
+    "Excalidraw/Bevægeapparatet/Led",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Albuen.md",
+    "albue anatomi 1.png",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "Occlusion overarm 2.md",
+    "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 2.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Overarmen.md",
+    "overarm muskler 2.png",
+    "Occlusion overarm 1.md",
     "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 1.md",
     "overarm muskler 1.png",
     "Pasted Image 20261026115142_538.png",
-    "Occlusion overarm 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Overarmen.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Trochlea humeri.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Discus articularis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Retinaculum extensorum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Articulatio cubiti.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Albuen.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor indicis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. abductor pollicis longus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. supinator.md",
@@ -278,9 +310,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. brachioradialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. pollici longus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. pollicis brevis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor carpi radialis brevis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi radialis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor pollicis longus.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermuskler 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermsukler 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskler 3.png",
@@ -289,16 +318,13 @@
     "Excalidraw/Bevægeapparatet/Muskler",
     "Excalidraw/Bevægeapparatet/Skelet",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske rygmuskler 1.png",
-    "Pasted image 20261023122305.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/scapula anatomi 4.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne",
     "Excalidraw/Bevægeapparatet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
-    "Externe dokumenter/Bevægeapparatet/billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Untitled.canvas"
   ]
 }

@@ -17,5 +17,6 @@
 - Hvad heder overarmens bagerste muskel?:: [[M. triceps brachii]]
 
 ![[overarm muskler 1.png|700]]
-
+![[overarm muskler 2.png]]
 [[Occlusion overarm 1]]
+[[Occlusion overarm 2]]
