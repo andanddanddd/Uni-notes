@@ -4,5 +4,5 @@
 - Hvad hedder albueledet på latin?:: [[Articulatio cubiti]]
 
 ![[albue anatomi 1.png]]
-
+![[albue anatomi 2.png]]
 [[Occlusion albue 1+2]]

@@ -29,6 +29,9 @@
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
 
+#### Occlusion
+[[Underam foran superficiel]]
+
 ### Knogler til ekstention
 - Hvilke muskler er i den radiale superficielle extensorgruppe?
 ?
