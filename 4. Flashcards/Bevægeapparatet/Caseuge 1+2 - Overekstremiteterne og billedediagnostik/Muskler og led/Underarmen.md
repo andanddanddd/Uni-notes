@@ -53,10 +53,12 @@
 ?
 - [[M. supinator]]
 - [[M. abductor pollicis longus]]
-- [[M. pollicis brevis]]
-- [[M. pollici longus]]
+- [[M. extensor pollicis brevis]]
+- [[M. extensor pollici longus]]
 - [[M. extensor indicis]]
 
 #### Occlusion
 [[Occlusion - underarm bagved superficiel]]
 [[Occlusion - underarm bagved dyb]]
+[[Occlusion radial extensorgruppe]]
+[[Occlusion - sener i hånd]]
