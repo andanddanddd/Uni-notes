@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. abductor pollicis longus.md",
+                "file": "M. extensor indicis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "M. abductor pollicis longus"
+              "title": "M. extensor indicis"
             }
           }
         ]
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M. abductor pollicis longus.md",
+                "file": "M. extensor indicis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,6 +243,9 @@
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
+    "M. extensor indicis.md",
+    "M. pollici longus.md",
+    "M. pollicis brevis.md",
     "M. abductor pollicis longus.md",
     "M. supinator.md",
     "M. extensor digiti minimi.md",
@@ -265,9 +268,6 @@
     "Ligamentum collaterale radiale.md",
     "Ligamentum collaterale ulnare.md",
     "Ligamentum anulare radii.md",
-    "Capitulum humeri.md",
-    "Fovea articularis capitis radii.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Radius.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermuskler 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermsukler 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/overfladiske brystmuskler 3.png",
