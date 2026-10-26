@@ -12,6 +12,7 @@
 - Hvad hedder indsnørringen under caput radii?:: Collum radii
 <!--SR:!2026-10-27,4,270-->
 - Hvad kaldes knuden distalt for collum radii?:: tuberositas radii
+<!--SR:!2026-10-29,3,250-->
 - Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii
 
 ### Relationer

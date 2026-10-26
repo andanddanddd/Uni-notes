@@ -19,6 +19,7 @@
 - Hvor udspringer caput longum?:: Tuberculum infraglenoidale
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
+<!--SR:!2026-10-29,3,250-->
 
 ### Insertion
 - Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])

@@ -6,6 +6,7 @@
 
 ![[Overfladiske brystmuskler 1]]A?:: [[M. deltoideus]]
 ![[Overfladiske brystmuskler 1]]B?:: [[M. coracobrachialis]]
+<!--SR:!2026-10-27,1,230-->
 ![[Overfladiske brystmuskler 1]]C?:: [[M. triceps brachii]]
 ![[Overfladiske brystmuskler 1]]D?:: Caput longum/breve
 ![[Overfladiske brystmuskler 1]]E?:: [[M. serratus ant]]
