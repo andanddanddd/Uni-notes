@@ -12,12 +12,14 @@
 ### Udspring
 
 - Hvad hedder de 2 sener som m. biceps brachii udspringer med?:: caput breve og caput longum
+<!--SR:!2026-10-29,3,250-->
 - Hvor udspringer caput breve?:: Processus corocoideus (se [[Scapula]])
 - Hvor udspringer caput longum henne?:: Tuberculum supraglenoidale (se [[Scapula]])
 <!--SR:!2026-10-29,3,250-->
 
 ### Insertion
 - Hvad hedder de 2 sener som biceps bruger til insertion?:: Bicepssenen og bicepsaponeurosen
+<!--SR:!2026-10-27,1,230-->
 - Hvor har bicepssene insertion?:: Tuberositas radii (se [[Radius]])
 - Hvor har bicepsaponeurosen insertion?:: Fascia antebrachii
 - Hvilken sene til insertion?:: Bicepssenen (dvs den til radius)

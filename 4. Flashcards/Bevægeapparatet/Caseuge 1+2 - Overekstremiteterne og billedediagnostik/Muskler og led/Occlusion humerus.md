@@ -29,7 +29,9 @@
 ![[Humerus anatomi 1]]O?:: Margo anterior
 <!--SR:!2026-11-06,11,270-->
 ![[Humerus anatomi 1]]P?:: Margo lateralis
+<!--SR:!2026-10-29,3,250-->
 ![[Humerus anatomi 1]]Q?:: Fossa coronoidea
+<!--SR:!2026-10-27,1,230-->
 ![[Humerus anatomi 1]]R?:: Fossa olecrani
 <!--SR:!2026-10-27,4,270-->
 ![[Humerus anatomi 1]]S?:: Epicondylus medialis
@@ -47,4 +49,4 @@
 <!--SR:!2026-10-27,4,270-->
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
 <!--SR:!2026-10-30,4,270-->
-![[Humerus anatomi 1]]Q?:: Humerus posteriort
+![[Humerus anatomi 1]]Æ?:: Humerus posteriort

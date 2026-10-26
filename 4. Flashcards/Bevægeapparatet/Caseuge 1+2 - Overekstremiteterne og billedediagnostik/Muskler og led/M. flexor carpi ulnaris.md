@@ -14,6 +14,7 @@
 
 ### Insertion
 - Hvor har m. felxor carpi ulnaris insertion?:: [[Os pisiforme]] samt basis af os metacaple V
+<!--SR:!2026-10-29,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor carpi ulnaris?

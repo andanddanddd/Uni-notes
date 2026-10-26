@@ -17,6 +17,7 @@
 ##### 1
 ![[Underarmsknogler anatomi 1]]A?:: Margo anterior
 ![[Underarmsknogler anatomi 1]]B?:: Margo interosseus
+<!--SR:!2026-10-30,4,270-->
 ![[Underarmsknogler anatomi 1]]C?:: Membrana interossea
 ![[Underarmsknogler anatomi 1]]D?:: Margo posterior
 <!--SR:!2026-11-06,11,270-->
@@ -40,6 +41,7 @@
 ![[Underarmsknogler anatomi 2]]I?:: Collum radii
 <!--SR:!2026-10-27,4,270-->
 ![[Underarmsknogler anatomi 2]]J?:: Tuberositas radii
+<!--SR:!2026-10-30,4,270-->
 ![[Underarmsknogler anatomi 2]]K?:: Margo interosseus
 <!--SR:!2026-10-29,3,250-->
 ![[Underarmsknogler anatomi 2]]L?:: Margo posterior

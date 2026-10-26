@@ -13,9 +13,11 @@
 
 ### Insertion
 - Hvor har m. palmaris longus insertion?:: Aponeurosis palmaris
+<!--SR:!2026-10-30,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. palmaris longus?:: Flektion af håndledet
+<!--SR:!2026-10-29,3,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

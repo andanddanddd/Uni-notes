@@ -7,11 +7,13 @@
 
 ### Form
 - Hvilken form har m. subclavicus?:: Lille tenformet
+<!--SR:!2026-10-29,3,250-->
 
 ### Udspring
 - Hvor har m. subclavicus udspring?:: 1. ribben
 ### Insertion
 - Hvor har m. subclavicus insersion?:: [[Clavicula]]
+<!--SR:!2026-10-30,4,270-->
 
 ### Funktion
 - Hvilken funktion har m. subclavicus?:: Trække [[Clavicula]] medialt nedad

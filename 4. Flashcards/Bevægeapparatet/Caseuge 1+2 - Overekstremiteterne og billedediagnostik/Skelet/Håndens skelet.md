@@ -22,6 +22,7 @@
 ![[Hånd(knogle) anatomi 1]]D?:: Phalanz distalis
 <!--SR:!2026-10-27,4,270-->
 ![[Hånd(knogle) anatomi 1]]E?:: Phalanx media
+<!--SR:!2026-10-30,4,270-->
 ![[Hånd(knogle) anatomi 1]]F?:: Phalanx proximalis
 <!--SR:!2026-10-27,4,270-->
 ![[Hånd(knogle) anatomi 1]]G?:: Phalanx distalis

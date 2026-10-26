@@ -20,6 +20,7 @@
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
 - Hvad er linea nuchalis sup. overordnet?:: En linje (fremspring) på [[Os. occipitale]]
+<!--SR:!2026-10-30,4,270-->
 
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
 - Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os. occipitale]]
