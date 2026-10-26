@@ -7,6 +7,7 @@
 ?
 - Bevæge skulderledet
 - Stabilitet
+<!--SR:!2026-10-30,4,270-->
 
 - Hvad hedder de 6 muskler i skulderens laterale muskelgruppe?
 ?

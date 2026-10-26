@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad hedder radius på dansk?:: Spolebenet
+<!--SR:!2026-10-29,3,250-->
 
 #### Placering og orientering
 #### Form og størrelse

@@ -5,6 +5,7 @@
 - [[Håndroden]]
 - [[Mellemhåndsknoglerne]]
 - [[Fingrene (skelet)]]
+<!--SR:!2026-10-30,4,270-->
 
 ![[hånd(knogle) anatomi 1.png]]
 ![[hånd(knogler) 2.png]]
@@ -26,6 +27,7 @@
 ![[Hånd(knogle) anatomi 1]]G?:: Phalanx distalis
 <!--SR:!2026-10-29,3,250-->
 ![[Hånd(knogle) anatomi 1]]H?:: Phalanz proximalis
+<!--SR:!2026-10-30,4,270-->
 ![[Hånd(knogle) anatomi 1]]I?:: Ossa sesamoidea
 <!--SR:!2026-10-30,4,270-->
 ![[Hånd(knogle) anatomi 1]]J?:: Ulna
@@ -38,6 +40,7 @@
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
 <!--SR:!2026-10-28,2,210-->
 ![[Hånd(knogle) anatomi 1]]4?:: Os pisiforme
+<!--SR:!2026-10-30,4,270-->
 ![[Hånd(knogle) anatomi 1]]5?:: Os trapezium
 <!--SR:!2026-11-02,7,250-->
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum

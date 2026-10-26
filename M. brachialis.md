@@ -11,6 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. brachialis?:: Forfladen af den nederste halvdel af [[Humerus]]
+<!--SR:!2026-10-29,3,250-->
 
 ### Insertion
 - Hvor har m. brachialis insertion?:: Tuberositas ulnae på processus coronoideus (se [[Ulna]])

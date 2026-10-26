@@ -6,6 +6,7 @@
 - Hvor er m. coracobrachialis overordnet?:: Ovenpå overarmen
 <!--SR:!2026-10-30,4,270-->
 - Hvor dybt ligger m. coracobrachialis?:: Superficielt
+<!--SR:!2026-10-30,4,270-->
 
 ### Form
 - Hvilken form har m. coracobrachialis?

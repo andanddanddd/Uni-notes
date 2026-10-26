@@ -14,6 +14,7 @@
 1. Basis
 2. Corpus
 3. Caput
+<!--SR:!2026-10-30,4,270-->
 
 - Hvad hedder de 5 fingre på latin, fra tommelfinger til lillefinger?
 ?
