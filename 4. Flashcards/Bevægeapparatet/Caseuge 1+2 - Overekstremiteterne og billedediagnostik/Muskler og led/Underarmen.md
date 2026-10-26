@@ -8,6 +8,8 @@
 - Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
 <!--SR:!2026-10-30,4,270-->
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
+- Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
+- Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
 
 ### Knogler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?

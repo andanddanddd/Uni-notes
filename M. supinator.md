@@ -9,7 +9,7 @@
 - Hvilken form har m. supinator?
 
 ### Udspring
-- Hvor udspringer m. supinator?:: Et hoved fra
+- Hvor udspringer m. supinator?:: Et hoved fra epicondylus lateralis+[[Ligamentum collaterale radiale]] og et hoved fra proximale [[Ulna]]
 
 ### Insertion
 - Hvor har m. supinator insertion?:: [[Radius]] lateralflade
