@@ -30,7 +30,9 @@
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
 
 #### Occlusion
-[[Underam foran superficiel]]
+[[Occlusion - Underam foran superficiel]]
+[[Occlusion - Underarm foran lag 2]]
+[[Occlusion - Underarm foran lag 3+4]]
 
 ### Knogler til ekstention
 - Hvilke muskler er i den radiale superficielle extensorgruppe?
@@ -54,3 +56,7 @@
 - [[M. pollicis brevis]]
 - [[M. pollici longus]]
 - [[M. extensor indicis]]
+
+#### Occlusion
+[[Occlusion - underarm bagved superficiel]]
+[[Occlusion - underarm bagved dyb]]

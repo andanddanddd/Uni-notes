@@ -14,12 +14,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Underam foran superficiel.md",
+                "file": "Occlusion - underarm bagved dyb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Underam foran superficiel"
+              "title": "Occlusion - underarm bagved dyb"
+            }
+          },
+          {
+            "id": "bea5754eb4320299",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underarm bagved 1"
+            }
+          },
+          {
+            "id": "c57f88f7a57d9d75",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underarm foran 3"
+            }
+          },
+          {
+            "id": "6cc8062eb2873091",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underarm foran 2"
             }
           }
         ]
@@ -119,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Underam foran superficiel.md",
+                "file": "Occlusion - underarm bagved dyb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,10 +268,20 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 1.md",
-    "Underam foran superficiel.md",
-    "underarm foran superficel.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
+    "Occlusion - underarm bagved dyb.md",
+    "Occlusion - underarm bagved superficiel.md",
+    "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 1.md",
+    "underarm bagved 1.png",
+    "Occlusion - Underarm foran lag 2.md",
+    "Occlusion - Underam foran superficiel.md",
+    "Occlusion - Underarm foran lag 3+4.md",
+    "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 3.md",
+    "underarm foan 3.png",
+    "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 2.md",
+    "underarm foran 2.png",
+    "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 1.md",
+    "underarm foran superficel.png",
     "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 1.md",
     "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 2.md",
     "Excalidraw/Bevægeapparatet/Led/Albue anatomi 2.md",
@@ -254,20 +300,11 @@
     "albue anatomi 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Overarmen.md",
     "overarm muskler 2.png",
-    "overarm muskler 1.png",
-    "Pasted Image 20261026115142_538.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Trochlea humeri.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Discus articularis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Retinaculum extensorum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Articulatio cubiti.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor indicis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. abductor pollicis longus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. supinator.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. anconeus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor carpi ulnaris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor digiti minimi.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor digitorum.md",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/skuldermuskler 2.png",
     "Excalidraw/Bevægeapparatet/Muskler",
     "Excalidraw/Bevægeapparatet/Skelet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led",
