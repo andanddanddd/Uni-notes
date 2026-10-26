@@ -1,4 +1,4 @@
-#flashcards/5/Bevægeapparatet [[Radius]]
+#flashcards/5/Bevægeapparatet 
 
 
 - Hvad hedder de 3 "subled" albueledet består af?
@@ -20,6 +20,11 @@
 - Hvilke ledflader består articulatio humeroradialis af?:: [[Capitulum humeri]] og [[Fovea articularis capitis radii]]
 
 ### Ledets strukture
+- Hvad hedder ligamentet der holder radius fast under pronation/supination?:: [[Ligamentum anulare radii]]
+- Hvad hedder de 2 ligamenter på siderne har albueledet?
+?
+- [[Ligamentum collaterale ulnare]]
+- [[Ligamentum collaterale radiale]]
 
 ### Funktion
 - Hvilke frihedsgrader har albueledet?:: Fleksion-ekstension, supination-pronation
