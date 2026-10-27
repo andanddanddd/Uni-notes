@@ -31,7 +31,7 @@ T2 er god til væske (ødemer, eller betændelse)
 	Der er mere end T1 og T2 de er bare det mest benyttede
 		Man kan se det lidt som vinduer ved CT
 T1 er god til anatomi
-
+![[Billeddiagonstik af bevægeapparatet]]
 
 ![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
 
@@ -39,7 +39,7 @@ T1 er god til anatomi
 
 ![[MRI]]
 
-[[Ultralyd]]
+![[Ultralyd]]
 
 
 

@@ -8,7 +8,7 @@ Kamarametoder kan kun se mucosa
 
 ![[Capsulær endoskopi]]
 
-![[Ultralyd af abdomen]]
+![[Ultralyd]]
 
 ![[Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST]]
 
