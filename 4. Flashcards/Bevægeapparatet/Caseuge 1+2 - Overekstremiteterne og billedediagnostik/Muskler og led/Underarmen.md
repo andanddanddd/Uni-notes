@@ -10,6 +10,7 @@
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
 <!--SR:!2026-10-31,4,270-->
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
+<!--SR:!2026-10-28,1,230-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
 
 ### Knogler til flektion

@@ -51,7 +51,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker længevækst af humerus?:: Proximale
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-10,14,290-->
 ### Inspektion og palpation
 ### Klinik
 

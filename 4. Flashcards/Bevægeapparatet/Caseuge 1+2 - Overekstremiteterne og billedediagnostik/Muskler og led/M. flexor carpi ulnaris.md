@@ -17,7 +17,7 @@
 <!--SR:!2026-10-29,3,250-->
 
 ### Funktion
-- Hvilke bevægelser udfører m. felxor carpi ulnaris?:: Fleksion og abduction (ulnarfelksion) af håndledet og ulnarfe
+- Hvilke bevægelser udfører m. felxor carpi ulnaris?:: Fleksion og abduction (ulnarfelksion) af håndledet 
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

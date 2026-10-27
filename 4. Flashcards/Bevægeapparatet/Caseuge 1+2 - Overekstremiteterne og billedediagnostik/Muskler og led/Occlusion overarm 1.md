@@ -10,5 +10,6 @@
 ![[Overarm muskler 1]]F (M. biceps brachii-)?:: Aponeurosis
 ![[Overarm muskler 1]]G (M. biceps brachii-)?:: Caput longum
 ![[Overarm muskler 1]]H (M. biceps brachii-)?:: Caput breve
+<!--SR:!2026-10-31,4,270-->
 
 

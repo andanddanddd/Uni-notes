@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor har m. pectoralis minor udspring?:: 3 takker på overkanten af costalis 3-5
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-29,2,230-->
 
 ### Insertion
 - Hvor har m. pectoralis minor insersion?:: proccesus carocoideus scapulae (se [[Scapula]])

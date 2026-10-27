@@ -13,6 +13,7 @@
 <!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
 ![[Humerus anatomi 1]]F?:: Margo lateralis
+<!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis
 <!--SR:!2026-10-29,3,250-->
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
@@ -32,9 +33,9 @@
 ![[Humerus anatomi 1]]P?:: Margo lateralis
 <!--SR:!2026-10-29,3,250-->
 ![[Humerus anatomi 1]]Q?:: Fossa coronoidea
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-30,3,250-->
 ![[Humerus anatomi 1]]R?:: Fossa olecrani
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,15,290-->
 ![[Humerus anatomi 1]]S?:: Epicondylus medialis
 <!--SR:!2026-10-28,2,230-->
 ![[Humerus anatomi 1]]T?:: Trochlea humeri

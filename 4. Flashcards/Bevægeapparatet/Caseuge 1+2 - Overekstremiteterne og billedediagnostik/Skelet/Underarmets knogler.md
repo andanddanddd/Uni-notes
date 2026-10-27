@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder underarmet 2 knogler?:: [[Radius]] og [[Ulna]]
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-08,12,270-->
 - Hvilken underarmsknogle er længst?:: Ulna
 <!--SR:!2026-10-27,4,270-->
 - Hvad hedder membranen der forbidner de 2 underarmsknogler?:: Membrana interossea
@@ -52,5 +52,6 @@
 ![[Underarmsknogler anatomi 2]]N?:: Processus styloideus radii
 <!--SR:!2026-10-29,3,250-->
 ![[Underarmsknogler anatomi 2]]O?:: Processus coronoideus
+<!--SR:!2026-10-30,3,250-->
 ![[Underarmsknogler anatomi 2]]P?:: Tuberositas ulnae
 <!--SR:!2026-10-30,4,270-->

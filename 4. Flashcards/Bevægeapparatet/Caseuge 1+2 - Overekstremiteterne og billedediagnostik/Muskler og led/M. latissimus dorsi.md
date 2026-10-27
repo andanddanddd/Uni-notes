@@ -23,6 +23,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan m. latissimus dorsi udføre på armen?:: Adduction, extension og indadrotation
+<!--SR:!2026-10-31,4,270-->
 - Hvilken effekt har m. latissimus dorsi ved fikseret overkrop?:: Løfter underkroppen
 <!--SR:!2026-10-30,4,270-->
 

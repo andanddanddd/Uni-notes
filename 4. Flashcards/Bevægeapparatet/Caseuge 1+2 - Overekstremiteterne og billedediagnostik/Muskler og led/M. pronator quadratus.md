@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. pronator quadratus overordnet?:: Foreste loge af underarmen (distalt)
 - Hvor dybt ligger m. pronator quadratus?:: Dybt (lag 4)
+<!--SR:!2026-10-30,3,250-->
 
 ### Form
 - Hvilken form har m. pronator quadratus?
@@ -14,6 +15,7 @@
 
 ### Insertion
 - Hvor har m. pronator quadratus insertion?:: Distalt på [[Radius]] forflade
+<!--SR:!2026-10-31,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator quadratus?:: Pronation

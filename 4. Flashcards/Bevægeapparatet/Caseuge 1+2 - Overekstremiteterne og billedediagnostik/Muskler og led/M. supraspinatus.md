@@ -11,6 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. supraspinatus?:: Fossa supraspinata (se [[Scapula]])
+<!--SR:!2026-10-30,3,250-->
 
 ### Insertion
 - Hvor har m. supraspinatus insertion?:: Øvertse del af tuberculum majoris humeri (se [[Humerus]])
