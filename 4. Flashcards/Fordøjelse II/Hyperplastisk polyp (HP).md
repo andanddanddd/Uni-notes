@@ -9,4 +9,4 @@
 - Hvordan opdages HP oftest?:: Tilfældigt
 <!--SR:!2026-10-24,4,270-->
 - Hvorfor går der typisk lang tid før HP opdages?:: Den forårsager ikke blødning
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->

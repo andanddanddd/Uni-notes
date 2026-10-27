@@ -9,7 +9,7 @@
 - Hvilke antimetika påvirker Brækcenteret?:: [[Antikolinge]] og [[H1-receptor-antagonister]]
 <!--SR:!2026-10-29,2,210-->
 - Hvilke antimetika påvirker triggerzonen i bunden af 4. ventrikkel?:: [[Dopamin-receptor-antagonister]] og [[5-HT-receptor-antagonister]]
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - 
 - 
 

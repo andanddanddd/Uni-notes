@@ -7,7 +7,7 @@
 - Hvilken celletype udvikles kolorektal adenom fra?:: Mucosa i colon
 <!--SR:!2026-10-24,4,270-->
 - Hvad kaldes kolorektal adenom også og hvorfor er det indre rigtigt?:: Polypper, men polypper kan også være non-neoplastiske (derfor er kolorektal adenom mere rigtigt)
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-12,16,290-->
 ### Forekomst
 - Hvor (geografisk) ses flest kolorektale adenomer?:: Den vestliige verden
 <!--SR:!2026-10-24,4,270-->
@@ -21,7 +21,7 @@ mangler
 - Hvor meget "stikker" kolorektal adenom ud i lumen?:: Det variere, det kan være fladt
 <!--SR:!2026-10-26,4,270-->
 - Hvad kendetegner fastgørelsen af koloraktal adenom (polyppen) til colon?:: Den kan enten være stilket eller bredbaset (sessil)
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-12,16,290-->
 - Hvad hedder de 3 strukture som kolorektal adenom kan have?
 ?
 - Tubulært adenom
@@ -37,7 +37,7 @@ mangler
 <!--SR:!2026-11-10,14,290-->
 
 - Hvordan ses forskel på kolorektal adenom og hyperplastisk polyp?:: Ved kolorektal adenom ses dysplasi
-<!--SR:!2026-10-23,3,250-->
+<!--SR:!2026-11-08,12,270-->
 ### Klinisk præsentation
 - Hvor stor skal en kolorektal adenom være før den giver symptomer?:: over 10 mm
 <!--SR:!2026-10-24,4,270-->

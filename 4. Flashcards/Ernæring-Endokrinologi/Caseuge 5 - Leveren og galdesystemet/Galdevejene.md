@@ -23,10 +23,10 @@
 ![[Oclussion - Galdevejene]]E:: Ductus hepaticus communis
 <!--SR:!2026-10-27,14,290-->
 ![[Oclussion - Galdevejene]]F:: Ductus cysticus
-<!--SR:!2026-10-25,12,270-->
+<!--SR:!2026-12-11,45,290-->
 ![[Oclussion - Galdevejene]]G:: Plica spiralis
 <!--SR:!2026-10-27,14,290-->
 ![[Oclussion - Galdevejene]]H:: Ductus choleductus
-<!--SR:!2026-10-27,14,290-->
+<!--SR:!2026-12-24,58,310-->
 ![[Oclussion - Galdevejene]]I:: Ductus pancreaticus
 <!--SR:!2026-10-29,16,290-->

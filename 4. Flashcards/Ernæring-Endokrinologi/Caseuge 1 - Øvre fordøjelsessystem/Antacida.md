@@ -15,7 +15,7 @@
 <!--SR:!2026-10-25,3,250-->
 ### Interaktioner
 - Hvilket medikament må ikke gives sammen med antacida?:: [[Sukralfat]]
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvordan er virkningsprofilen af antacida?:: Indtræder hurtigt og forsvinder hurtigt
 <!--SR:!2026-10-24,4,270-->
 ### Klinisk anvendelse

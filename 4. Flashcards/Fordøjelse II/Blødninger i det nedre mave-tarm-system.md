@@ -10,7 +10,7 @@
 ?
 - [[Obstipation]]
 - [[Inflammatory bowel disease (IBD)]]
-<!--SR:!2026-10-25,12,270-->
+<!--SR:!2026-12-12,46,290-->
 
 - Hvad er de hyppigste etiologier til nedre GI blødning?
 ?

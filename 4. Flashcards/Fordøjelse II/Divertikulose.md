@@ -5,7 +5,7 @@
 
 ### Etiologi
 - Hvad er den største risikofaktor til divertikulose og hvorfor?:: Fiberfattig kost, eftersom nedsat tarmmotilitet fører til øget tryk
-<!--SR:!2026-10-23,3,250-->
+<!--SR:!2026-11-08,12,270-->
 
 ### Klinisk præsentation
 

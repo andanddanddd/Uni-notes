@@ -8,7 +8,7 @@
 - [[Sukralfat]]
 - Antibiotika
 - [[Prostaglandinanaloger]]
-<!--SR:!2026-10-24,11,270-->
+<!--SR:!2026-12-08,42,290-->
 
 - Hvornår kan antibiotika bruges som ulcusmiddel?:: Når ulcus skyldes [[Helicobacter pylori]]
 <!--SR:!2026-10-24,4,270-->

@@ -46,7 +46,7 @@ Se [[Inflammatory bowel disease (IBD)]]
 - Hvor meget af tarmen fjernes ved kirugi af krohns?:: Kun det inficerede
 <!--SR:!2026-11-04,16,290-->
 - Hvorfor er man påpaselig med ar resektere tarmen ved crohns?:: Der er risiko for at man til sidst har fjernet for meget så der ikke længere er nok overfladeareal til at garantere nok absorbsion
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-12,16,290-->
 
 - [x] IKke nødvendigvis kontinuerligt
 - [x] Kan være blødig

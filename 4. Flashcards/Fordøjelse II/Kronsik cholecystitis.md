@@ -2,7 +2,7 @@
 
 ### Etiologi
 - Hvad er etiologien bag kronisk cholecystitis?:: Irritation af mukosa grundet galdesten (enten gentagen akut cholecystitis ellers kommer det snigende)
-<!--SR:!2026-10-27,14,290-->
+<!--SR:!2026-12-24,58,310-->
 
 ### Klinisk præsentation
 - Hvilke symptomer har kronisk cholecystitis?

@@ -17,7 +17,7 @@
 - Hvordan behandles øsefagusvericer overordnet?:: Non-selektiv [[beta-blokker]]
 <!--SR:!2026-11-15,24,270-->
 ![[Pasted image 20261008131944.png]]Hvad ses på billedet?:: Normal (rask) øsefagus
-<!--SR:!2026-10-27,14,290-->
+<!--SR:!2026-12-24,58,310-->
 ![[Pasted image 20261008132010.png]]Hvad ses på billedet?:: Øsefagus med vericer (ikke sprunget)
 <!--SR:!2026-12-23,57,310-->
 ![[Pasted image 20261008132037.png]]Hvad ses på billedet?:: Sprunget verice i øsefagus

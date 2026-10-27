@@ -14,9 +14,9 @@
 - Hvor hyppig er kolorektal karcinom?:: 1/20 danskere rammes (20% af alle maligne sygdomme er kolorektal carcinom og det udgør halvdelen af maligne sygdomme i GI)
 <!--SR:!2026-10-24,4,270-->
 - Hvilket køn rammes oftest af kolorektal karcinom?:: Mænd
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-12,16,290-->
 - Hvad er forskellen på colon- og rectum cancer i incidens mellem mænd og kvinder?:: Coloncancer ses hyppigst hos kvinder mens rectumcancer hyppigst ses hos mænd
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->
 ### Etiologi og patogenese
 - Hvor ofte ses "arv" (andre i familien med kolorektal karcinom) ved kolorektal karcinom?:: 20% af tilfælde
 <!--SR:!2026-10-26,4,270-->
@@ -32,7 +32,7 @@
 - Fysisk aktivitet
 - Rygning
 - Alkohol
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->
 
 - Hvilken kost giver øget risiko for kolorecktal karcinom? (og adenom)
 ?
@@ -78,7 +78,7 @@
 - Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T3?:: Gennem tunica muskularis
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvor dybt er kolorektal carcinom ved T4?:: Gennem peritoneum
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T3N1?:: Spredt sig til lymfeknuder
