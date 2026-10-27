@@ -9,7 +9,7 @@
 - [[Viral hepatitis]]
 - Overdose af lægemidler/euforiserende stoffer/alkohol
 - [[Metabolic dysfunction-associated steatohepatitis (MASH)]]
-<!--SR:!2026-10-26,7,250-->
+<!--SR:!2026-11-21,25,270-->
 
 ## Klinisk præsentation
 - Hvilke symptomer og kliniske fund har akut leversygdom?

@@ -14,62 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
+                "file": "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Underarmen"
-            }
-          },
-          {
-            "id": "dbe8894eb815b678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Occlusion overfladiske brystmuskler 1"
-            }
-          },
-          {
-            "id": "328e4e20229b6940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor pollicis brevis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "M. extensor pollicis brevis"
-            }
-          },
-          {
-            "id": "fe49f3550d064bf0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Overfladiske brystmuskler 1"
+              "title": "Computed tomography (CT)"
             }
           }
         ]
@@ -89,6 +39,18 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "6fe5c588929a8565",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - billeddiagnostik_bevaegeapparat_DCA"
             }
           },
           {
@@ -116,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
+                "file": "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -309,8 +271,11 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - Underam foran superficiel.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
+    "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - Underam foran superficiel.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi ulnaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi radialis.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
@@ -342,8 +307,6 @@
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foran 2.png",
     "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 1.md",
     "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 1.md",
-    "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 2.md",
-    "Excalidraw/Bevægeapparatet/Led/Albue anatomi 2.md",
     "underarm foran.png",
     "Pasted image 20261026121134.png",
     "Pasted image 20261026120839.png",
@@ -354,7 +317,6 @@
     "Billeder/Bevægeapparatet/Overekstremiteterne",
     "Excalidraw/Bevægeapparatet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Untitled.canvas"
   ]
 }

@@ -39,7 +39,7 @@ T1 er god til anatomi
 
 ![[MRI]]
 
-[[Ultralys]]
+[[Ultralyd]]
 
 
 

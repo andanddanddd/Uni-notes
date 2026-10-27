@@ -1,5 +1,8 @@
 #flashcards/5/Fordøjelsessystemet-II #flashcards/5/Bevægeapparatet 
 
+- Hvad er CT overordnet?:: Røntgen der rotere om patienten
+- Hvad er en housefiel
+
 - Hvornår bruges CT abdomen?:: Når man skal burges et hurtigt overblik af hele abdomen
 <!--SR:!2026-11-03,15,290-->
 - Hvad kan ses på en CT af abdomen?

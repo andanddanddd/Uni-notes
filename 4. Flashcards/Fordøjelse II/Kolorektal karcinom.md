@@ -50,7 +50,7 @@
 <!--SR:!2026-10-25,3,250-->
 ### Morfologi
 - Hvor i tarmen ses store tumorer (koloraktal carcinom) oftest?:: Ceacum
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->
 ### Klinisk præsentation
 - Hvad kendetegner symptombilledet ved kolorektal carcinom i ceacum?:: Almensymptomer (træthed, feber, vægttab og anæmi)
 <!--SR:!2026-10-24,4,270-->
