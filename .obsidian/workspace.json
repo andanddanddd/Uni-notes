@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 60.47711154094133,
+        "dimension": 39.1452161243322,
         "children": [
           {
             "id": "06e01a4182a74eaa",
@@ -14,84 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion - sener i hånd"
-            }
-          },
-          {
-            "id": "e92608e787cc75ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Sener i hånd.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sener i hånd"
-            }
-          },
-          {
-            "id": "0187edfa6241eb21",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underarm bagved 3"
-            }
-          },
-          {
-            "id": "dcac59173efc9d96",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underarm bagved 2"
-            }
-          },
-          {
-            "id": "bea5754eb4320299",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underarm bagved 1"
-            }
-          },
-          {
-            "id": "c57f88f7a57d9d75",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underarm foran 3"
-            }
-          },
-          {
-            "id": "6cc8062eb2873091",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underarm foran 2"
+              "title": "Forelæsning - Overekstremitetens anatomi"
             }
           }
         ]
@@ -99,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 39.52288845905867,
+        "dimension": 60.85478387566779,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -112,8 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "ab8b6df3aaa6c0e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Systematic anatomy__Tong Tong"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -210,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion humerus.md",
+                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -267,8 +209,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -282,11 +224,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 230.193359375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,11 +241,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "ab8b6df3aaa6c0e7",
   "lastOpenFiles": [
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
     "Excalidraw/Bevægeapparatet/Muskler/Sener i hånd.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/sener i hånd.png",
@@ -336,8 +283,6 @@
     "Pasted image 20261026121134.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overarm 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion albue 1+2.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Albuen.md",
     "Pasted image 20261026120839.png",
     "Excalidraw/Bevægeapparatet/Led",
     "Excalidraw/Bevægeapparatet/Muskler",
@@ -347,8 +292,6 @@
     "Excalidraw/Bevægeapparatet",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Untitled.canvas"
   ]
 }
