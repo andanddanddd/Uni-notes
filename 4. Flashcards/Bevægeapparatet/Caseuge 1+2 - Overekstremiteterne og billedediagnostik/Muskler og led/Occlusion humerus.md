@@ -43,7 +43,7 @@
 ![[Humerus anatomi 1]]V?:: Trochlea humeri
 <!--SR:!2026-11-07,12,270-->
 ![[Humerus anatomi 1]]W?:: Humerus anteriort
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,15,290-->
 ![[Humerus anatomi 1]]Z?:: Extremitas proximalis
 ![[Humerus anatomi 1]]Y?:: Corpus humeri
 <!--SR:!2026-10-27,4,270-->

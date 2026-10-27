@@ -21,8 +21,35 @@
               "icon": "lucide-file",
               "title": "Forelæsning - Overekstremitetens anatomi"
             }
+          },
+          {
+            "id": "dbe8894eb815b678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Occlusion overfladiske brystmuskler 1"
+            }
+          },
+          {
+            "id": "fe49f3550d064bf0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Overfladiske brystmuskler 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -164,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -257,10 +284,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "dbe8894eb815b678",
   "lastOpenFiles": [
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
+    "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
     "Excalidraw/Bevægeapparatet/Muskler/Sener i hånd.md",
@@ -294,7 +323,6 @@
     "underarm foran.png",
     "Pasted image 20261026121134.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overarm 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion albue 1+2.md",
     "Pasted image 20261026120839.png",
     "Excalidraw/Bevægeapparatet/Led",
     "Excalidraw/Bevægeapparatet/Muskler",

@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. abductor pollicis longus overordnet?:: Dorsalt på underarmen
 - Hvor dybt ligger m. abductor pollicis longus?:: Dybt
+<!--SR:!2026-10-31,4,270-->
 
 ### Form
 - Hvilken form har m. abductor pollicis longus?

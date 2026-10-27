@@ -45,6 +45,7 @@
 - Hvilken knogletype er scapula?:: Flad knogle
 <!--SR:!2026-10-27,4,270-->
 - Er scapula parret eller uparret?:: Parret
+<!--SR:!2026-10-31,4,270-->
 - Form og størrelse
 ### Ossifikation og heeling
 - Type af ossifikation

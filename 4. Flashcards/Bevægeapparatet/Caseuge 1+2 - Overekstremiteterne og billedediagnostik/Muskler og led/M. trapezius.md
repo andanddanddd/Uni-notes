@@ -5,6 +5,7 @@
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
 <!--SR:!2026-10-30,4,270-->
 - Hvor dybt ligger m. trapezius?:: Superficielt
+<!--SR:!2026-10-31,4,270-->
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
 <!--SR:!2026-10-30,4,270-->
@@ -19,10 +20,12 @@
 - Processus spinosus C7-T10
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
+<!--SR:!2026-10-30,3,250-->
 - Hvad er linea nuchalis sup. overordnet?:: En linje (fremspring) på [[Os. occipitale]]
 <!--SR:!2026-10-30,4,270-->
 
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
+<!--SR:!2026-10-31,4,270-->
 - Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os. occipitale]]
 <!--SR:!2026-10-27,1,230-->
 ### Insertion

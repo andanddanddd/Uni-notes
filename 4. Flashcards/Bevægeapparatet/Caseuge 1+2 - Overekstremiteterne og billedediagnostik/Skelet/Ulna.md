@@ -12,7 +12,7 @@
 - Hvad kaldes ledskålen på den proximale ekstremitet af ulna?:: [[Incisura trochlearis]]
 <!--SR:!2026-10-27,4,270-->
 - Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-28,1,210-->
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
 <!--SR:!2026-10-30,4,270-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
@@ -27,7 +27,7 @@
 - Hvilken knogletype er ulna?:: Rørknogle
 <!--SR:!2026-10-30,4,270-->
 - Er ulna parret eller uparret?:: Parret
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

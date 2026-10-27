@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. extensor digitorum?:: Caput commune extensorum (epicondylus lateralis)
+<!--SR:!2026-10-30,3,250-->
 
 ### Insertion
 - Hvor har m. extensor digitorum insertion?:: Ekstensoraponeurosen på de 4 ulane fingre

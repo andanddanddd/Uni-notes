@@ -18,6 +18,7 @@
 - [[M. flexor carpi radialis]]
 - [[M. palmaris longus]]
 - [[M. flexor carpi ulnaris]]
+<!--SR:!2026-10-28,1,230-->
 
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
 <!--SR:!2026-10-26,0,230-->

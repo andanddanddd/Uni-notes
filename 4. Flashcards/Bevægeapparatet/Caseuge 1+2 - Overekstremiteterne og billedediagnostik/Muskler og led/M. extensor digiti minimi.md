@@ -13,6 +13,7 @@
 
 ### Insertion
 - Hvor har m. extensor digiti minimi insertion?:: Ekstensoraponeurosen på lillfingeren
+<!--SR:!2026-10-30,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digiti minimi?:: Ekstension af lillefingeren
