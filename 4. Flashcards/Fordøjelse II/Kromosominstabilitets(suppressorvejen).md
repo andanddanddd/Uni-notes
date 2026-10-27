@@ -3,7 +3,7 @@
 - Hvad kaldes supressorvejen også?:: Den konventionelle signalvej
 <!--SR:!2026-10-26,4,270-->
 - Hvor ofte skyldes kolorektalcancer supresionsvejen?:: 2/3 tilfælde
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-12,16,290-->
 - Hvilke gener er påvirket i supressorvejen?
 ?
 - APC (adenomatøs polyposis coli-genet)

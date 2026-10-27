@@ -12,7 +12,7 @@
 <!--SR:!2026-10-24,4,270-->
 ### Forekomst
 - Hvor hyppig er kolorektal karcinom?:: 1/20 danskere rammes (20% af alle maligne sygdomme er kolorektal carcinom og det udgør halvdelen af maligne sygdomme i GI)
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvilket køn rammes oftest af kolorektal karcinom?:: Mænd
 <!--SR:!2026-11-12,16,290-->
 - Hvad er forskellen på colon- og rectum cancer i incidens mellem mænd og kvinder?:: Coloncancer ses hyppigst hos kvinder mens rectumcancer hyppigst ses hos mænd
@@ -24,7 +24,7 @@
 ?
 - [[Herisitær non-polypøs kolorektal cancer (HNPCC)]]
 - [[Familiær adenomatøs polypsa (FAP)]]
-<!--SR:!2026-10-23,3,250-->
+<!--SR:!2026-11-03,7,250-->
 
 - Hvilke risikofaktorer giver øget risiko for kolorektal karcinom= (og adenom)
 ?
@@ -43,7 +43,7 @@
 <!--SR:!2026-10-24,4,270-->
 
 - Hvorfor kan fibre mindre risikoen for kolorecktal karcinom? (og adenom):: Den binder carcinogener og mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvorfor kan motion nedsætte risikoen for kolorecktal karcinom? (og adenom):: Det mindsker transittiden i tarmen så carcinogener har mindre tid til at reagere med slimhinden
 <!--SR:!2026-10-24,4,270-->
 - Hvorfor kan kalcium mindske risikoen for kolorecktal karcinom? (og adenom):: Det nedsætter proliferationshastigheden af mucosa
@@ -55,14 +55,14 @@
 - Hvad kendetegner symptombilledet ved kolorektal carcinom i ceacum?:: Almensymptomer (træthed, feber, vægttab og anæmi)
 <!--SR:!2026-10-24,4,270-->
 - Hvad kendetegner symptombilledet ved kolorektal carcinom colon og rectum?:: Lokale symptomer inkl blodig afføring, mavesmerter, ændret afføringsmønster og [[Tenesmi]]
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-12,16,290-->
 - Hvorfor er der forskel i symptombilledet ved kolorektal carcinom i ceacum og resten af tarmen?:: I ceacum er der mere plads og fæces er løsere
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->
 ### Diagnostik og screening
 - Hvilke ikke-billeddiagnostike diagnostike bruges til diagnostik af rektal carcinom?:: Rektaleksploration
 <!--SR:!2026-10-24,4,270-->
 - Hvilke billeddiagnostika bruges til diagnostik af kolorektal carconim?:: Som udgangspunkt kolonskopi, hvis det ikke er muligt kan [[Computed tomography (CT)]] eller [[MRI]] laves
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvordan udredes patienter med cancer i rectum?:: [[MRI]]
 <!--SR:!2026-10-26,4,270-->
 - Hvordan screenes for colorektal cancar?:: [[Fecal occult blodtest (FOBT)]]
@@ -72,7 +72,7 @@
 
 #### T-kategoriinddeling
 - Hvad viser T-kategoriinddelingen overordnet?:: Hvor dybt kolorektal karcinom har indvaderet
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-12,16,290-->
 - Hvor dybt er kolorektal carcinom ved T1?:: Submucosa
 <!--SR:!2026-10-24,4,270-->
 - Hvor dybt er kolorektal carcinom ved T2?:: Tunica muskularis

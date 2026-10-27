@@ -6,4 +6,4 @@
 ?
 - [[Hyperplastisk polyp (HP)]]
 - [[Juvenil polyp]]
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->

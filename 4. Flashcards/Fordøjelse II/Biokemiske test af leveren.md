@@ -8,7 +8,7 @@
 - [[Bilirubin]]
 - [[Albumin]]
 - [[INR]]
-<!--SR:!2026-10-25,5,230-->
+<!--SR:!2026-11-09,13,230-->
 
 - Hvile 2 biokemiske test laves for at bedømme integriteten af hepatocytter?
 ?

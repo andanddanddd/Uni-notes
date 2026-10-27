@@ -12,9 +12,9 @@
 - Hvor (geografisk) ses flest kolorektale adenomer?:: Den vestliige verden
 <!--SR:!2026-10-24,4,270-->
 - Hvornår (alder) stiger incidensen af kolorektal adenom drastisk?:: 40-års-alderen
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-10,14,290-->
 - Hvor hyppig er kolorektal adenom?:: Den hyppiske form for tarmkræft i vesten
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-12,16,290-->
 ### Etiologi og patogenese
 mangler
 ### Morfologi
@@ -45,4 +45,4 @@ mangler
 <!--SR:!2026-10-24,4,270-->
 ### Behandling
 - Hvordan behandles kolorektal adenom typisk?:: Endoskopi
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-12,16,290-->

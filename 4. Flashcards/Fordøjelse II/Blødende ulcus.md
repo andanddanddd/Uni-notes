@@ -12,4 +12,4 @@
  - [[Acetylsalicylsyre]]
  - Antikoagulerende
  - Antihypertensiva
-<!--SR:!2026-10-25,12,270-->
+<!--SR:!2026-12-12,46,290-->

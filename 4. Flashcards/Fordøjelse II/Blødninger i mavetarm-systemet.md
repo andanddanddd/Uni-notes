@@ -14,7 +14,7 @@
 - Hvordan kan det ses på en patient at de har en akut blødning i GI og hvorfor giver det mening?:: De bliver kølig, klam og svedig perifært, da de mangler blod og derfor prioritere blod til de vitale organer
 <!--SR:!2026-10-29,16,290-->
 - Hvordan præsentere en person med kronisk GI blødning sig typisk?:: [[Anæmi]]
-<!--SR:!2026-10-27,14,290-->
+<!--SR:!2026-12-09,43,290-->
 ## Risikofaktorer
 - Hvilke risikofaktorer er der for blødning i både øvre og nedre GI?
 ?

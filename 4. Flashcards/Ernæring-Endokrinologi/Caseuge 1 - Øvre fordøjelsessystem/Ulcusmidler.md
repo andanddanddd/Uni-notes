@@ -11,9 +11,9 @@
 <!--SR:!2026-12-08,42,290-->
 
 - Hvornår kan antibiotika bruges som ulcusmiddel?:: Når ulcus skyldes [[Helicobacter pylori]]
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->
 - Hvilke 2 overordnede måder virker ulcusmidler? (eks antibiotika):: Enten øges pH (nedast intragastisk aciditet) ellers øges mucosaresistensen
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvilke receptoer på [[Parietalceller (corpus-fundus-kirtler)]] kan aktiveres for at sænke protonsekretion?
 ?
 - [[Acetylkolin]]

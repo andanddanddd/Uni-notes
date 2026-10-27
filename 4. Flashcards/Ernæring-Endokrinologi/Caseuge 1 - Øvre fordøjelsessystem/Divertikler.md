@@ -5,7 +5,7 @@
 - Hvilket symptom kommer sammen med [[Dysfagi]] hvis det er grundet et diverticulum i [[Oesophagus]]?:: Dårlig ånde
 <!--SR:!2026-10-29,16,290-->
 - Hvad kan øge risikoen for divertikler i tarmen?:: Obstipation
-<!--SR:!2026-10-27,14,290-->
+<!--SR:!2026-12-23,57,310-->
 - Hvor i nedre GI sker divertikulose oftest?:: [[Colon descendens]] og [[Colon sigmoideum]]
 <!--SR:!2026-11-01,12,230-->
 - Hvordan behandles divertikulose i nedre GI?:: Det er typisk selvlimiterende
