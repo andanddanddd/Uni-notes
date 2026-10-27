@@ -22,6 +22,7 @@
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
 <!--SR:!2026-11-07,12,270-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
+<!--SR:!2026-10-30,3,250-->
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
 <!--SR:!2026-10-29,3,250-->
 - Hvilken form har skulderbladets forside?:: Concav
@@ -32,6 +33,7 @@
 <!--SR:!2026-10-27,4,270-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
+<!--SR:!2026-10-31,4,270-->
 
 ### Relationer
 #### Led
@@ -66,6 +68,7 @@
 ![[Scapula Anatomi 1]]D?:: Margo superior
 <!--SR:!2026-10-30,4,270-->
 ![[Scapula Anatomi 1]]E?:: Angulus superior
+<!--SR:!2026-10-31,4,270-->
 ![[Scapula Anatomi 1]]F?:: Anhulus lateralis
 <!--SR:!2026-10-29,3,250-->
 ![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis

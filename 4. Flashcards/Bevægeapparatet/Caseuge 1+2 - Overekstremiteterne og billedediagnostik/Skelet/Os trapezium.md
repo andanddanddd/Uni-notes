@@ -5,6 +5,7 @@
 
 #### Placering og orientering
 - Hvor er os trapezium overordnet?:: I den distale række af håndrodsknoglerne (mest medialt)
+<!--SR:!2026-10-31,4,270-->
 #### Form og størrelse
 
 ### Relationer

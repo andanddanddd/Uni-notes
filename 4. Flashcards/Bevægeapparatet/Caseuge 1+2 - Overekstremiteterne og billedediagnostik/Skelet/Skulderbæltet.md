@@ -5,6 +5,6 @@
 - Hvilken form har skulderbætet overordnet?:: En ring der er åben bagtil
 <!--SR:!2026-10-30,4,270-->
 - Hvad består den foreste del af skulderbæltet af?:: 2 [[Clavicula]]
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - Hvad består den bagerste del af skulderbæltet af?:: 2 [[Scapula]]
 <!--SR:!2026-10-27,4,270-->

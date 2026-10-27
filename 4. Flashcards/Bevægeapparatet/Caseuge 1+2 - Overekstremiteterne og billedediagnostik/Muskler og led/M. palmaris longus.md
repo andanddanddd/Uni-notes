@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. palmaris longus?:: Caput commune flexorum (epicondylus medialis)
+<!--SR:!2026-10-30,3,250-->
 
 ### Insertion
 - Hvor har m. palmaris longus insertion?:: Aponeurosis palmaris

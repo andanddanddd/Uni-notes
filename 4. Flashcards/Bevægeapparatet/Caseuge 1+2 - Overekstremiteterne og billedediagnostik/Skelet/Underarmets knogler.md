@@ -31,7 +31,7 @@
 ![[Underarmsknogler anatomi 2]]C?:: Processus styloideus ulnae
 <!--SR:!2026-10-27,1,210-->
 ![[Underarmsknogler anatomi 2]]D?:: Crista musculi supinatoris
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-29,2,230-->
 ![[Underarmsknogler anatomi 2]]F?:: Tuberculum dorsale radii
 <!--SR:!2026-10-29,3,250-->
 ![[Underarmsknogler anatomi 2]]G?:: Incisura thochlearis

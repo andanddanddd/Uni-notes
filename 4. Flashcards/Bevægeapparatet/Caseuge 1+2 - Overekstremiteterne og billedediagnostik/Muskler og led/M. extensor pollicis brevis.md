@@ -9,10 +9,11 @@
 - Hvilken form har m. pollicis brevis?
 
 ### Udspring
-- Hvor udspringer m. pollicis brevis?:: Radialt, diatalt for [[M. abductor pollicis longus]]
+- Hvor udspringer m. pollicis brevis?:: Radialt, diatalt for [[M. abductor pollicis longus]] (dvs bagflade af [[Radius]] og membrana interossa)
 
 ### Insertion
 - Hvor har m. pollicis brevis insertion?:: Basis af phalinx proximale på tommelfingeren
+<!--SR:!2026-10-30,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pollicis brevis?:: Ekstension af tommelfingeren
