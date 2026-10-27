@@ -10,5 +10,6 @@
 ![[Overfladiske brystmuskler 2]]C?:: [[M. levator scapulae]]
 <!--SR:!2026-10-31,4,270-->
 ![[Overfladiske brystmuskler 2]]D?:: Scapula margo medialis
+<!--SR:!2026-10-31,4,270-->
 ![[Overfladiske brystmuskler 2]]E?:: [[M. serratus ant]]
 <!--SR:!2026-10-30,4,270-->

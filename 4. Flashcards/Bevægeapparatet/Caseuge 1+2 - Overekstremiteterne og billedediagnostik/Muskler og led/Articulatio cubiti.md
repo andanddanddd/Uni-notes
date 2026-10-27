@@ -25,6 +25,7 @@
 ?
 - [[Ligamentum collaterale ulnare]]
 - [[Ligamentum collaterale radiale]]
+<!--SR:!2026-10-31,4,270-->
 
 ### Funktion
 - Hvilke frihedsgrader har albueledet?:: Fleksion-ekstension, supination-pronation

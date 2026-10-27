@@ -20,7 +20,7 @@
 
 ### Insertion
 - Hvad hedder de 2 sener som biceps bruger til insertion?:: Bicepssenen og bicepsaponeurosen
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-30,3,250-->
 - Hvor har bicepssene insertion?:: Tuberositas radii (se [[Radius]])
 - Hvor har bicepsaponeurosen insertion?:: Fascia antebrachii
 <!--SR:!2026-10-28,1,230-->

@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis longus?:: Forfladen af radius og membrana interossea
+<!--SR:!2026-10-28,1,230-->
 
 ### Insertion
 - Hvor har m. flexor pollicis longus insertion?:: Phalanx distales på tommelfingeren (se [[Fingrene (skelet)]])

@@ -18,7 +18,7 @@
 ### Relationer
 #### Led
 - Hvilke knogler danner clavicula led med:: [[Scapula]] og [[Sternum]]
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,16,290-->
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype

@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor carpi radialis brevis overordnet?:: Dorsalt (lateralt) på underarmen
+<!--SR:!2026-10-31,4,270-->
 - Hvor dybt ligger m. extensor carpi radialis brevis?:: Superficielt
 <!--SR:!2026-10-31,4,270-->
 

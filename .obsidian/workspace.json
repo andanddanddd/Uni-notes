@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi ulnaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Overekstremitetens anatomi"
+              "title": "M. flexor carpi ulnaris"
             }
           },
           {
@@ -72,8 +72,7 @@
               "title": "Overfladiske brystmuskler 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor pollicis brevis.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi ulnaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -308,26 +307,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "328e4e20229b6940",
+  "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi radialis.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor pollicis brevis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. abductor pollicis longus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor pollici longus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overfladiske brystmuskler 1.md",
     "Excalidraw/Bevægeapparatet/Muskler/Overfladiske brystmuskler 1.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
     "Excalidraw/Bevægeapparatet/Muskler/Sener i hånd.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/sener i hånd.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion radial extensorgruppe.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foran superficel.png",
     "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 3.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm bagved 3.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - underarm bagved dyb.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - underarm bagved superficiel.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor pollicis brevis.md",
     "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 2.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm bagved 2.png",
     "Excalidraw/Bevægeapparatet/Muskler/Underarm bagved 1.md",
@@ -344,7 +344,6 @@
     "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 2.md",
     "Excalidraw/Bevægeapparatet/Led/Albue anatomi 2.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overarm 2.md",
-    "underarm foran 1.md",
     "underarm foran.png",
     "Pasted image 20261026121134.png",
     "Pasted image 20261026120839.png",

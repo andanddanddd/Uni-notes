@@ -19,6 +19,7 @@
 ![[Underarmsknogler anatomi 1]]B?:: Margo interosseus
 <!--SR:!2026-10-30,4,270-->
 ![[Underarmsknogler anatomi 1]]C?:: Membrana interossea
+<!--SR:!2026-10-31,4,270-->
 ![[Underarmsknogler anatomi 1]]D?:: Margo posterior
 <!--SR:!2026-11-06,11,270-->
 

@@ -14,6 +14,7 @@
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale
 <!--SR:!2026-10-27,1,230-->
 	- Hvor store er labrum glenoidale?:: den går rundt langs hele ledskålen
+<!--SR:!2026-10-31,4,270-->
 
 ### Funktion
 - Hvilke 3 frihedsgrader har articulatio humeri?
