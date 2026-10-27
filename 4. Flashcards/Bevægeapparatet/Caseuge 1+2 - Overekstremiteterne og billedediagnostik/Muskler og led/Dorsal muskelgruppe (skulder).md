@@ -12,4 +12,4 @@
 - [[M. rhomboideus]]
 ![[overfladiske rygmuskler 1.png]]
 [[Occlusion overfladiske rygmuskler]]
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-29,2,230-->

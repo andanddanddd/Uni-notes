@@ -4,12 +4,14 @@
 ### Lokation
 - Hvor er m. extensor carpi radialis brevis overordnet?:: Dorsalt (lateralt) på underarmen
 - Hvor dybt ligger m. extensor carpi radialis brevis?:: Superficielt
+<!--SR:!2026-10-31,4,270-->
 
 ### Form
 - Hvilken form har m. extensor carpi radialis brevis?
 
 ### Udspring
 - Hvor udspringer m. extensor carpi radialis brevis?:: Caput commun extensorium (epicondulys laterale)
+<!--SR:!2026-10-28,1,230-->
 
 ### Insertion
 - Hvor har m. extensor carpi radialis brevis insertion?:: Basis af os metacarpale III (langefinger)

@@ -13,6 +13,7 @@
 <!--SR:!2026-10-30,3,250-->
 ![[Overfladiske brystmuskler 1]]E?:: [[M. serratus ant]]
 ![[Overfladiske brystmuskler 1]]F?:: M. intercostales ext
+<!--SR:!2026-10-30,3,250-->
 ![[Overfladiske brystmuskler 1]]G?:: Trigonum clavipectorale
 <!--SR:!2026-10-31,4,270-->
 ![[Overfladiske brystmuskler 1]]H?:: [[M. pectoralis major]]

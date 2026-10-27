@@ -44,7 +44,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er humerus?:: Rørknogle
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-10,14,290-->
 - Er humerus parret eller uparret?:: Parret
 <!--SR:!2026-10-27,4,270-->
 ### Ossifikation og heeling

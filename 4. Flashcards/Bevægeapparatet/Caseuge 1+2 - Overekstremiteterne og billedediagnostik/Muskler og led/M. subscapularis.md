@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. subscapularis overordnet?:: Bagvækken af axilen
+<!--SR:!2026-10-31,4,270-->
 - Hvor dybt ligger m. subscapularis
 
 ### Form
