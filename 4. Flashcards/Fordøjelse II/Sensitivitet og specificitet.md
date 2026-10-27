@@ -3,7 +3,7 @@
 - Ved hvilken type test er begreberne sensitivitet og specificitet vigtigt?:: Kvalitative test
 <!--SR:!2026-11-06,15,290-->
 - Hvad er precision?:: Hvor tæt målinger er på hinanden
-<!--SR:!2026-10-27,14,290-->
+<!--SR:!2026-12-24,58,310-->
 - Hvad er accuracy?:: Hvor tæt målingerne er på de egentlige værdier
 <!--SR:!2026-10-27,14,290-->
 

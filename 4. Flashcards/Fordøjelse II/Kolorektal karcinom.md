@@ -5,9 +5,9 @@
 - Hvad er kolorektal karcinom overordnet?:: Cancer (malign tumor)
 <!--SR:!2026-10-24,4,270-->
 - Hvilken celletype er kolorektal karcinom vokset udfra?:: Mucosa
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-11,15,290-->
 - I hvilket lag af tarmen skal kolorektal karcinom være gennemvokset for at være et karcinom og hvorfor?:: Lamina mocosa muskularis, eftersom den ikke kan lave metatsater herover da der meget få lymfekar er
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-12,16,290-->
 - Hvad hedder forstadiet til kolorektal karcinom?:: [[Kolorektal adenom]]
 <!--SR:!2026-10-24,4,270-->
 ### Forekomst

@@ -10,7 +10,7 @@
 - Hvad hedder de 2 fremspring på den proximale ekstremitet af ulna?:: Olecranon og processus coronoideus
 <!--SR:!2026-10-29,3,250-->
 - Hvad kaldes ledskålen på den proximale ekstremitet af ulna?:: [[Incisura trochlearis]]
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-08,12,270-->
 - Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
 <!--SR:!2026-10-28,1,210-->
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]

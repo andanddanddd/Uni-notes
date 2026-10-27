@@ -19,6 +19,7 @@
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
 <!--SR:!2026-10-27,1,210-->
 ![[Humerus anatomi 1]]I?:: Condylus humeri
+<!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]J?::Sulcus intertubercularis
 <!--SR:!2026-11-06,11,270-->
 ![[Humerus anatomi 1]]K?:: Caput humeri

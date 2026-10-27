@@ -14,6 +14,7 @@
 
 ### Insertion
 - Hvor har m. flexor pollicis longus insertion?:: Phalanx distales på tommelfingeren (se [[Fingrene (skelet)]])
+<!--SR:!2026-10-30,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis longus?:: Flekstion af tommelfingeren (alle led)

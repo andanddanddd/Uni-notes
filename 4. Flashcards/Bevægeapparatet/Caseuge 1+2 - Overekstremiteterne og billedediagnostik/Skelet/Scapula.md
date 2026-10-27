@@ -73,7 +73,7 @@
 ![[Scapula Anatomi 1]]F?:: Anhulus lateralis
 <!--SR:!2026-10-29,3,250-->
 ![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,16,290-->
 ![[Scapula Anatomi 1]]H?:: Collum scapulae
 <!--SR:!2026-11-02,7,250-->
 ![[Scapula Anatomi 1]]I?:: Margo lateralis

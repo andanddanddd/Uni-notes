@@ -17,4 +17,4 @@
 - Hvad kaldes tilstanden hvor en pt har mange divertikler?:: [[Divertikulose]]
 <!--SR:!2026-10-24,4,270-->
 - Hvad kaldes tilstanden med mange divertikler der er inflammerede?:: [[Divertikulis]]
-<!--SR:!2026-10-26,4,270-->
+<!--SR:!2026-11-10,14,290-->

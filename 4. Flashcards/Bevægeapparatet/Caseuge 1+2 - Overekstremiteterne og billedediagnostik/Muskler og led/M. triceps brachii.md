@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvordan er biceps 3 udspringshoveder overrodnet arrangeret?:: 2 superficielle hoveder og 1 dybt hoved
+<!--SR:!2026-10-28,1,230-->
 - Hvad hedder m. triceps brachii 3 udspringshoveder?
 ?
 - Caput longum

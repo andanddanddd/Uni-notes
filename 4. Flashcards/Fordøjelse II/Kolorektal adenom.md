@@ -34,7 +34,7 @@ mangler
 - Hvornår er overfladen på kolorektal adenom ureggelmæssig (ikke glat)?:: Ved villøst adenom (eller tubulovilløst adenom)
 <!--SR:!2026-10-23,3,250-->
 - Hvilken struktur har bredbaset kolorektale adenomer ofte?:: Villøst
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-10,14,290-->
 
 - Hvordan ses forskel på kolorektal adenom og hyperplastisk polyp?:: Ved kolorektal adenom ses dysplasi
 <!--SR:!2026-10-23,3,250-->
