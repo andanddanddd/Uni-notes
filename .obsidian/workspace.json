@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
+                "file": "4. Flashcards/Fordøjelse II/MRI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computed tomography (CT)"
+              "title": "MRI"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
+                "file": "4. Flashcards/Fordøjelse II/MRI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -272,6 +272,8 @@
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Billededannelse.md",
+    "4. Flashcards/Fordøjelse II/MRI.md",
+    "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
     "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Underarmen.md",
@@ -305,8 +307,6 @@
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foan 3.png",
     "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 2.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foran 2.png",
-    "Excalidraw/Bevægeapparatet/Muskler/Underarm foran 1.md",
-    "Excalidraw/Bevægeapparatet/Muskler/Overarm muskler 1.md",
     "underarm foran.png",
     "Pasted image 20261026121134.png",
     "Pasted image 20261026120839.png",

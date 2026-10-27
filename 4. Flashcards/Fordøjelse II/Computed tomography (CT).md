@@ -1,7 +1,15 @@
 #flashcards/5/Fordøjelsessystemet-II #flashcards/5/Bevægeapparatet 
 
 - Hvad er CT overordnet?:: Røntgen der rotere om patienten
-- Hvad er en housefiel
+- Hvad er en housefield-enhed (HU)?:: Dæmpning relativt til vand
+	- Hvad har den laveste HU enhed?:: Luft
+	- Hvad har den højeste HU enhed?:: Kortikal knogle
+
+- Hvad betyder hyperdens?:: Lys
+- Hvad betyder hypodens?:: Mørk
+
+- Hvad menes med at vælge et vindue til CT overordnet?:: Vælge hvilke HU-enheder der skal være lystest og mørkets og dermed vælge hvor meget kontrast der skal være (forskyde gråtonernerne)
+- Hvorfor kan noget være helt vidt på et CT hvis det ikke er knogle?:: Man har valgt et vindue hvor bløde strukture er tydelige
 
 - Hvornår bruges CT abdomen?:: Når man skal burges et hurtigt overblik af hele abdomen
 <!--SR:!2026-11-03,15,290-->

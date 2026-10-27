@@ -4,8 +4,10 @@ T1 = 90 grader
 T2 = 180 grader
 
 Man måler vist på hvornår spin vender tilabge til uordnet
+- Hvad viser en T1-MRI?:: Generalt anatomi
+- Hvad viser en T2-MRI?:: Ødemer
 
-- Hvornår laves en MRI af absomen?
+- Hvornår laves en MRI af abdomen?
 ?
 - Finde ud af hvilket stadie rectal cancer er i
 - Lever lesioner
