@@ -2,4 +2,4 @@
 
 - Hvilken knogle sidder incisura radialis på?:: [[Ulna]]
 - Hvilken ledflade articulere incisura radialis med?:: [[Caput radii]]
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-04,7,250-->
