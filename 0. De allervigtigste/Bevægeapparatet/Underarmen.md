@@ -13,7 +13,7 @@
 <!--SR:!2026-10-29,1,210-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
 
-### Knogler til flektion
+### Muskler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?
 ?
 - [[M. pronator teres]]
@@ -37,7 +37,7 @@
 [[Occlusion - Underarm foran lag 2]]
 [[Occlusion - Underarm foran lag 3+4]]
 
-### Knogler til ekstention
+### Muskler til ekstention
 - Hvilke muskler er i den radiale superficielle extensorgruppe?
 ?
 - [[M. brachioradialis]]
