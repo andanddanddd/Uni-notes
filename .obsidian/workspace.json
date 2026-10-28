@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -267,10 +268,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
     "0. De allervigtigste/Bevægeapparatet/Underarmen.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor carpi radialis longus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor digitorum profundus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor carpi radialis brevis.md",
