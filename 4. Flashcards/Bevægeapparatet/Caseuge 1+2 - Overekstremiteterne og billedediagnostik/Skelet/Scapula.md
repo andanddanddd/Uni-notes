@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder scapula på dansk?:: Skulderbladet
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale
@@ -18,7 +18,7 @@
 <!--SR:!2026-10-30,4,270-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-02,5,230-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
 <!--SR:!2026-11-07,12,270-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
@@ -30,7 +30,7 @@
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
 <!--SR:!2026-10-29,3,250-->
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,15,290-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
 <!--SR:!2026-10-31,4,270-->
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
@@ -61,7 +61,7 @@
 ![[scapula anatomi 4.png]]
 ### Occlusion
 ![[Scapula Anatomi 1]]A?:: Acromion
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-09,12,270-->
 ![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis
 <!--SR:!2026-10-30,4,270-->
 ![[Scapula Anatomi 1]]C?:: Processus coracoideus
@@ -77,13 +77,13 @@
 ![[Scapula Anatomi 1]]H?:: Collum scapulae
 <!--SR:!2026-11-02,7,250-->
 ![[Scapula Anatomi 1]]I?:: Margo lateralis
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->
 ![[Scapula Anatomi 1]]J?:: Costalis scapulae
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-02,5,230-->
 ![[Scapula Anatomi 1]]K?:: Angulus inferior
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,14,290-->
 ![[Scapula Anatomi 1]]L?:: Margo medialis
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,15,290-->
 ![[Scapula Anatomi 1]]M?:: Fossa supraspinata
 ![[Scapula Anatomi 1]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-02,7,250-->

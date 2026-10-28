@@ -10,7 +10,7 @@
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
 <!--SR:!2026-10-31,4,270-->
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-29,1,210-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
 
 ### Knogler til flektion
@@ -20,15 +20,15 @@
 - [[M. flexor carpi radialis]]
 - [[M. palmaris longus]]
 - [[M. flexor carpi ulnaris]]
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-30,2,230-->
 
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
-<!--SR:!2026-10-26,0,230-->
+<!--SR:!2026-10-30,2,230-->
 - Hvilke muskler er i 3. lag af underarmens foreste loge?
 ?
 - [[M. flexor pollicis longus]]
 - [[M. flexor digitorum profundus]]
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-29,1,210-->
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
 
@@ -43,7 +43,7 @@
 - [[M. brachioradialis]]
 - [[M. extensor carpi radialis longus]]
 - [[M. extensor carpi radialis brevis]]
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-31,3,250-->
 
 - Hvilke muskler er der i "den øvrige superficielle extensorgruppe"?
 ?

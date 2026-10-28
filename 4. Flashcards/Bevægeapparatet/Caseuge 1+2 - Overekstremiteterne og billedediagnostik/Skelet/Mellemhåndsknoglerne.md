@@ -8,4 +8,4 @@
 <!--SR:!2026-11-02,7,250-->
 - Hvad kendetegner epifyserne på mellemhåndsknoglerne?:: De har kun 1 hver 
 - Hvor er epifysen i mellemhåndsknoglerne?:: Proximalt i Os metacarpale I og distalt i os metacarpale II-V
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->

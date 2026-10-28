@@ -3,9 +3,9 @@
 - Hvad hedder hånroden på latin?:: Carpus
 <!--SR:!2026-10-31,4,270-->
 - Hvad kaldes den samlede betegnelse for håndrodknoglerne på latin?:: Ossa carpi
-<!--SR:!2026-10-27,1,210-->
+<!--SR:!2026-10-31,3,230-->
 - Hvor mange knogler består håndroden af?:: 8
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->
 - Hvordan er de 8 knogler i håndroden overordnet arrangeret?:: En proximal og distal række, hver bestående af 4 knogler
 <!--SR:!2026-10-31,4,270-->
 - Hvornår ossificere håndrodsknoglerne?:: Først efter fødsel
@@ -24,4 +24,4 @@
 - [[Os trapezoideum]]
 - [[Os capitatum]]
 - [[Os hamatum]]
-<!--SR:!2026-10-27,1,190-->
+<!--SR:!2026-10-29,1,170-->

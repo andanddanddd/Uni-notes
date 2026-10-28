@@ -13,7 +13,7 @@
 
 ### Udspring
 - Hvor udspringer m. coracobrachialis?:: Processus corocoideus (sammen med det ene bicepshoved) (se [[Scapula]])
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-30,2,230-->
 
 ### Insertion
 - Hvor har m. coracobrachialis insertion?:: Midt på [[Humerus]]

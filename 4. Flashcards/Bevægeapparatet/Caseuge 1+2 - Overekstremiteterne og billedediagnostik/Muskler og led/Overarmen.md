@@ -15,6 +15,7 @@
 - [[M. brachialis]]
 
 - Hvad heder overarmens bagerste muskel?:: [[M. triceps brachii]]
+<!--SR:!2026-11-01,4,270-->
 
 ![[overarm muskler 1.png|700]]
 ![[overarm muskler 2.png]]

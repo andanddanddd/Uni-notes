@@ -5,7 +5,7 @@
 - Hvor er m. flexor carpi radialis overordnet?:: 1. lag af underarmens foreste loge
 <!--SR:!2026-10-30,4,270-->
 - Hvor dybt ligger m. flexor carpi radialis?:: Superficielt (1. lag)
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-31,3,250-->
 
 ### Form
 - Hvilken form har m. flexor carpi radialis?
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor carpi radialis?:: Fleksion og radialflektion af håndledet
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-31,3,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

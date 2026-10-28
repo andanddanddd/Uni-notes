@@ -9,7 +9,7 @@
 
 ### Udspring
 - Hvor udspringer m. teres major?:: Nederste del af [[Scapula]]s lateralkant
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-31,3,250-->
 
 ### Insertion
 - Hvor har m. teres major insertion?:: Crista tuberculi minoris (se [[Humerus]])

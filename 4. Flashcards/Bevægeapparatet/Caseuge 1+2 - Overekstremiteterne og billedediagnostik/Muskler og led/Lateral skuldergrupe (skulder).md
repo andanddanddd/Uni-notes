@@ -18,7 +18,7 @@
 - [[M. subscapularis]]
 - [[M. supraspinatus]]
 - [[M. infraspinatus]]
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-04,7,250-->
 
 ![[skuldermsukler 1.png|582]]
 ![[skuldermuskler 2.png]]

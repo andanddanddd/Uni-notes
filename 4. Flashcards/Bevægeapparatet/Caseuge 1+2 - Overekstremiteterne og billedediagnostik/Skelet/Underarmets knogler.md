@@ -3,11 +3,11 @@
 - Hvad hedder underarmet 2 knogler?:: [[Radius]] og [[Ulna]]
 <!--SR:!2026-11-08,12,270-->
 - Hvilken underarmsknogle er længst?:: Ulna
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,15,290-->
 - Hvad hedder membranen der forbidner de 2 underarmsknogler?:: Membrana interossea
 <!--SR:!2026-10-30,4,270-->
 - Hvad hedder kanterne på de 2 underarmsknogler der forbindes af en membran?:: Margo interosseus
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-04,7,250-->
 
 ![[underarmsknogler anatomi 1.png]]
 ![[underarmsknogler anatomi 2.png]]
@@ -30,17 +30,17 @@
 ![[Underarmsknogler anatomi 2]]B?:: Caput ulnae
 <!--SR:!2026-11-02,7,250-->
 ![[Underarmsknogler anatomi 2]]C?:: Processus styloideus ulnae
-<!--SR:!2026-10-27,1,210-->
+<!--SR:!2026-10-29,1,190-->
 ![[Underarmsknogler anatomi 2]]D?:: Crista musculi supinatoris
 <!--SR:!2026-10-29,2,230-->
 ![[Underarmsknogler anatomi 2]]F?:: Tuberculum dorsale radii
 <!--SR:!2026-10-29,3,250-->
 ![[Underarmsknogler anatomi 2]]G?:: Incisura thochlearis
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,15,290-->
 ![[Underarmsknogler anatomi 2]]H?:: Caput radii
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,15,290-->
 ![[Underarmsknogler anatomi 2]]I?:: Collum radii
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->
 ![[Underarmsknogler anatomi 2]]J?:: Tuberositas radii
 <!--SR:!2026-10-30,4,270-->
 ![[Underarmsknogler anatomi 2]]K?:: Margo interosseus

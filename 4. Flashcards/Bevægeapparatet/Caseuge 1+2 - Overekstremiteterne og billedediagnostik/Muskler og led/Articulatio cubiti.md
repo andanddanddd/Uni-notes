@@ -18,7 +18,7 @@
 ### Ledflader
 - Hvilke ledflader beståre articulatio humeroulnaris af?:: [[Trochlea humeri]] og [[Insicura trochlea ulnae]]
 - Hvilke ledflader består articulatio humeroradialis af?:: [[Capitulum humeri]] og [[Fovea articularis capitis radii]]
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-30,2,230-->
 
 ### Ledets strukture
 - Hvad hedder ligamentet der holder radius fast under pronation/supination?:: [[Ligamentum anulare radii]]

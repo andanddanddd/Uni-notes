@@ -1,13 +1,13 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvordan er fingrenes skelet overordnet opbygget?:: 3 små rørknogler
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,14,290-->
 - Hvad kaldes de 3 fingerknogler? (fra proximal til distal)
 ?
 1. [[Phalinx proximalis]]
 2. [[Phalinx media]]
 3. [[Phalinx distalis]]
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,14,290-->
 
 - Hvad kaldes de 3 dele af en fingerknogler? (fra proximal til distal)
 ?
@@ -27,5 +27,5 @@
 - Hvor på fingerne ses oftest sesamknogler?:: I ledet mellem os metacarpale I og phalinx proximalis  (tommenfingeren)
 <!--SR:!2026-11-10,14,290-->
 - Hvornår forbener sesamknoglerne i fingrene?:: Ved pubertetens start
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->
 

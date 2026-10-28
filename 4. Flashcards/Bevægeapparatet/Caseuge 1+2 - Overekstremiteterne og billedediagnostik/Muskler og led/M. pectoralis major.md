@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. pectoralis major?:: Stor flad vifteformet
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-30,2,230-->
 
 ### Udspring
 - Hvor udspringer m. pectoralis major?

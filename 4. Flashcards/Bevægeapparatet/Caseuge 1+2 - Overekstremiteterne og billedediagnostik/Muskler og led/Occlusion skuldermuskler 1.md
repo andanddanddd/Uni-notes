@@ -10,7 +10,7 @@
 ![[Skuldermuskler 1]]D?:: [[M. teres major]]
 <!--SR:!2026-10-30,4,270-->
 ![[Skuldermuskler 1]]E?:: [[M. deltoideus]] (mellemste og bagerste del)
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-31,3,250-->
 ![[Skuldermuskler 1]]F?:: [[M. triceps brachii]]
 
 

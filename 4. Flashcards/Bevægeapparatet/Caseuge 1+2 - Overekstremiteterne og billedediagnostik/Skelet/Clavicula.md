@@ -9,7 +9,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overordnet form har clavicula?:: S-formet
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-13,16,290-->
 - Hvilke 2 ledflader har clavicula?
 ?
 - [[Facies articularis acrominalis]]
@@ -28,9 +28,9 @@
 - Form og størrelse
 ### Ossifikation og heeling
 - Hvilken type ossifikation er clavicula lavet udfra?:: [[Endochondral ossifikation]]
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-12,15,290-->
 - Hvornår begynder clavicula at ossificere?:: 5-6 fosteruge (det er den første knogle der undergår ossifikation)
-<!--SR:!2026-10-27,4,270-->
+<!--SR:!2026-11-11,14,290-->
 ### Inspektion og palpation
 ### Klinik
 ![[clavicula anatomi 1.png]]

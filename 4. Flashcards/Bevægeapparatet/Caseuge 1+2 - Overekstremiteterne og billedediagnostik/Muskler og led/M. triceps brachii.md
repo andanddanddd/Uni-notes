@@ -10,7 +10,7 @@
 
 ### Udspring
 - Hvordan er biceps 3 udspringshoveder overrodnet arrangeret?:: 2 superficielle hoveder og 1 dybt hoved
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-31,3,250-->
 - Hvad hedder m. triceps brachii 3 udspringshoveder?
 ?
 - Caput longum
@@ -27,7 +27,7 @@
 
 ### Insertion
 - Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-31,3,250-->
 
 ### Funktion
 - Hvilken funktion har m. tricps brachii?:: Ekstension af albue og skulderled
