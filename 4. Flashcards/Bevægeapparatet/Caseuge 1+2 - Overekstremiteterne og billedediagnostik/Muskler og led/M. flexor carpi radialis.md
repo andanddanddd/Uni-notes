@@ -18,7 +18,7 @@
 <!--SR:!2026-10-30,3,250-->
 
 ### Funktion
-- Hvilke bevægelser udfører m. flexor carpi radialis?:: Fleksion og radialflektion af håndledet
+- Hvilke bevægelser udfører m. flexor carpi radialis?:: Fleksion og radialdevision af håndledet
 <!--SR:!2026-10-31,3,250-->
 
 ### Innerversion og reflekser

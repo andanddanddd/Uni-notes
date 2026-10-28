@@ -18,7 +18,7 @@
 - Hvor har m. extensor carpi radialis brevis insertion?:: Basis af os metacarpale III (langefinger)
 
 ### Funktion
-- Hvilke bevægelser udfører m. extensor carpi radialis brevis?:: Ekstension og radialflektion af håndledet
+- Hvilke bevægelser udfører m. extensor carpi radialis brevis?:: Ekstension og radialdevition af håndledet
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
