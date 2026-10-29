@@ -16,6 +16,7 @@
 <!--SR:!2026-10-30,2,230-->
 ##### Proximal extremitet
 - Hvad kaldes ledfladen på den proximale ekstremitet af humerus?:: [[Caput humeri]]
+<!--SR:!2026-11-02,4,270-->
 - Hvad kaldes indsnørringen der afgrænser caput humeri?:: Collum anatomicum
 <!--SR:!2026-10-30,4,270-->
 - Hvad hedder de 2 knuder på den proximale extremitet?:: Tuberculum majus/minus

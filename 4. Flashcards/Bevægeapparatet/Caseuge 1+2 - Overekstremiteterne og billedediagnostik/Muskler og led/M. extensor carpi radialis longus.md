@@ -18,6 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis longus?:: Ekstension og radialdevition af håndledet
+<!--SR:!2026-10-30,1,230-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

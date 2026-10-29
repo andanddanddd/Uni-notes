@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. extensor digiti minimi?:: Caput commune extensorum (epicondylus lateralis)
+<!--SR:!2026-11-02,4,270-->
 
 ### Insertion
 - Hvor har m. extensor digiti minimi insertion?:: Ekstensoraponeurosen på lillfingeren

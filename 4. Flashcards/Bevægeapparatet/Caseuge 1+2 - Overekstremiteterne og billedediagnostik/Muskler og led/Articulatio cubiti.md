@@ -18,6 +18,7 @@
 
 ### Ledflader
 - Hvilke ledflader beståre articulatio humeroulnaris af?:: [[Trochlea humeri]] og [[Insicura trochlea ulnae]]
+<!--SR:!2026-11-02,4,270-->
 - Hvilke ledflader består articulatio humeroradialis af?:: [[Capitulum humeri]] og [[Fovea articularis capitis radii]]
 <!--SR:!2026-10-30,2,230-->
 

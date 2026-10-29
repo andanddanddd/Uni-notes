@@ -5,6 +5,7 @@
 
 ### Form
 - Hvilken form har m. rhomboideus?:: Rhombeformet muskelplade
+<!--SR:!2026-11-02,4,270-->
 
 ### Udspring
 - Hvor har m. rhomboideus udspring?:: Processus spinosus af C6-T4 samt ligamentet derimellem ([[Ligamentum supraspinalia]])

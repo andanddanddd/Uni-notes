@@ -5,6 +5,7 @@
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
 <!--SR:!2026-10-30,4,270-->
 - Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)
+<!--SR:!2026-11-02,4,270-->
 - Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
 <!--SR:!2026-10-30,4,270-->
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
