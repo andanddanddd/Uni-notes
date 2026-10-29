@@ -37,3 +37,5 @@
 ![[Fingrenes led]]
 
 ![[Håndledet]]
+
+[[Occlusion - hånd muskler 1]]
