@@ -5,4 +5,4 @@
 - [[Articulatio interphalangialis distalis (DIP)]]
 - [[Articulatio interphalangialis proximalis (PIP)]]
 - [[Articulatio metacarpophalangealis (MCP)]]
-- [[Articulatio carpometacarpalis pollicis]]
+- [[Articulatio carpometacarpalis pollicis (CMP)]]
