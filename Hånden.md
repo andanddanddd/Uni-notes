@@ -26,9 +26,7 @@
 - [[M. opponens digiti minimi]]
 - [[M. palmaris brevis]]
 
-- Hvad hedder de 2 "typer" af muskler i den spatia interossa?
-?
-- [[Mm. interossei (palmaries-dorsalis)]]
-- [[Mm. interossei dorsales]]
+- Hvad hedder de af musklener i spatia interossa?:: [[Mm. interossei (palmaries-dorsalis)]]
+
 
 - Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]

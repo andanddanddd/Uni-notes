@@ -7,7 +7,8 @@
 - Hvor dybt ligger mm. interossei palmaries/dorsalis?
 
 ### Form
-- Hvilken form har mm. interossei palmaries/dorsalis?
+- Hvilken form har mm. interossei palmaries?:: Semipennante
+- Hvilken form har mm. interossei dorsalis?:: Pennante
 
 ### Udspring
 - Hvor udspringer mm. interossei palmaries/dorsalis?:: Skaftet af os metacarpale
@@ -19,6 +20,7 @@
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei palmaries?:: Samle de ulnare fingre (samt precisionsgreb)
 - Hvilke bevægelser udfører mm. interossei dorsalis?:: sprede de ulnare fingre (samt precisionsgreb)
+- Hvilken gruppe af mm. interossei er kraftigst?:: mm. interossei dorsalis
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere mm. interossei palmaries/dorsalis?:: [[N. ulnaris]]
