@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. levator scapulae insetion?:: Angulus superior (se [[Scapula]])
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-10-31,2,230-->
 
 ### Funktion
 - Hvilke funktioner har m. levator scapulae?:: Løfte og indadrotere skulderen

@@ -23,7 +23,7 @@
 - Hvilken funktion har den bagerste del af m. deltoideus?:: Extension, adduction og udadrotation (af armen)
 <!--SR:!2026-10-30,4,270-->
 - Hvilken funktion har den mellemste del af m. deltoideus?:: Abduction (af armen)
-<!--SR:!2026-10-29,2,230-->
+<!--SR:!2026-11-05,7,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

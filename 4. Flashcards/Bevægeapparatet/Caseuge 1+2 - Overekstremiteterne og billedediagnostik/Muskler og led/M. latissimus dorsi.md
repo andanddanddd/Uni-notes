@@ -16,7 +16,7 @@
 ?
 - Primært facia thoracolumbalis
 - Lidt fra hoftebenet
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Insertion
 - Hvor har m. latissimus insersion?:: Crista tuberculi minoris humeri (se [[Humerus]])

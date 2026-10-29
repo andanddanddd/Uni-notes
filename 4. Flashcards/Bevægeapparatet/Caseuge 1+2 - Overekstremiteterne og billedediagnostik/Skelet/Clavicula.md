@@ -39,4 +39,4 @@
 ![[Clavicula anatomi 1]]A?:: Facies articularis acromialis
 <!--SR:!2026-10-30,4,270-->
 ![[Clavicula anatomi 1]]B?:: Facies articularis sternalis
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
