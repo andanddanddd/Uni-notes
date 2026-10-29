@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. abductor pollicis brevis.md",
+                "file": "M. adductor pollicis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. abductor pollicis brevis"
+              "title": "M. adductor pollicis"
             }
           },
           {
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -285,9 +284,12 @@
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
     "M. opponens pollicis.md",
-    "M. abductor pollicis brevis.md",
+    "M. adductor pollicis.md",
     "Hånden.md",
     "M. flexor pollicis brevis.md",
+    "M. abductor pollicis brevis.md",
+    "Skabeloner/Skabelon - Medikament.md",
+    "Skabeloner/Skabelon - Muskler.md",
     "Canalis carpi (carpaltunnelen).md",
     "Retinaculum flexorum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndroden.md",
@@ -307,10 +309,7 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Dorsal muskelgruppe (skulder).md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. rhomboideus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Ventral skuldergruppe (skulder).md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Lateral skuldergrupe (skulder).md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. deltoideus.md",
     "0. De allervigtigste/Bevægeapparatet",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. serratus anterior.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",

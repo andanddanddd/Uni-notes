@@ -18,6 +18,7 @@
 - Hvilke bevægelser udfører m. abductor pollicis brevis?:: Opposition af tommelfingeren
 
 ### Innerversion og reflekser
+- Hvilken nerve innervere m. abductor pollicis brevis?:: [[N. medianus]]
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

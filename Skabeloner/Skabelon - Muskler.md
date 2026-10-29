@@ -16,6 +16,7 @@
 - Hvilke bevægelser udfører mK?
 
 ### Innerversion og reflekser
+- Hvilken nerve innervere mK?
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik
