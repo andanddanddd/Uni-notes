@@ -3,3 +3,5 @@
 ![[Os coxae]]
 
 ![[Femoris]]
+
+![[Tibia]]

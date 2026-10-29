@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - femoris 1.md",
+                "file": "Occlusion - underbensknogler 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion - femoris 1"
+              "title": "Occlusion - underbensknogler 1"
+            }
+          },
+          {
+            "id": "c017789a8b2e5d53",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Underbensknogler 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underbensknogler 1"
             }
           },
           {
@@ -281,14 +293,18 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Femoris 1.md",
-    "Occlusion - femoris 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Underbensknogler 1.md",
+    "Occlusion - underbensknogler 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Ligamenter hofte 1.md",
+    "underbensknogler 1.png",
+    "Tibia.md",
     "Underekstremiteternes skelet.md",
-    "femoris 1.png",
     "Femoris.md",
+    "Occlusion - femoris 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Femoris 1.md",
+    "femoris 1.png",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coxae.md",
     "Occlusion - ligamenter hofte 1.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Ligamenter hofte 1.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Lig. sacrotuberale.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ala ossis ilii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Lig sacrospinale.md",
@@ -310,15 +326,12 @@
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus ossis ischii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os pubis.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus ossis pubis.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ramus sup ossis pubis.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ramus inf. ossis pubis.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd muskler 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/finger anatomi 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/finger anatomi 1.png",
     "Excalidraw/Bevægeapparatet/Overekstremiteter",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd anatomi 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd anatomi 1.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/albue anatomi 2.png",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "0. De allervigtigste/Bevægeapparatet",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
