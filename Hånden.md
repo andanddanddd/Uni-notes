@@ -33,3 +33,5 @@
 - Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]
 
 ![[Ekstensoraponeurosen]]
+
+![[Fingrenes led]]

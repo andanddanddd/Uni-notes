@@ -6,7 +6,7 @@
 ?
 1. [[Phalinx proximalis]]
 2. [[Phalinx media]]
-3. [[Phalinx distalis]]
+3. [[Phalanx distalis]]
 <!--SR:!2026-11-11,14,290-->
 
 - Hvad kaldes de 3 dele af en fingerknogler? (fra proximal til distal)
