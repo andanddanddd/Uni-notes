@@ -35,6 +35,7 @@
 - Hvor har fibrene C6-T1 insersion henne? (M. trapezius):: Laterale dele af clavicula samt acromion (se [[Scapula]])
 <!--SR:!2026-10-30,3,250-->
 - Hvor har fibrene fra T8-T10 insersion henne? (M. trapezius):: Spina scapulae (se [[Scapula]])
+<!--SR:!2026-10-30,1,230-->
 
 ### Funktion
 - Hvilken del af m. trapezius er kraftigst?:: Delen der udspringer fra C6-T1

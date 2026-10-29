@@ -14,6 +14,7 @@
 
 ### Insertion
 - Hvor har m. pronator teres insertion?:: Lateralfladen af [[Radius]]
+<!--SR:!2026-11-02,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator teres?:: Flektion af albue samt pronation

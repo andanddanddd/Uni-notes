@@ -7,6 +7,7 @@
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale
+<!--SR:!2026-11-02,4,270-->
 #### Form og størrelse
 - Hvilken overordnet form har scapula?:: Flad, trekantet
 <!--SR:!2026-10-30,4,270-->

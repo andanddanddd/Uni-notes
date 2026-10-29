@@ -53,3 +53,4 @@
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
 <!--SR:!2026-10-30,4,270-->
 ![[Humerus anatomi 1]]Æ?:: Humerus posteriort
+<!--SR:!2026-11-02,4,270-->

@@ -12,5 +12,6 @@
 ![[Skuldermuskler 1]]E?:: [[M. deltoideus]] (mellemste og bagerste del)
 <!--SR:!2026-10-31,3,250-->
 ![[Skuldermuskler 1]]F?:: [[M. triceps brachii]]
+<!--SR:!2026-11-02,4,270-->
 
 

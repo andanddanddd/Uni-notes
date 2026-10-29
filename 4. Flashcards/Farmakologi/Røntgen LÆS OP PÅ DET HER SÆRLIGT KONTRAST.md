@@ -11,6 +11,7 @@
 <!--SR:!2026-11-02,4,270-->
 - Eksempel på projektioner til røntgen?:: PA (posteriort-anteriort) og profil (fra siden)
 - Hvorfor kan det være et problem at røntgen kun er 2-dimensionnel?:: Det er svært at skeldne overlappende knogler
+<!--SR:!2026-11-02,4,270-->
 
 - Hvad betyder radiolucent?:: Mørk (stråling går igennem, sort)
 - Hvad betyder radiooak?:: Hvid (absorbsion)
