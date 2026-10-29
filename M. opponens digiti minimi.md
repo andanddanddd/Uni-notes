@@ -12,13 +12,13 @@
 - Hvor udspringer m. opponens digiti minimi?:: [[Retinaculum flexorum]] samt ulnare håndrodsknogler ([[Os pisiforme]] og [[Os hamatum]])
 
 ### Insertion
-- Hvor har m. opponens digiti minimi insertion?
+- Hvor har m. opponens digiti minimi insertion?:: Skaftet af os metacarpale V
 
 ### Funktion
-- Hvilke bevægelser udfører m. opponens digiti minimi?
+- Hvilke bevægelser udfører m. opponens digiti minimi?:: Opponation af lillefingeren
 
 ### Innerversion og reflekser
-- Hvilken nerve innervere m. opponens digiti minimi?
+- Hvilken nerve innervere m. opponens digiti minimi?:: [[N. ulnaris]]
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik
