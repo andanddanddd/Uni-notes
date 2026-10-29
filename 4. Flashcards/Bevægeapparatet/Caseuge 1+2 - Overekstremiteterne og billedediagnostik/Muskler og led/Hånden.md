@@ -39,3 +39,6 @@
 ![[Håndledet]]
 
 [[Occlusion - hånd muskler 1]]
+[[Occlusion - hånd anatomi 1]]
+[[Occlusion - hånd anatomi 2]]
+[[Occlusion - finger anatomi 1]]
