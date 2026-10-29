@@ -33,3 +33,6 @@
 - Hvornår vokser de 3 dele af os coxae sammen?:: I slutningen af puberteten
 ### Inspektion og palpation
 ### Klinik
+
+
+[[Occlusion - hoftebenet 1]]

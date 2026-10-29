@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os ilium.md",
+                "file": "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coxae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Os ilium"
+              "title": "Os coxae"
+            }
+          },
+          {
+            "id": "e0595195f95d9bd0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Hoftebenet 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Hoftebenet 1"
             }
           }
         ]
@@ -233,10 +245,16 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ala ossis ilii.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os ilium.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus ossis ilii.md",
+    "Occlusion - hoftebenet 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Hoftebenet 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne",
+    "hoftebenet 1.png",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coxae.md",
+    "Underekstemiteres skelet.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os ilium.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ala ossis ilii.md",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus ossis ilii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os ischii.md",
     "Skabeloner/Skabelon - Knogle.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ramus ossis ischii.md",
@@ -245,7 +263,6 @@
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus ossis pubis.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ramus sup ossis pubis.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ramus inf. ossis pubis.md",
-    "Underekstemiteres skelet.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
@@ -258,8 +275,6 @@
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Hånd - anatomi 2.md",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Finger - anatomi 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Hånden.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - finger anatomi 2.md",
-    "Excalidraw/Bevægeapparatet/Overekstremiteter/Finger - anatomi 2.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/finger anatomi 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/finger anatomi 1.png",
     "Excalidraw/Bevægeapparatet/Overekstremiteter",
@@ -273,12 +288,9 @@
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
     "Billeder/Bevægeapparatet/Overekstremiteterne/sener i hånd.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foran superficel.png",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Led",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Muskler",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Skelet",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led",
-    "Billeder/Bevægeapparatet/Overekstremiteterne",
     "Untitled.canvas"
   ]
 }
