@@ -15,7 +15,7 @@
 - Hvor har m. abductor pollicis brevis insertion?:: Tommelfingerens radiale sesamknogle samt basis af phalinx proximale
 
 ### Funktion
-- Hvilke bevægelser udfører m. abductor pollicis brevis?:: Opposition af tommelfingeren
+- Hvilke bevægelser udfører m. abductor pollicis brevis?:: Abduction af tommelfingeren
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor pollicis brevis?:: [[N. medianus]]

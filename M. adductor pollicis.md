@@ -9,16 +9,17 @@
 - Hvilken form har m. adductor pollicis?:: Vifteformet
 
 ### Udspring
-- Hvor udspringer m. adductor pollicis?
+- Hvor udspringer caput transversum af m. adductor pollicis?:: Palmare del af os metacarpale III
+- Hvor udspringer caput obliquum af m. adductor pollicis?:: Ligamenter og knogler i [[sulcus carpi]]
 
 ### Insertion
-- Hvor har m. adductor pollicis insertion?
+- Hvor har m. adductor pollicis insertion?:: Tommelfingerens ulnare sesamknogle samt ulnare dele af basis af phalinx proximale I
 
 ### Funktion
-- Hvilke bevægelser udfører m. adductor pollicis?
+- Hvilke bevægelser udfører m. adductor pollicis?:: Adduction af tommelfingeren
 
 ### Innerversion og reflekser
-- Hvilken nerve innervere m. adductor pollicis?
+- Hvilken nerve innervere m. adductor pollicis?:: [[N. ulnaris]]
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

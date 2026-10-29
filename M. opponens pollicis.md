@@ -15,7 +15,7 @@
 - Hvor har m. opponens pollicis insertion?:: Radiale kant af skaftet på os metacarpale I (hele kanten)
 
 ### Funktion
-- Hvilke bevægelser udfører m. opponens pollicis?:: Opposition af tommelfingeren
+- Hvilke bevægelser udfører m. opponens pollicis?:: Opposition af tommelfingeren (rotation + adduction agtigt)
 
 ### Innerversion og reflekser'
 - Hvilken nerve innervere m. opponens pollicis?:: [[N. medianus]]
