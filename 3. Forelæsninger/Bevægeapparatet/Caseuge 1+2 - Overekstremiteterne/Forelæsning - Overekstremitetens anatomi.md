@@ -15,3 +15,5 @@ Meget bindevæv i axilregionen så nerver og kar kan bevæge sig sammen med arme
 ![[Albuen]]
 
 ![[Underarmen]]
+
+![[Hånden]]
