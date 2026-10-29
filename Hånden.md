@@ -28,7 +28,7 @@
 
 - Hvad hedder de 2 "typer" af muskler i den spatia interossa?
 ?
-- [[Mm. interossei palmaries]]
+- [[Mm. interossei (palmaries-dorsalis)]]
 - [[Mm. interossei dorsales]]
 
 - Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]
