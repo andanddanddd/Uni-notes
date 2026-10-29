@@ -5,3 +5,5 @@
 ![[Femoris]]
 
 ![[Tibia]]
+
+![[Fodens skelet]]
