@@ -14,7 +14,7 @@
 - Hvor udspringer de 2 ulnare mm. lumbricales?:: Randene til senerne på finger 2,3,4
 
 ### Insertion
-- Hvor har mm. lumbricales insertion?:: Radiale kanter af de 4 ulanre fingres ekstensoraponeuroser
+- Hvor har mm. lumbricales insertion?:: Radiale kanter af [[Ekstensoraponeurosen]] af de 4 ulanre fingre
 
 ### Funktion
 - Hvilken funktion har mm. lumbricales?:: Registrere proprioception særligt af de 2 yderste led

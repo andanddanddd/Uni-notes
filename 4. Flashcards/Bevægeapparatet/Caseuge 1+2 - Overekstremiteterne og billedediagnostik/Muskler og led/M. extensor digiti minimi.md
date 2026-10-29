@@ -13,7 +13,7 @@
 <!--SR:!2026-11-02,4,270-->
 
 ### Insertion
-- Hvor har m. extensor digiti minimi insertion?:: Ekstensoraponeurosen på lillfingeren
+- Hvor har m. extensor digiti minimi insertion?:: [[Ekstensoraponeurosen]] på lillfingeren
 <!--SR:!2026-10-30,3,250-->
 
 ### Funktion

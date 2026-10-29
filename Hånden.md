@@ -4,6 +4,8 @@
 - Udover bevægelse hvilken funktion har muskerne i thenar og hypothenar?:: Danne trykpude på gribefladen (polstring)
 - Hvad hedder strukturen sener går igennem fra underarmen til palma manus?:: [[Canalis carpi (carpaltunnelen)]]
 - Hvad kaldes den store "seneplade" på håndfladen?:: [[Aponeurosis palmaris]]
+- Hvad kaldes seneskedehinderne omkring fleksorene i fingerene?:: [[Vaginae synovialis]]
+- Hvad kaldes seneskederne omrking fleksorene i fingrene?::[[ Vaginae fibrosae]]
 
 - Hvad hedder håndens 4 muskelgrupper og hvor er de overordnet?
 ?
@@ -27,7 +29,6 @@
 - [[M. palmaris brevis]]
 
 - Hvad hedder de af musklener i spatia interossa?:: [[Mm. interossei (palmaries-dorsalis)]]
-
 
 - Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]
 
