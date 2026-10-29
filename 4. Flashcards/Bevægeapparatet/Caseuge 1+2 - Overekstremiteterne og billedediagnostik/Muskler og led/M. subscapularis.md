@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilken funktion har m. subscapularis?:: Indadrotation af overarmen
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-10-31,2,230-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

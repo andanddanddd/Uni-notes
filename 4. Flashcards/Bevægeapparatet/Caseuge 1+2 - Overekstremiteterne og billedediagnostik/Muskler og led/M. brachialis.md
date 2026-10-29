@@ -4,14 +4,14 @@
 ### Lokation
 - Hvor er m. brachialis overordnet?:: foran på overarmen
 - Hvor dybt ligger m. brachialis:: Det er den dybeste af de foreste oevrarmsmuskler
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-08,10,270-->
 
 ### Form
 - Hvilken form har m. brachialis?
 
 ### Udspring
 - Hvor udspringer m. brachialis?:: Forfladen af den nederste halvdel af [[Humerus]]
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Insertion
 - Hvor har m. brachialis insertion?:: Tuberositas ulnae på processus coronoideus (se [[Ulna]])

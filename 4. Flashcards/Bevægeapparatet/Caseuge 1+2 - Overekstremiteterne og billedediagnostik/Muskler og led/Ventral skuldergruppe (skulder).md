@@ -11,7 +11,7 @@
 - [[M. pectoralis minor]]
 - [[M. subclavicus]]
 - [[M. serratus anterior]]
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-08,10,270-->
 
 ![[overfladiske brystmuskeler 1.png]]
 ![[overfladiske brystmuskler 2.png]]

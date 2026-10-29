@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. supraspinatus?:: lille trekant
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-06,8,250-->
 
 ### Udspring
 - Hvor udspringer m. supraspinatus?:: Fossa supraspinata (se [[Scapula]])
@@ -22,7 +22,7 @@
 ?
 - Holde humerus inde i skulderledet
 - Abduction af armen
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

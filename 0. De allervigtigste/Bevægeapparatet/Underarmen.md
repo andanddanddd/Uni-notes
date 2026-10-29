@@ -10,7 +10,7 @@
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
 <!--SR:!2026-10-31,4,270-->
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
-<!--SR:!2026-10-29,1,210-->
+<!--SR:!2026-10-31,2,210-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
 
 ### Muskler til flektion
@@ -28,7 +28,7 @@
 ?
 - [[M. flexor pollicis longus]]
 - [[M. flexor digitorum profundus]]
-<!--SR:!2026-10-29,1,210-->
+<!--SR:!2026-10-31,2,210-->
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
 

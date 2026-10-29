@@ -3,11 +3,11 @@
 
 ### Lokation
 - Hvor dybt ligger m. subclavicus?:: Temmelig superficielt med under [[M. pectoralis major]]
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Form
 - Hvilken form har m. subclavicus?:: Lille tenformet
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Udspring
 - Hvor har m. subclavicus udspring?:: 1. ribben

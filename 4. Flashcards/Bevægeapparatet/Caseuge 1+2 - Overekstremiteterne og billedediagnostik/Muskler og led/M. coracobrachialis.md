@@ -17,7 +17,7 @@
 
 ### Insertion
 - Hvor har m. coracobrachialis insertion?:: Midt på [[Humerus]]
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Funktion
 - Hvilken funktion har m. coracobrachialis?:: Adduktion og flektion af skulderledet

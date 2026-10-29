@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. felxor digitorum superficialis overordnet?:: Underarmens foreste loge lag 2
 - Hvor dybt ligger m. felxor digitorum superficialis?:: Temmelig superficielt (lag 2)
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 
 ### Form
 - Hvilken form har m. felxor digitorum superficialis?:: Bred (den fylder et helt lag selv)

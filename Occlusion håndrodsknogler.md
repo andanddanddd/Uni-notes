@@ -15,7 +15,7 @@
 ![[Hånd(knogle) anatomi 1]]F?:: Phalanx proximalis
 <!--SR:!2026-11-12,15,290-->
 ![[Hånd(knogle) anatomi 1]]G?:: Phalanx distalis
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-08,10,270-->
 ![[Hånd(knogle) anatomi 1]]H?:: Phalanz proximalis
 <!--SR:!2026-10-30,4,270-->
 ![[Hånd(knogle) anatomi 1]]I?:: Ossa sesamoidea
@@ -24,9 +24,9 @@
 <!--SR:!2026-11-13,16,290-->
 ![[Hånd(knogle) anatomi 1]]K?:: Radius
 ![[Hånd(knogle) anatomi 1]]1?:: Os scaphoideum
-<!--SR:!2026-10-29,1,130-->
+<!--SR:!2026-10-31,2,150-->
 ![[Hånd(knogle) anatomi 1]]2?:: Os lunatum
-<!--SR:!2026-10-29,3,230-->
+<!--SR:!2026-10-31,2,210-->
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
 <!--SR:!2026-10-30,2,150-->
 ![[Hånd(knogle) anatomi 1]]4?:: Os pisiforme
@@ -60,4 +60,4 @@
 ![[Hånd(knogler) anatomi 2]]J?:: Index
 <!--SR:!2026-11-10,14,290-->
 ![[Hånd(knogler) anatomi 2]]K?:: Pollex
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->

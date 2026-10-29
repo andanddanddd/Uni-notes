@@ -8,7 +8,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvad hedder de 2 fremspring på den proximale ekstremitet af ulna?:: Olecranon og processus coronoideus
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-07,9,250-->
 - Hvad kaldes ledskålen på den proximale ekstremitet af ulna?:: [[Incisura trochlearis]]
 <!--SR:!2026-11-08,12,270-->
 - Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
@@ -16,7 +16,7 @@
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
 <!--SR:!2026-10-30,4,270-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
-<!--SR:!2026-10-29,1,190-->
+<!--SR:!2026-10-30,1,170-->
 
 ### Relationer
 #### Led
@@ -46,6 +46,6 @@
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae
 <!--SR:!2026-10-31,3,230-->
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-10-31,2,230-->
 ![[Ulna anatomi 1]]F?:: Caput ulnae
 <!--SR:!2026-11-11,14,290-->

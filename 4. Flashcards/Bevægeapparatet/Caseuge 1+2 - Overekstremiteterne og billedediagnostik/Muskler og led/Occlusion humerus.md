@@ -32,7 +32,7 @@
 ![[Humerus anatomi 1]]O?:: Margo anterior
 <!--SR:!2026-11-06,11,270-->
 ![[Humerus anatomi 1]]P?:: Margo lateralis
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 ![[Humerus anatomi 1]]Q?:: Fossa coronoidea
 <!--SR:!2026-10-30,3,250-->
 ![[Humerus anatomi 1]]R?:: Fossa olecrani

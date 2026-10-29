@@ -12,7 +12,7 @@
 
 ### Ledets strukture
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale
-<!--SR:!2026-10-29,1,210-->
+<!--SR:!2026-10-31,2,210-->
 	- Hvor store er labrum glenoidale?:: den går rundt langs hele ledskålen
 <!--SR:!2026-10-31,4,270-->
 

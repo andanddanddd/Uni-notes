@@ -24,11 +24,11 @@
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
 <!--SR:!2026-10-30,3,250-->
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 - Hvilken form har skulderbladets forside?:: Concav
 <!--SR:!2026-11-06,11,270-->
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-08,10,270-->
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
 <!--SR:!2026-11-12,15,290-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
@@ -65,13 +65,13 @@
 ![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis
 <!--SR:!2026-10-30,4,270-->
 ![[Scapula Anatomi 1]]C?:: Processus coracoideus
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-08,10,270-->
 ![[Scapula Anatomi 1]]D?:: Margo superior
 <!--SR:!2026-10-30,4,270-->
 ![[Scapula Anatomi 1]]E?:: Angulus superior
 <!--SR:!2026-10-31,4,270-->
 ![[Scapula Anatomi 1]]F?:: Anhulus lateralis
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-09,11,270-->
 ![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
 <!--SR:!2026-11-12,16,290-->
 ![[Scapula Anatomi 1]]H?:: Collum scapulae

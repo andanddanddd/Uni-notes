@@ -24,7 +24,7 @@
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris humeri
 <!--SR:!2026-11-09,12,270-->
 - Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
-<!--SR:!2026-10-29,1,210-->
+<!--SR:!2026-10-30,1,190-->
 ##### Distal extremitet
 - Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
 <!--SR:!2026-10-30,4,270-->
@@ -35,7 +35,7 @@
 - Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea
 <!--SR:!2026-11-02,5,230-->
 - Hvad hedder fordybningen på bagsiden af den distale ekstremitet af humerus?:: Fossa olecrani
-<!--SR:!2026-10-29,3,250-->
+<!--SR:!2026-11-08,10,270-->
 
 ### Relationer
 #### Led
