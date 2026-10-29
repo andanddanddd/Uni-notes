@@ -14,26 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hånden.md",
+                "file": "M. opponens digiti minimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hånden"
+              "title": "M. opponens digiti minimi"
             }
           },
           {
-            "id": "04507136ed830c81",
+            "id": "2554a25d90f76d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. opponens pollicis.md",
+                "file": "M. abductor digiti minimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. opponens pollicis"
+              "title": "M. abductor digiti minimi"
             }
           }
         ]
@@ -283,13 +283,22 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "M. opponens pollicis.md",
+    "M. abductor digiti minimi.md",
+    "M. opponens digiti minimi.md",
     "Hånden.md",
+    "M. flexor digiti minimi.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/albue anatomi 2.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/clavicula anatomi 1.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/hånd røntgen 1.png",
+    "Excalidraw/Bevægeapparatet/Led/Albue anatomi 1.md",
+    "Excalidraw/Bevægeapparatet/Led/Albue anatomi 2.md",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
+    "Skabeloner/Skabelon - Medikament.md",
+    "Skabeloner/Skabelon - Muskler.md",
+    "M. opponens pollicis.md",
     "M. adductor pollicis.md",
     "M. flexor pollicis brevis.md",
     "M. abductor pollicis brevis.md",
-    "Skabeloner/Skabelon - Medikament.md",
-    "Skabeloner/Skabelon - Muskler.md",
     "Canalis carpi (carpaltunnelen).md",
     "Retinaculum flexorum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndroden.md",
@@ -304,15 +313,9 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor carpi radialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndens skelet.md",
     "Occlusion håndrodsknogler.md",
-    "0. De allervigtigste/Bevægeapparatet/Skulder og skulderled.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Articulatio humeri.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Dorsal muskelgruppe (skulder).md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. rhomboideus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Ventral skuldergruppe (skulder).md",
     "0. De allervigtigste/Bevægeapparatet",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - billeddiagnostik_bevaegeapparat_DCA.pdf",
     "Billeder/Bevægeapparatet/Overekstremiteterne/sener i hånd.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foran superficel.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm bagved 3.png",
@@ -320,9 +323,6 @@
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm bagved 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foan 3.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/underarm foran 2.png",
-    "underarm foran.png",
-    "Pasted image 20261026121134.png",
-    "Pasted image 20261026120839.png",
     "Excalidraw/Bevægeapparatet/Led",
     "Excalidraw/Bevægeapparatet/Muskler",
     "Excalidraw/Bevægeapparatet/Skelet",
