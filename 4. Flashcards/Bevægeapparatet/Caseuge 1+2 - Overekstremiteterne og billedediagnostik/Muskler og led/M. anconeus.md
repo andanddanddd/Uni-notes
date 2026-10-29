@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. anconeus overordnet?:: Dorsalt på underarmen
 - Hvor dybt ligger m. anconeus?:: Superficielt
+<!--SR:!2026-11-02,4,270-->
 
 ### Form
 - Hvilken form har m. anconeus?:: Lille trekantet
@@ -18,6 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. anconeus?:: Ekstension af albueledet (svag) samt stabilisering af radiohumealledet
+<!--SR:!2026-11-02,4,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

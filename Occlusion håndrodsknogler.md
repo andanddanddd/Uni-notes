@@ -36,6 +36,7 @@
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
 <!--SR:!2026-11-11,14,290-->
 ![[Hånd(knogle) anatomi 1]]7?:: Os capitatum
+<!--SR:!2026-11-02,4,270-->
 ![[Hånd(knogle) anatomi 1]]8?:: Os hamatum
 
 

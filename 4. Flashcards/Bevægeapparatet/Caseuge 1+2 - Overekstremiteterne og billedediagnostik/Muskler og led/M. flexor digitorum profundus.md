@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. felxor digitorum profundus overordnet?:: Foreste loge af underarmen
+<!--SR:!2026-11-02,4,270-->
 - Hvor dybt ligger m. felxor digitorum profundus?:: Dybt (lag 3)
 <!--SR:!2026-10-30,4,270-->
 

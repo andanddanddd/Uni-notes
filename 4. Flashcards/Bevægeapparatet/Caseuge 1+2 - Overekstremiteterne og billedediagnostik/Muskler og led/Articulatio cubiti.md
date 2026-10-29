@@ -10,6 +10,7 @@
 ### Ledtype
 - Hvilken ledtype er articulatio cubiti?:: Hængselsled (sammensat led) med indbygget drejeled
 - Hvordan inddeles albueledet overordnet?:: 3 led alle bestående af flader mellem 2 knogler
+<!--SR:!2026-11-02,4,270-->
 - Hvilken ledtype er articulatio humeroradialis?:: Kugleled
 
 

@@ -7,6 +7,7 @@
 
 - Hvad betyder hyperdens?:: Lys
 - Hvad betyder hypodens?:: Mørk
+<!--SR:!2026-11-02,4,270-->
 
 - Hvad menes med at vælge et vindue til CT overordnet?:: Vælge hvilke HU-enheder der skal være lystest og mørkets og dermed vælge hvor meget kontrast der skal være (forskyde gråtonernerne)
 - Hvorfor kan noget være helt vidt på et CT hvis det ikke er knogle?:: Man har valgt et vindue hvor bløde strukture er tydelige

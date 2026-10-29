@@ -7,10 +7,13 @@
 <!--SR:!2026-10-31,4,270-->
 ![[Overarm muskler 2]]B?:: [[M. deltoideus]]
 ![[Overarm muskler 2]]C?:: [[M. infraspinatus]]
+<!--SR:!2026-10-30,1,230-->
 ![[Overarm muskler 2]]D?:: [[M. teres minor]]
+<!--SR:!2026-11-01,3,250-->
 ![[Overarm muskler 2]]E?:: [[M. teres major]]
 <!--SR:!2026-10-31,4,270-->
 ![[Overarm muskler 2]]F?:: [[M. triceps brachii]]
+<!--SR:!2026-11-02,4,270-->
 ![[Overarm muskler 2]]G?:: [[M. anconeus]]
 <!--SR:!2026-10-30,3,250-->
 ![[Overarm muskler 2]]H (m. triceps brachii)?:: Caput mediale

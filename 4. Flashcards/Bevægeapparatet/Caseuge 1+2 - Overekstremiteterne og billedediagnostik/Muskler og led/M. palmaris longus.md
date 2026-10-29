@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. palmaris longus overordnet?:: 1. lag af underarmens foreste loge, ulnart for [[M. flexor carpi radialis]]
 - Hvor dybt ligger m. palmaris longus?:: Superficielt (lag 1)
+<!--SR:!2026-11-02,4,270-->
 
 ### Form
 - Hvad er særligt ved formen af m. palmaris longus i forhold til andre underarmsmuskler?:: Selve musklen er kort dvs senen er ekstra lang

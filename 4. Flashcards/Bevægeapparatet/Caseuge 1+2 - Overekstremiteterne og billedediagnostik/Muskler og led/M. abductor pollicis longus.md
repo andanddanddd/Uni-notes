@@ -14,6 +14,7 @@
 
 ### Insertion
 - Hvor har m. abductor pollicis longus insertion?:: Basis af os metacarpale I (tommelfinger)
+<!--SR:!2026-11-02,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor pollicis longus?:: Abduction af tommenfinger
