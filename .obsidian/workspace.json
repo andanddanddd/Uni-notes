@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mm. interossei (palmaries-dorsalis).md",
+                "file": "Mm lumbricales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mm. interossei (palmaries-dorsalis)"
+              "title": "Mm lumbricales"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aponeu",
+                "query": "ekstensor apo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -283,7 +284,10 @@
   },
   "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
+    "Ekstensoraponeurosen.md",
     "Hånden.md",
+    "Canalis carpi (carpaltunnelen).md",
+    "Bursa manus.md",
     "Mm. interossei (palmaries-dorsalis).md",
     "Mm lumbricales.md",
     "M. palmaris brevis.md",
@@ -304,15 +308,12 @@
     "M. adductor pollicis.md",
     "M. flexor pollicis brevis.md",
     "M. abductor pollicis brevis.md",
-    "Canalis carpi (carpaltunnelen).md",
     "Retinaculum flexorum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Håndroden.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Retinaculum extensorum.md",
     "Aponeurosis palmaris.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Ulna.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. extensor carpi radialis longus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor digitorum profundus.md",
     "0. De allervigtigste/Bevægeapparatet",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
