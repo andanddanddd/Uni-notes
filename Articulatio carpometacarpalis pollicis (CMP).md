@@ -11,6 +11,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan CMP lave?:: Ekstension-fleksion, adducktion-abduction og opposition (combination af de 2 andre)
+- Hvad menes med fleksiom-ekstension af tommelfingeren?:: Bevægelse i modsatte plan af neglen
 
 ### Klinik
 
