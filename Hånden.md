@@ -19,4 +19,16 @@
 - [[M. opponens pollicis]]
 - [[M. adductor pollicis]]
 
-- Hvad hedder de 
+- Hvad hedder de 4 muskelr i lillefingerens?
+?
+- [[M. abductor digiti minimi]]
+- [[M. flexor digiti minimi]]
+- [[M. opponens digiti minimi]]
+- [[M. palmaris brevis]]
+
+- Hvad hedder de 2 "typer" af muskler i den spatia interossa?
+?
+- [[Mm. interossei palmaries]]
+- [[Mm. interossei dorsales]]
+
+- Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]
