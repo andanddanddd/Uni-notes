@@ -26,3 +26,4 @@
 - Ossifikationstidpunkt
 ### Inspektion og palpation
 ### Klinik
+- I hvilken kropsstilling bliver der særligt lagt vægt på os ischii?:: Siddestilling

@@ -1,9 +1,6 @@
 #flashcards/4/Reproduktion #flashcards/5/Bevægeapparatet 
 
 
-
-
-
 ### Generalt
 
 #### Placering og orientering

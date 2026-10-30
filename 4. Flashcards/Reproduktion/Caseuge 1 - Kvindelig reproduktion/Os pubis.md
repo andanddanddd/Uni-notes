@@ -13,10 +13,11 @@
 - Ramus sup ossis pubis
 
 
-- Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen eller delen ind mod acetabulum ingen kan blive enige
+- Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen 
 - Hvad er ramus inf. ossis pubis?:: Delen under corpus der møder [[Ramus ossis ischii]]
-- Hvad er ramus sup ossis pubis?:: Delen der går ind mod resten af [[Os coxae]] (acetabulum) eller delen der danner symfyse ingen kan blive enige
+- Hvad er ramus sup ossis pubis?:: Delen der går ind mod resten af [[Os coxae]] (acetabulum) 
 <!--SR:!2026-11-03,4,270-->
+- Hvad kaldes sammenvoksningen af os pubis og [[Os ilium]]?:: Emenentia iliopubica
 ### Relationer
 #### Led
 - Hvilke knogler danner os pubis led med
@@ -24,7 +25,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er os pubis
-- Er os pubis parret eller uparret
+- Er os pubis parret eller uparret?:: Parret
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
