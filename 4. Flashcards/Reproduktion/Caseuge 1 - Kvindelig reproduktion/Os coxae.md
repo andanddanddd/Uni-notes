@@ -18,7 +18,7 @@
 #### Led
 - Hvilke 2 strukture forbidner de 2 ossa coxae?
 ?
-- [[Sympysis pubica]]
+- [[Symphysis pubica]]
 - [[Os sacrum]] 
 
 - Hvad kaldes ledet mellem os sacrum og os coxae?:: [[Articulatio sacroiliaca]]

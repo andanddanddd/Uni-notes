@@ -12,12 +12,12 @@
 - Ramus inf. ossis pubis
 - Ramus sup ossis pubis
 
-
 - Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen 
 - Hvad er ramus inf. ossis pubis?:: Delen under corpus der møder [[Ramus ossis ischii]]
-- Hvad er ramus sup ossis pubis?:: Delen der går ind mod resten af [[Os coxae]] (acetabulum) 
+- Hvad er ramus sup ossis pubis?:: Delen der går ind mod resten af [[Os coxae]] ([[Acetabulum]]) 
 <!--SR:!2026-11-03,4,270-->
 - Hvad kaldes sammenvoksningen af os pubis og [[Os ilium]]?:: Emenentia iliopubica
+- Hvad kaldes den skarpe kant af ramus sup. ossis pubis?:: Pecten ossis pubis
 ### Relationer
 #### Led
 - Hvilke knogler danner os pubis led med
