@@ -5,3 +5,5 @@
 - Nederste siderand af [[Os sacrum]]
 - Området mellem spina iliaca post sup/inf [[Ala ossis ilii]]
 - Spina ischiadica (se [[Os ischii]])
+
+- Hvor ligger lig. sacrospinale i forhold til 

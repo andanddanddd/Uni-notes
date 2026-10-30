@@ -3,8 +3,8 @@
 ###### Ledbånd for articulation sacroiliaca
 - Hvad hedder de 2 ligamenter der fungere som ledbånd for articulatio sacroiliaca?
 ?
-- [[Lig. sacrotuberale]]
-- [[Lig sacrospinale]]
+- [[Ligamentum sacrotuberale]]
+- [[Ligamentum sacrospinale]]
 
 - Hvordan ligger lig sacrotuburale og lig sacrospinale i forhold til hinanden?:: Lig sacrospina ligger foran lig sacrotuburale
 ###### Ligamenter til at fastholde pelvis' organer
