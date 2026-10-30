@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. abductor digiti minimi?:: [[Retinaculum flexorum]] samt ulnare håndrodsknogler ([[Os pisiforme]] og [[Os hamatum]])
+<!--SR:!2026-11-03,4,270-->
 
 ### Insertion
 - Hvor har m. abductor digiti minimi insertion?:: Basis af phalanx proximale V

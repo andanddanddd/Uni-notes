@@ -8,6 +8,7 @@
 
 ### Form
 - Hvilken form har mm. interossei palmaries?:: Semipennante
+<!--SR:!2026-11-02,3,250-->
 - Hvilken form har mm. interossei dorsalis?:: Pennante
 
 ### Udspring

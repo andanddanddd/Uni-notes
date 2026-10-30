@@ -22,6 +22,7 @@
 ![[Hoftebenet 1|600]]L?:: Spina iliaca post. sup.
 <!--SR:!2026-11-03,4,270-->
 ![[Hoftebenet 1|600]]M?:: Facies articularis
+<!--SR:!2026-11-03,4,270-->
 
 ![[Hoftebenet 1|600]]N?:: Spina iliaca post. inf
 <!--SR:!2026-11-03,4,270-->

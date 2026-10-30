@@ -9,3 +9,4 @@
 ![[Finger - anatomi 1]]C?:: [[Mm lumbricales]]
 ![[Finger - anatomi 1]]D?:: [[M. flexor digitorum profundus]]
 ![[Finger - anatomi 1]]E?:: [[M. flexor digitorum superficialis]]
+<!--SR:!2026-11-03,4,270-->

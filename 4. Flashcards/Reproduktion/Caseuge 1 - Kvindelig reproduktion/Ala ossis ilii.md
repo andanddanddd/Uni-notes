@@ -15,6 +15,7 @@
 
 - Hvor er facies glutea overordnet?:: Den laterale flade af alla ossis ili
 - Hvor er fossa iliaca overordnet?:: Den skålformede den al ala ossis ilii
+<!--SR:!2026-11-03,4,270-->
 - Hvad hedder ledfladen på ala ossis ilii?:: [[Facies auricularis]]
 <!--SR:!2026-11-03,4,270-->
 - Hvilken funktion har tuberositas iliaca?:: Fæstne stærke ledbånd

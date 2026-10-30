@@ -8,7 +8,7 @@
 <!--SR:!2026-10-31,4,270-->
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 ### Udspring
 - Hvor udspringer m. trapezius overordnet fra?:: Os. occipitale samt rygraden
 <!--SR:!2026-11-13,14,290-->

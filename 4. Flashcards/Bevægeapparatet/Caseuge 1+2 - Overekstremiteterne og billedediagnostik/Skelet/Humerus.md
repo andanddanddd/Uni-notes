@@ -31,7 +31,7 @@
 - Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
 <!--SR:!2026-11-13,14,290-->
 	- Hvor på den distale ekstremitet af humerus findes [[Condylus humeri]]?:: I midten
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 - Hvad kaldes de 2 fremspring på den distale ekstremitet af humerus?:: Epicondylus medialis/lateralis
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea

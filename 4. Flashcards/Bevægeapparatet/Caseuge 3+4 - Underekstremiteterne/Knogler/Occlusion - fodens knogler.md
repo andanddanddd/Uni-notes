@@ -24,3 +24,4 @@
 ![[Fodens knogler 1]]P?:: Tuberositas ossis navicularis
 ![[Fodens knogler 1]]Q?:: Os naviculare
 ![[Fodens knogler 1]]R?:: Ossa metatarsi (I-V)
+<!--SR:!2026-11-03,4,270-->
