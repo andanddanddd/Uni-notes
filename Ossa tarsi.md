@@ -9,4 +9,6 @@
 - Hvad hedder den fibulare knogle i den proximale række af fodroden?:: [[Calcaneus]]
 - Hvad hedder de 5 knogler i den distale række af fodroden?
 ?
-- 
+- [[Os naviculare]]
+- [[Ossa cuniformia (media,intermedium,laterale)]]
+- [[Os cuboideum]]

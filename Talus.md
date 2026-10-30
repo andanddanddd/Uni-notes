@@ -2,13 +2,15 @@
 
 
 ### Generalt
+- Hvad hedder talus på dansk?:: rullebenet
 
 #### Placering og orientering
 - Hvor er talus overordnet?:: Fodroden
 - Hvor i fodroden er talus?:: Proximal række over [[Calcaneus]]
 - Hvilken underbensknogle tilhører talus?:: [[Tibia]]
 #### Form og størrelse
-- Hvor stor er ta
+- Hvor stor er talus?:: Næststørste knogle i fodroden
+- Hvad hedder ledhovedet på talus?:: Caput tali
 
 ### Relationer
 #### Led
