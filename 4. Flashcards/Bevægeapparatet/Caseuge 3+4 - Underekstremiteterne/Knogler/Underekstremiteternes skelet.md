@@ -13,6 +13,10 @@
 
 ![[Femoris]]
 
-![[Tibia]]
+![[Patella]]
+
+![[Underbenets knogler]]
+
+
 
 ![[Fodens skelet]]
