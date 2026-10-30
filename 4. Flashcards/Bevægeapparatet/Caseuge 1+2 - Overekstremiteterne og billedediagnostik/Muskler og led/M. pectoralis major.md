@@ -22,7 +22,7 @@
 
 ### Funktion
 - Hvilken funktion har m. pectoralis major?:: Inadrotation, adduction og fleksion af overarmen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

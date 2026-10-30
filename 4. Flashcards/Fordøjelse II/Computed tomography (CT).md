@@ -6,6 +6,7 @@
 	- Hvad har den højeste HU enhed?:: Kortikal knogle
 
 - Hvad betyder hyperdens?:: Lys
+<!--SR:!2026-11-03,4,270-->
 - Hvad betyder hypodens?:: Mørk
 <!--SR:!2026-11-02,4,270-->
 

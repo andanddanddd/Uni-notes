@@ -9,4 +9,4 @@
 ![[Overfladiske rygmuskler 1]]C?::[[M. trapezius]]
 <!--SR:!2026-11-14,15,290-->
 ![[Overfladiske rygmuskler 1]]D?::[[M. latissimus dorsi]]
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-10,11,270-->

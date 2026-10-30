@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. palmaris longus overordnet?:: 1. lag af underarmens foreste loge, ulnart for [[M. flexor carpi radialis]]
+<!--SR:!2026-11-03,4,270-->
 - Hvor dybt ligger m. palmaris longus?:: Superficielt (lag 1)
 <!--SR:!2026-11-02,4,270-->
 

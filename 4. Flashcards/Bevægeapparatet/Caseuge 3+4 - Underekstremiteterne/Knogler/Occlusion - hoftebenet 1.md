@@ -3,6 +3,7 @@
 ![[hoftebenet 1.png]]
 
 ![[Hoftebenet 1|600]]A?:: Crista iliaca
+<!--SR:!2026-11-03,4,270-->
 ![[Hoftebenet 1|600]]B?:: Fossa iliaca
 ![[Hoftebenet 1|600]]C?:: Spina iliaca ant. sup.
 <!--SR:!2026-11-03,4,270-->
@@ -19,15 +20,15 @@
 <!--SR:!2026-11-02,3,250-->
 ![[Hoftebenet 1|600]]L?:: Spina iliaca post. sup.
 <!--SR:!2026-11-03,4,270-->
-![[Hoftebenet 1]]M?:: Facies articularis
+![[Hoftebenet 1|600]]M?:: Facies articularis
 
-![[Hoftebenet 1]]N?:: Spina iliaca post. inf
+![[Hoftebenet 1|600]]N?:: Spina iliaca post. inf
 <!--SR:!2026-11-03,4,270-->
 
-![[Hoftebenet 1]]O?:: Incisura ischiadica major
+![[Hoftebenet 1|600]]O?:: Incisura ischiadica major
 <!--SR:!2026-11-03,4,270-->
-![[Hoftebenet 1]]P?:: Spina ischiadica
-![[Hoftebenet 1]]Q?:: Incisura inschiadica minor
-![[Hoftebenet 1]]R?:: Tuber ichiadicum
+![[Hoftebenet 1|600]]P?:: Spina ischiadica
+![[Hoftebenet 1|600]]Q?:: Incisura inschiadica minor
+![[Hoftebenet 1|600]]R?:: Tuber ichiadicum
 
 

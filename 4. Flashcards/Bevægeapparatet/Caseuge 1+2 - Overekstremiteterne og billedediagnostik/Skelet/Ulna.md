@@ -32,6 +32,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker længdevækst af ulna?:: Den distale
+<!--SR:!2026-11-03,4,270-->
 ### Inspektion og palpation
 ### Klinik
 ![[ulna anatomi 1.png]]

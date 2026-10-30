@@ -20,6 +20,7 @@
 - Hvad kaldes indsnørringen der afgrænser caput humeri?:: Collum anatomicum
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder de 2 knuder på den proximale extremitet?:: Tuberculum majus/minus
+<!--SR:!2026-11-03,4,270-->
 	- Hvad hedder furen mellem de 2 knuder på den proximale ekstremitet?:: Sulcus intertubercularis
 <!--SR:!2026-11-07,12,270-->
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris humeri

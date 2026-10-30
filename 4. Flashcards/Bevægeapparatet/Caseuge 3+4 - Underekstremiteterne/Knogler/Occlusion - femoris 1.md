@@ -20,9 +20,11 @@
 ![[Femoris 1|600]]O?::Crista intertrochanterica
 ![[Femoris 1|600]]P?:: Tuberosiras glutea
 ![[Femoris 1|600]]Q?:: Labium laterale
+<!--SR:!2026-10-31,1,230-->
 ![[Femoris 1|600]]R?:: Facies poplitea
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 ![[Femoris 1|600]]T?:: Condylus lateralis
+<!--SR:!2026-11-02,3,250-->
 ![[Femoris 1|600]]U?:: Fossa inercondylaris
 ![[Femoris 1|600]]V?:: Condylus medialis
 

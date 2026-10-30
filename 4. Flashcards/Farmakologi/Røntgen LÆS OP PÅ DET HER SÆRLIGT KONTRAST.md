@@ -15,6 +15,7 @@
 <!--SR:!2026-11-02,4,270-->
 
 - Hvad betyder radiolucent?:: Mørk (stråling går igennem, sort)
+<!--SR:!2026-11-03,4,270-->
 - Hvad betyder radiooak?:: Hvid (absorbsion)
 - Hvad betyder sklerose?:: Knoglefortætning (ekstra hvid knogle)
 <!--SR:!2026-11-02,4,270-->

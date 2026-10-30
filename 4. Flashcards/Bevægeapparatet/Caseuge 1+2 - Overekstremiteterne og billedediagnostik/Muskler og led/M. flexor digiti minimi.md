@@ -17,6 +17,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor digiti minimi?:: Flektion af lillefingeren
+<!--SR:!2026-11-03,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor digiti minimi?:: [[N. ulnaris]]

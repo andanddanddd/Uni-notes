@@ -39,6 +39,7 @@
 
 ### Funktion
 - Hvilken del af m. trapezius er kraftigst?:: Delen der udspringer fra C6-T1
+<!--SR:!2026-11-03,4,270-->
 - Hvilke funktioner har m. trapezius?
 ?
 - Løfte skulderen

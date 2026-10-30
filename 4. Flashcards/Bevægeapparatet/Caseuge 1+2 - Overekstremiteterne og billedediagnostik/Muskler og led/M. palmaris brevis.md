@@ -5,6 +5,7 @@
 - Hvor er m. palmaris brevis overordnet?:: Hypothenar (lillefingerbaldens muskler)
 <!--SR:!2026-11-03,4,270-->
 - Hvor dybt ligger m. palmaris brevis?:: Meget superficielt
+<!--SR:!2026-11-03,4,270-->
 
 ### Form
 - Hvilken form har m. palmaris brevis?

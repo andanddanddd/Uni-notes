@@ -10,11 +10,13 @@
 ### Form
 - Hvilken form har de 2 radiele mm. lumbricales?:: Semipennant
 - Hvilken form har de 2 ulnare mm. lumbricales?:: Pennant
+<!--SR:!2026-11-02,3,250-->
 
 ### Udspring
 - Hvor udspringer de 2 radiale mm. lumbricales?:: Radialsiden af senerne i 2. og 3. finger (sener fra [[M. flexor digitorum profundus]])
 <!--SR:!2026-11-03,4,270-->
 - Hvor udspringer de 2 ulnare mm. lumbricales?:: Randene til senerne på finger 2,3,4
+<!--SR:!2026-11-03,4,270-->
 
 ### Insertion
 - Hvor har mm. lumbricales insertion?:: Radiale kanter af [[Ekstensoraponeurosen]] af de 4 ulanre fingre
