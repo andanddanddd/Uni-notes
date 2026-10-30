@@ -1,10 +1,14 @@
-#flashcards/4/Reproduktion 
+#flashcards/4/Reproduktion #flashcards/5/Bevægeapparatet 
 
-- Hvad er det?:: Den øverste hvifteformede del
-- Hvad kaldes den øvre kant af ala?:: Crista iliaca
-- Hvilke 2 strukture afgrænser critsa iliaca?:: Spina iliaca ant/post sup.
+- Hvad er alla osis ilii?:: Den øverste hvifteformede del
+- Hvad kaldes den (frie) øvre kant af ala ossis ilii?:: Crista iliaca
+	- Hvilke 2 strukture afgrænser critsa iliaca?:: Spina iliaca ant/post sup.
+	- Hvad kaldes den tykkeste del af crista iliaca?:: Tuberculum iliacum
 - Hvad hedder de 3 sider af ala?
 ?
 - Facies glutea
 - Facies sacropelvina
 - Fossa iliaca
+
+- Hvor er facies glutea overordnet?:: Den laterale flade af alla ossis ili
+- Hvor er fossa iliaca overordnet?:: Den skålformede den al ala ossis ilii

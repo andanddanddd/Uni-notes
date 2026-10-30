@@ -16,6 +16,7 @@
 - [[Ala ossis ilii]]
 
 - Hvad er corpus ossis ilii?:: Delen der binder til de nedre dele af [[Os coxae]] (acetabulum)
+- Hvad kaldes strukturen der adskiller corpus ossis ilii og ala ossis ili?:: [[Linea arcuata]]
 
 ### Relationer
 #### Led
@@ -23,8 +24,8 @@
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
-- Hvilken knogletype er os ilium?:: Parret
-- Er os ilium parret eller uparret?
+- Hvilken knogletype er os ilium?
+- Er os ilium parret eller uparret?:: Parret
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
