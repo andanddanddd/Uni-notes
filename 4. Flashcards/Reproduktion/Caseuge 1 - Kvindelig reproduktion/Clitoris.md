@@ -9,4 +9,4 @@
 
 - Hvor lang er clitoris i alt?:: 6-7 cm
 - Hvilket ligament holder clitoris fast?:: Lig suspensorium clitoridis
-- Hvad sidder lig. suspensorium clitoridis fast til?:: [[Symphysis pubis]] og [[Corpus clitoridis]]
+- Hvad sidder lig. suspensorium clitoridis fast til?:: [[Symphysis pubica]] og [[Corpus clitoridis]]
