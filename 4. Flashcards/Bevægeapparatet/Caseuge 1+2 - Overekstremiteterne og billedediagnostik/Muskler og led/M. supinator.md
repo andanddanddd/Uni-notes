@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. supinator?:: Et hoved fra epicondylus lateralis+[[Ligamentum collaterale radiale]] og et hoved fra proximale [[Ulna]]
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-01,2,230-->
 
 ### Insertion
 - Hvor har m. supinator insertion?:: [[Radius]] lateralflade

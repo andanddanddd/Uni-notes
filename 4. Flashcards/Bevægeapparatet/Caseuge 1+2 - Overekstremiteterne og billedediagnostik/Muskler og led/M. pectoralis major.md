@@ -3,11 +3,11 @@
 - Hvad hedder de 3 dele af m. pectoralis major?:: Pars clavicularis, pars sternocistalis, pars abdominalis
 ### Lokation
 - Hvor dybt ligger m. pectoralis major?:: Superficielt (mest superficielt af de overfladisek brystmuskler)
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Form
 - Hvilken form har m. pectoralis major?:: Stor flad vifteformet
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-06,7,250-->
 
 ### Udspring
 - Hvor udspringer m. pectoralis major?

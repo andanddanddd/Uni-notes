@@ -5,7 +5,7 @@
 
 ### Form
 - Hvilken form har m. teres major?:: Tyk aflang
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Udspring
 - Hvor udspringer m. teres major?:: Nederste del af [[Scapula]]s lateralkant

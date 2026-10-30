@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 59.53196347031964,
+        "dimension": 59.53196347031963,
         "children": [
           {
             "id": "06e01a4182a74eaa",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - fodens knogler.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion - fodens knogler"
+              "title": "Femoris"
             }
           },
           {
@@ -99,7 +99,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 40.46803652968037,
+        "dimension": 40.46803652968036,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -299,46 +299,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underekstremiteternes skelet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/fodens knogler 1.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/ligamneter hofte 1.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - fodens knogler.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Fodens knogler 1.md",
-    "Occlusion - fodens knogler.md",
-    "fodens knogler 1.png",
-    "Fodens skelet.md",
-    "Underekstremiteternes skelet.md",
-    "Tibia.md",
-    "Occlusion - underbensknogler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fodens skelet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Tibia.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - underbensknogler 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Underbensknogler 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Ligamenter hofte 1.md",
-    "underbensknogler 1.png",
-    "Femoris.md",
-    "Occlusion - femoris 1.md",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/underbensknogler 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - femoris 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Femoris 1.md",
-    "femoris 1.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/femoris 1.png",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coxae.md",
-    "Occlusion - ligamenter hofte 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - ligamenter hofte 1.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Lig. sacrotuberale.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ala ossis ilii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Lig sacrospinale.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os sacrum.md",
-    "ligamneter hofte 1.png",
-    "Occlusion - hoftebenet 2.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - hoftebenet 2.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Hoftebenet 2.md",
-    "hoftebenet 2.png",
-    "Occlusion - hoftebenet 1.md",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/hoftebenet 2.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - hoftebenet 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Hoftebenet 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne",
-    "hoftebenet 1.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/hoftebenet 1.png",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os ilium.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Corpus ossis ilii.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os ischii.md",
     "Skabeloner/Skabelon - Knogle.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Ramus ossis ischii.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/hånd muskler 1.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/finger anatomi 2.png",
     "Billeder/Bevægeapparatet/Overekstremiteterne/finger anatomi 1.png",
@@ -349,8 +349,6 @@
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Led",
-    "Excalidraw/Bevægeapparatet/Overekstremiteter/Muskler",
-    "Excalidraw/Bevægeapparatet/Overekstremiteter/Skelet",
     "Untitled.canvas"
   ]
 }
