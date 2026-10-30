@@ -19,7 +19,8 @@
 - Hvilke 2 strukture forbidner de 2 ossa coxae?
 ?
 - [[Symphysis pubica]]
-- [[Os sacrum]] 
+- [[Os sacrum]]
+<!--SR:!2026-11-03,4,270--> 
 
 - Hvad kaldes ledet mellem os sacrum og os coxae?:: [[Articulatio sacroiliaca]]
 - Hvilken type led er lettet mellem os sacrum og os coxae?:: Synovialled [[Glideled]]

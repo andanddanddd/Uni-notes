@@ -16,6 +16,7 @@
 
 ### Insertion
 - Hvor har m. extensor carpi radialis brevis insertion?:: Basis af os metacarpale III (langefinger)
+<!--SR:!2026-11-02,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis brevis?:: Ekstension og radialdevition af håndledet

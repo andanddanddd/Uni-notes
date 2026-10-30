@@ -26,7 +26,7 @@
 - Hvor har bicepsaponeurosen insertion?:: Fascia antebrachii
 <!--SR:!2026-10-31,3,250-->
 - Hvilken sene til insertion?:: Bicepssenen (dvs den til radius)
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Funktion
 - Hvilke funktioner har m. biceps brachii?:: Primært flektion af albueledet men det kan også bidrage til flektion af skulderen

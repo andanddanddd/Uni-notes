@@ -6,6 +6,7 @@
 ![[Overarm muskler 1]]A?:: [[M. deltoideus]]
 <!--SR:!2026-11-03,4,270-->
 ![[Overarm muskler 1]]B?:: [[M. coracobrachialis]]
+<!--SR:!2026-11-02,3,250-->
 ![[Overarm muskler 1]]C?:: [[M. brachialis]]
 <!--SR:!2026-11-01,3,250-->
 ![[Overarm muskler 1]]D?:: [[M. biceps brachii]]

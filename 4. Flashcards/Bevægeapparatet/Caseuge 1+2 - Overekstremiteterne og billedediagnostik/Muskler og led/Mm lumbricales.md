@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor maneg mm. lumbricales har vi?:: 4
+<!--SR:!2026-11-02,3,250-->
 ### Lokation
 - Hvor er mm. lumbricales overordnet?:: Mellem fingerne palmart
 <!--SR:!2026-11-03,4,270-->
