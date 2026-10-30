@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. felxor digitorum profundus?:: Membrana interossea og proximale dele af [[Ulna]]
-<!--SR:!2026-10-30,1,210-->
+<!--SR:!2026-11-02,3,230-->
 
 ### Insertion
 - Hvor har m. felxor digitorum profundus insertion?:: Phalanx distale (basis) på de 4 ulnare fingre (se [[Fingrene (skelet)]])

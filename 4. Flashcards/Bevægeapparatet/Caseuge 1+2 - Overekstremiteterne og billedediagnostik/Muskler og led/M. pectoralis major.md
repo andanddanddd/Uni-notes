@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder de 3 dele af m. pectoralis major?:: Pars clavicularis, pars sternocistalis, pars abdominalis
+<!--SR:!2026-10-31,1,230-->
 ### Lokation
 - Hvor dybt ligger m. pectoralis major?:: Superficielt (mest superficielt af de overfladisek brystmuskler)
 <!--SR:!2026-11-15,16,290-->
@@ -17,6 +18,7 @@
 
 ### Insertion
 - Hvor har m. pectoralis major insersion?:: Crista tuberculi majoris (se [[Humerus]])
+<!--SR:!2026-10-31,1,230-->
 
 ### Funktion
 - Hvilken funktion har m. pectoralis major?:: Inadrotation, adduction og fleksion af overarmen

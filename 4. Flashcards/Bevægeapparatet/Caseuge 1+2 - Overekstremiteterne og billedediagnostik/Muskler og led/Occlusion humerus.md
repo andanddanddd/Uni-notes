@@ -12,6 +12,7 @@
 ![[Humerus anatomi 1]]D?:: Epicondylus lateralis
 <!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
+<!--SR:!2026-11-02,3,250-->
 ![[Humerus anatomi 1]]F?:: Margo lateralis
 <!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis

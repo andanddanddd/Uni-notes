@@ -17,6 +17,7 @@
 ![[Fodens knogler 1]]L?:: Digitus medius
 ![[Fodens knogler 1]]M?:: Processus posterior tali
 ![[Fodens knogler 1]]N?:: Trochlea tali
+<!--SR:!2026-10-31,1,230-->
 ![[Fodens knogler 1]]O?:: Caput tali
 ![[Fodens knogler 1]]P?:: Tuberositas ossis navicularis
 ![[Fodens knogler 1]]Q?:: Os naviculare

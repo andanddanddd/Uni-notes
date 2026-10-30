@@ -14,6 +14,7 @@
 ![[Hoftebenet 2]]I?:: [[Foramen obturatum]]
 ![[Hoftebenet 2]]J?:: Incisura acerabuli
 ![[Hoftebenet 2]]K?:: Tuberculum iliacum
+<!--SR:!2026-11-02,3,250-->
 ![[Hoftebenet 2]]L?:: Spina iliaca ant. sup 
 ![[Hoftebenet 2]]M?:: Spina iliaca ant. inf.
 ![[Hoftebenet 2]]N?:: Facies lunata 

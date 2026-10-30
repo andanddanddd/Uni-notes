@@ -4,6 +4,7 @@
 - Hvad kaldes art. radiocarpalis også?:: Det egentlige håndled
 ### Ledtype
 - Hvilken ledtype er art. radiocarpalis?:: [[Ellipsoiled]] (sammensat)
+<!--SR:!2026-11-03,4,270-->
 
 ### Ledflader
 - Hvilken struktur danner ledskål i art. radiocarpalis?:: Radius distale ledflade + discus articularis

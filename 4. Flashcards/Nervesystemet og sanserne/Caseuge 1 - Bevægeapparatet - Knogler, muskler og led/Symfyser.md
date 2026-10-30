@@ -3,6 +3,7 @@
 - Hvad kendetegner symfyser?:: En fibrøs forbindelse mellem to knogler med en mellemliggende skive af bruskvæv
 - Hvad kaldes symfyser også?:: Sekundære [[Synchondroser]]
 - Hvordan er bevægeligheden af symfyser?:: Der er lidt men ikke meget
+<!--SR:!2026-11-03,4,270-->
 - Hvor findes symfyser?
 ?
 - Mellem ryghvirvlerne
