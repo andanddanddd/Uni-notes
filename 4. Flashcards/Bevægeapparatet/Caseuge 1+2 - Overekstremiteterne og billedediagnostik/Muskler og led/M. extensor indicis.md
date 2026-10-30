@@ -12,6 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. extensor indicis?:: Bagsiden af [[Ulna]] distalt for [[M. flexor pollicis longus]]
+<!--SR:!2026-11-03,4,270-->
 
 ### Insertion
 - Hvor har m. extensor indicis insertion?:: Ekstensoraponeurosen for pegefingeren

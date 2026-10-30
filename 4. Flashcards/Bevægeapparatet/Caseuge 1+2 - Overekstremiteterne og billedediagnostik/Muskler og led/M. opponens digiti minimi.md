@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. opponens digiti minimi overordnet?:: Hypothenar (lillefingerbaldens muskler)
+<!--SR:!2026-11-02,3,250-->
 - Hvor dybt ligger m. opponens digiti minimi?:: Profund
 
 ### Form

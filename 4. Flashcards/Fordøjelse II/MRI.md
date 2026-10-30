@@ -6,6 +6,7 @@ T2 = 180 grader
 Man måler vist på hvornår spin vender tilabge til uordnet
 - Hvad viser en T1-MRI?:: Generalt anatomi
 - Hvad viser en T2-MRI?:: Ødemer
+<!--SR:!2026-11-03,4,270-->
 
 - Hvilke fordele har MRI?:: Ingen ioniserende stråling og god til bløddele
 <!--SR:!2026-11-02,4,270-->

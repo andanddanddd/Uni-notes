@@ -16,4 +16,5 @@
 
 ### Klinik
 - Hvor stramme er MCP og hvordan mærkes det i hverdagen?:: De er ikke stramme og kan derfor rives fra hinadnen (knække fingre)
+<!--SR:!2026-11-03,4,270-->
 

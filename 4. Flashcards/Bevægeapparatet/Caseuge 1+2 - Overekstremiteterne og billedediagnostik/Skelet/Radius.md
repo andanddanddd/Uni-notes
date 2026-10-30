@@ -8,6 +8,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overorndet form har radius?:: Trekantet prisme
+<!--SR:!2026-11-02,3,250-->
 - Hvad kaldes ledhovedet i den proximale ende af radius?:: [[Caput radii]]
 <!--SR:!2026-11-12,15,290-->
 - Hvad hedder indsnørringen under caput radii?:: Collum radii

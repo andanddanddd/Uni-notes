@@ -12,11 +12,13 @@
 ![[Femoris 1|600]]G?:: Fovea capitis femoris
 ![[Femoris 1|600]]H?:: Trochanter minor
 ![[Femoris 1|600]]I?:: Linea pectinea
-![[Femoris 1|600]]J?:: Caput ossis meforis
+![[Femoris 1|600]]J?:: Caput ossis femoris
+<!--SR:!2026-10-31,1,230-->
 ![[Femoris 1|600]]K?:: Linea aspera
 ![[Femoris 1|600]]L?:: Labium mediale
 ![[Femoris 1|600]]M?:: Tuberculum adductorium
 ![[Femoris 1|600]]N?:: Fossa trochanterica
+<!--SR:!2026-11-02,3,250-->
 ![[Femoris 1|600]]O?::Crista intertrochanterica
 ![[Femoris 1|600]]P?:: Tuberosiras glutea
 ![[Femoris 1|600]]Q?:: Labium laterale

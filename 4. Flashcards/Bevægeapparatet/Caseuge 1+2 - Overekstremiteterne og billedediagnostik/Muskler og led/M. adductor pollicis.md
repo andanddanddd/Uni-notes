@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. adductor pollicis overordnet?:: Thenar (tommelfingerbaldens muskelgruppe)
+<!--SR:!2026-11-03,4,270-->
 - Hvor dybt ligger m. adductor pollicis?
 
 ### Form

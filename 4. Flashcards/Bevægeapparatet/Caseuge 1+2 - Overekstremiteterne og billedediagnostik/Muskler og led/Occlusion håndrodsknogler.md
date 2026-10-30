@@ -58,6 +58,7 @@
 ![[Hånd(knogler) anatomi 2]]G?:: DIgitus minimus
 <!--SR:!2026-11-11,14,290-->
 ![[Hånd(knogler) anatomi 2]]H?:: Digitus anularis
+<!--SR:!2026-11-03,4,270-->
 ![[Hånd(knogler) anatomi 2]]I?:: Digitus medius
 <!--SR:!2026-11-12,16,290-->
 ![[Hånd(knogler) anatomi 2]]J?:: Index

@@ -18,12 +18,13 @@
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
 <!--SR:!2026-11-15,16,290-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
+<!--SR:!2026-11-03,4,270-->
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
 <!--SR:!2026-11-02,5,230-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
 <!--SR:!2026-11-07,12,270-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-09,10,270-->
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
 <!--SR:!2026-11-09,11,270-->
 - Hvilken form har skulderbladets forside?:: Concav

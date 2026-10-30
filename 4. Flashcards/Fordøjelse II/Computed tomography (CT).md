@@ -2,6 +2,7 @@
 
 - Hvad er CT overordnet?:: Røntgen der rotere om patienten
 - Hvad er en housefield-enhed (HU)?:: Dæmpning relativt til vand
+<!--SR:!2026-11-03,4,270-->
 	- Hvad har den laveste HU enhed?:: Luft
 	- Hvad har den højeste HU enhed?:: Kortikal knogle
 

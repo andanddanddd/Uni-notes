@@ -24,6 +24,7 @@
 - [[M. flexor pollicis brevis]]
 - [[M. opponens pollicis]]
 - [[M. adductor pollicis]]
+<!--SR:!2026-11-03,4,270-->
 
 - Hvad hedder de 4 muskelr i lillefingerens?
 ?

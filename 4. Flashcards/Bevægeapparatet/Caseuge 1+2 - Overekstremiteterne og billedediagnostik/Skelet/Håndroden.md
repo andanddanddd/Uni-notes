@@ -24,4 +24,4 @@
 - [[Os trapezoideum]]
 - [[Os capitatum]]
 - [[Os hamatum]]
-<!--SR:!2026-10-30,1,150-->
+<!--SR:!2026-11-01,2,150-->

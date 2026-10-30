@@ -14,9 +14,11 @@
 
 ### Ledets strukture
 - Hvilken side af hånden/underarmen har de stærkest eligamenter til art. radiocarpalis?:: Palmarsiden
+<!--SR:!2026-11-03,4,270-->
 
 ### Funktion
 - Hvilke bevægelser kan art. radiocarpalis lave?:: Palmarfleksion-dorsalfleksion og adduktion (ulnarfelksion/deviation)-abduction (radialflektion/deviation)
+<!--SR:!2026-11-03,4,270-->
 
 ### Klinik
 

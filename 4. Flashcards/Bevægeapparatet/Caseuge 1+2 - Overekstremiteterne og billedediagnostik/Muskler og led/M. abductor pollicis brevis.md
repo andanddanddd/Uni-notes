@@ -14,6 +14,7 @@
 
 ### Insertion
 - Hvor har m. abductor pollicis brevis insertion?:: Tommelfingerens radiale sesamknogle samt basis af phalinx proximale
+<!--SR:!2026-11-03,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor pollicis brevis?:: Abduction af tommelfingeren
