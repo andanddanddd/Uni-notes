@@ -8,7 +8,7 @@
 
 ### Ledflader
 - Hvilke ledflader danner articulatio humeri?:: [[Caput humeri]] og [[Cavitas glenoidalis]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 ### Ledets strukture
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale
@@ -22,7 +22,7 @@
 - Flekstion-ekstenstion
 - Abduction-adduction
 - Indadrotation-udadrotation
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Klinik
 

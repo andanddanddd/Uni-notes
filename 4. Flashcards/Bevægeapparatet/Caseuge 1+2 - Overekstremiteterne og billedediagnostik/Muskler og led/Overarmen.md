@@ -1,12 +1,13 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder overarmen på latin?:: Brachium
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 - Hvad er den overordnede funktion af overarmens muskler?:: Bevæge albueledet
+<!--SR:!2026-11-03,4,270-->
 - Hvor er musklerne der bøjer armen overordnet lokaliseret?:: Foran på overarmen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 - Hvor er musklerne der strækker armen overordnet lokaliseret?:: bagpå overarmen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 - Hvad hedder de 3 muskler i den foreste muskelgruppe af overarmen?
 ?

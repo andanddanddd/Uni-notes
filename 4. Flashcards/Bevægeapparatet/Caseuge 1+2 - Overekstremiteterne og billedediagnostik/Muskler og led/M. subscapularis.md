@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har m. subscapularis?:: Tyk, multipennant, vifteformet
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-08,9,250-->
 
 ### Udspring
 - Hvor udspringer m. subscapularis?:: [[Scapula]]s forflade
@@ -16,6 +16,7 @@
 
 ### Insertion
 - Hvor har m. subscapularis insertion?:: Tuberculum minoris humeri (se [[Humerus]])
+<!--SR:!2026-10-31,1,230-->
 
 ### Funktion
 - Hvilken funktion har m. subscapularis?:: Indadrotation af overarmen

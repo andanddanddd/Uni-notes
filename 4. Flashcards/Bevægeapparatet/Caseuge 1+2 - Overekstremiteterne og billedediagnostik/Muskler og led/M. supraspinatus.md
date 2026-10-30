@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. supraspinatus?:: Fossa supraspinata (se [[Scapula]])
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-09,10,270-->
 
 ### Insertion
 - Hvor har m. supraspinatus insertion?:: Øvertse del af tuberculum majoris humeri (se [[Humerus]])
@@ -29,4 +29,4 @@ Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men me
 Reflekser
 ### Klinik
 - Hvad sker der hvis m. suprasppinatus lammes?:: Skulderledet bliver ustabilt
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-10,11,270-->

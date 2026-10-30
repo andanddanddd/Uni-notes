@@ -5,7 +5,7 @@
 - Hvor er m. felxor digitorum profundus overordnet?:: Foreste loge af underarmen
 <!--SR:!2026-11-02,4,270-->
 - Hvor dybt ligger m. felxor digitorum profundus?:: Dybt (lag 3)
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Form
 - Hvilken form har m. felxor digitorum profundus?
@@ -16,11 +16,11 @@
 
 ### Insertion
 - Hvor har m. felxor digitorum profundus insertion?:: Phalanx distale (basis) på de 4 ulnare fingre (se [[Fingrene (skelet)]])
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor digitorum profundus?:: Flektion i håndled og fingerled
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

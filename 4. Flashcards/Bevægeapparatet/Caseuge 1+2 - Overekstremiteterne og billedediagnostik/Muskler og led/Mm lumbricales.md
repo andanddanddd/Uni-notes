@@ -3,6 +3,7 @@
 - Hvor maneg mm. lumbricales har vi?:: 4
 ### Lokation
 - Hvor er mm. lumbricales overordnet?:: Mellem fingerne palmart
+<!--SR:!2026-11-03,4,270-->
 - Hvor dybt ligger mm. lumbricales?
 
 ### Form
@@ -11,6 +12,7 @@
 
 ### Udspring
 - Hvor udspringer de 2 radiale mm. lumbricales?:: Radialsiden af senerne i 2. og 3. finger (sener fra [[M. flexor digitorum profundus]])
+<!--SR:!2026-11-03,4,270-->
 - Hvor udspringer de 2 ulnare mm. lumbricales?:: Randene til senerne på finger 2,3,4
 
 ### Insertion

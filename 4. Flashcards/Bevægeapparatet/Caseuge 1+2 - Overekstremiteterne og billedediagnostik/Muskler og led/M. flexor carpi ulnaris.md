@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. felxor carpi ulnaris overordnet?:: 1. lag af underarmens foreste loge
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-13,14,290-->
 - Hvor dybt ligger m. felxor carpi ulnaris?:: Superficielt (1. lag)
 
 ### Form

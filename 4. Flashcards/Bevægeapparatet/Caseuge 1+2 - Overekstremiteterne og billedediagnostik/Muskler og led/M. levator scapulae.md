@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke funktioner har m. levator scapulae?:: Løfte og indadrotere skulderen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-13,14,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

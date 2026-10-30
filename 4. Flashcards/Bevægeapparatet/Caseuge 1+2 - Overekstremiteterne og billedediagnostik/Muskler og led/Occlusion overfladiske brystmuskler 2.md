@@ -12,4 +12,4 @@
 ![[Overfladiske brystmuskler 2]]D?:: Scapula margo medialis
 <!--SR:!2026-10-31,4,270-->
 ![[Overfladiske brystmuskler 2]]E?:: [[M. serratus ant]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->

@@ -1,9 +1,9 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder underarmen på latin?:: Antebrachium
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 - Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)
 <!--SR:!2026-11-02,4,270-->
 - Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
@@ -21,10 +21,10 @@
 - [[M. flexor carpi radialis]]
 - [[M. palmaris longus]]
 - [[M. flexor carpi ulnaris]]
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-04,5,230-->
 
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-06,7,250-->
 - Hvilke muskler er i 3. lag af underarmens foreste loge?
 ?
 - [[M. flexor pollicis longus]]

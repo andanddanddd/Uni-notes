@@ -11,11 +11,11 @@
 
 ### Udspring
 - Hvor udspringer m. palmaris longus?:: Caput commune flexorum (epicondylus medialis)
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-09,10,270-->
 
 ### Insertion
 - Hvor har m. palmaris longus insertion?:: Aponeurosis palmaris
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. palmaris longus?:: Flektion af håndledet

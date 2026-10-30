@@ -12,7 +12,7 @@
 
 ### Ledets struktur og dele
 - Hvilke strukture binder [[Clavicula]] til 1. ribben?:: En leddisk (discus artikularis) samt [[Ligamentum costoclavicularis]]
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-04,5,230-->
 
 ### Funktion
 

@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. pronator quadratus?:: Distalt på [[Ulna]]s forflade
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-06,7,250-->
 
 ### Insertion
 - Hvor har m. pronator quadratus insertion?:: Distalt på [[Radius]] forflade
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator quadratus?:: Pronation
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-09,10,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

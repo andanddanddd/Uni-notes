@@ -11,8 +11,10 @@
 ![[Hoftebenet 1]]G?:: Tuberculum pubicum
 ![[Hoftebenet 1]]H?:: Crista bupica
 ![[Hoftebenet 1]]I?:: [[Facies symphysialis]]
+<!--SR:!2026-11-02,3,250-->
 ![[Hoftebenet 1]]J?:: [[Foramen obturatum]]
 ![[Hoftebenet 1]]K?:: Tuberositas iliaca
+<!--SR:!2026-11-02,3,250-->
 ![[Hoftebenet 1]]L?:: Spina iliaca post. sup.
 ![[Hoftebenet 1]]M?:: Facies articularis
 ![[Hoftebenet 1]]N?:: Spina iliaca post. inf

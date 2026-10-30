@@ -5,7 +5,7 @@
 - Hvor er m. latissimus dorsi overordnet?:: Fra thorax-hoften ud til humerus
 <!--SR:!2026-10-31,4,270-->
 - Hvor dybt ligger m. latissimus dorsi?:: Superficielt
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 ### Form
 - Hvilken form har m. latissimus dorsi?:: Vifteformet
@@ -25,7 +25,7 @@
 - Hvilke bevægelser kan m. latissimus dorsi udføre på armen?:: Adduction, extension og indadrotation
 <!--SR:!2026-10-31,4,270-->
 - Hvilken effekt har m. latissimus dorsi ved fikseret overkrop?:: Løfter underkroppen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

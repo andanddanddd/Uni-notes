@@ -12,11 +12,11 @@
 - Hvilken overordnet form har scapula?:: Flad, trekantet
 <!--SR:!2026-10-30,4,270-->
 - Hvor tyk er scapula?:: Tynd og pellucid
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
 <!--SR:!2026-11-02,7,250-->
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
 <!--SR:!2026-11-02,5,230-->
@@ -64,11 +64,11 @@
 ![[Scapula Anatomi 1]]A?:: Acromion
 <!--SR:!2026-11-09,12,270-->
 ![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-13,14,290-->
 ![[Scapula Anatomi 1]]C?:: Processus coracoideus
 <!--SR:!2026-11-08,10,270-->
 ![[Scapula Anatomi 1]]D?:: Margo superior
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 ![[Scapula Anatomi 1]]E?:: Angulus superior
 <!--SR:!2026-10-31,4,270-->
 ![[Scapula Anatomi 1]]F?:: Anhulus lateralis
@@ -89,6 +89,6 @@
 ![[Scapula Anatomi 1]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-02,7,250-->
 ![[Scapula Anatomi 1]]O?:: Suprascapulae
-<!--SR:!2026-10-30,1,230-->
+<!--SR:!2026-10-31,1,210-->
 ![[Scapula Anatomi 1]]P?:: Infraspinata
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-01,2,250-->

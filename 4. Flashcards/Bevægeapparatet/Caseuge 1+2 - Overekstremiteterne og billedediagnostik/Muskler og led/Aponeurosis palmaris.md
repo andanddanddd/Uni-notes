@@ -6,6 +6,7 @@
 - Forankre huden til dybere væv
 
 - Hvor er aponeurosis palmaris overordner?:: Den har længdegående strøg til de 4 ulnare fingre samt tværgående strøg proxiamlt
+<!--SR:!2026-11-03,4,270-->
 - Hvad hedder ligamentet der holder de distale dele af aponeurosis palmaris sammen?:: [[Lig. metacarpale transversum superficiale]]
 - Hvad er formålet med de sagitale septa der afgår fra de tværgående strøg på aponeurosis palmaris?:: Danne kanaler til flexorsenerne
 

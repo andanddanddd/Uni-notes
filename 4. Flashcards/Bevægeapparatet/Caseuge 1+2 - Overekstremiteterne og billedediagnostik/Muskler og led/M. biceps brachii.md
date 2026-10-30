@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. biceps brachii overordnet?:: Foran på overarmen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 - Hvor dybt ligger m. biceps brachii:: Superficielt
 <!--SR:!2026-10-31,4,270-->
 

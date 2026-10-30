@@ -8,6 +8,7 @@
 
 #### Placering og orientering
 - Hvor er os ilium overordnet?:: Den store skål af [[Os coxae]]
+<!--SR:!2026-11-03,4,270-->
 #### Form og størrelse
 - Hvilke 2 dele inddeles os ilium i?
 ?

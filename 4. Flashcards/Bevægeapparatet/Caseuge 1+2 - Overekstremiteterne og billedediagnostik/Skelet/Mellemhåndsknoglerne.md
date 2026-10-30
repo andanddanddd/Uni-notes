@@ -3,7 +3,7 @@
 - Hvad hedder mellemhåndsknoglerne på latin?:: Ossa metacarpalia (I-V)
 <!--SR:!2026-11-02,7,250-->
 - Hvilken type knogler er mellemhåndsknoglerne?:: Små rørknogler
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 - Hvad kaldes de 2 ekstremiteter i mellemhåndsknoglerne?:: Basis (proximal) caput (distal)
 <!--SR:!2026-11-02,7,250-->
 - Hvad kendetegner epifyserne på mellemhåndsknoglerne?:: De har kun 1 hver 

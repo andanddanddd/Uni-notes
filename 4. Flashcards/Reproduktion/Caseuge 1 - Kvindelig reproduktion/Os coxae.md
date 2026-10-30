@@ -14,6 +14,7 @@
 - Hvad kaldes den foreste vinkel under symfysen?:: [[Angulus subpubicus]]
 - Hvad hedder punktet hvor de vokser sammen?:: Acetabulum
 - Hvad kaldes hullet i den nedre del af os coxae?:: [[Foramen obturatum]]
+<!--SR:!2026-11-03,4,270-->
 ### Relationer
 #### Led
 - Hvilke 2 strukture forbidner de 2 ossa coxae?

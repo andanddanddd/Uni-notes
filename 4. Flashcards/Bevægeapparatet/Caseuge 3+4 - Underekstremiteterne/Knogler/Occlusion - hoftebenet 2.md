@@ -3,6 +3,7 @@
 ![[hoftebenet 2.png]]
 
 ![[Hoftebenet 2]]A?:: Crista iliaca
+<!--SR:!2026-11-03,4,270-->
 ![[Hoftebenet 2]]B?:: Facies glutea
 ![[Hoftebenet 2]]C?:: Spina iliaca post. sup
 ![[Hoftebenet 2]]D?:: Incisura ischiadica major
@@ -18,5 +19,7 @@
 ![[Hoftebenet 2]]N?:: Facies lunata 
 ![[Hoftebenet 2]]O?:: Ramus sup. ossis pubis
 ![[Hoftebenet 2]]P?:: Tuberculum pubicum
+<!--SR:!2026-11-02,3,250-->
 ![[Hoftebenet 2]]Q?:: a= ramus ossis ischii, b= ramus inf. ossis pubis
+<!--SR:!2026-11-03,4,270-->
 

@@ -5,6 +5,7 @@
 
 ![[Hånd muskler 1]]A?:: [[M. flexor digiti minimi]]
 ![[Hånd muskler 1]]B?:: [[M. abductor digiti minimi]]
+<!--SR:!2026-11-03,4,270-->
 ![[Hånd muskler 1]]C?:: [[M. flexor pollicis longus]] (sene)
 ![[Hånd muskler 1]]D?:: [[M. opponens digiti minimi]]
 ![[Hånd muskler 1]]E?:: [[M. flexor pollicis brevis]]

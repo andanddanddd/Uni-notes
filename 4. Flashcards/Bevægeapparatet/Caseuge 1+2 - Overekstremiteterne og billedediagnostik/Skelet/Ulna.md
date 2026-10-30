@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder ulna på dansk?:: Albuebenet
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 #### Placering og orientering
 #### Form og størrelse
@@ -14,9 +14,9 @@
 - Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
 <!--SR:!2026-10-31,3,230-->
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
-<!--SR:!2026-10-30,1,170-->
+<!--SR:!2026-11-01,2,190-->
 
 ### Relationer
 #### Led
@@ -38,7 +38,7 @@
 
 ### Occlusion
 ![[Ulna anatomi 1]]A?:: Olecranon
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-13,14,290-->
 ![[Ulna anatomi 1]]B?:: Incisura trochlearis
 <!--SR:!2026-11-13,16,290-->
 ![[Ulna anatomi 1]]C?:: Processus coronoideus

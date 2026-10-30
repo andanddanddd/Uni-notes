@@ -3,12 +3,12 @@
 - Hvor er musklerne i skulderes laterale muskelgruppe overordnet?:: Mellem skulderbæltet og humerus
 <!--SR:!2026-10-31,4,270-->
 - Hvad kaldes skulderens laterale muskelgruppe også?:: De egentlige skuldermuskler
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-13,14,290-->
 - Hvad er de 2 funktioner af de egentlige skuldermuskler?
 ?
 - Bevæge skulderledet
 - Stabilitet
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 - Hvad hedder de 6 muskler i skulderens laterale muskelgruppe?
 ?

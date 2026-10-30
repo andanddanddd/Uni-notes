@@ -13,11 +13,11 @@
 - Hvor har m. subclavicus udspring?:: 1. ribben
 ### Insertion
 - Hvor har m. subclavicus insersion?:: [[Clavicula]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-13,14,290-->
 
 ### Funktion
 - Hvilken funktion har m. subclavicus?:: Trække [[Clavicula]] medialt nedad
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-08,9,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

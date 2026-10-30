@@ -4,16 +4,16 @@
 
 ### Lokation
 - Hvor er m. coracobrachialis overordnet?:: Ovenpå overarmen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 - Hvor dybt ligger m. coracobrachialis?:: Superficielt
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 
 ### Form
 - Hvilken form har m. coracobrachialis?
 
 ### Udspring
 - Hvor udspringer m. coracobrachialis?:: Processus corocoideus (sammen med det ene bicepshoved) (se [[Scapula]])
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-04,5,230-->
 
 ### Insertion
 - Hvor har m. coracobrachialis insertion?:: Midt på [[Humerus]]

@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. palmaris brevis overordnet?:: Hypothenar (lillefingerbaldens muskler)
+<!--SR:!2026-11-03,4,270-->
 - Hvor dybt ligger m. palmaris brevis?:: Meget superficielt
 
 ### Form
@@ -19,6 +20,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. palmaris brevis?:: [[N. ulnaris]] (ramus superficialis)
+<!--SR:!2026-10-31,1,230-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

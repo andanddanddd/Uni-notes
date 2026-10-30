@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder albuen på latin?:: Cubitus
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-06,7,250-->
 - Hvad hedder albueledet på latin?:: [[Articulatio cubiti]]
 
 ![[albue anatomi 1.png]]

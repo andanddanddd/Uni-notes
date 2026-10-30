@@ -20,7 +20,7 @@
 <!--SR:!2026-10-31,4,270-->
 
 - Hvor udspringer caput longum?:: Tuberculum infraglenoidale
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-01,2,250-->
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
 <!--SR:!2026-10-30,3,250-->
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
@@ -32,7 +32,7 @@
 
 ### Funktion
 - Hvilken funktion har m. tricps brachii?:: Ekstension af albue og skulderled
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-15,16,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

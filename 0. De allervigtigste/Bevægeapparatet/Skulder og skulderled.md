@@ -12,4 +12,4 @@
 - [[Articulatio sternoclavicularis]]
 - [[Articulatio acromioclaviculare]]
 - [[Articulatio humeri]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-09,10,270-->
