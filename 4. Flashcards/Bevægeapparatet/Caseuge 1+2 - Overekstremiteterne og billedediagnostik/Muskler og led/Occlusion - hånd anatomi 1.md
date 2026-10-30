@@ -8,6 +8,7 @@
 ![[Hånd anatomi 1]]C?:: [[M. flexor digitorum superficialis]] (sene)
 <!--SR:!2026-11-03,4,270-->
 ![[Hånd anatomi 1]]D?:: Lig. palmare
+<!--SR:!2026-11-02,3,250-->
 ![[Hånd anatomi 1]]E?:: [[Mm lumbricales]]
 ![[Hånd anatomi 1]]F?:: [[Retinaculum flexorum]]
 ![[Hånd anatomi 1]]G?:: [[M. flexor pollicis longus]] (sene)

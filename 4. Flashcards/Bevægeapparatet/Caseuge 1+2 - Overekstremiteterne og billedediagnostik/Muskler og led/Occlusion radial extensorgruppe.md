@@ -6,4 +6,4 @@
 <!--SR:!2026-10-31,4,270-->
 ![[Underarm bagved 3]]B?:: [[M. extensor carpi radialis longus]]
 ![[Underarm bagved 3]]C?:: [[M. extensor carpi radialis brevis]]
-<!--SR:!2026-10-30,1,230-->
+<!--SR:!2026-11-01,2,230-->

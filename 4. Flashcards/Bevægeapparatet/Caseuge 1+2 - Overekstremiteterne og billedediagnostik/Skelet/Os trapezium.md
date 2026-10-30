@@ -10,7 +10,7 @@
 
 ### Relationer
 - Hvilken finger er bundet til os trapezium?:: Tommenfinger
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-14,15,290-->
 #### Led
 - Hvilke knogler danner os trapezium led med
 #### Muskler

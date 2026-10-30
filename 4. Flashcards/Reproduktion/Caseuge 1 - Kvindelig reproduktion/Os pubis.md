@@ -16,6 +16,7 @@
 - Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen eller delen ind mod acetabulum ingen kan blive enige
 - Hvad er ramus inf. ossis pubis?:: Delen under corpus der møder [[Ramus ossis ischii]]
 - Hvad er ramus sup ossis pubis?:: Delen der går ind mod resten af [[Os coxae]] (acetabulum) eller delen der danner symfyse ingen kan blive enige
+<!--SR:!2026-11-03,4,270-->
 ### Relationer
 #### Led
 - Hvilke knogler danner os pubis led med
