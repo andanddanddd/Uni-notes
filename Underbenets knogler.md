@@ -5,3 +5,5 @@
 [[Occlusion - underbensknogler 1]]
 
 ![[Tibia]]
+
+![[Fibula]]
