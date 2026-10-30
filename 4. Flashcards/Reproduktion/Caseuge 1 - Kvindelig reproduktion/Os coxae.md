@@ -12,7 +12,6 @@
 - [[Os ilium]]
 
 - Hvad kaldes den foreste vinkel under symfysen?:: [[Angulus subpubicus]]
-- Hvad hedder punktet hvor de vokser sammen?:: Acetabulum
 - Hvad kaldes hullet i den nedre del af os coxae?:: [[Foramen obturatum]]
 <!--SR:!2026-11-03,4,270-->
 ### Relationer
@@ -27,11 +26,12 @@
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
-- Hvilken knogletype er os coxae
+- Hvilken knogletype er os coxae:: Flad uregelmæssig knogle
 - Er os coxae parret eller uparret?:: Parret
 ### Ossifikation og heeling
 - Type af ossifikation
 - Hvornår vokser de 3 dele af os coxae sammen?:: I slutningen af puberteten
+- Hvad hedder punktet hvor de 3 dele af os coxae vokser sammen?:: [[Acetabulum]]
 ### Inspektion og palpation
 ### Klinik
 
