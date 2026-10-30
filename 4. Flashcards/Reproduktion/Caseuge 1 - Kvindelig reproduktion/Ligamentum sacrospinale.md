@@ -2,8 +2,7 @@
 
 - Hvor binder lig. sacrospinale?
 ?
-- Nederste siderand af [[Os sacrum]]
-- Området mellem spina iliaca post sup/inf [[Ala ossis ilii]]
+- Nederste siderand af [[Os sacrum]] (og [[Os coccygix]])
 - Spina ischiadica (se [[Os ischii]])
 
-- Hvor ligger lig. sacrospinale i forhold til 
+- Hvor ligger lig. sacrospinale i forhold til [[Ligamentum sacrotuberale]]?:: Lig. sacrospinale ligger mest ventralt
