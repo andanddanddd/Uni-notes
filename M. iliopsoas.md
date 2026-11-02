@@ -14,13 +14,14 @@
 
 ### Udspring
 - Hvor udspringer m. iliacus?:: Fossa iliaca (se [[Os ilium]])
-- Hvor udspringer m. psoas major ventrale del?:: Siderne af ambitius eminentes (se [[Ryghvirvler]]) og siderne af 
+- Hvor udspringer m. psoas major ventrale del?:: Siderne af ambitius eminentes (se [[Ryghvirvler]]) og siderne af disci intervertabrales (se [[Rygsøjlens båndskiver]]) (fra T-12 til L5)
+- Hvor udspringer m. psoas major dorsale del?:: Forfladen af processus transversus
 
 ### Insertion
-- Hvor har m. iliopsoas insertion?
+- Hvor har m. iliopsoas insertion?:: Trochanter minor (se [[Femoris]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. iliopsoas?
+- Hvilke bevægelser udfører m. iliopsoas?:: Flexion af hofteledet (vigtigste flexor)
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. iliopsoas?
