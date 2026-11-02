@@ -2,5 +2,5 @@
 
 ![[lårmuskler 2.png]]
 
-A?:: [[m. vastus intermedius]]
-B?:: [[M. rectus femoris]]
+![[Lårmuskler 2]]A?:: [[m. vastus intermedius]]
+![[Lårmuskler 2]]B?:: [[M. rectus femoris]]
