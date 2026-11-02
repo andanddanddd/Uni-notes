@@ -22,6 +22,7 @@
 - Abduction-adduction
 - Indadrotation-udadrotation
 <!--SR:!2026-11-15,16,290-->
+- Hvorfor er art. humeri så ustabilt?:: Ledskålen er lille (i forhold til ledhovedet) og slap kapsel
 
 ### Klinik
 
