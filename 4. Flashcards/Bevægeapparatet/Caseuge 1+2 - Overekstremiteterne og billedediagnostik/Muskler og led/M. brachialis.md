@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. brachialis insertion?:: Tuberositas ulnae på processus coronoideus (se [[Ulna]])
-<!--SR:!2026-11-01,2,230-->
+<!--SR:!2026-11-03,1,210-->
 
 ### Funktion
 - Hvilken funktion har m. brachialis?:: Stabilisering af albueledet

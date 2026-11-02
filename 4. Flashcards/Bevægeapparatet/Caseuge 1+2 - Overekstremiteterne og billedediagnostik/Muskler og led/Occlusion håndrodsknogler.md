@@ -23,9 +23,9 @@
 ![[Hånd(knogle) anatomi 1]]J?:: Ulna
 <!--SR:!2026-11-13,16,290-->
 ![[Hånd(knogle) anatomi 1]]K?:: Radius
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-18,16,290-->
 ![[Hånd(knogle) anatomi 1]]1?:: Os scaphoideum
-<!--SR:!2026-10-31,2,150-->
+<!--SR:!2026-11-06,4,170-->
 ![[Hånd(knogle) anatomi 1]]2?:: Os lunatum
 <!--SR:!2026-10-31,2,210-->
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
@@ -37,7 +37,7 @@
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
 <!--SR:!2026-11-11,14,290-->
 ![[Hånd(knogle) anatomi 1]]7?:: Os capitatum
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-13,11,270-->
 ![[Hånd(knogle) anatomi 1]]8?:: Os hamatum
 
 

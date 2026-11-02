@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ossa digitorum pedis.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Klinik - Bevægeapparatet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ossa digitorum pedis"
+              "title": "Klinik - Bevægeapparatet"
             }
           }
         ]
@@ -237,37 +237,38 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "06e01a4182a74eaa",
   "lastOpenFiles": [
-    "Ossa digitorum pedis.md",
+    "2. Caseuger/Klinik.md",
+    "3. Forelæsninger/Bevægeapparatet/Klinik - Bevægeapparatet.md",
+    "3. Forelæsninger/Mikrobiologi/Klinik - Mikro.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underbenets knogler.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Ossa digitorum pedis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fodens skelet.md",
-    "Ossa metatarsalis.md",
-    "Ossa tarsi.md",
-    "Os cuboideum.md",
-    "Ossa cuniformia (media,intermedium,laterale).md",
-    "Os naviculare.md",
-    "Talus.md",
-    "Calcaneus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Ossa metatarsalis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Ossa tarsi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Os cuboideum.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Ossa cuniformia (media,intermedium,laterale).md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Os naviculare.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Talus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Calcaneus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underekstremiteternes skelet.md",
-    "Underbenets knogler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Tibia.md",
-    "Fibula.md",
-    "Caput fibulae.md",
-    "Facies artikularis superior.md",
-    "Patella.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fibula.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Caput fibulae.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Facies artikularis superior.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Patella.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
-    "Facies patellaris.md",
-    "Caput femoris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Facies patellaris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Caput femoris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - femoris 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - hånd muskler 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - hoftebenet 2.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overarm 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - ligamenter hofte 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Underarmets knogler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens knogler 1.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/ligamneter hofte 1.png",

@@ -4,7 +4,7 @@
 
 ### Ledtype
 - Hvilken type led er articulatio humeri?:: [[Kugleled]]
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-16,14,290-->
 
 ### Ledflader
 - Hvilke ledflader danner articulatio humeri?:: [[Caput humeri]] og [[Cavitas glenoidalis]]
@@ -12,7 +12,7 @@
 
 ### Ledets strukture
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale
-<!--SR:!2026-10-31,2,210-->
+<!--SR:!2026-11-06,4,210-->
 	- Hvor store er labrum glenoidale?:: den går rundt langs hele ledskålen
 <!--SR:!2026-10-31,4,270-->
 

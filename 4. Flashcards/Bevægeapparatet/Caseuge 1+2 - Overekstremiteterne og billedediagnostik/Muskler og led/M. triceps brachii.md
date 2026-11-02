@@ -20,7 +20,7 @@
 <!--SR:!2026-10-31,4,270-->
 
 - Hvor udspringer caput longum?:: Tuberculum infraglenoidale
-<!--SR:!2026-11-01,2,250-->
+<!--SR:!2026-11-02,0,230-->
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
 <!--SR:!2026-10-30,3,250-->
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii

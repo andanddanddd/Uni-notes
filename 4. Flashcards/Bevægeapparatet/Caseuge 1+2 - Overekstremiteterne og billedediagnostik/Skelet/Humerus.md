@@ -26,7 +26,7 @@
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris humeri
 <!--SR:!2026-11-09,12,270-->
 - Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
-<!--SR:!2026-11-01,2,190-->
+<!--SR:!2026-11-06,4,190-->
 ##### Distal extremitet
 - Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
 <!--SR:!2026-11-13,14,290-->

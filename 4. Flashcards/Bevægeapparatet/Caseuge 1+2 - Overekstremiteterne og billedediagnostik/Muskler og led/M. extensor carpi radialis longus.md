@@ -14,7 +14,7 @@
 
 ### Insertion
 - Hvor har m. extensor carpi radialis longus insertion?:: Basis af os metacarpael II (pegefinger)
-<!--SR:!2026-11-01,2,230-->
+<!--SR:!2026-11-03,1,210-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis longus?:: Ekstension og radialdevition af håndledet

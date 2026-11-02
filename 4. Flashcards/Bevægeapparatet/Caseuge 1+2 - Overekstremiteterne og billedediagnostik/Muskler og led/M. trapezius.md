@@ -26,7 +26,7 @@
 <!--SR:!2026-11-14,15,290-->
 
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-16,14,290-->
 - Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os. occipitale]]
 <!--SR:!2026-10-30,3,250-->
 ### Insertion

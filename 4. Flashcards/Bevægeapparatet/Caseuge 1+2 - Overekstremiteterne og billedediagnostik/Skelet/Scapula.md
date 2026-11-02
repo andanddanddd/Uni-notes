@@ -7,14 +7,14 @@
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-18,16,290-->
 #### Form og størrelse
 - Hvilken overordnet form har scapula?:: Flad, trekantet
 <!--SR:!2026-10-30,4,270-->
 - Hvor tyk er scapula?:: Tynd og pellucid
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-27,25,270-->
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
 <!--SR:!2026-11-15,16,290-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
@@ -77,7 +77,7 @@
 ![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
 <!--SR:!2026-11-12,16,290-->
 ![[Scapula Anatomi 1]]H?:: Collum scapulae
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-27,25,270-->
 ![[Scapula Anatomi 1]]I?:: Margo lateralis
 <!--SR:!2026-11-13,16,290-->
 ![[Scapula Anatomi 1]]J?:: Costalis scapulae
@@ -88,8 +88,8 @@
 <!--SR:!2026-11-12,15,290-->
 ![[Scapula Anatomi 1]]M?:: Fossa supraspinata
 ![[Scapula Anatomi 1]]N?:: Dorsalis scapulae
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-26,24,270-->
 ![[Scapula Anatomi 1]]O?:: Suprascapulae
 <!--SR:!2026-10-31,1,210-->
 ![[Scapula Anatomi 1]]P?:: Infraspinata
-<!--SR:!2026-11-01,2,250-->
+<!--SR:!2026-11-09,7,270-->

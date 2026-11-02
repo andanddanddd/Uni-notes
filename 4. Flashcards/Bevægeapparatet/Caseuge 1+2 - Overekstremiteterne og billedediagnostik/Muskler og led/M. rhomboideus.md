@@ -5,11 +5,11 @@
 
 ### Form
 - Hvilken form har m. rhomboideus?:: Rhombeformet muskelplade
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-16,14,290-->
 
 ### Udspring
 - Hvor har m. rhomboideus udspring?:: Processus spinosus af C6-T4 samt ligamentet derimellem ([[Ligamentum supraspinalia]])
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-09,7,250-->
 
 ### Insertion
 - Hvor har m. rhomboideus insersion?:: Medialkanten af [[Scapula]]

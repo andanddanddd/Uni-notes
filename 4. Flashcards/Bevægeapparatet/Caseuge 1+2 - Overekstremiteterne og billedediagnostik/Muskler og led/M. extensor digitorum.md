@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor digitorum overordnet?:: Dorsalt på underarmen (centralt)
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 - Hvor dybt ligger m. extensor digitorum?:: Superficielt
 
 ### Form
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum?:: Ekstension af de 4 ulanre fingre samt håndled
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-17,15,290-->
 - Hvad hedder senerne der forbidner senerne fra m. extensor digitorum?:: [[Connexus intertendinei]]
 
 ### Innerversion og reflekser

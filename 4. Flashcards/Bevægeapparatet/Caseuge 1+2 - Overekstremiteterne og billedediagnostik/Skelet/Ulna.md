@@ -47,6 +47,6 @@
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae
 <!--SR:!2026-10-31,3,230-->
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-09,7,250-->
 ![[Ulna anatomi 1]]F?:: Caput ulnae
 <!--SR:!2026-11-11,14,290-->

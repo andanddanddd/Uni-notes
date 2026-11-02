@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. supinator overordnet?:: Dorsalt på underarmen
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-18,16,290-->
 - Hvor dybt ligger m. supinator?:: Sybt
 
 ### Form
@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. supinator?:: Et hoved fra epicondylus lateralis+[[Ligamentum collaterale radiale]] og et hoved fra proximale [[Ulna]]
-<!--SR:!2026-11-01,2,230-->
+<!--SR:!2026-11-03,1,210-->
 
 ### Insertion
 - Hvor har m. supinator insertion?:: [[Radius]] lateralflade

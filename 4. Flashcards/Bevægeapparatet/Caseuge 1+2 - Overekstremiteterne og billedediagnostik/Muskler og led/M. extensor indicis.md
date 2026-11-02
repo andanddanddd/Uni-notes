@@ -3,9 +3,9 @@
 
 ### Lokation
 - Hvor er m. extensor indicis overordnet?:: Dorsalt på underarmen
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 - Hvor dybt ligger m. extensor indicis?:: Dybt
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-16,14,290-->
 
 ### Form
 - Hvilken form har m. extensor indicis?
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor indicis?:: Ekstension af pegefinegren
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

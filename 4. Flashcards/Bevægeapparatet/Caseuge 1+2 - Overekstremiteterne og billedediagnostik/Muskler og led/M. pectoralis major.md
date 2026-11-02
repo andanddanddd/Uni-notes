@@ -18,7 +18,7 @@
 
 ### Insertion
 - Hvor har m. pectoralis major insersion?:: Crista tuberculi majoris (se [[Humerus]])
-<!--SR:!2026-10-31,1,230-->
+<!--SR:!2026-11-03,1,210-->
 
 ### Funktion
 - Hvilken funktion har m. pectoralis major?:: Inadrotation, adduction og fleksion af overarmen

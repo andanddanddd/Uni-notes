@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis longus?:: Forfladen af radius og membrana interossea
-<!--SR:!2026-10-31,2,210-->
+<!--SR:!2026-11-06,4,210-->
 
 ### Insertion
 - Hvor har m. flexor pollicis longus insertion?:: Phalanx distales på tommelfingeren (se [[Fingrene (skelet)]])
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis longus?:: Flekstion af tommelfingeren (alle led)
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-17,15,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

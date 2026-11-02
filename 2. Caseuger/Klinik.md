@@ -1,6 +1,4 @@
-#flashcards/5/Mikrobiologi 
+#flashcards/6/klinik
 
-https://www.ssi.dk/aktuelt/nyheder/2022/nir-almen-praksis-2-udgave-2022
-
-
-![[Venøse blodprøver]]
+[[Klinik - Mikro]]
+[[Klinik - Bevægeapparatet]]
