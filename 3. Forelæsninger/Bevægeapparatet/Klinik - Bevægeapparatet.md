@@ -9,3 +9,5 @@
 ![[Klinisk undersøgelse af bevægeapparetets funktion]]
 
 ![[Obejektiv undersøgelse af skulderen]]
+
+![[Objektiv undersøgelse af albue]]

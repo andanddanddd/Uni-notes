@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obejektiv undersøgelse af skulderen.md",
+                "file": "4. Flashcards/Bevægeapparatet/Klinik/Smerter i bevægeappartet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obejektiv undersøgelse af skulderen"
+              "title": "Smerter i bevægeappartet"
             }
           }
         ]
@@ -241,14 +241,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Klinik/Objektiv undersøgelse af albue.md",
+    "4. Flashcards/Bevægeapparatet/Klinik",
     "3. Forelæsninger/Bevægeapparatet/Klinik - Bevægeapparatet.md",
-    "Obejektiv undersøgelse af skulderen.md",
-    "Klinisk undersøgelse af bevægeapparetets funktion.md",
-    "Palpation af bevægeapparatet.md",
-    "Inspektion af bevægeapparatet.md",
-    "Smerter i bevægeappartet.md",
+    "4. Flashcards/Bevægeapparatet/Klinik/Obejektiv undersøgelse af skulderen.md",
+    "4. Flashcards/Bevægeapparatet/Klinik/Hawkins kennedys test.md",
+    "1. Fag/Bevægeapparatet.md",
+    "4. Flashcards/Bevægeapparatet/Klinik/Klinisk undersøgelse af bevægeapparetets funktion.md",
+    "4. Flashcards/Bevægeapparatet/Klinik/Palpation af bevægeapparatet.md",
+    "4. Flashcards/Bevægeapparatet/Klinik/Inspektion af bevægeapparatet.md",
+    "4. Flashcards/Bevægeapparatet/Klinik/Smerter i bevægeappartet.md",
     "2. Caseuger/Klinik.md",
     "3. Forelæsninger/Mikrobiologi/Klinik - Mikro.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underbenets knogler.md",
@@ -265,10 +269,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Tibia.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fibula.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Caput fibulae.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Facies artikularis superior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Patella.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens knogler 1.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/ligamneter hofte 1.png",
@@ -288,7 +288,6 @@
     "0. De allervigtigste/Bevægeapparatet",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides – Regional anatomy__Tong Tong.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
-    "Excalidraw/Bevægeapparatet/Overekstremiteter/Led",
     "Untitled.canvas"
   ]
 }
