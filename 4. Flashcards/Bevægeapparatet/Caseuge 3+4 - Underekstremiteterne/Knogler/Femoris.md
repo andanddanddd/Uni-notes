@@ -28,7 +28,7 @@
 	- Hvad er funktionen af linea aspera?:: Forstækning af knoglen og muskeltilhæftning
 	- Hvad kaldes overgangen fra trochanter minor til linea aspera?:: Linea pectinea
 	- Hvad hedder de 2 dele af skaftet adskilt af linea aspera?:: Labium mediale/laterale
-		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus
+		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus (oss9s femoris)
 			- Hvad er formålet med tuberositas gluteus?:: Muskelhæftning
 - Hvordan er den distale ekstremitet af femoris overordnet opbygget?:: Af 2 fremspring
 - Hvad hedder de 2 fremspring på den distale ekstremitet af femoris?:: Condylus medialis/lateralis
