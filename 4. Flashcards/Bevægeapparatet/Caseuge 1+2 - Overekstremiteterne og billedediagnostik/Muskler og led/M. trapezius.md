@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-18,16,290-->
 - Hvor dybt ligger m. trapezius?:: Superficielt
 <!--SR:!2026-10-31,4,270-->
 ### Form

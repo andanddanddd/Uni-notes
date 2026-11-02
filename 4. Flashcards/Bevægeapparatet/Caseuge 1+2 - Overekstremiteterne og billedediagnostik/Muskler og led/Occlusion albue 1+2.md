@@ -4,7 +4,7 @@
 ![[albue anatomi 2.png]]
 ![[Albue anatomi 2]]A?:: [[Ligamentum collaterale ulnare]]
 ![[Albue anatomi 2]]B?:: [[Ligamentum collaterale radiale]]
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-18,16,290-->
 ![[Albue anatomi 2]]C?:: [[Ligamentum anulare radii]]
 <!--SR:!2026-11-13,11,270-->
 

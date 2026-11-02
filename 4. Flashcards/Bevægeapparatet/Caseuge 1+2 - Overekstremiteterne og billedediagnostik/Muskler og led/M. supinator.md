@@ -5,6 +5,7 @@
 - Hvor er m. supinator overordnet?:: Dorsalt på underarmen
 <!--SR:!2026-11-18,16,290-->
 - Hvor dybt ligger m. supinator?:: Sybt
+<!--SR:!2026-11-06,4,270-->
 
 ### Form
 - Hvilken form har m. supinator?

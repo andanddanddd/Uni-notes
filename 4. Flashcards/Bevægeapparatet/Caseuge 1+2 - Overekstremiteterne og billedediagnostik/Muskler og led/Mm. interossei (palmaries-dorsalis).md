@@ -10,6 +10,7 @@
 - Hvilken form har mm. interossei palmaries?:: Semipennante
 <!--SR:!2026-11-02,3,250-->
 - Hvilken form har mm. interossei dorsalis?:: Pennante
+<!--SR:!2026-11-06,4,270-->
 
 ### Udspring
 - Hvor udspringer mm. interossei palmaries/dorsalis?:: Skaftet af os metacarpale

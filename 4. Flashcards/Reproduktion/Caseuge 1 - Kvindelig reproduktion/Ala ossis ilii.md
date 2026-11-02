@@ -6,6 +6,7 @@
 	- Hvilke 2 strukture afgrænser critsa iliaca?:: Spina iliaca ant/post sup.
 <!--SR:!2026-11-03,4,270-->
 	- Hvad kaldes den tykkeste del af crista iliaca?:: Tuberculum iliacum
+<!--SR:!2026-11-06,4,270-->
 - Hvad hedder de 3 sider af ala?
 ?
 - Facies glutea
@@ -14,6 +15,7 @@
 <!--SR:!2026-11-03,4,270-->
 
 - Hvor er facies glutea overordnet?:: Den laterale flade af alla ossis ili
+<!--SR:!2026-11-06,4,270-->
 - Hvor er fossa iliaca overordnet?:: Den skålformede den al ala ossis ilii
 <!--SR:!2026-11-03,4,270-->
 - Hvad hedder ledfladen på ala ossis ilii?:: [[Facies auricularis]]

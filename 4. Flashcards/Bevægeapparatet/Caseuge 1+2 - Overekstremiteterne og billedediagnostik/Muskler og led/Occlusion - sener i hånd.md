@@ -7,6 +7,7 @@
 ![[Sener i hånd|650]]B?:: [[M. extensor digitorum]]
 <!--SR:!2026-11-17,15,290-->
 ![[Sener i hånd|650]]C?:: [[M. extensor digiti minimi]]
+<!--SR:!2026-11-06,4,270-->
 ![[Sener i hånd|650]]D?:: Extensoraponeurosen
 <!--SR:!2026-10-31,4,270-->
 ![[Sener i hånd|650]]E?:: [[M. abductor pollicis longus]]

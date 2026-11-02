@@ -12,6 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. pollicis longus?:: Distalt ulnart for [[M. abductor pollicis longus]] (dvs bagflade af [[Ulna]] og membrana iterossus)
+<!--SR:!2026-11-06,4,270-->
 
 ### Insertion
 - Hvor har m. pollicis longus insertion?:: Basis af phalinx distale på tommelfingeren

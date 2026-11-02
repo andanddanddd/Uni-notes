@@ -21,6 +21,7 @@
 ### Knogletype
 - Hvilken knogletype er os ischii
 - Er os ischii parret eller uparret?:: Parret
+<!--SR:!2026-11-06,4,270-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

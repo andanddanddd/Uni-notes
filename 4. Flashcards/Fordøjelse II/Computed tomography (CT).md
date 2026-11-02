@@ -1,9 +1,11 @@
 #flashcards/5/Fordøjelsessystemet-II #flashcards/5/Bevægeapparatet 
 
 - Hvad er CT overordnet?:: Røntgen der rotere om patienten
+<!--SR:!2026-11-06,4,270-->
 - Hvad er en housefield-enhed (HU)?:: Dæmpning relativt til vand
 <!--SR:!2026-11-03,4,270-->
 	- Hvad har den laveste HU enhed?:: Luft
+<!--SR:!2026-11-06,4,270-->
 	- Hvad har den højeste HU enhed?:: Kortikal knogle
 
 - Hvad betyder hyperdens?:: Lys

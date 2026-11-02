@@ -4,6 +4,7 @@
 ### Generalt
 - Hvad hedder calcaneus på dansk?:: Hælbenet
 - Hvilken underbensknogle tilhører calcaneus?:: [[Fibula]]
+<!--SR:!2026-11-06,4,270-->
 
 #### Placering og orientering
 - Hvor er calcaneus overordnet?:: fodroden

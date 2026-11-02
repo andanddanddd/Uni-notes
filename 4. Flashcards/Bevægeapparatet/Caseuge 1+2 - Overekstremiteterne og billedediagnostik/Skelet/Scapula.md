@@ -10,7 +10,7 @@
 <!--SR:!2026-11-18,16,290-->
 #### Form og størrelse
 - Hvilken overordnet form har scapula?:: Flad, trekantet
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-17,15,290-->
 - Hvor tyk er scapula?:: Tynd og pellucid
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
