@@ -18,3 +18,5 @@
 - [[M. obturatus externus]]
 
 [[Occlusion længdemuskel 1]]
+[[Occlusion - hofte anatomi 1]]
+[[Occlusion - hofte anatomi 2]]

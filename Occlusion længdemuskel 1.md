@@ -3,7 +3,7 @@
 ![[lændemuskel 1.png]]
 
 
-A?:: M. psoas major
-B?:: M. psoas minor
-C?:: [[M. quadratus lumborium]]
-D?:: M. iliacus
+![[Længdemuskel 1|500]]A?:: M. psoas major
+![[Længdemuskel 1|500]]B?:: M. psoas minor
+![[Længdemuskel 1|500]]C?:: [[M. quadratus lumborium]]
+![[Længdemuskel 1|500]]D?:: M. iliacus
