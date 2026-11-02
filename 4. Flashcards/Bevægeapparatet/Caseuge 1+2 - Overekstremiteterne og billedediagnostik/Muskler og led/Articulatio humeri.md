@@ -14,6 +14,10 @@
 <!--SR:!2026-11-06,4,210-->
 	- Hvor store er labrum glenoidale?:: den går rundt langs hele ledskålen
 <!--SR:!2026-10-31,4,270-->
+- Hvad hedder de 2 store stabiliserende ligamenter i art. humeri?
+?
+- [[Ligamenta glenohumeralia]]
+- [[Ligamenta coracohumerale]]
 
 ### Funktion
 - Hvilke 3 frihedsgrader har articulatio humeri?
