@@ -16,3 +16,5 @@
 - [[Mm gemelli]]
 - [[M. quadratus femoris]]
 - [[M. obturatus externus]]
+
+[[Occlusion længdemuskel 1]]

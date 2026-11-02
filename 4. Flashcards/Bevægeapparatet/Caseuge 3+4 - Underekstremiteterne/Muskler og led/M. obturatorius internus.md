@@ -9,10 +9,10 @@
 - Hvilken form har m. obturatus internus?
 
 ### Udspring
-- Hvor udspringer m. obturatus internus?:: Medialfladen af membrana obruta
+- Hvor udspringer m. obturatus internus?:: Medialfladen af membrana obrutatum (se [[Foramen obturatum]])
 
 ### Insertion
-- Hvor har m. obturatus internus insertion?
+- Hvor har m. obturatus internus insertion?:: Medialsiden af trochanter major (se [[Femoris]])
 
 ### Funktion
 - Hvilke bevægelser udfører m. obturatus internus?
