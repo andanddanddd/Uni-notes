@@ -1,7 +1,6 @@
 #flashcards/5/Bevægeapparatet 
 
 
-
 ### Ledtype
 - Hvilken type led er articulatio humeri?:: [[Kugleled]]
 <!--SR:!2026-11-16,14,290-->
