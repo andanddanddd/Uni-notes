@@ -24,11 +24,11 @@
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
 <!--SR:!2026-10-30,3,250-->
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-03,1,210-->
 
 ### Insertion
 - Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])
-<!--SR:!2026-10-31,3,250-->
+<!--SR:!2026-11-10,8,250-->
 
 ### Funktion
 - Hvilken funktion har m. tricps brachii?:: Ekstension af albue og skulderled

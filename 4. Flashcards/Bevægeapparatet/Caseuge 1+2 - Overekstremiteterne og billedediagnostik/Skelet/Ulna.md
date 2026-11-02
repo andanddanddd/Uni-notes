@@ -12,7 +12,7 @@
 - Hvad kaldes ledskålen på den proximale ekstremitet af ulna?:: [[Incisura trochlearis]]
 <!--SR:!2026-11-08,12,270-->
 - Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
-<!--SR:!2026-10-31,3,230-->
+<!--SR:!2026-11-12,10,250-->
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
 <!--SR:!2026-11-15,16,290-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
@@ -43,7 +43,7 @@
 ![[Ulna anatomi 1]]B?:: Incisura trochlearis
 <!--SR:!2026-11-13,16,290-->
 ![[Ulna anatomi 1]]C?:: Processus coronoideus
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-26,24,270-->
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae
 <!--SR:!2026-10-31,3,230-->
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis

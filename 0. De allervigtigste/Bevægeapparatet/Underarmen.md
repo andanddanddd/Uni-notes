@@ -44,7 +44,7 @@
 - [[M. brachioradialis]]
 - [[M. extensor carpi radialis longus]]
 - [[M. extensor carpi radialis brevis]]
-<!--SR:!2026-10-31,3,250-->
+<!--SR:!2026-11-10,8,250-->
 
 - Hvilke muskler er der i "den øvrige superficielle extensorgruppe"?
 ?

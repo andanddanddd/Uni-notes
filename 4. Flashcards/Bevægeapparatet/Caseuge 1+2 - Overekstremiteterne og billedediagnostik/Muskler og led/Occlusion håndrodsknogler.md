@@ -46,7 +46,7 @@
 ![[Hånd(knogler) anatomi 2]]A?:: Caput
 <!--SR:!2026-11-13,16,290-->
 ![[Hånd(knogler) anatomi 2]]B?:: Corpus
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-18,16,290-->
 ![[Hånd(knogler) anatomi 2]]C?:: Basis
 <!--SR:!2026-11-12,16,290-->
 ![[Hånd(knogler) anatomi 2]]D?:: Hamulus ossis hamati

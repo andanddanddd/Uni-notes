@@ -14,7 +14,7 @@
 ![[Hoftebenet 1|600]]G?:: Tuberculum pubicum
 ![[Hoftebenet 1|600]]H?:: Crista bupica
 ![[Hoftebenet 1|600]]I?:: [[Facies symphysialis]]
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-14,12,270-->
 ![[Hoftebenet 1|600]]J?:: [[Foramen obturatum]]
 <!--SR:!2026-11-03,4,270-->
 ![[Hoftebenet 1|600]]K?:: Tuberositas iliaca

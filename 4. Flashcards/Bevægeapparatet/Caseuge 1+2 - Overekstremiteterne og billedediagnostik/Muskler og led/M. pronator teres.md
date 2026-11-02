@@ -18,7 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator teres?:: Flektion af albue samt pronation
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

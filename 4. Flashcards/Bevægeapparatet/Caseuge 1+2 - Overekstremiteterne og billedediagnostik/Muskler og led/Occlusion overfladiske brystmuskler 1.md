@@ -18,4 +18,4 @@
 ![[Overfladiske brystmuskler 1]]G?:: Trigonum clavipectorale
 <!--SR:!2026-10-31,4,270-->
 ![[Overfladiske brystmuskler 1]]H?:: [[M. pectoralis major]]
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-17,15,290-->

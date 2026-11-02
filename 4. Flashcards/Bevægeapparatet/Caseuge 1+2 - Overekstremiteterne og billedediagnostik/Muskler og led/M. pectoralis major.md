@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder de 3 dele af m. pectoralis major?:: Pars clavicularis, pars sternocistalis, pars abdominalis
-<!--SR:!2026-10-31,1,230-->
+<!--SR:!2026-11-05,3,250-->
 ### Lokation
 - Hvor dybt ligger m. pectoralis major?:: Superficielt (mest superficielt af de overfladisek brystmuskler)
 <!--SR:!2026-11-15,16,290-->

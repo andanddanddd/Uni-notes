@@ -8,7 +8,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overorndet form har radius?:: Trekantet prisme
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-13,11,270-->
 - Hvad kaldes ledhovedet i den proximale ende af radius?:: [[Caput radii]]
 <!--SR:!2026-11-12,15,290-->
 - Hvad hedder indsnørringen under caput radii?:: Collum radii
@@ -31,6 +31,6 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker længdevækst af radius?:: Den distale
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-16,14,290-->
 ### Inspektion og palpation
 ### Klinik

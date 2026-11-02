@@ -22,7 +22,7 @@
 <!--SR:!2026-11-02,3,250-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-10,8,250-->
 ![[Hoftebenet 2|700]]Q?:: a= ramus ossis ischii, b= ramus inf. ossis pubis
 <!--SR:!2026-11-03,4,270-->
 

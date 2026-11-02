@@ -26,7 +26,7 @@
 
 ### Ledets strukture
 - Hvad hedder ligamentet der holder radius fast under pronation/supination?:: [[Ligamentum anulare radii]]
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 - Hvad hedder de 2 ligamenter på siderne har albueledet?
 ?
 - [[Ligamentum collaterale ulnare]]

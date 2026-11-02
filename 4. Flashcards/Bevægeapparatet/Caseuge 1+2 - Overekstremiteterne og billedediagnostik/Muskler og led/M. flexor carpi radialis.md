@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor carpi radialis?:: Fleksion og radialdevision af håndledet
-<!--SR:!2026-10-31,3,250-->
+<!--SR:!2026-11-13,11,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

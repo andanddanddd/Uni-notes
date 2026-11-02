@@ -12,7 +12,7 @@
 ![[Humerus anatomi 1]]D?:: Epicondylus lateralis
 <!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-13,11,270-->
 ![[Humerus anatomi 1]]F?:: Margo lateralis
 <!--SR:!2026-10-31,4,270-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis
@@ -49,10 +49,10 @@
 ![[Humerus anatomi 1]]W?:: Humerus anteriort
 <!--SR:!2026-11-11,15,290-->
 ![[Humerus anatomi 1]]Z?:: Extremitas proximalis
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-16,14,290-->
 ![[Humerus anatomi 1]]Y?:: Corpus humeri
 <!--SR:!2026-11-11,14,290-->
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
 <!--SR:!2026-11-14,15,290-->
 ![[Humerus anatomi 1]]Æ?:: Humerus posteriort
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-18,16,290-->
