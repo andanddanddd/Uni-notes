@@ -33,3 +33,4 @@
 
 ### Klinik
 
+[[Occlusion skulderled 1]]
