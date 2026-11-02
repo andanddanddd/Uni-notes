@@ -2,7 +2,7 @@
 
 ![[sener i hånd.png]]
 
-![[Sener i hånd]]A?:: [[M. extensor carpi ulnaris]]
+![[Sener i hånd|560]]A?:: [[M. extensor carpi ulnaris]]
 <!--SR:!2026-10-30,3,250-->
 ![[Sener i hånd]]B?:: [[M. extensor digitorum]]
 <!--SR:!2026-11-17,15,290-->

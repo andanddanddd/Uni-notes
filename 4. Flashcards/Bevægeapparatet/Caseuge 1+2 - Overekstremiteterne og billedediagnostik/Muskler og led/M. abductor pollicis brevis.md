@@ -21,6 +21,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor pollicis brevis?:: [[N. medianus]]
+<!--SR:!2026-11-05,3,250-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

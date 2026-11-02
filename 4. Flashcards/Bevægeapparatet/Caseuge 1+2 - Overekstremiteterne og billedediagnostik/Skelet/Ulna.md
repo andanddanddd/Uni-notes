@@ -25,7 +25,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er ulna?:: Rørknogle
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-18,16,290-->
 - Er ulna parret eller uparret?:: Parret
 <!--SR:!2026-11-12,16,290-->
 ### Ossifikation og heeling

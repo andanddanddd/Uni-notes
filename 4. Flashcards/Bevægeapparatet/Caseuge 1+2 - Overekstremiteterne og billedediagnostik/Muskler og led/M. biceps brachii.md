@@ -25,7 +25,7 @@
 <!--SR:!2026-11-09,10,270-->
 - Hvor har bicepssene insertion?:: Tuberositas radii (se [[Radius]])
 - Hvor har bicepsaponeurosen insertion?:: Fascia antebrachii
-<!--SR:!2026-11-02,0,230-->
+<!--SR:!2026-11-05,3,250-->
 - Hvilken sene til insertion?:: Bicepssenen (dvs den til radius)
 <!--SR:!2026-11-15,16,290-->
 

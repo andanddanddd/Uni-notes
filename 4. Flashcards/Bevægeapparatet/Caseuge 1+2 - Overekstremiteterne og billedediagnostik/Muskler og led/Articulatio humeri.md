@@ -34,3 +34,4 @@
 ### Klinik
 
 [[Occlusion skulderled 1]]
+[[Occlusion skulderled 2]]
