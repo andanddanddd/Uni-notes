@@ -6,4 +6,6 @@
 
 ![[Palpation af bevægeapparatet]]
 
-[[Klinisk undersøgelse af bevægeapparetets funktion]]
+![[Klinisk undersøgelse af bevægeapparetets funktion]]
+
+![[Obejektiv undersøgelse af skulderen]]
