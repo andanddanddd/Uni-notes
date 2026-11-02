@@ -10,6 +10,7 @@
 	- Hvad hedder ledfladerne på condylus medialis/lateralis?:: [[Facies artikularis superior]]
 	- Hvilken condyl artykulere med [[Fibula]]?:: Condylus lateralis
 - Hvilken form har corput tibia?:: Trekantet (prisme)
+<!--SR:!2026-11-06,4,270-->
 	- Hvad hedder de 3 kanter på corpus tibia?:: Margo anterior/lateralis/interosseus
 	- Hvad hedder fremspringet øverst på margo anterior?:: Tuberositas tibia
 

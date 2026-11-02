@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. pollicis brevis?:: Radialt, diatalt for [[M. abductor pollicis longus]] (dvs bagflade af [[Radius]] og membrana interossa)
-<!--SR:!2026-11-01,2,230-->
+<!--SR:!2026-11-09,7,250-->
 
 ### Insertion
 - Hvor har m. pollicis brevis insertion?:: Basis af phalinx proximale på tommelfingeren

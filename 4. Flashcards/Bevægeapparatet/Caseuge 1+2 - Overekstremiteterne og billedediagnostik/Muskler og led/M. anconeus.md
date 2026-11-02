@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har m. anconeus?:: Lille trekantet
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 
 ### Udspring
 - Hvor udspringer m. anconeus?:: Epicondulys lateralis

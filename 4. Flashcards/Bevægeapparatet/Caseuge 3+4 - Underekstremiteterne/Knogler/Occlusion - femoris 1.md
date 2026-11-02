@@ -5,6 +5,7 @@
 
 ![[Femoris 1|600]]A?:: trochanter major
 ![[Femoris 1|600]]B?:: Epicondylus medialis
+<!--SR:!2026-11-06,4,270-->
 ![[Femoris 1|600]]C?:: [[Caput femoralis]]
 ![[Femoris 1|600]]D?:: Collum femoris
 ![[Femoris 1|600]]E?:: Linea intertrochanterica

@@ -18,6 +18,7 @@
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
+<!--SR:!2026-11-03,1,230-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
