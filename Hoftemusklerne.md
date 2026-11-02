@@ -8,3 +8,11 @@
 - [[M. gluteus medius]]
 - [[M. gluteus minimus]]
 - [[M. tensor fasciae latea]]
+
+- Hvad hedder hofteledets 5 små udadrotatorer?
+?
+- [[M. piriformis]]
+- [[M. obturatorius internus]]
+- [[Mm gemelli]]
+- [[M. quadratus femoris]]
+- [[M. obturatus externus]]
