@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os cuboideum.md",
+                "file": "Ossa digitorum pedis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Os cuboideum"
+              "title": "Ossa digitorum pedis"
             }
           }
         ]
@@ -237,19 +237,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06e01a4182a74eaa",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
+    "Ossa digitorum pedis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fodens skelet.md",
+    "Ossa metatarsalis.md",
     "Ossa tarsi.md",
     "Os cuboideum.md",
     "Ossa cuniformia (media,intermedium,laterale).md",
     "Os naviculare.md",
     "Talus.md",
     "Calcaneus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fodens skelet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underekstremiteternes skelet.md",
     "Underbenets knogler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Tibia.md",
@@ -267,8 +268,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion overarm 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - ligamenter hofte 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Skelet/Underarmets knogler.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - underbensknogler 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. flexor digiti minimi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens knogler 1.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/ligamneter hofte 1.png",
