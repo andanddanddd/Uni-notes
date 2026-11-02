@@ -3,3 +3,5 @@
 ![[Underekstremiteternes skelet]]
 
 ![[Hoften]]
+
+![[Låret]]

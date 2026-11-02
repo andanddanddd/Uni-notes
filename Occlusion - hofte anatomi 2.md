@@ -9,7 +9,7 @@
 ![[Hofte anatomi 2||650]]E?:: [[M. piriformis]]
 ![[Hofte anatomi 2||650]]F?:: Foramen inrapirifprme
 ![[Hofte anatomi 2||650]]G?:: [[Ligamentum sacrospinale]] 
-H?:: Spina ischiadica
-I?:: Foramen ischiadicum minus
-J?:: [[Ligamentum sacrotuberale]]
+![[Hofte anatomi 2||650]]H?:: Spina ischiadica
+![[Hofte anatomi 2||650]]I?:: Foramen ischiadicum minus
+![[Hofte anatomi 2||650]]J?:: [[Ligamentum sacrotuberale]]
 
