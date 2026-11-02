@@ -8,6 +8,7 @@
 - Hvor er os cuboideum overordnet?:: Fodroden
 - Hvor i fodroden er os cuboideum?:: Distal række
 - Hvilken underbensknogle tilhører os cuboideum?:: [[Fibula]]
+<!--SR:!2026-11-03,1,230-->
 #### Form og størrelse
 
 ### Relationer

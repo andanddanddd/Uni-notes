@@ -62,34 +62,34 @@
 ![[scapula anatomi 3.png]]
 ![[scapula anatomi 4.png]]
 ### Occlusion
-![[Scapula Anatomi 1]]A?:: Acromion
+![[Scapula Anatomi 1|700]]A?:: Acromion
 <!--SR:!2026-11-09,12,270-->
-![[Scapula Anatomi 1]]B?:: Facies articularis clavicularis
+![[Scapula Anatomi 1|700]]B?:: Facies articularis clavicularis
 <!--SR:!2026-11-13,14,290-->
-![[Scapula Anatomi 1]]C?:: Processus coracoideus
+![[Scapula Anatomi 1|700]]C?:: Processus coracoideus
 <!--SR:!2026-11-08,10,270-->
-![[Scapula Anatomi 1]]D?:: Margo superior
+![[Scapula Anatomi 1|700]]D?:: Margo superior
 <!--SR:!2026-11-15,16,290-->
-![[Scapula Anatomi 1]]E?:: Angulus superior
+![[Scapula Anatomi 1|700]]E?:: Angulus superior
 <!--SR:!2026-10-31,4,270-->
-![[Scapula Anatomi 1]]F?:: Anhulus lateralis
+![[Scapula Anatomi 1|700]]F?:: Anhulus lateralis
 <!--SR:!2026-11-09,11,270-->
-![[Scapula Anatomi 1]]G?:: Cavitas glenoidalis
+![[Scapula Anatomi 1|700]]G?:: Cavitas glenoidalis
 <!--SR:!2026-11-12,16,290-->
-![[Scapula Anatomi 1]]H?:: Collum scapulae
+![[Scapula Anatomi 1|700]]H?:: Collum scapulae
 <!--SR:!2026-11-27,25,270-->
-![[Scapula Anatomi 1]]I?:: Margo lateralis
+![[Scapula Anatomi 1|700]]I?:: Margo lateralis
 <!--SR:!2026-11-13,16,290-->
-![[Scapula Anatomi 1]]J?:: Costalis scapulae
+![[Scapula Anatomi 1|700]]J?:: Costalis scapulae
 <!--SR:!2026-11-02,5,230-->
-![[Scapula Anatomi 1]]K?:: Angulus inferior
+![[Scapula Anatomi 1|700]]K?:: Angulus inferior
 <!--SR:!2026-11-11,14,290-->
-![[Scapula Anatomi 1]]L?:: Margo medialis
+![[Scapula Anatomi 1|700]]L?:: Margo medialis
 <!--SR:!2026-11-12,15,290-->
-![[Scapula Anatomi 1]]M?:: Fossa supraspinata
-![[Scapula Anatomi 1]]N?:: Dorsalis scapulae
+![[Scapula Anatomi 1|700]]M?:: Fossa supraspinata
+![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-26,24,270-->
-![[Scapula Anatomi 1]]O?:: Suprascapulae
+![[Scapula Anatomi 1|700]]O?:: Suprascapulae
 <!--SR:!2026-10-31,1,210-->
-![[Scapula Anatomi 1]]P?:: Infraspinata
+![[Scapula Anatomi 1|700]]P?:: Infraspinata
 <!--SR:!2026-11-09,7,270-->
