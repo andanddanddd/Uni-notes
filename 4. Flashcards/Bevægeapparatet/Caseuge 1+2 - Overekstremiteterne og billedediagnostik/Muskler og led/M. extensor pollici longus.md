@@ -5,7 +5,7 @@
 - Hvor er m. pollicis longus overordnet?:: Dorsalt på underarmen
 <!--SR:!2026-11-16,14,290-->
 - Hvor dybt ligger m. pollicis longus?:: Dybt
-<!--SR:!2026-11-01,3,250-->
+<!--SR:!2026-11-13,11,270-->
 
 ### Form
 - Hvilken form har m. pollicis longus?

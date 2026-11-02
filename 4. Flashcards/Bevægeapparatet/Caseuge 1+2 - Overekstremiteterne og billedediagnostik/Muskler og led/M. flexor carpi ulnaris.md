@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. felxor carpi ulnaris insertion?:: [[Os pisiforme]], [[Os hamatum]] samt basis af os metacaple V
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-07,5,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor carpi ulnaris?:: Fleksion og abduction (ulnarfelksion) af håndledet

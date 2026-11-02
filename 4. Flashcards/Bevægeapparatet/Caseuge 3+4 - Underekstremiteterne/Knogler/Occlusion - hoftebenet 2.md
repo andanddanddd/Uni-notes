@@ -15,11 +15,11 @@
 ![[Hoftebenet 2|700]]J?:: Incisura acerabuli
 <!--SR:!2026-11-03,4,270-->
 ![[Hoftebenet 2|700]]K?:: Tuberculum iliacum
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-12,10,270-->
 ![[Hoftebenet 2|700]]L?:: Spina iliaca ant. sup 
 ![[Hoftebenet 2|700]]M?:: Spina iliaca ant. inf.
 ![[Hoftebenet 2|700]]N?:: Facies lunata
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-04,2,230-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum
 <!--SR:!2026-11-10,8,250-->

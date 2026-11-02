@@ -8,7 +8,7 @@
 ![[Fodens knogler 1]]C?:: [[Os cuneiforme mediale]]
 ![[Fodens knogler 1]]D?:: Calcaneus
 ![[Fodens knogler 1]]E?:: Talus
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-13,11,270-->
 ![[Fodens knogler 1]]F?:: [[Os cuboideum]]
 ![[Fodens knogler 1]]G?:: Tuberositas ossis metatarsalis V
 ![[Fodens knogler 1]]H?:: Phalanx proximale

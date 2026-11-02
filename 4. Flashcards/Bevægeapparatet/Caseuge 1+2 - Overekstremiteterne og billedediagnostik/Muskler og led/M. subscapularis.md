@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. subscapularis insertion?:: Tuberculum minoris humeri (se [[Humerus]])
-<!--SR:!2026-10-31,1,230-->
+<!--SR:!2026-11-03,1,210-->
 
 ### Funktion
 - Hvilken funktion har m. subscapularis?:: Indadrotation af overarmen

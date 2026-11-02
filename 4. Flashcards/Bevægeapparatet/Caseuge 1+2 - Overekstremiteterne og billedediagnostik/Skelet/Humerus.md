@@ -13,10 +13,10 @@
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
 <!--SR:!2026-11-13,16,290-->
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
-<!--SR:!2026-10-30,2,230-->
+<!--SR:!2026-11-03,1,210-->
 ##### Proximal extremitet
 - Hvad kaldes ledfladen på den proximale ekstremitet af humerus?:: [[Caput humeri]]
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-16,14,290-->
 - Hvad kaldes indsnørringen der afgrænser caput humeri?:: Collum anatomicum
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder de 2 knuder på den proximale extremitet?:: Tuberculum majus/minus

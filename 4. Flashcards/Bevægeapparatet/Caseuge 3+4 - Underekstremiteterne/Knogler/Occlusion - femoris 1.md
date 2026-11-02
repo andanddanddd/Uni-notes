@@ -26,7 +26,7 @@
 ![[Femoris 1|600]]R?:: Facies poplitea
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 ![[Femoris 1|600]]T?:: Condylus lateralis
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-13,11,270-->
 ![[Femoris 1|600]]U?:: Fossa inercondylaris
 ![[Femoris 1|600]]V?:: Condylus medialis
 

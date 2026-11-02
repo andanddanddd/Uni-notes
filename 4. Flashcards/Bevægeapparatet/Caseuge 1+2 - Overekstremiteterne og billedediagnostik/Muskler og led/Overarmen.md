@@ -14,7 +14,7 @@
 - [[M. biceps brachii]]
 - [[M. coracobrachialis]]
 - [[M. brachialis]]
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-16,14,290-->
 
 - Hvad heder overarmens bagerste muskel?:: [[M. triceps brachii]]
 <!--SR:!2026-11-01,4,270-->

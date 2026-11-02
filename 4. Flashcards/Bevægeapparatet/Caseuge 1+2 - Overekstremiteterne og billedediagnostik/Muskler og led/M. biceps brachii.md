@@ -16,7 +16,7 @@
 - Hvad hedder de 2 sener som m. biceps brachii udspringer med?:: caput breve og caput longum
 <!--SR:!2026-11-08,10,270-->
 - Hvor udspringer caput breve?:: Processus corocoideus (se [[Scapula]])
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-11,9,250-->
 - Hvor udspringer caput longum henne?:: Tuberculum supraglenoidale (se [[Scapula]])
 <!--SR:!2026-11-03,1,210-->
 

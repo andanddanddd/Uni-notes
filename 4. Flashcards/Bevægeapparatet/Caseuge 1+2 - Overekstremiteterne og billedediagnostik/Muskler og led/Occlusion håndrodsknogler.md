@@ -31,7 +31,7 @@
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
 <!--SR:!2026-10-31,1,130-->
 ![[Hånd(knogle) anatomi 1]]4?:: Os pisiforme
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-18,16,290-->
 ![[Hånd(knogle) anatomi 1]]5?:: Os trapezium
 <!--SR:!2026-11-02,7,250-->
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
@@ -50,7 +50,7 @@
 ![[Hånd(knogler) anatomi 2]]C?:: Basis
 <!--SR:!2026-11-12,16,290-->
 ![[Hånd(knogler) anatomi 2]]D?:: Hamulus ossis hamati
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-10,8,250-->
 ![[Hånd(knogler) anatomi 2]]E?:: Tuberositas phalangis distais
 <!--SR:!2026-11-04,7,250-->
 ![[Hånd(knogler) anatomi 2]]F?:: Ossa sesamoidea

@@ -5,7 +5,7 @@
 - Hvad hedder strukturen sener går igennem fra underarmen til palma manus?:: [[Canalis carpi (carpaltunnelen)]]
 <!--SR:!2026-11-02,3,250-->
 - Hvad kaldes den store "seneplade" på håndfladen?:: [[Aponeurosis palmaris]]
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-14,12,270-->
 - Hvad kaldes seneskedehinderne omkring fleksorene i fingerene?:: [[Vaginae synovialis]]
 <!--SR:!2026-11-03,4,270-->
 - Hvad kaldes seneskederne omrking fleksorene i fingrene?::[[ Vaginae fibrosae]]

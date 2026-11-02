@@ -14,7 +14,7 @@
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
 <!--SR:!2026-11-13,11,270-->
 ![[Humerus anatomi 1]]F?:: Margo lateralis
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-17,15,290-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis
 <!--SR:!2026-11-09,10,270-->
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
@@ -41,7 +41,7 @@
 ![[Humerus anatomi 1]]S?:: Epicondylus medialis
 <!--SR:!2026-11-04,7,250-->
 ![[Humerus anatomi 1]]T?:: Trochlea humeri
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-27,25,270-->
 ![[Humerus anatomi 1]]U?:: Sulcus nervi ulnaris
 <!--SR:!2026-11-04,7,250-->
 ![[Humerus anatomi 1]]V?:: Trochlea humeri

@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor har m. serratus ant udspring?:: De 8-9 øvertse ribben
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-16,14,290-->
 
 ### Insertion
 - Hvor har m. serratus ant insersion?:: Margo medialis og angulus inf af [[Scapula]]
