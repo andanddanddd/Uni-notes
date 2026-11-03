@@ -27,7 +27,10 @@
 	- [ ] Der dannes enormt meget sukker når man er syg
 	- [ ] Man kan ikke give sukker for at modvirke muskeltab ved sygdom
 		- [ ] Det giver bare forhøjet blodsukker hvilket øger risikoen for komplikationer (medmindre man giver insulin)
-- [ ] Der er stor overlap mellem sarco
+- [ ] Der er stor overlap mellem sarcopeni og underernæring (underernæring kan forårsage sarcopeni)
+	- [ ] Men sarcopeni kan også være selvstændigt
+- [ ] Man kan godt have høj BMI og være underernæret
+- [ ] God ernæring er en af de mest kost-effektive ting (man sparer MANGE penge på det)
 
 
 ![[Begreber indenfor underernæring]]
