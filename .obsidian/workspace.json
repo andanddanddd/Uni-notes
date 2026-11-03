@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion længdemuskel 1.md",
+                "file": "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion længdemuskel 1"
+              "title": "Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition)"
             }
           }
         ]
@@ -40,8 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "938f2eb91e12674e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Malnut_malabsorption_stud (gammel)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,11 +240,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "938f2eb91e12674e",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion længdemuskel 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 5.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - lårmuskler 5.md",
