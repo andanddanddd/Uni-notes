@@ -36,6 +36,9 @@
 - [ ] SFA = short fatty acid
 - [ ] Den disatle del af tarmen kan adaptere til at optage de ting der normalt optages i den proxiamle del af tarmen (derfor vil man helt miste den proximale del, dette sker dog sjældent)
 - [ ] Lipase er det vigtigste enzym fra pancreas da det ikke findes andre steder
+- [ ] Jern optages proximalt (der hvor tarmen ødelægges ved cøliaki)
+- [ ] Man kan godt overleve uden tarm
+- [ ] Forskellen på tarmsvigt og tarminsuficiens er hvorvist man kan "overleve" uden parental ernæring
 
 
 ![[Begreber indenfor underernæring]]
