@@ -35,6 +35,7 @@
 - [ ] Man skal se deres proteindrik ligesom resten af deres medicin
 - [ ] SFA = short fatty acid
 - [ ] Den disatle del af tarmen kan adaptere til at optage de ting der normalt optages i den proxiamle del af tarmen (derfor vil man helt miste den proximale del, dette sker dog sjældent)
+- [ ] Lipase er det vigtigste enzym fra pancreas da det ikke findes andre steder
 
 
 ![[Begreber indenfor underernæring]]
