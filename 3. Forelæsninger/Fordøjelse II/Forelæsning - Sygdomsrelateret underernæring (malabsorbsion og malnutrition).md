@@ -31,6 +31,8 @@
 	- [ ] Men sarcopeni kan også være selvstændigt
 - [ ] Man kan godt have høj BMI og være underernæret
 - [ ] God ernæring er en af de mest kost-effektive ting (man sparer MANGE penge på det)
+- [ ] Man giver MEGET fedt til pt i risiko for underernæring
+- [ ] Man skal se deres proteindrik ligesom resten af deres medicin
 
 
 ![[Begreber indenfor underernæring]]
