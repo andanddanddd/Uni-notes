@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 41.99029126213592,
+        "dimension": 42.62135922330097,
         "children": [
           {
             "id": "4b4e7ba26deb09c8",
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 58.009708737864074,
+        "dimension": 57.37864077669903,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -40,8 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "be16233b0713985a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - 20261103_OE_Clinical Problem_prelecture_cases"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -231,8 +245,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "be16233b0713985a",
   "lastOpenFiles": [
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
@@ -278,7 +293,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skulderled 2.png",
     "4. Flashcards/Bevægeapparatet/Klinik",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler",
     "Untitled.canvas"
   ]
 }
