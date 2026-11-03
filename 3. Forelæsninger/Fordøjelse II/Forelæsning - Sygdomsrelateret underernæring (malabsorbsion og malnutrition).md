@@ -15,6 +15,19 @@
 - [ ] Alle pt der bliver indlagt skal sceenes for underernæring (se slide 10)
 	- [ ] Et fænotypisk + et æriologisk kriterier kan diagnosen underernæring gives
 - [ ] Man skal måske dosere udfra muskelmasse
+- [ ] På slide 12 sker der ikke et ligesåstort fald fra punkt 2-3 som 1-2 pga at deres krop tilpassede sig den nye lave kost
+	- [ ] Albumin er normal med raske folk selvom man spiser nok 
+		- [ ] Ved syge falder den altid, derfor er det en sygdomsmarkør og ikke en ernæringsmarkør
+	- [ ] Tingene på slide 13 kan i princippet være synptomer på underernæring
+- [ ] Slide 14
+	- [ ] Kortisol er katabolsk hormon
+	- [ ] Når man er syg nedbryder man muskler som energi i stedet for fedt
+		- [ ] Smart i oldtiden? (jeg forstår ikke hvorfor det er bedre end fedt men forelæser virker glad for det dengang)
+- [ ] Slide 15
+	- [ ] Der dannes enormt meget sukker når man er syg
+	- [ ] Man kan ikke give sukker for at modvirke muskeltab ved sygdom
+		- [ ] Det giver bare forhøjet blodsukker hvilket øger risikoen for komplikationer (medmindre man giver insulin)
+- [ ] Der er stor overlap mellem sarco
 
 
 ![[Begreber indenfor underernæring]]
