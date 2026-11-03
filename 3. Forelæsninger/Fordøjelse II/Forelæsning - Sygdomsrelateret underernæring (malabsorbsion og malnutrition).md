@@ -39,6 +39,8 @@
 - [ ] Jern optages proximalt (der hvor tarmen ødelægges ved cøliaki)
 - [ ] Man kan godt overleve uden tarm
 - [ ] Forskellen på tarmsvigt og tarminsuficiens er hvorvist man kan "overleve" uden parental ernæring
+- [ ] Slide 83
+	- [ ] Er det pga mindre galdesalte optages er der til næste cyklus er færre galdesalte at udskille 
 
 
 ![[Begreber indenfor underernæring]]

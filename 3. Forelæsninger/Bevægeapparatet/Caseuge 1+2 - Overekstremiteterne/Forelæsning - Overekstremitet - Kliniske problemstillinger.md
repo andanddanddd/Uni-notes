@@ -1,1 +1,1 @@
-#flashcards/5/Bevægeapparatet 
+#flashcards/5/Bevægeapparatet [[Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf]]
