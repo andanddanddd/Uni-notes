@@ -33,6 +33,8 @@
 - [ ] God ernæring er en af de mest kost-effektive ting (man sparer MANGE penge på det)
 - [ ] Man giver MEGET fedt til pt i risiko for underernæring
 - [ ] Man skal se deres proteindrik ligesom resten af deres medicin
+- [ ] SFA = short fatty acid
+- [ ] Den disatle del af tarmen kan adaptere til at optage de ting der normalt optages i den proxiamle del af tarmen (derfor vil man helt miste den proximale del, dette sker dog sjældent)
 
 
 ![[Begreber indenfor underernæring]]
