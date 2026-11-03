@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 45.91661907481439,
+        "dimension": 41.99029126213592,
         "children": [
           {
             "id": "4b4e7ba26deb09c8",
@@ -27,7 +27,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 54.08338092518561,
+        "dimension": 58.009708737864074,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -244,11 +245,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "574a1318063e0f94",
   "lastOpenFiles": [
+    "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
     "4. Flashcards/Fordøjelse II/Begreber indenfor underernæring.md",
     "4. Flashcards/Fordøjelse II/Sarcopenia.md",
-    "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
+    "4. Flashcards/Fordøjelse II/Computed tomography (CT).md",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.pdf",
     "Externe dokumenter/Fordøjelse II/mso664C.tmp",
     "Externe dokumenter/Fordøjelse II/mso3DA5.tmp",
@@ -285,7 +287,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - hofte anatomi 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Hofte anatomi 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/hofte anatomi 1.png",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Længdemuskel 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lændemuskel 1.png",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led",

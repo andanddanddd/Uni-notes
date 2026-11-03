@@ -9,7 +9,12 @@
 - [ ] Underernæring bliver kaldt mange ting (slide 6)
 - [ ] Lavt BMI er værre en "forholdvis" høj BMI ved kronisk sygdom
 - [ ] Ældre bliver lavere, deres højde er derfor lidt mærkelig at regne med til BMI
-- [ ] 
+- [ ] Man skelder mellem underernæring underernæring med og uden sygdom og om sygdommen er aktiv eller ej (om der er inflammation eller ej)
+	- [ ] De har forskellige diagnosekoder
+	- [ ] Eksempel på underernæring med sygdom uden inflammation der giver underernæring er neurologisk der ødelægger sult
+- [ ] Alle pt der bliver indlagt skal sceenes for underernæring (se slide 10)
+	- [ ] Et fænotypisk + et æriologisk kriterier kan diagnosen underernæring gives
+- [ ] Man skal måske dosere udfra muskelmasse
 
 
 ![[Begreber indenfor underernæring]]

@@ -4,5 +4,6 @@
 <!--SR:!2026-10-26,4,270-->
 - Hvornår ses sarcopenia?:: Ved malnutrition og ved ældre
 <!--SR:!2026-10-26,4,270-->
-- Hvordan diagnosticeres sarcopeni?:: [[Computed tomography (CT)]], [[DXA]] og [[BIA]]
+- Hvilken simpel lavpraktisk måde kan sarcopenia måles på?:: Omkreds af arme/ben (læg/mid-arm)
+- Hvordan diagnosticeres sarcopeni?:: [[Computed tomography (CT)]], [[DXA]], [[BIA]] og [[Ultralyd]]
 <!--SR:!2026-10-25,3,250-->
