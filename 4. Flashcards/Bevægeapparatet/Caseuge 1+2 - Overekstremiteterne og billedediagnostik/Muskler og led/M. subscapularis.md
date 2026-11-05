@@ -12,15 +12,15 @@
 
 ### Udspring
 - Hvor udspringer m. subscapularis?:: [[Scapula]]s forflade
-<!--SR:!2026-11-01,4,270-->
+<!--SR:!2026-11-07,2,250-->
 
 ### Insertion
 - Hvor har m. subscapularis insertion?:: Tuberculum minoris humeri (se [[Humerus]])
-<!--SR:!2026-11-03,1,210-->
+<!--SR:!2026-11-07,2,210-->
 
 ### Funktion
 - Hvilken funktion har m. subscapularis?:: Indadrotation af overarmen
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-06,1,210-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

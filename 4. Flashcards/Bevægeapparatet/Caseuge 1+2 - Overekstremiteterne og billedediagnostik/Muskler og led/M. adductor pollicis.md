@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. adductor pollicis overordnet?:: Thenar (tommelfingerbaldens muskelgruppe)
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 - Hvor dybt ligger m. adductor pollicis?
 
 ### Form
@@ -16,15 +16,15 @@
 
 ### Insertion
 - Hvor har m. adductor pollicis insertion?:: Tommelfingerens ulnare sesamknogle samt ulnare dele af basis af phalinx proximale I
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,14,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor pollicis?:: Adduction af tommelfingeren
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor pollicis?:: [[N. ulnaris]]
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

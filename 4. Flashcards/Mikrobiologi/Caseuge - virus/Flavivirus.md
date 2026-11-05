@@ -21,7 +21,7 @@
 
 ## Symptomer og komplikationer
 - Hvilke infektioner giver flavivirus?:: Enten [[Encephalitis]] eller hemoratisk feber evt også udslet (afhængig af subtypen)
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2026-11-14,9,270-->
 
 ## Diagonstik
 

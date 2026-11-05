@@ -28,13 +28,13 @@
 ![[Underarmsknogler anatomi 2|600]]A?:: Olecranon
 <!--SR:!2026-11-08,10,270-->
 ![[Underarmsknogler anatomi 2|600]]B?:: Caput ulnae
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-30,26,270-->
 ![[Underarmsknogler anatomi 2|600]]C?:: Processus styloideus ulnae
-<!--SR:!2026-10-31,2,190-->
+<!--SR:!2026-11-08,4,190-->
 ![[Underarmsknogler anatomi 2|600]]D?:: Crista musculi supinatoris
-<!--SR:!2026-10-30,1,210-->
+<!--SR:!2026-11-07,2,210-->
 ![[Underarmsknogler anatomi 2|600]]F?:: Tuberculum dorsale radii
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-06,1,210-->
 ![[Underarmsknogler anatomi 2|600]]G?:: Incisura thochlearis
 <!--SR:!2026-11-12,15,290-->
 ![[Underarmsknogler anatomi 2|600]]H?:: Caput radii
@@ -50,8 +50,8 @@
 ![[Underarmsknogler anatomi 2|600]]M?:: Margo anterior
 <!--SR:!2026-11-06,11,270-->
 ![[Underarmsknogler anatomi 2|600]]N?:: Processus styloideus radii
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-06,1,210-->
 ![[Underarmsknogler anatomi 2|600]]O?:: Processus coronoideus
 <!--SR:!2026-10-30,3,250-->
 ![[Underarmsknogler anatomi 2|600]]P?:: Tuberositas ulnae
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-16,12,270-->

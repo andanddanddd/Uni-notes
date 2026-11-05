@@ -5,7 +5,7 @@
 ![[Overfladiske rygmuskler 1]]A?:: [[M. levator scapulae]]
 <!--SR:!2026-11-13,14,290-->
 ![[Overfladiske rygmuskler 1]]B?:: [[M. rhomboideus]]
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-20,15,290-->
 ![[Overfladiske rygmuskler 1]]C?::[[M. trapezius]]
 <!--SR:!2026-11-14,15,290-->
 ![[Overfladiske rygmuskler 1]]D?::[[M. latissimus dorsi]]

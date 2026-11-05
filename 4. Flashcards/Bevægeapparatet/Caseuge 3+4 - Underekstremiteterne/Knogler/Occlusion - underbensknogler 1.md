@@ -3,7 +3,7 @@
 ![[underbensknogler 1.png]]
 
 ![[Underbensknogler 1|600]]A?:: Condylus lateralis
-<!--SR:!2026-10-31,1,230-->
+<!--SR:!2026-11-08,3,250-->
 ![[Underbensknogler 1|600]]B?:: Caput fibulae
 ![[Underbensknogler 1|600]]C?:: Collum fibulae
 ![[Underbensknogler 1|600]]D?:: Malleolus lateralis
@@ -17,4 +17,4 @@
 ![[Underbensknogler 1|600]]L?:: Eminentia intercondylaris
 ![[Underbensknogler 1|600]]M?:: Apex capitis fibulae
 ![[Underbensknogler 1|600]]N?:: Margo interosseus
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-15,10,270-->

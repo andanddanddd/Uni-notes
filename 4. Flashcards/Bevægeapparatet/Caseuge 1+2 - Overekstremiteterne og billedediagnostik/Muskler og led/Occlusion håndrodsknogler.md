@@ -3,7 +3,7 @@
 ## 1
 
 ![[Hånd(knogle) anatomi 1]]A?:: Ossa digiti manus
-<!--SR:!2026-11-02,5,230-->
+<!--SR:!2026-11-22,17,250-->
 ![[Hånd(knogle) anatomi 1]]B?:: Ossa metacarpales
 <!--SR:!2026-11-07,12,270-->
 ![[Hånd(knogle) anatomi 1]]C?:: Ossa carpi
@@ -11,7 +11,7 @@
 ![[Hånd(knogle) anatomi 1]]D?:: Phalanz distalis
 <!--SR:!2026-11-13,16,290-->
 ![[Hånd(knogle) anatomi 1]]E?:: Phalanx media
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-19,14,290-->
 ![[Hånd(knogle) anatomi 1]]F?:: Phalanx proximalis
 <!--SR:!2026-11-12,15,290-->
 ![[Hånd(knogle) anatomi 1]]G?:: Phalanx distalis
@@ -27,13 +27,13 @@
 ![[Hånd(knogle) anatomi 1]]1?:: Os scaphoideum
 <!--SR:!2026-11-06,4,170-->
 ![[Hånd(knogle) anatomi 1]]2?:: Os lunatum
-<!--SR:!2026-10-31,2,210-->
+<!--SR:!2026-11-08,4,210-->
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
-<!--SR:!2026-10-31,1,130-->
+<!--SR:!2026-11-06,1,130-->
 ![[Hånd(knogle) anatomi 1]]4?:: Os pisiforme
 <!--SR:!2026-11-18,16,290-->
 ![[Hånd(knogle) anatomi 1]]5?:: Os trapezium
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-11-29,24,270-->
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
 <!--SR:!2026-11-11,14,290-->
 ![[Hånd(knogle) anatomi 1]]7?:: Os capitatum
@@ -52,13 +52,13 @@
 ![[Hånd(knogler) anatomi 2]]D?:: Hamulus ossis hamati
 <!--SR:!2026-11-10,8,250-->
 ![[Hånd(knogler) anatomi 2]]E?:: Tuberositas phalangis distais
-<!--SR:!2026-11-04,7,250-->
+<!--SR:!2026-11-29,25,270-->
 ![[Hånd(knogler) anatomi 2]]F?:: Ossa sesamoidea
 <!--SR:!2026-11-07,12,270-->
 ![[Hånd(knogler) anatomi 2]]G?:: DIgitus minimus
 <!--SR:!2026-11-11,14,290-->
 ![[Hånd(knogler) anatomi 2]]H?:: Digitus anularis
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,14,290-->
 ![[Hånd(knogler) anatomi 2]]I?:: Digitus medius
 <!--SR:!2026-11-12,16,290-->
 ![[Hånd(knogler) anatomi 2]]J?:: Index

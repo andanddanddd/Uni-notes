@@ -7,6 +7,6 @@
 - Hvilken komplikation kan erythema infectionsum give?:: [[Apalstisk krise]]
 <!--SR:!2026-11-18,29,230-->
 - Hvilket patogen giver erythema infectionsum?:: [[parvovirus]]
-<!--SR:!2026-11-04,22,210-->
+<!--SR:!2027-01-12,68,230-->
 - Hvordan smitter erythema infectionsum?:: Vertikalt, blod, dråber
 <!--SR:!2026-11-03,28,270-->

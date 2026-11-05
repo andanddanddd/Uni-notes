@@ -12,11 +12,11 @@
 
 ### Udspring
 - Hvor udspringer m. extensor carpi radialis brevis?:: Caput commun extensorium (epicondulys laterale)
-<!--SR:!2026-11-04,5,230-->
+<!--SR:!2026-11-22,17,250-->
 
 ### Insertion
 - Hvor har m. extensor carpi radialis brevis insertion?:: Basis af os metacarpale III (langefinger)
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-15,11,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis brevis?:: Ekstension og radialdevition af håndledet

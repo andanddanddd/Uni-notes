@@ -1,22 +1,22 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor maneg mm. lumbricales har vi?:: 4
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-17,12,270-->
 ### Lokation
 - Hvor er mm. lumbricales overordnet?:: Mellem fingerne palmart
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-20,15,290-->
 - Hvor dybt ligger mm. lumbricales?
 
 ### Form
 - Hvilken form har de 2 radiele mm. lumbricales?:: Semipennant
 - Hvilken form har de 2 ulnare mm. lumbricales?:: Pennant
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-15,11,270-->
 
 ### Udspring
 - Hvor udspringer de 2 radiale mm. lumbricales?:: Radialsiden af senerne i 2. og 3. finger (sener fra [[M. flexor digitorum profundus]])
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,15,290-->
 - Hvor udspringer de 2 ulnare mm. lumbricales?:: Randene til senerne på finger 2,3,4
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,14,290-->
 
 ### Insertion
 - Hvor har mm. lumbricales insertion?:: Radiale kanter af [[Ekstensoraponeurosen]] af de 4 ulanre fingre

@@ -22,7 +22,7 @@
 - Hvordan forhindre L. pneumophilia fagosom og lysosom i at fusionere?:: Injicere proteiner (>300) ind i cytoplasmaet af hvertcellen, den bruger [[Type II sekretion]] og [[Type IV secretion]]
 <!--SR:!2026-10-23,16,290-->
 - Hvad sker med fagosomet som indeholder L. pneumophilia?:: Det bliver omkranset af ruER (of fusionere ikke med et lysosom)
-<!--SR:!2026-10-22,16,290-->
+<!--SR:!2026-12-23,48,290-->
 - Hvor formere L. pneumophila sig?:: Den er fakultativ intracellulær særligt i makrofager
 <!--SR:!2026-12-04,45,290-->
 - Hvilke patogenesefaktorer har L. pneumophila?:: [[Biofilm]]

@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har mm. interossei palmaries?:: Semipennante
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-13,8,250-->
 - Hvilken form har mm. interossei dorsalis?:: Pennante
 <!--SR:!2026-11-06,4,270-->
 
@@ -28,7 +28,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere mm. interossei palmaries/dorsalis?:: [[N. ulnaris]]
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

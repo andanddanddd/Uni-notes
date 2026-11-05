@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. latissimus dorsi overordnet?:: Fra thorax-hoften ud til humerus
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-19,14,290-->
 - Hvor dybt ligger m. latissimus dorsi?:: Superficielt
 <!--SR:!2026-11-14,15,290-->
 

@@ -5,4 +5,4 @@
 ![[Underarm foran 2]]A?:: Senebue
 <!--SR:!2026-11-18,16,290-->
 ![[Underarm foran 2]]B?:: [[M. flexor digitorum superficialis]]
-<!--SR:!2026-11-01,3,250-->
+<!--SR:!2026-11-15,10,270-->

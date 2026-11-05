@@ -16,7 +16,7 @@
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
 <!--SR:!2026-11-15,16,290-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
-<!--SR:!2026-11-01,2,190-->
+<!--SR:!2026-11-09,5,210-->
 
 ### Relationer
 #### Led
@@ -32,7 +32,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker længdevækst af ulna?:: Den distale
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 ### Inspektion og palpation
 ### Klinik
 ![[ulna anatomi 1.png]]
@@ -45,7 +45,7 @@
 ![[Ulna anatomi 1]]C?:: Processus coronoideus
 <!--SR:!2026-11-26,24,270-->
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae
-<!--SR:!2026-10-31,3,230-->
+<!--SR:!2026-11-15,10,250-->
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis
 <!--SR:!2026-11-09,7,250-->
 ![[Ulna anatomi 1]]F?:: Caput ulnae

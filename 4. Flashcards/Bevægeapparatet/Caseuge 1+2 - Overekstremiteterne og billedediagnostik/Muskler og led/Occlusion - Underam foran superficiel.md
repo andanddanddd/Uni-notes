@@ -10,6 +10,6 @@
 ![[Underarm foran 1]]D?:: [[M. flexor carpi radialis]]
 <!--SR:!2026-11-16,14,290-->
 ![[Underarm foran 1]]E?:: [[M. palmaris longus]]
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-19,14,290-->
 ![[Underarm foran 1]]F?:: [[M. flexor carpi ulnaris]]
 

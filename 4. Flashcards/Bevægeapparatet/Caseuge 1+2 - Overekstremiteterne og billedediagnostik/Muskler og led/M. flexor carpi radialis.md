@@ -3,16 +3,16 @@
 
 ### Lokation
 - Hvor er m. flexor carpi radialis overordnet?:: 1. lag af underarmens foreste loge
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-20,15,290-->
 - Hvor dybt ligger m. flexor carpi radialis?:: Superficielt (1. lag)
-<!--SR:!2026-10-31,3,250-->
+<!--SR:!2026-11-16,12,270-->
 
 ### Form
 - Hvilken form har m. flexor carpi radialis?
 
 ### Udspring
 - Hvor udspringer m. flexor carpi radialis?:: Caput commune fexorum (epicondylus medialis)
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-20,15,290-->
 
 ### Insertion
 - Hvor har m. flexor carpi radialis insertion?:: Basis af os metacarple II på siden på håndfladen (på den proximale del af mellemhånsknoglen til pegefingeren)

@@ -7,7 +7,7 @@
 
 ### Ledflader
 - Hvilke ledflader består MCP af?:: Caput af os metacarpale (ledhoved) og basis af [[Phalinx proximalis]] (ledskål)
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,14,290-->
 
 ### Ledets strukture
 
@@ -16,5 +16,5 @@
 
 ### Klinik
 - Hvor stramme er MCP og hvordan mærkes det i hverdagen?:: De er ikke stramme og kan derfor rives fra hinadnen (knække fingre)
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 

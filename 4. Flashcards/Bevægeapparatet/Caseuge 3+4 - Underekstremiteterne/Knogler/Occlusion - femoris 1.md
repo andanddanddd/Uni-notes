@@ -15,16 +15,16 @@
 <!--SR:!2026-11-06,4,270-->
 ![[Femoris 1|600]]I?:: Linea pectinea
 ![[Femoris 1|600]]J?:: Caput ossis femoris
-<!--SR:!2026-10-31,1,230-->
+<!--SR:!2026-11-08,3,250-->
 ![[Femoris 1|600]]K?:: Linea aspera
 ![[Femoris 1|600]]L?:: Labium mediale
 ![[Femoris 1|600]]M?:: Tuberculum adductorium
 ![[Femoris 1|600]]N?:: Fossa trochanterica
-<!--SR:!2026-11-04,2,230-->
+<!--SR:!2026-11-11,7,250-->
 ![[Femoris 1|600]]O?::Crista intertrochanterica
 ![[Femoris 1|600]]P?:: Tuberosiras glutea
 ![[Femoris 1|600]]Q?:: Labium laterale
-<!--SR:!2026-11-05,3,250-->
+<!--SR:!2026-11-17,12,270-->
 ![[Femoris 1|600]]R?:: Facies poplitea
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 ![[Femoris 1|600]]T?:: Condylus lateralis

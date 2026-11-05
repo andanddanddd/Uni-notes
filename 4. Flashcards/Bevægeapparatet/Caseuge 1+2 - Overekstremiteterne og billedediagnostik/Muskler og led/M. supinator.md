@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. supinator?:: Et hoved fra epicondylus lateralis+[[Ligamentum collaterale radiale]] og et hoved fra proximale [[Ulna]]
-<!--SR:!2026-11-03,1,210-->
+<!--SR:!2026-11-08,3,230-->
 
 ### Insertion
 - Hvor har m. supinator insertion?:: [[Radius]] lateralflade
@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. supinator?:: Supination
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

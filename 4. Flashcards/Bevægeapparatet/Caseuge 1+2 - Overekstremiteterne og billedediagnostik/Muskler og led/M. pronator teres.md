@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. pronator teres?:: 1. lag af foreste underarmsloge, mest radielt
 - Hvor dybt ligger m. pronator teres?:: Superficielt (lag 1)
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-19,14,290-->
 
 ### Form
 - Hvilken form har m. pronator teres?
@@ -14,7 +14,7 @@
 
 ### Insertion
 - Hvor har m. pronator teres insertion?:: Lateralfladen af [[Radius]]
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator teres?:: Flektion af albue samt pronation

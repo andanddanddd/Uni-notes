@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor er musklerne i skulderes laterale muskelgruppe overordnet?:: Mellem skulderbæltet og humerus
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-20,16,290-->
 - Hvad kaldes skulderens laterale muskelgruppe også?:: De egentlige skuldermuskler
 <!--SR:!2026-11-13,14,290-->
 - Hvad er de 2 funktioner af de egentlige skuldermuskler?
@@ -18,7 +18,7 @@
 - [[M. subscapularis]]
 - [[M. supraspinatus]]
 - [[M. infraspinatus]]
-<!--SR:!2026-11-04,7,250-->
+<!--SR:!2026-11-30,25,270-->
 
 ![[skuldermsukler 1.png|582]]
 ![[skuldermuskler 2.png]]

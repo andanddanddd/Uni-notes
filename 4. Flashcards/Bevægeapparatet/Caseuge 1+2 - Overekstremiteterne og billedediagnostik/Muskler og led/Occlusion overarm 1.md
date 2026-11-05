@@ -4,9 +4,9 @@
 
 
 ![[Overarm muskler 1|800]]A?:: [[M. deltoideus]]
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-18,14,290-->
 ![[Overarm muskler 1|800]]B?:: [[M. coracobrachialis]]
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-17,12,270-->
 ![[Overarm muskler 1|800]]C?:: [[M. brachialis]]
 <!--SR:!2026-11-14,12,270-->
 ![[Overarm muskler 1|800]]D?:: [[M. biceps brachii]]
@@ -14,8 +14,8 @@
 ![[Overarm muskler 1|800]]F (M. biceps brachii-)?:: Aponeurosis
 <!--SR:!2026-11-09,7,250-->
 ![[Overarm muskler 1|800]]G (M. biceps brachii-)?:: Caput longum
-<!--SR:!2026-11-05,3,250-->
+<!--SR:!2026-11-17,12,270-->
 ![[Overarm muskler 1|800]]H (M. biceps brachii-)?:: Caput breve
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-19,14,290-->
 
 

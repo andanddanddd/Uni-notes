@@ -42,7 +42,7 @@
 <!--SR:!2026-10-21,16,290-->
 ## Symptomer og komplikationer
 - Hvilken sygdom giver rotavirus?:: [[Gastroenteritis]]
-<!--SR:!2026-10-24,16,290-->
+<!--SR:!2027-01-08,64,310-->
 - Hvad er latenstiden på rotavirus?:: Ca 2 dage
 <!--SR:!2026-10-21,16,290-->
 - Hvordan er sygdomsforløbet af rotavirus overordnet?:: Det starter med 2 dages opkast efterfulgt af 3-8 dages diarre

@@ -8,7 +8,7 @@
 - Har rhinovirus en lipidmembran?:: Nej
 <!--SR:!2026-10-18,10,270-->
 - Hvilken type arvematriale bruger rhinovirus?:: RNA+
-<!--SR:!2026-10-23,16,290-->
+<!--SR:!2027-01-11,67,310-->
 - Hvilken struktur har rhinovirus´ arvematriale?:: 1 RNAmolekyle
 <!--SR:!2026-10-25,16,290-->
 ## Livscyklus
@@ -27,7 +27,7 @@
 - Hvornår på året sker flest infektioner med rhinovirus?:: Det sker hele året men særligt i forår og efterår
 <!--SR:!2026-10-24,15,290-->
 - Hvordan smitter rhinovirus?:: Dråber og direkte kontakt
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2027-01-08,64,310-->
 - Hvor "lever" rhinovirus normalt?:: Kun mennesker
 <!--SR:!2026-10-23,16,290-->
 
@@ -45,7 +45,7 @@
 - Hvorfor er det svært at lave en vaccine mod rhinovirus?:: Der er mange forskellige serotyper
 <!--SR:!2026-10-22,16,290-->
 - Hvordan behandles forkølelse grundet rhinovirus?:: Symptombehandling (der er antivirale midler der i princippet virker men de bliver ikke brugt)
-<!--SR:!2026-10-20,15,290-->
+<!--SR:!2027-01-03,59,310-->
 
 
 

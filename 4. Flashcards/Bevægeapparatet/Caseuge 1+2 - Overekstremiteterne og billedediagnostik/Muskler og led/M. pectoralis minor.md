@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor dybt ligger m. pectoralis minor?:: Temmelig superficielt men under [[M. pectoralis major]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-20,16,290-->
 
 ### Form
 - Hvilken form har m. pectoralis minor?:: Flad trekant
@@ -11,11 +11,11 @@
 
 ### Udspring
 - Hvor har m. pectoralis minor udspring?:: 3 takker på overkanten af costalis 3-5
-<!--SR:!2026-11-03,5,230-->
+<!--SR:!2026-11-21,17,250-->
 
 ### Insertion
 - Hvor har m. pectoralis minor insersion?:: proccesus carocoideus scapulae (se [[Scapula]])
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-13,8,250-->
 
 ### Funktion
 - Hvilken funktion har m. pectoralis minor?:: Trække skulderbladet fremad og nedad ved inadrotation

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor carpi radialis longus overordnet?:: Dorsalt (lateralt) på underarmen
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-19,14,290-->
 - Hvor dybt ligger m. extensor carpi radialis longus?:: Superficielt
 
 ### Form
@@ -14,7 +14,7 @@
 
 ### Insertion
 - Hvor har m. extensor carpi radialis longus insertion?:: Basis af os metacarpael II (pegefinger)
-<!--SR:!2026-11-03,1,210-->
+<!--SR:!2026-11-07,2,210-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis longus?:: Ekstension og radialdevition af håndledet

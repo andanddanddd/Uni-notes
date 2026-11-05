@@ -18,9 +18,9 @@
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
 <!--SR:!2026-11-15,16,290-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-20,16,290-->
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
-<!--SR:!2026-11-02,5,230-->
+<!--SR:!2026-11-21,17,250-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
 <!--SR:!2026-11-07,12,270-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
@@ -50,7 +50,7 @@
 - Hvilken knogletype er scapula?:: Flad knogle
 <!--SR:!2026-11-12,16,290-->
 - Er scapula parret eller uparret?:: Parret
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-21,16,290-->
 - Form og størrelse
 ### Ossifikation og heeling
 - Type af ossifikation
@@ -71,7 +71,7 @@
 ![[Scapula Anatomi 1|700]]D?:: Margo superior
 <!--SR:!2026-11-15,16,290-->
 ![[Scapula Anatomi 1|700]]E?:: Angulus superior
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-21,16,290-->
 ![[Scapula Anatomi 1|700]]F?:: Anhulus lateralis
 <!--SR:!2026-11-09,11,270-->
 ![[Scapula Anatomi 1|700]]G?:: Cavitas glenoidalis
@@ -81,7 +81,7 @@
 ![[Scapula Anatomi 1|700]]I?:: Margo lateralis
 <!--SR:!2026-11-13,16,290-->
 ![[Scapula Anatomi 1|700]]J?:: Costalis scapulae
-<!--SR:!2026-11-02,5,230-->
+<!--SR:!2026-11-17,13,230-->
 ![[Scapula Anatomi 1|700]]K?:: Angulus inferior
 <!--SR:!2026-11-11,14,290-->
 ![[Scapula Anatomi 1|700]]L?:: Margo medialis
@@ -90,6 +90,6 @@
 ![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-26,24,270-->
 ![[Scapula Anatomi 1|700]]O?:: Suprascapulae
-<!--SR:!2026-10-31,1,210-->
+<!--SR:!2026-11-05,1,190-->
 ![[Scapula Anatomi 1|700]]P?:: Infraspinata
 <!--SR:!2026-11-09,7,270-->

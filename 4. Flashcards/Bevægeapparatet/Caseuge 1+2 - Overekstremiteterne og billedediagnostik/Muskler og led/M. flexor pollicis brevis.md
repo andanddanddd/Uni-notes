@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. flexor pollicis brevis?:: Kort
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis brevis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])

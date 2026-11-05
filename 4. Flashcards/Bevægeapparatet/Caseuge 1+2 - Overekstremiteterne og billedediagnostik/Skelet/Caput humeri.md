@@ -5,6 +5,6 @@
 - Hvilken ledflade articulere caput humeri med?:: [[Cavitas glenoidalis]]
 <!--SR:!2026-11-13,16,290-->
 - Hvilken form har caput humeri?:: Halvkugleformet
-<!--SR:!2026-11-02,7,250-->
+<!--SR:!2026-12-01,26,270-->
 - Hvilken retning vender caput humeri?:: Opad, bagud, medialt
 <!--SR:!2026-11-07,12,270-->

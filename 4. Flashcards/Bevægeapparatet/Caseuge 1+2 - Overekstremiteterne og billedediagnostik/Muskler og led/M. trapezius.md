@@ -5,7 +5,7 @@
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
 <!--SR:!2026-11-18,16,290-->
 - Hvor dybt ligger m. trapezius?:: Superficielt
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-20,15,290-->
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
 <!--SR:!2026-11-14,15,290-->
@@ -18,7 +18,7 @@
 - Protuberantia occipitalis externa
 - [[Ligamentum nuchae]]
 - Processus spinosus C7-T10
-<!--SR:!2026-10-31,1,210-->
+<!--SR:!2026-11-07,3,230-->
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
 <!--SR:!2026-11-09,10,270-->
@@ -28,18 +28,18 @@
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
 <!--SR:!2026-11-16,14,290-->
 - Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os. occipitale]]
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-16,12,270-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
 <!--SR:!2026-10-31,3,250-->
 - Hvor har fibrene C6-T1 insersion henne? (M. trapezius):: Laterale dele af clavicula samt acromion (se [[Scapula]])
 <!--SR:!2026-11-08,9,250-->
 - Hvor har fibrene fra T8-T10 insersion henne? (M. trapezius):: Spina scapulae (se [[Scapula]])
-<!--SR:!2026-11-01,2,230-->
+<!--SR:!2026-11-09,5,230-->
 
 ### Funktion
 - Hvilken del af m. trapezius er kraftigst?:: Delen der udspringer fra C6-T1
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 - Hvilke funktioner har m. trapezius?
 ?
 - Løfte skulderen

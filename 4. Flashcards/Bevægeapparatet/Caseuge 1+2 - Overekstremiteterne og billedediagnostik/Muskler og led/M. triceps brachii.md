@@ -11,20 +11,20 @@
 
 ### Udspring
 - Hvordan er biceps 3 udspringshoveder overrodnet arrangeret?:: 2 superficielle hoveder og 1 dybt hoved
-<!--SR:!2026-10-31,3,250-->
+<!--SR:!2026-11-15,10,270-->
 - Hvad hedder m. triceps brachii 3 udspringshoveder?
 ?
 - Caput longum
 - Caput laterale
 - Caput mediale
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 - Hvor udspringer caput longum?:: Tuberculum infraglenoidale
-<!--SR:!2026-11-02,0,230-->
+<!--SR:!2026-11-06,1,210-->
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-07,2,230-->
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
-<!--SR:!2026-11-03,1,210-->
+<!--SR:!2026-11-07,3,230-->
 
 ### Insertion
 - Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])

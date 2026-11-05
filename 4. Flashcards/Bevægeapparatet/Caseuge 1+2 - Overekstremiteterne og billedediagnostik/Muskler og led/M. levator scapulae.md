@@ -3,9 +3,9 @@
 
 ### Lokation
 - Hvor er m. levator scapulae overordnet?:: Nakken
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-21,16,290-->
 - Hvor dybt ligger m. levator scapulae?:: Relativt superficielt men under [[M. trapezius]]
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ### Form
 
@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. levator scapulae insetion?:: Angulus superior (se [[Scapula]])
-<!--SR:!2026-10-31,2,230-->
+<!--SR:!2026-11-11,7,250-->
 
 ### Funktion
 - Hvilke funktioner har m. levator scapulae?:: Løfte og indadrotere skulderen

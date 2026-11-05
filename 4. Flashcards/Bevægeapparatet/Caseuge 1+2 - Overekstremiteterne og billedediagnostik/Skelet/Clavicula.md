@@ -5,7 +5,7 @@
 - Hvad hedder clavicula på dansk?:: Nøglebenet (kravebenet)
 <!--SR:!2026-11-11,15,290-->
 - Hvad er funktionen af clavicula?:: Holde armen ud til siden
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-20,15,290-->
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overordnet form har clavicula?:: S-formet
@@ -14,7 +14,7 @@
 ?
 - [[Facies articularis acrominalis]]
 - [[Facies articularis sternalis]]
-<!--SR:!2026-10-30,4,270-->
+<!--SR:!2026-11-20,16,290-->
 
 ### Relationer
 #### Led

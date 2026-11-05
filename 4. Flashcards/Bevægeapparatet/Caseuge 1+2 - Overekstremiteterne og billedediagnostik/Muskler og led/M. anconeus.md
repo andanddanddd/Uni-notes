@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. anconeus?:: Ekstension af albueledet (svag) samt stabilisering af radiohumealledet
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-15,10,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Overekstremitet - Kliniske problemstillinger"
+              "title": "Forelæsning - Underekstremitetens anatomi"
             }
           }
         ]
@@ -42,15 +42,15 @@
             }
           },
           {
-            "id": "be16233b0713985a",
+            "id": "a6d62b2247317d54",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf"
+                "file": "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - 20261103_OE_Clinical Problem_prelecture_cases"
+              "title": "Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final"
             }
           }
         ],
@@ -240,14 +240,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "a6d62b2247317d54",
   "lastOpenFiles": [
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.pdf",
     "4. Flashcards/Fordøjelse II/Begreber indenfor underernæring.md",

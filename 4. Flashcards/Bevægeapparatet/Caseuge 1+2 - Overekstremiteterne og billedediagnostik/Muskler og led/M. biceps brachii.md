@@ -9,7 +9,7 @@
 
 ### Form
 - Hvilken form har m. biceps brachii?:: Lang tenformet
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ### Udspring
 
@@ -18,7 +18,7 @@
 - Hvor udspringer caput breve?:: Processus corocoideus (se [[Scapula]])
 <!--SR:!2026-11-11,9,250-->
 - Hvor udspringer caput longum henne?:: Tuberculum supraglenoidale (se [[Scapula]])
-<!--SR:!2026-11-03,1,210-->
+<!--SR:!2026-11-07,2,190-->
 
 ### Insertion
 - Hvad hedder de 2 sener som biceps bruger til insertion?:: Bicepssenen og bicepsaponeurosen
@@ -26,7 +26,7 @@
 - Hvor har bicepssene insertion?:: Tuberositas radii (se [[Radius]])
 <!--SR:!2026-11-05,3,250-->
 - Hvor har bicepsaponeurosen insertion?:: Fascia antebrachii
-<!--SR:!2026-11-05,3,250-->
+<!--SR:!2026-11-16,11,270-->
 - Hvilken sene til insertion?:: Bicepssenen (dvs den til radius)
 <!--SR:!2026-11-15,16,290-->
 
