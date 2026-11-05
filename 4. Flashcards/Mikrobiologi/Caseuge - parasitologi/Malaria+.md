@@ -40,7 +40,7 @@
 - Hvilke typer af malaria producere [[Hypnozoiter]]?:: [[Plasmodium vivax]] og [[Plasmodium ovale]]
 <!--SR:!2026-10-24,11,270-->
 - Hvordan kan nogle typer af malaria give tilbagefald?:: De kan lave [[Hypnozoiter]] (inaktive malaria i leverceller)
-<!--SR:!2026-10-29,16,290-->
+<!--SR:!2027-01-09,65,310-->
 - Hvad sker med malaria efter 1-2 uger i leverceller?:: De bliver frigivet til blodbanen for de inficere erytrocytter
 <!--SR:!2026-10-27,14,290-->
 - Hvor længe er malaria inde i en erytrocyt?:: 2-3 dage før den brister og de skal finde en ny erytrocyt

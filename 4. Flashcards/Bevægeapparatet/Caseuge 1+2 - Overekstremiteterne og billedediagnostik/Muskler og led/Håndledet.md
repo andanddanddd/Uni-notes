@@ -5,6 +5,6 @@
 - [[Articulatio radiocarpalis]]
 - [[Articulatio intercarpales]]
 - [[Articulatio carpometacarpales]]
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-16,12,270-->
 
 - Hvilke muskler kan uønsket give abduction af håndledet og hvordan undgås det?:: Tommelfingeren abducere, det modvirkes af ulnare muskler

@@ -6,4 +6,4 @@
 - Spina ischiadica (se [[Os ischii]])
 
 - Hvor ligger lig. sacrospinale i forhold til [[Ligamentum sacrotuberale]]?:: Lig. sacrospinale ligger mest ventralt
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-20,16,290-->

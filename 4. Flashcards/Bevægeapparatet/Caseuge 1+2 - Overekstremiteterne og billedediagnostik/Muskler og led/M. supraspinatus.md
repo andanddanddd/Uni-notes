@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. supraspinatus insertion?:: Øvertse del af tuberculum majoris humeri (se [[Humerus]])
-<!--SR:!2026-10-31,4,270-->
+<!--SR:!2026-11-19,15,290-->
 
 ### Funktion
 - Hvilken funktion har m. supraspinatus?

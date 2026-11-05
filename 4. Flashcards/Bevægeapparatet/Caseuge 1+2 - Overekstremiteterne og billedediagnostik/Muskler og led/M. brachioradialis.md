@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. brachioradialis overordnet?:: Dorsalt (lateralt) på underarmen
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,15,290-->
 - Hvor dybt ligger m. brachioradialis?:: Superficielt
 <!--SR:!2026-11-17,15,290-->
 

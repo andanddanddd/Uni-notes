@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -241,14 +240,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
+    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "3. Forelæsninger/Fordøjelse II/Forelæsning - Sygdomsrelateret underernæring (malabsorbsion og malnutrition).md",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.pdf",

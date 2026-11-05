@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. opponens digiti minimi overordnet?:: Hypothenar (lillefingerbaldens muskler)
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-15,11,270-->
 - Hvor dybt ligger m. opponens digiti minimi?:: Profund
 
 ### Form
@@ -20,7 +20,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. opponens digiti minimi?:: [[N. ulnaris]]
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,15,290-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

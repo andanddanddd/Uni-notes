@@ -11,14 +11,14 @@
 
 ### Udspring
 - Hvor udspringer m. flexor digiti minimi?:: [[Retinaculum flexorum]] samt ulnare håndrodsknogler ([[Os pisiforme]] og [[Os hamatum]])
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,15,290-->
 
 ### Insertion
 - Hvor har m. flexor digiti minimi insertion?:: Basis af phalanx proximale V
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor digiti minimi?:: Flektion af lillefingeren
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,15,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor digiti minimi?:: [[N. ulnaris]]

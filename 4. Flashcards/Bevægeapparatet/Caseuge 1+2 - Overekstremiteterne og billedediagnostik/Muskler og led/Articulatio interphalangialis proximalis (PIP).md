@@ -10,6 +10,6 @@
 
 ### Funktion
 - Hvilken bevægelser kan PIP lave?:: Fleksion-ekstension
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,15,290-->
 
 ### Klinik

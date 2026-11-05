@@ -4,7 +4,7 @@
 
 ## Generalt
 - Hvilken type cellevæg har B. burgdorferi?:: [[Gram-negative bakterier]]
-<!--SR:!2026-10-23,16,290-->
+<!--SR:!2027-01-06,62,310-->
 - Hvilken form har B. burgdorferi?:: Spiral
 <!--SR:!2026-10-23,16,290-->
 - Hvordan lejres B. burgdorferi?
@@ -59,7 +59,7 @@
 <!--SR:!2026-10-21,16,290-->
 #### Stadie 1
 - Hvilke symptomer sker overordnet i stadie 1 af borrelia?:: Rundt udslet (skydeskive), derudover kan hovedpine, træthed og general utilpashed forekomme
-<!--SR:!2026-10-21,16,290-->
+<!--SR:!2027-01-10,66,310-->
 - Hvor længe varer stadie 1 af borrelia?:: Par dage til flere uger
 <!--SR:!2026-10-23,16,290-->
 - Hvad kaldes udslettet i stadie 1 af borrelia?:: Erythema migrans
