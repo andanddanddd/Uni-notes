@@ -49,6 +49,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskife sker længdevækst af femoris?:: Den distale
+<!--SR:!2026-11-08,3,250-->
 ### Inspektion og palpation
 ### Klinik
 

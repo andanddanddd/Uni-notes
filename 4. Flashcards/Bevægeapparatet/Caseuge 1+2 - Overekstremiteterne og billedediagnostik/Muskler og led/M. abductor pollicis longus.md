@@ -12,10 +12,11 @@
 
 ### Udspring
 - Hvor udspringer m. abductor pollicis longus?:: Bagflade af [[Ulna]], [[Radius]] samt membrana interossa
+<!--SR:!2026-11-06,1,230-->
 
 ### Insertion
 - Hvor har m. abductor pollicis longus insertion?:: Basis af os metacarpale I (tommelfinger)
-<!--SR:!2026-11-02,4,270-->
+<!--SR:!2026-11-17,12,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor pollicis longus?:: Abduction af tommenfinger

@@ -23,7 +23,7 @@
 - Hvilke bevægelser udfører mm. interossei palmaries?:: Samle de ulnare fingre (samt precisionsgreb)
 <!--SR:!2026-11-06,4,270-->
 - Hvilke bevægelser udfører mm. interossei dorsalis?:: sprede de ulnare fingre (samt precisionsgreb)
-<!--SR:!2026-11-03,1,230-->
+<!--SR:!2026-11-08,3,250-->
 - Hvilken gruppe af mm. interossei er kraftigst?:: mm. interossei dorsalis
 
 ### Innerversion og reflekser

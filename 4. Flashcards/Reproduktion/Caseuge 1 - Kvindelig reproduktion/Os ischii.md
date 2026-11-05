@@ -4,6 +4,7 @@
 
 #### Placering og orientering
 - Hvor er os ischii overordnet?:: Under [[Foramen obturatum]]
+<!--SR:!2026-11-09,4,270-->
 #### Form og størrelse
 - Hvilke 2 dele består os ischii overordnet af?
 ?

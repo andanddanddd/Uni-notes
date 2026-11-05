@@ -90,6 +90,6 @@
 ![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-26,24,270-->
 ![[Scapula Anatomi 1|700]]O?:: Suprascapulae
-<!--SR:!2026-11-05,1,190-->
+<!--SR:!2026-11-08,3,210-->
 ![[Scapula Anatomi 1|700]]P?:: Infraspinata
 <!--SR:!2026-11-09,7,270-->

@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. gluteus maximus overordnet?:: Bagpå hoften
+<!--SR:!2026-11-09,4,270-->
 - Hvor dybt ligger m. gluteus maximus?:: Superficielt
 
 ### Form
@@ -24,6 +25,7 @@
 - I hvilke siturationer udfører m. gluteus maximus ekstension?:: Løb og rejse sig op fra sidende
 - Hvilken bevægelse/kropsform er nødvendigt for at m. gluteus maximus kan udfører ekstension?:: Fremadstillet overkrop
 - Udover ekstension hvilke bevægelser udfører m. gluteus maximus?:: Adduktion, abduction samt udadrotation af hofteledet
+<!--SR:!2026-11-08,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. gluteus maximus?

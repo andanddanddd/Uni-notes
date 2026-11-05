@@ -7,6 +7,7 @@
 ![[Femoris 1|600]]B?:: Epicondylus medialis
 <!--SR:!2026-11-06,4,270-->
 ![[Femoris 1|600]]C?:: [[Caput femoralis]]
+<!--SR:!2026-11-09,4,270-->
 ![[Femoris 1|600]]D?:: Collum femoris
 ![[Femoris 1|600]]E?:: Linea intertrochanterica
 ![[Femoris 1|600]]F?:: Facies patellaris
@@ -22,6 +23,7 @@
 ![[Femoris 1|600]]N?:: Fossa trochanterica
 <!--SR:!2026-11-11,7,250-->
 ![[Femoris 1|600]]O?::Crista intertrochanterica
+<!--SR:!2026-11-06,1,230-->
 ![[Femoris 1|600]]P?:: Tuberosiras glutea
 ![[Femoris 1|600]]Q?:: Labium laterale
 <!--SR:!2026-11-17,12,270-->
@@ -31,4 +33,5 @@
 <!--SR:!2026-11-13,11,270-->
 ![[Femoris 1|600]]U?:: Fossa inercondylaris
 ![[Femoris 1|600]]V?:: Condylus medialis
+<!--SR:!2026-11-09,4,270-->
 

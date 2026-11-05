@@ -9,6 +9,7 @@
 - Hvad hedder ledhovdet på den proxiamle ekstremitet af fibula?:: [[Caput fibulae]]
 - Hvilken form har corpus fibulae?:: Trekantet (prisme)
 - Hvad kaldes den distale ekstremitet af fibula?:: Mallelus lateralis
+<!--SR:!2026-11-06,1,230-->
 
 ### Relationer
 #### Led

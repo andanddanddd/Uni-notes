@@ -6,6 +6,7 @@
 
 #### Placering og orientering
 - Hvor er os naviculare overordnet?:: Fodroden
+<!--SR:!2026-11-09,4,270-->
 - Hvor i fodroden er osnaviculare?:: Distal række medialt
 - Hvilken underbensknogle tilhører on naviculare?:: [[Tibia]]
 #### Form og størrelse

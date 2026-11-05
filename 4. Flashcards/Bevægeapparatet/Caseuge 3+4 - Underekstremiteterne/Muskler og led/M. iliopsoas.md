@@ -7,6 +7,7 @@
 ### Lokation
 - Hvor er m. iliopsoas overordnet?
 - Hvor dybt ligger m. iliopsoas?
+<!--SR:!2026-11-09,4,270-->
 
 ### Form
 - Hvilken form har m. iliacus?:: Vifteformet

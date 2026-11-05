@@ -7,7 +7,7 @@
 - Hvad hedder membranen der forbidner de 2 underarmsknogler?:: Membrana interossea
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder kanterne på de 2 underarmsknogler der forbindes af en membran?:: Margo interosseus
-<!--SR:!2026-11-04,7,250-->
+<!--SR:!2026-11-29,24,270-->
 
 ![[underarmsknogler anatomi 1.png]]
 ![[underarmsknogler anatomi 2.png]]
@@ -52,6 +52,6 @@
 ![[Underarmsknogler anatomi 2|600]]N?:: Processus styloideus radii
 <!--SR:!2026-11-06,1,210-->
 ![[Underarmsknogler anatomi 2|600]]O?:: Processus coronoideus
-<!--SR:!2026-10-30,3,250-->
+<!--SR:!2026-11-13,8,250-->
 ![[Underarmsknogler anatomi 2|600]]P?:: Tuberositas ulnae
 <!--SR:!2026-11-16,12,270-->

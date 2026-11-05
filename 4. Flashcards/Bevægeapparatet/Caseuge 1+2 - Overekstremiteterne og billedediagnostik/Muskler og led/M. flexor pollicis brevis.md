@@ -14,13 +14,13 @@
 
 ### Insertion
 - Hvor har m. flexor pollicis brevis insertion?:: Tommelfingerens radiale sesamknogle samt basis af phalinx proximale
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-19,14,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis brevis?:: Flektion af tommelfingren
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor pollicis brevis?:: [[N. medianus]]
-<!--SR:!2026-11-02,3,250-->
+<!--SR:!2026-11-15,10,270-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

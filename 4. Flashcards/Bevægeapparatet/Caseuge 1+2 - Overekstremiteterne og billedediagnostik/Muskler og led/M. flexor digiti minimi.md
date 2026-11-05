@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. flexor digiti minimi overordnet?:: Hypothenar (lillefingerbaldens muskler)
 - Hvor dybt ligger m. flexor digiti minimi?:: Superficielt
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-20,15,290-->
 
 ### Form
 - Hvilken form har m. flexor digiti minimi?

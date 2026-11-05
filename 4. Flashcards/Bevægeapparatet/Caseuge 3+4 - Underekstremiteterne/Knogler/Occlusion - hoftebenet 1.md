@@ -6,7 +6,7 @@
 <!--SR:!2026-11-19,14,290-->
 ![[Hoftebenet 1|600]]B?:: Fossa iliaca
 ![[Hoftebenet 1|600]]C?:: Spina iliaca ant. sup.
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-20,15,290-->
 ![[Hoftebenet 1|600]]D?:: Spina iliaca ant. inf.
 <!--SR:!2026-11-06,4,270-->
 ![[Hoftebenet 1|600]]E?:: Eminentia iliopubica
@@ -26,7 +26,7 @@
 <!--SR:!2026-11-20,15,290-->
 
 ![[Hoftebenet 1|600]]N?:: Spina iliaca post. inf
-<!--SR:!2026-11-03,4,270-->
+<!--SR:!2026-11-21,16,290-->
 
 ![[Hoftebenet 1|600]]O?:: Incisura ischiadica major
 <!--SR:!2026-11-21,16,290-->

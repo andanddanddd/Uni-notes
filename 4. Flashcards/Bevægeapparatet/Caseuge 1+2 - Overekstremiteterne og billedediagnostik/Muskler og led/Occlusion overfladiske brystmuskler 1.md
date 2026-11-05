@@ -7,7 +7,7 @@
 ![[Overfladiske brystmuskler 1]]A?:: [[M. deltoideus]]
 <!--SR:!2026-11-14,15,290-->
 ![[Overfladiske brystmuskler 1]]B?:: [[M. coracobrachialis]]
-<!--SR:!2026-11-04,5,230-->
+<!--SR:!2026-11-22,17,250-->
 ![[Overfladiske brystmuskler 1]]C?:: [[M. triceps brachii]]
 ![[Overfladiske brystmuskler 1]]D ?:: [[M. biceps brachii]] (Caput longum/breve)
 <!--SR:!2026-11-09,10,270-->
