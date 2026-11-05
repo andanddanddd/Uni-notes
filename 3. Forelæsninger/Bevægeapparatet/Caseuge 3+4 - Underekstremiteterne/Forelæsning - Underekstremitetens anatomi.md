@@ -12,6 +12,7 @@
 	- [ ] Dvs den ikke nødvendigvis er brækket hvis man finder 2 dele på et røntgen
 - [ ] Meninsker agere stødpude
 - [ ] Accesorry naviculare kan give platfod og smerter (ikke altid)
+- [ ] Man kan overstrække ligamneter i anklen, dermed mister den sin stabilitet
 
 ![[Underekstremiteternes skelet]]
 
