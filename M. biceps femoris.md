@@ -2,20 +2,26 @@
 
 
 ### Lokation
-- Hvor er m. biceps femoris overordnet?
-- Hvor dybt ligger m. biceps femoris?
+- Hvor er m. biceps femoris overordnet?:: Lårets bagertse muskelgruppe
+- Hvor dybt ligger m. biceps femoris?:: Superficielt
 
 ### Form
 - Hvilken form har m. biceps femoris?
 
 ### Forløb
+- Hvad kendetegner m. biceps femoris forløb ved knæet?:: Det løber lateralt om knæet
 #### Udspring
-- Hvor udspringer m. biceps femoris?
+- Hvor udspringer caput longum af m. biceps femoris?:: Tuber ischiadicum (se [[Os ischii]])
+- Hvor udspringer caput breve af m. biceps femoris?:: Linea asperas laterale kant (se [[Femoris]])
 #### Insertion
-- Hvor har m. biceps femoris insertion?
+- Hvor har m. biceps femoris insertion?:: Caput fibulae (se [[Fibula]])
 
 ### Funktion
 - Hvilke bevægelser udfører m. biceps femoris?
+?
+- Hofteekstension
+- Knæfleksion
+- Udadrotation af underben ved bøjet knæ
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. biceps femoris?

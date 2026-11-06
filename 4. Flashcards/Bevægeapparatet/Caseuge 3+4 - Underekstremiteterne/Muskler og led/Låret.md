@@ -22,11 +22,12 @@
 - [[M. adductor magnus]]
 - [[M. gracilis]]
 
+- Hvad kaldes lårets bagerste muskelgruppe også?:: Hasemuskler/hamstrings
 - Hvad hedder musklerne i lårets bagertse muskelgruppe?
 ?
 - [[M. biceps femoris]]
 - [[M. semitendinosus]]
-- [[M. semitendinosus]]
+- [[M. semimembranosus]]
 
 [[Occlusion - lårmuskler 1]]
 [[Occlusion - lårmuskler 2]]
