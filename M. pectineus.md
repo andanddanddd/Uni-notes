@@ -3,16 +3,16 @@
 
 ### Lokation
 - Hvor er m. pectinus overordnet?:: Lårets mediale muskelgruppe
-- Hvor dybt ligger m. pectinus?:: Super
+- Hvor dybt ligger m. pectinus?:: Superficielt
 
 ### Form
-- Hvilken form har m. pectinus?
+- Hvilken form har m. pectinus?:: Flad firkantet
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. pectinus?
+- Hvor udspringer m. pectinus?:: Pecten ossis pubis (se [[Os pubis]])
 #### Insertion
-- Hvor har m. pectinus insertion?
+- Hvor har m. pectinus insertion?:: Linea pectinea (forlængelse af linea asparta se [[Femoris]]])
 
 ### Funktion
 - Hvilke bevægelser udfører m. pectinus?
