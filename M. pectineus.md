@@ -15,7 +15,7 @@
 - Hvor har m. pectinus insertion?:: Linea pectinea (forlængelse af linea asparta se [[Femoris]]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. pectinus?
+- Hvilke bevægelser udfører m. pectinus?:: Adduction af hoften
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. pectinus?

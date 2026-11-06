@@ -15,7 +15,7 @@
 - Hvor har m. adductor longus insertion?:: Linea asperas mediale læbe (se [[Femoris]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. adductor longus?
+- Hvilke bevægelser udfører m. adductor longus?:: Adduction af hoften
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor longus?

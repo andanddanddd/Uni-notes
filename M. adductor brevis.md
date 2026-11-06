@@ -15,7 +15,7 @@
 - Hvor har m. adductor brevis insertion?:: Linea aspara (se [[Femoris]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. adductor brevis?
+- Hvilke bevægelser udfører m. adductor brevis?:: Adduction af hoften
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor brevis?

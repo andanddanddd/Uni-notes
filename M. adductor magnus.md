@@ -10,12 +10,12 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. adductor magnus?
+- Hvor udspringer m. adductor magnus?:: Fra sammenvoksningen mellem ramus ossis ischi og ramsu inf ossis pubis til tuber ischiadicum (se [[Os ischii]] og [[Os pubis]])
 #### Insertion
-- Hvor har m. adductor magnus insertion?
+- Hvor har m. adductor magnus insertion?:: Mediale længe af linea aspara og tuberculum adductorum (se [[Femoris]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. adductor magnus?
+- Hvilke bevægelser udfører m. adductor magnus?:: Adduction og ekstension af hoften
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor magnus?

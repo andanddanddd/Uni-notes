@@ -22,6 +22,12 @@
 - [[M. adductor magnus]]
 - [[M. gracilis]]
 
+- Hvad hedder musklerne i lårets bagertse muskelgruppe?
+?
+- [[M. biceps femoris]]
+- [[M. semitendinosus]]
+- [[M. semitendinosus]]
+
 [[Occlusion - lårmuskler 1]]
 [[Occlusion - lårmuskler 2]]
 [[Occlusion - lårmuskler 3]]
