@@ -31,7 +31,7 @@
 ?
 - [[M. popliteus]]
 - [[M. flexor hallucis longus]]
-- [[m. flexor digitorum longus]]
+- [[M. flexor digitorum longus]]
 - [[M. tibialis posterior]]
 
 

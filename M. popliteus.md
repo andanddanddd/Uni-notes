@@ -12,9 +12,10 @@
 #### Udspring
 - Hvor udspringer m. popliteus?:: Condylus lateralis af [[Femoris]]
 #### Insertion
-- Hvor har m. popliteus insertion?:: [[Tibia]]s bagflade (proximalt for [[M. soleus]]) udspr
+- Hvor har m. popliteus insertion?:: [[Tibia]]s bagflade (proximalt for [[M. soleus]] udspring)
 
 ### Funktion
+- Hvilken funktion har m. popliteus og hvordan opnås dette?:: "låse" knæet i en udadroteret stilling, m. popliteus forløber diagonalt
 - Hvilke bevægelser udfører m. popliteus?
 
 ### Innerversion og reflekser

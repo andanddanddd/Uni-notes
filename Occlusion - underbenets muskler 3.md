@@ -5,7 +5,7 @@
 
 A?:: [[M. semimembranosus]]
 B?:: [[M. semitendinosus]]
-C?:: [[m. flexor digitorum longus]]
+C?:: [[M. flexor digitorum longus]]
 D?:: [[M. biceps femoris]]
 E?:: [[M. plantaris]]
 F?:: [[M. gastrocnemius]]

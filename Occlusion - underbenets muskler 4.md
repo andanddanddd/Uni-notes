@@ -3,7 +3,7 @@
 ![[underbenets muskler 4.png]]
 
 
-A?:: [[m. flexor digitorum longus]]
+A?:: [[M. flexor digitorum longus]]
 B?:: [[M. tibialis posterior]]
 C?:: [[M. flexor hallucis longus]]
 D?:: [[M. popliteus]]

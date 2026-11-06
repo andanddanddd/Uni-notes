@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. popliteus.md",
+                "file": "M. tibialis posterior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. popliteus"
+              "title": "M. tibialis posterior"
             }
           },
           {
@@ -303,10 +303,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "4b4e7ba26deb09c8",
   "lastOpenFiles": [
-    "M. popliteus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Underbenet.md",
+    "M. tibialis posterior.md",
+    "M. flexor digitorum longus.md",
+    "M. flexor hallucis longus.md",
+    "M. popliteus.md",
     "M. plantaris.md",
     "M. triceps surae.md",
     "Tendo calcaneus.md",
@@ -330,10 +333,7 @@
     "Occlusion - underbenets muskler 3.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 3.md",
     "underbenets muskler 3.png",
-    "Occlusion - underbens muskler 2.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 2.md",
     "underbenets muskler 2.png",
-    "Occlusion - sener i foden 1.md",
     "sener i foden 1.png",
     "underbenests muskler 1.png",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
