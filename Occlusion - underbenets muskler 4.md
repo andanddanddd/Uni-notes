@@ -5,7 +5,7 @@
 
 A?:: [[m. flexor digitorum longus]]
 B?:: [[M. tibialis posterior]]
-C?::
-D?::
-E?::
-F?::
+C?:: [[M. flexor hallucis longus]]
+D?:: [[M. popliteus]]
+E?:: [[Lig. popliteofibulare]]
+F?:: [[M. peroneus brevis]]
