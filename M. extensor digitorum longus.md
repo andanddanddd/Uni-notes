@@ -20,6 +20,10 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum longus?
+?
+- Ekstension af de 4 laterale tær
+- Dorsiflektion
+- Evasion
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. extensor digitorum longus?

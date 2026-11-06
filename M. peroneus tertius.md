@@ -15,7 +15,7 @@
 - Hvor har m. peroneus tertius insertion?:: Dorsalfalden af corpus af ossis metatarsales V
 
 ### Funktion
-- Hvilke bevægelser udfører m. peroneus tertius?
+- Hvilke bevægelser udfører m. peroneus tertius?:: Dorsiflektion og eversion
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. peroneus tertius?

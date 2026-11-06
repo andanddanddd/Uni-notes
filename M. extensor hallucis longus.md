@@ -15,7 +15,7 @@
 - Hvor har m. extensor hallucis longus insertion?:: Phalanx distale af storetåen
 
 ### Funktion
-- Hvilke bevægelser udfører m. extensor hallucis longus?
+- Hvilke bevægelser udfører m. extensor hallucis longus?:: Ekstension af storetåen og dorsiflektion af foden
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. extensor hallucis longus?
