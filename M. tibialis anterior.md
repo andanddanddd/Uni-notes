@@ -9,15 +9,21 @@
 - Hvilken form har m. tibialis ant.?
 
 ### Forløb
+- Hvilken kulisse løber m. tibilias ant. igennem?:: 1. kulisse
 #### Udspring
 - Hvor udspringer m. tibialis ant.?
 ?
-- 
+- [[Tibia]]s lateralflade
+- Membrana interossea
+- Fascia cruris
 #### Insertion
 - Hvor har m. tibialis ant. insertion?
+?
+- Medialfladen af [[Os cuneiforme mediale]] 
+- Basis af ossis metatarsalis I
 
 ### Funktion
-- Hvilke bevægelser udfører m. tibialis ant.?
+- Hvilke bevægelser udfører m. tibialis ant.?:: Dorsalflektion og inversion af foden
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. tibialis ant.?
