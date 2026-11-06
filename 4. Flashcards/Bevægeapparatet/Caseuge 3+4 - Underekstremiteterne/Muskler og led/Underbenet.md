@@ -16,6 +16,12 @@
 - [[M. extensor digitorum longus]]
 - [[M. peroneus tertius]]
 
+- Hvad hedder de 2 retinakler der nedbinder musklerne i underbenets fibulare muskelgruppe?:: Øvre og nedre peroneerretinakel
+- Hvilke muskler er i underbenets fibulare/peroneere muskelgruppe?
+?
+- [[M. peroneus longus]]
+- [[M. peroneus brevis]]
+
 
 [[Occlusion - underbenests muskler 1]]
 [[Occlusion - underbens muskler 2]]
