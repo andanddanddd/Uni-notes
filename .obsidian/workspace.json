@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 42.62135922330097,
+        "dimension": 55.511136493432325,
         "children": [
           {
             "id": "4b4e7ba26deb09c8",
@@ -14,12 +14,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - underbens muskler 2.md",
+                "file": "Occlusion - underbenets muskler 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion - underbens muskler 2"
+              "title": "Occlusion - underbenets muskler 4"
+            }
+          },
+          {
+            "id": "96e6ceea677ddbfc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underbenets muskler 4"
+            }
+          },
+          {
+            "id": "24d0b2bb377eab80",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underbenets muskler 3"
+            }
+          },
+          {
+            "id": "4dab54965c476dfa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Underbenets muskler 2"
             }
           },
           {
@@ -51,7 +87,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 57.37864077669903,
+        "dimension": 44.488863506567675,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -269,8 +305,16 @@
   },
   "active": "4b4e7ba26deb09c8",
   "lastOpenFiles": [
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 4.md",
+    "Occlusion - underbenets muskler 4.md",
+    "underbenets muskler 4.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Bevægelse af knæledet.md",
+    "Occlusion - underbenets muskler 3.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 3.md",
+    "underbenets muskler 3.png",
     "Occlusion - underbens muskler 2.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 2.md",
+    "underbenets muskler 2.png",
     "Occlusion - sener i foden 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Sener i foden 1.md",
     "sener i foden 1.png",
@@ -292,11 +336,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæledet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. quadriceps femoris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. rectus femoris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. vastus medialis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. vastus intermedius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. vastus lateralis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. quadratus femoris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. sartorius.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
@@ -311,9 +350,6 @@
     "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 3.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 2.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 1.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/hofte anatomi 3.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/hofte anatomi 2.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/hofte anatomi 1.png",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led",
     "Untitled.canvas"
   ]
