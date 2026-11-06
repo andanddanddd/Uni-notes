@@ -13,9 +13,16 @@
 - Hvor udspringer m. semimembranosus?:: Tuber ischiadicum (se [[Os ischii]])
 #### Insertion
 - Hvor har m. semimembranosus insertion?
+?
+- Medialt i knæets kapsel
+- Cpndylu smedialis af [[Tibia]]
+- [[Ligamentum popliteum obliquum]]
 
 ### Funktion
 - Hvilke bevægelser udfører m. semimembranosus?
+?
+- Hofteekstension
+- Knæfleksion
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. semimembranosus?

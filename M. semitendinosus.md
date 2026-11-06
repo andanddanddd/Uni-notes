@@ -16,7 +16,11 @@
 - Hvor har m. semitendinosus insertion?:: Pes anserinus (distalt for [[M. gracilis]]) (se [[Tibia]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. semitendinosus?
+- Hvilke bevægelser udfører m. semitendinosus??
+?
+- Hofteekstension
+- Knæfleksion
+- Indadrotation af underben ved bøjet knæ
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. semitendinosus?
