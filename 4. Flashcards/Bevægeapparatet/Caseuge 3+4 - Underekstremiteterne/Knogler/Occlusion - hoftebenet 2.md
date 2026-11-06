@@ -23,6 +23,7 @@
 <!--SR:!2026-11-12,10,270-->
 ![[Hoftebenet 2|700]]L?:: Spina iliaca ant. sup 
 ![[Hoftebenet 2|700]]M?:: Spina iliaca ant. inf.
+<!--SR:!2026-11-10,4,270-->
 ![[Hoftebenet 2|700]]N?:: Facies lunata
 <!--SR:!2026-11-07,2,210-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis

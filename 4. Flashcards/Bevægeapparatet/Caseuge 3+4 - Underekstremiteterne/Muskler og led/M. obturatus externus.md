@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. obturatus externus?:: Udvendige falde af membrana obturatoris (se [[Foramen obturatum]])
+<!--SR:!2026-11-09,3,250-->
 
 ### Insertion
 - Hvor har m. obturatus externus insertion?:: Fossa trochanterica (se [[Femoris]])

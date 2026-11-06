@@ -13,6 +13,7 @@
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
 <!--SR:!2026-11-08,6,230-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
+<!--SR:!2026-11-07,1,230-->
 
 ### Muskler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?

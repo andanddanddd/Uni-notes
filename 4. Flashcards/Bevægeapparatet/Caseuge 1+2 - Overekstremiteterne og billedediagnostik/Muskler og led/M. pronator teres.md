@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. pronator teres?:: 1. lag af foreste underarmsloge, mest radielt
+<!--SR:!2026-11-10,4,270-->
 - Hvor dybt ligger m. pronator teres?:: Superficielt (lag 1)
 <!--SR:!2026-11-19,14,290-->
 

@@ -20,6 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis brevis?:: Ekstension og radialdevition af håndledet
+<!--SR:!2026-11-09,3,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

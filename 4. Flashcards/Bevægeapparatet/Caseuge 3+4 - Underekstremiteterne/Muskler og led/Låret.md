@@ -2,6 +2,7 @@
 
 - Hvad hedder låret på latin?:: Femur
 - Hvad gør musklerne i låret overordnet?:: bevæger knæledet samt adducere hofteledet
+<!--SR:!2026-11-10,4,270-->
 - Hvad hedder facien i låret?:: *Fascia lata*
 - Hvor i låret binder bindevævssepta der opdeler låret?:: Linea aspera samt dens forlængelser (se [[Femoris]])
 - Hvor i låret er de store kar?:: Mellem extensorgruppen og adductorgruppen

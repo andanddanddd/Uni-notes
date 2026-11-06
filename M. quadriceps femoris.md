@@ -23,6 +23,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. quadriceps femoris?:: Primært fleksion af knæledet (se de individulle dele)
+<!--SR:!2026-11-10,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. quadriceps femoris?

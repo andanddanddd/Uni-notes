@@ -24,6 +24,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er clavicula?:: Lang knogle
+<!--SR:!2026-11-10,4,270-->
 - Er clavicula parret eller uparret?:: Parret
 - Form og størrelse
 ### Ossifikation og heeling

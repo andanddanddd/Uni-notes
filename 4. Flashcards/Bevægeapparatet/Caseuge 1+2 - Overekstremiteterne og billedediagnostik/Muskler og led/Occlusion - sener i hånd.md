@@ -15,6 +15,7 @@
 ![[Sener i hånd|650]]G?:: [[M. extensor carpi radialis brevis]]
 ![[Sener i hånd|650]]H?:: [[M. extensor carpi radialis longus]]
 ![[Sener i hånd|650]]I?:: [[Retinaculum extensorum]]
+<!--SR:!2026-11-10,4,270-->
 ![[Sener i hånd|650]]J?:: [[M. extensor pollici longus]]
 <!--SR:!2026-11-11,5,230-->
 ![[Sener i hånd|650]]K?:: [[M. extensor indicis]]

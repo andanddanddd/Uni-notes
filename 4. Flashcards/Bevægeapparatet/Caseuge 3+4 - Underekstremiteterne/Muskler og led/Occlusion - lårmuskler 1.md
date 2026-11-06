@@ -13,10 +13,11 @@
 ![[Lårmuskler 1|600]]H?:: [[Lig. patellae]]
 ![[Lårmuskler 1|600]]I?:: Tuberositas tibiae
 ![[Lårmuskler 1|600]]J?:: [[M. pectineus]]
-<!--SR:!2026-11-06,0,230-->
+<!--SR:!2026-11-07,1,210-->
 ![[Lårmuskler 1|600]]K?:: [[M. adductor longus]]
 <!--SR:!2026-11-07,1,210-->
 ![[Lårmuskler 1|600]]L?:: [[M. gracilis]]
+<!--SR:!2026-11-07,1,230-->
 ![[Lårmuskler 1|600]]M?:: [[M. sartorius]]
 ![[Lårmuskler 1|600]]N?:: [[M. vastus medialis]]  
 ![[Lårmuskler 1|600]]O?:: Pes anseinus

@@ -7,6 +7,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overordnet form har patella?:: Lille trekant
+<!--SR:!2026-11-09,3,250-->
 
 ### Relationer
 #### Led
