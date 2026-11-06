@@ -11,7 +11,7 @@
 - Hvad hedder musklerne i låret foreste muskelgruppe?
 ?
 - [[M. sartorius]]
-- [[M. quadratus femoris]]
+- [[M. quadriceps femoris]]
 
 [[Occlusion - lårmuskler 1]]
 [[Occlusion - lårmuskler 2]]

@@ -6,10 +6,10 @@
 ### Form
 - Hvilken form har mK?
 
-### Udspring
+### Forløb
+#### Udspring
 - Hvor udspringer mK?
-
-### Insertion
+#### Insertion
 - Hvor har mK insertion?
 
 ### Funktion
