@@ -6,3 +6,5 @@
 
 
 [[Occlusion - underbenests muskler 1]]
+[[Occlusion - underbens muskler 2]]
+[[Occlusion - sener i foden 1]]
