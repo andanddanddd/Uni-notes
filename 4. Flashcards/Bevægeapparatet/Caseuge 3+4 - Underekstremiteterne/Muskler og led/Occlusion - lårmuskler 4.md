@@ -14,5 +14,5 @@
 ![[Lårmuskler 4|600]]I? (hvilket hoved?):: [[M. biciptis]] caput breve
 ![[Lårmuskler 4|600]]J? (hvilket hoved?):: [[M. gastrocnemius]] caput lateale
 <!--SR:!2026-11-09,3,250-->
-![[Lårmuskler 4|600]]K?:: [[m. soleus]]
+![[Lårmuskler 4|600]]K?:: [[M. soleus]]
 <!--SR:!2026-11-09,3,250-->

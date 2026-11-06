@@ -9,12 +9,12 @@
 - Hvilken form har m. triceps surae?
 
 ### Forløb
-- Hvad hedder de 2 dele af m. triceps surae?:: 2 [[M. gastrocnemius]] og en [[m. soleus]]
+- Hvad hedder de 2 dele af m. triceps surae?:: 2 [[M. gastrocnemius]] og en [[M. soleus]]
 #### Udspring
 - Hvor udspringer m. triceps surae?
 #### Insertion
 - Hvor har m. triceps surae insertion?:: Tuber calcanei (se [[Calcaneus]])
-- Hvilken sene bruger m. triceps surae til insertion?:: [[Akkilesenen]]
+- Hvilken sene bruger m. triceps surae til insertion?:: [[Tendo calcaneus]]
 
 ### Funktion
 - Hvilke bevægelser udfører m. triceps surae?:: Plantarflektion (kraftig)

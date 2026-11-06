@@ -10,12 +10,13 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. gastrocnemius caput mediale?:: [[fem]]
+- Hvor udspringer m. gastrocnemius caput mediale?:: [[Femoris]] bag tuberculum adductorium
+- Hvor udspringer m. gastrocnemius caput laterale?:: Condulys laterale af [[Femoris]]
 #### Insertion
-- Hvor har m. gastrocnemius insertion?
+- Hvor har m. gastrocnemius insertion?:: Tuber calcanei (se [[Calcaneus]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. gastrocnemius?
+- Hvilke bevægelser udfører m. gastrocnemius?:: Plantarflektion
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. gastrocnemius?

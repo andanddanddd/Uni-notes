@@ -8,6 +8,6 @@ B?:: [[M. extensor digitorum longus]]
 C?:: [[M. peroneus tertius]]
 D?:: [[M. gastrocnemius]]
 E?:: [[M. tibialis anterior]]
-F?:: [[m. soleus]]
+F?:: [[M. soleus]]
 G?:: [[M. extensor hallucis longus]]
 
