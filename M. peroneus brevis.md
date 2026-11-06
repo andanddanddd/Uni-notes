@@ -16,7 +16,7 @@
 - Hvor har m. peroneus brevis insertion?:: Bagerst på malleus lateralis (se [[Fibula]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. peroneus brevis?
+- Hvilke bevægelser udfører m. peroneus brevis?:: Eversion og plantarflektion af foden
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. peroneus brevis?
