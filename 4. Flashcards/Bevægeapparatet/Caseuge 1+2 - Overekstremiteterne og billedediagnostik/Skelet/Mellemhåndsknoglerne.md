@@ -6,6 +6,7 @@
 <!--SR:!2026-11-15,16,290-->
 - Hvad kaldes de 2 ekstremiteter i mellemhåndsknoglerne?:: Basis (proximal) caput (distal)
 <!--SR:!2026-11-30,25,270-->
-- Hvad kendetegner epifyserne på mellemhåndsknoglerne?:: De har kun 1 hver 
+- Hvad kendetegner epifyserne på mellemhåndsknoglerne?:: De har kun 1 hver
+<!--SR:!2026-11-10,4,270-->
 - Hvor er epifysen i mellemhåndsknoglerne?:: Proximalt i Os metacarpale I og distalt i os metacarpale II-V
 <!--SR:!2026-11-13,16,290-->

@@ -13,6 +13,7 @@
 ### Relationer
 #### Led
 - Hvilke knogler danner os pisiforme led med?:: Kun [[Os triquetrum]]
+<!--SR:!2026-11-09,3,250-->
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype

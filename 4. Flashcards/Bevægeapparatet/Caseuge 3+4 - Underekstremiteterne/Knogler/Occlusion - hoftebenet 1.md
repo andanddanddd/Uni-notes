@@ -8,7 +8,7 @@
 ![[Hoftebenet 1|600]]C?:: Spina iliaca ant. sup.
 <!--SR:!2026-11-20,15,290-->
 ![[Hoftebenet 1|600]]D?:: Spina iliaca ant. inf.
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]E?:: Eminentia iliopubica
 ![[Hoftebenet 1|600]]F?:: Pecten ossis pubis
 <!--SR:!2026-11-20,16,290-->
@@ -32,7 +32,7 @@
 <!--SR:!2026-11-21,16,290-->
 ![[Hoftebenet 1|600]]P?:: Spina ischiadica
 ![[Hoftebenet 1|600]]Q?:: Incisura inschiadica minor
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]R?:: Tuber ichiadicum
 
 

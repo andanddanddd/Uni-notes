@@ -20,7 +20,7 @@
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
 <!--SR:!2026-11-08,3,250-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major
@@ -35,6 +35,7 @@
 	- Hvor er de 2 condylus sammenhængende?:: Fortil
 	- Hvad hedder strukturen der adskiller de 2 condylus bagtil?:: Fossa intercondylaris
 	- Hvad hedder de 2 fremspring på condylus medialis/lateralis?:: Epicondylus medialis/lateralis
+<!--SR:!2026-11-10,4,270-->
 - Hvad kaldes ledfladen på den distale ekstremitet af femoris?:: [[Facies patellaris]]
 
 ### Relationer
@@ -45,6 +46,7 @@
 ### Knogletype
 - Hvilken knogletype er femoris?
 - Er femoris parret eller uparret?:: Parret
+<!--SR:!2026-11-10,4,270-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

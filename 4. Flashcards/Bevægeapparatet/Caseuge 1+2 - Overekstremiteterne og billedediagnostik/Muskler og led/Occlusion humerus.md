@@ -22,16 +22,17 @@
 ![[Humerus anatomi 1]]I?:: Condylus humeri
 <!--SR:!2026-11-19,14,290-->
 ![[Humerus anatomi 1]]J?::Sulcus intertubercularis
-<!--SR:!2026-11-06,11,270-->
+<!--SR:!2026-12-17,41,290-->
 ![[Humerus anatomi 1]]K?:: Caput humeri
+<!--SR:!2026-11-10,4,270-->
 ![[Humerus anatomi 1]]L?:: Tuberculum minus
-<!--SR:!2026-11-06,11,270-->
+<!--SR:!2026-12-18,42,290-->
 ![[Humerus anatomi 1]]M?:: Collum chiurgicum
 <!--SR:!2026-11-16,12,230-->
 ![[Humerus anatomi 1]]N?:: Crista tuberculi minoris
 <!--SR:!2026-11-07,12,270-->
 ![[Humerus anatomi 1]]O?:: Margo anterior
-<!--SR:!2026-11-06,11,270-->
+<!--SR:!2026-12-18,42,290-->
 ![[Humerus anatomi 1]]P?:: Margo lateralis
 <!--SR:!2026-11-09,11,270-->
 ![[Humerus anatomi 1]]Q?:: Fossa coronoidea

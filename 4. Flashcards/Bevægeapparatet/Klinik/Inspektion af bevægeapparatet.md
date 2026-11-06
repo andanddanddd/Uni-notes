@@ -3,5 +3,5 @@
 - Hvad er forskellen på rødme og rød misfarvning? (hvordan testes det):: Rødme forsvinder midlertidigt hvis man trykker på det
 - Hvad er "truet hud" risikoen for at et fraktur vil bryde igennem huden
 - Hvad kaldes tilstanden når knæledene bøjer udad?:: Varus
-<!--SR:!2026-11-05,0,230-->
+<!--SR:!2026-11-07,1,210-->
 - Hvad kaldes tilstanden når knæledene bøjer indad?:: Valgus

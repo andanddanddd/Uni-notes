@@ -11,7 +11,7 @@
 
 ### Ledets strukture
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale
-<!--SR:!2026-11-06,4,210-->
+<!--SR:!2026-11-18,12,230-->
 	- Hvor store er labrum glenoidale?:: den går rundt langs hele ledskålen
 <!--SR:!2026-11-20,16,290-->
 - Hvad hedder de 2 store stabiliserende ligamenter i art. humeri?

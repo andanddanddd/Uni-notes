@@ -2,7 +2,7 @@
 
 
 - Udover bevægelse hvilken funktion har muskerne i thenar og hypothenar?:: Danne trykpude på gribefladen (polstring)
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 - Hvad hedder strukturen sener går igennem fra underarmen til palma manus?:: [[Canalis carpi (carpaltunnelen)]]
 <!--SR:!2026-11-13,11,270-->
 - Hvad kaldes den store "seneplade" på håndfladen?:: [[Aponeurosis palmaris]]
@@ -37,6 +37,7 @@
 - Hvad hedder de af musklener i spatia interossa?:: [[Mm. interossei (palmaries-dorsalis)]]
 
 - Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]
+<!--SR:!2026-11-09,3,250-->
 
 ![[Ekstensoraponeurosen]]
 

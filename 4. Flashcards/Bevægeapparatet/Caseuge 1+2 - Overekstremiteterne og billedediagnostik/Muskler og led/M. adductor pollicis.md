@@ -12,7 +12,7 @@
 ### Udspring
 - Hvor udspringer caput transversum af m. adductor pollicis?:: Palmare del af os metacarpale III
 - Hvor udspringer caput obliquum af m. adductor pollicis?:: Ligamenter og knogler i [[sulcus carpi]]
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 
 ### Insertion
 - Hvor har m. adductor pollicis insertion?:: Tommelfingerens ulnare sesamknogle samt ulnare dele af basis af phalinx proximale I

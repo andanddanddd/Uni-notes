@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. pronator quadratus?:: Distalt på [[Ulna]]s forflade
-<!--SR:!2026-11-06,7,250-->
+<!--SR:!2026-12-02,26,270-->
 
 ### Insertion
 - Hvor har m. pronator quadratus insertion?:: Distalt på [[Radius]] forflade

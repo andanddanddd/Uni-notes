@@ -11,7 +11,7 @@
 #### Form og størrelse
 - Hvor stor er talus?:: Næststørste knogle i fodroden
 - Hvad hedder ledhovedet på talus?:: Caput tali
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-09,3,250-->
 
 ### Relationer
 #### Led

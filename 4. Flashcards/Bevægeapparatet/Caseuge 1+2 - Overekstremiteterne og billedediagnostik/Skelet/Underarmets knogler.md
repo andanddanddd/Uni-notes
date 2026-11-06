@@ -21,7 +21,7 @@
 ![[Underarmsknogler anatomi 1]]C?:: Membrana interossea
 <!--SR:!2026-11-16,14,290-->
 ![[Underarmsknogler anatomi 1]]D?:: Margo posterior
-<!--SR:!2026-11-06,11,270-->
+<!--SR:!2026-12-18,42,290-->
 
 
 ##### 2
@@ -34,7 +34,7 @@
 ![[Underarmsknogler anatomi 2|600]]D?:: Crista musculi supinatoris
 <!--SR:!2026-11-07,2,210-->
 ![[Underarmsknogler anatomi 2|600]]F?:: Tuberculum dorsale radii
-<!--SR:!2026-11-06,1,210-->
+<!--SR:!2026-11-07,1,190-->
 ![[Underarmsknogler anatomi 2|600]]G?:: Incisura thochlearis
 <!--SR:!2026-11-12,15,290-->
 ![[Underarmsknogler anatomi 2|600]]H?:: Caput radii
@@ -48,9 +48,9 @@
 ![[Underarmsknogler anatomi 2|600]]L?:: Margo posterior
 <!--SR:!2026-11-15,16,290-->
 ![[Underarmsknogler anatomi 2|600]]M?:: Margo anterior
-<!--SR:!2026-11-06,11,270-->
+<!--SR:!2026-12-19,43,290-->
 ![[Underarmsknogler anatomi 2|600]]N?:: Processus styloideus radii
-<!--SR:!2026-11-06,1,210-->
+<!--SR:!2026-11-09,3,230-->
 ![[Underarmsknogler anatomi 2|600]]O?:: Processus coronoideus
 <!--SR:!2026-11-13,8,250-->
 ![[Underarmsknogler anatomi 2|600]]P?:: Tuberositas ulnae

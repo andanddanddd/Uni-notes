@@ -14,7 +14,7 @@
 
 - Hvad er corpus ossis ilii?:: Delen der binder til de nedre dele af [[Os coxae]] (acetabulum)
 - Hvad kaldes strukturen der adskiller corpus ossis ilii og ala ossis ili?:: [[Linea arcuata]]
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 
 ### Relationer
 #### Led

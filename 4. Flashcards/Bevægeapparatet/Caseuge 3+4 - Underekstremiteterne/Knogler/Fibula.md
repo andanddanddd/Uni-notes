@@ -7,9 +7,11 @@
 - Hvor i skinnebenet er fibula?:: Lateralt
 #### Form og størrelse
 - Hvad hedder ledhovdet på den proxiamle ekstremitet af fibula?:: [[Caput fibulae]]
+<!--SR:!2026-11-10,4,270-->
 - Hvilken form har corpus fibulae?:: Trekantet (prisme)
+<!--SR:!2026-11-10,4,270-->
 - Hvad kaldes den distale ekstremitet af fibula?:: Mallelus lateralis
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-09,3,250-->
 
 ### Relationer
 #### Led

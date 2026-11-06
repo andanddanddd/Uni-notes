@@ -12,7 +12,7 @@
 - Hvor udspringer m. piriformis?:: Forfladen af [[Os sacrum]]
 
 ### Insertion
-- Hvor har m. piriformis insertion?:: Fascia lata og [[tractus iliotibialis]]
+- Hvor har m. piriformis insertion?:: Fascia lata og [[Tractus iliotibialis]]
 
 ### Funktion
 - Hvilke bevægelser udfører m. piriformis?:: Udadrotation

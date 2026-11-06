@@ -16,9 +16,10 @@
 - Bagsiden af [[Os sacrum]]
 - Bagsiden af [[Os coccygix]]
 - [[Ligamentum sacrotuberale]]
+<!--SR:!2026-11-07,1,230-->
 
 ### Insertion
-- Hvor har m. gluteus maximus insertion?:: Tuberositas glutea ossis femoris (se [[Femoris]]) samt [[tractus iliotibialis]]
+- Hvor har m. gluteus maximus insertion?:: Tuberositas glutea ossis femoris (se [[Femoris]]) samt [[Tractus iliotibialis]]
 
 ### Funktion
 - Hvilken primær bevægelse udfører m. gluteus maximus?:: Ekstension af hofteledet

@@ -5,13 +5,14 @@
 - Hvor er m. flexor pollicis longus overordnet?:: Foreste loge af radius
 <!--SR:!2026-11-19,14,290-->
 - Hvor dybt ligger m. flexor pollicis longus?:: Temmelig dybt (3. lag)
+<!--SR:!2026-11-10,4,270-->
 
 ### Form
 - Hvilken form har m. flexor pollicis longus?
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis longus?:: Forfladen af radius og membrana interossea
-<!--SR:!2026-11-06,4,210-->
+<!--SR:!2026-11-13,7,210-->
 
 ### Insertion
 - Hvor har m. flexor pollicis longus insertion?:: Phalanx distales på tommelfingeren (se [[Fingrene (skelet)]])

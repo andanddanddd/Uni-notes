@@ -12,12 +12,13 @@
 - Hvor udspringer m. tensor fasciae latea?:: Spina iliaca ant. sup. (se [[Os ilium]])
 
 ### Insertion
-- Hvor har m. tensor fasciae latea insertion?:: [[tractus iliotibialis]]
+- Hvor har m. tensor fasciae latea insertion?:: [[Tractus iliotibialis]]
 
 ### Funktion
 - Hvad er den primære funktion af m. tensor fasciae latea?:: Stabilisering af bækkenet
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-07,1,210-->
 - Hvilke bevægelser udfører m. tensor fasciae latea?:: Flektion, abduction og indadrotation af hofteledet
+<!--SR:!2026-11-09,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. tensor fasciae latea?

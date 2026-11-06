@@ -6,6 +6,7 @@
 <!--SR:!2026-11-14,9,250-->
 - Hvor er acetabulum overordnet?:: Lateralsiden af [[Os coxae]], der danner ledskål for [[Caput femoris]]
 - Hvad er acetabulum overordnet?:: Sammenvoksningen af de 3 dele af os coxae ([[Os ilium]], [[Os pubis]] og [[Os ischii]])
+<!--SR:!2026-11-10,4,270-->
 - Hvad hedder kanten af acetabulum?:: Limbus acetabuli
 <!--SR:!2026-11-08,3,250-->
 - Hvad hedder den nedre kant af acetabulum hvor limbus acetabuli mangler?:: Incisura acetabuli

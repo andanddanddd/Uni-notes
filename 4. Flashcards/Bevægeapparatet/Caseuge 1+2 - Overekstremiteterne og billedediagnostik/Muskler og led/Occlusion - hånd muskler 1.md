@@ -13,6 +13,8 @@
 <!--SR:!2026-11-20,15,290-->
 ![[Hånd muskler 1|800]]G?:: [[Mm. interossei (palmaries-dorsalis)]] (palmaris)
 ![[Hånd muskler 1|800]]H?:: [[M. adductor pollicis]] (caput transversum)
+<!--SR:!2026-11-10,4,270-->
 ![[Hånd muskler 1|800]]I?:: [[M. adductor pollicis]] (caput obliquum)
 ![[Hånd muskler 1|800]]J?:: [[M. opponens pollicis]]
+<!--SR:!2026-11-10,4,270-->
 ![[Hånd muskler 1|800]]K?:: [[Retinaculum flexorum]]

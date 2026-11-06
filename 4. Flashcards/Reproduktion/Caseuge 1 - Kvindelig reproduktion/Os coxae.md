@@ -29,11 +29,12 @@
 ### Knogletype
 - Hvilken knogletype er os coxae:: Flad uregelmæssig knogle
 - Er os coxae parret eller uparret?:: Parret
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Hvornår vokser de 3 dele af os coxae sammen?:: I slutningen af puberteten
 - Hvad hedder punktet hvor de 3 dele af os coxae vokser sammen?:: [[Acetabulum]]
+<!--SR:!2026-11-10,4,270-->
 ### Inspektion og palpation
 ### Klinik
 

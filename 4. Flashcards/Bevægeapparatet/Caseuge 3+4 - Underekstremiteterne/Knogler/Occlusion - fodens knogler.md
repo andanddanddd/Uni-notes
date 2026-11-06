@@ -7,6 +7,7 @@
 ![[Fodens knogler 1|600]]B?:: [[Os cuneiforme intermedium]]
 ![[Fodens knogler 1|600]]C?:: [[Os cuneiforme mediale]]
 ![[Fodens knogler 1|600]]D?:: Calcaneus
+<!--SR:!2026-11-09,3,250-->
 ![[Fodens knogler 1|600]]E?:: Talus
 <!--SR:!2026-11-13,11,270-->
 ![[Fodens knogler 1|600]]F?:: [[Os cuboideum]]
@@ -15,12 +16,15 @@
 <!--SR:!2026-11-16,11,270-->
 ![[Fodens knogler 1|600]]I?:: Phalanx media
 ![[Fodens knogler 1|600]]J?:: Phalanc distalis
+<!--SR:!2026-11-10,4,270-->
 ![[Fodens knogler 1|600]]K?:: Digitus minimus
 ![[Fodens knogler 1|600]]L?:: Digitus medius
+<!--SR:!2026-11-09,3,250-->
 ![[Fodens knogler 1|600]]M?:: Processus posterior tali
 ![[Fodens knogler 1|600]]N?:: Trochlea tali
 <!--SR:!2026-11-07,2,230-->
 ![[Fodens knogler 1|600]]O?:: Caput tali
+<!--SR:!2026-11-07,1,230-->
 ![[Fodens knogler 1|600]]P?:: Tuberositas ossis navicularis
 ![[Fodens knogler 1|600]]Q?:: Os naviculare
 ![[Fodens knogler 1|600]]R?:: Ossa metatarsi (I-V)

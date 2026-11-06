@@ -7,6 +7,7 @@
 
 ### Form
 - Hvilken form har m. gluteus medius?:: Bred
+<!--SR:!2026-11-09,3,250-->
 
 ### Udspring
 - Hvor udspringer m. gluteus medius?:: Stort felt mellem linea glutea minor/major

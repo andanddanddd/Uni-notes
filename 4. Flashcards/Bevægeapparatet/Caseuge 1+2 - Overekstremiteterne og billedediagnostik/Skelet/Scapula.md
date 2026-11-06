@@ -28,7 +28,7 @@
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
 <!--SR:!2026-11-09,11,270-->
 - Hvilken form har skulderbladets forside?:: Concav
-<!--SR:!2026-11-06,11,270-->
+<!--SR:!2026-12-19,43,290-->
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
 <!--SR:!2026-11-08,10,270-->
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion

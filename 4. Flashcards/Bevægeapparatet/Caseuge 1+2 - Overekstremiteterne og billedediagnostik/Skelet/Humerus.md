@@ -13,7 +13,7 @@
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
 <!--SR:!2026-11-13,16,290-->
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
-<!--SR:!2026-11-06,2,210-->
+<!--SR:!2026-11-12,6,230-->
 ##### Proximal extremitet
 - Hvad kaldes ledfladen på den proximale ekstremitet af humerus?:: [[Caput humeri]]
 <!--SR:!2026-11-16,14,290-->
@@ -26,7 +26,7 @@
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris humeri
 <!--SR:!2026-11-09,12,270-->
 - Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
-<!--SR:!2026-11-06,4,190-->
+<!--SR:!2026-11-18,12,210-->
 ##### Distal extremitet
 - Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
 <!--SR:!2026-11-13,14,290-->

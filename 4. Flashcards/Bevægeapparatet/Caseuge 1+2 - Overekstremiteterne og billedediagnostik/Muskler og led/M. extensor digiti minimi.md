@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor digiti minimi overordnet?:: Dorsalt på underarmen
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 - Hvor dybt ligger m. extensor digiti minimi?:: Superficielt
 <!--SR:!2026-11-08,3,250-->
 

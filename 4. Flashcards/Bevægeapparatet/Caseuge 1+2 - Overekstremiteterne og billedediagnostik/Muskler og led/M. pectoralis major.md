@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har m. pectoralis major?:: Stor flad vifteformet
-<!--SR:!2026-11-06,7,250-->
+<!--SR:!2026-12-01,25,270-->
 
 ### Udspring
 - Hvor udspringer m. pectoralis major?
@@ -18,7 +18,7 @@
 
 ### Insertion
 - Hvor har m. pectoralis major insersion?:: Crista tuberculi majoris (se [[Humerus]])
-<!--SR:!2026-11-06,2,210-->
+<!--SR:!2026-11-10,4,210-->
 
 ### Funktion
 - Hvilken funktion har m. pectoralis major?:: Inadrotation, adduction og fleksion af overarmen

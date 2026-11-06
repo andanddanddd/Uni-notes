@@ -11,6 +11,7 @@
 
 ### Form
 - Hvilken form har m. iliacus?:: Vifteformet
+<!--SR:!2026-11-10,4,270-->
 - Hvilken form har m. psoas major?:: Aflang
 
 ### Udspring
@@ -23,6 +24,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. iliopsoas?:: Flexion af hofteledet (vigtigste flexor)
+<!--SR:!2026-11-07,1,230-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. iliopsoas?

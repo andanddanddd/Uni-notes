@@ -3,6 +3,7 @@
 
 ### Ledtype
 - Hvilken ledtype er MCP?:: Indskrænket [[Kugleled]]
+<!--SR:!2026-11-10,4,270-->
 - Hvad menes med indskænket kugleled?:: At man kan bevæge fingrene i cirkler ved normalstilling men ikke hvis de i forvejen er flekteret
 
 ### Ledflader

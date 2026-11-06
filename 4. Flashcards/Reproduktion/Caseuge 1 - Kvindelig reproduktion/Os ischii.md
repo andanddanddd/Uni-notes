@@ -12,7 +12,9 @@
 - Ramus ossis ischii
 
 - Hvad er corpus ossis ischii?:: Delen der binder til de andre "knogler" af [[Os coxae]] (acetabulum)
+<!--SR:!2026-11-10,4,270-->
 - Hvad er ramus ossis oschii overordnet?:: Den tyndere del af af [[Os ischii]] der binder til [[Os pubis]]
+<!--SR:!2026-11-10,4,270-->
 
 ### Relationer
 #### Led
@@ -22,7 +24,7 @@
 ### Knogletype
 - Hvilken knogletype er os ischii
 - Er os ischii parret eller uparret?:: Parret
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

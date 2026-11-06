@@ -3,16 +3,19 @@
 
 ### Lokation
 - Hvor er m. gluteus minimus overordnet?:: Bagpå  hoften
+<!--SR:!2026-11-10,4,270-->
 - Hvor dybt ligger m. gluteus minimus?:: Dybt
 
 ### Form
 - Hvilken form har m. gluteus minimus?:: Flad, vifteformet
+<!--SR:!2026-11-10,4,270-->
 
 ### Udspring
 - Hvor udspringer m. gluteus minimus?:: Mellem linea glutea ant. og linea glutea inf.
 
 ### Insertion
 - Hvor har m. gluteus minimus insertion?:: Forkanten af trochanter major (se [[Femoris]])
+<!--SR:!2026-11-07,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. gluteus minimus?:: Inadrotation, og abduction

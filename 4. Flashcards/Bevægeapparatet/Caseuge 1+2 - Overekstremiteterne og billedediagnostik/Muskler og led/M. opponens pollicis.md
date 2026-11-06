@@ -10,10 +10,11 @@
 
 ### Udspring
 - Hvor udspringer m. opponens pollicis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 
 ### Insertion
 - Hvor har m. opponens pollicis insertion?:: Radiale kant af skaftet på os metacarpale I (hele kanten)
+<!--SR:!2026-11-07,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. opponens pollicis?:: Opposition af tommelfingeren (rotation + adduction agtigt)
