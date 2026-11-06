@@ -9,7 +9,7 @@
 - Hvilken form har m. tibialis ant.?
 
 ### Forløb
-- Hvilken kulisse løber m. tibilias ant. igennem?:: 1. kulisse
+- Hvilken kulisse løber m. tibilias ant. igennem?:: 1. kulisse (se [[Retinaculum musculorum extensorum inferius]])
 #### Udspring
 - Hvor udspringer m. tibialis ant.?
 ?

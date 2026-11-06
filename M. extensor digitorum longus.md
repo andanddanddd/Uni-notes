@@ -9,6 +9,7 @@
 - Hvilken form har m. extensor digitorum longus?
 
 ### Forløb
+- Hvilken kulisse går m. extensor digitorum longus igennem?:: 4. kulisse (se [[Retinaculum musculorum extensorum inferius]])
 #### Udspring
 - Hvor udspringer m. extensor digitorum longus?
 ?

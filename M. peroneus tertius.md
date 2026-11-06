@@ -9,6 +9,7 @@
 - Hvilken form har m. peroneus tertius?
 
 ### Forløb
+- Hvilken kulisse går m. peroneus igennem?:: 4. kulisse (se [[Retinaculum musculorum extensorum inferius]])
 #### Udspring
 - Hvor udspringer m. peroneus tertius?:: [[Fibula]] og membrana interossea
 #### Insertion

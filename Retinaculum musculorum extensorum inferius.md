@@ -5,4 +5,4 @@
 - Hvad indeholder 1. kulisse af retinaculum musculorum extensorum inferius?:: [[M. tibialis anterior]]
 - Hvad indeholder 2. kulisse af retinaculum musculorum extensorum inferius?:: [[M. extensor hallucis longus]]
 - Hvad indeholder 3. kulisse af retinaculum musculorum extensorum inferius?:: Kar og nerver
-- Hvad indeholder 4. kulisse af retinaculum musculorum extensorum inferius?::
+- Hvad indeholder 4. kulisse af retinaculum musculorum extensorum inferius?:: [[M. extensor digitorum longus]] of [[M. peroneus tertius]]
