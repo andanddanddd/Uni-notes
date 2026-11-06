@@ -24,7 +24,7 @@
 <!--SR:!2026-11-22,17,250-->
 
 - Hvilken muskel er i 2. lag af underarmens foreste loge?:: [[M. flexor digitorum superficialis]]
-<!--SR:!2026-11-06,7,250-->
+<!--SR:!2026-12-02,26,270-->
 - Hvilke muskler er i 3. lag af underarmens foreste loge?
 ?
 - [[M. flexor pollicis longus]]

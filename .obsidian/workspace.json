@@ -241,14 +241,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Acetabulum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
@@ -291,7 +290,6 @@
     "Billeder/Bevægeapparatet/Underekstremiteterne/hofte anatomi 1.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lændemuskel 1.png",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led",
     "Billeder/Bevægeapparatet/Overekstremiteterne/skulderled 2.png",
     "Untitled.canvas"
   ]

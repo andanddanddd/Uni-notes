@@ -19,7 +19,7 @@
 ### Knogletype
 - Hvilken knogletype er os cuboideum?
 - Er os cuboideum parret eller uparret?:: Parret
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

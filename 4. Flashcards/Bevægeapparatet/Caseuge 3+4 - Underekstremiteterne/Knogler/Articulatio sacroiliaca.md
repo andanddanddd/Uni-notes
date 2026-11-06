@@ -26,4 +26,4 @@
 
 ### Klinik
 - Hvor stabil/stram er art. sacroiliaca?:: Meget stram
-<!--SR:!2026-11-06,4,270-->
+<!--SR:!2026-11-22,16,290-->
