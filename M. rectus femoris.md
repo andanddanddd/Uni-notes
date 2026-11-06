@@ -13,10 +13,10 @@
 #### Udspring
 - Hvor udspringer m. rectus femoris?:: Spina iliaca ant. inf (se [[Os coxae]]) og en lille sene fra lige over [[Acetabulum]]
 #### Insertion
-- Hvor har m. rectus femoris insertion?
+- Hvor har m. rectus femoris insertion?:: Tuberositas tibiae (sammen med resten af [[M. quadriceps femoris]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. rectus femoris?
+- Hvilke bevægelser udfører m. rectus femoris?:: Ekstension af hofteledet og fleksion af lnæledet
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus femoris?

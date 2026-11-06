@@ -12,6 +12,9 @@
 - Hvad hedder de 4 dele af m. quadriceps femoris?
 ?
 - [[M. rectus femoris]]
+- [[M. vastus medialis]]
+- [[M. vastus lateralis]]
+- [[M. vastus intermedius]]
 #### Udspring
 - Hvor udspringer m. quadriceps femoris?
 #### Insertion
@@ -19,7 +22,7 @@
 - Hvad hedder senen der binder til tuberositas tibia?:: Ligamentum patellae
 
 ### Funktion
-- Hvilke bevægelser udfører m. quadriceps femoris?
+- Hvilke bevægelser udfører m. quadriceps femoris?:: Primært fleksion af knæledet (se de individulle dele)
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. quadriceps femoris?
