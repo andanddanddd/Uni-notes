@@ -15,7 +15,7 @@
 - Hvor har m. tibialis post. insertion?:: [[Os naviculare]] og os cuniformia
 
 ### Funktion
-- Hvilke bevægelser udfører m. tibialis post.?
+- Hvilke bevægelser udfører m. tibialis post.?:: Plantarflektion og inversion
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. tibialis post.?
