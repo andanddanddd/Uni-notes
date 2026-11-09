@@ -80,4 +80,4 @@
 - Hvordan behandles malaria overodnet?:: Dræber [[Hypnozoiter]] og giver blod
 <!--SR:!2026-10-27,14,290-->
 - Hvordan bekæmper kroppen?:: Milten kan finde rigide erytorcytter (dem inficered med malaria) og dræbe dem
-<!--SR:!2026-10-29,16,290-->
+<!--SR:!2027-01-12,64,310-->

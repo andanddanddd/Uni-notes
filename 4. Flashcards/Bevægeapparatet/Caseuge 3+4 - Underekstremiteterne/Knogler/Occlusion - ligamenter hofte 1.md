@@ -4,7 +4,7 @@
 
 
 ![[Ligamenter hofte 1|600]]A?:: Foramen ischiadicum majus
-<!--SR:!2026-11-09,4,270-->
+<!--SR:!2026-11-24,15,290-->
 ![[Ligamenter hofte 1|600]]B?:: [[Ligamentum sacrospinale]]
 <!--SR:!2026-11-21,16,290-->
 ![[Ligamenter hofte 1|600]]C?:: Spina ischiadica

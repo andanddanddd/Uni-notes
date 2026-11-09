@@ -26,7 +26,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker vækst af tibia?:: Den proxmiale
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-18,9,250-->
 ### Inspektion og palpation
 ### Klinik
 

@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator quadratus?:: Pronation
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-18,39,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

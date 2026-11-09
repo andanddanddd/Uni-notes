@@ -11,7 +11,7 @@
 - Hvilken form har corpus fibulae?:: Trekantet (prisme)
 <!--SR:!2026-11-10,4,270-->
 - Hvad kaldes den distale ekstremitet af fibula?:: Mallelus lateralis
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-19,10,270-->
 
 ### Relationer
 #### Led

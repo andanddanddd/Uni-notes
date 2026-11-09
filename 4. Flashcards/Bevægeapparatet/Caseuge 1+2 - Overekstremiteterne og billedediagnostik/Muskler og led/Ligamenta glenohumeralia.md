@@ -2,5 +2,5 @@
 
 - Hvor er lig. glenohumeralia overordnet?:: Skulderen
 - Hvor hæfter lig glenohumeralia?:: Det foreste af labrum glenoidale (de [[Articulatio humeri]]) og collum chirurgicum (se [[Humerus]])
-<!--SR:!2026-11-07,2,230-->
+<!--SR:!2026-11-10,1,210-->
 - Hvilke bevægelser begrænses af lig. glenohumeralia?:: Udadrotation, ekstension og abduction

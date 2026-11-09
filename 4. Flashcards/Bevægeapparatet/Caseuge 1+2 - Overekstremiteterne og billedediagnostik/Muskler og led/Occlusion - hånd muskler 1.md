@@ -8,7 +8,7 @@
 <!--SR:!2026-11-19,15,290-->
 ![[Hånd muskler 1|800]]C?:: [[M. flexor pollicis longus]] (sene)
 ![[Hånd muskler 1|800]]D?:: [[M. opponens digiti minimi]]
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-18,9,250-->
 ![[Hånd muskler 1|800]]E?:: [[M. flexor pollicis brevis]]
 ![[Hånd muskler 1|800]]F?:: [[M. abductor pollicis brevis]]
 <!--SR:!2026-11-20,15,290-->

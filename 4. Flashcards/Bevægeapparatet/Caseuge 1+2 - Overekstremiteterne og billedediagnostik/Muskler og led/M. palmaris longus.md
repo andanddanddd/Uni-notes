@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. palmaris longus?:: Caput commune flexorum (epicondylus medialis)
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-18,39,290-->
 
 ### Insertion
 - Hvor har m. palmaris longus insertion?:: Aponeurosis palmaris
@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. palmaris longus?:: Flektion af håndledet
-<!--SR:!2026-11-08,10,270-->
+<!--SR:!2026-12-17,38,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

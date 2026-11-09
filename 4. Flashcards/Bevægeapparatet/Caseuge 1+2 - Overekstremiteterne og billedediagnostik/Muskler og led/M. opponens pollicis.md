@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. opponens pollicis insertion?:: Radiale kant af skaftet på os metacarpale I (hele kanten)
-<!--SR:!2026-11-07,1,230-->
+<!--SR:!2026-11-12,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. opponens pollicis?:: Opposition af tommelfingeren (rotation + adduction agtigt)

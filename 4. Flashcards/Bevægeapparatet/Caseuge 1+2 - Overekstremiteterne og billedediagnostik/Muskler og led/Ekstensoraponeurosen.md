@@ -6,4 +6,4 @@
 <!--SR:!2026-11-19,15,290-->
 - Hvordan er strukturen overordnet af ekstensoraponeurosen?:: En snip fra basis af phalanx proximalis -> basis af phalanx media samt 2 snipper fra basis af phalanx proximale -> basis af phalanx distale
 - Hvorfor er det smart at ekstensoraponeurosens snipper der hæfter [[Phalanx distalis]] er 2-delt?:: De kan glide ned på siderne af fingeren når den bøjes i det første led
-<!--SR:!2026-11-09,4,270-->
+<!--SR:!2026-11-23,14,290-->
