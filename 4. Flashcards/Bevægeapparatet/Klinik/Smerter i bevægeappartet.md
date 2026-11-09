@@ -5,6 +5,6 @@
 - Hvad kaldes smerter der udgår fra [[Periost]]?:: Frakture
 
 - Hvordan beskriver patienter typisk smerter der kommer fra knogler?:: Borende
-<!--SR:!2026-11-09,4,270-->
+<!--SR:!2026-11-24,15,290-->
 - Hvordan beskriver patienter typisk smerter fra frakture?:: Skarpe og jagende
 - Hvordan beskriver patienter typisk smerter fra muskler?:: Dybe og diffuse

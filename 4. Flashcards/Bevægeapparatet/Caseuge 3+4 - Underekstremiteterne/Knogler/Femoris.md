@@ -19,14 +19,14 @@
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
-<!--SR:!2026-11-07,1,210-->
+<!--SR:!2026-11-09,0,190-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
-<!--SR:!2026-11-08,3,250-->
+<!--SR:!2026-11-19,10,270-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
 <!--SR:!2026-11-22,16,290-->
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-16,7,250-->
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major
 - Hvad hedder kammen på bagsidet af skaftete af femoris?:: Linea aspera
 	- Hvad er funktionen af linea aspera?:: Forstækning af knoglen og muskeltilhæftning

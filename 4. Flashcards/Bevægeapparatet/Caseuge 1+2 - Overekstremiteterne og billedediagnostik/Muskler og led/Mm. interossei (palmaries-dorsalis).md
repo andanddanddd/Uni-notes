@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor mange mm. interossei palmaries har vi?:: 3
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-21,12,270-->
 - Hvor mange mm. interossei dorsalis har vi?:: 4
 ### Lokation
 - Hvor er mm. interossei palmaries/dorsalis overordnet?
@@ -24,7 +24,7 @@
 - Hvilke bevægelser udfører mm. interossei palmaries?:: Samle de ulnare fingre (samt precisionsgreb)
 <!--SR:!2026-11-22,16,290-->
 - Hvilke bevægelser udfører mm. interossei dorsalis?:: sprede de ulnare fingre (samt precisionsgreb)
-<!--SR:!2026-11-08,3,250-->
+<!--SR:!2026-11-21,12,270-->
 - Hvilken gruppe af mm. interossei er kraftigst?:: mm. interossei dorsalis
 
 ### Innerversion og reflekser

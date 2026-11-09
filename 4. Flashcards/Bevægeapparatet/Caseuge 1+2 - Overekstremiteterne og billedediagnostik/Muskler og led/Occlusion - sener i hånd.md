@@ -21,6 +21,6 @@
 ![[Sener i hånd|650]]K?:: [[M. extensor indicis]]
 <!--SR:!2026-11-15,11,270-->
 ![[Sener i hånd|650]]L?:: [[M. interosseus dorsalis]] I
-<!--SR:!2026-11-08,2,210-->
+<!--SR:!2026-11-10,1,190-->
 ![[Sener i hånd|650]]M?:: [[Connexus intertendinei]]
 

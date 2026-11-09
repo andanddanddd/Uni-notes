@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. pectoralis minor?:: Flad trekant
-<!--SR:!2026-11-08,10,270-->
+<!--SR:!2026-12-16,37,290-->
 
 ### Udspring
 - Hvor har m. pectoralis minor udspring?:: 3 takker på overkanten af costalis 3-5
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilken funktion har m. pectoralis minor?:: Trække skulderbladet fremad og nedad ved inadrotation
-<!--SR:!2026-11-07,9,250-->
+<!--SR:!2026-12-01,22,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

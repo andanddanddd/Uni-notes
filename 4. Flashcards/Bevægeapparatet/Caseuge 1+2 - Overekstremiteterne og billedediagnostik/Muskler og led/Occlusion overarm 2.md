@@ -8,7 +8,7 @@
 ![[Overarm muskler 2]]B?:: [[M. deltoideus]]
 <!--SR:!2026-11-18,14,290-->
 ![[Overarm muskler 2]]C?:: [[M. infraspinatus]]
-<!--SR:!2026-11-09,7,250-->
+<!--SR:!2026-12-04,25,270-->
 ![[Overarm muskler 2]]D?:: [[M. teres minor]]
 <!--SR:!2026-11-14,12,270-->
 ![[Overarm muskler 2]]E?:: [[M. teres major]]

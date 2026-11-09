@@ -9,7 +9,7 @@
 - Hvor i fodroden er os cuboideum?:: Distal række
 <!--SR:!2026-11-10,4,270-->
 - Hvilken underbensknogle tilhører os cuboideum?:: [[Fibula]]
-<!--SR:!2026-11-07,3,250-->
+<!--SR:!2026-11-20,11,270-->
 #### Form og størrelse
 
 ### Relationer

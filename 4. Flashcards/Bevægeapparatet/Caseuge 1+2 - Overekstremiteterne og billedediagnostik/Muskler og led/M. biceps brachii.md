@@ -18,11 +18,11 @@
 - Hvor udspringer caput breve?:: Processus corocoideus (se [[Scapula]])
 <!--SR:!2026-11-11,9,250-->
 - Hvor udspringer caput longum henne?:: Tuberculum supraglenoidale (se [[Scapula]])
-<!--SR:!2026-11-07,2,190-->
+<!--SR:!2026-11-10,1,170-->
 
 ### Insertion
 - Hvad hedder de 2 sener som biceps bruger til insertion?:: Bicepssenen og bicepsaponeurosen
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-18,39,290-->
 - Hvor har bicepssene insertion?:: Tuberositas radii (se [[Radius]])
 <!--SR:!2026-11-12,7,250-->
 - Hvor har bicepsaponeurosen insertion?:: Fascia antebrachii

@@ -22,15 +22,15 @@
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
 <!--SR:!2026-11-21,17,250-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
-<!--SR:!2026-11-07,12,270-->
+<!--SR:!2026-12-25,46,290-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-17,38,290-->
 	- Hvad kaldes ledfladen på angulus laterali?:: [[Cavitas glenoidalis]]
-<!--SR:!2026-11-09,11,270-->
+<!--SR:!2026-12-21,42,290-->
 - Hvilken form har skulderbladets forside?:: Concav
 <!--SR:!2026-12-19,43,290-->
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
-<!--SR:!2026-11-08,10,270-->
+<!--SR:!2026-12-07,28,270-->
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
 <!--SR:!2026-11-12,15,290-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
@@ -63,11 +63,11 @@
 ![[scapula anatomi 4.png]]
 ### Occlusion
 ![[Scapula Anatomi 1|700]]A?:: Acromion
-<!--SR:!2026-11-09,12,270-->
+<!--SR:!2026-12-25,46,290-->
 ![[Scapula Anatomi 1|700]]B?:: Facies articularis clavicularis
 <!--SR:!2026-11-13,14,290-->
 ![[Scapula Anatomi 1|700]]C?:: Processus coracoideus
-<!--SR:!2026-11-08,10,270-->
+<!--SR:!2026-12-17,38,290-->
 ![[Scapula Anatomi 1|700]]D?:: Margo superior
 <!--SR:!2026-11-15,16,290-->
 ![[Scapula Anatomi 1|700]]E?:: Angulus superior
@@ -90,6 +90,6 @@
 ![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-26,24,270-->
 ![[Scapula Anatomi 1|700]]O?:: Suprascapulae
-<!--SR:!2026-11-08,3,210-->
+<!--SR:!2026-11-18,9,230-->
 ![[Scapula Anatomi 1|700]]P?:: Infraspinata
-<!--SR:!2026-11-09,7,270-->
+<!--SR:!2026-12-06,27,290-->

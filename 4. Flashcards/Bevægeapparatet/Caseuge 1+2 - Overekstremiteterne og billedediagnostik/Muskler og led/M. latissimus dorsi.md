@@ -16,11 +16,11 @@
 ?
 - Primært facia thoracolumbalis
 - Lidt fra hoftebenet
-<!--SR:!2026-11-09,11,270-->
+<!--SR:!2026-12-22,43,290-->
 
 ### Insertion
 - Hvor har m. latissimus insersion?:: Crista tuberculi minoris humeri (se [[Humerus]])
-<!--SR:!2026-11-07,2,230-->
+<!--SR:!2026-11-16,7,250-->
 
 ### Funktion
 - Hvilke bevægelser kan m. latissimus dorsi udføre på armen?:: Adduction, extension og indadrotation

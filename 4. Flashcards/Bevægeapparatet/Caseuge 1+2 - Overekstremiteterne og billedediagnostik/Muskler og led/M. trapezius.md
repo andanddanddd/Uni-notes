@@ -21,7 +21,7 @@
 <!--SR:!2026-11-07,3,230-->
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-17,38,290-->
 - Hvad er linea nuchalis sup. overordnet?:: En linje (fremspring) på [[Os. occipitale]]
 <!--SR:!2026-11-14,15,290-->
 
@@ -31,9 +31,9 @@
 <!--SR:!2026-11-16,12,270-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
-<!--SR:!2026-11-07,2,230-->
+<!--SR:!2026-11-10,1,210-->
 - Hvor har fibrene C6-T1 insersion henne? (M. trapezius):: Laterale dele af clavicula samt acromion (se [[Scapula]])
-<!--SR:!2026-11-08,9,250-->
+<!--SR:!2026-12-02,23,250-->
 - Hvor har fibrene fra T8-T10 insersion henne? (M. trapezius):: Spina scapulae (se [[Scapula]])
 <!--SR:!2026-11-09,5,230-->
 

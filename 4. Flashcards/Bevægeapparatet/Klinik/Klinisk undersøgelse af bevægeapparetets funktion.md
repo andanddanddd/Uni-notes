@@ -5,5 +5,5 @@
 <!--SR:!2026-11-10,4,270-->
 	- Hvornår undersøges passiv bevælse?:: Når pt ikke har 100% aktiv bevægelse
 	- Hvornår ses større passiv end aktiv bevægelse?:: Når der er endsat muskelfunktion
-<!--SR:!2026-11-09,4,270-->
+<!--SR:!2026-11-24,15,290-->
 

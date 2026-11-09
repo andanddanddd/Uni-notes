@@ -11,9 +11,9 @@
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
 <!--SR:!2026-11-16,14,290-->
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
-<!--SR:!2026-11-08,6,230-->
+<!--SR:!2026-11-28,19,250-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
-<!--SR:!2026-11-07,1,230-->
+<!--SR:!2026-11-11,2,230-->
 
 ### Muskler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?

@@ -8,7 +8,7 @@
 ![[Humerus anatomi 1]]B?:: Tuberculum majus
 <!--SR:!2026-11-13,16,290-->
 ![[Humerus anatomi 1]]C?::Tuberositas deltoidea
-<!--SR:!2026-11-07,2,190-->
+<!--SR:!2026-11-13,4,190-->
 ![[Humerus anatomi 1]]D?:: Epicondylus lateralis
 <!--SR:!2026-11-20,15,290-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
@@ -16,7 +16,7 @@
 ![[Humerus anatomi 1]]F?:: Margo lateralis
 <!--SR:!2026-11-17,15,290-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-17,38,290-->
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
 <!--SR:!2026-11-11,7,210-->
 ![[Humerus anatomi 1]]I?:: Condylus humeri
@@ -30,11 +30,11 @@
 ![[Humerus anatomi 1]]M?:: Collum chiurgicum
 <!--SR:!2026-11-16,12,230-->
 ![[Humerus anatomi 1]]N?:: Crista tuberculi minoris
-<!--SR:!2026-11-07,12,270-->
+<!--SR:!2026-12-25,46,290-->
 ![[Humerus anatomi 1]]O?:: Margo anterior
 <!--SR:!2026-12-18,42,290-->
 ![[Humerus anatomi 1]]P?:: Margo lateralis
-<!--SR:!2026-11-09,11,270-->
+<!--SR:!2026-12-22,43,290-->
 ![[Humerus anatomi 1]]Q?:: Fossa coronoidea
 <!--SR:!2026-11-10,11,270-->
 ![[Humerus anatomi 1]]R?:: Fossa olecrani
@@ -46,7 +46,7 @@
 ![[Humerus anatomi 1]]U?:: Sulcus nervi ulnaris
 <!--SR:!2026-11-22,18,250-->
 ![[Humerus anatomi 1]]V?:: Trochlea humeri
-<!--SR:!2026-11-07,12,270-->
+<!--SR:!2026-12-25,46,290-->
 ![[Humerus anatomi 1]]W?:: Humerus anteriort
 <!--SR:!2026-11-11,15,290-->
 ![[Humerus anatomi 1]]Z?:: Extremitas proximalis

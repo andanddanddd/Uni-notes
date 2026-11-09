@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder radius på dansk?:: Spolebenet
-<!--SR:!2026-11-09,11,270-->
+<!--SR:!2026-12-22,43,290-->
 
 #### Placering og orientering
 #### Form og størrelse
@@ -14,7 +14,7 @@
 - Hvad hedder indsnørringen under caput radii?:: Collum radii
 <!--SR:!2026-11-11,15,290-->
 - Hvad kaldes knuden distalt for collum radii?:: tuberositas radii
-<!--SR:!2026-11-07,9,250-->
+<!--SR:!2026-12-03,24,250-->
 - Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii
 
 ### Relationer

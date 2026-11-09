@@ -23,9 +23,9 @@
 - Hvad hedder de 2 knuder på den proximale extremitet?:: Tuberculum majus/minus
 <!--SR:!2026-11-20,16,290-->
 	- Hvad hedder furen mellem de 2 knuder på den proximale ekstremitet?:: Sulcus intertubercularis
-<!--SR:!2026-11-07,12,270-->
+<!--SR:!2026-12-26,47,290-->
 	- Hvad hedder fortsættelsen fra de 2 knuder på proximal ekstremitet af humerus ned af skaftet?:: Crista tuberculi majoris/minoris humeri
-<!--SR:!2026-11-09,12,270-->
+<!--SR:!2026-12-26,47,290-->
 - Hvad hedder overgangszonen mellem proximal ekstremtet og skaft på humerus og hvorfor?:: Collum chirurgicum
 <!--SR:!2026-11-18,12,210-->
 ##### Distal extremitet
@@ -38,7 +38,7 @@
 - Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea
 <!--SR:!2026-11-21,17,250-->
 - Hvad hedder fordybningen på bagsiden af den distale ekstremitet af humerus?:: Fossa olecrani
-<!--SR:!2026-11-08,10,270-->
+<!--SR:!2026-12-16,37,290-->
 
 ### Relationer
 #### Led
@@ -49,7 +49,7 @@
 - Hvilken knogletype er humerus?:: Rørknogle
 <!--SR:!2026-11-10,14,290-->
 - Er humerus parret eller uparret?:: Parret
-<!--SR:!2026-11-09,12,270-->
+<!--SR:!2026-12-26,47,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

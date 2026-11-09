@@ -5,7 +5,7 @@
 - Hvor er m. extensor digiti minimi overordnet?:: Dorsalt på underarmen
 <!--SR:!2026-11-22,16,290-->
 - Hvor dybt ligger m. extensor digiti minimi?:: Superficielt
-<!--SR:!2026-11-08,3,250-->
+<!--SR:!2026-11-21,12,270-->
 
 ### Form
 - Hvilken form har m. extensor digiti minimi?
@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. extensor digiti minimi insertion?:: [[Ekstensoraponeurosen]] på lillfingeren
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-17,38,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digiti minimi?:: Ekstension af lillefingeren

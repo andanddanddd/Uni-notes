@@ -16,9 +16,9 @@
 
 ### Funktion
 - Hvad er den primære funktion af m. tensor fasciae latea?:: Stabilisering af bækkenet
-<!--SR:!2026-11-07,1,210-->
+<!--SR:!2026-11-11,2,210-->
 - Hvilke bevægelser udfører m. tensor fasciae latea?:: Flektion, abduction og indadrotation af hofteledet
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-17,8,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. tensor fasciae latea?

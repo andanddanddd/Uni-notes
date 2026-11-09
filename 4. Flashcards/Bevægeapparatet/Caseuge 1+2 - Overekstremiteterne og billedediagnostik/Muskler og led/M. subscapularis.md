@@ -8,19 +8,19 @@
 
 ### Form
 - Hvilken form har m. subscapularis?:: Tyk, multipennant, vifteformet
-<!--SR:!2026-11-08,9,250-->
+<!--SR:!2026-12-03,24,250-->
 
 ### Udspring
 - Hvor udspringer m. subscapularis?:: [[Scapula]]s forflade
-<!--SR:!2026-11-07,2,250-->
+<!--SR:!2026-11-10,1,230-->
 
 ### Insertion
 - Hvor har m. subscapularis insertion?:: Tuberculum minoris humeri (se [[Humerus]])
-<!--SR:!2026-11-07,2,210-->
+<!--SR:!2026-11-13,4,210-->
 
 ### Funktion
 - Hvilken funktion har m. subscapularis?:: Indadrotation af overarmen
-<!--SR:!2026-11-09,3,230-->
+<!--SR:!2026-11-18,9,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

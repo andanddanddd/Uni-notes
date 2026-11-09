@@ -7,7 +7,7 @@
 <!--SR:!2026-11-10,4,270-->
 ![[Hofte anatomi 2||650]]C?:: [[Symphysis pubica]]
 ![[Hofte anatomi 2||650]]D?:: Foramen suprapiriforme
-<!--SR:!2026-11-07,1,230-->
+<!--SR:!2026-11-11,2,230-->
 ![[Hofte anatomi 2||650]]E?:: [[M. piriformis]]
 ![[Hofte anatomi 2||650]]F?:: Foramen inrapirifprme
 ![[Hofte anatomi 2||650]]G?:: [[Ligamentum sacrospinale]] 

@@ -25,7 +25,7 @@
 ![[Hoftebenet 2|700]]M?:: Spina iliaca ant. inf.
 <!--SR:!2026-11-10,4,270-->
 ![[Hoftebenet 2|700]]N?:: Facies lunata
-<!--SR:!2026-11-07,2,210-->
+<!--SR:!2026-11-15,6,230-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum
 <!--SR:!2026-11-10,8,250-->

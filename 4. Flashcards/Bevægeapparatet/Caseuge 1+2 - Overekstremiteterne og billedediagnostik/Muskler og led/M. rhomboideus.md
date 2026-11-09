@@ -9,14 +9,14 @@
 
 ### Udspring
 - Hvor har m. rhomboideus udspring?:: Processus spinosus af C6-T4 samt ligamentet derimellem ([[Ligamentum supraspinalia]])
-<!--SR:!2026-11-09,7,250-->
+<!--SR:!2026-11-26,17,250-->
 
 ### Insertion
 - Hvor har m. rhomboideus insersion?:: Medialkanten af [[Scapula]]
 
 ### Funktion
 - Hvilken funktion har m. rhomboideus?:: Løfte, indadrotere og adducere skulderen (scapula)
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-11-14,5,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
