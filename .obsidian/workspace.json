@@ -14,72 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Retinaculum musculorum extensorum superius.md",
+                "file": "Hofteledet.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Retinaculum musculorum extensorum superius"
-            }
-          },
-          {
-            "id": "96e6ceea677ddbfc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underbenets muskler 4"
-            }
-          },
-          {
-            "id": "24d0b2bb377eab80",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underbenets muskler 3"
-            }
-          },
-          {
-            "id": "4dab54965c476dfa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenets muskler 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underbenets muskler 2"
-            }
-          },
-          {
-            "id": "9c7b9754ff62c331",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Sener i foden 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sener i foden 1"
-            }
-          },
-          {
-            "id": "e253d4b3a26111a6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underbenests muskler 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Underbenests muskler 1"
+              "title": "Hofteledet"
             }
           }
         ]
@@ -303,16 +253,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "4b4e7ba26deb09c8",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Retinaculum musculorum extensorum superius.md",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 4.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hoften.md",
+    "Hofteledet.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 4.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Retinaculum musculorum extensorum superius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm gemelli.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. obturatorius internus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus minimus.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. sartorius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Låret.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. quadriceps femoris.md",
@@ -329,9 +282,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. plantaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. tibialis posterior.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor digitorum longus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. peroneus tertius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. tibialis anterior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. triceps surae.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 3.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 2.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/sener i foden 1.png",

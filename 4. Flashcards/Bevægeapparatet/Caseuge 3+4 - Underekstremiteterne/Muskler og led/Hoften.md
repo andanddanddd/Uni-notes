@@ -2,4 +2,6 @@
 
 ![[Hoftemusklerne]]
 
+![[Hofteledet]]
+
 ![[Bevægelse af hofteledet]]
