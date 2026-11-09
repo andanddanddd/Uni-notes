@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Underekstremitetens anatomi"
+              "title": "M. gluteus medius"
             }
           },
           {
@@ -147,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Trochanter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -303,10 +314,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "c9db2e68d7cec1d3",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. sartorius.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm gemelli.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. obturatorius internus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus minimus.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. sartorius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Låret.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. quadriceps femoris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. vastus intermedius.md",
@@ -326,11 +342,6 @@
     "M. tibialis anterior.md",
     "M. triceps surae.md",
     "Tendo calcaneus.md",
-    "M. soleus.md",
-    "M. gastrocnemius.md",
-    "M. peroneus brevis.md",
-    "Peroneerretinaklerne (øvre og nedre).md",
-    "M. peroneus longus.md",
     "underbenets muskler 4.png",
     "underbenets muskler 3.png",
     "underbenets muskler 2.png",
