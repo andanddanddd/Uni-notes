@@ -17,7 +17,7 @@
 - [ ] Hvis man har en dysfunktionel M. gluteus medius vil man falde til den ene side hvis man står på et bed (hen mod det løftede ben) man rotere overkroppen for at kompensere
 - [ ] Man kan se en muskel bevæge sig opad på lægen hvis akillesenen ødelægges
 
-![[Underekstremiteternes skelet]]
+[[Underekstremiteternes skelet]]
 
 ![[Hoften]]
 
