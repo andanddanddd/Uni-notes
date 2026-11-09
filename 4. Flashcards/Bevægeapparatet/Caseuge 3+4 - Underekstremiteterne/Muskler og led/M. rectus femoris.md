@@ -16,7 +16,7 @@
 - Hvor har m. rectus femoris insertion?:: Tuberositas tibiae (sammen med resten af [[M. quadriceps femoris]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. rectus femoris?:: Ekstension af hofteledet og fleksion af lnæledet
+- Hvilke bevægelser udfører m. rectus femoris?:: Ekstension af hofteledet og knæledet
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus femoris?
