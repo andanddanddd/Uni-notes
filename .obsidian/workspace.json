@@ -14,22 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Retinaculum musculorum extensorum superius.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "M. gluteus medius"
+              "title": "Retinaculum musculorum extensorum superius"
             }
           },
           {
@@ -181,8 +171,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -314,11 +303,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c9db2e68d7cec1d3",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Retinaculum musculorum extensorum superius.md",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 4.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Femoris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm gemelli.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus medius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. obturatorius internus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. gluteus minimus.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
@@ -333,20 +324,18 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hoftemusklerne.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. tensor fasciae latea.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Underbenet.md",
-    "M. flexor hallucis longus.md",
-    "M. popliteus.md",
-    "M. plantaris.md",
-    "M. tibialis posterior.md",
-    "M. flexor digitorum longus.md",
-    "M. peroneus tertius.md",
-    "M. tibialis anterior.md",
-    "M. triceps surae.md",
-    "Tendo calcaneus.md",
-    "underbenets muskler 4.png",
-    "underbenets muskler 3.png",
-    "underbenets muskler 2.png",
-    "sener i foden 1.png",
-    "underbenests muskler 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor hallucis longus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. popliteus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. plantaris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. tibialis posterior.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor digitorum longus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. peroneus tertius.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. tibialis anterior.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. triceps surae.md",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 3.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 2.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/sener i foden 1.png",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenests muskler 1.png",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
