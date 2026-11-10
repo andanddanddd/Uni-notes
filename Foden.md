@@ -9,3 +9,6 @@
 [[Occlusion - underfoden 1]]
 [[Occlusion - foden opperfra TJEK]]
 [[Occlusion - fodens ligamenter 1]]
+[[Occlusion - fodens ligamenter 2]]
+[[Occlusion - fodens ligamenter 3]]
+[[Occlusion - fodens ligamenter 4]]
