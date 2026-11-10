@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. flexor hallucis brevis.md",
+                "file": "M. flexor digitorum brevis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "M. flexor hallucis brevis"
+              "title": "M. flexor digitorum brevis"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aponeuro",
+                "query": "fodens kno",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,8 +257,14 @@
   "active": "4b4e7ba26deb09c8",
   "lastOpenFiles": [
     "Planta pedis.md",
+    "M. flexor digitorum brevis.md",
+    "M. flexor digiti minimi brevis.md",
+    "M. abductor digiti minimi (fod).md",
+    "M. adductor hallucis.md",
     "M. flexor hallucis brevis.md",
     "M. abductor hallucis.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Fodens knogler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - fodens knogler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Foden.md",
     "Aponeurosis plantaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Aponeurosis palmaris.md",
@@ -280,14 +287,8 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - foden opperfra TJEK.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens muskler 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Foden oppefra.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/foden oppefra.png",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underfoden 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underfoden 1.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens muskler 4.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens muskler 4.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens muskler 3.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens muskler 3.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 3.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 2.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 1.png",

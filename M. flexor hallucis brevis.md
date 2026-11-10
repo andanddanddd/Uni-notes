@@ -10,12 +10,12 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. flexor hallucis brevis?
+- Hvor udspringer m. flexor hallucis brevis?:: Ossa cuneiformia 
 #### Insertion
 - Hvor har m. flexor hallucis brevis insertion?:: Basis af phalanx proximale I
 
 ### Funktion
-- Hvilke bevægelser udfører m. flexor hallucis brevis?
+- Hvilke bevægelser udfører m. flexor hallucis brevis?:: Flektion af storetåen
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor hallucis brevis?
