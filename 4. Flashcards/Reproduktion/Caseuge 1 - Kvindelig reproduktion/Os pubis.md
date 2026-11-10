@@ -4,7 +4,7 @@
 
 #### Placering og orientering
 - Hvor er os pubis overordnet?:: Over [[Foramen obturatum]]
-<!--SR:!2026-11-09,4,270-->
+<!--SR:!2026-11-25,15,290-->
 - Hvad kaldes os pubis på dansk?:: Skambenet
 <!--SR:!2026-11-09,4,270-->
 #### Form og størrelse

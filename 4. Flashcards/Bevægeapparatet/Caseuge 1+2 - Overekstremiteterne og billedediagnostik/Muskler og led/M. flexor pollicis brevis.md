@@ -18,6 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis brevis?:: Flektion af tommelfingren
+<!--SR:!2026-11-14,4,270-->
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor pollicis brevis?:: [[N. medianus]]
 <!--SR:!2026-11-15,10,270-->

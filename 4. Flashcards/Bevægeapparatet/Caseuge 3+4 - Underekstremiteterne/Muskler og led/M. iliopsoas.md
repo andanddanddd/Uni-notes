@@ -16,6 +16,7 @@
 
 ### Udspring
 - Hvor udspringer m. iliacus?:: Fossa iliaca (se [[Os ilium]])
+<!--SR:!2026-11-11,1,230-->
 - Hvor udspringer m. psoas major ventrale del?:: Siderne af ambitius eminentes (se [[Ryghvirvler]]) og siderne af disci intervertabrales (se [[Rygsøjlens båndskiver]]) (fra T-12 til L5)
 <!--SR:!2026-11-18,9,250-->
 - Hvor udspringer m. psoas major dorsale del?:: Forfladen af processus transversus

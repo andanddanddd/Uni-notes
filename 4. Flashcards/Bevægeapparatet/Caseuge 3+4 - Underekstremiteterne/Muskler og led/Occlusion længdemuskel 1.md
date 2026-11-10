@@ -7,4 +7,4 @@
 ![[Længdemuskel 1|500]]B?:: M. psoas minor
 ![[Længdemuskel 1|500]]C?:: [[M. quadratus lumborium]]
 ![[Længdemuskel 1|500]]D?:: M. iliacus
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-25,15,290-->

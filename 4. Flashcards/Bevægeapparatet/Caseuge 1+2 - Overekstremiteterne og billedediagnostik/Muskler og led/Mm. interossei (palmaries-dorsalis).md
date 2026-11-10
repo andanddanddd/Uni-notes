@@ -3,6 +3,7 @@
 - Hvor mange mm. interossei palmaries har vi?:: 3
 <!--SR:!2026-11-21,12,270-->
 - Hvor mange mm. interossei dorsalis har vi?:: 4
+<!--SR:!2026-11-14,4,270-->
 ### Lokation
 - Hvor er mm. interossei palmaries/dorsalis overordnet?
 - Hvor dybt ligger mm. interossei palmaries/dorsalis?

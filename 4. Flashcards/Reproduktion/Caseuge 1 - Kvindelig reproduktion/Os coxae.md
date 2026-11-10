@@ -10,6 +10,7 @@
 - [[Os pubis]]
 - [[Os ischii]]
 - [[Os ilium]]
+<!--SR:!2026-11-14,4,270-->
 
 - Hvad kaldes den foreste vinkel under symfysen?:: [[Angulus subpubicus]]
 - Hvad kaldes hullet i den nedre del af os coxae?:: [[Foramen obturatum]]
@@ -23,6 +24,7 @@
 <!--SR:!2026-11-20,16,290--> 
 
 - Hvad kaldes ledet mellem os sacrum og os coxae?:: [[Articulatio sacroiliaca]]
+<!--SR:!2026-11-13,3,250-->
 - Hvilken type led er lettet mellem os sacrum og os coxae?:: Synovialled [[Glideled]]
 #### Muskler
 #### Kar- og nerveforsyning

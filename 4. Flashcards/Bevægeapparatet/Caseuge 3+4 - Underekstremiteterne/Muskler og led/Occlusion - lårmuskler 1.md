@@ -15,7 +15,7 @@
 ![[Lårmuskler 1|600]]J?:: [[M. pectineus]]
 <!--SR:!2026-11-11,2,190-->
 ![[Lårmuskler 1|600]]K?:: [[M. adductor longus]]
-<!--SR:!2026-11-10,1,190-->
+<!--SR:!2026-11-11,1,170-->
 ![[Lårmuskler 1|600]]L?:: [[M. gracilis]]
 <!--SR:!2026-11-07,1,230-->
 ![[Lårmuskler 1|600]]M?:: [[M. sartorius]]

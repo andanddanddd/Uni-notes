@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad hedder calcaneus på dansk?:: Hælbenet
+<!--SR:!2026-11-11,1,230-->
 - Hvilken underbensknogle tilhører calcaneus?:: [[Fibula]]
 <!--SR:!2026-11-22,16,290-->
 
@@ -21,7 +22,7 @@
 ### Knogletype
 - Hvilken knogletype er calcaneus?
 - Er calcaneus parret eller uparret?:: Parret
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-26,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

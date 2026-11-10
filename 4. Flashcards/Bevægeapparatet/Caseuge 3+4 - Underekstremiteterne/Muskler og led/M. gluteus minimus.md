@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har m. gluteus minimus?:: Flad, vifteformet
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-26,16,290-->
 
 ### Udspring
 - Hvor udspringer m. gluteus minimus?:: Mellem linea glutea ant. og linea glutea inf.

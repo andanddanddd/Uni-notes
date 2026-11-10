@@ -17,6 +17,7 @@
 
 ### Funktion
 - Hvordan kan bevægelserne af m. sartorius huskes?:: Kig under en sko mens man står på et ben
+<!--SR:!2026-11-14,4,270-->
 - Hvilke bevægelser udfører m. sartorius?
 ?
 - Flektion af hofte

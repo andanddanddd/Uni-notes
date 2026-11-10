@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. gastrocnemius overordnet?:: Undebenets bagertse loge
+<!--SR:!2026-11-14,4,270-->
 - Hvor dybt ligger m. gastrocnemius?:: Superficielt
 
 ### Form
