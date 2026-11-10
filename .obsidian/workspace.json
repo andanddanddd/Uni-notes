@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæledet.md",
+                "file": "Occlusion knæled 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knæledet"
+              "title": "Occlusion knæled 2"
+            }
+          },
+          {
+            "id": "943b5c0750495662",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæled 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Knæled 1"
+            }
+          },
+          {
+            "id": "aeb29879212c4a08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæets muskler.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Knæets muskler"
             }
           },
           {
@@ -289,8 +313,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "knæled 2.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæledet.md",
+    "Occlusion knæled 2.md",
+    "Occlusion knæled 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæled 1.md",
+    "knæled 1.png",
+    "Occlusion muskler omkring knæet 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæets muskler.md",
+    "knæets muskler 1.png",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hoften.md",
     "Occlusion hofte ligamenter 1.md",
@@ -313,19 +346,11 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Pars femorotibialis medialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Fossa poplitea.md",
     "Knæets ligamenter.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæledet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. coronaria.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæets menisker.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. collaterlae tibiale.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. collaterale fibulare.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamenta cruciata.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. meniscofemorale posterius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. transversum genus.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 4.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 3.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 2.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/sener i foden 1.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/underbenests muskler 1.png",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
@@ -335,7 +360,6 @@
     "Externe dokumenter/Fordøjelse II/~$Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 5.png",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led",
     "Untitled.canvas"
   ]

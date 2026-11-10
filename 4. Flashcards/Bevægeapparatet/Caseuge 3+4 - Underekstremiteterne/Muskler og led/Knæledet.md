@@ -42,4 +42,6 @@
 
 ![[Bevægelse af knæledet]]
 
-[[Occlusion ]]
+[[Occlusion muskler omkring knæet 1]]
+[[Occlusion knæled 1]]
+[[Occlusion knæled 2]]
