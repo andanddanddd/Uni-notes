@@ -2,6 +2,7 @@
 
 ### Generalt
 - Hvad er os coxae overordnet?:: De store hofteknogler
+<!--SR:!2026-11-14,4,270-->
 #### Placering og orientering
 
 #### Form og størrelse

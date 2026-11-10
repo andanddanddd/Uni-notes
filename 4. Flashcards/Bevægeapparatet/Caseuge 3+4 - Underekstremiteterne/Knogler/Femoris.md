@@ -4,6 +4,7 @@
 ### Generalt
 - Hvad hedder femoris på dansk?:: Lårbenet
 - Hvad kan længden af femoris bruges som mål for?:: Gestationsalder samt højde på antropologiske fund
+<!--SR:!2026-11-14,4,270-->
 
 #### Placering og orientering
 - Hvor er femoris overordnet?:: Låret

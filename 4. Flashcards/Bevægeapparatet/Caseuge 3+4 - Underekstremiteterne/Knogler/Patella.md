@@ -17,6 +17,7 @@
 ### Knogletype
 - Hvilken knogletype er patella?
 - Er patella parret eller uparret?:: Parret
+<!--SR:!2026-11-14,4,270-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

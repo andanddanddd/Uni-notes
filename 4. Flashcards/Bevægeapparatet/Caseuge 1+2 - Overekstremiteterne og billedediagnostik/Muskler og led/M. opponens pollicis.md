@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. opponens pollicis overordnet?:: Thenar (tommelfingerbaldens muskelgruppe)
+<!--SR:!2026-11-14,4,270-->
 - Hvor dybt ligger m. opponens pollicis?:: Profund for de andre muskler i thenar
 
 ### Form

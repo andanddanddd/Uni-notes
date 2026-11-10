@@ -11,6 +11,7 @@
 ![[Underbensknogler 1|600]]D?:: Malleolus lateralis
 <!--SR:!2026-11-26,16,290-->
 ![[Underbensknogler 1|600]]E?:: Condylus medialis
+<!--SR:!2026-11-14,4,270-->
 ![[Underbensknogler 1|600]]F?:: Tuberositas tibiae
 ![[Underbensknogler 1|600]]G?:: Linea musculi solei
 ![[Underbensknogler 1|600]]H?:: Facies medialis
