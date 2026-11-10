@@ -2,22 +2,29 @@
 
 
 - Hvad hedder knæet på latin?:: Genu
-- Hvad hedder knæel
+- Hvad hedder knæledet på latin?:: Articulatio genus
 ### Ledtype
-- Hvilken ledtype er Ld?
+- Hvilken ledtype er knæledet?:: Sammensat [[Hængselsled]]
 
 ### Ledflader
+- Hvilke 3 knogler indgår i knæledet?:: [[Femoris]], [[Tibia]] og [[Patella]]
 
 ### Ledets strukture
 - Hvad hedder bindevævsregionen på bagsiden af knæledet?:: [[Fossa poplitea]]
 
 ### Funktion
-- Hvilke bevægelser kan Ld lave?
+- Hvilke bevægelser kan knæledet lave?:: Flektion-ekstension og rotation dog kun ved flektion
+- Hvad hedder de 3 led knæledet dækker over?
+?
+- [[Pars femoropatellaris]]
+- [[Pars femorotibialis medialis]]
+- [[Pars femorotibialis lateralis]]
 
 ### Klinik
 - Hvorfor er mænd ofte mere "hjulbenet" (genu varum) en kvinder?:: Deres hofte er smaldere
 - Hvem er typisk mest "hjulbenet" (genu varum) og hvorfor?:: Nyfødte grundet deres position i moderen
 - Hvilken næringsmangel kan fære til "hjulben" (genu varum)?:: Mangel på [[D-vitamin]]
+- Hvorfor skal knæet være så kraftigt?:: Det lægger mellem de 2 længste knogler i kroppen (så store krafter fysik yesyes)
 
 
 
