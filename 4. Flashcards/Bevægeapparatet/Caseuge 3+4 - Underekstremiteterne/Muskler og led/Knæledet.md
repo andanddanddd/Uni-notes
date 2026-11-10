@@ -45,3 +45,6 @@
 [[Occlusion muskler omkring knæet 1]]
 [[Occlusion knæled 1]]
 [[Occlusion knæled 2]]
+[[Occlusion knæled 3]]
+[[Occlusion knæled 4]]
+[[Occlusion muskler omkring knæet 2]]
