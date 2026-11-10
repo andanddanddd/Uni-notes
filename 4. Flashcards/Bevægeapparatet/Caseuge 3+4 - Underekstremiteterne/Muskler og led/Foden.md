@@ -1,6 +1,8 @@
 #flashcards/5/Bevægeapparatet 
 
 
+- Hvad hedder musklen på fodryggen?:: [[M. extensor digitorum brevis]]
+- Hvad hedder fodsålen på latin?:: [[Planta pedis]]
 
 [[Occlusion - fodens muskler 1]]
 [[Occlusion - fodens muskler 2]]

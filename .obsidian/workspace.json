@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underfoden 1.md",
+                "file": "Aponeurosis plantaris.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Occlusion - underfoden 1"
+              "title": "Aponeurosis plantaris"
             }
           }
         ]
@@ -243,13 +253,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "4b4e7ba26deb09c8",
   "lastOpenFiles": [
-    "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 4.png",
+    "Planta pedis.md",
+    "Aponeurosis plantaris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Foden.md",
+    "M. extensor digitorum brevis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. extensor digitorum longus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens ligamenter 4.md",
+    "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 4.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underfoden 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 4.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens ligamenter 4.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Foden.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens ligamenter 3.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 3.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens ligamenter 3.png",
@@ -264,7 +279,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Foden oppefra.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/foden oppefra.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underfoden 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underfoden 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underfoden 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens muskler 4.md",
@@ -277,9 +291,6 @@
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 2.png",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens muskler 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 1.png",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
-    "1. Fag/Bevægeapparatet.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
