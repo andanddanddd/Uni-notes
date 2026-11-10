@@ -5,7 +5,7 @@
 
 ### Ledflader
 Hvilke knogler danner ledflader i art. intercarpales?:: Alle [[Håndroden]]s knogler
-<!--SR:!2026-11-09,4,270-->
+<!--SR:!2026-11-26,16,290-->
 
 ### Ledets strukture
 

@@ -34,7 +34,7 @@
 - Type af ossifikation
 - Hvornår vokser de 3 dele af os coxae sammen?:: I slutningen af puberteten
 - Hvad hedder punktet hvor de 3 dele af os coxae vokser sammen?:: [[Acetabulum]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-26,16,290-->
 ### Inspektion og palpation
 ### Klinik
 

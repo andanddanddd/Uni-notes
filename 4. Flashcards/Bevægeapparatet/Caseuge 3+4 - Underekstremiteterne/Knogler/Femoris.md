@@ -19,7 +19,7 @@
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
-<!--SR:!2026-11-09,0,190-->
+<!--SR:!2026-11-12,2,190-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
 <!--SR:!2026-11-19,10,270-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica

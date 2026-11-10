@@ -31,7 +31,7 @@
 ### Knogletype
 - Hvilken knogletype er os pubis
 - Er os pubis parret eller uparret?:: Parret
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-26,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

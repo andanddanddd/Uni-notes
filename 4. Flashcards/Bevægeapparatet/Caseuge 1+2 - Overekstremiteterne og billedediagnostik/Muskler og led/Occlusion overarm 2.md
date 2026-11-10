@@ -16,7 +16,7 @@
 ![[Overarm muskler 2]]F?:: [[M. triceps brachii]]
 <!--SR:!2026-11-18,16,290-->
 ![[Overarm muskler 2]]G?:: [[M. anconeus]]
-<!--SR:!2026-11-10,11,270-->
+<!--SR:!2026-12-23,43,290-->
 ![[Overarm muskler 2]]H (m. triceps brachii)?:: Caput mediale
 <!--SR:!2026-11-16,11,270-->
 ![[Overarm muskler 2]]I (m. triceps mediale)?:: caput longum

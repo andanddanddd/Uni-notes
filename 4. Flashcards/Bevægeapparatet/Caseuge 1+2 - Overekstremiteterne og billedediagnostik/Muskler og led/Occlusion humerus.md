@@ -24,7 +24,7 @@
 ![[Humerus anatomi 1]]J?::Sulcus intertubercularis
 <!--SR:!2026-12-17,41,290-->
 ![[Humerus anatomi 1]]K?:: Caput humeri
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-25,15,290-->
 ![[Humerus anatomi 1]]L?:: Tuberculum minus
 <!--SR:!2026-12-18,42,290-->
 ![[Humerus anatomi 1]]M?:: Collum chiurgicum

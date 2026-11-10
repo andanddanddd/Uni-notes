@@ -50,7 +50,7 @@
 ![[Hånd(knogler) anatomi 2]]C?:: Basis
 <!--SR:!2026-11-12,16,290-->
 ![[Hånd(knogler) anatomi 2]]D?:: Hamulus ossis hamati
-<!--SR:!2026-11-10,8,250-->
+<!--SR:!2026-12-08,28,270-->
 ![[Hånd(knogler) anatomi 2]]E?:: Tuberositas phalangis distais
 <!--SR:!2026-11-29,25,270-->
 ![[Hånd(knogler) anatomi 2]]F?:: Ossa sesamoidea

@@ -3,7 +3,7 @@
 ![[sener i hånd.png]]
 
 ![[Sener i hånd|650]]A?:: [[M. extensor carpi ulnaris]]
-<!--SR:!2026-11-07,1,210-->
+<!--SR:!2026-11-13,3,230-->
 ![[Sener i hånd|650]]B?:: [[M. extensor digitorum]]
 <!--SR:!2026-11-17,15,290-->
 ![[Sener i hånd|650]]C?:: [[M. extensor digiti minimi]]
@@ -21,6 +21,6 @@
 ![[Sener i hånd|650]]K?:: [[M. extensor indicis]]
 <!--SR:!2026-11-15,11,270-->
 ![[Sener i hånd|650]]L?:: [[M. interosseus dorsalis]] I
-<!--SR:!2026-11-10,1,190-->
+<!--SR:!2026-11-13,3,210-->
 ![[Sener i hånd|650]]M?:: [[Connexus intertendinei]]
 

@@ -4,4 +4,4 @@
 - Hvor er retinaculum flexorum overordnet?:: Mellem nogle håndrodsknogler
 <!--SR:!2026-11-19,14,290-->
 - Hvilke knogler binder retinaculum flexorum til?:: [[Os pisiforme]]+[[Os hamatum]] i den ene side og [[Os scaphodeum]]+[[Os trapezium]]i den anden side (phst)
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-24,14,290-->

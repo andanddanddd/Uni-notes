@@ -18,7 +18,7 @@
 - Protuberantia occipitalis externa
 - [[Ligamentum nuchae]]
 - Processus spinosus C7-T10
-<!--SR:!2026-11-07,3,230-->
+<!--SR:!2026-11-21,11,250-->
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
 <!--SR:!2026-12-17,38,290-->
@@ -31,7 +31,7 @@
 <!--SR:!2026-11-16,12,270-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
-<!--SR:!2026-11-10,1,210-->
+<!--SR:!2026-11-11,1,190-->
 - Hvor har fibrene C6-T1 insersion henne? (M. trapezius):: Laterale dele af clavicula samt acromion (se [[Scapula]])
 <!--SR:!2026-12-02,23,250-->
 - Hvor har fibrene fra T8-T10 insersion henne? (M. trapezius):: Spina scapulae (se [[Scapula]])

@@ -2,7 +2,7 @@
 
 - Hvad er aktiv bevægelse?:: De bevægelser pt selv kan udføre
 - Hvad er passiv bevægelse?:: De bevægelser et led kan bevæge sig når der er ekstern kraft
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-24,14,290-->
 	- Hvornår undersøges passiv bevælse?:: Når pt ikke har 100% aktiv bevægelse
 	- Hvornår ses større passiv end aktiv bevægelse?:: Når der er endsat muskelfunktion
 <!--SR:!2026-11-24,15,290-->

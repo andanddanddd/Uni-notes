@@ -7,9 +7,9 @@
 ![[Underbensknogler 1|600]]B?:: Caput fibulae
 <!--SR:!2026-11-07,1,230-->
 ![[Underbensknogler 1|600]]C?:: Collum fibulae
-<!--SR:!2026-11-09,3,250-->
+<!--SR:!2026-11-22,12,270-->
 ![[Underbensknogler 1|600]]D?:: Malleolus lateralis
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-26,16,290-->
 ![[Underbensknogler 1|600]]E?:: Condylus medialis
 ![[Underbensknogler 1|600]]F?:: Tuberositas tibiae
 ![[Underbensknogler 1|600]]G?:: Linea musculi solei
