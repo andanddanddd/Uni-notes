@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. opponens pollicis?:: Kort og kraftig
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-25,15,290-->
 
 ### Udspring
 - Hvor udspringer m. opponens pollicis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])

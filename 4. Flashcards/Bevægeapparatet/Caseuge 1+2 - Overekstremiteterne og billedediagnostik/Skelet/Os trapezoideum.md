@@ -9,7 +9,7 @@
 
 ### Relationer
 - Hvilken finger er bundet til os trapezoideum?:: Pegefinger
-<!--SR:!2026-11-10,14,290-->
+<!--SR:!2027-01-05,56,310-->
 #### Led
 - Hvilke knogler danner os trapezoideum led med
 #### Muskler

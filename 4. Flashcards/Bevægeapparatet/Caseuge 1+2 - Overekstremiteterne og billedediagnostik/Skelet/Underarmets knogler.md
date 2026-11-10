@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder underarmet 2 knogler?:: [[Radius]] og [[Ulna]]
-<!--SR:!2026-11-08,12,270-->
+<!--SR:!2026-12-27,47,290-->
 - Hvilken underarmsknogle er længst?:: Ulna
 <!--SR:!2026-11-12,15,290-->
 - Hvad hedder membranen der forbidner de 2 underarmsknogler?:: Membrana interossea

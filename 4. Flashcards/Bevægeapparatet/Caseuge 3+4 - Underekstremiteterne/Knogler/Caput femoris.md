@@ -5,4 +5,4 @@
 - Hvilken form gar caput femoris?:: 2/3 af en kugle
 <!--SR:!2026-11-21,12,270-->
 - Hvad hedder den lille ru del af caput femoris?:: Fovea capitis
-<!--SR:!2026-11-10,1,210-->
+<!--SR:!2026-11-13,3,230-->

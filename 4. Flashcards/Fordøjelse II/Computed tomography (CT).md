@@ -7,7 +7,7 @@
 	- Hvad har den laveste HU enhed?:: Luft
 <!--SR:!2026-11-22,16,290-->
 	- Hvad har den højeste HU enhed?:: Kortikal knogle
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-24,14,290-->
 
 - Hvad betyder hyperdens?:: Lys
 <!--SR:!2026-11-21,16,290-->

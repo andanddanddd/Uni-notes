@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. brachialis overordnet?:: foran på overarmen
 - Hvor dybt ligger m. brachialis:: Det er den dybeste af de foreste oevrarmsmuskler
-<!--SR:!2026-11-08,10,270-->
+<!--SR:!2026-12-19,39,290-->
 
 ### Form
 - Hvilken form har m. brachialis?
