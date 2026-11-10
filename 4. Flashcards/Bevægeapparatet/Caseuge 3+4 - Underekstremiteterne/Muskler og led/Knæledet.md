@@ -11,10 +11,14 @@
 
 ### Ledets strukture
 - Hvad hedder bindevævsregionen på bagsiden af knæledet?:: [[Fossa poplitea]]
+- Hvad er de 2 typer af stabiliserende ligamenter i knæet?:: Kolaterale ligamenter og intraarticulære ligamenter
+- Hvad kaldes de intraarticulære ligamenter i knæet?:: Korsbånd
+- Hvad hedder korsbåndene på latin?:: [[Ligamenta cruciata]]
+- Hvad hedder ligamenterne på siderne af knæet?:: [[Lig. collaterale fibulare]] og [[Lig. collaterlae tibiale]]
+- Hvad hedder ligamentet der forstærker knæets kapsel?:: [[Lig. coronaria]]
 
 ![[Knæets menisker]]
 
-![[Knæets ligamenter]]
 ### Funktion
 - Hvilke bevægelser kan knæledet lave?:: Flektion-ekstension og rotation dog kun ved flektion
 - Hvad hedder de 3 led knæledet dækker over?
