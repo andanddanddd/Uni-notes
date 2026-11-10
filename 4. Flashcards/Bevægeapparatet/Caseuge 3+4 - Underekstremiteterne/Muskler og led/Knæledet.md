@@ -20,6 +20,9 @@
 - [[Pars femorotibialis medialis]]
 - [[Pars femorotibialis lateralis]]
 
+- Hvorfor kan knæledet kun rotere når det er flekteret?:: Der er ligamenterne og andre bløddele løsere
+- Hvordan foregår rotation af knæledet overordnet?:: Tibia rotere om den mediale kondyl mens dvs at den laterale kondyl kan bevæge sig lidt frem og tilbage ved ekstension
+
 ### Klinik
 - Hvorfor er mænd ofte mere "hjulbenet" (genu varum) en kvinder?:: Deres hofte er smaldere
 - Hvem er typisk mest "hjulbenet" (genu varum) og hvorfor?:: Nyfødte grundet deres position i moderen
