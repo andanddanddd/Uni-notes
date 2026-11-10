@@ -12,6 +12,9 @@
 ### Ledets strukture
 - Hvad hedder bindevævsregionen på bagsiden af knæledet?:: [[Fossa poplitea]]
 
+![[Knæets menisker]]
+
+![[Knæets ligamenter]]
 ### Funktion
 - Hvilke bevægelser kan knæledet lave?:: Flektion-ekstension og rotation dog kun ved flektion
 - Hvad hedder de 3 led knæledet dækker over?
