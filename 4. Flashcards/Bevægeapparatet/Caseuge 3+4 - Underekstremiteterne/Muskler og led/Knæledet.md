@@ -16,6 +16,7 @@
 - Hvad hedder korsbåndene på latin?:: [[Ligamenta cruciata]]
 - Hvad hedder ligamenterne på siderne af knæet?:: [[Lig. collaterale fibulare]] og [[Lig. collaterlae tibiale]]
 - Hvad hedder ligamentet der forstærker knæets kapsel?:: [[Lig. coronaria]]
+- Hvad hedder knæledets største bursa og hvor er dne?:: Recessus suprapatellaris, den ligger under quadricepssenen
 
 ![[Knæets menisker]]
 
@@ -35,6 +36,7 @@
 - Hvem er typisk mest "hjulbenet" (genu varum) og hvorfor?:: Nyfødte grundet deres position i moderen
 - Hvilken næringsmangel kan fære til "hjulben" (genu varum)?:: Mangel på [[D-vitamin]]
 - Hvorfor skal knæet være så kraftigt?:: Det lægger mellem de 2 længste knogler i kroppen (så store krafter fysik yesyes)
+- Hvad er knæledets normale temperatur?:: 32 grader C
 
 
 

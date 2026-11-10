@@ -28,3 +28,5 @@
 ### Klinik
 - Hvor stor er den ossøse stabilitet af hofteledet og hvorfor?:: Stor grundet dyb ledskål
 
+[[Occlusion hofteledets 1]]
+[[Occlusion hofteledet 2]]

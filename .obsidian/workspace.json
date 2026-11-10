@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lig. coronaria.md",
+                "file": "Occlusion hofteledet 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,10 +29,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lig. coronaria"
+              "title": "Occlusion hofteledet 2"
+            }
+          },
+          {
+            "id": "d7c71a1a5b05598f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Drawing 2026-11-10 11.18.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-10 11.18.34.excalidraw"
+            }
+          },
+          {
+            "id": "ff7c71ec57a7f98c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/hofteledet 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "hofteledet 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -253,34 +278,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4b4e7ba26deb09c8",
+  "active": "d7c71a1a5b05598f",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæledet.md",
-    "Knæets menisker.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
-    "Lig. coronaria.md",
-    "Lig. collaterlae tibiale.md",
-    "Lig. collaterale fibulare.md",
+    "Occlusion hofteledet 2.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Drawing 2026-11-10 11.18.34.excalidraw.md",
+    "hofteledet 2.png",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/hofteledet 1.md",
+    "Pasted image 20261110111813.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hofteledet.md",
+    "Occlusion hofteledets 1.md",
+    "hofteledet 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Pars femorotibialis medialis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Fossa poplitea.md",
     "Knæets ligamenter.md",
-    "Ligamenta cruciata.md",
-    "Lig. meniscofemorale posterius.md",
-    "Lig. transversum genus.md",
-    "Pars femorotibialis lateralis.md",
-    "Pars femorotibialis medialis.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæledet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. coronaria.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Knæets menisker.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. collaterlae tibiale.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. collaterale fibulare.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamenta cruciata.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. meniscofemorale posterius.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. transversum genus.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Pars femorotibialis lateralis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Tibia.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Patella.md",
-    "Pars femoropatellaris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Pars femoropatellaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Facies patellaris.md",
-    "Fossa poplitea.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hofteledet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamentum transversus acetabuli.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamentum ischiofemorale.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamentum pubofemorale.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamentum iliofemorale.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Ligamentum capitis femoris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Acetabulum.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hoften.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 4.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 3.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underbenets muskler 2.png",
@@ -297,9 +325,6 @@
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 5.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 4.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 3.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 2.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/lårmuskler 1.png",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led",
     "Untitled.canvas"
   ]
