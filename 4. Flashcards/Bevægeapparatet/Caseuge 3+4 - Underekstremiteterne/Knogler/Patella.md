@@ -24,3 +24,4 @@
 - Ossifikationstidpunkt
 ### Inspektion og palpation
 ### Klinik
+- Hvilken funktion har patella?:: Øge kraftarmslængden af [[M. quadriceps femoris]]
