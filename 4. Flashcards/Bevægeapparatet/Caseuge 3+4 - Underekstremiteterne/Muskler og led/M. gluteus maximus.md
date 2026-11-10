@@ -15,7 +15,7 @@
 - Crista iliaca (se [[Os ilium]])
 - Bagsiden af [[Os sacrum]]
 - Bagsiden af [[Os coccygix]]
-- [[Ligamentum sacrotuberale]]
+- [[Lig. sacrotuberale]]
 <!--SR:!2026-11-11,2,230-->
 
 ### Insertion

@@ -12,13 +12,13 @@
 ### Ledets strukture
 - Hvad hedder de 2 ligamenter som forstærker art sacroiliaca?
 ?
-- [[Ligamentum sacroiliaca ventralia]]
+- [[Lig. sacroiliaca ventralia]]
 - [[Ligamentum sacroiliacum interosseum]]
 
 - Hvad hedder de 2 accesoriske ligamenter til art. sacroiliaca?
 ?
-- [[Ligamentum sacrotuberale]]
-- [[Ligamentum sacrospinale]]
+- [[Lig. sacrotuberale]]
+- [[Lig. sacrospinale]]
 <!--SR:!2026-11-19,14,290-->
 
 ### Funktion

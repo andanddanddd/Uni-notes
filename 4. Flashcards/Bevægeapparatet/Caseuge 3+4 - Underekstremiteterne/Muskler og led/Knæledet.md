@@ -41,3 +41,5 @@
 
 
 ![[Bevægelse af knæledet]]
+
+[[Occlusion ]]
