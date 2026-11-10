@@ -3,5 +3,5 @@
 ![[fodens muskler 2.png|409]]
 
 ![[Fodens muskler 2]]A?:: [[M. abductor digiti minimi (fod)]]
-B?:: [[M. flexor digitorum brevis]]
-C?:: [[M. abductor hallucis]]
+![[Fodens muskler 2]]B?:: [[M. flexor digitorum brevis]]
+![[Fodens muskler 2]]C?:: [[M. abductor hallucis]]
