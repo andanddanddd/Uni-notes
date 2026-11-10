@@ -7,3 +7,5 @@
 [[Occlusion - fodens muskler 3]]
 [[Occlusion - fodens muskler 4]]
 [[Occlusion - underfoden 1]]
+[[Occlusion - foden opperfra TJEK]]
+[[Occlusion - fodens ligamenter 1]]

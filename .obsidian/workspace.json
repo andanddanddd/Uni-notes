@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - underfoden 1.md",
+                "file": "Occlusion - fodens ligamenter 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Occlusion - underfoden 1"
+              "title": "Occlusion - fodens ligamenter 1"
+            }
+          },
+          {
+            "id": "5b05e53182aedea2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Fodens ligamenter 1"
+            }
+          },
+          {
+            "id": "13003da10b95eafb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Foden oppefra.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Foden oppefra"
             }
           },
           {
@@ -315,10 +339,18 @@
   },
   "active": "4b4e7ba26deb09c8",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underfoden 1.md",
-    "Occlusion - underfoden 1.md",
-    "underfoden 1.png",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 1.md",
+    "Occlusion - fodens ligamenter 1.md",
+    "fodens ligamenter 1.png",
     "Foden.md",
+    "Occlusion - foden opperfra TJEK.md",
+    "Occlusion - fodens muskler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Occlusion - sener i hånd.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Foden oppefra.md",
+    "foden oppefra.png",
+    "Occlusion - underfoden 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Underfoden 1.md",
+    "underfoden 1.png",
     "Occlusion - fodens muskler 4.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens muskler 4.md",
     "fodens muskler 4.png",
@@ -328,7 +360,6 @@
     "Occlusion - fodens muskler 2.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens muskler 2.md",
     "fodens muskler 2.png",
-    "Occlusion - fodens muskler 1.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens muskler 1.md",
     "fodens muskler 1.png",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
@@ -343,14 +374,7 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion knæled 4.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæled 4.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion knæled 3.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæled 3.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/knæled 3.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion knæled 2.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæled 2.md",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/knæled 2.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion knæled 1.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Knæled 1.md",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/knæled 1.png",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
