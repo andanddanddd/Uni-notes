@@ -24,4 +24,4 @@
 ?
 - [[M. flexor digitorum brevis]]
 - [[M. quadratus plantae]]
-- [[Mm lumbricales (fod)]]
+- [[Mm. lumbricales (fod)]]

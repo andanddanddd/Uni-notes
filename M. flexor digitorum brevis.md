@@ -10,12 +10,13 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. flexor digitorum brevis?:: 
+- Hvor udspringer m. flexor digitorum brevis?:: Tuber calcanei og [[Aponeurosis plantaris]]
 #### Insertion
-- Hvor har m. flexor digitorum brevis insertion?
+- Hvor har m. flexor digitorum brevis insertion?:: Phalanx media af de 4 laterale tær (2 snipper så senen fra [[M. flexor digitorum longus]] kan komme igennem)
+- 
 
 ### Funktion
-- Hvilke bevægelser udfører m. flexor digitorum brevis?
+- Hvilke bevægelser udfører m. flexor digitorum brevis?:: Flektion af tærene
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor digitorum brevis?
