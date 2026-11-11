@@ -5,7 +5,7 @@
 
 #### Placering og orientering
 - Hvor er os pisiforme overordnet?:: Proximale række af håndrodsknoglerne
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-05,55,310-->
 - Hvad er specielt ved os pisiformes placering i håndroden?:: Den ligger palmart (mod håndfladen) i forhold til de andre knogler i håndroden
 <!--SR:!2026-11-13,16,290-->
 #### Form og størrelse

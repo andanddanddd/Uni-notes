@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. supinator insertion?:: [[Radius]] lateralflade
-<!--SR:!2026-11-10,8,250-->
+<!--SR:!2026-12-10,29,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. supinator?:: Supination

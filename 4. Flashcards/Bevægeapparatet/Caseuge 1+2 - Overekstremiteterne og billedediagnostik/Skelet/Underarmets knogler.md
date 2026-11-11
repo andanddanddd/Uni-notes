@@ -34,7 +34,7 @@
 ![[Underarmsknogler anatomi 2|600]]D?:: Crista musculi supinatoris
 <!--SR:!2026-11-10,1,190-->
 ![[Underarmsknogler anatomi 2|600]]F?:: Tuberculum dorsale radii
-<!--SR:!2026-11-07,1,190-->
+<!--SR:!2026-11-13,2,190-->
 ![[Underarmsknogler anatomi 2|600]]G?:: Incisura thochlearis
 <!--SR:!2026-11-12,15,290-->
 ![[Underarmsknogler anatomi 2|600]]H?:: Caput radii

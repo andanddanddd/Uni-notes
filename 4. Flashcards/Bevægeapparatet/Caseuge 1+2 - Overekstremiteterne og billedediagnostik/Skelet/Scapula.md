@@ -83,7 +83,7 @@
 ![[Scapula Anatomi 1|700]]J?:: Costalis scapulae
 <!--SR:!2026-11-17,13,230-->
 ![[Scapula Anatomi 1|700]]K?:: Angulus inferior
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-07,57,310-->
 ![[Scapula Anatomi 1|700]]L?:: Margo medialis
 <!--SR:!2026-11-12,15,290-->
 ![[Scapula Anatomi 1|700]]M?:: Fossa supraspinata

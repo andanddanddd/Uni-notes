@@ -9,7 +9,7 @@
 ![[Overfladiske brystmuskler 1]]B?:: [[M. coracobrachialis]]
 <!--SR:!2026-11-22,17,250-->
 ![[Overfladiske brystmuskler 1]]C?:: [[M. triceps brachii]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 ![[Overfladiske brystmuskler 1]]D ?:: [[M. biceps brachii]] (Caput longum/breve)
 <!--SR:!2026-12-18,39,290-->
 ![[Overfladiske brystmuskler 1]]E?:: [[M. serratus ant]]

@@ -12,7 +12,7 @@
 - Hvad kaldes ledhovedet i den proximale ende af radius?:: [[Caput radii]]
 <!--SR:!2026-11-12,15,290-->
 - Hvad hedder indsnørringen under caput radii?:: Collum radii
-<!--SR:!2026-11-11,15,290-->
+<!--SR:!2027-01-13,63,310-->
 - Hvad kaldes knuden distalt for collum radii?:: tuberositas radii
 <!--SR:!2026-12-03,24,250-->
 - Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii

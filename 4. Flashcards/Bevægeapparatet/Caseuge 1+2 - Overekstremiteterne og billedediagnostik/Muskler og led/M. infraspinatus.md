@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. infraspinatus?:: Fossa infraspinata (se [[Scapula]])
-<!--SR:!2026-11-11,7,250-->
+<!--SR:!2026-12-07,26,270-->
 
 ### Insertion
 - Hvor har m. infraspinatus insertion?:: Tuberculum majus humeri (se [[Humerus]]) under [[M. supraspinatus]]
