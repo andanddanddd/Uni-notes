@@ -4,6 +4,7 @@
 
 
 ![[Fodens ligamenter 1|600]]A?:: [[Lig. tibiofibulare posterius]]
+<!--SR:!2026-11-14,3,250-->
 ![[Fodens ligamenter 1|600]]B?:: [[Lig. talofibulare posterius]]
 ![[Fodens ligamenter 1|600]]C?:: [[Lig. calcaneofibulare]]
 ![[Fodens ligamenter 1|600]]D?:: [[Lig. tibiofibulare anterius]]

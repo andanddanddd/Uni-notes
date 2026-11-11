@@ -8,6 +8,7 @@
 <!--SR:!2026-11-12,1,230-->
 ![[Fodens ligamenter 2|600]]C?:: [[Tendo calcaneus]]
 ![[Fodens ligamenter 2|600]]D?:: [[Lig. tibiofibulare posterius]]
+<!--SR:!2026-11-15,4,270-->
 ![[Fodens ligamenter 2|600]]E?:: [[Lig. talofibulare posterius]]
 ![[Fodens ligamenter 2|600]]F?:: [[Lig. cancaneofibulare]]
 

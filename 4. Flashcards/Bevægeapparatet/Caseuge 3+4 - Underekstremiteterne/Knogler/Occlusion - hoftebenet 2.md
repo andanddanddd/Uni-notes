@@ -28,6 +28,7 @@
 ![[Hoftebenet 2|700]]N?:: Facies lunata
 <!--SR:!2026-11-15,6,230-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis
+<!--SR:!2026-11-14,3,250-->
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum
 <!--SR:!2026-11-30,20,250-->
 ![[Hoftebenet 2|700]]Q?:: a= ramus ossis ischii, b= ramus inf. ossis pubis

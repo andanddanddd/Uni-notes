@@ -9,6 +9,7 @@
 <!--SR:!2026-11-21,16,290-->
 	- Hvor mange snipper deler aponeurosis palmaris sig i?:: 4
 - Hvad hedder ligamentet der holder de distale dele af aponeurosis palmaris sammen?:: [[Lig. metacarpale transversum superficiale]]
+<!--SR:!2026-11-14,3,250-->
 - Hvad er formålet med de sagitale septa der afgår fra de tværgående strøg på aponeurosis palmaris?:: Danne kanaler til flexorsenerne
 <!--SR:!2026-11-18,14,290-->
 

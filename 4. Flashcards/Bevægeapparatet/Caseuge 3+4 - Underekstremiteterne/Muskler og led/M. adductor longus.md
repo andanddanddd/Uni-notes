@@ -13,6 +13,7 @@
 - Hvor udspringer m. adductor longus?:: [[Os pubis]] lig eunder tuberculum pubicum
 #### Insertion
 - Hvor har m. adductor longus insertion?:: Linea asperas mediale læbe (se [[Femoris]])
+<!--SR:!2026-11-14,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor longus?:: Adduction af hoften

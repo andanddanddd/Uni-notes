@@ -3,11 +3,11 @@
 ![[underbenets muskler 3.png]]
 
 
-A?:: [[M. semimembranosus]]
-B?:: [[M. semitendinosus]]
-C?:: [[M. flexor digitorum longus]]
-D?:: [[M. biceps femoris]]
-E?:: [[M. plantaris]]
-F?:: [[M. gastrocnemius]]
-G?:: [[M. soleus]]
+![[Underbenets muskler 3|600]]A?:: [[M. semimembranosus]]
+![[Underbenets muskler 3|600]]B?:: [[M. semitendinosus]]
+![[Underbenets muskler 3|600]]C?:: [[M. flexor digitorum longus]]
+![[Underbenets muskler 3|600]]D?:: [[M. biceps femoris]]
+![[Underbenets muskler 3|600]]E?:: [[M. plantaris]]
+![[Underbenets muskler 3|600]]F?:: [[M. gastrocnemius]]
+![[Underbenets muskler 3|600]]G?:: [[M. soleus]]
 H?:: [[M. peroneus longus]]

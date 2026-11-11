@@ -3,6 +3,7 @@
 - Hvad er ossa tarsi overordnet?:: Fodrodknogler
 - Hvor mange ossa tarsi har vi?:: 7
 - Hvordan er fodrodsknoglerne overordnet arrangeret?:: En proximal og distal række
+<!--SR:!2026-11-15,4,270-->
 - Hvor mange knogler er i den proximale række af fodroden?:: 2
 <!--SR:!2026-11-25,14,290-->
 - Hvor mange knogler er i den distale række af fodroden?:: 5

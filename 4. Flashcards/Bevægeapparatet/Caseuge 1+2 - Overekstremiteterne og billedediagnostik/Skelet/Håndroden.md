@@ -9,7 +9,7 @@
 - Hvordan er de 8 knogler i håndroden overordnet arrangeret?:: En proximal og distal række, hver bestående af 4 knogler
 <!--SR:!2026-11-18,16,290-->
 - Hvornår ossificere håndrodsknoglerne?:: Først efter fødsel
-<!--SR:!2026-11-11,15,290-->
+<!--SR:!2027-01-10,60,310-->
 
 - Hvad hedder de 4 knogler i den prximale række af håndroden?
 ?

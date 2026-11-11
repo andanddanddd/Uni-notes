@@ -5,6 +5,7 @@
 - Hvor er m. gluteus maximus overordnet?:: Bagpå hoften
 <!--SR:!2026-11-23,14,290-->
 - Hvor dybt ligger m. gluteus maximus?:: Superficielt
+<!--SR:!2026-11-15,4,270-->
 
 ### Form
 - Hvilken form har m. gluteus maximus?:: Stor rombeformet

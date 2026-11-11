@@ -18,7 +18,9 @@
 - Hvad kaldes vinklen mellem collum femoris og skaftet?:: Inklinationsvinklen
 <!--SR:!2026-11-14,4,270-->
 	- Hvornår er inklinationsvinklen størst?:: Ved fødsel
+<!--SR:!2026-11-15,4,270-->
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes
+<!--SR:!2026-11-15,4,270-->
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
 <!--SR:!2026-11-12,2,190-->

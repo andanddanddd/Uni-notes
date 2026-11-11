@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad kaldes patella på dansk?:: Knæskallen
+<!--SR:!2026-11-15,4,270-->
 
 #### Placering og orientering
 #### Form og størrelse

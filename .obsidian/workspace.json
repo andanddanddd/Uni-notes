@@ -31,8 +31,37 @@
               "icon": "lucide-file",
               "title": "Mm. lumbricales (fod)"
             }
+          },
+          {
+            "id": "07e06cc6c19fe7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M. adductor hallucis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M. adductor hallucis"
+            }
+          },
+          {
+            "id": "b5115ff7f11905af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underbenets muskler 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Occlusion - underbenets muskler 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d6a845a27b882733",
@@ -254,8 +283,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "b5115ff7f11905af",
   "lastOpenFiles": [
+    "M. adductor hallucis.md",
     "Mm. lumbricales (fod).md",
     "Planta pedis.md",
     "M. quadratus plantae.md",
@@ -263,7 +293,6 @@
     "M. flexor digitorum brevis.md",
     "M. flexor digiti minimi brevis.md",
     "M. abductor digiti minimi (fod).md",
-    "M. adductor hallucis.md",
     "M. flexor hallucis brevis.md",
     "M. abductor hallucis.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Fodens knogler 1.md",

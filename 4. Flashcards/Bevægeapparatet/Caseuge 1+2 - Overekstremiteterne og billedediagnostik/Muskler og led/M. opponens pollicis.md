@@ -23,6 +23,7 @@
 
 ### Innerversion og reflekser'
 - Hvilken nerve innervere m. opponens pollicis?:: [[N. medianus]]
+<!--SR:!2026-11-15,4,270-->
 
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
