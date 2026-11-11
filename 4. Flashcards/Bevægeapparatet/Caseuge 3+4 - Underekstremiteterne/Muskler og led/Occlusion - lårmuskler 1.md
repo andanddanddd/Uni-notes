@@ -5,7 +5,7 @@
 ![[Lårmuskler 1|600]]A?:: M. psoas major
 ![[Lårmuskler 1|600]]B?:: M. iliacus
 ![[Lårmuskler 1|600]]C?:: Spina iliaca ant. sup.
-![[Lårmuskler 1|600]]D?:: [[M. tensor fasciae latea]]
+![[Lårmuskler 1|600]]D?:: [[M. tensor fasciae latae]]
 <!--SR:!2026-11-12,1,230-->
 ![[Lårmuskler 1|600]]E?:: [[Tractus iliotibialis]]
 ![[Lårmuskler 1|600]]F?:: [[M. rectus femoris]]

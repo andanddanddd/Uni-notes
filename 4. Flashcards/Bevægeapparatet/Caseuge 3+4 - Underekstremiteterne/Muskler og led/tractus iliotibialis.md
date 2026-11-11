@@ -4,7 +4,7 @@
 - Hvilke funkler giver fibre til tractus iliotibialis?
 ?
 - [[M. gluteus maximus]]
-- [[M. tensor fasciae latea]]
+- [[M. tensor fasciae latae]]
 - [[M. piriformis]]
 
 - Hvor ender tractus iliotibilais?:: Condylus lateralis (tuberculum anterolaterale) (se [[Tibia]])
