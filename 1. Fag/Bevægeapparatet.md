@@ -5,6 +5,7 @@
 [[Caseuge 3+4 - Underekstremiteterne]]
 [[Caseuge 5+6 - Collumna, thorax og hovedet]]
 [[Klinik - Bevægeapparatet]]
+[[Anatomisal - bevægeapparatet]]
 
 
 Rask er ikke normalt

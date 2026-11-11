@@ -10,4 +10,5 @@
 - Hvordan er senerne fra [[M. flexor digitorum superficialis]] arrangeret i bursa ulnaris?:: På en linje
 <!--SR:!2026-11-15,11,270-->
 - Hvordan er senerne fra [[M. flexor digitorum profundus]] arrangeret i bursa ulnaris?:: 2 par over hinanden (senerne til finger 3+4 ligger øverst)
+<!--SR:!2026-11-15,4,270-->
 - 

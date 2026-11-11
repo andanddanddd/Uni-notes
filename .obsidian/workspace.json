@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mm. lumbricales (fod).md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm. lumbricales (fod).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. adductor hallucis.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. adductor hallucis.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,9 +59,33 @@
               "icon": "lucide-file",
               "title": "Occlusion - underbenets muskler 3"
             }
+          },
+          {
+            "id": "1ffef7c50c2cca65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anatomisal - Knæ forfra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Anatomisal - Knæ forfra"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d6a845a27b882733",
@@ -150,8 +174,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,44 +306,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b5115ff7f11905af",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
-    "M. adductor hallucis.md",
-    "Mm. lumbricales (fod).md",
-    "Planta pedis.md",
-    "M. quadratus plantae.md",
+    "anatomisal - knæ forfra.png",
+    "Pasted image 20261111093014.png",
+    "3. Forelæsninger/Bevægeapparatet/Anatomisal - bevægeapparatet.md",
+    "Anatomisal - Knæ forfra.md",
+    "1. Fag/Bevægeapparatet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Planta pedis.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Underbenet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underbens muskler 2.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underbenests muskler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underbenets muskler 3.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. adductor hallucis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm. lumbricales (fod).md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. quadratus plantae.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Foden.md",
-    "M. flexor digitorum brevis.md",
-    "M. flexor digiti minimi brevis.md",
-    "M. abductor digiti minimi (fod).md",
-    "M. flexor hallucis brevis.md",
-    "M. abductor hallucis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor digitorum brevis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor digiti minimi brevis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. abductor digiti minimi (fod).md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor hallucis brevis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. abductor hallucis.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Fodens knogler 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Occlusion - fodens knogler.md",
-    "Aponeurosis plantaris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Aponeurosis plantaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Aponeurosis palmaris.md",
-    "M. extensor digitorum brevis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. extensor digitorum brevis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. extensor digitorum longus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens ligamenter 4.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 4.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underfoden 1.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 4.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens ligamenter 4.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens ligamenter 3.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 3.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens ligamenter 3.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens ligamenter 2.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 2.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens ligamenter 2.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - fodens ligamenter 1.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led/Fodens ligamenter 1.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens ligamenter 1.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - foden opperfra TJEK.md",
     "Billeder/Bevægeapparatet/Underekstremiteterne/foden oppefra.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/underfoden 1.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 3.png",
     "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 2.png",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/fodens muskler 1.png",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
@@ -330,7 +354,6 @@
     "Externe dokumenter/Fordøjelse II/~$Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Muskler og led",
     "Untitled.canvas"
   ]
 }
