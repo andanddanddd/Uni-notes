@@ -13,6 +13,7 @@
 ?
 - [[M. sartorius]]
 - [[M. quadriceps femoris]]
+<!--SR:!2026-11-14,3,250-->
 
 - Hvilken form har lårets mediale muskelgruppe sammen?:: Trekant der udfylder hullet mellem femoris og hoften
 - Hvad hedder musklerne i lårests mediale muskelgruppe?

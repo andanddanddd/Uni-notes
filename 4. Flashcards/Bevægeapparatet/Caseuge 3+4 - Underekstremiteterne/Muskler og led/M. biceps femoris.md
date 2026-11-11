@@ -10,6 +10,7 @@
 
 ### Forløb
 - Hvad kendetegner m. biceps femoris forløb ved knæet?:: Det løber lateralt om knæet
+<!--SR:!2026-11-15,4,270-->
 #### Udspring
 - Hvor udspringer caput longum af m. biceps femoris?:: Tuber ischiadicum (se [[Os ischii]])
 - Hvor udspringer caput breve af m. biceps femoris?:: Linea asperas laterale kant (se [[Femoris]])

@@ -9,6 +9,7 @@
 ![[Femoris 1|600]]C?:: [[Caput femoralis]]
 <!--SR:!2026-11-23,14,290-->
 ![[Femoris 1|600]]D?:: Collum femoris
+<!--SR:!2026-11-15,4,270-->
 ![[Femoris 1|600]]E?:: Linea intertrochanterica
 ![[Femoris 1|600]]F?:: Facies patellaris
 ![[Femoris 1|600]]G?:: Fovea capitis femoris

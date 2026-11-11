@@ -33,6 +33,7 @@
 <!--SR:!2026-12-01,20,250-->
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
+<!--SR:!2026-11-15,4,270-->
 
 #### Occlusion
 [[Occlusion - Underam foran superficiel]]
