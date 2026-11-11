@@ -12,7 +12,7 @@
 - Hvor i benene er femoris tættest på hinanden?:: De konvergere mod knæene
 #### Form og størrelse
 - Hvad hedder ledfladen i den proximale ende af femoris?:: [[Caput femoris]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 	- Hvad hedder strukturen der "bærer" caput femoris?:: Collum femoris
 		- Hvor lang er collum femoris?:: 4-5 cm
 - Hvad kaldes vinklen mellem collum femoris og skaftet?:: Inklinationsvinklen
@@ -52,7 +52,7 @@
 ### Knogletype
 - Hvilken knogletype er femoris?
 - Er femoris parret eller uparret?:: Parret
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

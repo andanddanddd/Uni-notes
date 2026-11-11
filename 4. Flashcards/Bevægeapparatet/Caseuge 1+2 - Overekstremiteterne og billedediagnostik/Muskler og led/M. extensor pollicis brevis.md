@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. pollicis brevis insertion?:: Basis af phalinx proximale på tommelfingeren
-<!--SR:!2026-11-10,11,270-->
+<!--SR:!2026-12-24,43,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pollicis brevis?:: Ekstension af tommelfingeren

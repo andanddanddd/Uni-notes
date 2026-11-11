@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder calcaneus på dansk?:: Hælbenet
-<!--SR:!2026-11-11,1,230-->
+<!--SR:!2026-11-14,3,250-->
 - Hvilken underbensknogle tilhører calcaneus?:: [[Fibula]]
 <!--SR:!2026-11-22,16,290-->
 
@@ -12,7 +12,7 @@
 - Hvor i fodroden er calcaneus?:: den proximale række under [[Talus]]
 #### Form og størrelse
 - Hvor stor er calcaneus?:: Den strøst efodrodsknogle
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 
 ### Relationer
 #### Led

@@ -13,10 +13,10 @@
 ![[Hoftebenet 2|700]]F?:: Spina ischiadica
 <!--SR:!2026-11-22,12,270-->
 ![[Hoftebenet 2|700]]G?:: Incisura ischiadica minor
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 ![[Hoftebenet 2|700]]H?:: Tuber ischiadicum
 ![[Hoftebenet 2|700]]I?:: [[Foramen obturatum]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-25,14,290-->
 ![[Hoftebenet 2|700]]J?:: Incisura acerabuli
 <!--SR:!2026-11-19,14,290-->
 ![[Hoftebenet 2|700]]K?:: Tuberculum iliacum

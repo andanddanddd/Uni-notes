@@ -28,7 +28,7 @@
 
 ### Insertion
 - Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])
-<!--SR:!2026-11-10,8,250-->
+<!--SR:!2026-11-15,4,230-->
 
 ### Funktion
 - Hvilken funktion har m. tricps brachii?:: Ekstension af albue og skulderled

@@ -8,7 +8,7 @@
 - Hvad er de 3 overordnede dele af humerus?:: Skaftet og 2 ekstremiteter
 <!--SR:!2026-11-12,15,290-->
 - Hvad kaldes skaftet af humerus?:: **Corpus humeri**
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 	- Hvilken form har den proxiamle del af corpus humeri?:: Cylinderformet
 <!--SR:!2026-11-15,16,290-->
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
@@ -54,7 +54,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker længevækst af humerus?:: Proximale
-<!--SR:!2026-11-10,14,290-->
+<!--SR:!2027-01-06,56,310-->
 ### Inspektion og palpation
 ### Klinik
 

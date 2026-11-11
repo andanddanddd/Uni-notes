@@ -35,7 +35,7 @@
 ![[Hånd(knogle) anatomi 1]]5?:: Os trapezium
 <!--SR:!2026-11-29,24,270-->
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-05,55,310-->
 ![[Hånd(knogle) anatomi 1]]7?:: Os capitatum
 <!--SR:!2026-11-13,11,270-->
 ![[Hånd(knogle) anatomi 1]]8?:: Os hamatum
@@ -56,12 +56,12 @@
 ![[Hånd(knogler) anatomi 2]]F?:: Ossa sesamoidea
 <!--SR:!2026-12-26,47,290-->
 ![[Hånd(knogler) anatomi 2]]G?:: DIgitus minimus
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-07,57,310-->
 ![[Hånd(knogler) anatomi 2]]H?:: Digitus anularis
 <!--SR:!2026-11-19,14,290-->
 ![[Hånd(knogler) anatomi 2]]I?:: Digitus medius
 <!--SR:!2026-11-12,16,290-->
 ![[Hånd(knogler) anatomi 2]]J?:: Index
-<!--SR:!2026-11-10,14,290-->
+<!--SR:!2027-01-08,58,310-->
 ![[Hånd(knogler) anatomi 2]]K?:: Pollex
 <!--SR:!2026-12-20,41,290-->

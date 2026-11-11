@@ -36,6 +36,6 @@
 ![[Hoftebenet 1|600]]Q?:: Incisura inschiadica minor
 <!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]R?:: Tuber ichiadicum
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-23,12,270-->
 
 

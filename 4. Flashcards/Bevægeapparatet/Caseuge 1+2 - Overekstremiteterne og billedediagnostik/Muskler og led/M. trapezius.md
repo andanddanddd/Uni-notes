@@ -31,7 +31,7 @@
 <!--SR:!2026-11-16,12,270-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
-<!--SR:!2026-11-11,1,190-->
+<!--SR:!2026-11-14,3,210-->
 - Hvor har fibrene C6-T1 insersion henne? (M. trapezius):: Laterale dele af clavicula samt acromion (se [[Scapula]])
 <!--SR:!2026-12-02,23,250-->
 - Hvor har fibrene fra T8-T10 insersion henne? (M. trapezius):: Spina scapulae (se [[Scapula]])

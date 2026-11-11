@@ -13,7 +13,7 @@
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
 <!--SR:!2026-11-28,19,250-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
-<!--SR:!2026-11-11,2,230-->
+<!--SR:!2026-11-12,1,210-->
 
 ### Muskler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?
@@ -30,7 +30,7 @@
 ?
 - [[M. flexor pollicis longus]]
 - [[M. flexor digitorum profundus]]
-<!--SR:!2026-11-11,6,230-->
+<!--SR:!2026-12-01,20,250-->
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
 
@@ -45,7 +45,7 @@
 - [[M. brachioradialis]]
 - [[M. extensor carpi radialis longus]]
 - [[M. extensor carpi radialis brevis]]
-<!--SR:!2026-11-10,8,250-->
+<!--SR:!2026-12-09,28,270-->
 
 - Hvilke muskler er der i "den øvrige superficielle extensorgruppe"?
 ?

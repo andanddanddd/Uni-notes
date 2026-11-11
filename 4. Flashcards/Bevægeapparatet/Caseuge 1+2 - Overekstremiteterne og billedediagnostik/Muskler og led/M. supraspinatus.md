@@ -29,4 +29,4 @@ Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men me
 Reflekser
 ### Klinik
 - Hvad sker der hvis m. suprasppinatus lammes?:: Skulderledet bliver ustabilt
-<!--SR:!2026-11-10,11,270-->
+<!--SR:!2026-12-12,31,270-->

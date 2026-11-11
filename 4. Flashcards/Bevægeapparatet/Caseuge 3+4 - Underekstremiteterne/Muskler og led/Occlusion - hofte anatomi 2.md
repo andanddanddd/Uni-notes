@@ -4,10 +4,10 @@
 
 ![[Hofte anatomi 2||650]]A?:: [[M. obturatorius internus]]
 ![[Hofte anatomi 2||650]]B?:: Canalis obturatorius
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-25,14,290-->
 ![[Hofte anatomi 2||650]]C?:: [[Symphysis pubica]]
 ![[Hofte anatomi 2||650]]D?:: Foramen suprapiriforme
-<!--SR:!2026-11-11,2,230-->
+<!--SR:!2026-11-16,5,230-->
 ![[Hofte anatomi 2||650]]E?:: [[M. piriformis]]
 ![[Hofte anatomi 2||650]]F?:: Foramen inrapirifprme
 ![[Hofte anatomi 2||650]]G?:: [[Lig. sacrospinale]] 

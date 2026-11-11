@@ -7,5 +7,5 @@
 ![[Underarm bagved 1]]B?:: [[M. extensor carpi ulnaris]]
 <!--SR:!2026-12-04,25,270-->
 ![[Underarm bagved 1]]C?:: [[M. extensor digiti minimi]]
-<!--SR:!2026-11-11,2,230-->
+<!--SR:!2026-11-16,5,230-->
 ![[Underarm bagved 1]]D?:: [[M. extensor digitorum]]

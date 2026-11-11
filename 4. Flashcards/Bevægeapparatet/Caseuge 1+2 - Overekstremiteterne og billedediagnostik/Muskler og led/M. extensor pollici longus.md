@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. pollicis longus insertion?:: Basis af phalinx distale på tommelfingeren
-<!--SR:!2026-11-10,11,270-->
+<!--SR:!2026-12-24,43,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pollicis longus?:: Ekstension af tommelfinegren (alle led)

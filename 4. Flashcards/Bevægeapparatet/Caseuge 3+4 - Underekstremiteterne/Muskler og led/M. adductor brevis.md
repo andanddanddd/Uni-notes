@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. adductor brevis overordnet?:: Lårets mediale muskelgruppe
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-23,12,270-->
 - Hvor dybt ligger m. adductor brevis?
 
 ### Form
@@ -12,10 +12,10 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. adductor brevis?:: Ramus inf ossis pubis (se [[Os pubis]])
-<!--SR:!2026-11-10,1,210-->
+<!--SR:!2026-11-12,1,190-->
 #### Insertion
 - Hvor har m. adductor brevis insertion?:: Linea aspara (se [[Femoris]])
-<!--SR:!2026-11-11,1,230-->
+<!--SR:!2026-11-13,2,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor brevis?:: Adduction af hoften

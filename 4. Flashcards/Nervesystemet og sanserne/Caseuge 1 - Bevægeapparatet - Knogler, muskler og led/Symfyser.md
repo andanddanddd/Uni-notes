@@ -11,4 +11,4 @@
 - Mellem ryghvirvlerne
 - Mellem bækkenbenene
 - Mellem ribbenene og brystbenet
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->

@@ -7,4 +7,4 @@
 - Hvilken form har caput humeri?:: Halvkugleformet
 <!--SR:!2026-12-01,26,270-->
 - Hvilken retning vender caput humeri?:: Opad, bagud, medialt
-<!--SR:!2026-11-07,12,270-->
+<!--SR:!2026-12-28,47,290-->

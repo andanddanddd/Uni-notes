@@ -18,7 +18,7 @@
 ![[Humerus anatomi 1]]G?:: Fossa radialis
 <!--SR:!2026-12-17,38,290-->
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
-<!--SR:!2026-11-11,7,210-->
+<!--SR:!2026-11-25,14,210-->
 ![[Humerus anatomi 1]]I?:: Condylus humeri
 <!--SR:!2026-11-19,14,290-->
 ![[Humerus anatomi 1]]J?::Sulcus intertubercularis
@@ -36,9 +36,9 @@
 ![[Humerus anatomi 1]]P?:: Margo lateralis
 <!--SR:!2026-12-22,43,290-->
 ![[Humerus anatomi 1]]Q?:: Fossa coronoidea
-<!--SR:!2026-11-10,11,270-->
+<!--SR:!2026-12-24,43,290-->
 ![[Humerus anatomi 1]]R?:: Fossa olecrani
-<!--SR:!2026-11-11,15,290-->
+<!--SR:!2027-01-11,61,310-->
 ![[Humerus anatomi 1]]S?:: Epicondylus medialis
 <!--SR:!2026-11-30,26,270-->
 ![[Humerus anatomi 1]]T?:: Trochlea humeri
@@ -48,11 +48,11 @@
 ![[Humerus anatomi 1]]V?:: Trochlea humeri
 <!--SR:!2026-12-25,46,290-->
 ![[Humerus anatomi 1]]W?:: Humerus anteriort
-<!--SR:!2026-11-11,15,290-->
+<!--SR:!2027-01-13,63,310-->
 ![[Humerus anatomi 1]]Z?:: Extremitas proximalis
 <!--SR:!2026-11-16,14,290-->
 ![[Humerus anatomi 1]]Y?:: Corpus humeri
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-06,56,310-->
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
 <!--SR:!2026-11-14,15,290-->
 ![[Humerus anatomi 1]]Æ?:: Humerus posteriort

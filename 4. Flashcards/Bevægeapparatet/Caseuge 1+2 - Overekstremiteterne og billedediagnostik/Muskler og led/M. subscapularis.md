@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. subscapularis?:: [[Scapula]]s forflade
-<!--SR:!2026-11-10,1,230-->
+<!--SR:!2026-11-14,3,250-->
 
 ### Insertion
 - Hvor har m. subscapularis insertion?:: Tuberculum minoris humeri (se [[Humerus]])

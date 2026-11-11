@@ -22,7 +22,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor digiti minimi?:: [[N. ulnaris]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-26,15,290-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

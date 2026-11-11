@@ -4,14 +4,14 @@
 ### Lokation
 - Hvor er m. piriformis overordnet?
 - Hvor dybt ligger m. piriformis?:: Dybt
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 
 ### Form
 - Hvilken form har m. piriformis?:: Pæreformet
 
 ### Udspring
 - Hvor udspringer m. piriformis?:: Forfladen af [[Os sacrum]]
-<!--SR:!2026-11-11,1,230-->
+<!--SR:!2026-11-12,1,210-->
 
 ### Insertion
 - Hvor har m. piriformis insertion?:: Fascia lata og [[Tractus iliotibialis]]

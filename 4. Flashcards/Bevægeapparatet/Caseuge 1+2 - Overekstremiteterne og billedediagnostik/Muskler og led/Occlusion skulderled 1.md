@@ -10,7 +10,7 @@
 <!--SR:!2026-11-10,4,270-->
 ![[Skulderled 1|600]]F?:: [[Ligamenta glenohumeralia]]
 ![[Skulderled 1|600]]G?:: [[Ligamentum coracoacrominale]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 ![[Skulderled 1|600]]H?:: Processus coracoideus
 ![[Skulderled 1|600]]I?:: [[Ligamenta coracohumerale]]
 ![[Skulderled 1|600]]J?:: [[M. subscapularis]]

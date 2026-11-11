@@ -5,7 +5,7 @@
 - Hvor er m. flexor pollicis longus overordnet?:: Foreste loge af radius
 <!--SR:!2026-11-19,14,290-->
 - Hvor dybt ligger m. flexor pollicis longus?:: Temmelig dybt (3. lag)
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-27,16,290-->
 
 ### Form
 - Hvilken form har m. flexor pollicis longus?

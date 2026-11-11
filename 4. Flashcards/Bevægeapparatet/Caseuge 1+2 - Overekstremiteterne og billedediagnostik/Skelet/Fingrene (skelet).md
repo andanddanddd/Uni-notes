@@ -1,13 +1,13 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvordan er fingrenes skelet overordnet opbygget?:: 3 små rørknogler
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-06,56,310-->
 - Hvad kaldes de 3 fingerknogler? (fra proximal til distal)
 ?
 1. [[Phalinx proximalis]]
 2. [[Phalinx media]]
 3. [[Phalanx distalis]]
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-04,54,310-->
 
 - Hvad kaldes de 3 dele af en fingerknogler? (fra proximal til distal)
 ?

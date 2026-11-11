@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogle er cavitas glenoidalis på?:: [[Scapula]] (angulus lateralis)
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-08,58,310-->
 - Hvilken ledflade articulere cavitas glenoidalis med?:: [[Caput humeri]]
 <!--SR:!2026-11-13,16,290-->
 

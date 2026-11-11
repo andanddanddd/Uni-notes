@@ -11,7 +11,7 @@
 - Hvad kendetegner m. vastus lateralis' forløb lige efter udspringet?:: Den bevæger sig lateralt rundt om [[Femoris]]
 #### Udspring
 - Hvor udspringer m. vastus lateralis?:: Linea aspara (og dens forlængelser) (se [[Femoris]])
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-25,14,290-->
 #### Insertion
 - Hvor har m. vastus lateralis insertion?:: Tuberositas tibia (sammen med resten af [[M. quadriceps femoris]])
 

@@ -7,5 +7,5 @@
 ![[Lårmuskler 3|600]]B?:: [[M. adductor longus]]
 ![[Lårmuskler 3|600]]C?:: [[M. adductor brevis]]
 ![[Lårmuskler 3|600]]D?:: [[M. gracilis]]
-<!--SR:!2026-11-11,1,190-->
+<!--SR:!2026-11-14,3,210-->
 ![[Lårmuskler 3|600]]E?:: [[M. adductor magnus]]

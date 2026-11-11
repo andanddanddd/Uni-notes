@@ -6,4 +6,4 @@
 - Sideranden af [[Os sacrum]] (og øverste del af [[Os coccygix]])
 - Medialkanten af tuber ischiadicum (se [[Os ischii]])
 - Underkanten af ramus ossis ischii
-<!--SR:!2026-11-11,2,230-->
+<!--SR:!2026-11-18,7,250-->
