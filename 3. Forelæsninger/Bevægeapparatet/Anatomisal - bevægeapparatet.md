@@ -4,3 +4,7 @@
 [[Anatomisal - Knæ forfra-siden]]
 [[Anatomisal - Knæ fra siden]]
 [[Anatoimsal - Knæ bagfra]]
+
+[[Anatomisal - hånd dorsalt]]
+[[Anatomsial - håndflade]]
+[[Anatomisal - Albue]]
