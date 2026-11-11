@@ -13,6 +13,7 @@
 ![[Hoftebenet 1|600]]F?:: Pecten ossis pubis
 <!--SR:!2026-11-20,16,290-->
 ![[Hoftebenet 1|600]]G?:: Tuberculum pubicum
+<!--SR:!2026-11-14,3,250-->
 ![[Hoftebenet 1|600]]H?:: Crista bupica
 <!--SR:!2026-11-12,3,250-->
 ![[Hoftebenet 1|600]]I?:: [[Facies symphysialis]]

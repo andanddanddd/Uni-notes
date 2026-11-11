@@ -20,6 +20,7 @@
 ![[Fodens knogler 1|600]]J?:: Phalanc distalis
 <!--SR:!2026-11-26,15,290-->
 ![[Fodens knogler 1|600]]K?:: Digitus minimus
+<!--SR:!2026-11-14,3,250-->
 ![[Fodens knogler 1|600]]L?:: Digitus medius
 <!--SR:!2026-11-18,9,250-->
 ![[Fodens knogler 1|600]]M?:: Processus posterior tali

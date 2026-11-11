@@ -16,6 +16,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor hallucis?:: Abduction af storetåen
+<!--SR:!2026-11-15,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor hallucis?

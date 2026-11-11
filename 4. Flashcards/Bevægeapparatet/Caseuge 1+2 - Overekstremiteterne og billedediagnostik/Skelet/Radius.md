@@ -16,6 +16,7 @@
 - Hvad kaldes knuden distalt for collum radii?:: tuberositas radii
 <!--SR:!2026-12-03,24,250-->
 - Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii
+<!--SR:!2026-11-15,4,270-->
 
 ### Relationer
 #### Led

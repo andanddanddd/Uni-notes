@@ -8,6 +8,7 @@
 ### Ledflader
 - Hvilke 2 knogler binder art. sacroiliaca sammen?:: [[Os ilium]] med [[Os sacrum]]
 - Hvad hedder de 2 ledflader art. sacroiliaca binder sammen?:: [[Facies auricularis]] på både os sacrum og os ilium
+<!--SR:!2026-11-15,4,270-->
 
 ### Ledets strukture
 - Hvad hedder de 2 ligamenter som forstærker art sacroiliaca?

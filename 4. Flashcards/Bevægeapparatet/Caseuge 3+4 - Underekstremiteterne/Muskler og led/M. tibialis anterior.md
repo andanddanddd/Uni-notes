@@ -24,6 +24,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. tibialis ant.?:: Dorsalflektion og inversion af foden
+<!--SR:!2026-11-14,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. tibialis ant.?

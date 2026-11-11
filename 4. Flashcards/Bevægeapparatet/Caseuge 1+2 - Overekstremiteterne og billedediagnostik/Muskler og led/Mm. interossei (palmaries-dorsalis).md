@@ -16,6 +16,7 @@
 
 ### Udspring
 - Hvor udspringer mm. interossei palmaries/dorsalis?:: Skaftet af os metacarpale
+<!--SR:!2026-11-14,3,250-->
 
 ### Insertion
 - Hvor har mm. interossei palmaries insertion?:: Væk fra finger 3 (dvs siden mod finger 3)

@@ -14,22 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fag/Bevægeapparatet.md",
+                "file": "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomsial - håndflade.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Bevægeapparatet"
+              "title": "Anatomsial - håndflade"
             }
           }
         ]
@@ -253,32 +243,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1ffef7c50c2cca65",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111100437.png",
     "3. Forelæsninger/Bevægeapparatet/Anatomisal - bevægeapparatet.md",
-    "Anatomisal - Albue.md",
-    "Anatomsial - håndflade.md",
-    "Anatomisal - hånd dorsalt.md",
-    "Pasted image 20261111095655.png",
-    "Pasted image 20261111095646.png",
-    "Anatoimsal - Knæ bagfra.md",
-    "Pasted image 20261111095300.png",
-    "Pasted image 20261111095251.png",
-    "Anatomisal - Knæ fra siden.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Knæ fra siden.md",
+    "1. Fag/Bevægeapparatet.md",
+    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111095106.png",
+    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111095033.png",
+    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111095251.png",
+    "Pasted image 20261111095108.png",
     "Pasted image 20261111095116.png",
     "Pasted image 20261111095115.png",
-    "Pasted image 20261111095114.png",
-    "Pasted image 20261111095113.png",
-    "Pasted image 20261111095112.png",
+    "Pasted image 20261111095109.png",
     "Pasted image 20261111095111.png",
-    "Anatomisal - Knæ forfra-siden.md",
+    "Pasted image 20261111095112.png",
+    "Pasted image 20261111095113.png",
+    "Billeder/Bevægeapparatet/Anatomisal",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Albue.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomsial - håndflade.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - hånd dorsalt.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatoimsal - Knæ bagfra.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Knæ forfra-siden.md",
     "Skabeloner/Skabelon - Occlusion (tal).md",
     "Skabeloner/Skabelon - Occlusion (bogstaver).md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underbenets muskler 3.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. adductor hallucis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm. lumbricales (fod).md",
-    "Anatomisal - Knæ forfra.md",
-    "1. Fag/Bevægeapparatet.md",
+    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Knæ forfra.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Planta pedis.md",
     "4. Flashcards/Bevægeapparatet/Anatomisal",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Underbenet.md",
@@ -291,7 +283,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. abductor digiti minimi (fod).md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor hallucis brevis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. abductor hallucis.md",
-    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Knogler/Fodens knogler 1.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE_Clinical Problem_prelecture_cases.pdf",
@@ -300,7 +291,6 @@
     "Externe dokumenter/Fordøjelse II/mso3DA5.tmp",
     "Externe dokumenter/Fordøjelse II/~$Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
     "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf",
-    "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
     "Untitled.canvas"
   ]
 }

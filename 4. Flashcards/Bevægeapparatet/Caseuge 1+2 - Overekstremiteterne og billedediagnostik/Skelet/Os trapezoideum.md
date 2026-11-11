@@ -5,6 +5,7 @@
 
 #### Placering og orientering
 - Hvor er os trapezoideum?:: Distale række af håndrodsknoglerne
+<!--SR:!2026-11-15,4,270-->
 #### Form og størrelse
 
 ### Relationer
