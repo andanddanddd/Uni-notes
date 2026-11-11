@@ -6,3 +6,4 @@
 <!--SR:!2026-11-20,15,290-->
 
 - Hvad er den samlede betegnelse for seneskederne i hånden?:: [[Bursa manus]]
+<!--SR:!2026-11-14,3,250-->

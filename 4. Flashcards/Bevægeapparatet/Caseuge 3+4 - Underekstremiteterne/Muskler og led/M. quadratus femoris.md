@@ -7,6 +7,7 @@
 
 ### Form
 - Hvilken form har m. quadratus femoris?:: Tyk firkantet
+<!--SR:!2026-11-15,4,270-->
 
 ### Udspring
 - Hvor udspringer m. quadratus femoris?:: Lateralkanten af tuber ischiadicum (se [[Os ischii]])
