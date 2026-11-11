@@ -2,3 +2,5 @@
 
 [[Anatomisal - Knæ forfra]]
 [[Anatomisal - Knæ forfra-siden]]
+[[Anatomisal - Knæ fra siden]]
+[[Anatoimsal - Knæ bagfra]]
