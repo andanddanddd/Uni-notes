@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fodens kno",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +257,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1ffef7c50c2cca65",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hoftemusklerne.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. tensor fasciae latae.md",
