@@ -8,3 +8,5 @@
 [[Anatomisal - hånd dorsalt]]
 [[Anatomsial - håndflade]]
 [[Anatomisal - Albue]]
+[[Anatomisal - Humerus lateralt]]
+[[Anatomisal - Humerus bagfra]]

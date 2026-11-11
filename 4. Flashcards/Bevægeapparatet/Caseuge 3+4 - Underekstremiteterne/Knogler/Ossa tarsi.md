@@ -10,6 +10,7 @@
 <!--SR:!2026-11-27,16,290-->
 - Hvad hedder den tibiale knogle i den proximale række af fodroden?:: [[Talus]]
 - Hvad hedder den fibulare knogle i den proximale række af fodroden?:: [[Calcaneus]]
+<!--SR:!2026-11-15,4,270-->
 - Hvad hedder de 5 knogler i den distale række af fodroden?
 ?
 - [[Os naviculare]]

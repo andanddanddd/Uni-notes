@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. adductor magnus overordnet?:: Lårets mediale muskelgruppe
+<!--SR:!2026-11-15,4,270-->
 - Hvor dybt ligger m. adductor magnus?
 
 ### Form

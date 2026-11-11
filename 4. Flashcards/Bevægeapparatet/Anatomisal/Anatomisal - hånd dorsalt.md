@@ -5,6 +5,7 @@
 ![[Pasted image 20261111095655.png]]3?:: Os metacarpi l
 ![[Pasted image 20261111095655.png]]4?:: Phalanx proximalis l
 ![[Pasted image 20261111095655.png]]5?:: Phalanx distalis I
+<!--SR:!2026-11-15,4,270-->
 ![[Pasted image 20261111095655.png]]6?:: Membrana interossea antebrachii
 ![[Pasted image 20261111095655.png]]7?:: Ulna
 ![[Pasted image 20261111095655.png]]8?:: Caput ulna
