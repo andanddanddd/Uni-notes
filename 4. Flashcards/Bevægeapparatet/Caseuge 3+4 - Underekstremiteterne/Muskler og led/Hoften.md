@@ -1,4 +1,4 @@
-#flashcards/5/Bevægeapparatet 
+#flashcards/5/Bevægeapparatet [[Os coxae]]
 
 ![[Hoftemusklerne]]
 
