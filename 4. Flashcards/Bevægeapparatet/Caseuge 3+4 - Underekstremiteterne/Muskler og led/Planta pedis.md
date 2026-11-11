@@ -2,6 +2,7 @@
 
 - Hvad er planta pedis?:: Fodsålen
 - Hvad kaldes det stærke bindevævsblad i fodsålen?:: [[Aponeurosis plantaris]]
+
 - Hvad er fodsålens 4 muskelloger?
 ?
 - Storetåens muskelloge
