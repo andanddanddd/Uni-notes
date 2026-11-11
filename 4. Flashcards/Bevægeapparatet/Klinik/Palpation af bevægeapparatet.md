@@ -5,3 +5,4 @@
 - Hvad er indirekte ømhed?:: Ømhed når der trykket på en knogle der er forbudnet til det sted der gør ondt
 <!--SR:!2026-11-24,14,290-->
 	- Hvad kan indirekte ømhed tyde på?:: Fraktur
+<!--SR:!2026-11-15,4,270-->

@@ -13,6 +13,7 @@
 <!--SR:!2026-11-22,16,290-->
 	- Hvad hedder de 3 kanter på corpus tibia?:: Margo anterior/lateralis/interosseus
 	- Hvad hedder fremspringet øverst på margo anterior?:: Tuberositas tibia
+<!--SR:!2026-11-14,3,250-->
 
 ### Relationer
 #### Led

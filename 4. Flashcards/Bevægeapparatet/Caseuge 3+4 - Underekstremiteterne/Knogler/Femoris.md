@@ -43,6 +43,7 @@
 	- Hvad hedder de 2 fremspring på condylus medialis/lateralis?:: Epicondylus medialis/lateralis
 <!--SR:!2026-11-10,4,270-->
 - Hvad kaldes ledfladen på den distale ekstremitet af femoris?:: [[Facies patellaris]]
+<!--SR:!2026-11-12,1,230-->
 
 ### Relationer
 #### Led

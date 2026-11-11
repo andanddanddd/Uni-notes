@@ -10,6 +10,7 @@
 ![[Hoftebenet 2|700]]D?:: Incisura ischiadica major
 <!--SR:!2026-11-25,15,290-->
 ![[Hoftebenet 2|700]]E?:: Fossa acetabuli
+<!--SR:!2026-11-15,4,270-->
 ![[Hoftebenet 2|700]]F?:: Spina ischiadica
 <!--SR:!2026-11-22,12,270-->
 ![[Hoftebenet 2|700]]G?:: Incisura ischiadica minor

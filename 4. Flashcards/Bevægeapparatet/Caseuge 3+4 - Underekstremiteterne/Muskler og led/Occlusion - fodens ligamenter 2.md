@@ -5,6 +5,7 @@
 
 ![[Fodens ligamenter 2|600]]A?:: [[Membrana interossea cruris]]
 ![[Fodens ligamenter 2|600]]B?:: [[Pars tibiotalaris posterior]]
+<!--SR:!2026-11-12,1,230-->
 ![[Fodens ligamenter 2|600]]C?:: [[Tendo calcaneus]]
 ![[Fodens ligamenter 2|600]]D?:: [[Lig. tibiofibulare posterius]]
 ![[Fodens ligamenter 2|600]]E?:: [[Lig. talofibulare posterius]]
