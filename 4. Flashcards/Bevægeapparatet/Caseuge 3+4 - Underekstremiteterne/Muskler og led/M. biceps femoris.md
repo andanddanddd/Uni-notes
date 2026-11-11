@@ -23,6 +23,7 @@
 - Hofteekstension
 - Knæfleksion
 - Udadrotation af underben ved bøjet knæ
+<!--SR:!2026-11-14,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. biceps femoris?

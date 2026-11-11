@@ -15,6 +15,7 @@
 
 ### Insertion
 - Hvor har m. palmaris brevis insertion?:: Huden ved hyothenar
+<!--SR:!2026-11-15,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. palmaris brevis?

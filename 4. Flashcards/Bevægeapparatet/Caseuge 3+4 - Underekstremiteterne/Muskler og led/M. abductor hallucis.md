@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. abductor hallucis?:: Medialt på tuber calcanei (se [[Calcaneus]])
+<!--SR:!2026-11-15,4,270-->
 #### Insertion
 - Hvor har m. abductor hallucis insertion?:: Basis af phalinx proximale I
 

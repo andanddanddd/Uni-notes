@@ -7,5 +7,6 @@
 - [[Ossa tarsi]]
 - [[Ossa metatarsalis]]
 - [[Ossa digitorum pedis]]
+<!--SR:!2026-11-14,3,250-->
 
 [[Occlusion - fodens knogler]]

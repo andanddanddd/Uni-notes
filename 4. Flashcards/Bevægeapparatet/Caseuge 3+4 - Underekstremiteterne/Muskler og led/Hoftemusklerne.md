@@ -8,6 +8,7 @@
 - [[M. gluteus medius]]
 - [[M. gluteus minimus]]
 - [[M. tensor fasciae latea]]
+<!--SR:!2026-11-15,4,270-->
 
 - Hvad hedder hofteledets 5 små udadrotatorer?
 ?
@@ -16,6 +17,7 @@
 - [[Mm gemelli]]
 - [[M. quadratus femoris]]
 - [[M. obturatus externus]]
+<!--SR:!2026-11-14,3,250-->
 
 [[Occlusion længdemuskel 1]]
 [[Occlusion - hofte anatomi 1]]

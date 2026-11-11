@@ -12,7 +12,7 @@
 
 ### Ledest strukture
 - Hvad hedder ligamenterne der holder articulatio acromioclaviculare sammen?:: [[ligamentym acromioclaviculare]] og [[ligamentum coracoclaviculare]]
-<!--SR:!2026-11-11,1,230-->
+<!--SR:!2026-11-13,2,230-->
 
 ### Funktion
 

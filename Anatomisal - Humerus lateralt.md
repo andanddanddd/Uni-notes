@@ -9,6 +9,7 @@
 ![[Pasted image 20261111102941.png]]5?:: Ulna
 ![[Pasted image 20261111102941.png]]6?:: Membrana interossea
 ![[Pasted image 20261111102941.png]]7?:: Humerus
+<!--SR:!2026-11-15,4,270-->
 ![[Pasted image 20261111102941.png]]8?:: Capsula articularis
 ![[Pasted image 20261111102941.png]]9?:: Capitulum humeri
 ![[Pasted image 20261111102941.png]]10?:: Lig?:: anulare radii

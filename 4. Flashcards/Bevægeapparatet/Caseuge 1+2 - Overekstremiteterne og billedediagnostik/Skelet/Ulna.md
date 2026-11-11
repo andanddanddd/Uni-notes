@@ -49,4 +49,4 @@
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis
 <!--SR:!2026-12-05,26,270-->
 ![[Ulna anatomi 1]]F?:: Caput ulnae
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-07,57,310-->

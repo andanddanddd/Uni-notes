@@ -10,6 +10,7 @@
 - Hvor i foderoden er ossa cuniformia?:: Distal række
 <!--SR:!2026-11-27,16,290-->
 - Hvilken underbensknogle tilhører ossa cuniformia?:: [[Tibia]]
+<!--SR:!2026-11-15,4,270-->
 #### Form og størrelse
 
 ### Relationer

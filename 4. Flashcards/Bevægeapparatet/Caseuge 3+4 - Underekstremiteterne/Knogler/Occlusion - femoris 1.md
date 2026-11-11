@@ -20,6 +20,7 @@
 <!--SR:!2026-11-18,9,250-->
 ![[Femoris 1|600]]K?:: Linea aspera
 ![[Femoris 1|600]]L?:: Labium mediale
+<!--SR:!2026-11-15,4,270-->
 ![[Femoris 1|600]]M?:: Tuberculum adductorium
 <!--SR:!2026-11-18,7,250-->
 ![[Femoris 1|600]]N?:: Fossa trochanterica

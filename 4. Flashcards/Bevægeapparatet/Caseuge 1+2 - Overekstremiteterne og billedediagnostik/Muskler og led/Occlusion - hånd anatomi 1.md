@@ -4,6 +4,7 @@
 
 
 ![[Hånd anatomi 1]]A?:: [[Lig. metacarpale transversum superficiale]]
+<!--SR:!2026-11-14,3,250-->
 ![[Hånd anatomi 1]]B?:: Chiasma tendineum
 ![[Hånd anatomi 1]]C?:: [[M. flexor digitorum superficialis]] (sene)
 <!--SR:!2026-11-18,14,290-->

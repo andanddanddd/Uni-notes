@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. brachioradialis insertion?:: Processus styloideus radii (se [[Radius]])
-<!--SR:!2026-11-10,11,270-->
+<!--SR:!2026-12-11,30,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. brachioradialis?:: Fleksion af albuen samt "kantstilling" af hånd, dvs midt mellem pronation og supination (vær opmærksom på den grupperes som en ekstensor)
