@@ -1,13 +1,14 @@
 #flashcards/5/Bevægeapparatet 
 
+![[Pasted image 20261111103302.png]]
 
-1?:: Epicondylus lateralis
-2?:: Lig?:: anulare radii
-3?:: Membrana interossea
-4?:: Radius
-5?:: Humerus
-6?:: Fossa olecrani
-7?:: Epicondylus medialis
-8?:: Capsula articularis
-9?:: Olecranon
-10?:: Ulna
+![[Pasted image 20261111103321.png]]1?:: Epicondylus lateralis
+![[Pasted image 20261111103321.png]]2?:: Lig?:: anulare radii
+![[Pasted image 20261111103321.png]]3?:: Membrana interossea
+![[Pasted image 20261111103321.png]]4?:: Radius
+![[Pasted image 20261111103321.png]]5?:: Humerus
+![[Pasted image 20261111103321.png]]6?:: Fossa olecrani
+![[Pasted image 20261111103321.png]]7?:: Epicondylus medialis
+![[Pasted image 20261111103321.png]]8?:: Capsula articularis
+![[Pasted image 20261111103321.png]]9?:: Olecranon
+![[Pasted image 20261111103321.png]]10?:: Ulna
