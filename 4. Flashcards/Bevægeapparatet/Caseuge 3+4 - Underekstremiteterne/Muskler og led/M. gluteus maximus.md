@@ -17,7 +17,7 @@
 - Bagsiden af [[Os sacrum]]
 - Bagsiden af [[Os coccygix]]
 - [[Lig. sacrotuberale]]
-<!--SR:!2026-11-11,2,230-->
+<!--SR:!2026-11-17,5,230-->
 
 ### Insertion
 - Hvor har m. gluteus maximus insertion?:: Tuberositas glutea ossis femoris (se [[Femoris]]) samt [[Tractus iliotibialis]]

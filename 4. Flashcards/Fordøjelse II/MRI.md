@@ -25,4 +25,4 @@ Man måler vist på hvornår spin vender tilabge til uordnet
 <!--SR:!2026-11-21,17,250-->
 
 - Hvilke dele af bevægeapparatet visualiseres af MRI?:: Ødemer, amrv, ledbånd (muskelskade) diskus
-<!--SR:!2026-11-12,10,270-->
+<!--SR:!2026-12-21,39,290-->

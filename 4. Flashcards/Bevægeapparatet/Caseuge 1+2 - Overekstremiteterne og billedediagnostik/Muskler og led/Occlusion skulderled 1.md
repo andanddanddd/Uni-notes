@@ -8,7 +8,7 @@
 ![[Skulderled 1|600]]C?:: Bursa subdeltoidea
 ![[Skulderled 1|600]]D?:: [[M. infraspinatus]]
 ![[Skulderled 1|600]]E?:: [[M. teres minor]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->
 ![[Skulderled 1|600]]F?:: [[Ligamenta glenohumeralia]]
 ![[Skulderled 1|600]]G?:: [[Ligamentum coracoacrominale]]
 <!--SR:!2026-11-27,16,290-->

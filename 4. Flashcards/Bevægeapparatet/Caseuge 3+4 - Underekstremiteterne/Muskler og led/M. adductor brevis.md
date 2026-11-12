@@ -13,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. adductor brevis?:: Ramus inf ossis pubis (se [[Os pubis]])
-<!--SR:!2026-11-12,1,190-->
+<!--SR:!2026-11-14,2,190-->
 #### Insertion
 - Hvor har m. adductor brevis insertion?:: Linea aspara (se [[Femoris]])
 <!--SR:!2026-11-13,2,230-->

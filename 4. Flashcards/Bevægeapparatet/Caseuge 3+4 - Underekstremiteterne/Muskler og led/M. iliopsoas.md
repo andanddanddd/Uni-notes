@@ -26,7 +26,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. iliopsoas?:: Flexion af hofteledet (vigtigste flexor)
-<!--SR:!2026-11-12,3,250-->
+<!--SR:!2026-11-23,11,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. iliopsoas?
