@@ -19,3 +19,4 @@
 
 [[Anatomisal - scapula forfra]]
 [[Anatomisal - Scapula bagfra]]
+[[Anatomisal - Skulder bagfra]]
