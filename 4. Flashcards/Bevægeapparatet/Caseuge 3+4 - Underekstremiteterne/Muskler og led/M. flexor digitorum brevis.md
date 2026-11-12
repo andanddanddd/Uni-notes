@@ -4,14 +4,14 @@
 ### Lokation
 - Hvor er m. flexor digitorum brevis overordnet?:: Den centrale loge af foden
 <!--SR:!2026-11-15,4,270-->
-- Hvor dybt ligger m. flexor digitorum brevis?
+- Hvor dybt ligger m. flexor digitorum brevis?:: Superficielt
 
 ### Form
 - Hvilken form har m. flexor digitorum brevis?
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. flexor digitorum brevis?:: Tuber calcanei og [[Aponeurosis plantaris]]
+- Hvor udspringer m. flexor digitorum brevis?:: Tuber calcanei (forsiden) og [[Aponeurosis plantaris]] (profund flade)
 #### Insertion
 - Hvor har m. flexor digitorum brevis insertion?:: Phalanx media af de 4 laterale tær (2 snipper så senen fra [[M. flexor digitorum longus]] kan komme igennem)
 - 

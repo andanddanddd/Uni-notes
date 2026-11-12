@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. flexor digiti minimi brevis overordnet?:: Lilletåens muskelgruppe
-- Hvor dybt ligger m. flexor digiti minimi brevis?
+- Hvor dybt ligger m. flexor digiti minimi brevis?:: 
 
 ### Form
 - Hvilken form har m.  flexor digiti minimi brevis?
