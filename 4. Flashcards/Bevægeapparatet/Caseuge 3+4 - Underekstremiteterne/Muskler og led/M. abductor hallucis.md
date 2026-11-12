@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. abductor hallucis overordnet?:: Storetåens muskelloge
+- 
 - Hvor dybt ligger m. abductor hallucis?
 
 ### Form
@@ -10,12 +11,13 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. abductor hallucis?:: Medialt på tuber calcanei (se [[Calcaneus]])
+- Hvor udspringer m. abductor hallucis?:: Medialt på tuber calcanei (se [[Calcaneus]]) samt forsiden af retinaculum flexorum (fod)
 <!--SR:!2026-11-15,4,270-->
 #### Insertion
-- Hvor har m. abductor hallucis insertion?:: Basis af phalinx proximale I
+- Hvor har m. abductor hallucis insertion?:: Basis af phalinx proximale I (medialsiden)
 
 ### Funktion
+- Hvilket led stabiliseres af m. abductor hallucis?:: 1. tarsometatarsalled
 - Hvilke bevægelser udfører m. abductor hallucis?:: Abduction af storetåen
 <!--SR:!2026-11-15,4,270-->
 
