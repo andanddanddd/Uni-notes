@@ -23,9 +23,12 @@
 ?
 - [[M. abductor digiti minimi (fod)]]
 - [[M. flexor digiti minimi brevis]]
+- [[M. opponens digiti minimi (fod)]]
 
 - Hvilke muskler findes i fodens centrale loge?
 ?
 - [[M. flexor digitorum brevis]]
 - [[M. quadratus plantae]]
 - [[Mm. lumbricales (fod)]]
+
+- Hvad hedder musklerne der ligger inde mellem tærene?:: [[Mm. interossei (fod)]]
