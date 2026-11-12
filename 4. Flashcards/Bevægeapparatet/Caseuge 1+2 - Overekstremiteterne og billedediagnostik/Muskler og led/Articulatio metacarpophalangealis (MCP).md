@@ -3,9 +3,9 @@
 
 ### Ledtype
 - Hvilken ledtype er MCP?:: Indskrænket [[Kugleled]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->
 - Hvad menes med indskænket kugleled?:: At man kan bevæge fingrene i cirkler ved normalstilling men ikke hvis de i forvejen er flekteret
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->
 
 ### Ledflader
 - Hvilke ledflader består MCP af?:: Caput af os metacarpale (ledhoved) og basis af [[Phalinx proximalis]] (ledskål)

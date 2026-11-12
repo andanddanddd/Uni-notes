@@ -6,7 +6,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvad er de 3 overordnede dele af humerus?:: Skaftet og 2 ekstremiteter
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-13,62,310-->
 - Hvad kaldes skaftet af humerus?:: **Corpus humeri**
 <!--SR:!2026-11-27,16,290-->
 	- Hvilken form har den proxiamle del af corpus humeri?:: Cylinderformet
@@ -14,7 +14,7 @@
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
 <!--SR:!2026-11-13,16,290-->
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
-<!--SR:!2026-11-12,6,230-->
+<!--SR:!2026-12-02,20,250-->
 ##### Proximal extremitet
 - Hvad kaldes ledfladen på den proximale ekstremitet af humerus?:: [[Caput humeri]]
 <!--SR:!2026-11-16,14,290-->

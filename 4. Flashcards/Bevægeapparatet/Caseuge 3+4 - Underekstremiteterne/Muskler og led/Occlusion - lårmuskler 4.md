@@ -6,7 +6,7 @@
 ![[Lårmuskler 4|600]]A?:: [[M. gluteus maximus]]
 ![[Lårmuskler 4|600]]B?:: [[M. gracilis]]
 ![[Lårmuskler 4|600]]C?:: [[M. semitendinosus]]
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-13,1,210-->
 ![[Lårmuskler 4|600]]D?:: [[M. semimembranosus]]
 ![[Lårmuskler 4|600]]E? (hvilket hoved?):: [[M. gastrocnemius]] caput mediale
 ![[Lårmuskler 4|600]]F?:: [[Tractus iliotibialis]]

@@ -1,4 +1,4 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogle sidder incisura clavicularis på?:: [[Sternum]]
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->

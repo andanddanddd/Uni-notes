@@ -3,7 +3,7 @@
 - Hvad hedder underarmet 2 knogler?:: [[Radius]] og [[Ulna]]
 <!--SR:!2026-12-27,47,290-->
 - Hvilken underarmsknogle er længst?:: Ulna
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-11,60,310-->
 - Hvad hedder membranen der forbidner de 2 underarmsknogler?:: Membrana interossea
 <!--SR:!2026-11-14,15,290-->
 - Hvad hedder kanterne på de 2 underarmsknogler der forbindes af en membran?:: Margo interosseus
@@ -36,9 +36,9 @@
 ![[Underarmsknogler anatomi 2|600]]F?:: Tuberculum dorsale radii
 <!--SR:!2026-11-13,2,190-->
 ![[Underarmsknogler anatomi 2|600]]G?:: Incisura thochlearis
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-12,61,310-->
 ![[Underarmsknogler anatomi 2|600]]H?:: Caput radii
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-14,63,310-->
 ![[Underarmsknogler anatomi 2|600]]I?:: Collum radii
 <!--SR:!2026-11-13,16,290-->
 ![[Underarmsknogler anatomi 2|600]]J?:: Tuberositas radii

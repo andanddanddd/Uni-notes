@@ -14,7 +14,7 @@
 
 ### Insertion
 - Hvor har m. obturatus externus insertion?:: Fossa trochanterica (se [[Femoris]])
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-14,2,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. obturatus externus?

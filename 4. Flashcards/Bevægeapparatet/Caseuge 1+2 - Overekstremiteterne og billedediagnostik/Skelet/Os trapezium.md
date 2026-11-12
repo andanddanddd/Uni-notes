@@ -18,7 +18,7 @@
 ### Knogletype
 - Hvilken knogletype er os trapezium
 - Er os trapezium parret eller uparret?:: Parret
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-14,63,310-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

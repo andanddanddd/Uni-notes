@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. piriformis?:: Forfladen af [[Os sacrum]]
-<!--SR:!2026-11-12,1,210-->
+<!--SR:!2026-11-14,2,210-->
 
 ### Insertion
 - Hvor har m. piriformis insertion?:: Fascia lata og [[Tractus iliotibialis]]

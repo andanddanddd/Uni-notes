@@ -10,7 +10,7 @@
 ![[Hofte anatomi 1|700]]C?:: [[M. piriformis]]
 ![[Hofte anatomi 1|700]]D?:: [[Lig. sacrospinale]]
 ![[Hofte anatomi 1|700]]E?:: [[M. obturatorius internus]] og [[Mm gemelli]]
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-15,3,250-->
 ![[Hofte anatomi 1|700]]F?:: Tuber ischiadicum
 ![[Hofte anatomi 1|700]]G?:: [[N. pudendus]]
 ![[Hofte anatomi 1|700]]H?:: [[Lig. sacrotuberale]]

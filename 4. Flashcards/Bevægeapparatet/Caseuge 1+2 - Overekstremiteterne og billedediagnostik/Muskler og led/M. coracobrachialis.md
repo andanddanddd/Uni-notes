@@ -21,7 +21,7 @@
 
 ### Funktion
 - Hvilken funktion har m. coracobrachialis?:: Adduktion og flektion af skulderledet
-<!--SR:!2026-11-12,10,270-->
+<!--SR:!2026-12-08,26,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

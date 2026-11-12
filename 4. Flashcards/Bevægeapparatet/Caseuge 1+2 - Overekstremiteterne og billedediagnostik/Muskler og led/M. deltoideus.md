@@ -14,7 +14,7 @@
 
 ### Insertion
 - Hvor har m. deltoideus insersion?:: Tuberositas deltoidea (se [[Humerus]])
-<!--SR:!2026-11-12,10,270-->
+<!--SR:!2026-12-20,38,290-->
 
 ### Funktion
 - Hvor stærk er m. deltoideus?:: Den største og stærkest skuldermuskel

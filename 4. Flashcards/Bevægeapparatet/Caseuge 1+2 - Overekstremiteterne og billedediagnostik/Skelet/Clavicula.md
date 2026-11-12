@@ -29,9 +29,9 @@
 - Form og størrelse
 ### Ossifikation og heeling
 - Hvilken type ossifikation er clavicula lavet udfra?:: [[Endochondral ossifikation]]
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-10,59,310-->
 - Hvornår begynder clavicula at ossificere?:: 5-6 fosteruge (det er den første knogle der undergår ossifikation)
-<!--SR:!2026-11-11,14,290-->
+<!--SR:!2027-01-09,58,310-->
 ### Inspektion og palpation
 ### Klinik
 ![[clavicula anatomi 1.png]]

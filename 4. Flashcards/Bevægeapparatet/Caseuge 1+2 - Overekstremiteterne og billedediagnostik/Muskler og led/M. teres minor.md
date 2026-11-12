@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. teres minor?:: Øverste del af [[Scapula]]s lateralvæg
-<!--SR:!2026-11-08,9,250-->
+<!--SR:!2026-12-06,24,250-->
 
 ### Insertion
 - Hvor har m. teres minor insertion?:: Nederst (og bagerts) på tuberculum majoris humeri (se [[Humerus]])

@@ -54,4 +54,4 @@ Reflekser
 - Hvad sker med skulderens hvilepotition hvis m. trapezius lammes?:: Den falder nedad og fremad
 <!--SR:!2026-11-15,16,290-->
 - Hvilke bevægelser er svære/umuglige at lave hvis m. trapezius lammes?:: Udadrotation samt løft over hovedet
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-09,27,270-->

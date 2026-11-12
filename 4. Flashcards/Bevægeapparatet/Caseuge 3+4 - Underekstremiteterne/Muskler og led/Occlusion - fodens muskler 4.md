@@ -8,6 +8,6 @@
 ![[Fodens muskler 4|600]]B?:: [[M. flexor digiti minimi brevis]]
 ![[Fodens muskler 4|600]]C?:: [[Lig. plantare breve]]
 ![[Fodens muskler 4|600]]D?:: [[Lig. plantare longum]]
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-13,1,210-->
 ![[Fodens muskler 4|600]]E?:: [[M. flexor hallucis brevis]]
 ![[Fodens muskler 4|600]]F?:: [[M. adductor hallucis]] (caput obliquum)

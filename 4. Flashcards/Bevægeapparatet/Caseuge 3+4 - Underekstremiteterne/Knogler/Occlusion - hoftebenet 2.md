@@ -21,7 +21,7 @@
 ![[Hoftebenet 2|700]]J?:: Incisura acerabuli
 <!--SR:!2026-11-19,14,290-->
 ![[Hoftebenet 2|700]]K?:: Tuberculum iliacum
-<!--SR:!2026-11-12,10,270-->
+<!--SR:!2026-12-10,28,270-->
 ![[Hoftebenet 2|700]]L?:: Spina iliaca ant. sup 
 ![[Hoftebenet 2|700]]M?:: Spina iliaca ant. inf.
 <!--SR:!2026-11-25,15,290-->

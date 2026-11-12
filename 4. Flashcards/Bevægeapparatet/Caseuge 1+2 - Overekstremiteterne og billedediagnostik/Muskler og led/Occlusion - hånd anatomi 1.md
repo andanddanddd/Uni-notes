@@ -14,7 +14,7 @@
 ![[Hånd anatomi 1]]F?:: [[Retinaculum flexorum]]
 <!--SR:!2026-11-19,15,290-->
 ![[Hånd anatomi 1]]G?:: [[M. flexor pollicis longus]] (sene)
-<!--SR:!2026-11-12,10,270-->
+<!--SR:!2026-12-21,39,290-->
 ![[Hånd anatomi 1]]H?:: [[M. flexor digitorum profundus]] (sene)
 <!--SR:!2026-11-21,16,290-->
 

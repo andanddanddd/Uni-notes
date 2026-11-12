@@ -13,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. peroneus brevis?:: Distale del af [[Fibula]]s lateralflade
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-13,1,210-->
 #### Insertion
 - Hvor har m. peroneus brevis insertion?:: Bagerst på malleus lateralis (se [[Fibula]])
 

@@ -13,7 +13,7 @@
 <!--SR:!2026-11-27,16,290-->
 
 - Hvad er corpus ossis ischii?:: Delen der binder til de andre "knogler" af [[Os coxae]] (acetabulum)
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->
 - Hvad er ramus ossis oschii overordnet?:: Den tyndere del af af [[Os ischii]] der binder til [[Os pubis]]
 <!--SR:!2026-11-26,15,290-->
 

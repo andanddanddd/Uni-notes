@@ -11,11 +11,11 @@
 
 ### Udspring
 - Hvor udspringer m. quadratus femoris?:: Lateralkanten af tuber ischiadicum (se [[Os ischii]])
-<!--SR:!2026-11-12,1,170-->
+<!--SR:!2026-11-14,2,190-->
 
 ### Insertion
 - Hvor har m. quadratus femoris insertion?:: Crista intertrochanterica (se [[Femoris]])
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-14,2,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. quadratus femoris?

@@ -7,13 +7,13 @@
 ![[Hånd(knogle) anatomi 1]]B?:: Ossa metacarpales
 <!--SR:!2026-12-26,47,290-->
 ![[Hånd(knogle) anatomi 1]]C?:: Ossa carpi
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-14,63,310-->
 ![[Hånd(knogle) anatomi 1]]D?:: Phalanz distalis
 <!--SR:!2026-11-13,16,290-->
 ![[Hånd(knogle) anatomi 1]]E?:: Phalanx media
 <!--SR:!2026-11-19,14,290-->
 ![[Hånd(knogle) anatomi 1]]F?:: Phalanx proximalis
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-14,63,310-->
 ![[Hånd(knogle) anatomi 1]]G?:: Phalanx distalis
 <!--SR:!2026-12-16,37,290-->
 ![[Hånd(knogle) anatomi 1]]H?:: Phalanz proximalis
@@ -61,7 +61,7 @@
 ![[Hånd(knogler) anatomi 2]]H?:: Digitus anularis
 <!--SR:!2026-11-19,14,290-->
 ![[Hånd(knogler) anatomi 2]]I?:: Digitus medius
-<!--SR:!2026-11-12,16,290-->
+<!--SR:!2027-01-15,64,310-->
 ![[Hånd(knogler) anatomi 2]]J?:: Index
 <!--SR:!2027-01-08,58,310-->
 ![[Hånd(knogler) anatomi 2]]K?:: Pollex

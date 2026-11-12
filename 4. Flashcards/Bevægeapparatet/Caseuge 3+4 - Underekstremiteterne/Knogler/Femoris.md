@@ -8,7 +8,7 @@
 
 #### Placering og orientering
 - Hvor er femoris overordnet?:: Låret
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->
 - Hvor i benene er femoris tættest på hinanden?:: De konvergere mod knæene
 #### Form og størrelse
 - Hvad hedder ledfladen i den proximale ende af femoris?:: [[Caput femoris]]
@@ -23,7 +23,7 @@
 <!--SR:!2026-11-15,4,270-->
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
-<!--SR:!2026-11-12,2,190-->
+<!--SR:!2026-11-16,4,190-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
 <!--SR:!2026-11-19,10,270-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
@@ -43,7 +43,7 @@
 	- Hvor er de 2 condylus sammenhængende?:: Fortil
 	- Hvad hedder strukturen der adskiller de 2 condylus bagtil?:: Fossa intercondylaris
 	- Hvad hedder de 2 fremspring på condylus medialis/lateralis?:: Epicondylus medialis/lateralis
-<!--SR:!2026-11-10,4,270-->
+<!--SR:!2026-11-28,16,290-->
 - Hvad kaldes ledfladen på den distale ekstremitet af femoris?:: [[Facies patellaris]]
 <!--SR:!2026-11-12,1,230-->
 

@@ -13,5 +13,5 @@
 ![[Pasted image 20261111100437.png]]9?:: Epicondylus lateralis
 ![[Pasted image 20261111100437.png]]10?:: Capsula articularis
 ![[Pasted image 20261111100437.png]]11?:: Processus coronoideus
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-14,2,230-->
 ![[Pasted image 20261111100437.png]]12?:: Crista supracondylaris lateralis

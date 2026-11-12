@@ -32,7 +32,7 @@
 - Hvad hedder fremspringet på bagsiden af scapula?:: Spina scapulae
 <!--SR:!2026-12-07,28,270-->
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-12,61,310-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
 <!--SR:!2026-11-17,15,290-->
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
@@ -73,7 +73,7 @@
 ![[Scapula Anatomi 1|700]]E?:: Angulus superior
 <!--SR:!2026-11-21,16,290-->
 ![[Scapula Anatomi 1|700]]F?:: Anhulus lateralis
-<!--SR:!2026-11-09,11,270-->
+<!--SR:!2026-12-12,30,270-->
 ![[Scapula Anatomi 1|700]]G?:: Cavitas glenoidalis
 <!--SR:!2026-11-12,16,290-->
 ![[Scapula Anatomi 1|700]]H?:: Collum scapulae
@@ -85,7 +85,7 @@
 ![[Scapula Anatomi 1|700]]K?:: Angulus inferior
 <!--SR:!2027-01-07,57,310-->
 ![[Scapula Anatomi 1|700]]L?:: Margo medialis
-<!--SR:!2026-11-12,15,290-->
+<!--SR:!2027-01-11,60,310-->
 ![[Scapula Anatomi 1|700]]M?:: Fossa supraspinata
 ![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-26,24,270-->

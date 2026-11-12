@@ -18,7 +18,7 @@
 - [[M. peroneus tertius]]
 
 - Hvad hedder de 2 retinakler der nedbinder musklerne i underbenets fibulare muskelgruppe?::  [[Peroneerretinaklerne (øvre og nedre)]]
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-15,3,250-->
 - Hvilke muskler er i underbenets fibulare/peroneere muskelgruppe?
 ?
 - [[M. peroneus longus]]

@@ -20,7 +20,7 @@
 #### Insertion
 - Hvor har m. quadriceps femoris insertion?:: Tuberositas tibiae
 - Hvad hedder senen der binder til tuberositas tibia?:: Ligamentum patellae
-<!--SR:!2026-11-12,1,210-->
+<!--SR:!2026-11-14,2,210-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. quadriceps femoris?:: Primært ekstension af knæledet (se de individulle dele)
