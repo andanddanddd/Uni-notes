@@ -14,3 +14,8 @@
 [[Anatomisal - Bækken+lårben forfra]]
 [[Anatomisal - Bækken+lårben fra siden]]
 [[Anatomisal - Bøkken+lårben indefra]]
+[[Anatomisal - Bækken+lårben bagfra]]
+
+
+[[Anatomisal - scapula forfra]]
+[[Anatomisal - Scapula bagfra]]
