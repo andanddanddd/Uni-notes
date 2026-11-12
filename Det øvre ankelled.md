@@ -14,6 +14,11 @@
 - Hvilke 2 strukture danner ledlæber til det øvre ankelled?:: [[Lig. tibiofibulare anterius]] og [[Lig. tibiofibulare posterius]]
 - Hvilke strukture sikre at det øvre ankelled ikke bevæger sig fra side til side?:: Malleoserne og de kollaterale ligamenter 
 - Hvad kaldes det mediale kollaterale ligament i det øvre ankelled?:: [[Lig. deltoideum]]
+- Hvad kaldes de 3 laterale kollaterale ligamenter i det øvre ankelled?
+?
+- [[Lig. talofibulare anterius]]
+- [[Lig. talofibulare posterius]]
+- [[Lig. calcaneofibulare]]
 
 ### Funktion
 - Hvilke bevægelser kan det øvre ankelled lave?:: Fleksion-ekstension (dorsalfelktion-plantarfleksion)
