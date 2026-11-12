@@ -10,3 +10,7 @@
 [[Anatomisal - Albue]]
 [[Anatomisal - Humerus lateralt]]
 [[Anatomisal - Humerus bagfra]]
+
+[[Anatomisal - Bækken+lårben forfra]]
+[[Anatomisal - Bækken+lårben fra siden]]
+[[Anatomisal - Bøkken+lårben indefra]]
