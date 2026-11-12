@@ -4,7 +4,7 @@ Aktiv "range of motion" = de bevægelser pt selv kan lave
 Passiv "range of motion" = de bevægelser du kan lave på en anden
 Meget bindevæv i axilregionen så nerver og kar kan bevæge sig sammen med armen
 
-![[Overekstremiteternes skelet]]
+[[Overekstremiteternes skelet]]
 
 ![[Armen]]
 
@@ -17,3 +17,5 @@ Meget bindevæv i axilregionen så nerver og kar kan bevæge sig sammen med arme
 ![[Underarmen]]
 
 ![[Hånden]]
+
+![[Armens kar og nervefosyning]]

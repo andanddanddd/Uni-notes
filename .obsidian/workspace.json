@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Syndesmosis tibiofibularis.md",
+                "file": "A. ulnaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syndesmosis tibiofibularis"
+              "title": "A. ulnaris"
             }
           },
           {
@@ -253,11 +253,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "1ffef7c50c2cca65",
   "lastOpenFiles": [
+    "A. brachialis.md",
+    "A. ulnaris.md",
+    "A. axillaris.md",
+    "Armens kar og nervefosyning.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Syndesmosis tibiofibularis.md",
     "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Skulder bagfra.md",
     "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Scapula bagfra.md",
@@ -288,11 +295,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. talofibulare anterius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. deltoideum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. tibiofibulare anterius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Lig. tibiofibulare posterius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Planta pedis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Mm. interossei (fod).md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. opponens digiti minimi (fod).md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. flexor digiti minimi brevis.md",
     "Billeder/Bevægeapparatet/Anatomisal",
     "4. Flashcards/Bevægeapparatet/Anatomisal",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
