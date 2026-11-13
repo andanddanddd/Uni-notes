@@ -11,3 +11,7 @@
 	- [ ] Atleter bliver typisk oppereret for ACL-akder men "normale mennekser" kan typisk klare sig med genoptræning
 - [ ] Man kan have dårligt gang uden vi umidlbart kan spotte det med vores øjne
 - [ ] Coxalgisk gang er en form for smertegang, bare specifikt i hoften
+- [ ] Co-kontration = felksor og ekstensor (eller andre modsatrettede muskler) spændes på en gang
+	- [ ] Det giver meget stabilitet
+	- [ ] Hvis det sker for meget kan der ikek ske bevægelse (eks ved hemiplegisk gang, her er benet helt stivt så hoften kompensere og laver en form for circumduction af benet)
+- [ ] Parkinsonisk gang kan resultere i freezing altså at de går i stå særlig hvis de skal ændre retning
