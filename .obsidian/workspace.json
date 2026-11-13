@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V. femoralis.md",
+                "file": "N. iliohypogastricus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V. femoralis"
+              "title": "N. iliohypogastricus"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a. axil",
+                "query": "armens kar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,10 +246,14 @@
   },
   "active": "4ebdaf25ff5533c9",
   "lastOpenFiles": [
+    "Plexus lumbalis.md",
+    "N. iliohypogastricus.md",
+    "Benets kar og nerveforsyning.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/A. axillaris.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Armens kar og nervefosyning.md",
+    "V. saphena parva.md",
     "V. poplitea.md",
     "V. femoralis.md",
-    "V. saphena parva.md",
-    "Benets kar og nerveforsyning.md",
     "V. saphena magna.md",
     "Arcus plantaris.md",
     "A. plantaris lateralis.md",
@@ -263,14 +268,10 @@
     "A. circumflexa femoris medialis.md",
     "A. profunda femoris.md",
     "Aa. perforantes.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/A. axillaris.md",
     "A. obturatoria.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Låret.md",
     "A. glutea superior.md",
     "A. glutea inferior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Hoftemusklerne.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitet – Kliniske problemstil-linger.md",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261113_Col_Regional anatomy_Tong Tong.pdf",
