@@ -4,7 +4,7 @@
 - Udover bevægelse hvilken funktion har muskerne i thenar og hypothenar?:: Danne trykpude på gribefladen (polstring)
 <!--SR:!2026-11-22,16,290-->
 - Hvad hedder strukturen sener går igennem fra underarmen til palma manus?:: [[Canalis carpi (carpaltunnelen)]]
-<!--SR:!2026-11-13,11,270-->
+<!--SR:!2026-12-26,43,290-->
 - Hvad kaldes den store "seneplade" på håndfladen?:: [[Aponeurosis palmaris]]
 <!--SR:!2026-11-14,12,270-->
 - Hvad kaldes seneskedehinderne omkring fleksorene i fingerene?:: [[Vaginae synovialis]]

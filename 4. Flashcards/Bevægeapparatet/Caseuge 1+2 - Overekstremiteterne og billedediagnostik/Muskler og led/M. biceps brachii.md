@@ -18,7 +18,7 @@
 - Hvor udspringer caput breve?:: Processus corocoideus (se [[Scapula]])
 <!--SR:!2026-12-04,23,250-->
 - Hvor udspringer caput longum henne?:: Tuberculum supraglenoidale (se [[Scapula]])
-<!--SR:!2026-11-10,0,150-->
+<!--SR:!2026-11-15,2,150-->
 
 ### Insertion
 - Hvad hedder de 2 sener som biceps bruger til insertion?:: Bicepssenen og bicepsaponeurosen

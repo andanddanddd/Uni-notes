@@ -14,7 +14,7 @@
 <!--SR:!2026-11-23,12,270-->
 ### Insertion
 - Hvor har m. subclavicus insersion?:: [[Clavicula]]
-<!--SR:!2026-11-13,14,290-->
+<!--SR:!2026-12-26,43,290-->
 
 ### Funktion
 - Hvilken funktion har m. subclavicus?:: Trække [[Clavicula]] medialt nedad

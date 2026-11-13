@@ -253,12 +253,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "750616f935318b58",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/V. mediane cubiti.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. radialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Plexus brachialis.md",
@@ -268,7 +268,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. musculocutaneus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Armens kar og nervefosyning.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/V. axillaris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/V. mediane cubiti.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/V. basilica.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/V. cephalica.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Arcus palmaris profundus.md",
@@ -304,7 +303,6 @@
     "Externe dokumenter/Fordøjelse II/mso664C.tmp",
     "Externe dokumenter/Fordøjelse II/mso3DA5.tmp",
     "Externe dokumenter/Fordøjelse II/~$Slides - Malnut_malabsorption_stud ny .2026.ppt.pptx",
-    "Externe dokumenter/Fordøjelse II/Slides - Malnut_malabsorption_stud (gammel).pdf",
     "Untitled.canvas"
   ]
 }

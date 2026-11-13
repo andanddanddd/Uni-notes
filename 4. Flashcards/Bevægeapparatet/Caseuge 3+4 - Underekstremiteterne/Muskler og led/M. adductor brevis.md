@@ -16,7 +16,7 @@
 <!--SR:!2026-11-14,2,190-->
 #### Insertion
 - Hvor har m. adductor brevis insertion?:: Linea aspara (se [[Femoris]])
-<!--SR:!2026-11-13,2,230-->
+<!--SR:!2026-11-18,5,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor brevis?:: Adduction af hoften

@@ -3,7 +3,7 @@
 - Hvilken knogle er cavitas glenoidalis på?:: [[Scapula]] (angulus lateralis)
 <!--SR:!2027-01-08,58,310-->
 - Hvilken ledflade articulere cavitas glenoidalis med?:: [[Caput humeri]]
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-18,66,310-->
 
 - Hvor på cavitas glenoidalis findes ru områder?:: Øverste og nederste kant
 <!--SR:!2026-11-15,4,270-->

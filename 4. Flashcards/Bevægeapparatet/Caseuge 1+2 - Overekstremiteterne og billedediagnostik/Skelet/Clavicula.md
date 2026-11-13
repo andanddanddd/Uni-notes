@@ -9,7 +9,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overordnet form har clavicula?:: S-formet
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-19,67,310-->
 - Hvilke 2 ledflader har clavicula?
 ?
 - [[Facies articularis acrominalis]]
@@ -19,7 +19,7 @@
 ### Relationer
 #### Led
 - Hvilke knogler danner clavicula led med:: [[Scapula]] og [[Sternum]]
-<!--SR:!2026-11-12,16,290-->
+<!--SR:!2027-01-15,63,310-->
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
