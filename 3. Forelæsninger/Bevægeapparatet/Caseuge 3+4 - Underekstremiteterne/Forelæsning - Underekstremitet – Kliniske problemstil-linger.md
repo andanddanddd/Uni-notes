@@ -15,3 +15,6 @@
 	- [ ] Det giver meget stabilitet
 	- [ ] Hvis det sker for meget kan der ikek ske bevægelse (eks ved hemiplegisk gang, her er benet helt stivt så hoften kompensere og laver en form for circumduction af benet)
 - [ ] Parkinsonisk gang kan resultere i freezing altså at de går i stå særlig hvis de skal ændre retning
+
+
+- [ ] Proprioceptio
