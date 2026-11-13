@@ -5,5 +5,5 @@
 ![[Hofte anatomi 3]]A?:: [[M. gluteus maximus]]
 <!--SR:!2026-11-25,16,290-->
 ![[Hofte anatomi 3]]B?:: [[M. tensor fasciae latae]]
-<!--SR:!2026-11-13,2,230-->
+<!--SR:!2026-11-20,7,250-->
 ![[Hofte anatomi 3]]C?:: [[Tractus iliotibialis]]

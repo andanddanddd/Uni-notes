@@ -15,6 +15,7 @@
 - Hvad kaldes de intraarticulære ligamenter i knæet?:: Korsbånd
 - Hvad hedder korsbåndene på latin?:: [[Ligamenta cruciata]]
 - Hvad hedder ligamenterne på siderne af knæet?:: [[Lig. collaterale fibulare]] og [[Lig. collaterlae tibiale]]
+<!--SR:!2026-11-17,4,270-->
 - Hvad hedder ligamentet der forstærker knæets kapsel?:: [[Lig. coronaria]]
 - Hvad hedder knæledets største bursa og hvor er dne?:: Recessus suprapatellaris, den ligger under quadricepssenen
 

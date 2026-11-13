@@ -15,5 +15,6 @@
 ![[Skulderled 1|600]]H?:: Processus coracoideus
 ![[Skulderled 1|600]]I?:: [[Ligamenta coracohumerale]]
 ![[Skulderled 1|600]]J?:: [[M. subscapularis]]
+<!--SR:!2026-11-17,4,270-->
 ![[Skulderled 1|600]]K?:: Bursa subtendinea m. subscapularis
 <!--SR:!2026-11-14,5,230-->

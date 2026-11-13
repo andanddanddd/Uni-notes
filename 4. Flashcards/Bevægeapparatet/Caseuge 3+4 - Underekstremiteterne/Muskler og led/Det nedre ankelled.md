@@ -9,6 +9,7 @@
 ### Ledflader
 - Hvilke knogler består den bagerste del af den nedre ankelled af?:: [[Talus]] og [[Calcaneus]]
 - Hvilke knogler består den forste del af den nedre ankelled af?:: [[Talus]] og [[Calcaneus]]
+<!--SR:!2026-11-16,3,250-->
 
 ### Ledets strukture
 - Hvilken struktur opdeler den foreste og bagerste del af det nedre ankelled?:: Sinus tarsi

@@ -8,11 +8,11 @@
 
 ### Ledflader
 - Hvilke ledflader danner articulatio acromioclaviculare?:: [[Facies articularis acrominalis]] og [[Facies articularis clavicularis]]
-<!--SR:!2026-11-13,14,290-->
+<!--SR:!2027-01-10,58,310-->
 
 ### Ledest strukture
 - Hvad hedder ligamenterne der holder articulatio acromioclaviculare sammen?:: [[ligamentym acromioclaviculare]] og [[ligamentum coracoclaviculare]]
-<!--SR:!2026-11-13,2,230-->
+<!--SR:!2026-11-18,5,230-->
 
 ### Funktion
 

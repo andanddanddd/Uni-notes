@@ -10,7 +10,7 @@
 ![[Fodens knogler 1|600]]D?:: Calcaneus
 <!--SR:!2026-11-18,9,250-->
 ![[Fodens knogler 1|600]]E?:: Talus
-<!--SR:!2026-11-13,11,270-->
+<!--SR:!2026-12-26,43,290-->
 ![[Fodens knogler 1|600]]F?:: [[Os cuboideum]]
 ![[Fodens knogler 1|600]]G?:: Tuberositas ossis metatarsalis V
 <!--SR:!2026-11-14,3,250-->

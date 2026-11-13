@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder scapula på dansk?:: Skulderbladet
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-17,65,310-->
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale
@@ -48,7 +48,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er scapula?:: Flad knogle
-<!--SR:!2026-11-12,16,290-->
+<!--SR:!2027-01-16,64,310-->
 - Er scapula parret eller uparret?:: Parret
 <!--SR:!2026-11-21,16,290-->
 - Form og størrelse
@@ -65,7 +65,7 @@
 ![[Scapula Anatomi 1|700]]A?:: Acromion
 <!--SR:!2026-12-25,46,290-->
 ![[Scapula Anatomi 1|700]]B?:: Facies articularis clavicularis
-<!--SR:!2026-11-13,14,290-->
+<!--SR:!2026-12-25,42,290-->
 ![[Scapula Anatomi 1|700]]C?:: Processus coracoideus
 <!--SR:!2026-12-17,38,290-->
 ![[Scapula Anatomi 1|700]]D?:: Margo superior
@@ -75,11 +75,11 @@
 ![[Scapula Anatomi 1|700]]F?:: Anhulus lateralis
 <!--SR:!2026-12-12,30,270-->
 ![[Scapula Anatomi 1|700]]G?:: Cavitas glenoidalis
-<!--SR:!2026-11-12,16,290-->
+<!--SR:!2027-01-15,63,310-->
 ![[Scapula Anatomi 1|700]]H?:: Collum scapulae
 <!--SR:!2026-11-27,25,270-->
 ![[Scapula Anatomi 1|700]]I?:: Margo lateralis
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-16,64,310-->
 ![[Scapula Anatomi 1|700]]J?:: Costalis scapulae
 <!--SR:!2026-11-17,13,230-->
 ![[Scapula Anatomi 1|700]]K?:: Angulus inferior

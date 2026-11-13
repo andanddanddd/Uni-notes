@@ -33,7 +33,7 @@
 ![[Hoftebenet 1|600]]O?:: Incisura ischiadica major
 <!--SR:!2026-11-21,16,290-->
 ![[Hoftebenet 1|600]]P?:: Spina ischiadica
-<!--SR:!2026-11-13,3,250-->
+<!--SR:!2026-11-23,10,270-->
 ![[Hoftebenet 1|600]]Q?:: Incisura inschiadica minor
 <!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]R?:: Tuber ichiadicum

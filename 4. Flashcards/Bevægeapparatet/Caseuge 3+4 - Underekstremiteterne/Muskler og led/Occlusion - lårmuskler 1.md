@@ -9,14 +9,14 @@
 <!--SR:!2026-11-14,2,230-->
 ![[Lårmuskler 1|600]]E?:: [[Tractus iliotibialis]]
 ![[Lårmuskler 1|600]]F?:: [[M. rectus femoris]]
-<!--SR:!2026-11-13,2,210-->
+<!--SR:!2026-11-17,4,210-->
 ![[Lårmuskler 1|600]]G?:: [[M. vastus lateralis]]
 ![[Lårmuskler 1|600]]H?:: [[Lig. patellae]]
 ![[Lårmuskler 1|600]]I?:: Tuberositas tibiae
 ![[Lårmuskler 1|600]]J?:: [[M. pectineus]]
 <!--SR:!2026-11-15,4,190-->
 ![[Lårmuskler 1|600]]K?:: [[M. adductor longus]]
-<!--SR:!2026-11-13,2,170-->
+<!--SR:!2026-11-14,1,150-->
 ![[Lårmuskler 1|600]]L?:: [[M. gracilis]]
 <!--SR:!2026-11-14,3,250-->
 ![[Lårmuskler 1|600]]M?:: [[M. sartorius]]

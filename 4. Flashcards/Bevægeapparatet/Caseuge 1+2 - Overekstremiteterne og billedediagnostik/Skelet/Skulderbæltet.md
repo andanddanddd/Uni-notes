@@ -7,4 +7,4 @@
 - Hvad består den foreste del af skulderbæltet af?:: 2 [[Clavicula]]
 <!--SR:!2027-01-09,59,310-->
 - Hvad består den bagerste del af skulderbæltet af?:: 2 [[Scapula]]
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-18,66,310-->

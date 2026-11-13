@@ -15,11 +15,11 @@
 
 ### Insertion
 - Hvor har m. extensor carpi radialis longus insertion?:: Basis af os metacarpael II (pegefinger)
-<!--SR:!2026-11-13,4,210-->
+<!--SR:!2026-11-24,11,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis longus?:: Ekstension og radialdevition af håndledet
-<!--SR:!2026-11-12,10,270-->
+<!--SR:!2026-12-22,39,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

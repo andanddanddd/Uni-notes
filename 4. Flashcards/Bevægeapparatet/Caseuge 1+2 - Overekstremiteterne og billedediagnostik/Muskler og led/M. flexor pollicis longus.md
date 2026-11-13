@@ -12,11 +12,11 @@
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis longus?:: Forfladen af radius og membrana interossea
-<!--SR:!2026-11-13,7,210-->
+<!--SR:!2026-11-29,16,210-->
 
 ### Insertion
 - Hvor har m. flexor pollicis longus insertion?:: Phalanx distales på tommelfingeren (se [[Fingrene (skelet)]])
-<!--SR:!2026-11-09,10,270-->
+<!--SR:!2026-12-22,39,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis longus?:: Flekstion af tommelfingeren (alle led)

@@ -1,1 +1,1 @@
-#flashcards/5/Bevægeapparatet 
+#flashcards/5/Bevægeapparatet [[Slides - underekstreimteternes klniske problemstillinger.pdf]]

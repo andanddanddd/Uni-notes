@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. pectinus overordnet?:: Lårets mediale muskelgruppe
 - Hvor dybt ligger m. pectinus?:: Superficielt
+<!--SR:!2026-11-16,3,250-->
 
 ### Form
 - Hvilken form har m. pectinus?:: Flad firkantet
@@ -12,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. pectinus?:: Pecten ossis pubis (se [[Os pubis]])
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-15,2,230-->
 #### Insertion
 - Hvor har m. pectinus insertion?:: Linea pectinea (forlængelse af linea asparta se [[Femoris]]])
 <!--SR:!2026-11-16,5,230-->

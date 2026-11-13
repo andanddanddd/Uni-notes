@@ -10,7 +10,7 @@
 
 ### Form
 - Hvilken form har mm. interossei palmaries?:: Semipennante
-<!--SR:!2026-11-13,8,250-->
+<!--SR:!2026-12-11,28,270-->
 - Hvilken form har mm. interossei dorsalis?:: Pennante
 <!--SR:!2026-11-18,12,270-->
 

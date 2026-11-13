@@ -8,6 +8,7 @@
 ![[Pasted image 20261111095300.png]]6?:: [[Tibia]]
 ![[Pasted image 20261111095300.png]]7?:: Facies poplitea femoris
 ![[Pasted image 20261111095300.png]]8?:: Condylus lateralis femoris
+<!--SR:!2026-11-17,4,270-->
 ![[Pasted image 20261111095300.png]]9?:: [[Lig. collaterale fibulare]]
 ![[Pasted image 20261111095300.png]]10?:: Meniscus lateralis
 ![[Pasted image 20261111095300.png]]11?:: Caput fibulae

@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. gluteus minimus insertion?:: Forkanten af trochanter major (se [[Femoris]])
-<!--SR:!2026-11-13,3,250-->
+<!--SR:!2026-11-24,11,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. gluteus minimus?:: Inadrotation, og abduction

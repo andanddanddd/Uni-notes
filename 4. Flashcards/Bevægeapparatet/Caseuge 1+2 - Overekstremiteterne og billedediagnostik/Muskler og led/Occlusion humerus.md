@@ -6,13 +6,13 @@
 <!--SR:!2026-11-14,9,250-->
 
 ![[Humerus anatomi 1]]B?:: Tuberculum majus
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-18,66,310-->
 ![[Humerus anatomi 1]]C?::Tuberositas deltoidea
-<!--SR:!2026-11-13,4,190-->
+<!--SR:!2026-11-23,10,210-->
 ![[Humerus anatomi 1]]D?:: Epicondylus lateralis
 <!--SR:!2026-11-20,15,290-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
-<!--SR:!2026-11-13,11,270-->
+<!--SR:!2026-12-13,30,270-->
 ![[Humerus anatomi 1]]F?:: Margo lateralis
 <!--SR:!2026-11-17,15,290-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis

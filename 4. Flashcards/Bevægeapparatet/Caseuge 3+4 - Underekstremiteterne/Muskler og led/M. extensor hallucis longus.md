@@ -10,6 +10,7 @@
 
 ### Forløb
 - Hvilken kulisse går m. extensor hallucis longus igennem?:: 2. kulisse (se [[Retinaculum musculorum extensorum inferius]])
+<!--SR:!2026-11-14,1,230-->
 #### Udspring
 - Hvor udspringer m. extensor hallucis longus?:: Primært membrana interossea men lidt fra [[Fibula]]
 #### Insertion
@@ -18,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor hallucis longus?:: Ekstension af storetåen og dorsiflektion af foden
-<!--SR:!2026-11-13,3,250-->
+<!--SR:!2026-11-23,10,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. extensor hallucis longus?

@@ -6,7 +6,7 @@
 ![[Underfoden 1|700]]A?:: [[Mm. interossei plantares]]
 ![[Underfoden 1|700]]B?:: [[Lig. plantare longum]]
 ![[Underfoden 1|700]]C?:: [[M. peroneus longus]]
-<!--SR:!2026-11-13,1,210-->
+<!--SR:!2026-11-15,2,210-->
 ![[Underfoden 1|700]]D?:: [[Lig. plantare breve]]
 ![[Underfoden 1|700]]E?:: [[M. tibialis posterior]]
 ![[Underfoden 1|700]]F?:: [[Lig. calcaneonaviculare plantare]]

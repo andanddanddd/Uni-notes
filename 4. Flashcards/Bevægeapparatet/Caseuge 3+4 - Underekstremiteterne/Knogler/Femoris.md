@@ -45,7 +45,7 @@
 	- Hvad hedder de 2 fremspring på condylus medialis/lateralis?:: Epicondylus medialis/lateralis
 <!--SR:!2026-11-28,16,290-->
 - Hvad kaldes ledfladen på den distale ekstremitet af femoris?:: [[Facies patellaris]]
-<!--SR:!2026-11-12,1,230-->
+<!--SR:!2026-11-16,3,250-->
 
 ### Relationer
 #### Led
@@ -60,7 +60,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskife sker længdevækst af femoris?:: Den distale
-<!--SR:!2026-11-08,3,250-->
+<!--SR:!2026-11-22,9,250-->
 ### Inspektion og palpation
 ### Klinik
 

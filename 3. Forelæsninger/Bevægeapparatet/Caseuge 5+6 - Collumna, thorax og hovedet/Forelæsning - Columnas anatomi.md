@@ -1,1 +1,1 @@
-#flashcards/5/Bevægeapparatet 
+#flashcards/5/Bevægeapparatet[[Slides - 20261113_Col_Systematic Anatomy_Tong Tong.pdf]] [[Slides - 20261113_Col_Regional anatomy_Tong Tong.pdf]]

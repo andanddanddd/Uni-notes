@@ -28,5 +28,5 @@
 - Hvor på fingerne ses oftest sesamknogler?:: I ledet mellem os metacarpale I og phalinx proximalis  (tommenfingeren)
 <!--SR:!2026-12-23,43,290-->
 - Hvornår forbener sesamknoglerne i fingrene?:: Ved pubertetens start
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-19,67,310-->
 

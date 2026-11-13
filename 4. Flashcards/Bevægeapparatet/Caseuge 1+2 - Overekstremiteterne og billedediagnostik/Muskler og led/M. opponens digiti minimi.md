@@ -18,6 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. opponens digiti minimi?:: Opponation af lillefingeren
+<!--SR:!2026-11-17,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. opponens digiti minimi?:: [[N. ulnaris]]

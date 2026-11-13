@@ -13,3 +13,4 @@
 ![[Pasted image 20261111095655.png]]10?:: Art. interphalangealis proximalis V
 ![[Pasted image 20261111095655.png]]11?:: Phalanx media V
 ![[Pasted image 20261111095655.png]]12?:: Art. interphalangealis proximalis IV
+<!--SR:!2026-11-16,3,250-->

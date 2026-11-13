@@ -39,9 +39,9 @@
 
 ### Occlusion
 ![[Ulna anatomi 1]]A?:: Olecranon
-<!--SR:!2026-11-13,14,290-->
+<!--SR:!2027-01-08,56,310-->
 ![[Ulna anatomi 1]]B?:: Incisura trochlearis
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-16,64,310-->
 ![[Ulna anatomi 1]]C?:: Processus coronoideus
 <!--SR:!2026-11-26,24,270-->
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae

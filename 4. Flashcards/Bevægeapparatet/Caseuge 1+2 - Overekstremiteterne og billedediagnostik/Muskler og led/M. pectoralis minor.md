@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. pectoralis minor insersion?:: proccesus carocoideus scapulae (se [[Scapula]])
-<!--SR:!2026-11-13,8,250-->
+<!--SR:!2026-12-03,20,250-->
 
 ### Funktion
 - Hvilken funktion har m. pectoralis minor?:: Trække skulderbladet fremad og nedad ved inadrotation

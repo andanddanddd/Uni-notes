@@ -12,7 +12,7 @@
 	- Hvilken form har den proxiamle del af corpus humeri?:: Cylinderformet
 <!--SR:!2026-11-15,16,290-->
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
-<!--SR:!2026-11-13,16,290-->
+<!--SR:!2027-01-17,65,310-->
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea
 <!--SR:!2026-12-02,20,250-->
 ##### Proximal extremitet
@@ -30,7 +30,7 @@
 <!--SR:!2026-11-18,12,210-->
 ##### Distal extremitet
 - Hvad kaldes ledhovedet på den distale ekstremitet af humerus?:: [[Condylus humeri]]
-<!--SR:!2026-11-13,14,290-->
+<!--SR:!2027-01-09,57,310-->
 	- Hvor på den distale ekstremitet af humerus findes [[Condylus humeri]]?:: I midten
 <!--SR:!2026-11-15,16,290-->
 - Hvad kaldes de 2 fremspring på den distale ekstremitet af humerus?:: Epicondylus medialis/lateralis

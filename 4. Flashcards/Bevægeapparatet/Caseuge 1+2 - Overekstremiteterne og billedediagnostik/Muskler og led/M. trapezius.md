@@ -11,7 +11,7 @@
 <!--SR:!2026-11-14,15,290-->
 ### Udspring
 - Hvor udspringer m. trapezius overordnet fra?:: Os. occipitale samt rygraden
-<!--SR:!2026-11-13,14,290-->
+<!--SR:!2027-01-06,54,310-->
 - Hvor udspringer m. trapezius fra? (de specifikke strukture)
 ?
 - Linea nuchalis sup.

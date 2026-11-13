@@ -5,6 +5,7 @@
 - Hvilke spinalnerver samles til trunki i plexus brachialis?:: C5+C6 og C8+T1 (C7 fortsætter som sin egen trunki)
 - Had hedder de 3 trunki der danner plexus bracialis?:: Truncus sup. med. og inf.
 - Hvilke grene deler de 3 trunki sig i i plexus brachialis?:: En anterior og en posterior gren
+<!--SR:!2026-11-17,4,270-->
 - Hvad sker med de 6 grene i plexus brachialis i axillen?:: De samler sig til fasciculi
 - Hvad hedder de 3 fasciuli fra plexus brachialis?:: Fasciculus lat. med. og post.
 - Hvilke trunki/grene kommer fasciculus latralis fra?:: De foreste grene fra truncus sup. og med.
