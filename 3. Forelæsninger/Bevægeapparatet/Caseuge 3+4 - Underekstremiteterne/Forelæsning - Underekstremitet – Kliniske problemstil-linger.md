@@ -17,4 +17,9 @@
 - [ ] Parkinsonisk gang kan resultere i freezing altså at de går i stå særlig hvis de skal ændre retning
 
 
-- [ ] Proprioceptio
+- [ ] Proprioception er en de laf det somatosensoriske (slide 38)
+- [ ] Hoftesterategien kan korrigere for mere end ankelstrategien men skridtstragien kan kompensere for mest (slide 39)
+	- [ ] Ankelstrategien laver mest kraft nedad, de andre 2 laver kraft frem eller tilbage hvilket øger risikoen for fald
+	- [ ] Ældre bruger mest hofte og skridtsrategien hvilket øger risikoen for fald
+- [ ] Balance bliver værre under smerte
+	- [ ] Medmindre de har en laser på hovedet? (noget med at nogle sanser tager over for nogle andre, hvilket ældre ikke kan)
