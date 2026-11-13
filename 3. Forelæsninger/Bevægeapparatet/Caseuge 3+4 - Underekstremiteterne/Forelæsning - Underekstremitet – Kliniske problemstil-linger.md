@@ -8,4 +8,6 @@
 - [ ] Betyder excentrisk at en muskel aktivere og samtidig forlænges? Dvs den bremser (den kan vel godt forlænges uden aktiveres men så er det nok ikke excentrisk)
 - [ ] Det er sjældent at ACL bliver skadet alene (Jeg tror det er det kollaterale der også bliver skadet sammenmed, på slide 10 ligner dte det tibiale kollaterale ligament)
 	- [ ] Ektesion og fleksion er vist ok med skadet ACL det sker dog ufrivillig rotation og ab/adduction
-	- [ ] Atleter bliver typisk oppereret for ACL-akder men "normale mennekser" kan typisk klare sig med 
+	- [ ] Atleter bliver typisk oppereret for ACL-akder men "normale mennekser" kan typisk klare sig med genoptræning
+- [ ] Man kan have dårligt gang uden vi umidlbart kan spotte det med vores øjne
+- [ ] Coxalgisk gang er en form for smertegang, bare specifikt i hoften
