@@ -6,6 +6,7 @@
 <!--SR:!2026-11-15,4,270-->
 ![[Skulderled 1|600]]B?:: [[M. supraspinatus]]
 ![[Skulderled 1|600]]C?:: Bursa subdeltoidea
+<!--SR:!2026-11-20,4,270-->
 ![[Skulderled 1|600]]D?:: [[M. infraspinatus]]
 ![[Skulderled 1|600]]E?:: [[M. teres minor]]
 <!--SR:!2026-11-28,16,290-->

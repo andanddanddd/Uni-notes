@@ -23,6 +23,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan knæledet lave?:: Flektion-ekstension og rotation dog kun ved flektion
+<!--SR:!2026-11-20,4,270-->
 - Hvad hedder de 3 led knæledet dækker over?
 ?
 - [[Pars femoropatellaris]]
