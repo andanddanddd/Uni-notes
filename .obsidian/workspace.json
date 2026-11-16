@@ -12,75 +12,28 @@
             "id": "6c337e7cb0fcb430",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Bevægeapparatet/Overekstremiteter/Muskler/Hånd - anatomi 2.md"
               },
-              "icon": "lucide-file",
-              "title": "Atlas"
+              "icon": "excalidraw-icon",
+              "title": "Hånd - anatomi 2"
             }
           },
           {
-            "id": "4e6cfc0f8bca221b",
+            "id": "8fec54cf5ae3fc83",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md"
+                "file": "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens arterier 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Axis 1"
-            }
-          },
-          {
-            "id": "7fd2950614c987c0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Os sacrum 2"
-            }
-          },
-          {
-            "id": "c71b9abc8898ea96",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Os sacrum 1"
-            }
-          },
-          {
-            "id": "cde1bbcdd782845e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Ryggen/Ryghvirvler 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ryghvirvler 1"
+              "title": "Armens arterier 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -111,8 +64,7 @@
               "title": "Slides - underekstreimteternes klniske problemstillinger"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,54 +254,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6c337e7cb0fcb430",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
+    "Excalidraw/Bevægeapparatet/Overekstremiteter/Muskler/Hånd - anatomi 2.md",
+    "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens arterier 1.md",
+    "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver",
+    "Occlusion - armens arterier 1.md",
+    "armens arterier 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Armens kar og nervefosyning.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
+    "Billeder/Bevægeapparatet/Ryggen/os sacrum 2.png",
+    "Excalidraw/Bevægeapparatet/Ryggen/Ryghvirvler 1.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - ryghvirvler 1.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - atlas 1.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Atlas 1.md",
+    "Billeder/Bevægeapparatet/Ryggen/atlas 1.png",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ryghvirvler.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Axis.md",
-    "Occlusion - axis 1.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md",
-    "axis 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - axis 1.md",
+    "Billeder/Bevægeapparatet/Ryggen/axis 1.png",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os sacrum.md",
-    "Occlusion - os sacrum 2.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md",
-    "os sacrum 2.png",
-    "Occlusion - os sacrum 1.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md",
-    "os sacrum 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - os sacrum 2.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - os sacrum 1.md",
+    "Billeder/Bevægeapparatet/Ryggen/os sacrum 1.png",
     "Billeder/Bevægeapparatet/Ryggen/ryghvirvler 1.png",
     "Billeder/Bevægeapparatet/Ryggen",
-    "Occlusion - ryghvirver 2.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - ryghvirver 2.md",
     "Billeder/Bevægeapparatet/Ryggen/Pasted image 20261116130133.png",
     "Billeder/Bevægeapparatet/Ryggen/Pasted image 20261116130115.png",
     "Billeder/Bevægeapparatet/Ryggen/Pasted image 20261116130030.png",
     "Billeder/Bevægeapparatet/Ryggen/Pasted image 20261116130004.png",
-    "Occlusion - ryghvirvler 1.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Ryghvirvler 1.md",
     "Excalidraw/Bevægeapparatet/Ryggen",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columnas anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Os occipitale.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. trapezius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Skoliose.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Condyli occipitales.md",
-    "Os. occipitale.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlen.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coccygix.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledtappe.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Tværtappe.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Torntappe.md",
-    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Bækken+lårben bagfra.md",
-    "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - scapula forfra.md",
     "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",
     "Excalidraw/Bøger",
     "Excalidraw/New folder",
-    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261116114125.png",
-    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111102941.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver",
     "1. Fag/Untitled",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
-    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261113_Col_Regional anatomy_Tong Tong.pdf",
     "Untitled.canvas"
   ]
 }
