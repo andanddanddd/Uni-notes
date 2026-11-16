@@ -16,7 +16,7 @@
 	- Hvad hedder strukturen der "bærer" caput femoris?:: Collum femoris
 		- Hvor lang er collum femoris?:: 4-5 cm
 - Hvad kaldes vinklen mellem collum femoris og skaftet?:: Inklinationsvinklen
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-11-30,14,290-->
 	- Hvornår er inklinationsvinklen størst?:: Ved fødsel
 <!--SR:!2026-11-30,14,290-->
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes

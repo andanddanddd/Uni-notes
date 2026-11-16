@@ -6,6 +6,7 @@
 ![[Pasted image 20261112113647.png]]2?:: Acromion
 ![[Pasted image 20261112113647.png]]3?:: Ligg. glenohumeralia
 ![[Pasted image 20261112113647.png]]4?:: Margo lateralis
+<!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261112113647.png]]5?:: Humerus
 ![[Pasted image 20261112113647.png]]6?:: Angulus superior
 ![[Pasted image 20261112113647.png]]7?:: Lig.Transversum scapulae superius

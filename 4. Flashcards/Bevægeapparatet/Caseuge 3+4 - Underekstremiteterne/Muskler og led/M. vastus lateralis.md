@@ -10,6 +10,7 @@
 
 ### Forløb
 - Hvad kendetegner m. vastus lateralis' forløb lige efter udspringet?:: Den bevæger sig lateralt rundt om [[Femoris]]
+<!--SR:!2026-11-20,4,270-->
 #### Udspring
 - Hvor udspringer m. vastus lateralis?:: Linea aspara (og dens forlængelser) (se [[Femoris]])
 <!--SR:!2026-11-25,14,290-->

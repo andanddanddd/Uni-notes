@@ -7,4 +7,5 @@
 ![[Pasted image 20261112113841.png]]3?:: M. teres major
 ![[Pasted image 20261112113841.png]]4?:: M. latissimus dorsi![[Pasted image 20261112113841.png]]5?:: M. deltoideus, pars acromialis![[Pasted image 20261112113841.png]]6?:: M. deltoideus, pars spinalis
 ![[Pasted image 20261112113841.png]]7?:: M. triceps brachii
+<!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261112113841.png]]8?:: M. triceps brachii tendon

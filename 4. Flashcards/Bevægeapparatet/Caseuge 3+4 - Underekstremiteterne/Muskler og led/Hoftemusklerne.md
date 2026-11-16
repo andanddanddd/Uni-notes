@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er hoftemusklerne overordnet?:: Muskler der går fra bækkenet til den proximale del af lårbenet
+<!--SR:!2026-11-20,4,270-->
 - Hvad hedder "lændemusklen" på latin?:: [[M. iliopsoas]]
 - Hvad hedder hoftens 4 sædemuskler?
 ?

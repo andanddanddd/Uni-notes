@@ -11,4 +11,4 @@
 ![[Underbenets muskler 3|600]]E?:: [[M. plantaris]]
 ![[Underbenets muskler 3|600]]F?:: [[M. gastrocnemius]]
 ![[Underbenets muskler 3|600]]G?:: [[M. soleus]]
-H?:: [[M. peroneus longus]]
+![[Underbenets muskler 3|600]]H?:: [[M. peroneus longus]]

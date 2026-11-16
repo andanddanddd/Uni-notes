@@ -15,6 +15,7 @@
 #### Insertion
 - Hvor har m. triceps surae insertion?:: Tuber calcanei (se [[Calcaneus]])
 - Hvilken sene bruger m. triceps surae til insertion?:: [[Tendo calcaneus]]
+<!--SR:!2026-11-19,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. triceps surae?:: Plantarflektion (kraftig)

@@ -13,6 +13,7 @@
 - Corpus ossis pubis
 - Ramus inf. ossis pubis
 - Ramus sup ossis pubis
+<!--SR:!2026-11-20,4,270-->
 
 - Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen
 <!--SR:!2026-11-21,16,290-->
