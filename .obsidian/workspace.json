@@ -9,35 +9,20 @@
         "dimension": 38.75667799902865,
         "children": [
           {
-            "id": "4ebdaf25ff5533c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Fag/Statistik.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Statistik"
-            }
-          },
-          {
             "id": "6c337e7cb0fcb430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hvirvelbuen.md",
+                "file": "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Halshvirvler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hvirvelbuen"
+              "title": "Halshvirvler"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d6a845a27b882733",
@@ -260,20 +245,24 @@
   },
   "active": "6c337e7cb0fcb430",
   "lastOpenFiles": [
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ryghvirvler.md",
-    "Hvirvelbuen.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlen.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Spongiøst knoglevæv.md",
     "Hvirvellegemet.md",
+    "Lændehvirver.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ryghvirvler.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Thoraxhvirvler.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Halshvirvler.md",
+    "Hvirvelbuen.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Torntappen.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Tværtappene.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledtappene.md",
+    "1. Fag/Statistik.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Spongiøst knoglevæv.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlens bøjninger.md",
     "Skoliose.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlens båndskiver.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coccygix.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Thoraxhvirvler.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Halshvirvler.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os sacrum.md",
     "Bækkenhvirvler.md",
-    "Lumbalhvirver.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Axis.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columnas anatomi.md",
@@ -283,12 +272,8 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/A. circumflexa femoris lateralis.md",
     "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Bøkken+lårben indefra.md",
     "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261116101136.png",
-    "1. Fag/Statistik.md",
     "1. Fag/Untitled",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Benets kar og nerveforsyning.md",
-    "Plexus sacralis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Plexus lumbalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/N. femoralis.md",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261113_Col_Regional anatomy_Tong Tong.pdf",

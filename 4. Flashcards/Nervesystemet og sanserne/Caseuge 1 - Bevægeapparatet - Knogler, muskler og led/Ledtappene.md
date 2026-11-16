@@ -1,5 +1,7 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder ledtapperne på latin?:: Processus articularis
 - Hvor mange ledtapper har hver ryghvirvel?:: 4
 - Hvad er formålet med ledtapperne?:: Danne led med den overliggende og underliggende [[Ryghvirvler]]
+- Hvilken retning vender ledtappene?:: Nærmest vertikalt
+- Hvor afgår ledtappene fra?:: Grænsen mellem pedunculi og lamina af [[Hvirvelbuen]]

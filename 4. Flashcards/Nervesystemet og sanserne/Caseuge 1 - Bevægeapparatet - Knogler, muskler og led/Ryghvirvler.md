@@ -9,13 +9,13 @@
 - Hvad hedder hullet i midten af ryghvirvlerne? (dansk):: [[Hvirvelhullet]]
 
 - Hvad sker med dimensionerne af rygvirvelrne i løbet af [[Rygsøjlen]]s forløb?:: Jo længere nede en ryghvirvel er jo større er den i alle dimensioner
-
+	- Hvorfor er falder størelsen af ryghvirvler ved S1? (de har steget fra S1-L5):: Vægten er overført til hoften
 
 ![[Halshvirvler]]
 
 ![[Thoraxhvirvler]]
 
-![[Lumbalhvirver]]
+![[Lændehvirver]]
 
 ![[Os sacrum]]
 
