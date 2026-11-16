@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - os sacrum 1.md",
+                "file": "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Occlusion - os sacrum 1"
+              "title": "Atlas"
+            }
+          },
+          {
+            "id": "4e6cfc0f8bca221b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Axis 1"
+            }
+          },
+          {
+            "id": "7fd2950614c987c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Os sacrum 2"
             }
           },
           {
@@ -280,11 +304,18 @@
   },
   "active": "6c337e7cb0fcb430",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md",
-    "Occlusion - os sacrum 1.md",
-    "os sacrum 1.png",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os sacrum.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ryghvirvler.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Axis.md",
+    "Occlusion - axis 1.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md",
+    "axis 1.png",
+    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os sacrum.md",
+    "Occlusion - os sacrum 2.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md",
+    "os sacrum 2.png",
+    "Occlusion - os sacrum 1.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md",
+    "os sacrum 1.png",
     "Billeder/Bevægeapparatet/Ryggen/ryghvirvler 1.png",
     "Billeder/Bevægeapparatet/Ryggen",
     "Occlusion - ryghvirver 2.md",
@@ -303,24 +334,17 @@
     "Os. occipitale.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlen.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Axis.md",
     "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os coccygix.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ledtappe.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Tværtappe.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Torntappe.md",
     "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - Bækken+lårben bagfra.md",
     "4. Flashcards/Bevægeapparatet/Anatomisal/Anatomisal - scapula forfra.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Occlusion - underbenets muskler 3.md",
     "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",
     "Excalidraw/Bøger",
     "Excalidraw/New folder",
     "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261116114125.png",
     "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111102941.png",
-    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111103302.png",
-    "Billeder/Bevægeapparatet/Anatomisal/Pasted image 20261111103321.png",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Halshvirvler.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Thoraxhvirvler.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Fovea costalis (sup-inf).md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver",
     "1. Fag/Untitled",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",

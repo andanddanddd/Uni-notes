@@ -4,8 +4,8 @@
 
 
 ![[Os sacrum 1|800]]A?:: Ala ossis sacri
-B?:: Promontorium
+![[Os sacrum 1|800]]![[Os sacrum 1|800]]B?:: Promontorium
 C?:: [[Os coccygix]]
-D?:: Foramen sacrale ant.
-E?:: Apec ossis sacri
+![[Os sacrum 1|800]]D?:: Foramen sacrale ant.
+![[Os sacrum 1|800]]E?:: Apec ossis sacri
 
