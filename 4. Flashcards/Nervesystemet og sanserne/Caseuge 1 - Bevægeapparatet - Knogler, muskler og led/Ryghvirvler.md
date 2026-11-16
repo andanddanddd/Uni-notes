@@ -16,3 +16,9 @@
 ![[Halshvirvler]]
 
 ![[Thoraxhvirvler]]
+
+![[Lumbalhvirver]]
+
+![[Os sacrum]]
+
+![[Os coccygix]]
