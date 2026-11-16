@@ -1,3 +1,15 @@
 #flashcards/5/Bevægeapparatet 
 
 ![[armens arterier 1.png]]
+
+
+![[Armens arterier 1|700]]A?:: A circumflexa humeri post
+![[Armens arterier 1|700]]B?:: A. circumflexa humeri ant.
+![[Armens arterier 1|700]]C?:: [[A. brachialis]]
+![[Armens arterier 1|700]]D?:: [[A. radialis]]
+![[Armens arterier 1|700]]E?:: [[A. ulnaris]]
+![[Armens arterier 1|700]]F?:: [[A. suprascapularis]]
+![[Armens arterier 1|700]]G?:: [[A. axillaris]]
+![[Armens arterier 1|700]]H?:: [[Truncus thyrocirvicalis]]
+![[Armens arterier 1|700]]I?:: [[A. thoracoacromialis]]
+

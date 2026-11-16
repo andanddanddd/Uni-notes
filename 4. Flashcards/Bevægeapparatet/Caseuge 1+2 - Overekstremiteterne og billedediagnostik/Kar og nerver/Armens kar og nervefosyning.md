@@ -13,3 +13,5 @@
 - Hvor kommer nerverne til armen fra?:: [[Plexus brachialis]]
 
 [[Occlusion - armens arterier 1]]
+[[Occlusion - armens arterier 2]]
+[[Occlusion - armens vener 1]]
