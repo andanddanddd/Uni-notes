@@ -12,7 +12,7 @@
 - Facies glutea
 - Facies sacropelvina
 - Fossa iliaca
-<!--SR:!2026-11-16,11,270-->
+<!--SR:!2026-12-29,43,290-->
 
 - Hvor er facies glutea overordnet?:: Den laterale flade af alla ossis ili
 <!--SR:!2026-11-22,16,290-->

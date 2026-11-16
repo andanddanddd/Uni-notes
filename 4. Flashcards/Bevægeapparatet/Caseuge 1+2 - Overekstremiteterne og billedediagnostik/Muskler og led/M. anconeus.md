@@ -5,7 +5,7 @@
 - Hvor er m. anconeus overordnet?:: Dorsalt på underarmen
 <!--SR:!2026-11-22,16,290-->
 - Hvor dybt ligger m. anconeus?:: Superficielt
-<!--SR:!2026-11-14,12,270-->
+<!--SR:!2026-12-19,33,270-->
 
 ### Form
 - Hvilken form har m. anconeus?:: Lille trekantet

@@ -10,9 +10,10 @@
 
 ### Forløb
 - Hvad kendetegner m. biceps femoris forløb ved knæet?:: Det løber lateralt om knæet
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-28,12,270-->
 #### Udspring
 - Hvor udspringer caput longum af m. biceps femoris?:: Tuber ischiadicum (se [[Os ischii]])
+<!--SR:!2026-11-17,1,230-->
 - Hvor udspringer caput breve af m. biceps femoris?:: Linea asperas laterale kant (se [[Femoris]])
 #### Insertion
 - Hvor har m. biceps femoris insertion?:: Caput fibulae (se [[Fibula]])
@@ -23,7 +24,7 @@
 - Hofteekstension
 - Knæfleksion
 - Udadrotation af underben ved bøjet knæ
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-24,8,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. biceps femoris?

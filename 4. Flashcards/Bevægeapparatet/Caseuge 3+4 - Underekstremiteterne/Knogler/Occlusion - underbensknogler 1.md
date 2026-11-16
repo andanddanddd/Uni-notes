@@ -11,7 +11,7 @@
 ![[Underbensknogler 1|600]]D?:: Malleolus lateralis
 <!--SR:!2026-11-26,16,290-->
 ![[Underbensknogler 1|600]]E?:: Condylus medialis
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-11-30,14,290-->
 ![[Underbensknogler 1|600]]F?:: Tuberositas tibiae
 ![[Underbensknogler 1|600]]G?:: Linea musculi solei
 ![[Underbensknogler 1|600]]H?:: Facies medialis
@@ -24,4 +24,4 @@
 <!--SR:!2026-11-19,6,230-->
 ![[Underbensknogler 1|600]]M?:: Apex capitis fibulae
 ![[Underbensknogler 1|600]]N?:: Margo interosseus
-<!--SR:!2026-11-15,10,270-->
+<!--SR:!2026-12-24,38,290-->

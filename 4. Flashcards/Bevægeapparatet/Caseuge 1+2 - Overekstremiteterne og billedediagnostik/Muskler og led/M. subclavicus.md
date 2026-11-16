@@ -18,7 +18,7 @@
 
 ### Funktion
 - Hvilken funktion har m. subclavicus?:: Trække [[Clavicula]] medialt nedad
-<!--SR:!2026-11-14,5,230-->
+<!--SR:!2026-12-03,17,250-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

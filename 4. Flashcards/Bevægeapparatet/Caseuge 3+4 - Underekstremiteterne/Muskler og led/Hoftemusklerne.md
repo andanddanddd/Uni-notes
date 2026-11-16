@@ -8,7 +8,7 @@
 - [[M. gluteus medius]]
 - [[M. gluteus minimus]]
 - [[M. tensor fasciae latae]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 
 - Hvad hedder hofteledets 5 små udadrotatorer?
 ?

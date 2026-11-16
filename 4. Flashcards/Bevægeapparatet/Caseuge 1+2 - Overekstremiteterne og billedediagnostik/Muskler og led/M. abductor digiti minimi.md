@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. abductor digiti minimi insertion?:: Basis af phalanx proximale V
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-11-30,14,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor digiti minimi?:: Abduction af lillefingeren

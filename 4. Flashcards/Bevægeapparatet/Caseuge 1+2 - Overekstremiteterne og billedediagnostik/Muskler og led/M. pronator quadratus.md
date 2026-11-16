@@ -3,9 +3,9 @@
 
 ### Lokation
 - Hvor er m. pronator quadratus overordnet?:: Foreste loge af underarmen (distalt)
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-02,16,290-->
 - Hvor dybt ligger m. pronator quadratus?:: Dybt (lag 4)
-<!--SR:!2026-11-16,11,270-->
+<!--SR:!2026-12-29,43,290-->
 
 ### Form
 - Hvilken form har m. pronator quadratus?

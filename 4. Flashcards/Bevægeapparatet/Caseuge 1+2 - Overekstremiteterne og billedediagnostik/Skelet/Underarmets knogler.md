@@ -5,7 +5,7 @@
 - Hvilken underarmsknogle er længst?:: Ulna
 <!--SR:!2027-01-11,60,310-->
 - Hvad hedder membranen der forbidner de 2 underarmsknogler?:: Membrana interossea
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-15,60,310-->
 - Hvad hedder kanterne på de 2 underarmsknogler der forbindes af en membran?:: Margo interosseus
 <!--SR:!2026-11-29,24,270-->
 
@@ -19,7 +19,7 @@
 ![[Underarmsknogler anatomi 1]]B?:: Margo interosseus
 <!--SR:!2026-11-14,15,290-->
 ![[Underarmsknogler anatomi 1]]C?:: Membrana interossea
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-10,55,310-->
 ![[Underarmsknogler anatomi 1]]D?:: Margo posterior
 <!--SR:!2026-12-18,42,290-->
 
@@ -46,7 +46,7 @@
 ![[Underarmsknogler anatomi 2|600]]K?:: Margo interosseus
 <!--SR:!2026-12-09,30,270-->
 ![[Underarmsknogler anatomi 2|600]]L?:: Margo posterior
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-01,46,290-->
 ![[Underarmsknogler anatomi 2|600]]M?:: Margo anterior
 <!--SR:!2026-12-19,43,290-->
 ![[Underarmsknogler anatomi 2|600]]N?:: Processus styloideus radii

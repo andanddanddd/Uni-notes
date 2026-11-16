@@ -50,10 +50,10 @@
 ![[Humerus anatomi 1]]W?:: Humerus anteriort
 <!--SR:!2027-01-13,63,310-->
 ![[Humerus anatomi 1]]Z?:: Extremitas proximalis
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2026-12-29,43,290-->
 ![[Humerus anatomi 1]]Y?:: Corpus humeri
 <!--SR:!2027-01-06,56,310-->
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-16,61,310-->
 ![[Humerus anatomi 1]]Æ?:: Humerus posteriort
 <!--SR:!2026-11-18,16,290-->

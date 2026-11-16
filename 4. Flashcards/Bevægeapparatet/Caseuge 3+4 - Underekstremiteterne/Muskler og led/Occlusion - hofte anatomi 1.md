@@ -4,7 +4,7 @@
 
 
 ![[Hofte anatomi 1|700]]A?:: [[M. gluteus medius]] (facie til højre)
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-01,15,290-->
 ![[Hofte anatomi 1|700]]B?:: [[M. gluteus minimus]]
 <!--SR:!2026-11-25,14,290-->
 ![[Hofte anatomi 1|700]]C?:: [[M. piriformis]]

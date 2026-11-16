@@ -4,7 +4,7 @@
 <!--SR:!2026-11-30,18,250-->
 ### Lokation
 - Hvor dybt ligger m. pectoralis major?:: Superficielt (mest superficielt af de overfladisek brystmuskler)
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-22,67,310-->
 
 ### Form
 - Hvilken form har m. pectoralis major?:: Stor flad vifteformet
@@ -22,7 +22,7 @@
 
 ### Funktion
 - Hvilken funktion har m. pectoralis major?:: Inadrotation, adduction og fleksion af overarmen
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-12,57,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

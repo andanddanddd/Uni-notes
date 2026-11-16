@@ -6,6 +6,7 @@
 - Articulatio humeroulnaris
 - Articulatio humeroradialis
 - Articulatio radioulnaris proximalis
+<!--SR:!2026-11-19,3,250-->
 
 ### Ledtype
 - Hvilken ledtype er articulatio cubiti?:: Hængselsled (sammensat led) med indbygget drejeled

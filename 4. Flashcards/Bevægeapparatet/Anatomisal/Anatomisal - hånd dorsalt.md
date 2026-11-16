@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 ![[Pasted image 20261111095646.png]]
 ![[Pasted image 20261111095655.png]]1?:: Radius
+<!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111095655.png]]2?:: Os scaphoideum
 ![[Pasted image 20261111095655.png]]3?:: Os metacarpi l
 ![[Pasted image 20261111095655.png]]4?:: Phalanx proximalis l
@@ -13,4 +14,4 @@
 ![[Pasted image 20261111095655.png]]10?:: Art. interphalangealis proximalis V
 ![[Pasted image 20261111095655.png]]11?:: Phalanx media V
 ![[Pasted image 20261111095655.png]]12?:: Art. interphalangealis proximalis IV
-<!--SR:!2026-11-16,3,250-->
+<!--SR:!2026-11-28,12,270-->

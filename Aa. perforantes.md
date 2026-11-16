@@ -3,3 +3,4 @@
 - Hvor kommer aa. perforantes fra?:: [[A. profunda femoris]]
 - Hvor mange aa. perforantes har vi?:: 3-4 per ben
 - Hvilken struktur skal aa. perforantes igennem?:: Senebroeren fra [[M. adductor magnus]]
+<!--SR:!2026-11-20,4,270-->

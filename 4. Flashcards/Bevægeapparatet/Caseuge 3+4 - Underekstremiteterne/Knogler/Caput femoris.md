@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogle sidder caput femoris på?:: [[Femoris]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-01,15,290-->
 - Hvilken retning vender caput femoris?:: Medialt opad (og lidt fremad)
 <!--SR:!2026-11-14,3,250-->
 - Hvilken form gar caput femoris?:: 2/3 af en kugle

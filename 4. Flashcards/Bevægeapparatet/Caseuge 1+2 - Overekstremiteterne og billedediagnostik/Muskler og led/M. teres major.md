@@ -5,7 +5,7 @@
 
 ### Form
 - Hvilken form har m. teres major?:: Tyk aflang
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-20,65,310-->
 
 ### Udspring
 - Hvor udspringer m. teres major?:: Nederste del af [[Scapula]]s lateralkant
@@ -17,7 +17,7 @@
 
 ### Funktion
 - Hvilke funktioner har m. teres major?:: Adduction, extension samt indadrotation af overoramen
-<!--SR:!2026-11-15,11,270-->
+<!--SR:!2026-12-15,29,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

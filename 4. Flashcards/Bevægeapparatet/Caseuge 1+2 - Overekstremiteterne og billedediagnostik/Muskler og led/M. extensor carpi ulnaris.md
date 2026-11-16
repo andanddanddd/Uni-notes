@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. extensor carpi ulnaris?:: Caput commune ekstensorum (epicondylus lateralis)
-<!--SR:!2026-11-15,11,270-->
+<!--SR:!2026-12-29,43,290-->
 
 ### Insertion
 - Hvor har m. extensor carpi ulnaris insertion?:: Basis af os metacarpale V (lillefinger)

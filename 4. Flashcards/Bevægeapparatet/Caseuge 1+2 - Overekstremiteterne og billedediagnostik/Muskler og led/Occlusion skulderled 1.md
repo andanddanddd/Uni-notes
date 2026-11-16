@@ -17,4 +17,4 @@
 ![[Skulderled 1|600]]J?:: [[M. subscapularis]]
 <!--SR:!2026-11-17,4,270-->
 ![[Skulderled 1|600]]K?:: Bursa subtendinea m. subscapularis
-<!--SR:!2026-11-14,5,230-->
+<!--SR:!2026-11-29,13,230-->

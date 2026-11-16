@@ -2,7 +2,7 @@
 
 - Hvad hedder underbenet på latin?:: Crus
 - Hvad hedder fascien på underbenet?:: Fascia cruris
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-02,16,290-->
 - Hvad hedder membranen/ligamentet der strækker sig mellem de 2 knogler i underbenet?:: Membrana interossea
 - Hvilke 4 muskelloger inddeles udnerbenet i?:: Extensorloge, peroneerlogen, superficiel og profund extensorloge
 
@@ -16,9 +16,10 @@
 - [[M. extensor hallucis longus]]
 - [[M. extensor digitorum longus]]
 - [[M. peroneus tertius]]
+<!--SR:!2026-11-19,3,250-->
 
 - Hvad hedder de 2 retinakler der nedbinder musklerne i underbenets fibulare muskelgruppe?::  [[Peroneerretinaklerne (øvre og nedre)]]
-<!--SR:!2026-11-15,3,250-->
+<!--SR:!2026-11-28,12,270-->
 - Hvilke muskler er i underbenets fibulare/peroneere muskelgruppe?
 ?
 - [[M. peroneus longus]]

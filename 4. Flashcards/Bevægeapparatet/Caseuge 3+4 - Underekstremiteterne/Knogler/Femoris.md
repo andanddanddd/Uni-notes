@@ -4,7 +4,7 @@
 ### Generalt
 - Hvad hedder femoris på dansk?:: Lårbenet
 - Hvad kan længden af femoris bruges som mål for?:: Gestationsalder samt højde på antropologiske fund
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-01,15,290-->
 
 #### Placering og orientering
 - Hvor er femoris overordnet?:: Låret
@@ -18,12 +18,12 @@
 - Hvad kaldes vinklen mellem collum femoris og skaftet?:: Inklinationsvinklen
 <!--SR:!2026-11-14,4,270-->
 	- Hvornår er inklinationsvinklen størst?:: Ved fødsel
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes
 <!--SR:!2026-11-15,4,270-->
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
-<!--SR:!2026-11-16,4,190-->
+<!--SR:!2026-11-18,2,170-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
 <!--SR:!2026-11-19,10,270-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica

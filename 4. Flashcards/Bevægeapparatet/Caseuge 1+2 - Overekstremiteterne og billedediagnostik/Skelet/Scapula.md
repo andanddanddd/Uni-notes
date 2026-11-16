@@ -36,7 +36,7 @@
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
 <!--SR:!2026-11-17,15,290-->
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-09,54,310-->
 
 ### Relationer
 #### Led
@@ -69,7 +69,7 @@
 ![[Scapula Anatomi 1|700]]C?:: Processus coracoideus
 <!--SR:!2026-12-17,38,290-->
 ![[Scapula Anatomi 1|700]]D?:: Margo superior
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-20,65,310-->
 ![[Scapula Anatomi 1|700]]E?:: Angulus superior
 <!--SR:!2026-11-21,16,290-->
 ![[Scapula Anatomi 1|700]]F?:: Anhulus lateralis

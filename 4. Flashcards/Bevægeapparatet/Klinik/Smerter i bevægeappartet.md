@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet #flashcards/6/klinik 
 
 - Hvad kaldes smerter der udgår fra muskler?:: Myalgier
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-28,12,270-->
 - Hvad kaldes smerter der udgår fra led?:: Atralgier
 - Hvad kaldes smerter der udgår fra [[Periost]]?:: Frakture
 

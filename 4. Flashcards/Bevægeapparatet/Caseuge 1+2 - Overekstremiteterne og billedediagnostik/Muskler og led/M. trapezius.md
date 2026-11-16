@@ -52,6 +52,6 @@ Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men me
 Reflekser
 ### Klinik
 - Hvad sker med skulderens hvilepotition hvis m. trapezius lammes?:: Den falder nedad og fremad
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2026-12-30,44,290-->
 - Hvilke bevægelser er svære/umuglige at lave hvis m. trapezius lammes?:: Udadrotation samt løft over hovedet
 <!--SR:!2026-12-09,27,270-->

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. opponens digiti minimi overordnet?:: Hypothenar (lillefingerbaldens muskler)
-<!--SR:!2026-11-15,11,270-->
+<!--SR:!2026-12-29,43,290-->
 - Hvor dybt ligger m. opponens digiti minimi?:: Profund
 <!--SR:!2026-11-15,4,270-->
 
@@ -12,6 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. opponens digiti minimi?:: [[Retinaculum flexorum]] samt ulnare håndrodsknogler ([[Os pisiforme]] og [[Os hamatum]])
+<!--SR:!2026-11-19,3,250-->
 
 ### Insertion
 - Hvor har m. opponens digiti minimi insertion?:: Skaftet af os metacarpale V

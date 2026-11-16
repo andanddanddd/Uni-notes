@@ -3,17 +3,17 @@
 - Hvad hedder underarmen på latin?:: Antebrachium
 <!--SR:!2026-11-14,15,290-->
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-17,62,310-->
 - Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-12,57,310-->
 - Hvad betyder pronation?:: Indadrotation af underarmen (de 2 knogler krydser over)
 <!--SR:!2027-01-07,55,310-->
 - Hvad betyder Supination?:: Udadrotation af underarmen (tilbagerotation så de 2 underarmsknogler ikke længere krydser over)
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-12,57,310-->
 - Hvad hedder forlængelsen af fascia antebrachii?:: [[Retinaculum extensorum]]
 <!--SR:!2026-11-28,19,250-->
 - Hvad hedder ligamentet der distalt binder [[Radius]] og [[Ulna]] sammen?:: [[Discus articularis]]
-<!--SR:!2026-11-15,3,230-->
+<!--SR:!2026-11-25,9,250-->
 
 ### Muskler til flektion
 - Hvilke muskler er i 1. lag af underarmens foreste loge?

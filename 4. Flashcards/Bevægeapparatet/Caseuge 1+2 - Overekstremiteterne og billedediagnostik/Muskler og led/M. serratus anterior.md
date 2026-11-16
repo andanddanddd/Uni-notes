@@ -7,11 +7,11 @@
 
 ### Form
 - Hvilen form har m. serratus ant?:: Stor flad
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-20,65,310-->
 
 ### Udspring
 - Hvor har m. serratus ant udspring?:: De 8-9 øvertse ribben
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-11,56,310-->
 
 ### Insertion
 - Hvor har m. serratus ant insersion?:: Margo medialis og angulus inf af [[Scapula]]
@@ -26,4 +26,4 @@ Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men me
 Reflekser
 ### Klinik
 - Hvad sker med skulderens hvilkestilling hvis m. serratus ant lammes?:: Den svinger bagud
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-13,58,310-->

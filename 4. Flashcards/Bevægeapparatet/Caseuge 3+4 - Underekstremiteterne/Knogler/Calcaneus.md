@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder calcaneus på dansk?:: Hælbenet
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-28,12,270-->
 - Hvilken underbensknogle tilhører calcaneus?:: [[Fibula]]
 <!--SR:!2026-11-22,16,290-->
 

@@ -4,7 +4,7 @@
 
 ### Ledtype
 - Hvilken type led er articulatio acromioclaviculare?:: [[Glideled]]
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-16,61,310-->
 
 ### Ledflader
 - Hvilke ledflader danner articulatio acromioclaviculare?:: [[Facies articularis acrominalis]] og [[Facies articularis clavicularis]]

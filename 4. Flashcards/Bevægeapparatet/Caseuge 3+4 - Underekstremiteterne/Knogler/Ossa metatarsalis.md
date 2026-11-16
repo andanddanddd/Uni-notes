@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvordan numereret ossa metatarsalis?:: Fra medialsiden og ud
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-02,16,290-->
 - Hvordan er størelselsforskellem mellem ossa metatarsalis og de tilsvarende knogler i hånden?:: Ossa metatarsalis er længere, tyndere og tættere sammen
 <!--SR:!2026-11-25,15,290-->
 - Hvilken ossa metatarsalis er stærkest? (og tykkest):: I

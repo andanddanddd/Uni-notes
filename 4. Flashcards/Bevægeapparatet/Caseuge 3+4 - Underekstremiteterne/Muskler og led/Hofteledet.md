@@ -10,7 +10,7 @@
 ### Ledflader
 - Hvad hedder ledskålet i hofteledet?:: [[Acetabulum]]
 - Hvad hedder ledhovedet i hofteledet?:: [[Caput femoris]]
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-02,16,290-->
 
 ### Ledets strukture
 - Hvad hedder hofteledets ledlæbe?:: Labrum acetabuli

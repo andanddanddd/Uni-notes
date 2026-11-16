@@ -29,7 +29,7 @@
 ![[Hånd(knogle) anatomi 1]]2?:: Os lunatum
 <!--SR:!2026-11-22,13,230-->
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
-<!--SR:!2026-11-15,2,150-->
+<!--SR:!2026-11-20,4,170-->
 ![[Hånd(knogle) anatomi 1]]4?:: Os pisiforme
 <!--SR:!2026-11-18,16,290-->
 ![[Hånd(knogle) anatomi 1]]5?:: Os trapezium

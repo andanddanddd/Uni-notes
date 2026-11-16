@@ -10,7 +10,7 @@
 ![[Hoftebenet 2|700]]D?:: Incisura ischiadica major
 <!--SR:!2026-11-25,15,290-->
 ![[Hoftebenet 2|700]]E?:: Fossa acetabuli
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-01,15,290-->
 ![[Hoftebenet 2|700]]F?:: Spina ischiadica
 <!--SR:!2026-11-22,12,270-->
 ![[Hoftebenet 2|700]]G?:: Incisura ischiadica minor
@@ -26,7 +26,7 @@
 ![[Hoftebenet 2|700]]M?:: Spina iliaca ant. inf.
 <!--SR:!2026-11-25,15,290-->
 ![[Hoftebenet 2|700]]N?:: Facies lunata
-<!--SR:!2026-11-15,6,230-->
+<!--SR:!2026-12-07,21,250-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis
 <!--SR:!2026-11-14,3,250-->
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum

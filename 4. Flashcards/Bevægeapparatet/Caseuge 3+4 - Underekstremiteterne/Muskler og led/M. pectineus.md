@@ -13,10 +13,10 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. pectinus?:: Pecten ossis pubis (se [[Os pubis]])
-<!--SR:!2026-11-15,2,230-->
+<!--SR:!2026-11-23,7,250-->
 #### Insertion
 - Hvor har m. pectinus insertion?:: Linea pectinea (forlængelse af linea asparta se [[Femoris]]])
-<!--SR:!2026-11-16,5,230-->
+<!--SR:!2026-12-03,17,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pectinus?:: Adduction af hoften

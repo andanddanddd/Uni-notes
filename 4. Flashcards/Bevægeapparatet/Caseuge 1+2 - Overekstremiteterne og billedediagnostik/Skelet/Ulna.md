@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder ulna på dansk?:: Albuebenet
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-17,62,310-->
 
 #### Placering og orientering
 #### Form og størrelse

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. opponens pollicis overordnet?:: Thenar (tommelfingerbaldens muskelgruppe)
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-01,15,290-->
 - Hvor dybt ligger m. opponens pollicis?:: Profund for de andre muskler i thenar
 
 ### Form
@@ -23,7 +23,7 @@
 
 ### Innerversion og reflekser'
 - Hvilken nerve innervere m. opponens pollicis?:: [[N. medianus]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-02,16,290-->
 
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser

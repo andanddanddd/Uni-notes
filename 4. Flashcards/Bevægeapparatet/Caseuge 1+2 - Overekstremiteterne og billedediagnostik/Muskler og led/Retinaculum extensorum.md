@@ -1,4 +1,4 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er retinaculum extensorum overordnet?:: En forlængelse af fascia entebracium
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-12,57,310-->

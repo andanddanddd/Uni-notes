@@ -13,7 +13,7 @@
 
 ### Insertion
 - Hvor har m. tensor fasciae latea insertion?:: [[Tractus iliotibialis]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-01,15,290-->
 
 ### Funktion
 - Hvad er den primære funktion af m. tensor fasciae latea?:: Stabilisering af bækkenet

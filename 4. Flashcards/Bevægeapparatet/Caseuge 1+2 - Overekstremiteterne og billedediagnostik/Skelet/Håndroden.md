@@ -3,7 +3,7 @@
 - Hvad hedder hånroden på latin?:: Carpus
 <!--SR:!2026-11-18,16,290-->
 - Hvad kaldes den samlede betegnelse for håndrodknoglerne på latin?:: Ossa carpi
-<!--SR:!2026-11-14,9,250-->
+<!--SR:!2026-12-19,33,270-->
 - Hvor mange knogler består håndroden af?:: 8
 <!--SR:!2027-01-19,67,310-->
 - Hvordan er de 8 knogler i håndroden overordnet arrangeret?:: En proximal og distal række, hver bestående af 4 knogler

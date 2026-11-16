@@ -16,7 +16,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor hallucis brevis?:: Flektion af storetåen
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor hallucis brevis?

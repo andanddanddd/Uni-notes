@@ -6,6 +6,6 @@
 <!--SR:!2027-01-18,66,310-->
 
 - Hvor på cavitas glenoidalis findes ru områder?:: Øverste og nederste kant
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 	- Hvad kaldes de ru områder på cavitas glenoidalis?:: Tuberculum supraglenoidale og yuberculum infraglenoidale
 <!--SR:!2026-11-24,19,250-->

@@ -38,6 +38,6 @@
 
 ### Occlusion
 ![[Clavicula anatomi 1]]A?:: Facies articularis acromialis
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-21,66,310-->
 ![[Clavicula anatomi 1]]B?:: Facies articularis sternalis
 <!--SR:!2026-12-21,42,290-->

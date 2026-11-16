@@ -7,6 +7,6 @@
 ![[Overfladiske rygmuskler 1]]B?:: [[M. rhomboideus]]
 <!--SR:!2026-11-20,15,290-->
 ![[Overfladiske rygmuskler 1]]C?::[[M. trapezius]]
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-13,58,310-->
 ![[Overfladiske rygmuskler 1]]D?::[[M. latissimus dorsi]]
 <!--SR:!2026-12-24,43,290-->

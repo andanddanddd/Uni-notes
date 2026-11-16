@@ -2,7 +2,7 @@
 
 ![[finger anatomi 2.png]]
 ![[Finger - anatomi 2]]A?:: [[Ekstensoraponeurosen]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-28,12,270-->
 ![[Finger - anatomi 2]]B?:: [[Mm. interossei (palmaries-dorsalis)]] (dorsalis)
 <!--SR:!2026-12-08,26,270-->
 ![[Finger - anatomi 2]]C?:: [[M. extensor digitorum]] (sene)

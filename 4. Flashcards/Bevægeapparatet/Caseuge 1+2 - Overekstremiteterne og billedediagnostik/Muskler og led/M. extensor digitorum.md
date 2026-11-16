@@ -21,7 +21,7 @@
 - Hvilke bevægelser udfører m. extensor digitorum?:: Ekstension af de 4 ulanre fingre samt håndled
 <!--SR:!2026-11-17,15,290-->
 - Hvad hedder senerne der forbidner senerne fra m. extensor digitorum?:: [[Connexus intertendinei]]
-<!--SR:!2026-11-16,7,250-->
+<!--SR:!2026-12-11,25,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

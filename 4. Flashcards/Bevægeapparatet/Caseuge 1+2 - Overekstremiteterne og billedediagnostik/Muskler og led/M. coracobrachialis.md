@@ -4,7 +4,7 @@
 
 ### Lokation
 - Hvor er m. coracobrachialis overordnet?:: Ovenpå overarmen
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-14,59,310-->
 - Hvor dybt ligger m. coracobrachialis?:: Superficielt
 <!--SR:!2026-11-14,15,290-->
 

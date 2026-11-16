@@ -34,7 +34,7 @@
 
 ### Klinik
 - Hvorfor er mænd ofte mere "hjulbenet" (genu varum) en kvinder?:: Deres hofte er smaldere
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-02,16,290-->
 - Hvem er typisk mest "hjulbenet" (genu varum) og hvorfor?:: Nyfødte grundet deres position i moderen
 - Hvilken næringsmangel kan fære til "hjulben" (genu varum)?:: Mangel på [[D-vitamin]]
 - Hvorfor skal knæet være så kraftigt?:: Det lægger mellem de 2 længste knogler i kroppen (så store krafter fysik yesyes)

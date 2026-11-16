@@ -12,14 +12,14 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. abductor hallucis?:: Medialt på tuber calcanei (se [[Calcaneus]]) samt forsiden af retinaculum flexorum (fod)
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 #### Insertion
 - Hvor har m. abductor hallucis insertion?:: Basis af phalinx proximale I (medialsiden)
 
 ### Funktion
 - Hvilket led stabiliseres af m. abductor hallucis?:: 1. tarsometatarsalled
 - Hvilke bevægelser udfører m. abductor hallucis?:: Abduction af storetåen
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor hallucis?

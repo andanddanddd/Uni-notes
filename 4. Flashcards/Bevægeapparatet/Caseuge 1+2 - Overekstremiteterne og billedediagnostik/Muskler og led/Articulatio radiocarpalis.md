@@ -9,7 +9,7 @@
 
 ### Ledflader
 - Hvilken struktur danner ledskål i art. radiocarpalis?:: Radius distale ledflade + discus articularis
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-11-27,11,270-->
 - Hvilken struktur danner ledhoved i art. radiocarpalis?:: [[Os scaphodeum]], [[Os lunatum]] og [[Os triquetrum]] (+ligamenter)
 <!--SR:!2026-11-28,17,250-->
 - Hvorfor er [[Ulna]] ikke en del af ledet?:: Ledskiven blokere for Ulna

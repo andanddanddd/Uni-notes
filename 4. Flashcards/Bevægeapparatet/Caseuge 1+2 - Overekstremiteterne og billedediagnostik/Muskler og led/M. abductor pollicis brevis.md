@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. abductor pollicis brevis overordnet?:: Thenar (tommelfingerbaldens knogler)
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-30,14,290-->
 - Hvor dybt ligger m. abductor pollicis brevis?:: Superficielt
 <!--SR:!2026-11-23,12,270-->
 

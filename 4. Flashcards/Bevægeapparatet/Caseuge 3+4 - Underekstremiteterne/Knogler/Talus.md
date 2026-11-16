@@ -3,11 +3,11 @@
 
 ### Generalt
 - Hvad hedder talus på dansk?:: rullebenet
-<!--SR:!2026-11-16,3,230-->
+<!--SR:!2026-11-26,10,250-->
 
 #### Placering og orientering
 - Hvor er talus overordnet?:: Fodroden
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-02,16,290-->
 - Hvor i fodroden er talus?:: Proximal række over [[Calcaneus]]
 <!--SR:!2026-11-27,16,290-->
 - Hvilken underbensknogle tilhører talus?:: [[Tibia]]

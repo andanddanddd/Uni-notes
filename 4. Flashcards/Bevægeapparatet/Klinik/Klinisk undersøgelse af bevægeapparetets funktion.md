@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet #flashcards/6/klinik 
 
 - Hvad er aktiv bevægelse?:: De bevægelser pt selv kan udføre
+<!--SR:!2026-11-20,4,270-->
 - Hvad er passiv bevægelse?:: De bevægelser et led kan bevæge sig når der er ekstern kraft
 <!--SR:!2026-11-24,14,290-->
 	- Hvornår undersøges passiv bevælse?:: Når pt ikke har 100% aktiv bevægelse
