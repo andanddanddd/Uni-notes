@@ -13,6 +13,7 @@
 - Hvor udspringer Mm. lumbricales (fod)?:: Senerne fra [[M. flexor digitorum longus]]
 #### Insertion
 - Hvor har Mm. lumbricales (fod) insertion?:: Proximalt på phalanx media af de 4 laterale tær
+<!--SR:!2026-11-17,1,230-->
 
 ### Funktion
 - Hvilken funktion har mm. lumbricales i foden?:: Proprioception

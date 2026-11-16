@@ -7,6 +7,7 @@
 ![[Underarm foran 1]]B?:: [[M. pronator teres]]
 <!--SR:!2027-01-11,56,310-->
 ![[Underarm foran 1]]C?:: Caput commune flexorum
+<!--SR:!2026-11-19,3,250-->
 ![[Underarm foran 1]]D?:: [[M. flexor carpi radialis]]
 <!--SR:!2027-01-12,57,310-->
 ![[Underarm foran 1]]E?:: [[M. palmaris longus]]

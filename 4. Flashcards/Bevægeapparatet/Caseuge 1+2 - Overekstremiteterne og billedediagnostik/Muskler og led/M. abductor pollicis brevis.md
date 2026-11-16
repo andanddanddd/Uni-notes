@@ -13,6 +13,7 @@
 
 ### Udspring
 - Hvor udspringer m. abductor pollicis brevis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])
+<!--SR:!2026-11-20,4,270-->
 
 ### Insertion
 - Hvor har m. abductor pollicis brevis insertion?:: Tommelfingerens radiale sesamknogle samt basis af phalinx proximale
@@ -20,6 +21,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor pollicis brevis?:: Abduction af tommelfingeren
+<!--SR:!2026-11-20,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor pollicis brevis?:: [[N. medianus]]

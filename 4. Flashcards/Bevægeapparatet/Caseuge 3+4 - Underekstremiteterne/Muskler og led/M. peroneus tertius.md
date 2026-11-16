@@ -14,6 +14,7 @@
 - Hvor udspringer m. peroneus tertius?:: [[Fibula]] og membrana interossea
 #### Insertion
 - Hvor har m. peroneus tertius insertion?:: Dorsalfalden af corpus af ossis metatarsales V
+<!--SR:!2026-11-17,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. peroneus tertius?:: Dorsiflektion og eversion

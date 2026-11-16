@@ -14,7 +14,7 @@
 - Hvad kaldes ledfladen på den laterale side af processus coronoideus?:: [[Incisura radialis]]
 <!--SR:!2026-12-16,34,270-->
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2026-12-31,45,290-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
 <!--SR:!2026-11-25,15,230-->
 

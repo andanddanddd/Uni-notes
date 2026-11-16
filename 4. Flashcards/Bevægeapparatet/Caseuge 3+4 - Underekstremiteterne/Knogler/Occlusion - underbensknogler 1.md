@@ -5,7 +5,7 @@
 ![[Underbensknogler 1|600]]A?:: Condylus lateralis
 <!--SR:!2026-11-20,11,270-->
 ![[Underbensknogler 1|600]]B?:: Caput fibulae
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-26,10,270-->
 ![[Underbensknogler 1|600]]C?:: Collum fibulae
 <!--SR:!2026-11-22,12,270-->
 ![[Underbensknogler 1|600]]D?:: Malleolus lateralis

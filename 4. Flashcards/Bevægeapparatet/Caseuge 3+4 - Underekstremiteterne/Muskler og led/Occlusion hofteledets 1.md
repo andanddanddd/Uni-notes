@@ -9,3 +9,4 @@
 ![[Hofteledet 1|600]]D?:: Epifyseskive
 <!--SR:!2026-11-20,4,270-->
 ![[Hofteledet 1|600]]E?:: Memrbana fibrosa
+<!--SR:!2026-11-19,3,250-->

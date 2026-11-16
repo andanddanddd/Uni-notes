@@ -11,11 +11,13 @@
 ![[Femoris 1|600]]D?:: Collum femoris
 <!--SR:!2026-11-15,4,270-->
 ![[Femoris 1|600]]E?:: Linea intertrochanterica
+<!--SR:!2026-11-20,4,270-->
 ![[Femoris 1|600]]F?:: Facies patellaris
 ![[Femoris 1|600]]G?:: Fovea capitis femoris
 ![[Femoris 1|600]]H?:: Trochanter minor
 <!--SR:!2026-11-22,16,290-->
 ![[Femoris 1|600]]I?:: Linea pectinea
+<!--SR:!2026-11-20,4,270-->
 ![[Femoris 1|600]]J?:: Caput ossis femoris
 <!--SR:!2026-11-18,9,250-->
 ![[Femoris 1|600]]K?:: Linea aspera

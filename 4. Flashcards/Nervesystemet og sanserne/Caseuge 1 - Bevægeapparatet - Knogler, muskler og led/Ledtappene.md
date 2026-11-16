@@ -4,4 +4,5 @@
 - Hvor mange ledtapper har hver ryghvirvel?:: 4
 - Hvad er formålet med ledtapperne?:: Danne led med den overliggende og underliggende [[Ryghvirvler]]
 - Hvilken retning vender ledtappene?:: Nærmest vertikalt
+<!--SR:!2026-11-20,4,270-->
 - Hvor afgår ledtappene fra?:: Grænsen mellem pedunculi og lamina af [[Hvirvelbuen]]

@@ -21,6 +21,7 @@
 ### Knogletype
 - Hvilken knogletype er fibula?:: Rørknogle
 - Er fibula parret eller uparret?:: Parret
+<!--SR:!2026-11-20,4,270-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er ekstensoraponeurosen overordnet?:: En forlængelse af ekstensormusklernes sener
+<!--SR:!2026-11-20,4,270-->
 - Hvor er ekstensoraponeurosen overordnet?:: Bagsiden af de 4 ulnare fingre
 - Hvor hæfter ekstensoraponeurosen?:: Basis af alle 3 fingerknogler
 <!--SR:!2026-11-19,15,290-->

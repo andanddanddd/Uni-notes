@@ -1,6 +1,7 @@
 #flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvilken type knogle er ryghvirvlerne?:: Uregelmæssige knogler
+<!--SR:!2026-11-20,4,270-->
 - Hvilken struktur har ryghvirvlernes knoglemasse?:: [[Spongiøst knoglevæv]]
 	- Hvilken retning vender trabeklerne i ryghvirvler?:: Vertikalt primært
 

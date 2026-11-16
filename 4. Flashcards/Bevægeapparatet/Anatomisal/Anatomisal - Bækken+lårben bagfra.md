@@ -13,4 +13,5 @@
 ![[Pasted image 20261112112938.png]]9?:: Spina iliaca posterior superior
 ![[Pasted image 20261112112938.png]]10?:: Foramen ischiadicum majus
 ![[Pasted image 20261112112938.png]]11?:: Trochanter major![[Pasted image 20261112112938.png]]12?:: Crista trochanterica
-![[Pasted image 20261112112938.png]]13?:: Tuberositas glutea![[Pasted image 20261112112938.png]]14?:: Corpus femoris
+![[Pasted image 20261112112938.png]]13?:: Tuberositas glutea
+![[Pasted image 20261112112938.png]]14?:: Corpus femoris
