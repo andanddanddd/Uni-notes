@@ -19,3 +19,7 @@
 - [[N. ulnaris]]
 - [[N. axilaris]]
 - [[N. radialis]]
+
+[[Occlusion - plexus brachialis 1]]
+
+![[plexus brachialis kompliceret.png]]

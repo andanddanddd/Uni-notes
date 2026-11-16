@@ -1,4 +1,4 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvor mange thoraxhvirvler har vi?:: 12
 - Hvad hedder thoraxhvirvler på latin?:: Vertebrae thoracicae

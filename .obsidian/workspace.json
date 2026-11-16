@@ -14,48 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - armens vener 1.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Occlusion - armens vener 1"
-            }
-          },
-          {
-            "id": "46d1932135199aa8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens vener 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Armens vener 1"
-            }
-          },
-          {
-            "id": "9946fb25148cba34",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens arterier 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Armens arterier 2"
-            }
-          },
-          {
-            "id": "8fec54cf5ae3fc83",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens arterier 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Armens arterier 1"
+              "title": "Forelæsning - Underekstremitetens anatomi"
             }
           }
         ]
@@ -123,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "armens kar",
+                "query": "a. femor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +121,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,21 +254,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6c337e7cb0fcb430",
+  "active": "c9db2e68d7cec1d3",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens vener 1.md",
-    "Occlusion - armens vener 1.md",
-    "armens vener 1.png",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Benets kar og nerveforsyning.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
+    "1. Fag/Bevægeapparatet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Fovea costalis (sup-inf).md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Thoraxhvirvler.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens arterier 1.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/plexus brachialis kompliceret.png",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Halshvirvler.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Axis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - plexus brachialis 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Plexus brachialis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens vener 1.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/plexus brachialis 1.png",
+    "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Plexus brachialis 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Armens kar og nervefosyning.md",
-    "Occlusion - armens arterier 2.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens vener 1.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/armens vener 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens arterier 2.md",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens arterier 2.md",
-    "armens arterier 2.png",
-    "Occlusion - armens arterier 1.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/armens arterier 2.png",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver/Armens arterier 1.md",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Muskler/Hånd - anatomi 2.md",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver",
-    "armens arterier 1.png",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitetens anatomi.md",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/armens arterier 1.png",
     "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
     "Billeder/Bevægeapparatet/Ryggen/os sacrum 2.png",
@@ -301,24 +289,11 @@
     "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md",
     "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md",
     "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - ryghvirvler 1.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Atlas.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - atlas 1.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Atlas 1.md",
     "Billeder/Bevægeapparatet/Ryggen/atlas 1.png",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Ryghvirvler.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Axis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - axis 1.md",
     "Billeder/Bevægeapparatet/Ryggen/axis 1.png",
-    "4. Flashcards/Reproduktion/Caseuge 1 - Kvindelig reproduktion/Os sacrum.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - os sacrum 2.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - os sacrum 1.md",
     "Billeder/Bevægeapparatet/Ryggen/os sacrum 1.png",
     "Billeder/Bevægeapparatet/Ryggen/ryghvirvler 1.png",
     "Billeder/Bevægeapparatet/Ryggen",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Occlusion - ryghvirver 2.md",
-    "Billeder/Bevægeapparatet/Ryggen/Pasted image 20261116130133.png",
-    "Billeder/Bevægeapparatet/Ryggen/Pasted image 20261116130115.png",
     "Excalidraw/Bevægeapparatet/Ryggen",
     "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",
     "Excalidraw/Bøger",

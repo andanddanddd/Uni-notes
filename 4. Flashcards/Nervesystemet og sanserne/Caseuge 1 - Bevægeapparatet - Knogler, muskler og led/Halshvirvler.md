@@ -1,4 +1,4 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvor mange halshvirvler har vi?:: 7
 - Hvad hedder halshvirvler på latin?:: Vertebrae cervicales
