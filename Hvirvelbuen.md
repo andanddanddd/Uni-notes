@@ -5,6 +5,6 @@
 - Hvad hedder den bagertse del ag hvirvelbuen der forbinder de 2 pedunckler?:: Lamina arcus vertebralis
 - Hvad hedder de 3 tappe der afgår fra hvirvelbuen?
 ?
-- [[Ledtappene]]
-- [[Tværtappene]]
-- [[Torntappen]]
+- [[Ledtappe]]
+- [[Tværtappe]]
+- [[Torntappe]]
