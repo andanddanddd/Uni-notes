@@ -34,3 +34,6 @@
 - Hvornår er de 5 hvirvler i os sacrum sammenvokset?:: Engang i puberteten
 ### Inspektion og palpation
 ### Klinik
+
+
+[[Occlusion - os sacrum 1]]

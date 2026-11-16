@@ -21,3 +21,6 @@
 ![[Os sacrum]]
 
 ![[Os coccygix]]
+
+[[Occlusion - ryghvirvler 1]]
+[[Occlusion - ryghvirver 2]]
