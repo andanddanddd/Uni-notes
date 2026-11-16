@@ -1,7 +1,7 @@
 #flashcards/Hjerte-lunge-nyrer-I #flashcards/4/Farmakologi 
 
 - Hvad hedder det vigtigste protein som lægemidler kan binde til?:: [[Albumin]]
-- Hvilke lægemidler binder bedst til [[albumin]]? (sure eller basiske):: Sure
+- Hvilke lægemidler binder bedst til [[Albumin]]? (sure eller basiske):: Sure
 - Hvilken type proteiner binder basiske lægemidler typisk til?:: [[Akutfaseproteiner]]
 - Hvorfor er det vigtigt at tage højde for binding til protein?
 ?

@@ -1,4 +1,4 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvad er en kyfose?:: Foroverbøjning af rygsøjlen
 - Hor ses kyfoser?:: Thoraxområdet

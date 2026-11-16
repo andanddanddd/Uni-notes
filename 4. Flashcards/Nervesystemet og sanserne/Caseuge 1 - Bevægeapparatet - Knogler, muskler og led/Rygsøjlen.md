@@ -1,6 +1,7 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder rygsøjlen på latin?:: Columna vertebralis
+- Hvad hedder de 
 
 ![[Rygsøjlens bøjninger]]
 

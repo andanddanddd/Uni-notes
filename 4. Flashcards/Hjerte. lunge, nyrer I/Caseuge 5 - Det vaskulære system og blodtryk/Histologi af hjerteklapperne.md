@@ -1,5 +1,5 @@
 #flashcards/Hjerte-lunge-nyrer-I 
-[[Hjerteklapperne]]
+[[Excalidraw/Hjerte lunge nyrer I/Hjerteklapperne]]
 
 - Hvad består hjerteklapperne af?:: Tæt fibrøst bindevæv
 - Hvad hedder det bindevæv som klappernee omgives af?:: Anuli fibrosa
