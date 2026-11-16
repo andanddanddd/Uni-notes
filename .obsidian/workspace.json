@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Benets kar og nerveforsyning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Underekstremitetens anatomi"
+              "title": "Benets kar og nerveforsyning"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a. femor",
+                "query": "n. femo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +121,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,11 +253,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c9db2e68d7cec1d3",
+  "active": "6c337e7cb0fcb430",
   "lastOpenFiles": [
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "Occlusion - benets arterier 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Benets kar og nerveforsyning.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Kar og nerver/Benets arterier 1.md",
+    "Excalidraw/Bevægeapparatet/Underekstremiteterne/Kar og nerver",
+    "benets arterier 1.png",
+    "Pasted image 20261116134951.png",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/N. femoralis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Plexus lumbalis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/A. femoralis.md",
     "1. Fag/Bevægeapparatet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Fovea costalis (sup-inf).md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Thoraxhvirvler.md",
@@ -283,16 +290,9 @@
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver",
     "Billeder/Bevægeapparatet/Overekstremiteterne/armens arterier 1.png",
     "2. Caseuger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik.md",
-    "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
     "Billeder/Bevægeapparatet/Ryggen/os sacrum 2.png",
-    "Excalidraw/Bevægeapparatet/Ryggen/Ryghvirvler 1.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 1.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Os sacrum 2.md",
-    "Excalidraw/Bevægeapparatet/Ryggen/Axis 1.md",
     "Billeder/Bevægeapparatet/Ryggen/atlas 1.png",
     "Billeder/Bevægeapparatet/Ryggen/axis 1.png",
-    "Billeder/Bevægeapparatet/Ryggen/os sacrum 1.png",
-    "Billeder/Bevægeapparatet/Ryggen/ryghvirvler 1.png",
     "Billeder/Bevægeapparatet/Ryggen",
     "Excalidraw/Bevægeapparatet/Ryggen",
     "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",
@@ -301,7 +301,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver",
     "1. Fag/Untitled",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
-    "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Untitled.canvas"
   ]
 }
