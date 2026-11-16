@@ -9,7 +9,7 @@
 - Hvad hedder det store hul i os occipitale?:: [[Foramen magna]]
 - Hvad hedder ledfladeren lateralt for foramen magnus?:: [[Condyli occipitales]]
 - Hvad hedder der strækker sig vertikalt lige over foramen magna?:: Crista occipitalis externa
-	- Hvor ender crista occipitalis externa
+	- Hvor ender crista occipitalis externa opadtil?:: Protuberantia occipitalis externa
 
 ### Relationer
 #### Led
