@@ -7,5 +7,6 @@
 ![[Pasted image 20261111095106.png]]5?:: [[Patella]]
 ![[Pasted image 20261111095106.png]]6?:: Lig. collaterale tibiale
 ![[Pasted image 20261111095106.png]]7?:: [[Fibula]]
+<!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111095106.png]]8?:: [[Tibia]]
 ![[Pasted image 20261111095106.png]]9?:: Membrana interossea cruris

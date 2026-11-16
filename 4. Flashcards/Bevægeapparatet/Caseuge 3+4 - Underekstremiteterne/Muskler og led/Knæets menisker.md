@@ -5,4 +5,5 @@
 - Hvad er knæets meniscus medialis fastbundet til?:: Kapslen, [[Tibia]] (areae intercondylares) og [[Lig. collaterlae tibiale]]
 <!--SR:!2026-11-19,3,250-->
 - Hvad er knæet meniscus lateralis fastbundet til?:: Kapslen, [[Tibia]] (emenentia intercondylares) og [[Lig. meniscofemorale posterius]]
+<!--SR:!2026-11-19,3,250-->
 - Hvilken funktion har knæets menisker?:: Trykpuder (støddæmpning)

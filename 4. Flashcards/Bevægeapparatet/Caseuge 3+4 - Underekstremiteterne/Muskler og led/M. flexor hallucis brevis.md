@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. flexor hallucis brevis?:: Ossa cuneiformia (og [[Lig. plantare longum]])
+<!--SR:!2026-11-19,3,250-->
 #### Insertion
 - Hvor har m. flexor hallucis brevis insertion?:: Basis af phalanx proximale I via storetåens sesamknogler (en på hver side)
 

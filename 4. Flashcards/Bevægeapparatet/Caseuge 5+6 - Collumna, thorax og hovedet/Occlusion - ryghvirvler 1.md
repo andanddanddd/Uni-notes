@@ -10,5 +10,6 @@
 ![[Ryghvirvler 1|800]]E?:: Pedunculus arcus vertebrae
 ![[Ryghvirvler 1|800]]F?:: Processus transversus
 ![[Ryghvirvler 1|800]]G?:: Lamina arcus vertebrae
+<!--SR:!2026-11-20,4,270-->
 ![[Ryghvirvler 1|800]]H?:: Processus spinosus
 

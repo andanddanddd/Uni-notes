@@ -11,4 +11,5 @@
 ![[Fodens muskler 4|600]]D?:: [[Lig. plantare longum]]
 <!--SR:!2026-11-16,3,230-->
 ![[Fodens muskler 4|600]]E?:: [[M. flexor hallucis brevis]]
+<!--SR:!2026-11-19,3,250-->
 ![[Fodens muskler 4|600]]F?:: [[M. adductor hallucis]] (caput obliquum)

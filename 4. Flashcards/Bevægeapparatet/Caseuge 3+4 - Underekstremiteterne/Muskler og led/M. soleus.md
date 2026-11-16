@@ -18,7 +18,9 @@
 ### Funktion
 - Hvilke bevægelser udfører m. soleus?:: Plantarflektion
 - Hvad kendetegner opbygningen af m. soleus muskelfibre?:: Primært type 1 fibre (røde fibre) så den er god til udholdenhed
+<!--SR:!2026-11-20,4,270-->
 - Hvad kendetegner styrke og sammentrækningslængde af m. soleus?:: Fiberene er meget vinklet så de er korte men der er mange af dem (dermed stærk men giver ikke meget mobilitet)
+<!--SR:!2026-11-20,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. soleus?

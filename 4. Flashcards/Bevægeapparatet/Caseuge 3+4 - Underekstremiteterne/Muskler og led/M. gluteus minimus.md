@@ -13,6 +13,7 @@
 
 ### Udspring
 - Hvor udspringer m. gluteus minimus?:: Mellem linea glutea ant. og linea glutea inf.
+<!--SR:!2026-11-19,3,250-->
 
 ### Insertion
 - Hvor har m. gluteus minimus insertion?:: Forkanten af trochanter major (se [[Femoris]])

@@ -30,7 +30,7 @@
 <!--SR:!2026-11-22,16,290-->
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
-<!--SR:!2026-11-16,7,250-->
+<!--SR:!2026-12-05,19,250-->
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major
 - Hvad hedder kammen på bagsidet af skaftete af femoris?:: Linea aspera
 	- Hvad er funktionen af linea aspera?:: Forstækning af knoglen og muskeltilhæftning

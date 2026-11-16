@@ -9,3 +9,4 @@
 
 - Hvilken form har rygsøjlen set forfra?:: Lige
 - Hvad kaldes tilstanden når rygsølen krummer til en side?:: [[Skoliose]]
+<!--SR:!2026-11-20,4,270-->

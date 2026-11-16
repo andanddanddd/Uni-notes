@@ -5,7 +5,7 @@
 - Hvor er m. extensor indicis overordnet?:: Dorsalt på underarmen
 <!--SR:!2026-11-17,15,290-->
 - Hvor dybt ligger m. extensor indicis?:: Dybt
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2026-12-28,42,290-->
 
 ### Form
 - Hvilken form har m. extensor indicis?

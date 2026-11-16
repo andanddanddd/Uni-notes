@@ -5,6 +5,7 @@
 <!--SR:!2026-12-02,16,290-->
 - Hvad hedder membranen/ligamentet der strækker sig mellem de 2 knogler i underbenet?:: Membrana interossea
 - Hvilke 4 muskelloger inddeles udnerbenet i?:: Extensorloge, peroneerlogen, superficiel og profund extensorloge
+<!--SR:!2026-11-20,4,270-->
 
 ![[Retinaculum musculorum extensorum superius]]
 

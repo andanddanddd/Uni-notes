@@ -7,7 +7,9 @@
 ![[Pasted image 20261116101136.png]]3?:: Linea arcuata
 ![[Pasted image 20261116101136.png]]4?:: Spina iliaca anterior superior
 ![[Pasted image 20261116101136.png]]5?:: Ligamentum inguinale
+<!--SR:!2026-11-19,3,250-->
 ![[Pasted image 20261116101136.png]]6?:: Membrana obturatoria
+<!--SR:!2026-11-19,3,250-->
 ![[Pasted image 20261116101136.png]]7?:: Facies symphysialis![[Pasted image 20261116101136.png]]8?:: Os saccrum
 ![[Pasted image 20261116101136.png]]9?:: Os coccygis
 ![[Pasted image 20261116101136.png]]10?:: Foramen ischiadicum majus
