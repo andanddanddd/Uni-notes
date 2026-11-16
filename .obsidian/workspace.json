@@ -12,14 +12,10 @@
             "id": "4ebdaf25ff5533c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N. iliohypogastricus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "N. iliohypogastricus"
+              "title": "New tab"
             }
           }
         ]
@@ -240,15 +236,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4ebdaf25ff5533c9",
   "lastOpenFiles": [
-    "Plexus lumbalis.md",
-    "N. iliohypogastricus.md",
     "Benets kar og nerveforsyning.md",
+    "Plexus sacralis.md",
+    "Plexus lumbalis.md",
+    "N. femoralis.md",
+    "N. obturatorius.md",
+    "N. cutaneus femoris lateralis.md",
+    "N. genitofemoralis.md",
+    "N. ilioinguinalis.md",
+    "N. iliohypogastricus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/A. axillaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Armens kar og nervefosyning.md",
     "V. saphena parva.md",
@@ -266,12 +267,6 @@
     "Hunters karanastomose.md",
     "A. circumflexa femoris lateralis.md",
     "A. circumflexa femoris medialis.md",
-    "A. profunda femoris.md",
-    "Aa. perforantes.md",
-    "A. obturatoria.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/Låret.md",
-    "A. glutea superior.md",
-    "A. glutea inferior.md",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261113_Col_Regional anatomy_Tong Tong.pdf",
