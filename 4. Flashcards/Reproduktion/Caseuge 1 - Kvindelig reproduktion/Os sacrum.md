@@ -18,6 +18,7 @@
 - Hvad hedder strukturen bestående af sammenvoksede [[Tværtappe]]?:: Crista sacralis lateralis
 - Hvilken tap på os sacrum ser nærmest "normal" ud? (i forhold til resten af ryghvirvlerne):: De øverste [[Ledtappe]]
 - Hvad hedder "vingeren" lateralt for basis ossos sacri?:: Ala ossis sacri
+- Hvilken kønsforksel er der i os sacrum?:: Kvinders er kortere bredere og mindre krum
 
 ### Relationer
 #### Led
