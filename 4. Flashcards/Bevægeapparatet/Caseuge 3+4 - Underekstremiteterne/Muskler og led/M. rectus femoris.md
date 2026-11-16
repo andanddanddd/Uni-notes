@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. rectus femoris overordnet?:: Foran på låret
 - Hvilken del af [[M. quadriceps femoris]] kaldes m. rectus femoris?:: Den foreste muskelportion
+<!--SR:!2026-11-20,4,270-->
 - Hvor dybt ligger m. rectus femoris?
 
 ### Form

@@ -22,6 +22,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan det øvre ankelled lave?:: Fleksion-ekstension (dorsalfelktion-plantarfleksion)
+<!--SR:!2026-11-20,4,270-->
 - Hvordan sikres at ddet øvre ankelled agere hængselsled?:: Føringskam (tibia) og føringsfure (talus)
 
 ### Klinik
