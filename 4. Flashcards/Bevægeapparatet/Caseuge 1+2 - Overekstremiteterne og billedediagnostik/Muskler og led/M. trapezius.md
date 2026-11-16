@@ -22,12 +22,12 @@
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
 <!--SR:!2026-12-17,38,290-->
-- Hvad er linea nuchalis sup. overordnet?:: En linje (fremspring) på [[Os. occipitale]]
+- Hvad er linea nuchalis sup. overordnet?:: En linje (fremspring) på [[Os occipitale]]
 <!--SR:!2026-11-14,15,290-->
 
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
 <!--SR:!2026-11-16,14,290-->
-- Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os. occipitale]]
+- Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os occipitale]]
 <!--SR:!2026-11-16,12,270-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
