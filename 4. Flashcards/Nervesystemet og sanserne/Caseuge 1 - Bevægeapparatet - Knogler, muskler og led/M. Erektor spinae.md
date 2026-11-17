@@ -6,8 +6,8 @@
 - Hvilken af de 3 dele af erektor spinae er størst?:: Logissimus
 - Hvilke 3 dele består erektor spinae af?
 ?
-- [[Iliocostalis (erektor spinae)]]
-- [[Longissimus (erektor spinae)]]
+- [[M. Iliocostalis]]
+- [[M. Longissimus]]
 - [[M. Spinalis]]
 
 ### Lokation
@@ -29,7 +29,7 @@
 - Hvor har m. erektor spinae insertion?
 
 ### Funktion
-- Hvilke bevægelser udfører m. erektor spinae?
+- Hvilke bevægelser udfører m. erektor spinae?:: Ekstension af ryggen
 - Hvad gør m. erektor spinae?:: Holder os oprejst
 
 ### Innerversion og reflekser

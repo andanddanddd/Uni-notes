@@ -1,4 +1,4 @@
-#flashcards/3/Nervesystemet 
+#flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. spinalis?:: [[M. Erektor spinae]] (de dybe rygmuskler)

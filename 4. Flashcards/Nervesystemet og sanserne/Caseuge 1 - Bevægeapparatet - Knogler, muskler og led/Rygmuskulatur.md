@@ -2,4 +2,4 @@
 
 ![[M. Erektor spinae]]
 
-![[Transversospinalis]]
+![[Mm. Transversospinalis]]

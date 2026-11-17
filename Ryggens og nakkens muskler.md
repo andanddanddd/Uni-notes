@@ -6,7 +6,7 @@
 - Hvad hedder de 6 dybe rygmuskler?
 ?
 - [[M. Erektor spinae]]
-- [[Transversospinalis]]
+- [[Mm. Transversospinalis]]
 - [[Mm. interspinales]]
 - [[Mm. intertransversarii]]
 - [[Mm. suboccipitales]]
