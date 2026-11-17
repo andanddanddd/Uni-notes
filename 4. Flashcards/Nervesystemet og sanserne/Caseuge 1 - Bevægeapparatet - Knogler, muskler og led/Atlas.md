@@ -2,6 +2,7 @@
 
 - Hvad hedder atlas på dansk?:: Ringhvirvlen
 - Hvilken del af en normal ryghvivrvel mangler atlas og hvad er det erstatet med?:: Hvirvellegemet, i stdet er der en ekstra hvirvelbue
+<!--SR:!2026-11-21,4,270-->
 - Hvad hedder knuden foreste på atlas?:: Tuberculum ant.
 - Hvad hedder knuden bagerst på atlas?:: Tuberculum post.
 	- Hvilken "funktion" har tuberculum post?:: Agere torntap

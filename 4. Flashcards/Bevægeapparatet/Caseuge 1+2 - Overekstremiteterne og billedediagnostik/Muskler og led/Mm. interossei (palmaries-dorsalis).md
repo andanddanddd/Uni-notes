@@ -21,6 +21,7 @@
 ### Insertion
 - Hvor har mm. interossei palmaries insertion?:: Væk fra finger 3 (dvs siden mod finger 3)
 - Hvor har mm. interossei dorsalis insertion?:: hen mod finger 3 (dvs siden væk fra finger 3)
+<!--SR:!2026-11-20,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei palmaries?:: Samle de ulnare fingre (samt precisionsgreb)

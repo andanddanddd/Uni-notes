@@ -6,6 +6,7 @@
 ![[Knæled 1|600]]A?:: Lig. cuciatum ant.
 ![[Knæled 1|600]]B?:: Lig cruciatum post
 ![[Knæled 1|600]]C?:: Recessus suprapatellaris
+<!--SR:!2026-11-17,0,230-->
 ![[Knæled 1|600]]D?:: Quadricepssene
 ![[Knæled 1|600]]E?:: [[Lig. patellae]]
 

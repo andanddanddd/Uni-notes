@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilken funktion har m. infraspinatus?:: Udadrotation af armen
-<!--SR:!2026-11-17,5,250-->
+<!--SR:!2026-12-06,19,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor digitorum brevis overordnet?:: Fodryggen
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-01,14,290-->
 - Hvor dybt ligger m. extensor digitorum brevis?:: Dybt (hviler direkte på knoglerne)
 <!--SR:!2026-11-20,4,270-->
 

@@ -17,12 +17,14 @@
 - Hvor udspringer mm. interossei (fod)?:: Skaftet af ossa metatasales
 #### Insertion
 - Hvor har mm. interossei (fod) insertion?:: Basis af phalanx proximale
+<!--SR:!2026-11-18,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei plantaris?:: Adduction
 - Hvilke bevægelser udfører mm. interossei dorsalis (fod)?:: Abduction
 <!--SR:!2026-11-19,3,250-->
 - Hvilken mm. interossei er kraftogst i foden?:: de dorsale
+<!--SR:!2026-11-21,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere mm. interossei?

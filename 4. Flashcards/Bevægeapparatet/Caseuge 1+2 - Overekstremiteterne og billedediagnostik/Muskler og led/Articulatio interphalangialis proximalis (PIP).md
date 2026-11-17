@@ -2,6 +2,7 @@
 
 ### Ledtype
 - Hvilken ledtype er PIP?:: [[Hængselsled]]
+<!--SR:!2026-11-21,4,270-->
 
 ### Ledflader
 - Hvilke 2 ledflader består PIP af?:: Caput af [[Phalinx proximalis]] (ledhoved) og basis af [[Phalinx media]]

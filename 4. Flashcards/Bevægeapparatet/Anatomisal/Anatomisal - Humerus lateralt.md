@@ -8,6 +8,7 @@
 ![[Pasted image 20261111102941.png]]4?:: Processus coronoideus
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111102941.png]]5?:: Ulna
+<!--SR:!2026-11-21,4,270-->
 ![[Pasted image 20261111102941.png]]6?:: Membrana interossea
 ![[Pasted image 20261111102941.png]]7?:: Humerus
 <!--SR:!2026-11-30,14,290-->
