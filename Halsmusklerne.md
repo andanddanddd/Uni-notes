@@ -22,5 +22,5 @@
 ?
 - [[M. sternohyoideus]]
 - [[M. omohyoideus]]
-- [[M. sternothyroideus]]
 - [[M. thyrohyoideus]]
+- [[M. sternothyroideus]]

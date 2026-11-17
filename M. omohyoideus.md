@@ -2,7 +2,7 @@
 
 
 ### Lokation
-- Hvilken muskelgruppe tilhøre m. omohyoideus?:: 
+- Hvilken muskelgruppe tilhøre m. omohyoideus?:: Tungebenets infrahyoide muskler
 - Hvor dybt ligger m. omohyoideus?:: Superficielt
 
 ### Form
@@ -10,12 +10,12 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. omohyoideus?
+- Hvor udspringer m. omohyoideus?:: [[Os. hyoideum]]
 #### Insertion
-- Hvor har m. omohyoideus insertion?
+- Hvor har m. omohyoideus insertion?:: Margo sup. af [[Scapula]]
 
 ### Funktion
-- Hvilke bevægelser udfører m. omohyoideus?
+- Hvilke bevægelser udfører m. omohyoideus?:: Trække [[Os. hyoideum]] nedad
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. omohyoideus?
