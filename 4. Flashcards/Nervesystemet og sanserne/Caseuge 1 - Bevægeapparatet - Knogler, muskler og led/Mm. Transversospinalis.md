@@ -3,11 +3,9 @@
 - Hvad er forskellen på semispinalis, multifidus og rotares?:: Semispinalismusklerne er længere end multifidus som er længere end rotares
 - Hvilke dele består transversospinalis af?
 ?
-- [[Semispinalis (transversospianlis) ommies]]
+- [[M. Semispinalis]]
 - [[Multifidus (transversospinalis) ommies]]
 - [[Rotatores (transversospinalis) ommies]]
-
-
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. transversospinalis?:: De dybe rygmuskler
 - Hvor dybt ligger mm. transversospinalis?:: Dybt
