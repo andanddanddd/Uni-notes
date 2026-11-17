@@ -5,6 +5,7 @@
 ![[Pasted image 20261116101136.png]]1?:: Promontorium
 ![[Pasted image 20261116101136.png]]2?:: Crista iliaca
 ![[Pasted image 20261116101136.png]]3?:: Linea arcuata
+<!--SR:!2026-11-20,3,250-->
 ![[Pasted image 20261116101136.png]]4?:: Spina iliaca anterior superior
 ![[Pasted image 20261116101136.png]]5?:: Ligamentum inguinale
 <!--SR:!2026-11-19,3,250-->

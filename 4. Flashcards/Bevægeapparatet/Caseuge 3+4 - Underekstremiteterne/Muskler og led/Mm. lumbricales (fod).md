@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer Mm. lumbricales (fod)?:: Senerne fra [[M. flexor digitorum longus]]
+<!--SR:!2026-11-20,3,250-->
 #### Insertion
 - Hvor har Mm. lumbricales (fod) insertion?:: Proximalt på phalanx media af de 4 laterale tær
 <!--SR:!2026-11-17,1,230-->

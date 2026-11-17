@@ -8,7 +8,7 @@
 <!--SR:!2026-11-20,15,290-->
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-17,61,310-->
 ### Udspring
 - Hvor udspringer m. trapezius overordnet fra?:: Os. occipitale samt rygraden
 <!--SR:!2027-01-06,54,310-->
@@ -47,7 +47,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. trapezius?:: [[N. accesorius]]
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-18,62,310-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

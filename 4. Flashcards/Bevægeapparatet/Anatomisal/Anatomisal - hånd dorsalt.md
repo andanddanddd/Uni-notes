@@ -3,6 +3,7 @@
 ![[Pasted image 20261111095655.png]]1?:: Radius
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111095655.png]]2?:: Os scaphoideum
+<!--SR:!2026-11-21,4,270-->
 ![[Pasted image 20261111095655.png]]3?:: Os metacarpi l
 ![[Pasted image 20261111095655.png]]4?:: Phalanx proximalis l
 ![[Pasted image 20261111095655.png]]5?:: Phalanx distalis I

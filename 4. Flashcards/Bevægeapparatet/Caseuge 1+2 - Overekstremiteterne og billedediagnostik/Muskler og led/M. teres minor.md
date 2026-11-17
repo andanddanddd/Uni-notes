@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. teres minor overordnet?:: Underkanten af [[M. infraspinatus]]
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-14,58,310-->
 - Hvor dybt ligger m. teres minor
 
 ### Form

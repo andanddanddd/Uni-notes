@@ -19,6 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. rectus femoris?:: Ekstension af hofteledet og knæledet
+<!--SR:!2026-11-21,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus femoris?

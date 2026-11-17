@@ -5,7 +5,7 @@
 ![[Sener i hånd|650]]A?:: [[M. extensor carpi ulnaris]]
 <!--SR:!2026-11-23,10,250-->
 ![[Sener i hånd|650]]B?:: [[M. extensor digitorum]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-13,57,310-->
 ![[Sener i hånd|650]]C?:: [[M. extensor digiti minimi]]
 <!--SR:!2026-11-22,16,290-->
 ![[Sener i hånd|650]]D?:: Extensoraponeurosen

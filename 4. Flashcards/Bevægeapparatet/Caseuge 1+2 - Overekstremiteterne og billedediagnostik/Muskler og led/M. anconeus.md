@@ -17,6 +17,7 @@
 
 ### Insertion
 - Hvor har m. anconeus insertion?:: Proximalt på [[Ulna]]s bagkant
+<!--SR:!2026-11-18,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. anconeus?:: Ekstension af albueledet (svag) samt stabilisering af radiohumealledet

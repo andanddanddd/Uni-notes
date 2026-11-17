@@ -7,3 +7,4 @@
 - Hvad indeholder 2. kulisse af retinaculum musculorum extensorum inferius?:: [[M. extensor hallucis longus]]
 - Hvad indeholder 3. kulisse af retinaculum musculorum extensorum inferius?:: Kar og nerver
 - Hvad indeholder 4. kulisse af retinaculum musculorum extensorum inferius?:: [[M. extensor digitorum longus]] of [[M. peroneus tertius]]
+<!--SR:!2026-11-18,1,230-->

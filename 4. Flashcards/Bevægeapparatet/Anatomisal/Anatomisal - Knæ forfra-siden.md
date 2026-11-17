@@ -4,7 +4,7 @@
 
 ![[Pasted image 20261111094249.png]]1?:: [[Femoris]] 
 ![[Pasted image 20261111094249.png]]2?:: Epicondylus lateralis
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-02,15,290-->
 ![[Pasted image 20261111094249.png]]3?:: [[Lig. collaterale fibulare]]
 ![[Pasted image 20261111094249.png]]4?:: Meniscus lateralis
 ![[Pasted image 20261111094249.png]]5?:: Condylus lateralis tibiae

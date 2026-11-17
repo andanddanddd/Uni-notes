@@ -40,6 +40,7 @@
 - Hvem er typisk mest "hjulbenet" (genu varum) og hvorfor?:: Nyfødte grundet deres position i moderen
 - Hvilken næringsmangel kan fære til "hjulben" (genu varum)?:: Mangel på [[D-vitamin]]
 - Hvorfor skal knæet være så kraftigt?:: Det lægger mellem de 2 længste knogler i kroppen (så store krafter fysik yesyes)
+<!--SR:!2026-11-21,4,270-->
 - Hvad er knæledets normale temperatur?:: 32 grader C
 
 

@@ -4,6 +4,7 @@
 
 
 ![[Knæets muskler 1|600]]A?:: [[M. semimembranosus]]
+<!--SR:!2026-11-20,3,250-->
 ![[Knæets muskler 1|600]]B?:: [[M. gracilis]]
 ![[Knæets muskler 1|600]]C?:: [[M. semitendinosus]]
 ![[Knæets muskler 1|600]]D?:: [[M. gastrocnemius]] (caput mediale/caput laterale)

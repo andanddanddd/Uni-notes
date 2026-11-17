@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. tensor fasciae latea?:: Spina iliaca ant. sup. (se [[Os ilium]])
+<!--SR:!2026-11-21,4,270-->
 
 ### Insertion
 - Hvor har m. tensor fasciae latea insertion?:: [[Tractus iliotibialis]]

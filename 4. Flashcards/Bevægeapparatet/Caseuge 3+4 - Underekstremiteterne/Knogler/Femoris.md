@@ -29,6 +29,7 @@
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
 <!--SR:!2026-11-22,16,290-->
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
+<!--SR:!2026-11-20,3,250-->
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
 <!--SR:!2026-12-05,19,250-->
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major
@@ -38,6 +39,7 @@
 	- Hvad kaldes overgangen fra trochanter minor til linea aspera?:: Linea pectinea
 	- Hvad hedder de 2 dele af skaftet adskilt af linea aspera?:: Labium mediale/laterale
 		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus (oss9s femoris)
+<!--SR:!2026-11-18,1,230-->
 			- Hvad er formålet med tuberositas gluteus?:: Muskelhæftning
 - Hvordan er den distale ekstremitet af femoris overordnet opbygget?:: Af 2 fremspring
 <!--SR:!2026-11-20,4,270-->

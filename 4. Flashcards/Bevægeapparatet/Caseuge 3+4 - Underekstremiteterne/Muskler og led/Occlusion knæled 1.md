@@ -3,10 +3,10 @@
 ![[knæled 1.png]]
 
 
-A?:: Lig. cuciatum ant.
-B?:: Lig cruciatum post
-C?:: Recessus suprapatellaris
-D?:: Quadricepssene
-E?:: [[Lig. patellae]]
+![[Knæled 1|600]]A?:: Lig. cuciatum ant.
+![[Knæled 1|600]]B?:: Lig cruciatum post
+![[Knæled 1|600]]C?:: Recessus suprapatellaris
+![[Knæled 1|600]]D?:: Quadricepssene
+![[Knæled 1|600]]E?:: [[Lig. patellae]]
 
 

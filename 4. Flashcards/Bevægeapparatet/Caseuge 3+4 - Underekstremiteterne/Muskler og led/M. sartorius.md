@@ -11,6 +11,7 @@
 
 ### Forløb
 - Hvad er særligt ved forløbet af m. sartorius?:: Den krydser ind over låret
+<!--SR:!2026-11-21,4,270-->
 #### Udspring
 - Hvor udspringer m. sartorius?:: Spina iliaca ant. sup (se [[Os ilium]])
 #### Insertion

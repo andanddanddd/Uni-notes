@@ -25,7 +25,7 @@
 ![[Hånd(knogle) anatomi 1]]K?:: Radius
 <!--SR:!2026-11-18,16,290-->
 ![[Hånd(knogle) anatomi 1]]1?:: Os scaphoideum
-<!--SR:!2026-11-17,11,190-->
+<!--SR:!2026-12-17,30,210-->
 ![[Hånd(knogle) anatomi 1]]2?:: Os lunatum
 <!--SR:!2026-11-22,13,230-->
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum

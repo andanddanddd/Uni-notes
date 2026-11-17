@@ -21,7 +21,7 @@
 ![[Hoftebenet 1|600]]J?:: [[Foramen obturatum]]
 <!--SR:!2026-11-21,16,290-->
 ![[Hoftebenet 1|600]]K?:: Tuberositas iliaca
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2027-01-03,47,290-->
 ![[Hoftebenet 1|600]]L?:: Spina iliaca post. sup.
 <!--SR:!2026-11-20,16,290-->
 ![[Hoftebenet 1|600]]M?:: Facies articularis

@@ -10,6 +10,7 @@
 <!--SR:!2026-12-03,17,250-->
 ![[Hofte anatomi 2||650]]E?:: [[M. piriformis]]
 ![[Hofte anatomi 2||650]]F?:: Foramen inrapirifprme
+<!--SR:!2026-11-21,4,270-->
 ![[Hofte anatomi 2||650]]G?:: [[Lig. sacrospinale]]
 <!--SR:!2026-11-20,4,270-->
 ![[Hofte anatomi 2||650]]H?:: Spina ischiadica
