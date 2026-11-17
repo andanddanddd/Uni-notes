@@ -1,6 +1,6 @@
 
 ### Lokation
-- Hvor er mK overordnet?
+- Hvilken muskelgruppe tilhøre mK?
 - Hvor dybt ligger mK?
 
 ### Form

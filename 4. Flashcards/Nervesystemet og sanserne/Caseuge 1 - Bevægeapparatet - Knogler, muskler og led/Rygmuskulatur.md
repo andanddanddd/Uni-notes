@@ -1,5 +1,5 @@
 #flashcards/3/Nervesystemet 
 
-![[Erektor spinae]]
+![[M. Erektor spinae]]
 
 ![[Transversospinalis]]

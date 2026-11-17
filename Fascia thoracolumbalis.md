@@ -2,5 +2,6 @@
 
 - Hvilke 2 dele består fascia thoracolumbalis af?:: Dorsal og ventralt blad
 - Hvilken muskelgruppe "tilhører" fascia thoracolumbalis?:: De dybe rygmuskler
-- Hvor hæfter det dorsale blad af fascia thoracolumbalis?:: [[Torntappe]]n
+- Hvor på ryghirvlerne hæfter det dorsale blad af fascia thoracolumbalis?:: [[Torntappe]]n
+- Hvor på ryghirvlerne hæfter det ventrale blad af fascia thoracolumbalis?:: [[Tværtappe]]ne
 - Hvor er fascia thoracolumbalis tykkest?:: Lænden (gradvist tyndere opadtil)

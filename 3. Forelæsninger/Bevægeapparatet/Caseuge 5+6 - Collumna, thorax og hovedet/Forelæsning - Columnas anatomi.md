@@ -4,4 +4,4 @@
 
 ![[Os occipitale]]
 
-![[Ryggens muskler]]
+![[Ryggens og nakkens muskler]]
