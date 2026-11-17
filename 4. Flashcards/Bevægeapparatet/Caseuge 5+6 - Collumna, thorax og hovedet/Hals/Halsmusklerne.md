@@ -24,3 +24,7 @@
 - [[M. omohyoideus]]
 - [[M. thyrohyoideus]]
 - [[M. sternothyroideus]]
+
+[[Occlusion - halsmuskler 1]]
+[[Occlusion - halsmuskler 2]]
+[[Occlusion - halsmuskler 3]]
