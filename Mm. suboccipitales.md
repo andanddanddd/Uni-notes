@@ -1,9 +1,14 @@
 #flashcards/5/Bevægeapparatet 
 
-
+- Hvad hedder de 4 dele af mm. suboccipitales?
+?
+- [[M. rectus capitis posterior major]]
+- [[M. rectus capitis posterior minor]]
+- [[M. obliquus capitis superior]]
+- [[M. obliquus capitis inferior]]
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. suboccipitales?:: Dybe rygmuskler
-- Hvor er mm. suboccipitales overordnet?:: Mellem de 2 øverste halshvirv
+- Hvor er mm. suboccipitales overordnet?:: Mellem de 2 øverste halshvirvler og hovedet
 - Hvor dybt ligger mm. suboccipitales?
 
 ### Form
@@ -17,6 +22,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører mm. suboccipitales?
+- Hvilken ikke-bevægelsesmæssig funktion har mm. suboccipitales?:: Proprioception
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere mm. suboccipitales?
