@@ -17,6 +17,7 @@
 - Hvad hedder ligamentet der agere ldlæbe over inscisura acetabuli?:: [[Ligamentum transversus acetabuli]]
 <!--SR:!2026-12-02,15,290-->
 - Hvad kaldes fedtlegemet der agere støddæmper i hofteledet?:: Pulvinar acetabuli
+<!--SR:!2026-11-20,3,250-->
 - Hvad hedder ligamentet der får mellem fovea capitis og [[Lig. sacroiliaca ventralia]]?:: [[Ligamentum capitis femoris]]
 - Hvad hedder de 3 store ligamenter der forstærker hofteledet?
 ?

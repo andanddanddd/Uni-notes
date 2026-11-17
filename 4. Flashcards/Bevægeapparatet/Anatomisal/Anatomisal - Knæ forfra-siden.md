@@ -16,6 +16,7 @@
 <!--SR:!2026-11-14,3,250-->
 ![[Pasted image 20261111094249.png]]10?:: Condulys medialis femoris
 ![[Pasted image 20261111094249.png]]11?:: Lig. cruciatum ant.
+<!--SR:!2026-11-21,4,270-->
 ![[Pasted image 20261111094249.png]]12?:: Lig transversum genus
 ![[Pasted image 20261111094249.png]]13?:: Codylus medialis tibiae
 ![[Pasted image 20261111094249.png]]14?:: [[Lig. patellae]]

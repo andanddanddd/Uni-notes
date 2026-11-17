@@ -7,3 +7,4 @@
 - [[A. circumflexa femoris medialis]]
 - [[A. circumflexa femoris lateralis]]
 - [[Aa. perforantes]] (den mest proximale)
+<!--SR:!2026-11-20,3,250-->

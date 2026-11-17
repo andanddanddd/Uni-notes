@@ -32,6 +32,7 @@
 
 - Hvorfor kan knæledet kun rotere når det er flekteret?:: Der er ligamenterne og andre bløddele løsere
 - Hvordan foregår rotation af knæledet overordnet?:: Tibia rotere om den mediale kondyl mens dvs at den laterale kondyl kan bevæge sig lidt frem og tilbage ved ekstension
+<!--SR:!2026-11-20,3,250-->
 
 ### Klinik
 - Hvorfor er mænd ofte mere "hjulbenet" (genu varum) en kvinder?:: Deres hofte er smaldere
