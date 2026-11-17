@@ -10,3 +10,10 @@
 ?
 - [[Platysma]]
 - [[M. sternocleidomasteoideus]]
+
+- Hvad hedder de 4 tyggebensmuskler?
+?
+- [[M. digastricus]]
+- [[M. stylohyoideus]]
+- [[M. mylohyoideus]]
+- [[M. geniohyoideus]]
