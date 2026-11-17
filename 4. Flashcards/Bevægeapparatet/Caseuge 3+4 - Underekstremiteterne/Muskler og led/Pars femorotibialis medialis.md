@@ -4,3 +4,4 @@
 - Hvad danner ledhoved i pars femorotibialis medialis?:: Condylys medialis af [[Femoris]]
 <!--SR:!2026-11-15,4,270-->
 - Hvor stabil er pars femorotibialis medialis?:: Meget stabil
+<!--SR:!2026-11-20,4,270-->

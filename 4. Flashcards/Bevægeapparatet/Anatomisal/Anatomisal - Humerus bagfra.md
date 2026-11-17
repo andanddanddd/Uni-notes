@@ -10,7 +10,9 @@
 ![[Pasted image 20261111103321.png]]5?:: Humerus
 <!--SR:!2026-11-28,12,270-->
 ![[Pasted image 20261111103321.png]]6?:: Fossa olecrani
+<!--SR:!2026-11-19,3,250-->
 ![[Pasted image 20261111103321.png]]7?:: Epicondylus medialis
 ![[Pasted image 20261111103321.png]]8?:: Capsula articularis
 ![[Pasted image 20261111103321.png]]9?:: Olecranon
 ![[Pasted image 20261111103321.png]]10?:: Ulna
+<!--SR:!2026-11-20,4,270-->

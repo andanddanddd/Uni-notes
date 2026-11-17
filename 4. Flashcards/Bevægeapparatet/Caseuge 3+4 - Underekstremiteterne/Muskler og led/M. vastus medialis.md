@@ -11,6 +11,7 @@
 
 ### Forløb
 - Hvad kendetegner m. vastus medialis' forløb lige efter udspringet?:: Den bevæger sig medialt rundt om [[Femoris]]
+<!--SR:!2026-11-20,4,270-->
 #### Udspring
 - Hvor udspringer m. vastus medialis?:: Linea aspara (og dens forlængelser) (se [[Femoris]])
 #### Insertion

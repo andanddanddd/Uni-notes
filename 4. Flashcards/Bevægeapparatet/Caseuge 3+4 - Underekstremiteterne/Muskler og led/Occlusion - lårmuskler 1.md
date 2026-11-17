@@ -9,7 +9,7 @@
 <!--SR:!2026-11-21,5,230-->
 ![[Lårmuskler 1|600]]E?:: [[Tractus iliotibialis]]
 ![[Lårmuskler 1|600]]F?:: [[M. rectus femoris]]
-<!--SR:!2026-11-17,4,210-->
+<!--SR:!2026-11-29,12,230-->
 ![[Lårmuskler 1|600]]G?:: [[M. vastus lateralis]]
 ![[Lårmuskler 1|600]]H?:: [[Lig. patellae]]
 ![[Lårmuskler 1|600]]I?:: Tuberositas tibiae

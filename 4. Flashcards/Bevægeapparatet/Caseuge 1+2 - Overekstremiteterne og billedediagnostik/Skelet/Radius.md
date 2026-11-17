@@ -32,6 +32,6 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskive sker længdevækst af radius?:: Den distale
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-13,57,310-->
 ### Inspektion og palpation
 ### Klinik

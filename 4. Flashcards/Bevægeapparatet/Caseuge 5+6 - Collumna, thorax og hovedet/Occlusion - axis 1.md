@@ -8,6 +8,7 @@
 ![[Axis 1|700]]C?:: Foramen transversarium
 ![[Axis 1|700]]D?:: Processus transversum
 ![[Axis 1|700]]E?:: Facies articularis post.
+<!--SR:!2026-11-19,3,250-->
 ![[Axis 1|700]]F?:: Processus spinosus
 ![[Axis 1|700]]G?:: Facies articularis ant.
 ![[Axis 1|700]]H?:: Corpus vertebrae

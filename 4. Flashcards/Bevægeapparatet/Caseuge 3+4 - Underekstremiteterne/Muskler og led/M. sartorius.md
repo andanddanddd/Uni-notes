@@ -26,6 +26,7 @@
 - Udadrotation af hofte
 - Knæfleksion
 - Indadrotation af underbenet ved bøjet knæ
+<!--SR:!2026-11-20,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. sartorius?

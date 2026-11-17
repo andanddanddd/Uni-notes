@@ -13,6 +13,7 @@
 ![[Underbensknogler 1|600]]E?:: Condylus medialis
 <!--SR:!2026-11-30,14,290-->
 ![[Underbensknogler 1|600]]F?:: Tuberositas tibiae
+<!--SR:!2026-11-19,3,250-->
 ![[Underbensknogler 1|600]]G?:: Linea musculi solei
 ![[Underbensknogler 1|600]]H?:: Facies medialis
 <!--SR:!2026-11-23,12,270-->

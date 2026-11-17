@@ -5,6 +5,7 @@
 
 ### Ledflader
 - Hvilke 2 ledflader består PIP af?:: Caput af [[Phalinx proximalis]] (ledhoved) og basis af [[Phalinx media]]
+<!--SR:!2026-11-20,4,270-->
 
 ### Ledets strukture
 

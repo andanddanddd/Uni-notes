@@ -13,4 +13,5 @@
 ![[Underbenets muskler 2|550]]H?:: [[M. extensor digitorum longus]]
 ![[Underbenets muskler 2|550]]I?:: Øvre extensorretinakkel
 ![[Underbenets muskler 2|550]]J?:: Nedre extensorretinakel
+<!--SR:!2026-11-20,4,270-->
 

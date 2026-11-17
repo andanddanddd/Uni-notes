@@ -12,7 +12,7 @@
 <!--SR:!2026-11-19,14,290-->
 ![[Sener i hånd|650]]E?:: [[M. abductor pollicis longus]]
 ![[Sener i hånd|650]]F?:: [[M. extensor pollicis brevis]]
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-24,8,250-->
 ![[Sener i hånd|650]]G?:: [[M. extensor carpi radialis brevis]]
 ![[Sener i hånd|650]]H?:: [[M. extensor carpi radialis longus]]
 <!--SR:!2026-11-14,2,230-->

@@ -3,7 +3,7 @@
 ![[humerus anatomi 1.png]]
 
 ![[Humerus anatomi 1]]A?:: Collum anatomicum
-<!--SR:!2026-11-14,9,250-->
+<!--SR:!2026-12-19,33,270-->
 
 ![[Humerus anatomi 1]]B?:: Tuberculum majus
 <!--SR:!2027-01-18,66,310-->

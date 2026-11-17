@@ -11,6 +11,7 @@
 
 ### Forløb
 - Hvilken kulisse går m. peroneus igennem?:: 4. kulisse (se [[Retinaculum musculorum extensorum inferius]])
+<!--SR:!2026-11-20,4,270-->
 #### Udspring
 - Hvor udspringer m. peroneus tertius?:: [[Fibula]] og membrana interossea
 #### Insertion

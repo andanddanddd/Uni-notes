@@ -20,6 +20,7 @@
 - Hvor udspringer m. psoas major ventrale del?:: Siderne af ambitius eminentes (se [[Ryghvirvler]]) og siderne af disci intervertabrales (se [[Rygsøjlens båndskiver]]) (fra T-12 til L5)
 <!--SR:!2026-11-18,9,250-->
 - Hvor udspringer m. psoas major dorsale del?:: Forfladen af processus transversus
+<!--SR:!2026-11-20,4,270-->
 
 ### Insertion
 - Hvor har m. iliopsoas insertion?:: Trochanter minor (se [[Femoris]])

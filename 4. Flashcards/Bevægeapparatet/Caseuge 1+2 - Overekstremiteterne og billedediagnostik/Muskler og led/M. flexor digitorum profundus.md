@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor digitorum profundus?:: Flektion i håndled og fingerled
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-23,67,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

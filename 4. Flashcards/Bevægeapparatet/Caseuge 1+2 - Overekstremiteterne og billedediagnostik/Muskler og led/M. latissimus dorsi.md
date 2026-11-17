@@ -26,7 +26,7 @@
 - Hvilke bevægelser kan m. latissimus dorsi udføre på armen?:: Adduction, extension og indadrotation
 <!--SR:!2026-11-16,14,290-->
 - Hvilken effekt har m. latissimus dorsi ved fikseret overkrop?:: Løfter underkroppen
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-14,59,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

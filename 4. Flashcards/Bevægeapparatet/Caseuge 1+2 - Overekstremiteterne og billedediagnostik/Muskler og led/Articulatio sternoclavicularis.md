@@ -4,7 +4,7 @@
 
 ### Ledtype
 - Hvilken type led er articolatio sternoclavicularis?:: [[Glideled]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-19,63,310-->
 
 ### Ledflader
 - Hvilke 2 ledflader består articulatio sternoclavicularis af?:: [[Facies articularis sternalis]] og [[Incisura clavicularis]]

@@ -25,6 +25,7 @@
 
 ### Funktion
 - Hvilken primær bevægelse udfører m. gluteus maximus?:: Ekstension af hofteledet
+<!--SR:!2026-11-20,4,270-->
 - I hvilke siturationer udfører m. gluteus maximus ekstension?:: Løb og rejse sig op fra sidende
 <!--SR:!2026-11-14,3,250-->
 - Hvilken bevægelse/kropsform er nødvendigt for at m. gluteus maximus kan udfører ekstension?:: Fremadstillet overkrop

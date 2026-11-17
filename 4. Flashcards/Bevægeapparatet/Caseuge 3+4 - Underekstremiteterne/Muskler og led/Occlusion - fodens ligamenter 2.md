@@ -13,5 +13,5 @@
 <!--SR:!2026-11-15,4,270-->
 ![[Fodens ligamenter 2|600]]E?:: [[Lig. talofibulare posterius]]
 ![[Fodens ligamenter 2|600]]F?:: [[Lig. cancaneofibulare]]
-<!--SR:!2026-11-15,3,250-->
+<!--SR:!2026-11-29,12,270-->
 

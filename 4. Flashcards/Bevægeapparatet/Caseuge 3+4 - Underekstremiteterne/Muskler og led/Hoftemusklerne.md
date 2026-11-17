@@ -19,7 +19,7 @@
 - [[Mm gemelli]]
 - [[M. quadratus femoris]]
 - [[M. obturatorius externus]]
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-24,7,250-->
 
 [[Occlusion længdemuskel 1]]
 [[Occlusion - hofte anatomi 1]]

@@ -2,6 +2,7 @@
 ![[Pasted image 20261111095251.png]]
 ![[Pasted image 20261111095300.png]]1?:: [[Femoris]]
 ![[Pasted image 20261111095300.png]]2?:: Condylus medialis femoris
+<!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111095300.png]]3?:: Lig. cruciatum posterius
 <!--SR:!2026-11-19,3,250-->
 ![[Pasted image 20261111095300.png]]4?:: Meniscus medialis
