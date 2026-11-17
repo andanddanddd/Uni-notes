@@ -4,8 +4,8 @@
 - Hvilke dele består transversospinalis af?
 ?
 - [[M. Semispinalis]]
-- [[Multifidus (transversospinalis) ommies]]
-- [[Rotatores (transversospinalis) ommies]]
+- [[M. multifidus]]
+- [[M. Rotatores]]
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. transversospinalis?:: De dybe rygmuskler
 - Hvor dybt ligger mm. transversospinalis?:: Dybt
