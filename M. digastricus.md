@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 ### Lokation
-- Hvilken muskelgruppe tilhøre m. digastricus?:: Tungebensmusklerne
+- Hvilken muskelgruppe tilhøre m. digastricus?:: Tungebensmusklerne suprahyoide muskler
 - Hvor dybt ligger m. digastricus?
 
 ### Form

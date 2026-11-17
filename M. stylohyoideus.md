@@ -2,7 +2,7 @@
 
 
 ### Lokation
-- Hvilken muskelgruppe tilhøre m. stylohyoideus?:: Tungebenets muskler
+- Hvilken muskelgruppe tilhøre m. stylohyoideus?:: Tungebenets muskler suprahyoide muskler
 - Hvor dybt ligger m. stylohyoideus?
 
 ### Form

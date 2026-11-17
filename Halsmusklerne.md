@@ -11,9 +11,16 @@
 - [[Platysma]]
 - [[M. sternocleidomasteoideus]]
 
-- Hvad hedder de 4 tyggebensmuskler?
+- Hvad hedder de 4 suprahyoide tungebensmuskler?
 ?
 - [[M. digastricus]]
 - [[M. stylohyoideus]]
 - [[M. mylohyoideus]]
 - [[M. geniohyoideus]]
+
+- Hvad hedder de 4 infrahyoide tungebensmuskler?
+?
+- [[M. sternohyoideus]]
+- [[M. omohyoideus]]
+- [[M. sternothyroideus]]
+- [[M. thyrohyoideus]]

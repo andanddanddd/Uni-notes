@@ -2,7 +2,7 @@
 
 
 ### Lokation
-- Hvilken muskelgruppe tilhøre m. mylohyoideus?:: Tungebenets muskler
+- Hvilken muskelgruppe tilhøre m. mylohyoideus?:: Tungebenets muskler suprahyoide muskler
 - Hvor dybt ligger m. mylohyoideus?
 
 ### Form
