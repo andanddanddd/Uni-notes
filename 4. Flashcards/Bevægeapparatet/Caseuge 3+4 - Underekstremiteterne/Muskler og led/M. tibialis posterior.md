@@ -16,6 +16,7 @@
 <!--SR:!2026-11-19,3,250-->
 #### Insertion
 - Hvor har m. tibialis post. insertion?:: [[Os naviculare]] og os cuniformia
+<!--SR:!2026-11-18,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. tibialis post.?:: Plantarflektion og inversion

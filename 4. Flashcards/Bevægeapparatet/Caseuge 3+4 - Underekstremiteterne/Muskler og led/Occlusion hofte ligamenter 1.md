@@ -10,6 +10,7 @@
 ![[Hofteligamenter 1|700]]D?:: [[Lig. pubofemorale]]
 ![[Hofteligamenter 1|700]]E?:: [[Lig. iliofemorale]]
 ![[Hofteligamenter 1|700]]G?:: Membrana obturatoria
+<!--SR:!2026-11-21,4,270-->
 ![[Hofteligamenter 1|700]]H?:: [[Lig. pubofemorale]]
 ![[Hofteligamenter 1|700]]I?:: [[Lig. sacrotuberale]]
 ![[Hofteligamenter 1|700]]J?:: [[Lig. sacrospinale]]

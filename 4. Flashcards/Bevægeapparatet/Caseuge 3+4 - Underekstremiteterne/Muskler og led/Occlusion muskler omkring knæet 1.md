@@ -8,6 +8,7 @@
 ![[Knæets muskler 1|600]]B?:: [[M. gracilis]]
 ![[Knæets muskler 1|600]]C?:: [[M. semitendinosus]]
 ![[Knæets muskler 1|600]]D?:: [[M. gastrocnemius]] (caput mediale/caput laterale)
+<!--SR:!2026-11-21,4,270-->
 ![[Knæets muskler 1|600]]E?:: [[M. vastus lateralis]]
 ![[Knæets muskler 1|600]]F?:: [[Tractus iliotibialis]]
 ![[Knæets muskler 1|600]]G?:: [[M. biceps femoris]] (caput longum/breve)

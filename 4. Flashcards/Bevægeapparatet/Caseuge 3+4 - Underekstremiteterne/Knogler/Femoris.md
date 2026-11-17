@@ -34,13 +34,16 @@
 <!--SR:!2026-12-05,19,250-->
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major
 - Hvad hedder kammen på bagsidet af skaftete af femoris?:: Linea aspera
+<!--SR:!2026-11-21,4,270-->
 	- Hvad er funktionen af linea aspera?:: Forstækning af knoglen og muskeltilhæftning
 <!--SR:!2026-11-20,4,270-->
 	- Hvad kaldes overgangen fra trochanter minor til linea aspera?:: Linea pectinea
+<!--SR:!2026-11-21,4,270-->
 	- Hvad hedder de 2 dele af skaftet adskilt af linea aspera?:: Labium mediale/laterale
 		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus (oss9s femoris)
 <!--SR:!2026-11-18,1,230-->
 			- Hvad er formålet med tuberositas gluteus?:: Muskelhæftning
+<!--SR:!2026-11-21,4,270-->
 - Hvordan er den distale ekstremitet af femoris overordnet opbygget?:: Af 2 fremspring
 <!--SR:!2026-11-20,4,270-->
 - Hvad hedder de 2 fremspring på den distale ekstremitet af femoris?:: Condylus medialis/lateralis

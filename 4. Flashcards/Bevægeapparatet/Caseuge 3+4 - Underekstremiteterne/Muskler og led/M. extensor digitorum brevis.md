@@ -20,6 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum brevis?:: Ekstension af de 4 mediale tær
+<!--SR:!2026-11-21,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. extensor digitorum brevis?:: [[N. fibularis]] (profundus)

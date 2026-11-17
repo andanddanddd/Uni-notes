@@ -3,6 +3,7 @@
 
 - Hvor mange mm. interossei plantaris har vi?:: 3
 - Hvor mange mm. interossei dorsalis har vi i foden?:: 4
+<!--SR:!2026-11-21,4,270-->
 ### Lokation
 - Hvor er mm. interossei (fod) overordnet?:: Mellem tærene
 - Hvor dybt ligger mm. interossei (fod)?:: Dybt

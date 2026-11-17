@@ -2,6 +2,7 @@
 
 
 - Hvad hedder axis på dansk?:: Taphvirvlen
+<!--SR:!2026-11-18,1,230-->
 - Hvilken ryghvirvel er axis?:: C2
 - Hvad kaldes processen der går op og danner led med atlas?:: Dens
 <!--SR:!2026-11-20,4,270-->
