@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - Dybe rygmuskler 1.md",
+                "file": "Occlusion - Dybe rygmuskler 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion - Dybe rygmuskler 1"
+              "title": "Occlusion - Dybe rygmuskler 2"
+            }
+          },
+          {
+            "id": "b778750dc52d8638",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Dybe rygmuskler 2"
             }
           },
           {
@@ -257,10 +269,13 @@
   },
   "active": "7513890256c460c9",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 1.md",
-    "Occlusion - Dybe rygmuskler 1.md",
-    "dybe rygmuskler 1.png",
+    "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 2.md",
+    "Occlusion - Dybe rygmuskler 2.md",
+    "dybe rygmuskler 2.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Ryggens og nakkens muskler.md",
+    "Occlusion - Dybe rygmuskler 1.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 1.md",
+    "dybe rygmuskler 1.png",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columnas anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Platysma.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. sternothyroideus.md",
@@ -285,8 +300,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. splenius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Mm. suboccipitales.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. obliquus capitis inferior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. rectus capitis posterior minor.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. rectus capitis posterior major.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Kar og nerver",
     "Billeder/Bevægeapparatet/Underekstremiteterne/benets arterier 1.png",
     "Pasted image 20261116134951.png",
@@ -297,7 +310,6 @@
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver",
     "Billeder/Bevægeapparatet/Overekstremiteterne/armens arterier 1.png",
     "Billeder/Bevægeapparatet/Ryggen/os sacrum 2.png",
-    "Billeder/Bevægeapparatet/Ryggen/atlas 1.png",
     "Billeder/Bevægeapparatet/Ryggen",
     "Excalidraw/Bevægeapparatet/Ryggen",
     "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",

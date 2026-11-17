@@ -14,3 +14,4 @@
 - [[M. splenius]]
 
 [[Occlusion - Dybe rygmuskler 1]]
+[[Occlusion - Dybe rygmuskler 2]]
