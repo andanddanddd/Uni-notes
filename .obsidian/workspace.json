@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - Dybe rygmuskler 2.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Halsmusklerne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Occlusion - Dybe rygmuskler 2"
+              "title": "Halsmusklerne"
+            }
+          },
+          {
+            "id": "ba6c0cfa8ac25bbd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Ryggen/Nakkemuskler 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Nakkemuskler 1"
             }
           },
           {
@@ -267,15 +279,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7513890256c460c9",
+  "active": "750616f935318b58",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 2.md",
-    "Occlusion - Dybe rygmuskler 2.md",
-    "dybe rygmuskler 2.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Ryggens og nakkens muskler.md",
-    "Occlusion - Dybe rygmuskler 1.md",
+    "Billeder/Bevægeapparatet/Ryg, nakke og hals/nakkemuskler 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - Nakkemuskler 1.md",
+    "Billeder/Bevægeapparatet/Halsen",
+    "Excalidraw/Bevægeapparatet/Ryggen/Nakkemuskler 1.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - Dybe rygmuskler 2.md",
+    "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 2.md",
+    "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 2.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - Dybe rygmuskler 1.md",
     "Excalidraw/Bevægeapparatet/Ryggen/Dybe rygmuskler 1.md",
-    "dybe rygmuskler 1.png",
+    "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 1.png",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columnas anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Platysma.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. sternothyroideus.md",
@@ -297,9 +313,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. obliquus capitis superior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. splenius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Mm. suboccipitales.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. obliquus capitis inferior.md",
     "Excalidraw/Bevægeapparatet/Underekstremiteterne/Kar og nerver",
     "Billeder/Bevægeapparatet/Underekstremiteterne/benets arterier 1.png",
     "Pasted image 20261116134951.png",
@@ -309,12 +322,10 @@
     "Billeder/Bevægeapparatet/Overekstremiteterne/armens arterier 2.png",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver",
     "Billeder/Bevægeapparatet/Overekstremiteterne/armens arterier 1.png",
-    "Billeder/Bevægeapparatet/Ryggen/os sacrum 2.png",
-    "Billeder/Bevægeapparatet/Ryggen",
+    "Billeder/Bevægeapparatet/Ryg, nakke og hals",
     "Excalidraw/Bevægeapparatet/Ryggen",
     "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",
     "Excalidraw/Bøger",
-    "Excalidraw/New folder",
     "Untitled.canvas"
   ]
 }

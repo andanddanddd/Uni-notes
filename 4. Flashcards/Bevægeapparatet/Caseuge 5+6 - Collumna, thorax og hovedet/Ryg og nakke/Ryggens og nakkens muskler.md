@@ -15,3 +15,4 @@
 
 [[Occlusion - Dybe rygmuskler 1]]
 [[Occlusion - Dybe rygmuskler 2]]
+[[Occlusion - Nakkemuskler 1]]
