@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. biceps femoris overordnet?:: Lårets bagertse muskelgruppe
 - Hvor dybt ligger m. biceps femoris?:: Superficielt
+<!--SR:!2026-11-21,4,270-->
 
 ### Form
 - Hvilken form har m. biceps femoris?

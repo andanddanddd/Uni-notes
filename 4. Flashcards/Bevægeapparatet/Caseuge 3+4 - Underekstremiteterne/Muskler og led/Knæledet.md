@@ -3,6 +3,7 @@
 
 - Hvad hedder knæet på latin?:: Genu
 - Hvad hedder knæledet på latin?:: Articulatio genus
+<!--SR:!2026-11-21,4,270-->
 ### Ledtype
 - Hvilken ledtype er knæledet?:: Sammensat [[Hængselsled]]
 

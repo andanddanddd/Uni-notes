@@ -11,6 +11,7 @@
 #### Form og størrelse
 - Hvad hedder de 4 parrede huller foran på os sacrum?:: Foramina sacrale ant
 	- Hvilke strukture går igennem foramina sacrale ant.?:: Ventrale rami af spinalnervere
+<!--SR:!2026-11-21,4,270-->
 - Hvad hedder de 4 parrede huller bagpå os sacrum?:: Foramina sacrale post
 	- Hvilke strukture går igennem foremian sacrale post.?:: Dorsale rami af spinalnerverne
 - Hvad kaldes strukturem på os sacrum bestående af sammenvoksede [[Torntappe]]?:: Crista sacralis mediana

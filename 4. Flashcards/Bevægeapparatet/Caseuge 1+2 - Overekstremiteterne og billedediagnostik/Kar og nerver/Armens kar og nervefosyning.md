@@ -6,6 +6,7 @@
 - Hvad hedder de 2 store superficiele vener på armen?:: [[V. cephalica]] og [[V. basilica]]
 - Hvad hedder den superficielle vener der løber imellem [[V. cephalica]] og [[V. basilica]]?:: [[V. mediane cubiti]]
 - Hvordan er de profunde vener overordnet arrangeres i underarmen?:: En vene på hver side af en arterie
+<!--SR:!2026-11-21,4,270-->
 - Hvordan er de profunde vener overordnet arrangeret i overarmen?:: En vene per arterie
 <!--SR:!2026-12-03,16,290-->
 - Hvad hedder den sidste vene der dræner alt blod fra armen?:: [[V. axillaris]]

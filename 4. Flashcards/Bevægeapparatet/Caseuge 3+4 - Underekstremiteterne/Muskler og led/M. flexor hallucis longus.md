@@ -14,7 +14,7 @@
 - Hvor udspringer m. flexor hallucis longus?:: [[Fibula]]s bagflade
 #### Insertion
 - Hvor har m. flexor hallucis longus insertion?:: Undersiden af storetåens phalanx distalis
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-11-29,12,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor hallucis longus?:: Fleksion af storetåen, plantarflektion og inversion af foden

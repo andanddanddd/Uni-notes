@@ -13,6 +13,7 @@
 
 ### Insertion
 - Hvor har m. rhomboideus insersion?:: Medialkanten af [[Scapula]]
+<!--SR:!2026-11-21,4,270-->
 
 ### Funktion
 - Hvilken funktion har m. rhomboideus?:: Løfte, indadrotere og adducere skulderen (scapula)

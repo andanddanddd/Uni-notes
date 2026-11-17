@@ -2,6 +2,7 @@
 
 - Hvilke strukture afgrænser canalis carpi? (dorsalt og palmart):: [[Mellemøret]] (dorsalt) og [[Retinaculum flexorum]] (palmart)
 - Hvilken nerve går igennem canalis carpi?:: [[N. medianus]]
+<!--SR:!2026-11-21,4,270-->
 - Hvad hedder de 2 bursa der ligger i canalis carpi?:: Bursa radialis og bursa ilnaris
 <!--SR:!2026-11-20,15,290-->
 

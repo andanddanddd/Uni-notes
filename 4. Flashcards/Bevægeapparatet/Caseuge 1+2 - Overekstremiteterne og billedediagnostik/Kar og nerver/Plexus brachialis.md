@@ -8,6 +8,7 @@
 <!--SR:!2026-11-17,4,270-->
 - Hvad sker med de 6 grene i plexus brachialis i axillen?:: De samler sig til fasciculi
 - Hvad hedder de 3 fasciuli fra plexus brachialis?:: Fasciculus lat. med. og post.
+<!--SR:!2026-11-21,4,270-->
 - Hvilke trunki/grene kommer fasciculus latralis fra?:: De foreste grene fra truncus sup. og med.
 - Hvilke trunki/grene kommer fasciculus medialis fra?:: Den foreste gren fra truncus inf.
 - Hvilke trunki/grene kommer fasciculus post. fra?:: De bagertse grene fra alle 3 trunki

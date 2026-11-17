@@ -3,6 +3,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. rotatores?:: [[Mm. Transversospinalis]]
 - Hvor dybt ligger m. rotatores?:: Dybest
+<!--SR:!2026-11-21,4,270-->
 
 ### Form
 - Hvilken form har m. rotatores?

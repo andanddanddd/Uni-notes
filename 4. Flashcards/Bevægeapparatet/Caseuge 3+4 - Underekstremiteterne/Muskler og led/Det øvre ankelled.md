@@ -20,6 +20,7 @@
 - [[Lig. talofibulare anterius]]
 - [[Lig. talofibulare posterius]]
 - [[Lig. calcaneofibulare]]
+<!--SR:!2026-11-18,1,230-->
 
 ### Funktion
 - Hvilke bevægelser kan det øvre ankelled lave?:: Fleksion-ekstension (dorsalfelktion-plantarfleksion)

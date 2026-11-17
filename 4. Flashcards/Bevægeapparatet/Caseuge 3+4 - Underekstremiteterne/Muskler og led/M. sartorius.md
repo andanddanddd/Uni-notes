@@ -14,6 +14,7 @@
 <!--SR:!2026-11-21,4,270-->
 #### Udspring
 - Hvor udspringer m. sartorius?:: Spina iliaca ant. sup (se [[Os ilium]])
+<!--SR:!2026-11-18,1,230-->
 #### Insertion
 - Hvor har m. sartorius insertion?:: Foreste øverste del af [[Tibia]]s medialflade
 <!--SR:!2026-11-24,7,250-->

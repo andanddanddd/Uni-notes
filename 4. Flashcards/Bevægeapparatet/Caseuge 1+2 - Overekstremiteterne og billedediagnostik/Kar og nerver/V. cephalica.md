@@ -2,5 +2,6 @@
 
 - Hvor er v. cephalica?:: Superficielt på den radiale del af armen
 - Hvor starter v. cephalica?:: Håndrygen
+<!--SR:!2026-11-21,4,270-->
 - Hvilken vene tømmer v. cephalica ud i?:: [[V. axillaris]]
 <!--SR:!2026-11-20,4,270-->
