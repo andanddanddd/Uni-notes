@@ -3,7 +3,7 @@
 ![[skulderled 1.png|627]]
 
 ![[Skulderled 1|600]] A?:: Acromion
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-03,16,290-->
 ![[Skulderled 1|600]]B?:: [[M. supraspinatus]]
 ![[Skulderled 1|600]]C?:: Bursa subdeltoidea
 <!--SR:!2026-11-20,4,270-->

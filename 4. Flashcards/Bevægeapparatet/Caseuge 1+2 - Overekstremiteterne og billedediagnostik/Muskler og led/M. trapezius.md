@@ -26,12 +26,12 @@
 <!--SR:!2026-11-14,15,290-->
 
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-13,57,310-->
 - Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os occipitale]]
 <!--SR:!2026-11-16,12,270-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
-<!--SR:!2026-11-14,3,210-->
+<!--SR:!2026-11-25,8,230-->
 - Hvor har fibrene C6-T1 insersion henne? (M. trapezius):: Laterale dele af clavicula samt acromion (se [[Scapula]])
 <!--SR:!2026-12-02,23,250-->
 - Hvor har fibrene fra T8-T10 insersion henne? (M. trapezius):: Spina scapulae (se [[Scapula]])

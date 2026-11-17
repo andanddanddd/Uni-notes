@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. infraspinatus insertion?:: Tuberculum majus humeri (se [[Humerus]]) under [[M. supraspinatus]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-15,59,310-->
 
 ### Funktion
 - Hvilken funktion har m. infraspinatus?:: Udadrotation af armen

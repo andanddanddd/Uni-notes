@@ -33,7 +33,7 @@
 - [[M. flexor digiti minimi]]
 - [[M. opponens digiti minimi]]
 - [[M. palmaris brevis]]
-<!--SR:!2026-11-17,8,250-->
+<!--SR:!2026-12-14,27,270-->
 
 - Hvad hedder de af musklener i spatia interossa?:: [[Mm. interossei (palmaries-dorsalis)]]
 <!--SR:!2026-11-25,14,290-->

@@ -20,7 +20,7 @@
 ![[Underbensknogler 1|600]]I?:: Margo anterior
 ![[Underbensknogler 1|600]]J?:: Margo medialis
 ![[Underbensknogler 1|600]]K?:: Malleolus medialis
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-03,16,290-->
 ![[Underbensknogler 1|600]]L?:: Eminentia intercondylaris
 <!--SR:!2026-11-19,6,230-->
 ![[Underbensknogler 1|600]]M?:: Apex capitis fibulae

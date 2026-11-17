@@ -2,7 +2,7 @@
 
 ### Generalt
 - Hvad er os coxae overordnet?:: De store hofteknogler
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-03,16,290-->
 #### Placering og orientering
 
 #### Form og størrelse
@@ -11,7 +11,7 @@
 - [[Os pubis]]
 - [[Os ischii]]
 - [[Os ilium]]
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-03,16,290-->
 
 - Hvad kaldes den foreste vinkel under symfysen?:: [[Angulus subpubicus]]
 <!--SR:!2026-11-19,3,250-->

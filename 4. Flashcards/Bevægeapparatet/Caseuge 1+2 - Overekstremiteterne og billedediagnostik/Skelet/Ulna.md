@@ -45,7 +45,7 @@
 ![[Ulna anatomi 1]]C?:: Processus coronoideus
 <!--SR:!2026-11-26,24,270-->
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae
-<!--SR:!2026-11-15,10,250-->
+<!--SR:!2026-12-12,25,250-->
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis
 <!--SR:!2026-12-05,26,270-->
 ![[Ulna anatomi 1]]F?:: Caput ulnae

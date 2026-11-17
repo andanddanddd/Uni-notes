@@ -5,4 +5,4 @@
 - Hvad er funktionen af lig. collaterale fibulare?:: Forhinre varus og valgus bevægelser i knæet (hjulbenethed og dte modsatte)
 <!--SR:!2026-11-20,4,270-->
 - Hvornår er lig. collaterale fibulare strammest?:: Ved ekstension
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-03,16,290-->

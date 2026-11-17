@@ -12,7 +12,7 @@
 - Hvilken ledtype er articulatio cubiti?:: Hængselsled (sammensat led) med indbygget drejeled
 <!--SR:!2026-11-21,16,290-->
 - Hvordan inddeles albueledet overordnet?:: 3 led alle bestående af flader mellem 2 knogler
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-14,58,310-->
 - Hvilken ledtype er articulatio humeroradialis?:: Kugleled
 <!--SR:!2026-11-20,16,290-->
 
@@ -27,12 +27,12 @@
 
 ### Ledets strukture
 - Hvad hedder ligamentet der holder radius fast under pronation/supination?:: [[Ligamentum anulare radii]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-15,59,310-->
 - Hvad hedder de 2 ligamenter på siderne har albueledet?
 ?
 - [[Ligamentum collaterale ulnare]]
 - [[Ligamentum collaterale radiale]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-19,63,310-->
 
 ### Funktion
 - Hvilke frihedsgrader har albueledet?:: Fleksion-ekstension, supination-pronation

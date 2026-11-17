@@ -4,7 +4,7 @@
 
 
 ![[Finger - anatomi 1]]A?:: [[Mm. interossei (palmaries-dorsalis)]] (dorsalis)
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-03,16,290-->
 ![[Finger - anatomi 1]]B?:: [[M. extensor digitorum]]
 <!--SR:!2026-11-19,15,290-->
 ![[Finger - anatomi 1]]C?:: [[Mm lumbricales]]

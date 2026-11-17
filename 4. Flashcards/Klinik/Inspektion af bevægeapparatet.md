@@ -4,5 +4,5 @@
 <!--SR:!2026-11-20,4,270-->
 - Hvad er "truet hud" risikoen for at et fraktur vil bryde igennem huden
 - Hvad kaldes tilstanden når knæledene bøjer udad?:: Varus
-<!--SR:!2026-11-16,4,210-->
+<!--SR:!2026-11-29,12,230-->
 - Hvad kaldes tilstanden når knæledene bøjer indad?:: Valgus

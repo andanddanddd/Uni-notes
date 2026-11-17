@@ -6,7 +6,7 @@
 
 ### Ledflader
 Hvilke knogler danner ledflader i art. carpometacarpales?:: [[Håndroden]]s distale knogler og os metacarpale
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2026-12-31,44,290-->
 
 ### Ledets strukture
 

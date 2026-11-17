@@ -10,7 +10,7 @@
 
 ### Forløb
 - Hvilken kulisse går m. extensor hallucis longus igennem?:: 2. kulisse (se [[Retinaculum musculorum extensorum inferius]])
-<!--SR:!2026-11-14,1,230-->
+<!--SR:!2026-11-20,3,250-->
 #### Udspring
 - Hvor udspringer m. extensor hallucis longus?:: Primært membrana interossea men lidt fra [[Fibula]]
 #### Insertion

@@ -5,7 +5,7 @@
 ### Lokation
 - Hvor er m. peroneus brevis overordnet?
 - Hvor dybt ligger m. peroneus brevis?:: Dybt
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-29,12,270-->
 
 ### Form
 - Hvilken form har m. peroneus brevis?
@@ -13,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. peroneus brevis?:: Distale del af [[Fibula]]s lateralflade
-<!--SR:!2026-11-14,1,190-->
+<!--SR:!2026-11-19,2,190-->
 #### Insertion
 - Hvor har m. peroneus brevis insertion?:: Bagerst på malleus lateralis (se [[Fibula]])
 

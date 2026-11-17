@@ -10,7 +10,7 @@
 <!--SR:!2026-11-18,16,290-->
 #### Form og størrelse
 - Hvilken overordnet form har scapula?:: Flad, trekantet
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-17,61,310-->
 - Hvor tyk er scapula?:: Tynd og pellucid
 <!--SR:!2026-12-30,44,290-->
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
@@ -81,7 +81,7 @@
 ![[Scapula Anatomi 1|700]]I?:: Margo lateralis
 <!--SR:!2027-01-16,64,310-->
 ![[Scapula Anatomi 1|700]]J?:: Costalis scapulae
-<!--SR:!2026-11-17,13,230-->
+<!--SR:!2026-12-18,31,230-->
 ![[Scapula Anatomi 1|700]]K?:: Angulus inferior
 <!--SR:!2027-01-07,57,310-->
 ![[Scapula Anatomi 1|700]]L?:: Margo medialis

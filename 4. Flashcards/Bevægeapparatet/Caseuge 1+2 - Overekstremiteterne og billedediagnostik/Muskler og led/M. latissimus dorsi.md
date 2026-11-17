@@ -20,11 +20,11 @@
 
 ### Insertion
 - Hvor har m. latissimus insersion?:: Crista tuberculi minoris humeri (se [[Humerus]])
-<!--SR:!2026-11-16,7,250-->
+<!--SR:!2026-12-06,19,250-->
 
 ### Funktion
 - Hvilke bevægelser kan m. latissimus dorsi udføre på armen?:: Adduction, extension og indadrotation
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2026-12-30,43,290-->
 - Hvilken effekt har m. latissimus dorsi ved fikseret overkrop?:: Løfter underkroppen
 <!--SR:!2027-01-14,59,310-->
 

@@ -2,4 +2,4 @@
 
 - Hvor er lig. transversus acetabuli?:: I inscisura acetabuli (se [[Acetabulum]])
 - Hvilken funktion har lig. transversus acetabuli?:: Ledlæbe
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-02,15,290-->

@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum?:: Ekstension af de 4 ulanre fingre samt håndled
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-18,62,310-->
 - Hvad hedder senerne der forbidner senerne fra m. extensor digitorum?:: [[Connexus intertendinei]]
 <!--SR:!2026-12-11,25,270-->
 

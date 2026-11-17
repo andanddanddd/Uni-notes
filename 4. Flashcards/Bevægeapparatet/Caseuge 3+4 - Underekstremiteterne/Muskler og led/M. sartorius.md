@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. sartorius overordnet?:: Lårets foreste muskelgruppe
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-03,16,290-->
 - Hvor dybt ligger m. sartorius?:: Superficielt
 
 ### Form
@@ -15,11 +15,11 @@
 - Hvor udspringer m. sartorius?:: Spina iliaca ant. sup (se [[Os ilium]])
 #### Insertion
 - Hvor har m. sartorius insertion?:: Foreste øverste del af [[Tibia]]s medialflade
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-24,7,250-->
 
 ### Funktion
 - Hvordan kan bevægelserne af m. sartorius huskes?:: Kig under en sko mens man står på et ben
-<!--SR:!2026-11-14,4,270-->
+<!--SR:!2026-12-03,16,290-->
 - Hvilke bevægelser udfører m. sartorius?
 ?
 - Flektion af hofte

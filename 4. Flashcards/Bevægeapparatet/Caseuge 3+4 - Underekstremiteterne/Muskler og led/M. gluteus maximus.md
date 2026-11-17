@@ -5,7 +5,7 @@
 - Hvor er m. gluteus maximus overordnet?:: Bagpå hoften
 <!--SR:!2026-11-23,14,290-->
 - Hvor dybt ligger m. gluteus maximus?:: Superficielt
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-03,16,290-->
 
 ### Form
 - Hvilken form har m. gluteus maximus?:: Stor rombeformet
@@ -17,7 +17,7 @@
 - Bagsiden af [[Os sacrum]]
 - Bagsiden af [[Os coccygix]]
 - [[Lig. sacrotuberale]]
-<!--SR:!2026-11-17,5,230-->
+<!--SR:!2026-11-29,12,230-->
 
 ### Insertion
 - Hvor har m. gluteus maximus insertion?:: Tuberositas glutea ossis femoris (se [[Femoris]]) samt [[Tractus iliotibialis]]

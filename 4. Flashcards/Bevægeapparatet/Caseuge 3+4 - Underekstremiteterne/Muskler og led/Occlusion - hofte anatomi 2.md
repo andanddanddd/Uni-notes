@@ -13,7 +13,7 @@
 ![[Hofte anatomi 2||650]]G?:: [[Lig. sacrospinale]]
 <!--SR:!2026-11-20,4,270-->
 ![[Hofte anatomi 2||650]]H?:: Spina ischiadica
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-03,16,290-->
 ![[Hofte anatomi 2||650]]I?:: Foramen ischiadicum minus
 ![[Hofte anatomi 2||650]]J?:: [[Lig. sacrotuberale]]
 <!--SR:!2026-11-20,4,270-->

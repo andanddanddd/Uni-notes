@@ -12,7 +12,7 @@
 
 ### Forløb
 - Hvad sker med senerne fra m. extensor digitorum brevis lige inden insersion på tå 2-4?:: De fusionernere med senerne fra [[M. extensor digitorum longus]]
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-03,16,290-->
 #### Udspring
 - Hvor udspringer m. extensor digitorum brevis?:: Lateralt på [[Calcaneus]] dorsalflade
 #### Insertion

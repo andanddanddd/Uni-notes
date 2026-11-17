@@ -17,7 +17,7 @@
 ![[Hånd(knogle) anatomi 1]]G?:: Phalanx distalis
 <!--SR:!2026-12-16,37,290-->
 ![[Hånd(knogle) anatomi 1]]H?:: Phalanz proximalis
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-21,65,310-->
 ![[Hånd(knogle) anatomi 1]]I?:: Ossa sesamoidea
 <!--SR:!2027-01-18,63,310-->
 ![[Hånd(knogle) anatomi 1]]J?:: Ulna

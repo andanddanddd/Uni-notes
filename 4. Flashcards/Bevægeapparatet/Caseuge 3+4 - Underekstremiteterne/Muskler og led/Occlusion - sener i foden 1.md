@@ -8,7 +8,7 @@
 ![[Sener i foden 1|600]]C?:: Øvre extensorretinakel
 <!--SR:!2026-11-14,4,270-->
 ![[Sener i foden 1|600]]D?:: Nedre extensorretinakel
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-03,16,290-->
 ![[Sener i foden 1|600]]G?:: [[M. extensor hallucis longus]]
 ![[Sener i foden 1|600]]H?:: [[M. tibialis anterior]]
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-25,8,250-->

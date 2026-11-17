@@ -3,7 +3,7 @@
 
 ### Ledtype
 - Hvilken ledtype er CMP?:: [[Saddelled]]
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2027-01-03,47,290-->
 
 ### Ledflader
 - Hvilke knogler indgår i CMP?:: Os metacarpale I og [[Os trapezium]]

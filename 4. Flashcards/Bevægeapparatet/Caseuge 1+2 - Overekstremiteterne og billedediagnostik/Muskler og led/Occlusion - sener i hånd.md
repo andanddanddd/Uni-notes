@@ -15,13 +15,13 @@
 <!--SR:!2026-11-24,8,250-->
 ![[Sener i hånd|650]]G?:: [[M. extensor carpi radialis brevis]]
 ![[Sener i hånd|650]]H?:: [[M. extensor carpi radialis longus]]
-<!--SR:!2026-11-14,2,230-->
+<!--SR:!2026-11-22,5,230-->
 ![[Sener i hånd|650]]I?:: [[Retinaculum extensorum]]
 <!--SR:!2026-11-26,15,290-->
 ![[Sener i hånd|650]]J?:: [[M. extensor pollici longus]]
 <!--SR:!2026-11-28,16,250-->
 ![[Sener i hånd|650]]K?:: [[M. extensor indicis]]
-<!--SR:!2026-11-15,11,270-->
+<!--SR:!2026-12-30,43,290-->
 ![[Sener i hånd|650]]L?:: [[Mm. interossei (palmaries-dorsalis)]] I
 <!--SR:!2026-11-23,10,230-->
 ![[Sener i hånd|650]]M?:: [[Connexus intertendinei]]

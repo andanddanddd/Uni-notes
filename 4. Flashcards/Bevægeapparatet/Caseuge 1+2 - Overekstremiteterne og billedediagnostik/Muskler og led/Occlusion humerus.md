@@ -14,7 +14,7 @@
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
 <!--SR:!2026-12-13,30,270-->
 ![[Humerus anatomi 1]]F?:: Margo lateralis
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-19,63,310-->
 ![[Humerus anatomi 1]]G?:: Fossa radialis
 <!--SR:!2026-12-17,38,290-->
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
@@ -28,7 +28,7 @@
 ![[Humerus anatomi 1]]L?:: Tuberculum minus
 <!--SR:!2026-12-18,42,290-->
 ![[Humerus anatomi 1]]M?:: Collum chiurgicum
-<!--SR:!2026-11-16,12,230-->
+<!--SR:!2026-12-27,40,250-->
 ![[Humerus anatomi 1]]N?:: Crista tuberculi minoris
 <!--SR:!2026-12-25,46,290-->
 ![[Humerus anatomi 1]]O?:: Margo anterior

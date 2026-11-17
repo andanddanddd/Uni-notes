@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. gluteus medius overordnet?:: Bagpå hoften
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-01,14,290-->
 - Hvor dybt ligger m. gluteus medius?:: lag 2 dvs der både er muskler der ligger dybere og mere superficielt (øverste del er superficiel)
 
 ### Form

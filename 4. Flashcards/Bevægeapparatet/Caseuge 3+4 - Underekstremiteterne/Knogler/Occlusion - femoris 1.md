@@ -33,7 +33,7 @@
 ![[Femoris 1|600]]P?:: Tuberosiras glutea
 <!--SR:!2026-11-18,7,250-->
 ![[Femoris 1|600]]Q?:: Labium laterale
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2026-12-30,43,290-->
 ![[Femoris 1|600]]R?:: Facies poplitea
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 ![[Femoris 1|600]]T?:: Condylus lateralis
