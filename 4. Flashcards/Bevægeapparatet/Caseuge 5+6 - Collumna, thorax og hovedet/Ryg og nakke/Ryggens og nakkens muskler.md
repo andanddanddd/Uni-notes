@@ -12,3 +12,5 @@
 - [[Mm. intertransversarii]]
 - [[Mm. suboccipitales]]
 - [[M. splenius]]
+
+[[Occlusion - Dybe rygmuskler 1]]
