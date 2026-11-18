@@ -11,6 +11,7 @@
 
 ### Funktion
 - Hvilken bevægelser kan DIP lave?:: Fleksion-ekstension
+<!--SR:!2026-11-22,4,270-->
 
 ### Klinik
 
