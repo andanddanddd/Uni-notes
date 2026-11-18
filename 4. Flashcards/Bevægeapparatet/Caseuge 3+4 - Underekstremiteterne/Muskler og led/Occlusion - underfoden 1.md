@@ -11,4 +11,5 @@
 ![[Underfoden 1|700]]D?:: [[Lig. plantare breve]]
 <!--SR:!2026-11-21,4,270-->
 ![[Underfoden 1|700]]E?:: [[M. tibialis posterior]]
+<!--SR:!2026-11-19,1,230-->
 ![[Underfoden 1|700]]F?:: [[Lig. calcaneonaviculare plantare]]

@@ -10,4 +10,5 @@
 ![[Halsmuskler 3|600]]E?:: [[M. scalenus medius]]
 ![[Halsmuskler 3|600]]F?:: [[M. scalenus posterior]] 
 ![[Halsmuskler 3|600]]G?:: [[M. scalenus anterior]]
+<!--SR:!2026-11-19,1,230-->
 ![[Halsmuskler 3|600]]H?:: [[M. longus colli]]

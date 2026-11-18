@@ -16,6 +16,7 @@
 <!--SR:!2026-11-25,14,290-->
 #### Insertion
 - Hvor har m. vastus lateralis insertion?:: Tuberositas tibia (sammen med resten af [[M. quadriceps femoris]])
+<!--SR:!2026-11-22,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. vastus lateralis?

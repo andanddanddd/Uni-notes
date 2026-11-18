@@ -13,7 +13,7 @@
 - Eksempel på projektioner til røntgen?:: PA (posteriort-anteriort) og profil (fra siden)
 <!--SR:!2026-11-21,16,290-->
 - Hvorfor kan det være et problem at røntgen kun er 2-dimensionnel?:: Det er svært at skeldne overlappende knogler
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-24,67,310-->
 
 - Hvad betyder radiolucent?:: Mørk (stråling går igennem, sort)
 <!--SR:!2026-11-19,14,290-->

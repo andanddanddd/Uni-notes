@@ -5,3 +5,4 @@
 - Hvor på ryghirvlerne hæfter det dorsale blad af fascia thoracolumbalis?:: [[Torntappe]]n
 - Hvor på ryghirvlerne hæfter det ventrale blad af fascia thoracolumbalis?:: [[Tværtappe]]ne
 - Hvor er fascia thoracolumbalis tykkest?:: Lænden (gradvist tyndere opadtil)
+<!--SR:!2026-11-22,4,270-->

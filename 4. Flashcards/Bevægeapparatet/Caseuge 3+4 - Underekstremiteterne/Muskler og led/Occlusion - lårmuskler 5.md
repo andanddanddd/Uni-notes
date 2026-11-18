@@ -16,4 +16,5 @@
 <!--SR:!2026-11-29,12,270-->
 ![[Lårmuskler 5|600]]G?:: [[M. quadratus femoris]]
 ![[Lårmuskler 5|600]]H? (hvilket hoved?):: [[M. biciptis]] caput longum
+<!--SR:!2026-11-19,1,230-->
 ![[Lårmuskler 5|600]]I? (hvilket hoved?):: [[M. biciptis]] caput breve
