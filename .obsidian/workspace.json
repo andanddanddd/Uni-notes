@@ -6,81 +6,28 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 61.18721461187214,
+        "dimension": 42.64205925206411,
         "children": [
           {
-            "id": "7513890256c460c9",
+            "id": "993248af6af8b58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST"
-            }
-          },
-          {
-            "id": "32a7ade0ff11f845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Canalis carpi (carpaltunnelen).md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Kommunikation og klinisk integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canalis carpi (carpaltunnelen)"
-            }
-          },
-          {
-            "id": "1d7ad9ecf1a0efda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - os sacrum 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Occlusion - os sacrum 1"
-            }
-          },
-          {
-            "id": "93ef0fab2599bbe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens arterier 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Occlusion - armens arterier 2"
+              "title": "Forelæsning - Kommunikation og klinisk integration"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 38.81278538812785,
+        "dimension": 57.357940747935885,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -105,8 +52,21 @@
               "icon": "lucide-file-text",
               "title": "Slides - underekstreimteternes klniske problemstillinger"
             }
+          },
+          {
+            "id": "2f4f12b65b9c7a2e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Slides - Kommunikation_og_klinisk_integration DCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Kommunikation_og_klinisk_integration DCA"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -296,11 +257,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "93ef0fab2599bbe5",
+  "active": "993248af6af8b58b",
   "lastOpenFiles": [
+    "Externe dokumenter/Bevægeapparatet/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Kommunikation og klinisk integration.md",
+    "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens arterier 2.md",
+    "Externe dokumenter/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
+    "Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - os sacrum 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Canalis carpi (carpaltunnelen).md",
-    "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Occlusion - halsmuskler 3.md",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 3.png",
@@ -328,9 +294,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. thyrohyoideus.md",
     "4. Flashcards/Hjerte. lunge, nyrer I/Caseuge 2 - Øvre respirationsystem/Strubehovedet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. omohyoideus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Muskler og led/M. biceps femoris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. sternohyoideus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. geniohyoideus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Kæben",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke",
@@ -341,9 +304,6 @@
     "Billeder/Bevægeapparatet/Overekstremiteterne/plexus brachialis 1.png",
     "Excalidraw/Bevægeapparatet/Overekstremiteter/Kar og nerver",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals",
-    "Excalidraw/Bevægeapparatet/Ryggen",
-    "Excalidraw/Bøger/An-Introduction-to-Medical-Statistics-Martin-Bland.pdf",
-    "Excalidraw/Bøger",
     "Untitled.canvas"
   ]
 }
