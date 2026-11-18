@@ -32,6 +32,7 @@
 - Hvilke bevægelser udfører m. erektor spinae?:: Ekstension af ryggen
 <!--SR:!2026-11-22,4,270-->
 - Hvad gør m. erektor spinae?:: Holder os oprejst
+<!--SR:!2026-11-22,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. erektor spinae?

@@ -15,6 +15,7 @@
 <!--SR:!2026-11-19,3,250-->
 - Hvilke strukture sikre at det øvre ankelled ikke bevæger sig fra side til side?:: Malleoserne og de kollaterale ligamenter 
 - Hvad kaldes det mediale kollaterale ligament i det øvre ankelled?:: [[Lig. deltoideum]]
+<!--SR:!2026-11-19,1,230-->
 - Hvad kaldes de 3 laterale kollaterale ligamenter i det øvre ankelled?
 ?
 - [[Lig. talofibulare anterius]]

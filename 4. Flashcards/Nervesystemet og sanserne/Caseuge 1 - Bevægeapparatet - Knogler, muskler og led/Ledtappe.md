@@ -7,3 +7,4 @@
 - Hvilken retning vender ledtappene?:: Nærmest vertikalt
 <!--SR:!2026-11-20,4,270-->
 - Hvor afgår ledtappene fra?:: Grænsen mellem pedunculi og lamina af [[Hvirvelbuen]]
+<!--SR:!2026-11-22,4,270-->

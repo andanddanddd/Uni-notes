@@ -9,6 +9,7 @@
 ![[Pasted image 20261111093203.png]]2?:: Epicondylus lateralis 
 ![[Pasted image 20261111093203.png]]7?:: [[Fibula]]
 ![[Pasted image 20261111093203.png]]12?:: [[Lig. transversum genus]]
+<!--SR:!2026-11-19,1,230-->
 ![[Pasted image 20261111093203.png]]3?:: Lig. collaterale fibulare 
 ![[Pasted image 20261111093203.png]]8?:: [[Tibia]]
 <!--SR:!2026-11-20,4,270-->

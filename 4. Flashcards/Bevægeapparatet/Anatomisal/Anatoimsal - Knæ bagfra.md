@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 ![[Pasted image 20261111095251.png]]
 ![[Pasted image 20261111095300.png]]1?:: [[Femoris]]
+<!--SR:!2026-11-22,4,270-->
 ![[Pasted image 20261111095300.png]]2?:: Condylus medialis femoris
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111095300.png]]3?:: Lig. cruciatum posterius

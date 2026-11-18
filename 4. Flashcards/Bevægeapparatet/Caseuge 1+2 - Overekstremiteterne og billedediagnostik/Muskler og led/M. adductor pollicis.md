@@ -8,6 +8,7 @@
 
 ### Form
 - Hvilken form har m. adductor pollicis?:: Vifteformet
+<!--SR:!2026-11-21,3,250-->
 
 ### Udspring
 - Hvor udspringer caput transversum af m. adductor pollicis?:: Palmare del af os metacarpale III

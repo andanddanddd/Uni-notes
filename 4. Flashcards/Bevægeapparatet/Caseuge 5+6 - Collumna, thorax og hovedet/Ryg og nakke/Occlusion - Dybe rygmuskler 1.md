@@ -6,6 +6,7 @@
 ![[Dybe rygmuskler 1|700]]A?:: [[Fascia thoracolumbalis]] (a = ventral blad, b= dorsal blad)
 ![[Dybe rygmuskler 1|700]]B?:: [[M. transversus abdominalis]]
 ![[Dybe rygmuskler 1|700]]C?:: [[M. quadratus lumborium]]
+<!--SR:!2026-11-19,1,230-->
 ![[Dybe rygmuskler 1|700]]D?:: [[M. obliquus internus abdominis]]
 ![[Dybe rygmuskler 1|700]]F?:: [[M. psoas major]]
 ![[Dybe rygmuskler 1|700]]G?:: [[N. obturatorius]]

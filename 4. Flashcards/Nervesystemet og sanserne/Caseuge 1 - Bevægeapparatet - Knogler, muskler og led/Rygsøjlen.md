@@ -11,6 +11,7 @@
 - Pars caudalis
 
 - Hvilken struktur adskiller ryghvirvlerne?:: [[Rygsøjlens båndskiver]]
+<!--SR:!2026-11-21,3,250-->
 
 ![[Rygsøjlens bøjninger]]
 

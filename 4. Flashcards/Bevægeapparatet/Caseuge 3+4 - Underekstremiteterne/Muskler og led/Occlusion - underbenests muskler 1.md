@@ -9,6 +9,7 @@
 ![[Underbenests muskler 1|600]]D?:: [[M. gastrocnemius]]
 <!--SR:!2026-11-20,4,270-->
 ![[Underbenests muskler 1|600]]E?:: [[M. tibialis anterior]]
+<!--SR:!2026-11-21,3,250-->
 ![[Underbenests muskler 1|600]]F?:: [[M. soleus]]
 ![[Underbenests muskler 1|600]]G?:: [[M. extensor hallucis longus]]
 

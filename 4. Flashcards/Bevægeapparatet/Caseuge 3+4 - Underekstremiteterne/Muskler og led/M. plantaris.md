@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. plantaris overordnet?:: Underbenets bagerste muskelloge
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-04,16,290-->
 - Hvor dybt ligger m. plantaris?:: Superficielt
 
 ### Form
@@ -15,6 +15,7 @@
 <!--SR:!2026-11-19,1,230-->
 #### Insertion
 - Hvor har m. plantaris insertion?:: Meget variererende men på hælen et sted
+<!--SR:!2026-11-21,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. plantaris?:: Plantarflektion og inversion af foden samt flektion af knæet

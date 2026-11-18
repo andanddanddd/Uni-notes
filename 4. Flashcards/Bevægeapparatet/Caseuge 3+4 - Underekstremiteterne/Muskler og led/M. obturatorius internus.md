@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. obturatus internus overordnet?
 - Hvor dybt ligger m. obturatus internus?:: Dybt
+<!--SR:!2026-11-22,4,270-->
 
 ### Form
 - Hvilken form har m. obturatus internus?

@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. omohyoideus?:: [[Os. hyoideum]]
+<!--SR:!2026-11-22,4,270-->
 #### Insertion
 - Hvor har m. omohyoideus insertion?:: Margo sup. af [[Scapula]]
 

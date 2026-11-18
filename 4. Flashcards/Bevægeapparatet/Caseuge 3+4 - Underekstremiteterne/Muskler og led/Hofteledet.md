@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder hofteledet på latin?:: Articulatio coxae
+<!--SR:!2026-11-21,3,250-->
 
 
 ### Ledtype

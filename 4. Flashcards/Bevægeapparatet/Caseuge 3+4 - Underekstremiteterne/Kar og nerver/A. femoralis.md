@@ -6,6 +6,7 @@
 - Hvilken struktur afgrænser a, femoralis opadtil?:: [[Lig. inguinale]]
 <!--SR:!2026-11-17,1,230-->
 - Hvilken struktur afgrænser a. femoralis nedadtil?:: Hiatus adductorius
+<!--SR:!2026-11-19,1,230-->
 
 - Hvad hedder den store gren som a. femoralis afgiver?:: [[A. profunda femoris]]
 <!--SR:!2026-11-21,3,250-->

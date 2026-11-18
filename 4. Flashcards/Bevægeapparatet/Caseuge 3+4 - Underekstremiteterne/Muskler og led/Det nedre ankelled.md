@@ -5,6 +5,7 @@
 
 ### Ledtype
 - Hvilken ledtype er det nedre ankelled?:: Drejeled, kombineret
+<!--SR:!2026-11-22,4,270-->
 
 ### Ledflader
 - Hvilke knogler består den bagerste del af den nedre ankelled af?:: [[Talus]] og [[Calcaneus]]

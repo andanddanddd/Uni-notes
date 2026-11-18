@@ -14,6 +14,7 @@
 ![[Pasted image 20261111103321.png]]7?:: Epicondylus medialis
 <!--SR:!2026-11-22,4,270-->
 ![[Pasted image 20261111103321.png]]8?:: Capsula articularis
+<!--SR:!2026-11-21,3,250-->
 ![[Pasted image 20261111103321.png]]9?:: Olecranon
 ![[Pasted image 20261111103321.png]]10?:: Ulna
 <!--SR:!2026-11-20,4,270-->

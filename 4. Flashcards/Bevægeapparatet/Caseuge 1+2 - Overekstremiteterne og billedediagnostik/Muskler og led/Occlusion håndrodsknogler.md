@@ -23,7 +23,7 @@
 ![[Hånd(knogle) anatomi 1]]J?:: Ulna
 <!--SR:!2027-01-17,65,310-->
 ![[Hånd(knogle) anatomi 1]]K?:: Radius
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-23,66,310-->
 ![[Hånd(knogle) anatomi 1]]1?:: Os scaphoideum
 <!--SR:!2026-12-17,30,210-->
 ![[Hånd(knogle) anatomi 1]]2?:: Os lunatum
