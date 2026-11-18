@@ -4,6 +4,7 @@
 - Hvad kaldes det øvre ankelled på latin?:: Art. talocruraris
 ### Ledtype
 - Hvilken ledtype er det øvre ankelled?:: Hængselsled (sammensat)
+<!--SR:!2026-11-22,4,270-->
 
 ### Ledflader
 - Hvad danner ledhoved i det øvre ankelled?:: Trocklea tali (se [[Talus]])

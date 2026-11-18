@@ -16,6 +16,7 @@
 <!--SR:!2026-11-30,14,290-->
 #### Insertion
 - Hvor har m. abductor hallucis insertion?:: Basis af phalinx proximale I (medialsiden)
+<!--SR:!2026-11-21,3,250-->
 
 ### Funktion
 - Hvilket led stabiliseres af m. abductor hallucis?:: 1. tarsometatarsalled

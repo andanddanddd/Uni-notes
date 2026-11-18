@@ -5,6 +5,7 @@
 - Hvor er m. gastrocnemius overordnet?:: Undebenets bagertse loge
 <!--SR:!2026-12-01,15,290-->
 - Hvor dybt ligger m. gastrocnemius?:: Superficielt
+<!--SR:!2026-11-22,4,270-->
 
 ### Form
 - Hvilken form har m. gastrocnemius?:: Semipennat

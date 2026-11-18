@@ -15,6 +15,7 @@
 ![[Pasted image 20261116101136.png]]9?:: Os coccygis
 ![[Pasted image 20261116101136.png]]10?:: Foramen ischiadicum majus
 ![[Pasted image 20261116101136.png]]11?:: Ligamentum sacrospinale
+<!--SR:!2026-11-22,4,270-->
 ![[Pasted image 20261116101136.png]]12?:: Foramen ischiadicum minus
 ![[Pasted image 20261116101136.png]]13?:: Ligamentum sacrotuberale
 ![[Pasted image 20261116101136.png]]14?:: Tuber ischiadicum

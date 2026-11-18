@@ -12,6 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. vastus intermedius?:: Forfladen og lateralfladen af de proximale 2/3 af [[Femoris]]
+<!--SR:!2026-11-21,3,250-->
 #### Insertion
 - Hvor har m. vastus intermedius insertion?:: Tuberositas tibia (sammen med resten af [[M. quadriceps femoris]])
 <!--SR:!2026-11-20,4,270-->

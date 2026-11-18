@@ -12,7 +12,8 @@
 #### Udspring
 - Hvor udspringer m. thyrohyoideus?:: Lateralfladen af [[Strubehovedet#Skjoldbrusken]]
 #### Insertion
-- Hvor har m. thyrohyoideus insertion?:: 
+- Hvor har m. thyrohyoideus insertion?::
+<!--SR:!2026-11-21,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. thyrohyoideus?

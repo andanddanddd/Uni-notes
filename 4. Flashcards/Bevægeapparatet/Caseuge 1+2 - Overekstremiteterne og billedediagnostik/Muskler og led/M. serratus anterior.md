@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. serratus ant insersion?:: Margo medialis og angulus inf af [[Scapula]]
-<!--SR:!2026-11-17,6,250-->
+<!--SR:!2026-12-04,16,250-->
 
 ### Funktion
 - Hvilken funktion har m. serratus ant?:: Holde [[Scapula]] ind til thorax

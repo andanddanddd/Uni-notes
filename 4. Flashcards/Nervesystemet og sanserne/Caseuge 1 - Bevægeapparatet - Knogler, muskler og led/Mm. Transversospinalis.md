@@ -19,6 +19,7 @@
 - Hvor udspringer mm. transversospinalis?:: [[Tværtappe]]
 #### Insertion
 - Hvor har mm. transversospinalis insertion?:: [[Torntappe]]
+<!--SR:!2026-11-22,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. transversospinalis?

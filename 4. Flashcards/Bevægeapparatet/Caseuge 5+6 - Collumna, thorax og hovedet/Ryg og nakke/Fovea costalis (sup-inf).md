@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogler sidder fovea costalis på?:: [[Thoraxhvirvler]]
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-20,2,230-->
 - Hvilken fovea costalis er størst?:: Den øvre
 
 - Hvad artikulere fovea costalis sup. med?:: Ribben af samme nummer som ryghvirlen

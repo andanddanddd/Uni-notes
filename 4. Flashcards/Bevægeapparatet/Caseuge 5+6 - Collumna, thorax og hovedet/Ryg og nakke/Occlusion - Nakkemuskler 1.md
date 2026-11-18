@@ -5,6 +5,7 @@
 
 ![[Nakkemuskler 1|700]]A?:: [[M. rectus capitis posterior major]]
 ![[Nakkemuskler 1|700]]B?:: [[M. rectus capitis posterior minor]]
+<!--SR:!2026-11-19,1,230-->
 ![[Nakkemuskler 1|700]]C?:: [[M. Semispinalis]] (capitis)
 ![[Nakkemuskler 1|700]]D?:: [[M. splenius]]
 ![[Nakkemuskler 1|700]]E?:: [[M. Longissimus]] (capitis)

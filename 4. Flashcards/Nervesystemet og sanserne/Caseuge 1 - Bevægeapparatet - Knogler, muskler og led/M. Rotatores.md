@@ -14,6 +14,7 @@
 - Hvor udspringer m. rotatores?:: [[Tværtappe]]
 #### Insertion
 - Hvor har m. rotatores insertion?:: [[Torntappe]]
+<!--SR:!2026-11-22,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. rotatores?:: Rotation af rygsøjlen
