@@ -16,3 +16,6 @@
 - [ ] Mange tramper hvis de har endsat sensorik (det hjælper med at give lidt sensorik)
 - [ ] Der er nogen der ser kronisk som negativt derfo rkan langvarrigt bruges i stedet
 - [ ] Paroxistysk = recidiverende men hurtigt? Som regn i danmark?
+
+- [ ] Vi skal kunne opsumere hvad vi ved før vi kan overveje hvad der er galt
+- [ ] Ridebukseområdet????
