@@ -19,3 +19,4 @@
 
 - [ ] Vi skal kunne opsumere hvad vi ved før vi kan overveje hvad der er galt
 - [ ] Ridebukseområdet????
+- [ ] Billedefund er ikke lig smerter VIGTIGT!!!
