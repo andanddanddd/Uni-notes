@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Occlusion - halsmuskler 3.md",
+                "file": "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Occlusion - halsmuskler 3"
+              "title": "Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST"
             }
           }
         ]
@@ -239,10 +249,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "7513890256c460c9",
   "lastOpenFiles": [
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Occlusion - halsmuskler 3.md",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
