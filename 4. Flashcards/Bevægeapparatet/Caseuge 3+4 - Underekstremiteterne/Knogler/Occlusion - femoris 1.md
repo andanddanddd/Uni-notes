@@ -25,7 +25,7 @@
 ![[Femoris 1|600]]L?:: Labium mediale
 <!--SR:!2026-12-02,16,290-->
 ![[Femoris 1|600]]M?:: Tuberculum adductorium
-<!--SR:!2026-11-18,7,250-->
+<!--SR:!2026-12-13,25,270-->
 ![[Femoris 1|600]]N?:: Fossa trochanterica
 <!--SR:!2026-12-07,26,270-->
 ![[Femoris 1|600]]O?::Crista intertrochanterica

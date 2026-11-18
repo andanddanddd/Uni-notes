@@ -15,6 +15,7 @@
 - Hvor udspringer m. adductor hallucis?:: [[Lig. metatarsale transversum profundum]] og senen fra [[M. peroneus longus]]
 #### Insertion
 - Hvor har m. adductor hallucis insertion?:: Basis af phalanx proximale I og det laterale sesamenben
+<!--SR:!2026-11-21,3,250-->
 
 ### Funktion
 - Hvilken ikke-bevægelsesmæssig funktion har m. adductor hallucis?:: Oprethold efodens tværbue

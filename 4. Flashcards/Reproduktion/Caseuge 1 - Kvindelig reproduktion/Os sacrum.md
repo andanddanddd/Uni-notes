@@ -16,6 +16,7 @@
 <!--SR:!2026-11-21,3,250-->
 	- Hvilke strukture går igennem foremian sacrale post.?:: Dorsale rami af spinalnerverne
 - Hvad kaldes strukturem på os sacrum bestående af sammenvoksede [[Torntappe]]?:: Crista sacralis mediana
+<!--SR:!2026-11-21,3,250-->
 - Hvad kaldes åbningen i bundet af os sacrum?:: Hiatus sacralis
 - Hvad hedder strukturen bestående af sammenvoksede [[Tværtappe]]?:: Crista sacralis lateralis
 - Hvilken tap på os sacrum ser nærmest "normal" ud? (i forhold til resten af ryghvirvlerne):: De øverste [[Ledtappe]]

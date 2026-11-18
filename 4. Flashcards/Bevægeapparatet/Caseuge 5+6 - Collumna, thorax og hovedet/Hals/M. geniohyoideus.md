@@ -13,6 +13,7 @@
 - Hvor udspringer m. geniohyoideus?:: Spina mentalis (inderisden af corpus mandibulare)
 #### Insertion
 - Hvor har m. geniohyoideus insertion?:: [[Os. hyoideum]]
+<!--SR:!2026-11-21,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. geniohyoideus?:: Løfter os hyoideum opad-fremad

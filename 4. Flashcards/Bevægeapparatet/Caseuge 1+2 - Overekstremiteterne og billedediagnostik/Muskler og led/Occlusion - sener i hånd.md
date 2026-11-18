@@ -25,4 +25,5 @@
 ![[Sener i hånd|650]]L?:: [[Mm. interossei (palmaries-dorsalis)]] I
 <!--SR:!2026-11-23,10,230-->
 ![[Sener i hånd|650]]M?:: [[Connexus intertendinei]]
+<!--SR:!2026-11-22,4,270-->
 

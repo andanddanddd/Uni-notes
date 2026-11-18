@@ -12,4 +12,5 @@
 <!--SR:!2026-11-21,3,250-->
 ![[Underbenests muskler 1|600]]F?:: [[M. soleus]]
 ![[Underbenests muskler 1|600]]G?:: [[M. extensor hallucis longus]]
+<!--SR:!2026-11-22,4,270-->
 

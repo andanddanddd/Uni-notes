@@ -12,6 +12,7 @@
 - Hvad kendetegner m. semitendinosus forløb ved knæet?:: Det løber medialt om knæet
 #### Udspring
 - Hvor udspringer m. semitendinosus?:: Tuber ischiadicum (se [[Os ischii]])
+<!--SR:!2026-11-21,3,250-->
 #### Insertion
 - Hvor har m. semitendinosus insertion?:: Pes anserinus (distalt for [[M. gracilis]]) (se [[Tibia]])
 

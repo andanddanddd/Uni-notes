@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder underarmen på latin?:: Antebrachium
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-20,63,310-->
 - Hvordan er muskler og sener overordnet arrangeret i underarmen?:: Muskler øverst og sener nederst
 <!--SR:!2027-01-17,62,310-->
 - Hvordan kan underarmens inddeles i 2?:: Foreste og bagertse loge (foran og bageved knoglerne+membranen derimellem)

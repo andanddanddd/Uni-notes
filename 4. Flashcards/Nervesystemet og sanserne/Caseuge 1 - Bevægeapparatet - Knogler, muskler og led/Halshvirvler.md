@@ -1,6 +1,7 @@
 #flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvor mange halshvirvler har vi?:: 7
+<!--SR:!2026-11-22,4,270-->
 - Hvad hedder halshvirvler på latin?:: Vertebrae cervicales
 
 - Hvor sker den cerviakel rotation?:: mellem [[Atlas]] og [[Axis]]

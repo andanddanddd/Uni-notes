@@ -12,6 +12,7 @@
 <!--SR:!2026-11-22,4,270-->
 ![[Pasted image 20261111095655.png]]7?:: Ulna
 ![[Pasted image 20261111095655.png]]8?:: Caput ulna
+<!--SR:!2026-11-22,4,270-->
 ![[Pasted image 20261111095655.png]]9?:: Art. metacarpophalangealis (MCP)
 ![[Pasted image 20261111095655.png]]10?:: Art. interphalangealis proximalis V
 ![[Pasted image 20261111095655.png]]11?:: Phalanx media V

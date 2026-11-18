@@ -13,6 +13,7 @@
 ![[Nakkemuskler 1|700]]G?:: [[M. obliquus capitis superior]]
 ![[Nakkemuskler 1|700]]H?:: [[M. obliquus capitis inferior]]
 ![[Nakkemuskler 1|700]]I?:: [[N. occipitalis major]]
+<!--SR:!2026-11-22,4,270-->
 ![[Nakkemuskler 1|700]]J?:: [[M. Semispinalis]] (cervicis)
 ![[Nakkemuskler 1|700]]K?:: [[A. vertabralis]]
 ![[Nakkemuskler 1|700]]L?:: Processus spinosus axis

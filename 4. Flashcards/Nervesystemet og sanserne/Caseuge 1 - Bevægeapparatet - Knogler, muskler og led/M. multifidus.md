@@ -24,6 +24,7 @@
 ### Funktion
 - Hvilke bevægelser udfører m. multifidus?
 - Hvilken funktion har m. multifidus?:: Stabilisere rygraden
+<!--SR:!2026-11-21,3,250-->
 - Hvor er m. multifidus stærkest?:: Lænderegionen (aftager i styrke opadtil)
 <!--SR:!2026-11-21,4,270-->
 

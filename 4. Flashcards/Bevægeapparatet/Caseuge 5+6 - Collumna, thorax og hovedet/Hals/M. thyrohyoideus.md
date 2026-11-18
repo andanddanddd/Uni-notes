@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. **thyrohyoideus**?:: Tungebenets infrahyoide muskler
+<!--SR:!2026-11-22,4,270-->
 - Hvor dybt ligger m. thyrohyoideus?:: Dybt
 
 ### Form

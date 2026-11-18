@@ -14,6 +14,7 @@
 ![[Lårmuskler 4|600]]G?:: [[Tractus iliotibialis]]
 ![[Lårmuskler 4|600]]H?:: [[M. vastus lateralis]]
 ![[Lårmuskler 4|600]]I? (hvilket hoved?):: [[M. biciptis]] caput longum
+<!--SR:!2026-11-21,3,250-->
 ![[Lårmuskler 4|600]]J? (hvilket hoved?):: [[M. biciptis]] caput breve
 <!--SR:!2026-11-14,3,250-->
 ![[Lårmuskler 4|600]]K? (hvilket hoved?):: [[M. gastrocnemius]] caput lateale
