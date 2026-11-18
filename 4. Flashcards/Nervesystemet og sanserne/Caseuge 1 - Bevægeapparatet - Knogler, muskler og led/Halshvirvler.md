@@ -4,6 +4,7 @@
 - Hvad hedder halshvirvler på latin?:: Vertebrae cervicales
 
 - Hvor sker den cerviakel rotation?:: mellem [[Atlas]] og [[Axis]]
+<!--SR:!2026-11-21,3,250-->
 - Hvad er foramen transversarium?:: Et hul i tværtapperne til [[A. vertabralis]]
 
 - Hvad er specielt ved halsvirvlernes torntap?:: Den er tvedelt (undtagen C7 og C1-C2) [[Torntappe]]

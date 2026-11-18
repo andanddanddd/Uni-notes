@@ -21,6 +21,7 @@
 - Hofteekstension
 - Knæfleksion
 - Indadrotation af underben ved bøjet knæ
+<!--SR:!2026-11-21,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. semitendinosus?

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor digitorum overordnet?:: Dorsalt på underarmen (centralt)
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-20,63,310-->
 - Hvor dybt ligger m. extensor digitorum?:: Superficielt
 
 ### Form

@@ -5,3 +5,4 @@
 <!--SR:!2026-11-20,4,270-->
 - Hvilken motorik funktion har n. axilaris?:: [[M. deltoideus]] og [[M. teres minor]]
 - Hvilken sensorisk funktion har n. axilaris?:: Øverste laterale del af overarmen
+<!--SR:!2026-11-22,4,270-->
