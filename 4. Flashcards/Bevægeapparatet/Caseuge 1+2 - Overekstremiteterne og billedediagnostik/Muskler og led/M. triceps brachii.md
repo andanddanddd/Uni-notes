@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. triceps brachii overordnet?:: Bagpå overarmen
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-24,67,310-->
 - Hvor dybt ligger m. triceps brachii
 
 ### Form

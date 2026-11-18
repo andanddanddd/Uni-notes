@@ -32,7 +32,7 @@
 
 ### Funktion
 - Hvilke funktioner har m. biceps brachii?:: Primært flektion af albueledet men det kan også bidrage til flektion af skulderen
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-24,67,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

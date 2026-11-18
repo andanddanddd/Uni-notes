@@ -6,4 +6,5 @@
 <!--SR:!2026-11-21,4,270-->
 
 - Hvilken struktur afgrænser a. axillaris opad?:: Costa 1
+<!--SR:!2026-11-22,4,270-->
 - HVilken struktur afgrænser a. axillaris nedad?:: Bagerste axilfold

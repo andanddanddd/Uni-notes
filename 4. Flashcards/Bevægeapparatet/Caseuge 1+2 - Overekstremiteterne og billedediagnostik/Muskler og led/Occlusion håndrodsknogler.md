@@ -39,7 +39,7 @@
 ![[Hånd(knogle) anatomi 1]]7?:: Os capitatum
 <!--SR:!2026-11-19,6,250-->
 ![[Hånd(knogle) anatomi 1]]8?:: Os hamatum
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-04,16,290-->
 
 
 ## 2

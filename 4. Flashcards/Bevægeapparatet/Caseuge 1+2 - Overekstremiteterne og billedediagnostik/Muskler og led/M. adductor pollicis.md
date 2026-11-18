@@ -11,6 +11,7 @@
 
 ### Udspring
 - Hvor udspringer caput transversum af m. adductor pollicis?:: Palmare del af os metacarpale III
+<!--SR:!2026-11-22,4,270-->
 - Hvor udspringer caput obliquum af m. adductor pollicis?:: Ligamenter og knogler i [[sulcus carpi]]
 <!--SR:!2026-11-22,16,290-->
 

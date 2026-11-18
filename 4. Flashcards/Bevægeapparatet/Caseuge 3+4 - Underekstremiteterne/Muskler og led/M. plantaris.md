@@ -12,6 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. plantaris?:: Femur (liger over caput lateralis af [[M. gastrocnemius]])
+<!--SR:!2026-11-19,1,230-->
 #### Insertion
 - Hvor har m. plantaris insertion?:: Meget variererende men på hælen et sted
 
