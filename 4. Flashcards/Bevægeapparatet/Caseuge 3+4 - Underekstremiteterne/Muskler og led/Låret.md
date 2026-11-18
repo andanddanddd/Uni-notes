@@ -4,6 +4,7 @@
 - Hvad gør musklerne i låret overordnet?:: bevæger knæledet samt adducere hofteledet
 <!--SR:!2026-11-25,14,290-->
 - Hvad hedder facien i låret?:: *Fascia lata*
+<!--SR:!2026-11-19,1,230-->
 - Hvor i låret binder bindevævssepta der opdeler låret?:: Linea aspera samt dens forlængelser (se [[Femoris]])
 - Hvor i låret er de store kar?:: Mellem extensorgruppen og adductorgruppen
 <!--SR:!2026-11-20,4,270-->

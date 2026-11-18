@@ -8,3 +8,4 @@
 - Hvilken struktur afgrænser a. femoralis nedadtil?:: Hiatus adductorius
 
 - Hvad hedder den store gren som a. femoralis afgiver?:: [[A. profunda femoris]]
+<!--SR:!2026-11-21,3,250-->
