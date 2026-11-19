@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+                "file": "Pecten carinatum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Truncus anatomi"
+              "title": "Pecten carinatum"
             }
           },
           {
@@ -269,11 +269,14 @@
   },
   "active": "993248af6af8b58b",
   "lastOpenFiles": [
-    "Ribbensbrusk.md",
+    "Thorax.md",
+    "Pecten carinatum.md",
+    "Pecten excavatum.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+    "Ribbenenes led fortil.md",
+    "Ribbensbrusk.md",
     "Ribbenene.md",
     "Sternum.md",
-    "Ribbenenes led fortil.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Incisurae costales.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Plexus cervicalis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Ansa cervicalis.md",
@@ -295,10 +298,7 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. rectus capitis lateralis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. rectus capitis anterior.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. longus colli.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. longus capitis.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Kommunikation og klinisk integration.md",
     "Externe dokumenter/Bevægeapparatet/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
-    "4. Flashcards/Farmakologi/Røntgen LÆS OP PÅ DET HER SÆRLIGT KONTRAST.md",
     "Externe dokumenter/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
