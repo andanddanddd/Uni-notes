@@ -15,22 +15,29 @@
 	- Hvad hedder fordybningen øverst medialt på manubrium sterni?:: Insicura jugulares
 	- Hvorfor er der en ru fordybning på hver side af sternum?:: der hæfter costa I
 - Hvad kaldes den midterste del af sternum?:: Corpus
-	- Hvorfor er der 3 horizontale linjer på sternum og hvad kaldes de?:: e
+	- Hvorfor er der 3 horizontale linjer på sternum og hvad kaldes de?:: Sternebrae, de markere stederne de 4 dele af corpus sternum er sammenvokset
+	- Hvad hedder de glatte udsnit på siderne af corpus sternum?:: [[Incisurae costales]]
 - Hvad kaldes den nederste del af sternum?:: Processus xipoideus
+	- Hvilken form har proccesus zipoideus?:: Flad og trekantet
 
 - Hvad hedder ledet mellem manubrium sterni og corpus sterni?:: Angulus sterni
 	- Hvilken ledtype er angulus sterni?:: Primær [[Synchondroser]]
+- Hvor på sternum hæfter costa VII?:: Overgangen mellem corpus sterni og processus xipoideus
 
 ### Relationer
 #### Led
 - Hvilke knogler danner sternum led med?
+- Hvilke ribben hæfter på sternum?:: Costa I-VII
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er sternum?:: Flad knogle
 - Er sternum parret eller uparret?:: Uparret
+- Hvilken struktur har sternum?:: [[Spongiøst knoglevæv]]
+- Hvilken type knoglemarv findes i sternum?:: [[Rød knoglemarv]] gennem hele livet
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
+- Hvor mange kerner ossificeres sternum udfra?:: 6 (en i manubrium og proccessus xipoideus og 1 i hver del af corpus sterni)
 ### Inspektion og palpation
 ### Klinik
