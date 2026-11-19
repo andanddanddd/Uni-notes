@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occlusion - ribbensmuskler 1.md",
+                "file": "Ribbensmuskler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Occlusion - ribbensmuskler 1"
+              "title": "Ribbensmuskler"
+            }
+          },
+          {
+            "id": "b428ffe4645d09b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Thorax/Diagfragma 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Diagfragma 2"
+            }
+          },
+          {
+            "id": "d66874a8abf7e71a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Thorax/Diagfragma 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Diagfragma 1"
             }
           },
           {
@@ -305,11 +329,18 @@
   },
   "active": "993248af6af8b58b",
   "lastOpenFiles": [
-    "Excalidraw/Bevægeapparatet/Thorax/RIbbensmuskler 1.md",
-    "Occlusion - ribbensmuskler 1.md",
-    "ribbensmuskler 1.png",
-    "Ribbensmuskler.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+    "Diagfragma.md",
+    "Occlusion - diagfragma 2.md",
+    "Excalidraw/Bevægeapparatet/Thorax/Diagfragma 2.md",
+    "diagfragma 2.png",
+    "Occlusion - diagfragma 1.md",
+    "Excalidraw/Bevægeapparatet/Thorax/Diagfragma 1.md",
+    "diagfragma 1.png",
+    "Ribbensmuskler.md",
+    "Occlusion - ribbensmuskler 1.md",
+    "Excalidraw/Bevægeapparatet/Thorax/RIbbensmuskler 1.md",
+    "ribbensmuskler 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenene.md",
     "Occlusion - Ribben 1.md",
     "Excalidraw/Bevægeapparatet/Thorax/Ribben 1.md",
@@ -332,11 +363,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax",
     "Excalidraw/Bevægeapparatet/Thorax",
     "Billeder/Bevægeapparatet/Thorax",
-    "1. Fag/Bevægeapparatet.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/N. phrenicus.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Halsens fascier og bindevævsrum.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Fascia cervicalis.md",
     "Externe dokumenter/Bevægeapparatet/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Externe dokumenter/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Slides - Kommunikation_og_klinisk_integration DCA.pdf",
@@ -346,11 +372,9 @@
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/nakkemuskler 1.png",
     "Billeder/Bevægeapparatet/Halsen",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 2.png",
-    "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Kæben",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke",
-    "Billeder/Bevægeapparatet/Underekstremiteterne/benets arterier 1.png",
     "Untitled.canvas"
   ]
 }

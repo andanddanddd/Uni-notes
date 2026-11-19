@@ -11,3 +11,5 @@
 ![[Ribbensbrusk]]
 
 ![[Ribbensmuskler]]
+
+![[Diagfragma]]

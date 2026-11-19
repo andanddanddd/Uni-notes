@@ -3,6 +3,6 @@
 ![[ribbensmuskler 1.png]]
 
 
-![[A?:: [[M. intercostales externus]]
-B?:: [[M. intercostalis internus]]
-C?:: [[M. intercostalis intimus]]
+![[RIbbensmuskler 1|700]]A?:: [[M. intercostales externus]]
+![[RIbbensmuskler 1|700]]B?:: [[M. intercostalis internus]]
+![[RIbbensmuskler 1|700]]C?:: [[M. intercostalis intimus]]
