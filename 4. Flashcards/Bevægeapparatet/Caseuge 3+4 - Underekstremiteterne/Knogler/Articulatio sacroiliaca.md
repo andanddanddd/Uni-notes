@@ -15,13 +15,13 @@
 ?
 - [[Lig. sacroiliaca ventralia]]
 - [[Ligamentum sacroiliacum interosseum]]
-<!--SR:!2026-11-17,1,230-->
+<!--SR:!2026-11-21,2,230-->
 
 - Hvad hedder de 2 accesoriske ligamenter til art. sacroiliaca?
 ?
 - [[Lig. sacrotuberale]]
 - [[Lig. sacrospinale]]
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-15,57,310-->
 
 ### Funktion
 - Hvilke bevægelser kan art. sacroiliaca lave?

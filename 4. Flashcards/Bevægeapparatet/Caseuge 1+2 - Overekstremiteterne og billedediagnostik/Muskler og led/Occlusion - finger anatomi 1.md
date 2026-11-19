@@ -11,4 +11,4 @@
 <!--SR:!2026-11-20,11,270-->
 ![[Finger - anatomi 1]]D?:: [[M. flexor digitorum profundus]]
 ![[Finger - anatomi 1]]E?:: [[M. flexor digitorum superficialis]]
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-16,58,310-->

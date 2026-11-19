@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. opponens digiti minimi?:: [[Retinaculum flexorum]] samt ulnare håndrodsknogler ([[Os pisiforme]] og [[Os hamatum]])
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-30,11,270-->
 
 ### Insertion
 - Hvor har m. opponens digiti minimi insertion?:: Skaftet af os metacarpale V

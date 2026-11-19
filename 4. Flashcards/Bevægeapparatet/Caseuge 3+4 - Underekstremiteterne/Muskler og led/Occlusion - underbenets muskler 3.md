@@ -4,7 +4,7 @@
 
 
 ![[Underbenets muskler 3|600]]A?:: [[M. semimembranosus]]
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-29,10,270-->
 ![[Underbenets muskler 3|600]]B?:: [[M. semitendinosus]]
 <!--SR:!2026-11-17,4,270-->
 ![[Underbenets muskler 3|600]]C?:: [[M. flexor digitorum longus]]

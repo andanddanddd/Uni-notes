@@ -13,7 +13,7 @@
 
 ### Insertion
 - Hvor har m. obturatus externus insertion?:: Medialsiden af trochanter major (se [[Femoris]])
-<!--SR:!2026-11-19,2,230-->
+<!--SR:!2026-11-24,5,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. obturatus externus?

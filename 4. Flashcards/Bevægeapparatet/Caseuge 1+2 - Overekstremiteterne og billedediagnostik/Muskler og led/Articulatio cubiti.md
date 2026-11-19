@@ -36,7 +36,7 @@
 
 ### Funktion
 - Hvilke frihedsgrader har albueledet?:: Fleksion-ekstension, supination-pronation
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-25,67,310-->
 
 ### Klinik
 

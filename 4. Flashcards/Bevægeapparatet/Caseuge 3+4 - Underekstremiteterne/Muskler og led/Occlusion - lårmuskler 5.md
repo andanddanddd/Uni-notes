@@ -7,7 +7,7 @@
 ![[Lårmuskler 5|600]]A?:: Tuber ischiadicum
 <!--SR:!2026-11-24,8,250-->
 ![[Lårmuskler 5|600]]B?:: Intersectio tendinea
-<!--SR:!2026-11-19,2,230-->
+<!--SR:!2026-11-20,1,210-->
 ![[Lårmuskler 5|600]]C?:: [[M. semimembranosus]]
 ![[Lårmuskler 5|600]]D?:: [[M. semitendinosus]]
 ![[Lårmuskler 5|600]]E?:: [[M. gluteus medius]]

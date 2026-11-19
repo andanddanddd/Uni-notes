@@ -11,10 +11,10 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. gracilis?:: Ramus inf ossis pubis (se [[Os pubis]])
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-28,9,250-->
 #### Insertion
 - Hvor har m. gracilis insertion?:: Pes anserinum (se [[Tibia]])
-<!--SR:!2026-11-14,2,190-->
+<!--SR:!2026-11-20,1,170-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. gracilis?:: Adduction af hoften og inadrotation af underbenet ved flekteret knæ

@@ -3,4 +3,4 @@
 - Hvilen funktion har lig. coronaria?:: Forstærke knæledets kapsel
 <!--SR:!2026-11-29,12,270-->
 - Hvor binder lig. coronaria?:: [[Knæets menisker]] og [[Tibia]]
-<!--SR:!2026-11-19,3,230-->
+<!--SR:!2026-11-26,7,230-->

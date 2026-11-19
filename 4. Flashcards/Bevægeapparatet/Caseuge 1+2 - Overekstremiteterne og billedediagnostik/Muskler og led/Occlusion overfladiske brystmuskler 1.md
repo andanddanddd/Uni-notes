@@ -17,6 +17,6 @@
 ![[Overfladiske brystmuskler 1]]F?:: M. intercostales ext
 <!--SR:!2026-12-18,39,290-->
 ![[Overfladiske brystmuskler 1]]G?:: Trigonum clavipectorale
-<!--SR:!2026-11-19,3,230-->
+<!--SR:!2026-11-21,2,210-->
 ![[Overfladiske brystmuskler 1]]H?:: [[M. pectoralis major]]
 <!--SR:!2026-12-31,44,290-->

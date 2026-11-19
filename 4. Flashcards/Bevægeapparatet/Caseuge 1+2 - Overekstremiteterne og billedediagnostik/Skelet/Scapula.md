@@ -34,7 +34,7 @@
 	- Hvad hedder fremspringet på spina scapulae?:: Acromion
 <!--SR:!2027-01-12,61,310-->
 		- Hvad hedder ledfladen på acromion?:: [[Facies articularis clavicularis]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-20,62,310-->
 - Hvad hedder de 2 flader adskilt af spina scapulae?:: Fossa supraspinata og fossa infraspinata
 <!--SR:!2027-01-09,54,310-->
 

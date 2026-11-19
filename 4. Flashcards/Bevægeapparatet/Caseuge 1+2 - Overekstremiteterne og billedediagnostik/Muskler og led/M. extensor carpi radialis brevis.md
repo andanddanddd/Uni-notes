@@ -5,7 +5,7 @@
 - Hvor er m. extensor carpi radialis brevis overordnet?:: Dorsalt (lateralt) på underarmen
 <!--SR:!2027-01-18,62,310-->
 - Hvor dybt ligger m. extensor carpi radialis brevis?:: Superficielt
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-19,61,310-->
 
 ### Form
 - Hvilken form har m. extensor carpi radialis brevis?
@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. extensor carpi radialis brevis insertion?:: Basis af os metacarpale III (langefinger)
-<!--SR:!2026-11-15,11,270-->
+<!--SR:!2026-12-31,42,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi radialis brevis?:: Ekstension og radialdevition af håndledet

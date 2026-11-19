@@ -12,7 +12,7 @@
 - Hvad betyder hyperdens?:: Lys
 <!--SR:!2026-11-21,16,290-->
 - Hvad betyder hypodens?:: Mørk
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-21,63,310-->
 
 - Hvad menes med at vælge et vindue til CT overordnet?:: Vælge hvilke HU-enheder der skal være lystest og mørkets og dermed vælge hvor meget kontrast der skal være (forskyde gråtonernerne)
 <!--SR:!2026-11-19,15,290-->

@@ -12,7 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. flexor digitorum longus?:: [[Tibia]]s bagflade
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-27,8,250-->
 #### Insertion
 - Hvor har m. flexor digitorum longus insertion?:: Basis af phalanx distale på de 4 laterale tær
 

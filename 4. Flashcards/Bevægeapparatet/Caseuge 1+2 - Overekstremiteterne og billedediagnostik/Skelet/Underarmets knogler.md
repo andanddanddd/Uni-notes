@@ -17,7 +17,7 @@
 ##### 1
 ![[Underarmsknogler anatomi 1]]A?:: Margo anterior
 ![[Underarmsknogler anatomi 1]]B?:: Margo interosseus
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-21,63,310-->
 ![[Underarmsknogler anatomi 1]]C?:: Membrana interossea
 <!--SR:!2027-01-10,55,310-->
 ![[Underarmsknogler anatomi 1]]D?:: Margo posterior
@@ -50,7 +50,7 @@
 ![[Underarmsknogler anatomi 2|600]]M?:: Margo anterior
 <!--SR:!2026-12-19,43,290-->
 ![[Underarmsknogler anatomi 2|600]]N?:: Processus styloideus radii
-<!--SR:!2026-11-18,9,250-->
+<!--SR:!2026-12-21,32,270-->
 ![[Underarmsknogler anatomi 2|600]]O?:: Processus coronoideus
 <!--SR:!2026-12-12,29,270-->
 ![[Underarmsknogler anatomi 2|600]]P?:: Tuberositas ulnae

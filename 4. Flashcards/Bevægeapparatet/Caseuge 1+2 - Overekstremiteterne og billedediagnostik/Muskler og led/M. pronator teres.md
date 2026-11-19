@@ -5,7 +5,7 @@
 - Hvor er m. pronator teres?:: 1. lag af foreste underarmsloge, mest radielt
 <!--SR:!2026-11-24,14,290-->
 - Hvor dybt ligger m. pronator teres?:: Superficielt (lag 1)
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-14,56,310-->
 
 ### Form
 - Hvilken form har m. pronator teres?
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator teres?:: Flektion af albue samt pronation
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-20,62,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

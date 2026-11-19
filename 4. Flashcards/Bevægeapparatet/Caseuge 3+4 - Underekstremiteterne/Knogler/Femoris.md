@@ -41,7 +41,7 @@
 <!--SR:!2026-11-21,4,270-->
 	- Hvad hedder de 2 dele af skaftet adskilt af linea aspera?:: Labium mediale/laterale
 		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus (oss9s femoris)
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-22,3,250-->
 			- Hvad er formålet med tuberositas gluteus?:: Muskelhæftning
 <!--SR:!2026-11-21,4,270-->
 - Hvordan er den distale ekstremitet af femoris overordnet opbygget?:: Af 2 fremspring

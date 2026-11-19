@@ -17,7 +17,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. geniohyoideus?:: Løfter os hyoideum opad-fremad
-<!--SR:!2026-11-19,1,230-->
+<!--SR:!2026-11-21,2,230-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. geniohyoideus?

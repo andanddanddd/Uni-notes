@@ -24,7 +24,7 @@
 - Hvor udspringer caput laterale?:: [[Humerus]] bagflade superiort for sulcus n. radii
 <!--SR:!2026-12-12,26,270-->
 - Hvor udspringer caput mediale?:: [[Humerus]] bagflade inferiort for sulcus n. radii
-<!--SR:!2026-11-18,9,250-->
+<!--SR:!2026-12-22,33,270-->
 
 ### Insertion
 - Hvor har m. triceps brachii insertion?:: Olecranon (se [[Ulna]])

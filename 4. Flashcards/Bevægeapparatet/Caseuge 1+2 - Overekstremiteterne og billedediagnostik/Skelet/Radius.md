@@ -27,7 +27,7 @@
 - Hvilken knogletype er radius?:: Rørknogle
 <!--SR:!2027-01-14,62,310-->
 - Er radius parret eller uparret?:: Parret
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-20,62,310-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

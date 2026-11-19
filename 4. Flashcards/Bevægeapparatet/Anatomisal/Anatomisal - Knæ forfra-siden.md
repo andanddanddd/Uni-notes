@@ -13,7 +13,7 @@
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111094249.png]]8?:: Membrana interossea cruris
 ![[Pasted image 20261111094249.png]]9?:: Epicondylus medialis
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-29,10,270-->
 ![[Pasted image 20261111094249.png]]10?:: Condulys medialis femoris
 ![[Pasted image 20261111094249.png]]11?:: Lig. cruciatum ant.
 <!--SR:!2026-11-21,4,270-->

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-22,64,310-->
 - Hvor dybt ligger m. trapezius?:: Superficielt
 <!--SR:!2026-11-20,15,290-->
 ### Form
@@ -23,12 +23,12 @@
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
 <!--SR:!2026-12-17,38,290-->
 - Hvad er linea nuchalis sup. overordnet?:: En linje (fremspring) på [[Os occipitale]]
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-17,59,310-->
 
 - Hvad kaldes protuberantia occipitalis externa på dansk?:: Ydre nakkeknude
 <!--SR:!2027-01-13,57,310-->
 - Hvad er protuberantia occipitalis externa overordnet?:: Et knoglefremspring på midten af [[Os occipitale]]
-<!--SR:!2026-11-16,12,270-->
+<!--SR:!2027-01-05,47,290-->
 ### Insertion
 - Hvor har fibrene fra occipitallappen samt [[Ligamentum nuchae]] insersion henne? (M. trapezius):: Laterale del af [[Clavicula]]s bagkant
 <!--SR:!2026-11-25,8,230-->

@@ -13,7 +13,7 @@
 ### Ledets strukture
 - Hvilket falsk led er essensiont for stabiliteten af det øvre ankelled?:: [[Syndesmosis tibiofibularis]]
 - Hvilke 2 strukture danner ledlæber til det øvre ankelled?:: [[Lig. tibiofibulare anterius]] og [[Lig. tibiofibulare posterius]]
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-28,9,250-->
 - Hvilke strukture sikre at det øvre ankelled ikke bevæger sig fra side til side?:: Malleoserne og de kollaterale ligamenter 
 - Hvad kaldes det mediale kollaterale ligament i det øvre ankelled?:: [[Lig. deltoideum]]
 <!--SR:!2026-11-19,1,230-->
@@ -22,7 +22,7 @@
 - [[Lig. talofibulare anterius]]
 - [[Lig. talofibulare posterius]]
 - [[Lig. calcaneofibulare]]
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-20,1,210-->
 
 ### Funktion
 - Hvilke bevægelser kan det øvre ankelled lave?:: Fleksion-ekstension (dorsalfelktion-plantarfleksion)

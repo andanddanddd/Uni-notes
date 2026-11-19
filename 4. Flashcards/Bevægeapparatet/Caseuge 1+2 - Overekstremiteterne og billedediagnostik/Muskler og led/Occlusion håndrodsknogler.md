@@ -31,7 +31,7 @@
 ![[Hånd(knogle) anatomi 1]]3?:: Os triquetrum
 <!--SR:!2026-11-20,4,170-->
 ![[Hånd(knogle) anatomi 1]]4?:: Os pisiforme
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-25,67,310-->
 ![[Hånd(knogle) anatomi 1]]5?:: Os trapezium
 <!--SR:!2026-11-29,24,270-->
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
@@ -59,7 +59,7 @@
 ![[Hånd(knogler) anatomi 2]]G?:: DIgitus minimus
 <!--SR:!2027-01-07,57,310-->
 ![[Hånd(knogler) anatomi 2]]H?:: Digitus anularis
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-15,57,310-->
 ![[Hånd(knogler) anatomi 2]]I?:: Digitus medius
 <!--SR:!2027-01-15,64,310-->
 ![[Hånd(knogler) anatomi 2]]J?:: Index

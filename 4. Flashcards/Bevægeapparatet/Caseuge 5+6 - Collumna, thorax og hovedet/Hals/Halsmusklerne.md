@@ -25,6 +25,19 @@
 - [[M. thyrohyoideus]]
 - [[M. sternothyroideus]]
 
+- Hvad hedder de 4 dybe prævertebrale halsmuskler?
+?
+- [[M. longus capitis]]
+- [[M. longus colli]]
+- [[m. rectus capitis anterior]]
+- [[m. rectus capitis lateralis]]
+
+- Hvad hedder de 3 dybe halsmuskler i scalenergrupen?
+?
+- [[M. scalenus anterior]]
+- [[M. scalenus medius]]
+- [[M. scalenus posterior]]
+
 [[Occlusion - halsmuskler 1]]
 [[Occlusion - halsmuskler 2]]
 [[Occlusion - halsmuskler 3]]

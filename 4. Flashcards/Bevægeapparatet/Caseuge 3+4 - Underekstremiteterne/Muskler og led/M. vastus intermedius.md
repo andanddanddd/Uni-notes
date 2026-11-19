@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. vastus intermedius overordnet?:: Låret foretse loge
 - Hvor dybt ligger m. vastus intermedius?:: Meget dybt
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-05,16,290-->
 
 ### Form
 - Hvilken form har m. vastus intermedius?

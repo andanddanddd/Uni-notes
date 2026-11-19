@@ -17,7 +17,7 @@
 - [[M. extensor hallucis longus]]
 - [[M. extensor digitorum longus]]
 - [[M. peroneus tertius]]
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-27,8,250-->
 
 - Hvad hedder de 2 retinakler der nedbinder musklerne i underbenets fibulare muskelgruppe?::  [[Peroneerretinaklerne (øvre og nedre)]]
 <!--SR:!2026-11-28,12,270-->

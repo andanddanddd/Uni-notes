@@ -20,7 +20,7 @@
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
 <!--SR:!2026-11-25,14,210-->
 ![[Humerus anatomi 1]]I?:: Condylus humeri
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-16,58,310-->
 ![[Humerus anatomi 1]]J?::Sulcus intertubercularis
 <!--SR:!2026-12-17,41,290-->
 ![[Humerus anatomi 1]]K?:: Caput humeri
@@ -56,4 +56,4 @@
 ![[Humerus anatomi 1]]Z?:: Extremitas distalis
 <!--SR:!2027-01-16,61,310-->
 ![[Humerus anatomi 1]]Æ?:: Humerus posteriort
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-25,67,310-->

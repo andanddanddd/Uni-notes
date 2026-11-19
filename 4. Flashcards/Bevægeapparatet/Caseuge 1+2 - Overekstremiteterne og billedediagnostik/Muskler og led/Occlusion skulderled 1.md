@@ -17,6 +17,6 @@
 <!--SR:!2026-11-20,4,270-->
 ![[Skulderled 1|600]]I?:: [[Ligamenta coracohumerale]]
 ![[Skulderled 1|600]]J?:: [[M. subscapularis]]
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-11-29,10,270-->
 ![[Skulderled 1|600]]K?:: Bursa subtendinea m. subscapularis
 <!--SR:!2026-11-29,13,230-->

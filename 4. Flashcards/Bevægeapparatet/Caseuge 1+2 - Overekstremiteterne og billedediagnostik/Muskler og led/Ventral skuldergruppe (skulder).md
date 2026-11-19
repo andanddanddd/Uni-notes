@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor er musklerne i skulderens ventrale muskelgruppe overordnet?:: Fra brystkassen tiil skulderbæltet eller humerus
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-25,67,310-->
 - Hvad kaldes skulderens ventrale muskelgruppe også?:: De overfladiske brystmuskler
 <!--SR:!2027-01-10,55,310-->
 

@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder hånroden på latin?:: Carpus
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-04,46,290-->
 - Hvad kaldes den samlede betegnelse for håndrodknoglerne på latin?:: Ossa carpi
 <!--SR:!2026-12-19,33,270-->
 - Hvor mange knogler består håndroden af?:: 8

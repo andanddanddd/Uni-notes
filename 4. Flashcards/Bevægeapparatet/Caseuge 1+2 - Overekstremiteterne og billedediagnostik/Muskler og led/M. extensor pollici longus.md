@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. pollicis longus?:: Distalt ulnart for [[M. abductor pollicis longus]] (dvs bagflade af [[Ulna]] og membrana iterossus)
-<!--SR:!2026-11-18,12,270-->
+<!--SR:!2027-01-03,45,290-->
 
 ### Insertion
 - Hvor har m. pollicis longus insertion?:: Basis af phalinx distale på tommelfingeren
@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. pollicis longus?:: Ekstension af tommelfinegren (alle led)
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-25,67,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

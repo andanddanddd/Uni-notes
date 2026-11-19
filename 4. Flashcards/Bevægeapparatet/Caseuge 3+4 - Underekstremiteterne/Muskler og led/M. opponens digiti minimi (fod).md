@@ -11,7 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. opponens digiti minimi (fod)?:: Plantare ligamenter
-<!--SR:!2026-11-17,1,230-->
+<!--SR:!2026-11-20,1,210-->
 #### Insertion
 - Hvor har m. opponens digiti minimi (fod) insertion?:: Skaftet af os metatarsales V
 

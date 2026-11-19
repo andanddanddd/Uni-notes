@@ -6,4 +6,4 @@
 - [[Articulatio interphalangialis proximalis (PIP)]]
 - [[Articulatio metacarpophalangealis (MCP)]]
 - [[Articulatio carpometacarpalis pollicis (CMP)]]
-<!--SR:!2026-11-17,8,250-->
+<!--SR:!2026-12-10,21,250-->

@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. pronator quadratus insertion?:: Distalt på [[Radius]] forflade
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-15,57,310-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. pronator quadratus?:: Pronation

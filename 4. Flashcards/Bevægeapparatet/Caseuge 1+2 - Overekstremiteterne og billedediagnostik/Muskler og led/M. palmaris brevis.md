@@ -22,7 +22,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. palmaris brevis?:: [[N. ulnaris]] (ramus superficialis)
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2027-01-03,45,290-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

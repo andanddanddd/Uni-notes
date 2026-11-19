@@ -12,11 +12,11 @@
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis brevis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])
-<!--SR:!2026-11-16,3,250-->
+<!--SR:!2026-11-30,11,270-->
 
 ### Insertion
 - Hvor har m. flexor pollicis brevis insertion?:: Tommelfingerens radiale sesamknogle samt basis af phalinx proximale
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-12,54,310-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis brevis?:: Flektion af tommelfingren

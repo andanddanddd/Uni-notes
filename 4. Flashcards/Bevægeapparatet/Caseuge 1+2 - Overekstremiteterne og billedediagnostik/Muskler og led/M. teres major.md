@@ -9,11 +9,11 @@
 
 ### Udspring
 - Hvor udspringer m. teres major?:: Nederste del af [[Scapula]]s lateralkant
-<!--SR:!2026-11-16,11,270-->
+<!--SR:!2026-12-31,42,290-->
 
 ### Insertion
 - Hvor har m. teres major insertion?:: Crista tuberculi minoris (se [[Humerus]])
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-27,8,250-->
 
 ### Funktion
 - Hvilke funktioner har m. teres major?:: Adduction, extension samt indadrotation af overoramen

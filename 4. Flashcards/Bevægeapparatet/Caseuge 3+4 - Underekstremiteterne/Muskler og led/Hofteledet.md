@@ -6,7 +6,7 @@
 
 ### Ledtype
 - Hvilken ledtype er hofteledet?:: [[Kugleled]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-04,15,290-->
 
 ### Ledflader
 - Hvad hedder ledskålet i hofteledet?:: [[Acetabulum]]

@@ -11,7 +11,7 @@
 ![[Os sacrum 2|800]]E?:: Crista sacralis lateralis
 ![[Os sacrum 2|800]]F?:: Foramen sacrale post.
 ![[Os sacrum 2|800]]G?:: Cornu sacrale
-<!--SR:!2026-11-19,1,230-->
+<!--SR:!2026-11-22,3,250-->
 ![[Os sacrum 2|800]]H?:: Hiatus sacralis
 <!--SR:!2026-11-22,4,270-->
 

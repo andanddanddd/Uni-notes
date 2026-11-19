@@ -16,7 +16,7 @@
 - Hvor udspringer m. vastus medialis?:: Linea aspara (og dens forlængelser) (se [[Femoris]])
 #### Insertion
 - Hvor har m. vastus medialis insertion?:: [[Patella]]s medialkant og tuberositas tibia (sammen med resten af [[M. quadriceps femoris]])
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-01,12,270-->
 
 ### Funktion
 - Hvilken ikke-bevægelsesmæssig funktion har m. vastus medialis?:: Stabilisering af patella

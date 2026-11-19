@@ -11,7 +11,7 @@
 ![[Hofte anatomi 1|700]]D?:: [[Lig. sacrospinale]]
 <!--SR:!2026-11-22,4,270-->
 ![[Hofte anatomi 1|700]]E?:: [[M. obturatorius internus]] og [[Mm gemelli]]
-<!--SR:!2026-11-15,3,250-->
+<!--SR:!2026-11-26,7,250-->
 ![[Hofte anatomi 1|700]]F?:: Tuber ischiadicum
 ![[Hofte anatomi 1|700]]G?:: [[N. pudendus]]
 <!--SR:!2026-11-21,3,250-->

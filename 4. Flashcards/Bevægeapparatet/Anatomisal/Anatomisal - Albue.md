@@ -17,4 +17,4 @@
 ![[Pasted image 20261111100437.png]]11?:: Processus coronoideus
 <!--SR:!2026-11-21,5,230-->
 ![[Pasted image 20261111100437.png]]12?:: Crista supracondylaris lateralis
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-21,2,230-->

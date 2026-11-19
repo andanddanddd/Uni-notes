@@ -13,4 +13,4 @@
 ![[Armens arterier 2|600]]G?:: [[Arcus palmaris superficialis]]
 ![[Armens arterier 2|600]]H?:: [[Aa. digitales palmares communes]]
 ![[Armens arterier 2|600]]I?:: [[Aa. digitales palmares propriae]]
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-20,1,210-->

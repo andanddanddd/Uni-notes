@@ -4,7 +4,7 @@
 - Hvad gør musklerne i låret overordnet?:: bevæger knæledet samt adducere hofteledet
 <!--SR:!2026-11-25,14,290-->
 - Hvad hedder facien i låret?:: *Fascia lata*
-<!--SR:!2026-11-19,1,230-->
+<!--SR:!2026-11-22,3,250-->
 - Hvor i låret binder bindevævssepta der opdeler låret?:: Linea aspera samt dens forlængelser (se [[Femoris]])
 - Hvor i låret er de store kar?:: Mellem extensorgruppen og adductorgruppen
 <!--SR:!2026-11-20,4,270-->
@@ -15,7 +15,7 @@
 ?
 - [[M. sartorius]]
 - [[M. quadriceps femoris]]
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-26,7,250-->
 
 - Hvilken form har lårets mediale muskelgruppe sammen?:: Trekant der udfylder hullet mellem femoris og hoften
 - Hvad hedder musklerne i lårests mediale muskelgruppe?
@@ -28,7 +28,7 @@
 
 - Hvad kaldes lårets bagerste muskelgruppe også?:: Hasemuskler/hamstrings
 - Hvilken funktion har hasemusklerne ved gang/løb?:: Stoppe det framadgående ben og accelerere det bagud
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-30,11,270-->
 - Hvad hedder musklerne i lårets bagertse muskelgruppe?
 ?
 - [[M. biceps femoris]]

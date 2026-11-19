@@ -21,13 +21,13 @@
 
 ### Insertion
 - Hvor har m. gluteus maximus insertion?:: Tuberositas glutea ossis femoris (se [[Femoris]]) samt [[Tractus iliotibialis]]
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-21,2,230-->
 
 ### Funktion
 - Hvilken primær bevægelse udfører m. gluteus maximus?:: Ekstension af hofteledet
 <!--SR:!2026-11-20,4,270-->
 - I hvilke siturationer udfører m. gluteus maximus ekstension?:: Løb og rejse sig op fra sidende
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-30,11,270-->
 - Hvilken bevægelse/kropsform er nødvendigt for at m. gluteus maximus kan udfører ekstension?:: Fremadstillet overkrop
 - Udover ekstension hvilke bevægelser udfører m. gluteus maximus?:: Adduktion, abduction samt udadrotation af hofteledet
 <!--SR:!2026-11-18,9,250-->
