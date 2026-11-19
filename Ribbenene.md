@@ -24,9 +24,10 @@
 	- Hvad articulere tuberculum costae med?:: [[Tværtappe]]
 - Hvor på skafetet af ribbenen findes sulcus costae?:: Indersiden
 - Hvilken funktion har sulcus costae?:: Indeholde kar og nerver
-
-#### Costa I
-
+- Hvad er særligt ved costa XI og XII?
+?
+- De articuelre kun med 1 ryghvirvel
+- De har ikke ribbensbrusk
 
 ### Relationer
 #### Led
