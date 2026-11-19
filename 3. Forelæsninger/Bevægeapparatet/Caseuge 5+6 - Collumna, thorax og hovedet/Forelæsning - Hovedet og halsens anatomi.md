@@ -2,3 +2,5 @@
 
 
 ![[Halsmusklerne]]
+
+![[Halsens fascier og bindevævsrum]]

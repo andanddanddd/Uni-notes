@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. scalenus medius.md",
+                "file": "Halsens fascier og bindevævsrum.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "M. scalenus medius"
+              "title": "Halsens fascier og bindevævsrum"
             }
           }
         ]
@@ -245,9 +255,12 @@
   },
   "active": "993248af6af8b58b",
   "lastOpenFiles": [
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
+    "Halsens fascier og bindevævsrum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Halsmusklerne.md",
-    "M. scalenus medius.md",
     "M. scalenus anterior.md",
+    "M. scalenus medius.md",
+    "M. scalenus posterior.md",
     "M. rectus capitis lateralis.md",
     "M. rectus capitis anterior.md",
     "M. longus colli.md",
@@ -276,11 +289,8 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - Nakkemuskler 1.md",
     "Billeder/Bevægeapparatet/Halsen",
     "Excalidraw/Bevægeapparatet/Ryggen/Nakkemuskler 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - Dybe rygmuskler 2.md",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 2.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - Dybe rygmuskler 1.md",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 1.png",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columnas anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Kæben",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke",
