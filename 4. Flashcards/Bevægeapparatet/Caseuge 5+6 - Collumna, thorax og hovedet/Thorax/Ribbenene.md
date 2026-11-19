@@ -42,3 +42,6 @@
 - Ossifikationstidpunkt
 ### Inspektion og palpation
 ### Klinik
+
+
+[[Occlusion - Ribben 1]]

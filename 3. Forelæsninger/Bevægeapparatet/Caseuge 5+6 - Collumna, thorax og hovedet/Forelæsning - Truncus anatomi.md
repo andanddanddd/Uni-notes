@@ -9,3 +9,5 @@
 ![[Ribbenenes led fortil]]
 
 ![[Ribbensbrusk]]
+
+![[Ribbensmuskler]]

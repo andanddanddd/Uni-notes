@@ -42,3 +42,6 @@
 - Hvor mange kerner ossificeres sternum udfra?:: 6 (en i manubrium og proccessus xipoideus og 1 i hver del af corpus sterni)
 ### Inspektion og palpation
 ### Klinik
+
+
+[[Occlusion - Sternum 1]]

@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 42.64205925206411,
+        "dimension": 55.28269560251285,
         "children": [
           {
             "id": "993248af6af8b58b",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pecten carinatum.md",
+                "file": "Occlusion - ribbensmuskler 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pecten carinatum"
+              "title": "Occlusion - ribbensmuskler 1"
+            }
+          },
+          {
+            "id": "0129b0d03f0af803",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Thorax/RIbbensmuskler 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RIbbensmuskler 1"
+            }
+          },
+          {
+            "id": "2c2ac313e705ad2f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Thorax/Ribben 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ribben 1"
+            }
+          },
+          {
+            "id": "88531aaabf7bbcd8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bevægeapparatet/Thorax/Sternum 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sternum 1"
             }
           },
           {
@@ -38,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbenenes led fortil.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenenes led fortil.md",
                 "mode": "source",
                 "source": false
               },
@@ -51,7 +87,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 57.357940747935885,
+        "dimension": 44.71730439748715,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -269,14 +305,24 @@
   },
   "active": "993248af6af8b58b",
   "lastOpenFiles": [
-    "Thorax.md",
-    "Pecten carinatum.md",
-    "Pecten excavatum.md",
+    "Excalidraw/Bevægeapparatet/Thorax/RIbbensmuskler 1.md",
+    "Occlusion - ribbensmuskler 1.md",
+    "ribbensmuskler 1.png",
+    "Ribbensmuskler.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
-    "Ribbenenes led fortil.md",
-    "Ribbensbrusk.md",
-    "Ribbenene.md",
-    "Sternum.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenene.md",
+    "Occlusion - Ribben 1.md",
+    "Excalidraw/Bevægeapparatet/Thorax/Ribben 1.md",
+    "ribben 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Sternum.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Occlusion - Sternum 1.md",
+    "Excalidraw/Bevægeapparatet/Thorax/Sternum 1.md",
+    "sternum 1.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Thorax.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Pecten carinatum.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Pecten excavatum.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenenes led fortil.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbensbrusk.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Incisurae costales.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Plexus cervicalis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Ansa cervicalis.md",
@@ -291,13 +337,6 @@
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Halsens fascier og bindevævsrum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Fascia cervicalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Halsmusklerne.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. scalenus anterior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. scalenus medius.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. scalenus posterior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. rectus capitis lateralis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. rectus capitis anterior.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. longus colli.md",
     "Externe dokumenter/Bevægeapparatet/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Externe dokumenter/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Slides - Kommunikation_og_klinisk_integration DCA.pdf",
@@ -312,9 +351,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke",
     "Billeder/Bevægeapparatet/Underekstremiteterne/benets arterier 1.png",
-    "Pasted image 20261116134951.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/plexus brachialis kompliceret.png",
-    "Billeder/Bevægeapparatet/Overekstremiteterne/plexus brachialis 1.png",
     "Untitled.canvas"
   ]
 }
