@@ -4,3 +4,5 @@
 ![[Halsmusklerne]]
 
 ![[Halsens fascier og bindevævsrum]]
+
+![[Plexus cervicalis]]
