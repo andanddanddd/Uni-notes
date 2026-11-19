@@ -7,7 +7,7 @@
 <!--SR:!2026-11-20,4,270-->
 ![[Knæled 4|600]]C?:: Lig cruciatum post.
 ![[Knæled 4|600]]D?:: Lig. cruciatum ant.
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-11-29,10,270-->
 ![[Knæled 4|600]]E?:: [[Lig. meniscofemorale posterius]]
 <!--SR:!2026-11-23,7,250-->
 ![[Knæled 4|600]]F?:: [[Lig. collaterale fibulare]]

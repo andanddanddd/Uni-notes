@@ -3,7 +3,7 @@
 ![[hoftebenet 1.png]]
 
 ![[Hoftebenet 1|600]]A?:: Crista iliaca
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-13,55,310-->
 ![[Hoftebenet 1|600]]B?:: Fossa iliaca
 <!--SR:!2026-11-21,3,250-->
 ![[Hoftebenet 1|600]]C?:: Spina iliaca ant. sup.

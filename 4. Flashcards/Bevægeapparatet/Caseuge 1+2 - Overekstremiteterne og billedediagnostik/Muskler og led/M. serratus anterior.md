@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor dybt ligger m. serratus ant?:: Dybt (mest dybt af de superficielle brystmuskler)
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-25,67,310-->
 
 ### Form
 - Hvilen form har m. serratus ant?:: Stor flad

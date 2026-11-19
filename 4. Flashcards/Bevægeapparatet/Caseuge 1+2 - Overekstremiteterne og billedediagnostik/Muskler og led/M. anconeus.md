@@ -13,7 +13,7 @@
 
 ### Udspring
 - Hvor udspringer m. anconeus?:: Epicondulys lateralis
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-03,45,290-->
 
 ### Insertion
 - Hvor har m. anconeus insertion?:: Proximalt på [[Ulna]]s bagkant

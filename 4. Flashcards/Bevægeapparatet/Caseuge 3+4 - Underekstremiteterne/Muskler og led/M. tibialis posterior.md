@@ -13,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. tibialis post.?:: membrana interossea (og  begge knogler i underbenet)
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-01,12,270-->
 #### Insertion
 - Hvor har m. tibialis post. insertion?:: [[Os naviculare]] og os cuniformia
 <!--SR:!2026-11-18,1,230-->

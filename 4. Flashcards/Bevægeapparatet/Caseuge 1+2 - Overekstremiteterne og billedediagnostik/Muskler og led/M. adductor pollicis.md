@@ -18,7 +18,7 @@
 
 ### Insertion
 - Hvor har m. adductor pollicis insertion?:: Tommelfingerens ulnare sesamknogle samt ulnare dele af basis af phalinx proximale I
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-15,57,310-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor pollicis?:: Adduction af tommelfingeren

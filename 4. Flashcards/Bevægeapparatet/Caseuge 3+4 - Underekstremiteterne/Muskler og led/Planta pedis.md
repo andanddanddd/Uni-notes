@@ -18,7 +18,7 @@
 - [[M. abductor hallucis]]
 - [[M. flexor hallucis brevis]]
 - [[M. adductor hallucis]]
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-11-30,11,270-->
 
 - Hvilke muskler findes i lilletåens muskelloge?
 ?
