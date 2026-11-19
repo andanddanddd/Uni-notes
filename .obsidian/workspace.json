@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Plexus cervicalis.md",
+                "file": "Ribbenene.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plexus cervicalis"
+              "title": "Ribbenene"
+            }
+          },
+          {
+            "id": "359325c1d72598f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ribbenenes led fortil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ribbenenes led fortil"
             }
           }
         ]
@@ -255,14 +269,15 @@
   },
   "active": "993248af6af8b58b",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Ansa cervicalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Plexus cervicalis.md",
-    "Sternum.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rød knoglemarv.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Incisurae costales.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Incisura clavicularis.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+    "Sternum.md",
+    "Ribbenenes led fortil.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Incisurae costales.md",
     "Ribbenene.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Plexus cervicalis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Ansa cervicalis.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rød knoglemarv.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Incisura clavicularis.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax",
     "Excalidraw/Bevægeapparatet/Thorax",
@@ -286,7 +301,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens arterier 2.md",
     "Externe dokumenter/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Slides - Kommunikation_og_klinisk_integration DCA.pdf",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Occlusion - os sacrum 1.md",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 3.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 2.png",

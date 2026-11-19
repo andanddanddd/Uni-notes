@@ -16,18 +16,19 @@
 	- Hvorfor er der en ru fordybning på hver side af sternum?:: der hæfter costa I
 - Hvad kaldes den midterste del af sternum?:: Corpus
 	- Hvorfor er der 3 horizontale linjer på sternum og hvad kaldes de?:: Sternebrae, de markere stederne de 4 dele af corpus sternum er sammenvokset
-	- Hvad hedder de glatte udsnit på siderne af corpus sternum?:: [[Incisurae costales]]
+	- Hvad hedder de glatte udsnit på siderne af corpus sternum?:: Incisurae costales
+		- Hvor mange insicura costales er på hver side af corpus sternum?:: 5
+		- Hvor er de 5 incisurae costales?:: Ved hver af de horizontale linjer på corpus sterni samt en ekstra på hhv det øvertse og nederste udsnit
 - Hvad kaldes den nederste del af sternum?:: Processus xipoideus
 	- Hvilken form har proccesus zipoideus?:: Flad og trekantet
 
 - Hvad hedder ledet mellem manubrium sterni og corpus sterni?:: Angulus sterni
 	- Hvilken ledtype er angulus sterni?:: Primær [[Synchondroser]]
-- Hvor på sternum hæfter costa VII?:: Overgangen mellem corpus sterni og processus xipoideus
+
 
 ### Relationer
 #### Led
 - Hvilke knogler danner sternum led med?
-- Hvilke ribben hæfter på sternum?:: Costa I-VII
 #### Muskler
 #### Kar- og nerveforsyning
 ### Knogletype
