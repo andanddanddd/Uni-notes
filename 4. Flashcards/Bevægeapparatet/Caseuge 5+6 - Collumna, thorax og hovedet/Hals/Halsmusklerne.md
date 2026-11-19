@@ -29,9 +29,10 @@
 ?
 - [[M. longus capitis]]
 - [[M. longus colli]]
-- [[m. rectus capitis anterior]]
-- [[m. rectus capitis lateralis]]
+- [[M. rectus capitis anterior]]
+- [[M. rectus capitis lateralis]]
 
+- Hvor har scalendergruppen af de dybe halsmuskler fået sit navn fra?:: Scalender betyder skrå
 - Hvad hedder de 3 dybe halsmuskler i scalenergrupen?
 ?
 - [[M. scalenus anterior]]

@@ -2,17 +2,17 @@
 
 
 ### Lokation
-- Hvilken muskelgruppe tilhøre m. longus coli?
-- Hvor dybt ligger m. longus coli?
+- Hvilken muskelgruppe tilhøre m. longus coli?:: Prævertebrale dybe halsmuskler
+- Hvor dybt ligger m. longus coli?:: Dybt
 
 ### Form
 - Hvilken form har m. longus coli?
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. longus coli?:: 
+- Hvor udspringer m. longus coli?:: [[Hvirvellegemet]] af T3 og opefter
 #### Insertion
-- Hvor har m. longus coli insertion?
+- Hvor har m. longus coli insertion?:: Tuberculum ant. atlantis (se [[Atlas]]) og [[Tværtappe]]
 
 ### Funktion
 - Hvilke bevægelser udfører m. longus coli?

@@ -3,9 +3,9 @@
 ![[halsmuskler 3.png]]
 
 
-![[Halsmuskler 3|600]]A?:: [[m. rectus capitis lateralis]]
+![[Halsmuskler 3|600]]A?:: [[M. rectus capitis lateralis]]
 ![[Halsmuskler 3|600]]B:: Tuberculum ant atlantis
-![[Halsmuskler 3|600]]C?:: [[m. rectus capitis anterior]]
+![[Halsmuskler 3|600]]C?:: [[M. rectus capitis anterior]]
 ![[Halsmuskler 3|600]]D?:: [[M. longus capitis]]
 ![[Halsmuskler 3|600]]E?:: [[M. scalenus medius]]
 ![[Halsmuskler 3|600]]F?:: [[M. scalenus posterior]] 
