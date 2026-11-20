@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostalis intimus.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,81 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "M. intercostalis intimus"
-            }
-          },
-          {
-            "id": "b428ffe4645d09b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Thorax/Diagfragma 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Diagfragma 2"
-            }
-          },
-          {
-            "id": "d66874a8abf7e71a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Thorax/Diagfragma 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Diagfragma 1"
-            }
-          },
-          {
-            "id": "0129b0d03f0af803",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Thorax/RIbbensmuskler 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "RIbbensmuskler 1"
-            }
-          },
-          {
-            "id": "2c2ac313e705ad2f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Thorax/Ribben 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ribben 1"
-            }
-          },
-          {
-            "id": "88531aaabf7bbcd8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Bevægeapparatet/Thorax/Sternum 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sternum 1"
-            }
-          },
-          {
-            "id": "359325c1d72598f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenenes led fortil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ribbenenes led fortil"
+              "title": "Forelæsning - Hovedet og halsens anatomi"
             }
           }
         ]
@@ -126,18 +52,19 @@
             }
           },
           {
-            "id": "4d0fb52e0fda0bd2",
+            "id": "dc5b7ce0db21e054",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf"
+                "file": "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - underekstreimteternes klniske problemstillinger"
+              "title": "Slides - Hovedet og halsen anatomi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -323,14 +250,22 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "993248af6af8b58b",
   "lastOpenFiles": [
+    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+    "1. Fag/Bevægeapparatet.md",
+    "3. Forelæsninger/Bevægeapparatet/Klinik - Bevægeapparatet.md",
+    "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
+    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261120_Truncus_Tong Tong.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostalis intimus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Diagfragma.md",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbensmuskler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostalis internus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostales externus.md",
@@ -354,11 +289,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Thorax.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Pecten carinatum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Pecten excavatum.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenenes led fortil.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbensbrusk.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Incisurae costales.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Plexus cervicalis.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Ansa cervicalis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax",
     "Excalidraw/Bevægeapparatet/Thorax",
     "Billeder/Bevægeapparatet/Thorax",
@@ -371,9 +301,6 @@
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/nakkemuskler 1.png",
     "Billeder/Bevægeapparatet/Halsen",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 2.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Kæben",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke",
     "Untitled.canvas"
   ]
 }
