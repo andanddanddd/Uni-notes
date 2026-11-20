@@ -4,6 +4,8 @@
 	- [ ] 8-10 = faslek ribben
 	- [ ] 11+12 = flydende ribben
 - [ ] Kar og nerver ligger lidt gemt lige under ribben(inferiort) derfor skal man hellere ramme tæt på toppen af et ribben end bunden hvis en nål skal ind mellem ribbenene
+- [ ] Eftersom diagfragma innerves så højt oppe fra kan det giev refereret smerte deroptil
+- [ ] Ved s
 
 ![[Thorax]]
 
