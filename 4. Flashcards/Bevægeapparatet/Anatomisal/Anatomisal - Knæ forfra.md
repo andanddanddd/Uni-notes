@@ -6,6 +6,7 @@
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111093203.png]]6?:: [[Lig. patellae]]
 ![[Pasted image 20261111093203.png]]11?:: Lig. cruciatum anterius
+<!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261111093203.png]]2?:: Epicondylus lateralis 
 ![[Pasted image 20261111093203.png]]7?:: [[Fibula]]
 ![[Pasted image 20261111093203.png]]12?:: [[Lig. transversum genus]]

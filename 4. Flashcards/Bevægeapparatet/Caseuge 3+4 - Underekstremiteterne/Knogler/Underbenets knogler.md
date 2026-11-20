@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er den samlede betegnelse for underbenets knogler?:: Ossa cruris
+<!--SR:!2026-11-21,1,230-->
 - Hvilken af knoglerne i underbenet er kraftigst?:: Tibia
 <!--SR:!2026-11-22,4,270-->
 [[Occlusion - underbensknogler 1]]

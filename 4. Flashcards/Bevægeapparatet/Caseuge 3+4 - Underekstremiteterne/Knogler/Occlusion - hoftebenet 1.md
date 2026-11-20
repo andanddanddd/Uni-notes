@@ -25,7 +25,7 @@
 ![[Hoftebenet 1|600]]K?:: Tuberositas iliaca
 <!--SR:!2027-01-03,47,290-->
 ![[Hoftebenet 1|600]]L?:: Spina iliaca post. sup.
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-26,67,310-->
 ![[Hoftebenet 1|600]]M?:: Facies articularis
 <!--SR:!2026-11-20,15,290-->
 

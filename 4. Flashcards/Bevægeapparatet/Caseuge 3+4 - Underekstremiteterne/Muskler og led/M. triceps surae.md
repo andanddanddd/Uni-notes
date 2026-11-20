@@ -14,6 +14,7 @@
 - Hvor udspringer m. triceps surae?
 #### Insertion
 - Hvor har m. triceps surae insertion?:: Tuber calcanei (se [[Calcaneus]])
+<!--SR:!2026-11-23,3,250-->
 - Hvilken sene bruger m. triceps surae til insertion?:: [[Tendo calcaneus]]
 <!--SR:!2026-11-29,10,270-->
 

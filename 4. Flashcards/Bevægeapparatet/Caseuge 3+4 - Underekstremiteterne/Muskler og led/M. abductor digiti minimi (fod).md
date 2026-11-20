@@ -16,6 +16,7 @@
 - Hvor udspringer m.  abductor digiti minimi (fod)?:: Lateralt på tuber calcanei (se [[Calcaneus]]) og [[Aponeurosis plantaris]]
 #### Insertion
 - Hvor har m.  abductor digiti minimi (fod) insertion?:: Basis af phalanx proximale V
+<!--SR:!2026-11-23,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m.  abductor digiti minimi (fod)?:: Abduction af lilletåen

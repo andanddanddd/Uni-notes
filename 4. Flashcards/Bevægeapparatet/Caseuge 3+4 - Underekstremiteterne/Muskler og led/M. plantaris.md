@@ -5,6 +5,7 @@
 - Hvor er m. plantaris overordnet?:: Underbenets bagerste muskelloge
 <!--SR:!2026-12-04,16,290-->
 - Hvor dybt ligger m. plantaris?:: Superficielt
+<!--SR:!2026-11-24,4,270-->
 
 ### Form
 - Hvilken form har m. plantaris?

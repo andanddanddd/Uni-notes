@@ -5,6 +5,7 @@
 <!--SR:!2026-11-24,4,270-->
 - Hvilket ribben hæfter på den øvertse incisurae costales?:: Costa II
 - Hvilket ribben hæfter på den nederste incisurae costales?:: Costa VI
+<!--SR:!2026-11-24,4,270-->
 - Hvor på sternum hæfter costa VII?:: Overgangen mellem corpus sterni og processus xipoideus
 - Hviken ledtype er ledet mellem [[Ribbenene]] og [[Sternum]]?:: Ægte led (glideled nok)
 

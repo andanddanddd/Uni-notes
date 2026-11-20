@@ -6,3 +6,4 @@
 - Hvor mange tværtappe har hver ryghvivel?:: 2
 <!--SR:!2026-11-24,4,270-->
 - Hvilken retnng vender tværtappene?:: Lateralt (enten fremad eller bagud)
+<!--SR:!2026-11-24,4,270-->

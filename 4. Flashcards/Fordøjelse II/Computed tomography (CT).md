@@ -29,6 +29,7 @@
 - Cancer
 <!--SR:!2026-11-04,15,290-->
 - Hvad bruges CT til i forbindelse med underernæring?:: Det kan måle muskelmasse
+<!--SR:!2026-11-24,4,270-->
 
 
 Når man ser et CT-billede der ikke er et slice men forfra eller fra siden, så er det den samme data som fra slicesne men rekunstrueret anderledes

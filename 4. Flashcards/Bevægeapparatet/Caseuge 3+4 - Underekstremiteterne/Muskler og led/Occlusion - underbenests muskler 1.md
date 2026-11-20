@@ -7,7 +7,7 @@
 ![[Underbenests muskler 1|600]]B?:: [[M. extensor digitorum longus]]
 ![[Underbenests muskler 1|600]]C?:: [[M. peroneus tertius]]
 ![[Underbenests muskler 1|600]]D?:: [[M. gastrocnemius]]
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-02,12,270-->
 ![[Underbenests muskler 1|600]]E?:: [[M. tibialis anterior]]
 <!--SR:!2026-11-21,3,250-->
 ![[Underbenests muskler 1|600]]F?:: [[M. soleus]]
