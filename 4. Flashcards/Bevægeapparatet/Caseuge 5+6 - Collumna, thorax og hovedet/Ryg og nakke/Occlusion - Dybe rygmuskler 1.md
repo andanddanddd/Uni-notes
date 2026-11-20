@@ -1,6 +1,6 @@
 #flashcards/5/Bevægeapparatet 
 
-![[dybe rygmuskler 1.png]]
+![[dybe rygmuskler 1.png|700]]
 
 
 ![[Dybe rygmuskler 1|700]]A?:: [[Fascia thoracolumbalis]] (a = ventral blad, b= dorsal blad)
