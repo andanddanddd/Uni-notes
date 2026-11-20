@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. obliquus capitis superior?:: [[Mm. suboccipitales]]
+<!--SR:!2026-11-24,4,270-->
 - Hvor dybt ligger mm. obliquus capitis superior?
 
 ### Form

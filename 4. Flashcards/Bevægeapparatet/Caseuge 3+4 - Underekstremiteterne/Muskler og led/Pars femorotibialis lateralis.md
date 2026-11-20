@@ -4,3 +4,4 @@
 <!--SR:!2026-11-30,14,290-->
 - Hvad danner ledhoved i pars femorotibialis lateralis?:: Condylys lateralis af [[Femoris]]
 - Hvor stabil er pars femorotibialis lateralis?:: Mindre stabilt end det mediale dermed kan rotation ske
+<!--SR:!2026-11-24,4,270-->

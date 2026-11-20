@@ -4,6 +4,7 @@
 
 
 ![[Underarm bagved 2]]A?:: [[M. flexor pollicis longus]]
+<!--SR:!2026-11-23,3,250-->
 ![[Underarm bagved 2]]B?:: [[M. extensor indicis]]
 <!--SR:!2026-11-19,15,290-->
 ![[Underarm bagved 2]]C?:: [[M. supinator]]

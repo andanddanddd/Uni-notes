@@ -5,6 +5,7 @@
 - Hvor er m. soleus overordnet?:: Underbenets bagerste loge
 <!--SR:!2026-12-05,16,290-->
 - Hvor dybt ligger m. soleus?:: Temmelig superficielt
+<!--SR:!2026-11-24,4,270-->
 
 ### Form
 - Hvilken form har m. soleus?:: Multipennat

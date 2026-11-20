@@ -14,7 +14,7 @@
 - Hvordan inddeles albueledet overordnet?:: 3 led alle bestående af flader mellem 2 knogler
 <!--SR:!2027-01-14,58,310-->
 - Hvilken ledtype er articulatio humeroradialis?:: Kugleled
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-26,67,310-->
 
 
 

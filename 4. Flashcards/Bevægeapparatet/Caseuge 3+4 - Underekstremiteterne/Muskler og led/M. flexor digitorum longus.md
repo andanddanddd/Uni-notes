@@ -18,6 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor digitorum longus?:: Flektion af de 4 laterale tær, inversion og plantarflektion af foden
+<!--SR:!2026-11-24,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor digitorum longus?

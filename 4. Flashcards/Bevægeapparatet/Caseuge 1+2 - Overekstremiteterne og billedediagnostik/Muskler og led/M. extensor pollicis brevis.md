@@ -5,7 +5,7 @@
 - Hvor er m. pollicis brevis overordnet?:: Dorsalt på underarmen
 <!--SR:!2027-01-02,44,290-->
 - Hvor dybt ligger m. pollicis brevis?:: Dybt
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2026-11-28,8,270-->
 
 ### Form
 - Hvilken form har m. pollicis brevis?

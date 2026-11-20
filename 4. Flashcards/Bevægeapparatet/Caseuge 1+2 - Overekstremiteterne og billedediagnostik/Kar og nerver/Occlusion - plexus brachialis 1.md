@@ -10,7 +10,7 @@
 ![[Plexus brachialis 1|700]]C?:: Grene
 ![[Plexus brachialis 1|700]]D?:: Fasciculus lat.
 ![[Plexus brachialis 1|700]]E?:: [[N. axilaris]]
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-02,12,270-->
 ![[Plexus brachialis 1|700]]F?:: [[N. musculocutaneus]]
 ![[Plexus brachialis 1|700]]G?:: [[N. radialis]]
 <!--SR:!2026-11-22,4,270-->

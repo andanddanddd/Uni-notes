@@ -8,6 +8,7 @@
 
 ### Form
 - Hvilken form har m. sartorius?:: Lang, remformet
+<!--SR:!2026-11-24,4,270-->
 
 ### Forløb
 - Hvad er særligt ved forløbet af m. sartorius?:: Den krydser ind over låret

@@ -13,6 +13,7 @@
 	- Hvorfor er manubium sterni kraftig?:: Den skal tage imod "stød" fra skulderbæltet og dermed armen
 	- Hvad hedder ledfladen på sternum?:: [[Incisura clavicularis]]
 	- Hvad hedder fordybningen øverst medialt på manubrium sterni?:: Insicura jugulares
+<!--SR:!2026-11-24,4,270-->
 	- Hvorfor er der en ru fordybning på hver side af sternum?:: der hæfter costa I
 - Hvad kaldes den midterste del af sternum?:: Corpus
 	- Hvorfor er der 3 horizontale linjer på sternum og hvad kaldes de?:: Sternebrae, de markere stederne de 4 dele af corpus sternum er sammenvokset

@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken ledtype er acetabulum før puberteten?:: [[Synchondroser]]
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-22,63,310-->
 - Hvilken ledtype er acetabulum efter puberteten?:: [[Synotoser]]
 <!--SR:!2026-12-22,33,270-->
 - Hvor er acetabulum overordnet?:: Lateralsiden af [[Os coxae]], der danner ledskål for [[Caput femoris]]

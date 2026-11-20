@@ -14,6 +14,6 @@
 ![[Pasted image 20261112113647.png]]8?:: Spina scapulae
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261112113647.png]]9?:: Margo medialis
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-06,16,290-->
 ![[Pasted image 20261112113647.png]]10?:: Fossa infraspinata
 ![[Pasted image 20261112113647.png]]11?:: Angulus inferior

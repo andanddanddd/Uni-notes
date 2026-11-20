@@ -7,7 +7,7 @@
 - Hvor mange knogler består håndroden af?:: 8
 <!--SR:!2027-01-19,67,310-->
 - Hvordan er de 8 knogler i håndroden overordnet arrangeret?:: En proximal og distal række, hver bestående af 4 knogler
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-26,67,310-->
 - Hvornår ossificere håndrodsknoglerne?:: Først efter fødsel
 <!--SR:!2027-01-10,60,310-->
 

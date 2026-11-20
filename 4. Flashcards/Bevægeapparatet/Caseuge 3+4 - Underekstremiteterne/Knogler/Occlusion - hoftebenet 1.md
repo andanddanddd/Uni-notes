@@ -11,6 +11,7 @@
 ![[Hoftebenet 1|600]]D?:: Spina iliaca ant. inf.
 <!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]E?:: Eminentia iliopubica
+<!--SR:!2026-11-21,1,230-->
 ![[Hoftebenet 1|600]]F?:: Pecten ossis pubis
 <!--SR:!2026-11-20,16,290-->
 ![[Hoftebenet 1|600]]G?:: Tuberculum pubicum
@@ -18,7 +19,7 @@
 ![[Hoftebenet 1|600]]H?:: Crista bupica
 <!--SR:!2026-11-20,8,250-->
 ![[Hoftebenet 1|600]]I?:: [[Facies symphysialis]]
-<!--SR:!2026-11-14,12,270-->
+<!--SR:!2027-01-04,45,290-->
 ![[Hoftebenet 1|600]]J?:: [[Foramen obturatum]]
 <!--SR:!2026-11-21,16,290-->
 ![[Hoftebenet 1|600]]K?:: Tuberositas iliaca

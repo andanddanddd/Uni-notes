@@ -16,7 +16,7 @@
 
 ### Funktion
 - Hvilken funktion af m. quadratus plantae?:: "Udrette" froløbet af senerne fra  [[M. flexor digitorum longus]]
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-21,1,190-->
 - Hvilke bevægelser udfører m. quaratus plantae?
 
 ### Innerversion og reflekser

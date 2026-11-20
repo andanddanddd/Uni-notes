@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m.  abductor digiti minimi (fod) overordnet?:: Lilletåens muskelgruppe
+<!--SR:!2026-11-24,4,270-->
 - Hvor dybt ligger m.  abductor digiti minimi (fod)?
 - Hvor kan m. abductor digiti minimi (fod) palperes henne?:: Den danner lateralkanten af foden
 <!--SR:!2026-11-20,4,270-->

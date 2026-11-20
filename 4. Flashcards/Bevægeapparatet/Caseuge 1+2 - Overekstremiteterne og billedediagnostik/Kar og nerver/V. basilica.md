@@ -3,3 +3,4 @@
 - Hvor er v. basilica?:: Superficielt på den ulnare del af armen
 - Hvor starter v. basilica?:: Håndrygen
 - Hvor tømmer v. basilica ud i?:: [[V. brachialis]]
+<!--SR:!2026-11-23,3,250-->

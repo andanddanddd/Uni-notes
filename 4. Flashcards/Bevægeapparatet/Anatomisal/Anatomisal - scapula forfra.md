@@ -10,7 +10,9 @@
 ![[Pasted image 20261116114125.png]]6?:: Margo medialis
 ![[Pasted image 20261116114125.png]]7?:: Angulus inf.
 ![[Pasted image 20261116114125.png]]8?:: Margo inf.
+<!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261116114125.png]]9?:: Processus coracoideus
 ![[Pasted image 20261116114125.png]]10?:: Caput humeri
+<!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261116114125.png]]11?:: Lig.. glenohumeralia
 ![[Pasted image 20261116114125.png]]12?:: HUmerus

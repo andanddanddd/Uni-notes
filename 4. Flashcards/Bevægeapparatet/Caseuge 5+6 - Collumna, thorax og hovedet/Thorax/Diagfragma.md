@@ -34,6 +34,7 @@ Reflekser
 - Hvad hedder de 2 "svage" områder på diagfragma hvor brok kan opstp?:: Bockdals trekant og larreys spalte
 - Hvor er brochdals trekant?:: Mellem pars costalis og pars lumbalis
 - Hvor er larreys spalte?:: Mellem pars sternalis og pars costalis
+<!--SR:!2026-11-21,1,230-->
 
 
 

@@ -2,6 +2,7 @@
 
 
 - Hvad hedder knæet på latin?:: Genu
+<!--SR:!2026-11-24,4,270-->
 - Hvad hedder knæledet på latin?:: Articulatio genus
 <!--SR:!2026-11-21,4,270-->
 ### Ledtype

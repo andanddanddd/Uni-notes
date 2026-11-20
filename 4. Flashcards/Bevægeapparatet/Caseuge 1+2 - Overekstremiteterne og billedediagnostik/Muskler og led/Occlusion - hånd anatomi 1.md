@@ -6,6 +6,7 @@
 ![[Hånd anatomi 1]]A?:: [[Lig. metacarpale transversum superficiale]]
 <!--SR:!2026-11-14,3,250-->
 ![[Hånd anatomi 1]]B?:: Chiasma tendineum
+<!--SR:!2026-11-23,3,250-->
 ![[Hånd anatomi 1]]C?:: [[M. flexor digitorum superficialis]] (sene)
 <!--SR:!2027-01-01,43,290-->
 ![[Hånd anatomi 1]]D?:: Lig. palmare

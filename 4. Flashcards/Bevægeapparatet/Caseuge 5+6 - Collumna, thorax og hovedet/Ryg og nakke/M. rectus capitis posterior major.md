@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. rectus capitis posterior major?:: [[Mm. suboccipitales]]
+<!--SR:!2026-11-21,1,230-->
 - Hvor dybt ligger mm. rectus capitis posterior major?
 
 ### Form

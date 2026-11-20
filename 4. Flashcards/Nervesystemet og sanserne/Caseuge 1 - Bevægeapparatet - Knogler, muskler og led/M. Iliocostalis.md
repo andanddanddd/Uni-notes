@@ -1,6 +1,7 @@
 #flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvor hæfter den? (niveuer):: Cerviaklvirvler og velvis
+<!--SR:!2026-11-21,1,230-->
 - Hvor på rygvirvlerne hæfter den?:: Processus transversi [[Tværtappe]]
 
 
@@ -9,6 +10,7 @@
 <!--SR:!2026-11-22,4,270-->
 - Hvor dybt ligger m. iliocostalis?:: Superficielt af de dybe rygmuskler
 - Hvor er m. iliocostalis i forhold til de andre dele af m. erektor spinae?:: Lateralt
+<!--SR:!2026-11-24,4,270-->
 
 ### Form
 - Hvilken form har m. iliocostalis?

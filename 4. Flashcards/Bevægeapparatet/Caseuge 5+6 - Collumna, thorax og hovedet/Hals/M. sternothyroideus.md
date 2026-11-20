@@ -4,6 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. sternothyroideus?:: Tungebenets infrahyoidale muskler
 - Hvor dybt ligger m. sternothyroideus?:: Superficielt
+<!--SR:!2026-11-24,4,270-->
 
 ### Form
 - Hvilken form har m. sternothyroideus?

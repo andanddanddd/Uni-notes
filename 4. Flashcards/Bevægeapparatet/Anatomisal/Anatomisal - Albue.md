@@ -4,6 +4,7 @@
 
 ![[Pasted image 20261111100437.png]]1?:: Radius
 ![[Pasted image 20261111100437.png]]2?:: Ulna
+<!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261111100437.png]]3?:: Humerus
 <!--SR:!2026-11-21,4,270-->
 ![[Pasted image 20261111100437.png]]4?:: Capitulum humeri

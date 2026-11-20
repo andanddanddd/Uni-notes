@@ -2,6 +2,7 @@
 
 
 - Hvor på rygvirvlerne hæfter den?:: Den går fra proccessus transversi til en højere processus spniosus, [[Tværtappe]], [[Torntappe]]
+<!--SR:!2026-11-23,3,250-->
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. multifidus?:: [[Mm. Transversospinalis]] (dybe rygmuskler)
 - Hvor dybt ligger m. multifidus?:: Dybt

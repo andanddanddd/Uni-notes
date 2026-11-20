@@ -29,6 +29,7 @@
 - Hvilke bevægelser udfører mm. interossei dorsalis?:: sprede de ulnare fingre (samt precisionsgreb)
 <!--SR:!2026-11-21,12,270-->
 - Hvilken gruppe af mm. interossei er kraftigst?:: mm. interossei dorsalis
+<!--SR:!2026-11-24,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere mm. interossei palmaries/dorsalis?:: [[N. ulnaris]]

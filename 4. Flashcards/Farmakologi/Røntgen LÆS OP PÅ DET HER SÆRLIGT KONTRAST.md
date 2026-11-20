@@ -5,7 +5,7 @@
 - Hvornår laves et røntgen med kontrast i abdomen?:: For at visualisere lumen og dermed
 <!--SR:!2027-01-07,64,310-->
 - Hvad er et røntgen-billede god til at visualisere?:: Knogler (vurdering af ledspalter)
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-22,63,310-->
 - Hvilke fordele har et røntgenbillede? (i forhold til CT):: Det er billigt, hurtigt og mindre stråling
 <!--SR:!2027-01-14,56,310-->
 - Ved røntgen af hvilken kropsdel gives den største og laveste dosing stråling?:: Mindst ved ekstremiteter mest ved rygrad

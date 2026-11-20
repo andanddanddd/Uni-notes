@@ -11,6 +11,7 @@
 ![[Pasted image 20261111100250.png]]6?:: Tuberculum os trapezii
 <!--SR:!2026-11-20,1,210-->
 ![[Pasted image 20261111100250.png]]7?:: Os pisiforme
+<!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261111100250.png]]8?:: Phalanges proximales
 ![[Pasted image 20261111100250.png]]9?:: Phalanges mediae
 <!--SR:!2026-11-21,4,270-->

@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad hedder ribbenene på latin?:: Costae
+<!--SR:!2026-11-24,4,270-->
 - Hvad kaldes et ribben på latin?:: Os costales
 - Hvor mange ribben har vi?:: 12 par
 - Hvad er ribbenenes funktion?
