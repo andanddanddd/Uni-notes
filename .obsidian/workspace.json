@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Forelæsning - Hovedet og halsens anatomi"
+              "title": "Forelæsning - Truncus anatomi"
             }
           }
         ]
@@ -52,15 +52,15 @@
             }
           },
           {
-            "id": "dc5b7ce0db21e054",
+            "id": "0c88ed1a3113bbd1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf"
+                "file": "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261120_Truncus_Tong Tong.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Hovedet og halsen anatomi"
+              "title": "Slides - 20261120_Truncus_Tong Tong"
             }
           }
         ],
@@ -255,13 +255,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "993248af6af8b58b",
+  "active": "0c88ed1a3113bbd1",
   "lastOpenFiles": [
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
-    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf",
-    "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+    "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
+    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf",
     "1. Fag/Bevægeapparatet.md",
     "3. Forelæsninger/Bevægeapparatet/Klinik - Bevægeapparatet.md",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstreimteternes klniske problemstillinger.pdf",
@@ -301,7 +301,6 @@
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 3.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 2.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/nakkemuskler 1.png",
-    "Billeder/Bevægeapparatet/Halsen",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/dybe rygmuskler 2.png",
     "Untitled.canvas"
   ]
