@@ -10,6 +10,7 @@
 <!--SR:!2026-11-20,1,210-->
 ![[Lårmuskler 5|600]]C?:: [[M. semimembranosus]]
 ![[Lårmuskler 5|600]]D?:: [[M. semitendinosus]]
+<!--SR:!2026-11-24,4,270-->
 ![[Lårmuskler 5|600]]E?:: [[M. gluteus medius]]
 <!--SR:!2026-11-27,16,290-->
 ![[Lårmuskler 5|600]]F?:: [[M. piriformis]]

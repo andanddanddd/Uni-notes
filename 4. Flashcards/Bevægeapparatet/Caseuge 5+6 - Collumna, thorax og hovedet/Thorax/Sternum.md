@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad hedder sternum på dansk?:: Brystbenet
+<!--SR:!2026-11-24,4,270-->
 
 #### Placering og orientering
 - Hvor er sternum overordnet?:: Brystkassens forvæg

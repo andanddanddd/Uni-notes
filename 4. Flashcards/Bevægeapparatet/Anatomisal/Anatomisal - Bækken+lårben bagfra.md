@@ -11,7 +11,8 @@
 ![[Pasted image 20261112112938.png]]6?:: Linea pectinea
 <!--SR:!2026-11-22,4,270-->
 ![[Pasted image 20261112112938.png]]7?:: Crista iliaca
-![[Pasted image 20261112112938.png]]8?:: Ileum 
+![[Pasted image 20261112112938.png]]8?:: Ileum
+<!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261112112938.png]]9?:: Spina iliaca posterior superior
 ![[Pasted image 20261112112938.png]]10?:: Foramen ischiadicum majus
 ![[Pasted image 20261112112938.png]]11?:: Trochanter major![[Pasted image 20261112112938.png]]12?:: Crista trochanterica

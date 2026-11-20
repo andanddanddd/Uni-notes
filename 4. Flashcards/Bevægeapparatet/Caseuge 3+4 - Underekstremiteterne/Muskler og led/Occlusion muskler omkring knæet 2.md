@@ -9,5 +9,6 @@
 ![[Knæets muskler 2|600]]D?:: [[M. gastrocnemius]] Caput laterale
 <!--SR:!2026-12-02,16,290-->
 ![[Knæets muskler 2|600]]E?:: [[Lig. collaterale fibulare]]
+<!--SR:!2026-11-24,4,270-->
 ![[Knæets muskler 2|600]]F?:: Lig. popliteum arcuatum
 ![[Knæets muskler 2|600]]G?:: [[M. popliteus]]

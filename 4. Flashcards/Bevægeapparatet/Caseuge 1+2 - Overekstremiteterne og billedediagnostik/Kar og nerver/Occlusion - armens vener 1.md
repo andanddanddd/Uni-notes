@@ -9,7 +9,7 @@
 ![[Armens vener 1|600]]C?:: [[V. mediane cubiti]]
 ![[Armens vener 1|600]]E?:: [[V. basilica]]
 <!--SR:!2026-11-22,3,250-->
-F?:: Rete venosum dorsale manus
+![[Armens vener 1|600]]F?:: Rete venosum dorsale manus
 ![[Armens vener 1|600]]G?:: [[V. axillaris]]
 <!--SR:!2026-11-22,4,270-->
 H?:: [[V. thoracoepigastrica]]

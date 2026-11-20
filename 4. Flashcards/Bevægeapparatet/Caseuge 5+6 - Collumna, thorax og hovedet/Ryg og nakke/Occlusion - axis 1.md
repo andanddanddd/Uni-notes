@@ -7,6 +7,7 @@
 ![[Axis 1|700]]B?:: Facies articularis sup.
 <!--SR:!2026-11-24,4,270-->
 ![[Axis 1|700]]C?:: Foramen transversarium
+<!--SR:!2026-11-23,3,250-->
 ![[Axis 1|700]]D?:: Processus transversum
 <!--SR:!2026-11-21,4,270-->
 ![[Axis 1|700]]E?:: Facies articularis post.

@@ -4,6 +4,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. rectus capitis ant.?:: Prævertebrale dybe halsmuskler
+<!--SR:!2026-11-21,1,230-->
 - Hvor dybt ligger m. rectus capitis ant.?:: Dybt
 
 ### Form
@@ -12,6 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. rectus capitis ant.?:: Massa lateralis atlantis (se [[Atlas]])
+<!--SR:!2026-11-21,1,230-->
 #### Insertion
 - Hvor har m. rectus capitis ant. insertion?:: Pars basilaris [[Os occipitale]]
 

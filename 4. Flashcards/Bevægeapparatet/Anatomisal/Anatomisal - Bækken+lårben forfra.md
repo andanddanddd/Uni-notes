@@ -10,9 +10,11 @@
 ![[Pasted image 20261112112219.png]]6?:: Tuber ischiadicum
 <!--SR:!2026-11-23,7,250-->
 ![[Pasted image 20261112112219.png]]7?:: Corpus femoris
+<!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261112112219.png]]8?:: Os saccrum
 ![[Pasted image 20261112112219.png]]9?:: Os coccygis
 ![[Pasted image 20261112112219.png]]10?:: Linea arcuata
+<!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261112112219.png]]11?:: Tuberculum pubicum
 <!--SR:!2026-11-26,10,270-->
 ![[Pasted image 20261112112219.png]]12?:: Trochanter minor

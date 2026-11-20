@@ -9,6 +9,7 @@
 ![[Pasted image 20261111094249.png]]4?:: Meniscus lateralis
 ![[Pasted image 20261111094249.png]]5?:: Condylus lateralis tibiae
 ![[Pasted image 20261111094249.png]]6?:: Caput fibulae
+<!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261111094249.png]]7?:: [[Fibula]]
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111094249.png]]8?:: Membrana interossea cruris
@@ -18,6 +19,7 @@
 ![[Pasted image 20261111094249.png]]11?:: Lig. cruciatum ant.
 <!--SR:!2026-11-21,4,270-->
 ![[Pasted image 20261111094249.png]]12?:: Lig transversum genus
+<!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261111094249.png]]13?:: Codylus medialis tibiae
 ![[Pasted image 20261111094249.png]]14?:: [[Lig. patellae]]
 <!--SR:!2026-11-22,4,270-->

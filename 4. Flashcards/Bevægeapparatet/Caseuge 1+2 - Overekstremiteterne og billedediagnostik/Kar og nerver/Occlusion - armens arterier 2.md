@@ -8,6 +8,7 @@
 ![[Armens arterier 2|600]]B?:: ramus palmaris superficialis
 ![[Armens arterier 2|600]]C?:: [[Arcus palmaris profundus]]
 ![[Armens arterier 2|600]]D?:: [[A. brachialis]]
+<!--SR:!2026-11-24,4,270-->
 ![[Armens arterier 2|600]]E?:: [[A. ulnaris]]
 ![[Armens arterier 2|600]]F?:: Ramus palmaris profundus
 ![[Armens arterier 2|600]]G?:: [[Arcus palmaris superficialis]]

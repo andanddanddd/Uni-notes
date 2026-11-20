@@ -12,6 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. palmaris brevis?:: [[Aponeurosis palmaris]] (ulnart)
+<!--SR:!2026-11-23,3,250-->
 
 ### Insertion
 - Hvor har m. palmaris brevis insertion?:: Huden ved hyothenar

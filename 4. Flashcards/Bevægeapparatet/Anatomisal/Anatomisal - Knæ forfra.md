@@ -18,5 +18,6 @@
 ![[Pasted image 20261111093203.png]]4?:: Meniscus lateralis 
 ![[Pasted image 20261111093203.png]]9?:: Epicondylus medialis 
 ![[Pasted image 20261111093203.png]]14?:: [[Patella]]
+<!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261111093203.png]]5?:: Condylus lateralis tibiae 
 ![[Pasted image 20261111093203.png]]10?:: Condylus medialis femoris

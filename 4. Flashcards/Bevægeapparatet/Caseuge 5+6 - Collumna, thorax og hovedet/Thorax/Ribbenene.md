@@ -38,6 +38,7 @@
 ### Knogletype
 - Hvilken knogletype er ribbenene?:: Flad knogle
 - Er ribbenene parret eller uparret?:: Parret
+<!--SR:!2026-11-24,4,270-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
