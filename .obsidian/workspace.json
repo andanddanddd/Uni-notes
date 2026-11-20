@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 32.977173385138414,
+        "dimension": 53.18115590092278,
         "children": [
           {
             "id": "993248af6af8b58b",
@@ -31,13 +31,28 @@
               "icon": "lucide-file",
               "title": "Forelæsning - Truncus anatomi"
             }
+          },
+          {
+            "id": "0c88ed1a3113bbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Ryggens og nakkens muskler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ryggens og nakkens muskler"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 67.02282661486159,
+        "dimension": 46.818844099077225,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -50,21 +65,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "0c88ed1a3113bbd1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261120_Truncus_Tong Tong.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - 20261120_Truncus_Tong Tong"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -257,8 +258,12 @@
   },
   "active": "0c88ed1a3113bbd1",
   "lastOpenFiles": [
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/M. splenius.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Ryg og nakke/Ryggens og nakkens muskler.md",
+    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Mm. Transversospinalis.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columnas anatomi.md",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261120_Truncus_Tong Tong.pdf",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
     "2. Caseuger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
@@ -288,9 +293,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Sternum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Occlusion - Sternum 1.md",
     "Excalidraw/Bevægeapparatet/Thorax/Sternum 1.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Thorax.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Pecten carinatum.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Pecten excavatum.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax",
     "Excalidraw/Bevægeapparatet/Thorax",
     "Billeder/Bevægeapparatet/Thorax",
