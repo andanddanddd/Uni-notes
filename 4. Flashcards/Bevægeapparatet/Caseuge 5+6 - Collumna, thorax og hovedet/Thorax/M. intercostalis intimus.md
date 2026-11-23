@@ -2,24 +2,24 @@
 
 
 ### Lokation
-- Hvilken muskelgruppe tilhøre m. intercostales int.?:: Ribbenenes muskler
-- Hvor dybt ligger m. intercostales int.?:: Dybt
+- Hvilken muskelgruppe tilhøre m. intercostales intimus?:: Ribbenenes muskler
+- Hvor dybt ligger m. intercostales intimus?:: Dybt
 
 ### Form
-- Hvilken form har m. intercostales int.?
+- Hvilken form har m. intercostales intimus?
 
 ### Forløb
-- Hvilken retning ender m. intercostlae sintimus?:: Skråt-bagud-nedad
+- Hvilken retning ender m. intercostlaes intimus?:: Skråt-bagud-nedad
 #### Udspring
-- Hvor udspringer m. intercostales int.?
+- Hvor udspringer m. intercostales intimus?
 #### Insertion
-- Hvor har m. intercostales int. insertion?
+- Hvor har m. intercostales intimus insertion?
 
 ### Funktion
-- Hvilke bevægelser udfører m. intercostales int.?
+- Hvilke bevægelser udfører m. intercostales intimus?
 
 ### Innerversion og reflekser
-- Hvilken nerve innervere m. intercostales int.?
+- Hvilken nerve innervere m. intercostales intimus?
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

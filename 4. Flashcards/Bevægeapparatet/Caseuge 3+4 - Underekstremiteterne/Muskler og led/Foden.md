@@ -3,7 +3,7 @@
 
 - Hvad hedder musklen på fodryggen?:: [[M. extensor digitorum brevis]]
 - Hvad hedder fodsålen på latin?:: [[Planta pedis]]
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,15,290-->
 - Hvilke 4 led (ledgrupper) er i foden
 ?
 - [[Det øvre ankelled]]

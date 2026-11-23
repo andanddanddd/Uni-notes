@@ -16,6 +16,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. stylohyoideus?:: Trække tungebenet opad-bagud
+<!--SR:!2026-11-27,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. stylohyoideus?:: [[N. facialis]]

@@ -4,6 +4,7 @@
 ![[Pasted image 20261112112207.png]]
 ![[Pasted image 20261112112219.png]]1?:: Crista iliaca
 ![[Pasted image 20261112112219.png]]2?:: Spina iliaca anterior superior
+<!--SR:!2026-11-27,4,270-->
 ![[Pasted image 20261112112219.png]]3?:: Ligamentum inguinale
 ![[Pasted image 20261112112219.png]]4?:: Caput femoris
 ![[Pasted image 20261112112219.png]]5?:: Trochanter major

@@ -20,6 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. peroneus tertius?:: Dorsiflektion og eversion
+<!--SR:!2026-11-26,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. peroneus tertius?

@@ -8,6 +8,7 @@
 ![[Pasted image 20261111100437.png]]3?:: Humerus
 <!--SR:!2026-11-21,4,270-->
 ![[Pasted image 20261111100437.png]]4?:: Capitulum humeri
+<!--SR:!2026-11-26,3,250-->
 ![[Pasted image 20261111100437.png]]5?:: Trochlea humeri
 ![[Pasted image 20261111100437.png]]6?:: Lig. collaterale radiale
 ![[Pasted image 20261111100437.png]]7?:: Lig. anulare radii

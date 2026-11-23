@@ -2,3 +2,4 @@
 
 - Hvor på femoris binder lig. pubofemorale?:: Trochanter minor (se [[Femoris]]])
 - Hvilken funktion har ligamentum pubofemorale?:: Forstærke hofteledet
+<!--SR:!2026-11-27,4,270-->

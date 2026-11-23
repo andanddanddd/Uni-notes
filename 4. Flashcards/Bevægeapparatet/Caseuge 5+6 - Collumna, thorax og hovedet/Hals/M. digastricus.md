@@ -13,6 +13,7 @@
 - Hvor udspringer m. digastricus, venter ant.?:: Corpus mandibulare
 #### Insertion
 - Hvor har m. digastricus insertion?:: En bindevævsslynge der sidder på [[Os. hyoideum]]
+<!--SR:!2026-11-26,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. digastricus ved fikseret kæbe?:: Trækker tungebenet opad 

@@ -3,6 +3,7 @@
 ![[Pasted image 20261112113639.png]]
 
 ![[Pasted image 20261112113647.png]]1?:: Incisura scapulae
+<!--SR:!2026-11-26,3,250-->
 ![[Pasted image 20261112113647.png]]2?:: Acromion
 ![[Pasted image 20261112113647.png]]3?:: Ligg. glenohumeralia
 ![[Pasted image 20261112113647.png]]4?:: Margo lateralis

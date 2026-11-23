@@ -10,6 +10,7 @@
 - Hvilken overordnet form har patella?:: Lille trekant
 <!--SR:!2026-11-20,11,270-->
 - Hvilken form har pattelas ledflade?:: der er en føringskam i midten (langt breds fremspring)
+<!--SR:!2026-11-27,4,270-->
 
 ### Relationer
 #### Led

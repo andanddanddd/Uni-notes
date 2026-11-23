@@ -7,3 +7,4 @@
 <!--SR:!2026-11-28,9,250-->
 ![[Knæled 2]]C?:: Lig. cruciatum ant.
 ![[Knæled 2]]D?:: Meniscus lat.
+<!--SR:!2026-11-24,1,230-->

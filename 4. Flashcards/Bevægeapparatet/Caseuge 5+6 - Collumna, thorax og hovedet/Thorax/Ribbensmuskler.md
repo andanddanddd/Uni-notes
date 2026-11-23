@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor i ribbensmuskulaturen løber kar og nerver?:: Mellem lag 2 og 3 (mellem interni og intimi)
+<!--SR:!2026-11-26,3,250-->
 - Hvad hedder de 5 ribbensmuskler(grupper)?
 ?
 - [[M. intercostales externus]]

@@ -18,3 +18,4 @@
 ![[Pasted image 20261112112938.png]]11?:: Trochanter major![[Pasted image 20261112112938.png]]12?:: Crista trochanterica
 ![[Pasted image 20261112112938.png]]13?:: Tuberositas glutea
 ![[Pasted image 20261112112938.png]]14?:: Corpus femoris
+<!--SR:!2026-11-27,4,270-->
