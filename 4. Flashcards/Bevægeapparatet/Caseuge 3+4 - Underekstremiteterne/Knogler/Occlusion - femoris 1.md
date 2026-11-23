@@ -4,15 +4,15 @@
 
 
 ![[Femoris 1|600]]A?:: trochanter major
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,15,290-->
 ![[Femoris 1|600]]B?:: Epicondylus medialis
 <!--SR:!2026-11-22,16,290-->
 ![[Femoris 1|600]]C?:: [[Caput femoralis]]
-<!--SR:!2026-11-23,14,290-->
+<!--SR:!2027-01-17,55,310-->
 ![[Femoris 1|600]]D?:: Collum femoris
 <!--SR:!2026-11-30,14,290-->
 ![[Femoris 1|600]]E?:: Linea intertrochanterica
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,15,290-->
 ![[Femoris 1|600]]F?:: Facies patellaris
 ![[Femoris 1|600]]G?:: Fovea capitis femoris
 ![[Femoris 1|600]]H?:: Trochanter minor

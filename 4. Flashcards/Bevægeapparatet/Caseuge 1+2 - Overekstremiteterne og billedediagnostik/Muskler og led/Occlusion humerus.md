@@ -8,7 +8,7 @@
 ![[Humerus anatomi 1]]B?:: Tuberculum majus
 <!--SR:!2027-01-18,66,310-->
 ![[Humerus anatomi 1]]C?::Tuberositas deltoidea
-<!--SR:!2026-11-23,10,210-->
+<!--SR:!2026-12-15,22,210-->
 ![[Humerus anatomi 1]]D?:: Epicondylus lateralis
 <!--SR:!2026-11-20,15,290-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris

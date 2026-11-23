@@ -33,7 +33,7 @@
 <!--SR:!2026-12-01,20,250-->
 
 - Hvilken muskel er i 4. lag af underarmens foreste loge?:: [[M. pronator quadratus]]
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-07,14,290-->
 
 #### Occlusion
 [[Occlusion - Underam foran superficiel]]
@@ -62,7 +62,7 @@
 - [[M. extensor pollicis brevis]]
 - [[M. extensor pollici longus]]
 - [[M. extensor indicis]]
-<!--SR:!2026-11-23,3,250-->
+<!--SR:!2026-12-02,9,250-->
 
 #### Occlusion
 [[Occlusion - underarm bagved superficiel]]

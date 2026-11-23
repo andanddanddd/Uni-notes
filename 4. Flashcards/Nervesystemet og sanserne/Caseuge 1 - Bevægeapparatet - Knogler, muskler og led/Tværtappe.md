@@ -1,7 +1,7 @@
 #flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder tværtappene på altin?:: Processus transversus
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,14,290-->
 - Hvad er formålet med tværtappene?:: Hæfte muskler (og agere vægtstang for dem)
 - Hvor mange tværtappe har hver ryghvivel?:: 2
 <!--SR:!2026-11-24,4,270-->

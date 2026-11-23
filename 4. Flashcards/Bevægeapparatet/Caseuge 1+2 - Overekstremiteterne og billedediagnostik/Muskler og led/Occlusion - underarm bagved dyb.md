@@ -6,7 +6,7 @@
 ![[Underarm bagved 2]]A?:: [[M. flexor pollicis longus]]
 <!--SR:!2026-11-23,3,250-->
 ![[Underarm bagved 2]]B?:: [[M. extensor indicis]]
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-24,62,310-->
 ![[Underarm bagved 2]]C?:: [[M. supinator]]
 <!--SR:!2026-11-20,9,230-->
 ![[Underarm bagved 2]]D?:: [[M. abductor pollicis longus]]

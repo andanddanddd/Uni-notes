@@ -15,7 +15,7 @@
 <!--SR:!2026-11-21,1,230-->
 #### Insertion
 - Hvor har m. thyrohyoideus insertion?::
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-05,12,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. thyrohyoideus?

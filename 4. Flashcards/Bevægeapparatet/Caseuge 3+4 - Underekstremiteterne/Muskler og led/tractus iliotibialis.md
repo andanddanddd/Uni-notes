@@ -8,4 +8,4 @@
 - [[M. piriformis]]
 
 - Hvor ender tractus iliotibilais?:: Condylus lateralis (tuberculum anterolaterale) (se [[Tibia]])
-<!--SR:!2026-11-22,3,250-->
+<!--SR:!2026-12-03,10,270-->

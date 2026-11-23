@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer caput transversum af m. adductor pollicis?:: Palmare del af os metacarpale III
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-09,16,290-->
 - Hvor udspringer caput obliquum af m. adductor pollicis?:: Ligamenter og knogler i [[sulcus carpi]]
 <!--SR:!2026-11-22,16,290-->
 
@@ -26,7 +26,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor pollicis?:: [[N. ulnaris]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-29,67,310-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

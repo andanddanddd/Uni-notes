@@ -13,7 +13,7 @@
 - Hvilken form har m. iliacus?:: Vifteformet
 <!--SR:!2026-11-26,15,290-->
 - Hvilken form har m. psoas major?:: Aflang
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-09,16,290-->
 
 ### Udspring
 - Hvor udspringer m. iliacus?:: Fossa iliaca (se [[Os ilium]])

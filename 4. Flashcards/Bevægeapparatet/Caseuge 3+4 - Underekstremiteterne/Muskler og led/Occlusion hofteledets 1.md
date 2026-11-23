@@ -4,11 +4,11 @@
 
 
 ![[Hofteledet 1|600]]A?:: Labrum acetbuli
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-04,11,270-->
 ![[Hofteledet 1|600]]B?:: Membrana synovialis
 ![[Hofteledet 1|600]]C?:: Zona orbicularis
 <!--SR:!2026-11-21,1,230-->
 ![[Hofteledet 1|600]]D?:: Epifyseskive
 <!--SR:!2026-12-06,16,290-->
 ![[Hofteledet 1|600]]E?:: Memrbana fibrosa
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-02,9,250-->

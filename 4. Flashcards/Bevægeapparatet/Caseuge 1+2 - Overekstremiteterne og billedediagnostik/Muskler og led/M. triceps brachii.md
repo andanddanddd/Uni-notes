@@ -17,7 +17,7 @@
 - Caput longum
 - Caput laterale
 - Caput mediale
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-26,64,310-->
 
 - Hvor udspringer caput longum?:: Tuberculum infraglenoidale
 <!--SR:!2026-11-20,3,150-->

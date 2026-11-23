@@ -17,7 +17,7 @@
 ![[Hoftebenet 1|600]]G?:: Tuberculum pubicum
 <!--SR:!2026-11-24,8,250-->
 ![[Hoftebenet 1|600]]H?:: Crista bupica
-<!--SR:!2026-11-20,8,250-->
+<!--SR:!2026-12-13,20,250-->
 ![[Hoftebenet 1|600]]I?:: [[Facies symphysialis]]
 <!--SR:!2027-01-04,45,290-->
 ![[Hoftebenet 1|600]]J?:: [[Foramen obturatum]]
@@ -33,12 +33,12 @@
 <!--SR:!2026-11-21,16,290-->
 
 ![[Hoftebenet 1|600]]O?:: Incisura ischiadica major
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-26,64,310-->
 ![[Hoftebenet 1|600]]P?:: Spina ischiadica
 <!--SR:!2026-11-23,10,270-->
 ![[Hoftebenet 1|600]]Q?:: Incisura inschiadica minor
 <!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]R?:: Tuber ichiadicum
-<!--SR:!2026-11-23,12,270-->
+<!--SR:!2027-01-06,44,290-->
 
 

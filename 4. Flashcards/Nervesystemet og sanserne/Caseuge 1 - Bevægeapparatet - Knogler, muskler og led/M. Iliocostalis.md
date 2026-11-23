@@ -7,7 +7,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. iliocostalis?:: [[M. Erektor spinae]] (de dybe rygmuskler)
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-09,16,290-->
 - Hvor dybt ligger m. iliocostalis?:: Superficielt af de dybe rygmuskler
 - Hvor er m. iliocostalis i forhold til de andre dele af m. erektor spinae?:: Lateralt
 <!--SR:!2026-11-24,4,270-->

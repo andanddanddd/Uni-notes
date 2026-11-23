@@ -2,7 +2,7 @@
 
 - Hvad er en kyfose?:: Foroverbøjning af rygsøjlen
 - Hor ses kyfoser?:: Thoraxområdet
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-09,16,290-->
 - Hvad er en lordose?:: Bagudbøjning af ryggen
 - Hvor ses lordoser?:: I lænden og nakken
 

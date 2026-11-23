@@ -15,4 +15,4 @@
 
 
 - Hvorfor er det smart at forankre huden til dybere væv i håndhen?:: Så den ikke forskydes for meget når vi griber fast om ting
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->

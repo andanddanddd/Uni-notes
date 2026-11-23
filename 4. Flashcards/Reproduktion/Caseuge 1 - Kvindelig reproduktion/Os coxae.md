@@ -16,7 +16,7 @@
 - Hvad kaldes den foreste vinkel under symfysen?:: [[Angulus subpubicus]]
 <!--SR:!2026-11-30,11,270-->
 - Hvad kaldes hullet i den nedre del af os coxae?:: [[Foramen obturatum]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-09,47,290-->
 ### Relationer
 #### Led
 - Hvilke 2 strukture forbidner de 2 ossa coxae?

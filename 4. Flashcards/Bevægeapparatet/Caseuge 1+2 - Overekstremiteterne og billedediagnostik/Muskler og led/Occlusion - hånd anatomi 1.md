@@ -4,9 +4,9 @@
 
 
 ![[Hånd anatomi 1]]A?:: [[Lig. metacarpale transversum superficiale]]
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-12-04,11,270-->
 ![[Hånd anatomi 1]]B?:: Chiasma tendineum
-<!--SR:!2026-11-23,3,250-->
+<!--SR:!2026-12-02,9,250-->
 ![[Hånd anatomi 1]]C?:: [[M. flexor digitorum superficialis]] (sene)
 <!--SR:!2027-01-01,43,290-->
 ![[Hånd anatomi 1]]D?:: Lig. palmare
@@ -17,5 +17,5 @@
 ![[Hånd anatomi 1]]G?:: [[M. flexor pollicis longus]] (sene)
 <!--SR:!2026-12-21,39,290-->
 ![[Hånd anatomi 1]]H?:: [[M. flexor digitorum profundus]] (sene)
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-29,67,310-->
 

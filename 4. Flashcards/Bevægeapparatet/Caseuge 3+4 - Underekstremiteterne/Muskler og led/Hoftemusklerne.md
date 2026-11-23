@@ -3,7 +3,7 @@
 - Hvad er hoftemusklerne overordnet?:: Muskler der går fra bækkenet til den proximale del af lårbenet
 <!--SR:!2026-11-20,4,270-->
 - Hvad hedder "lændemusklen" på latin?:: [[M. iliopsoas]]
-<!--SR:!2026-11-22,2,250-->
+<!--SR:!2026-11-28,5,250-->
 - Hvad hedder hoftens 4 sædemuskler?
 ?
 - [[M. gluteus maximus]]

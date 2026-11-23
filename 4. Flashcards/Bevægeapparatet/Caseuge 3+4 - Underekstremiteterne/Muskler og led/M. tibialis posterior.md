@@ -3,9 +3,9 @@
 
 ### Lokation
 - Hvor er m. tibialis post. overordnet?:: Underbenets bagerste loge
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-08,15,290-->
 - Hvor dybt ligger m. tibialis post.?:: Dybt
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->
 
 ### Form
 - Hvilken form har m. tibialis post.?

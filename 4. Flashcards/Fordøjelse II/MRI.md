@@ -22,7 +22,7 @@ Man måler vist på hvornår spin vender tilabge til uordnet
 - Kig på galdegange
 - Crohns
 - Fistualser
-<!--SR:!2026-11-21,17,250-->
+<!--SR:!2027-01-04,42,250-->
 
 - Hvilke dele af bevægeapparatet visualiseres af MRI?:: Ødemer, amrv, ledbånd (muskelskade) diskus
 <!--SR:!2026-12-21,39,290-->

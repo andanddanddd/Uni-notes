@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. felxor digitorum profundus overordnet?:: Foreste loge af underarmen
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-27,65,310-->
 - Hvor dybt ligger m. felxor digitorum profundus?:: Dybt (lag 3)
 <!--SR:!2027-01-22,66,310-->
 
@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. felxor digitorum profundus insertion?:: Phalanx distale (basis) på de 4 ulnare fingre (se [[Fingrene (skelet)]])
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-23,61,310-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor digitorum profundus?:: Flektion i håndled og fingerled

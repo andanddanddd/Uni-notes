@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har m. adductor brevis?:: Flad trekantet
-<!--SR:!2026-11-14,3,250-->
+<!--SR:!2026-12-04,11,270-->
 
 ### Forløb
 #### Udspring
@@ -16,7 +16,7 @@
 <!--SR:!2026-11-21,4,190-->
 #### Insertion
 - Hvor har m. adductor brevis insertion?:: Linea aspara (se [[Femoris]])
-<!--SR:!2026-11-18,5,230-->
+<!--SR:!2026-12-06,13,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor brevis?:: Adduction af hoften

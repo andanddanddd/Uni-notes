@@ -8,4 +8,4 @@
 <!--SR:!2026-11-27,16,290-->
 ![[Skulderled 2|600]]C?:: [[M. deltoideus]]
 ![[Skulderled 2|600]]D?:: Labrum glenoidale
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->

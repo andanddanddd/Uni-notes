@@ -5,7 +5,7 @@
 - Hvad er den overordnede funktion af overarmens muskler?:: Bevæge albueledet
 <!--SR:!2026-11-21,16,290-->
 - Hvor er musklerne der bøjer armen overordnet lokaliseret?:: Foran på overarmen
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-23,61,310-->
 - Hvor er musklerne der strækker armen overordnet lokaliseret?:: bagpå overarmen
 <!--SR:!2027-01-23,65,310-->
 
@@ -17,7 +17,7 @@
 <!--SR:!2027-01-12,54,310-->
 
 - Hvad heder overarmens bagerste muskel?:: [[M. triceps brachii]]
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-27,65,310-->
 
 ![[overarm muskler 1.png|700]]
 ![[overarm muskler 2.png]]

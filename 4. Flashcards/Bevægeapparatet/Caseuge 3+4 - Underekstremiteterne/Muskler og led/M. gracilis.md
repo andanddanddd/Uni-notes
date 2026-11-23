@@ -18,7 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. gracilis?:: Adduction af hoften og inadrotation af underbenet ved flekteret knæ
-<!--SR:!2026-11-22,9,250-->
+<!--SR:!2026-12-26,33,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. gracilis?

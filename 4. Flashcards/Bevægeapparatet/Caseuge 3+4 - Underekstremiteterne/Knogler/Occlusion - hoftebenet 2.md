@@ -3,17 +3,17 @@
 ![[hoftebenet 2.png]]
 
 ![[Hoftebenet 2|700]]A?:: Crista iliaca
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-28,66,310-->
 ![[Hoftebenet 2|700]]B?:: Facies glutea
 <!--SR:!2026-11-24,14,290-->
 ![[Hoftebenet 2|700]]C?:: Spina iliaca post. sup
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,15,290-->
 ![[Hoftebenet 2|700]]D?:: Incisura ischiadica major
 <!--SR:!2026-11-25,15,290-->
 ![[Hoftebenet 2|700]]E?:: Fossa acetabuli
 <!--SR:!2026-12-01,15,290-->
 ![[Hoftebenet 2|700]]F?:: Spina ischiadica
-<!--SR:!2026-11-22,12,270-->
+<!--SR:!2027-01-06,44,290-->
 ![[Hoftebenet 2|700]]G?:: Incisura ischiadica minor
 <!--SR:!2026-11-27,16,290-->
 ![[Hoftebenet 2|700]]H?:: Tuber ischiadicum

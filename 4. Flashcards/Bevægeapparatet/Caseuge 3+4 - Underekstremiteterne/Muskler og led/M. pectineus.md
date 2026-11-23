@@ -13,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. pectinus?:: Pecten ossis pubis (se [[Os pubis]])
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-11-27,4,230-->
 #### Insertion
 - Hvor har m. pectinus insertion?:: Linea pectinea (forlængelse af linea asparta se [[Femoris]]])
 <!--SR:!2026-12-03,17,250-->

@@ -1,4 +1,4 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor på [[Os ilium]] binder lig. savtoiliacum interosseum?:: Tuberositas iliaca
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-29,67,310-->

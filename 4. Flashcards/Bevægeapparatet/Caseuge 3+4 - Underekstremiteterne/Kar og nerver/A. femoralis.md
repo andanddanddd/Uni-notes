@@ -4,9 +4,9 @@
 - Hvad bliver a. femoralis til nedad?:: [[A. poplitea]]
 
 - Hvilken struktur afgrænser a, femoralis opadtil?:: [[Lig. inguinale]]
-<!--SR:!2026-11-17,1,230-->
+<!--SR:!2026-11-24,1,210-->
 - Hvilken struktur afgrænser a. femoralis nedadtil?:: Hiatus adductorius
 <!--SR:!2026-11-22,3,250-->
 
 - Hvad hedder den store gren som a. femoralis afgiver?:: [[A. profunda femoris]]
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-05,12,270-->

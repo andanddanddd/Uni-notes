@@ -15,7 +15,7 @@
 - Hvor udspringer m. extensor hallucis longus?:: Primært membrana interossea men lidt fra [[Fibula]]
 #### Insertion
 - Hvor har m. extensor hallucis longus insertion?:: Phalanx distale af storetåen
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-12-11,18,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor hallucis longus?:: Ekstension af storetåen og dorsiflektion af foden

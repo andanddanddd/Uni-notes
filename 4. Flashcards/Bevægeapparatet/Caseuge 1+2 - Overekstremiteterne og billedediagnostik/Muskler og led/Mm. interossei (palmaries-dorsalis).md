@@ -12,7 +12,7 @@
 - Hvilken form har mm. interossei palmaries?:: Semipennante
 <!--SR:!2026-12-11,28,270-->
 - Hvilken form har mm. interossei dorsalis?:: Pennante
-<!--SR:!2026-11-18,12,270-->
+<!--SR:!2027-01-05,43,290-->
 
 ### Udspring
 - Hvor udspringer mm. interossei palmaries/dorsalis?:: Skaftet af os metacarpale
@@ -25,9 +25,9 @@
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei palmaries?:: Samle de ulnare fingre (samt precisionsgreb)
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-27,65,310-->
 - Hvilke bevægelser udfører mm. interossei dorsalis?:: sprede de ulnare fingre (samt precisionsgreb)
-<!--SR:!2026-11-21,12,270-->
+<!--SR:!2027-01-07,45,290-->
 - Hvilken gruppe af mm. interossei er kraftigst?:: mm. interossei dorsalis
 <!--SR:!2026-11-24,4,270-->
 

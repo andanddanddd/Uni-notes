@@ -8,7 +8,7 @@
 ![[Pasted image 20261112112219.png]]4?:: Caput femoris
 ![[Pasted image 20261112112219.png]]5?:: Trochanter major
 ![[Pasted image 20261112112219.png]]6?:: Tuber ischiadicum
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-12-19,26,270-->
 ![[Pasted image 20261112112219.png]]7?:: Corpus femoris
 <!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261112112219.png]]8?:: Os saccrum

@@ -5,7 +5,7 @@
 - Hvad hedder clavicula på dansk?:: Nøglebenet (kravebenet)
 <!--SR:!2027-01-11,61,310-->
 - Hvad er funktionen af clavicula?:: Holde armen ud til siden
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-23,61,310-->
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overordnet form har clavicula?:: S-formet

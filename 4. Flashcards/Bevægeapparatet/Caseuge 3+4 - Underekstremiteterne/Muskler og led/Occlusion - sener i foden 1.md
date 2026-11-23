@@ -4,9 +4,9 @@
 
 
 ![[Sener i foden 1|600]]A?:: [[M. extensor digitorum longus]] (sene)
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-08,15,290-->
 ![[Sener i foden 1|600]]B?:: [[M. peroneus tertius]] (sene)
-<!--SR:!2026-11-23,3,250-->
+<!--SR:!2026-11-25,2,230-->
 ![[Sener i foden 1|600]]C?:: Øvre extensorretinakel
 <!--SR:!2026-12-03,16,290-->
 ![[Sener i foden 1|600]]D?:: Nedre extensorretinakel

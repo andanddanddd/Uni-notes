@@ -7,7 +7,7 @@
 	- Hvilken retning vender trabeklerne i ryghvirvler?:: Vertikalt primært
 
 - Hvad hedder den store cylinderformede del af ryghvirvlerne? (dansk):: [[Hvirvellegemet]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,14,290-->
 - Hvad hedder den tynde del af ryghvirvlerne? (dansk):: [[Hvirvelbuen]]
 - Hvad hedder hullet i midten af ryghvirvlerne? (dansk):: [[Hvirvelhullet]]
 

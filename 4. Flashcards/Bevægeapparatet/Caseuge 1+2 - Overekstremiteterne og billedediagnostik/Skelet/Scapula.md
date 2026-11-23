@@ -4,10 +4,11 @@
 ### Generalt
 - Hvad hedder scapula på dansk?:: Skulderbladet
 <!--SR:!2027-01-17,65,310-->
+- Hvad er scapulas funktion?:: Agere bevægelig platform for overarmen
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-28,66,310-->
 #### Form og størrelse
 - Hvilken overordnet form har scapula?:: Flad, trekantet
 <!--SR:!2027-01-17,61,310-->
@@ -18,7 +19,7 @@
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
 <!--SR:!2027-01-20,65,310-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-27,65,310-->
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
 <!--SR:!2026-11-21,17,250-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
@@ -50,7 +51,7 @@
 - Hvilken knogletype er scapula?:: Flad knogle
 <!--SR:!2027-01-16,64,310-->
 - Er scapula parret eller uparret?:: Parret
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-27,65,310-->
 - Form og størrelse
 ### Ossifikation og heeling
 - Type af ossifikation

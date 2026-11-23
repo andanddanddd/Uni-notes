@@ -2,11 +2,11 @@
 
 - Hvad er alla osis ilii?:: Den øverste hvifteformede del
 - Hvad kaldes den (frie) øvre kant af ala ossis ilii?:: Crista iliaca
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-24,62,310-->
 	- Hvilke 2 strukture afgrænser critsa iliaca?:: Spina iliaca ant/post sup.
 <!--SR:!2026-11-20,15,290-->
 	- Hvad kaldes den tykkeste del af crista iliaca?:: Tuberculum iliacum
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-29,67,310-->
 - Hvad hedder de 3 sider af ala?
 ?
 - Facies glutea

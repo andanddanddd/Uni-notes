@@ -4,7 +4,7 @@
 - Hvad hedder knæet på latin?:: Genu
 <!--SR:!2026-11-24,4,270-->
 - Hvad hedder knæledet på latin?:: Articulatio genus
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-09,16,290-->
 ### Ledtype
 - Hvilken ledtype er knæledet?:: Sammensat [[Hængselsled]]
 
@@ -34,7 +34,7 @@
 
 - Hvorfor kan knæledet kun rotere når det er flekteret?:: Der er ligamenterne og andre bløddele løsere
 - Hvordan foregår rotation af knæledet overordnet?:: Tibia rotere om den mediale kondyl mens dvs at den laterale kondyl kan bevæge sig lidt frem og tilbage ved ekstension
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-05,12,270-->
 
 ### Klinik
 - Hvorfor er mænd ofte mere "hjulbenet" (genu varum) en kvinder?:: Deres hofte er smaldere

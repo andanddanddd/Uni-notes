@@ -34,9 +34,9 @@
 	- Hvor på den distale ekstremitet af humerus findes [[Condylus humeri]]?:: I midten
 <!--SR:!2027-01-20,65,310-->
 - Hvad kaldes de 2 fremspring på den distale ekstremitet af humerus?:: Epicondylus medialis/lateralis
-<!--SR:!2026-11-14,15,290-->
+<!--SR:!2027-01-23,61,310-->
 - Hvad hedder de 2 fordybninger på forsiden af den distale ekstremitet af humerus?:: Fossa radialis og fossa coronoidea
-<!--SR:!2026-11-21,17,250-->
+<!--SR:!2027-01-24,62,270-->
 - Hvad hedder fordybningen på bagsiden af den distale ekstremitet af humerus?:: Fossa olecrani
 <!--SR:!2026-12-16,37,290-->
 

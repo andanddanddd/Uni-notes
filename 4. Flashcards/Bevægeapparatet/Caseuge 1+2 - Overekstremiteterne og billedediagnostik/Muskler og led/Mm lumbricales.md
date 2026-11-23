@@ -17,7 +17,7 @@
 - Hvor udspringer de 2 radiale mm. lumbricales?:: Radialsiden af senerne i 2. og 3. finger (sener fra [[M. flexor digitorum profundus]])
 <!--SR:!2026-11-19,15,290-->
 - Hvor udspringer de 2 ulnare mm. lumbricales?:: Randene til senerne på finger 2,3,4
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-20,58,310-->
 
 ### Insertion
 - Hvor har mm. lumbricales insertion?:: Radiale kanter af [[Ekstensoraponeurosen]] af de 4 ulanre fingre

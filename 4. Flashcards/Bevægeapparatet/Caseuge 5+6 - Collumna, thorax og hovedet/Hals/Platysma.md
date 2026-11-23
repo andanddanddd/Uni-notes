@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre platysma?:: Overfladiske halsmuskler
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-05,12,270-->
 - Hvor dybt ligger platysma?:: Superficielt (hudmuskel)
 
 ### Form

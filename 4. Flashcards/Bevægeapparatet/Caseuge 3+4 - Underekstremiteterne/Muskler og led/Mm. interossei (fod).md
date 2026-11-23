@@ -3,7 +3,7 @@
 
 - Hvor mange mm. interossei plantaris har vi?:: 3
 - Hvor mange mm. interossei dorsalis har vi i foden?:: 4
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,14,290-->
 ### Lokation
 - Hvor er mm. interossei (fod) overordnet?:: Mellem tærene
 - Hvor dybt ligger mm. interossei (fod)?:: Dybt
@@ -17,7 +17,7 @@
 - Hvor udspringer mm. interossei (fod)?:: Skaftet af ossa metatasales
 #### Insertion
 - Hvor har mm. interossei (fod) insertion?:: Basis af phalanx proximale
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-25,2,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei plantaris?:: Adduction

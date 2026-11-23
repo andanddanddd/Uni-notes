@@ -9,5 +9,5 @@
 ![[Fodens muskler 1|600]]D?:: [[M. extensor digitorum longus]]
 <!--SR:!2026-11-27,11,270-->
 ![[Fodens muskler 1|600]]E?:: [[M. extensor hallucis longus]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,14,290-->
 

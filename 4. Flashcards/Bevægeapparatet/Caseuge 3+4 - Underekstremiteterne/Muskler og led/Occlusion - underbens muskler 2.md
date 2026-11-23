@@ -14,5 +14,5 @@
 ![[Underbenets muskler 2|550]]I?:: Øvre extensorretinakkel
 <!--SR:!2026-11-22,4,270-->
 ![[Underbenets muskler 2|550]]J?:: Nedre extensorretinakel
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->
 

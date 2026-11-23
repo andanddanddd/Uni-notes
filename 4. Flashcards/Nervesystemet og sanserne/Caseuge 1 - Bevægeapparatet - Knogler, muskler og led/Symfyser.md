@@ -5,7 +5,7 @@
 - Hvad kaldes symfyser også?:: Sekundære [[Synchondroser]]
 <!--SR:!2027-01-19,61,310-->
 - Hvordan er bevægeligheden af symfyser?:: Der er lidt men ikke meget
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-24,62,310-->
 - Hvor findes symfyser?
 ?
 - Mellem ryghvirvlerne

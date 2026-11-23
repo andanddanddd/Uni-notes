@@ -4,7 +4,7 @@
 
 ### Lokation
 - Hvor er m. adductor hallucis overordnet?:: Storetåens muskelgruppe
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-09,16,290-->
 - Hvor dybt ligger m. adductor hallucis?
 
 ### Form
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilken ikke-bevægelsesmæssig funktion har m. adductor hallucis?:: Oprethold efodens tværbue
-<!--SR:!2026-11-19,1,230-->
+<!--SR:!2026-11-24,1,210-->
 - Hvilke bevægelser udfører m. adductor hallucis?:: Adduction af storetåen
 
 ### Innerversion og reflekser

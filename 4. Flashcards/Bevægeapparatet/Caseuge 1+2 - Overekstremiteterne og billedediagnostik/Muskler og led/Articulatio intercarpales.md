@@ -12,7 +12,7 @@ Hvilke knogler danner ledflader i art. intercarpales?:: Alle [[Håndroden]]s kno
 
 ### Funktion
 - Hvilke bevægelser kan art. intercarpales lave?:: Kun små forskydninger
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,14,290-->
 
 ### Klinik
 

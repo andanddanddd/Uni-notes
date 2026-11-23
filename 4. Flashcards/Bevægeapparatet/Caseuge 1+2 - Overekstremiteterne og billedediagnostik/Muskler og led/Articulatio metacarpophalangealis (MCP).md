@@ -15,9 +15,9 @@
 
 ### Funktion
 - Hvilke bevægelser kan MCP lave?:: Fleksion-ekstension og abducktion-adduction (omkring 3. finger)
-<!--SR:!2026-11-23,14,290-->
+<!--SR:!2027-01-19,57,310-->
 
 ### Klinik
 - Hvor stramme er MCP og hvordan mærkes det i hverdagen?:: De er ikke stramme og kan derfor rives fra hinadnen (knække fingre)
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-27,65,310-->
 

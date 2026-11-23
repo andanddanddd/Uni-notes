@@ -6,7 +6,7 @@ Væsker bliver sorte (da der intet ekko er)
 
 Der er mørkt bag meget hvide områder (skygge) da alt lyd allerede er reflekteret
 - Hvilken del af bevægeaparatet visualiseres med ultralyd?:: Sener
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-18,56,310-->
 - Hvilke fordele af UL?:: Det er biligt, flytbar, der er ingen ioniserende stråling og man kan se ting med det samme
 <!--SR:!2027-01-03,60,310-->
 - Hvilke organer i abdomnen bruges UL særligt til?:: Galdeblæren og pancreas

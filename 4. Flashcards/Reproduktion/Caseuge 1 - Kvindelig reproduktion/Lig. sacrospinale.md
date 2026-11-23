@@ -7,4 +7,4 @@
 <!--SR:!2026-12-28,39,290-->
 
 - Hvor ligger lig. sacrospinale i forhold til [[Lig. sacrotuberale]]?:: Lig. sacrospinale ligger mest ventralt
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-27,65,310-->

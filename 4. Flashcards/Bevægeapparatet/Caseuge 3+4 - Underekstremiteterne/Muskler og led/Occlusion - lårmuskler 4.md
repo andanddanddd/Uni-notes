@@ -20,4 +20,4 @@
 ![[Lårmuskler 4|600]]K? (hvilket hoved?):: [[M. gastrocnemius]] caput lateale
 <!--SR:!2026-11-29,12,230-->
 ![[Lårmuskler 4|600]]L?:: [[M. soleus]]
-<!--SR:!2026-11-16,5,230-->
+<!--SR:!2026-12-10,17,250-->

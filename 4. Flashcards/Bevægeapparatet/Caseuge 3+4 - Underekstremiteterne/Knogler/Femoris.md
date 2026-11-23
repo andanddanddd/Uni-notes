@@ -25,9 +25,9 @@
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
 <!--SR:!2026-11-18,2,170-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
-<!--SR:!2026-11-19,10,270-->
+<!--SR:!2026-12-30,37,290-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-27,65,310-->
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
 <!--SR:!2026-11-20,3,250-->
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
@@ -67,7 +67,7 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskife sker længdevækst af femoris?:: Den distale
-<!--SR:!2026-11-22,9,250-->
+<!--SR:!2026-12-25,32,270-->
 ### Inspektion og palpation
 ### Klinik
 

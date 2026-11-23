@@ -6,11 +6,11 @@
 - Articulatio humeroulnaris
 - Articulatio humeroradialis
 - Articulatio radioulnaris proximalis
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-02,9,250-->
 
 ### Ledtype
 - Hvilken ledtype er articulatio cubiti?:: Hængselsled (sammensat led) med indbygget drejeled
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-29,67,310-->
 - Hvordan inddeles albueledet overordnet?:: 3 led alle bestående af flader mellem 2 knogler
 <!--SR:!2027-01-14,58,310-->
 - Hvilken ledtype er articulatio humeroradialis?:: Kugleled
@@ -21,7 +21,7 @@
 
 ### Ledflader
 - Hvilke ledflader beståre articulatio humeroulnaris af?:: [[Trochlea humeri]] og [[Insicura trochlea ulnae]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-29,67,310-->
 - Hvilke ledflader består articulatio humeroradialis af?:: [[Capitulum humeri]] og [[Fovea articularis capitis radii]]
 <!--SR:!2026-11-22,17,250-->
 

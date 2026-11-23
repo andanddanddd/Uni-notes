@@ -14,7 +14,7 @@
 <!--SR:!2026-11-20,3,250-->
 #### Insertion
 - Hvor har Mm. lumbricales (fod) insertion?:: Proximalt på phalanx media af de 4 laterale tær
-<!--SR:!2026-11-17,1,230-->
+<!--SR:!2026-11-24,1,210-->
 
 ### Funktion
 - Hvilken funktion har mm. lumbricales i foden?:: Proprioception

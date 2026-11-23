@@ -5,7 +5,7 @@
 - [[Håndroden]]
 - [[Mellemhåndsknoglerne]]
 - [[Fingrene (skelet)]]
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-28,66,310-->
 
 ![[hånd(knogle) anatomi 1.png]]
 ![[hånd(knogler) 2.png]]

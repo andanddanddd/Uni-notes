@@ -7,7 +7,7 @@
 <!--SR:!2026-11-21,4,270-->
 ![[Fodens knogler 1|600]]B?:: [[Os cuneiforme intermedium]]
 ![[Fodens knogler 1|600]]C?:: [[Os cuneiforme mediale]]
-<!--SR:!2026-11-23,4,230-->
+<!--SR:!2026-12-06,13,250-->
 ![[Fodens knogler 1|600]]D?:: Calcaneus
 <!--SR:!2026-12-13,24,250-->
 ![[Fodens knogler 1|600]]E?:: Talus
@@ -35,4 +35,4 @@
 ![[Fodens knogler 1|600]]Q?:: Os naviculare
 <!--SR:!2026-11-28,16,290-->
 ![[Fodens knogler 1|600]]R?:: Ossa metatarsi (I-V)
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-26,64,310-->

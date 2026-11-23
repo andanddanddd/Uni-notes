@@ -5,7 +5,7 @@
 - Hvor er m. abductor pollicis brevis overordnet?:: Thenar (tommelfingerbaldens knogler)
 <!--SR:!2026-11-30,14,290-->
 - Hvor dybt ligger m. abductor pollicis brevis?:: Superficielt
-<!--SR:!2026-11-23,12,270-->
+<!--SR:!2027-01-06,44,290-->
 
 ### Form
 - Hvilken form har m. abductor pollicis brevis?:: Kort
@@ -21,7 +21,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor pollicis brevis?:: Abduction af tommelfingeren
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor pollicis brevis?:: [[N. medianus]]

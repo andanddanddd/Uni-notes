@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. brachioradialis?:: margo lateralis humeri (distale [[Humerus]])
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-26,64,310-->
 
 ### Insertion
 - Hvor har m. brachioradialis insertion?:: Processus styloideus radii (se [[Radius]])

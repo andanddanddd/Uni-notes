@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet #flashcards/6/klinik 
 
 - Hvad er forskellen på rødme og rød misfarvning? (hvordan testes det):: Rødme forsvinder midlertidigt hvis man trykker på det
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->
 - Hvad er "truet hud" risikoen for at et fraktur vil bryde igennem huden
 - Hvad kaldes tilstanden når knæledene bøjer udad?:: Varus
 <!--SR:!2026-11-29,12,230-->

@@ -13,7 +13,7 @@
 - Corpus ossis pubis
 - Ramus inf. ossis pubis
 - Ramus sup ossis pubis
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,15,290-->
 
 - Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen
 <!--SR:!2026-11-21,16,290-->
@@ -23,7 +23,7 @@
 <!--SR:!2026-11-20,15,290-->
 - Hvad kaldes sammenvoksningen af os pubis og [[Os ilium]]?:: Emenentia iliopubica
 - Hvad kaldes den skarpe kant af ramus sup. ossis pubis?:: Pecten ossis pubis
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-27,65,310-->
 ### Relationer
 #### Led
 - Hvilke knogler danner os pubis led med

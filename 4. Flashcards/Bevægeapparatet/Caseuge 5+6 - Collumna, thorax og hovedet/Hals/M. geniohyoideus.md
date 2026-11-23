@@ -13,11 +13,11 @@
 - Hvor udspringer m. geniohyoideus?:: Spina mentalis (inderisden af corpus mandibulare)
 #### Insertion
 - Hvor har m. geniohyoideus insertion?:: [[Os. hyoideum]]
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-02,9,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. geniohyoideus?:: Løfter os hyoideum opad-fremad
-<!--SR:!2026-11-21,2,230-->
+<!--SR:!2026-11-30,7,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. geniohyoideus?

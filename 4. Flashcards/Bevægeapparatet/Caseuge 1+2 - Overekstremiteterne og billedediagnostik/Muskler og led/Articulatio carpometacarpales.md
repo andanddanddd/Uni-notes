@@ -2,7 +2,7 @@
 
 ### Ledtype
 - Hvilken ledtype er art. carpometacarpales?:: Ægte [[Glideled]]
-<!--SR:!2026-11-19,10,270-->
+<!--SR:!2027-01-01,39,290-->
 
 ### Ledflader
 Hvilke knogler danner ledflader i art. carpometacarpales?:: [[Håndroden]]s distale knogler og os metacarpale

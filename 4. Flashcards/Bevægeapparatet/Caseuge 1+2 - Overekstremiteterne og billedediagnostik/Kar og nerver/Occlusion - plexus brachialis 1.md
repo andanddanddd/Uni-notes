@@ -16,6 +16,6 @@
 <!--SR:!2026-11-22,4,270-->
 ![[Plexus brachialis 1|700]]H?:: fasciulus post.
 ![[Plexus brachialis 1|700]]I?:: Fasciculus med.
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-09,16,290-->
 ![[Plexus brachialis 1|700]]J?:: [[N. ulnaris]]
 ![[Plexus brachialis 1|700]]K?:: [[N. medianus]]

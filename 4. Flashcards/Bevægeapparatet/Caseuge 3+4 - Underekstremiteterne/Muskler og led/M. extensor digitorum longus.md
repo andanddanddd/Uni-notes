@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor digitorum longus overordnet?:: Underbenets forete loge
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-04,11,270-->
 - Hvor dybt ligger m. extensor digitorum longus?
 
 ### Form

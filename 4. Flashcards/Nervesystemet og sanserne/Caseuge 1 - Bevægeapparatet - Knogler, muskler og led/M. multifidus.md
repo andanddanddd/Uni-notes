@@ -2,7 +2,7 @@
 
 
 - Hvor på rygvirvlerne hæfter den?:: Den går fra proccessus transversi til en højere processus spniosus, [[Tværtappe]], [[Torntappe]]
-<!--SR:!2026-11-23,3,250-->
+<!--SR:!2026-12-04,11,270-->
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. multifidus?:: [[Mm. Transversospinalis]] (dybe rygmuskler)
 - Hvor dybt ligger m. multifidus?:: Dybt
@@ -27,7 +27,7 @@
 - Hvilken funktion har m. multifidus?:: Stabilisere rygraden
 <!--SR:!2026-11-21,3,250-->
 - Hvor er m. multifidus stærkest?:: Lænderegionen (aftager i styrke opadtil)
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-08,15,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. multifidus?

@@ -1,4 +1,4 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken knogle sidder incisura trochlearis på?:: [[Ulna]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-09,16,290-->

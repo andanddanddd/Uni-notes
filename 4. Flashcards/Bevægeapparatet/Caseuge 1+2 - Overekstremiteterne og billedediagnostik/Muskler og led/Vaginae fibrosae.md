@@ -3,4 +3,4 @@
 - Hvad er vagiane fibrosae overodnet?:: En fibrøs omslutning til [[Vaginae synovialis]] (den er ikke overalt men mere som strips til en ledning)
 <!--SR:!2027-01-21,63,310-->
 - Hvad er funktionen af vagiane fibrosae?:: Holde fleksorene ind til knoglen
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-28,66,310-->

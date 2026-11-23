@@ -5,7 +5,7 @@
 - Hvor stabilt er bækkenringen overordnet?:: Meget stabil
 <!--SR:!2026-11-20,15,290-->
 - Hvilken overordnet forskel er der på underekstermiteternes og overekstremiteternes skelet?:: Underekstremiteternes skelet er kraftigere, længere og mere stabilt (det skal holde kroppens vægt)
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-26,64,310-->
 
 ![[Os coxae]]
 

@@ -5,7 +5,7 @@
 - Hvad er en housefield-enhed (HU)?:: Dæmpning relativt til vand
 <!--SR:!2026-11-20,15,290-->
 	- Hvad har den laveste HU enhed?:: Luft
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-29,67,310-->
 	- Hvad har den højeste HU enhed?:: Kortikal knogle
 <!--SR:!2026-11-24,14,290-->
 

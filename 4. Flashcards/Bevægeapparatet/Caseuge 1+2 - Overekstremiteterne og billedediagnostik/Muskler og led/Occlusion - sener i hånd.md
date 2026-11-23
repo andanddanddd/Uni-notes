@@ -3,11 +3,11 @@
 ![[sener i hånd.png]]
 
 ![[Sener i hånd|650]]A?:: [[M. extensor carpi ulnaris]]
-<!--SR:!2026-11-23,10,250-->
+<!--SR:!2026-12-28,35,270-->
 ![[Sener i hånd|650]]B?:: [[M. extensor digitorum]]
 <!--SR:!2027-01-13,57,310-->
 ![[Sener i hånd|650]]C?:: [[M. extensor digiti minimi]]
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-08,46,290-->
 ![[Sener i hånd|650]]D?:: Extensoraponeurosen
 <!--SR:!2027-01-01,43,290-->
 ![[Sener i hånd|650]]E?:: [[M. abductor pollicis longus]]

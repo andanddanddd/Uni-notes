@@ -4,7 +4,7 @@
 
 
 ![[Lårmuskler 3|600]]A?:: [[M. pectineus]]
-<!--SR:!2026-11-18,1,230-->
+<!--SR:!2026-11-24,1,210-->
 ![[Lårmuskler 3|600]]B?:: [[M. adductor longus]]
 ![[Lårmuskler 3|600]]C?:: [[M. adductor brevis]]
 ![[Lårmuskler 3|600]]D?:: [[M. gracilis]]
