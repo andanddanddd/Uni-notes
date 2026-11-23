@@ -16,6 +16,7 @@
 - Hvor udspringer caput longum af m. biceps femoris?:: Tuber ischiadicum (se [[Os ischii]])
 <!--SR:!2026-11-26,7,250-->
 - Hvor udspringer caput breve af m. biceps femoris?:: Linea asperas laterale kant (se [[Femoris]])
+<!--SR:!2026-11-24,1,230-->
 #### Insertion
 - Hvor har m. biceps femoris insertion?:: Caput fibulae (se [[Fibula]])
 

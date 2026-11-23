@@ -3,7 +3,7 @@
 ![[underarm bagved 1.png]]
 
 ![[Underarm bagved 1]]A?:: [[M. anconeus]]
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-25,63,310-->
 ![[Underarm bagved 1]]B?:: [[M. extensor carpi ulnaris]]
 <!--SR:!2026-12-04,25,270-->
 ![[Underarm bagved 1]]C?:: [[M. extensor digiti minimi]]

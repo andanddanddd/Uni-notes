@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder låret på latin?:: Femur
+<!--SR:!2026-11-26,3,250-->
 - Hvad gør musklerne i låret overordnet?:: bevæger knæledet samt adducere hofteledet
 <!--SR:!2026-11-25,14,290-->
 - Hvad hedder facien i låret?:: *Fascia lata*

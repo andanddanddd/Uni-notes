@@ -15,6 +15,7 @@
 <!--SR:!2026-11-27,8,250-->
 #### Insertion
 - Hvor har m. flexor digitorum longus insertion?:: Basis af phalanx distale på de 4 laterale tær
+<!--SR:!2026-11-27,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor digitorum longus?:: Flektion af de 4 laterale tær, inversion og plantarflektion af foden

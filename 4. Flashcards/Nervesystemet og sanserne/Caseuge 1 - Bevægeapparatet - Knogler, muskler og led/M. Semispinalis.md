@@ -17,6 +17,7 @@
 - Hvor udspringer m. semispinalis?:: [[Tværtappe]] (brysthvirvler og op)
 #### Insertion
 - Hvor har m. semispinalis insertion?:: [[Torntappe]] og dele af [[Os occipitale]]
+<!--SR:!2026-11-26,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. semispinalis?

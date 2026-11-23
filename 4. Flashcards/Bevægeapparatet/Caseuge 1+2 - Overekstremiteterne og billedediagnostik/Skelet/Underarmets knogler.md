@@ -16,6 +16,7 @@
 ### Occlusion
 ##### 1
 ![[Underarmsknogler anatomi 1]]A?:: Margo anterior
+<!--SR:!2026-11-27,4,270-->
 ![[Underarmsknogler anatomi 1]]B?:: Margo interosseus
 <!--SR:!2027-01-21,63,310-->
 ![[Underarmsknogler anatomi 1]]C?:: Membrana interossea

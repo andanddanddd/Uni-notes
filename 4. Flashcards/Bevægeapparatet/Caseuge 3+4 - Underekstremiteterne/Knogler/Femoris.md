@@ -10,6 +10,7 @@
 - Hvor er femoris overordnet?:: Låret
 <!--SR:!2026-11-28,16,290-->
 - Hvor i benene er femoris tættest på hinanden?:: De konvergere mod knæene
+<!--SR:!2026-11-27,4,270-->
 #### Form og størrelse
 - Hvad hedder ledfladen i den proximale ende af femoris?:: [[Caput femoris]]
 <!--SR:!2026-11-27,16,290-->

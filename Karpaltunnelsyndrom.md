@@ -7,6 +7,7 @@
 - Hvilken nerve påvirkes under karpaltunnelsyndrom?:: [[N. medianus]]
 - Hvorfor påvirker n. ulnaris ikke ved karpaltunnelsyndrom?:: Den er ikke i karpaltunnelen
 - Hvad sker overordnet i karpaltunnelsyndrom?:: [[N. medianus]] klemmes
+<!--SR:!2026-11-27,4,270-->
 - Hvordan behandles karpaltunnelsyndrom?:: Natlig skinne og evt opperation
 	- Hvordan opperes for karpaltunnelsyndrom?:: [[Retinaculum flexorum]] deles op
 - Hvilke 3 specialtest kan laves for at diagnosticere karpaltunnelsyndrom?

@@ -29,7 +29,7 @@
 ![[Fodens knogler 1|600]]N?:: Trochlea tali
 <!--SR:!2026-11-29,13,230-->
 ![[Fodens knogler 1|600]]O?:: Caput tali
-<!--SR:!2026-11-21,9,250-->
+<!--SR:!2026-11-28,5,230-->
 ![[Fodens knogler 1|600]]P?:: Tuberositas ossis navicularis
 <!--SR:!2026-12-09,20,250-->
 ![[Fodens knogler 1|600]]Q?:: Os naviculare

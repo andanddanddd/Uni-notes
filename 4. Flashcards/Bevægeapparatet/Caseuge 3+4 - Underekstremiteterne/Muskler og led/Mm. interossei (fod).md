@@ -23,7 +23,7 @@
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei plantaris?:: Adduction
 - Hvilke bevægelser udfører mm. interossei dorsalis (fod)?:: Abduction
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-03,10,270-->
 - Hvilken mm. interossei er kraftogst i foden?:: de dorsale
 <!--SR:!2026-11-21,4,270-->
 

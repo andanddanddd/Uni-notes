@@ -13,6 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. adductor hallucis?:: [[Lig. metatarsale transversum profundum]] og senen fra [[M. peroneus longus]]
+<!--SR:!2026-11-24,1,230-->
 #### Insertion
 - Hvor har m. adductor hallucis insertion?:: Basis af phalanx proximale I og det laterale sesamenben
 <!--SR:!2026-11-21,3,250-->
