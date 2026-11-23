@@ -2,6 +2,7 @@
 
 
 - Hvad hedder den øverste "hovedaretrie" i armen?:: [[A. axillaris]]
+<!--SR:!2026-11-27,4,270-->
 - Hvordan er armens vener overordnet arrangeret?:: Et superficielt og et profund sæt
 - Hvad hedder de 2 store superficiele vener på armen?:: [[V. cephalica]] og [[V. basilica]]
 - Hvad hedder den superficielle vener der løber imellem [[V. cephalica]] og [[V. basilica]]?:: [[V. mediane cubiti]]

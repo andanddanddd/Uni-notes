@@ -10,6 +10,7 @@
 
 ### Forløb
 - Hvordan er det overordnede forløb af mm. interspinales?:: Spænde mellem 2 på hinanden følgende torntappe
+<!--SR:!2026-11-27,4,270-->
 #### Udspring
 - Hvor udspringer mm. interspinales?:: [[Torntappe]]
 #### Insertion

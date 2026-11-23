@@ -5,7 +5,7 @@
 
 ### Ledflader
 - Hvilke 2 ledflader består DIP af?:: Caput af [[Phalinx media]] (ledhoved) og basis af [[Phalanx distalis]]
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-28,66,310-->
 
 ### Ledets strukture
 

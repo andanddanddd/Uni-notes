@@ -22,6 +22,7 @@
 		- Hvor mange insicura costales er på hver side af corpus sternum?:: 5
 		- Hvor er de 5 incisurae costales?:: Ved hver af de horizontale linjer på corpus sterni samt en ekstra på hhv det øvertse og nederste udsnit
 - Hvad kaldes den nederste del af sternum?:: Processus xipoideus
+<!--SR:!2026-11-26,3,250-->
 	- Hvilken form har proccesus zipoideus?:: Flad og trekantet
 
 - Hvad hedder ledet mellem manubrium sterni og corpus sterni?:: Angulus sterni

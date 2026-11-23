@@ -19,3 +19,4 @@
 ![[Lårmuskler 5|600]]H? (hvilket hoved?):: [[M. biciptis]] caput longum
 <!--SR:!2026-11-26,3,250-->
 ![[Lårmuskler 5|600]]I? (hvilket hoved?):: [[M. biciptis]] caput breve
+<!--SR:!2026-11-26,3,250-->

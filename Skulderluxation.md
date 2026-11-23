@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet [[Articulatio humeri]]
 
 - Hvilket retninger sker skulderluxationer oftest?:: Forudtil
+<!--SR:!2026-11-27,4,270-->
 - Hvilket ligament overrives typisk ved skulderluxation? (forudtil):: [[Ligamenta glenohumeralia]]
 <!--SR:!2026-11-27,4,270-->
 - Hvilken bevægelse giver oftest skulderluxation?:: Forceret udadrotation

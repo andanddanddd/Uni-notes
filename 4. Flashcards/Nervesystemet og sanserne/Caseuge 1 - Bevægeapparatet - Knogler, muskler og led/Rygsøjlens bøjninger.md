@@ -9,5 +9,6 @@
 - Hvilke type af ryggens bøjninger er mest mobil? (lordose eller kyfose):: Lordose
 
 - Hvilken form har rygsøjlen set forfra?:: Lige
+<!--SR:!2026-11-27,4,270-->
 - Hvad kaldes tilstanden når rygsølen krummer til en side?:: [[Skoliose]]
 <!--SR:!2026-11-20,4,270-->

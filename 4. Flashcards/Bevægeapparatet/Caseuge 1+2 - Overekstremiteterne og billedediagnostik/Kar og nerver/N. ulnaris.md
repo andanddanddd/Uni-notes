@@ -6,3 +6,4 @@
 - Hvilken sensorisk funktion har n. ulnaris?:: Ulnare dele af hånden
 - Hvordan præsentere en patient med skade på n. ulnaris sig typisk?:: Klohånd og svært ved at sprede fingerne
 - Hvilke fingre er n. ulnaris ansvarlige for at flektere?:: 4+5
+<!--SR:!2026-11-27,4,270-->

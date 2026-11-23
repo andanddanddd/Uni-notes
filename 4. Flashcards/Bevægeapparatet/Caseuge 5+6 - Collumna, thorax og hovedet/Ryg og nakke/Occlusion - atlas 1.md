@@ -3,6 +3,7 @@
 ![[atlas 1.png]]
 
 ![[Atlas 1|700]]A?:: Processus transversus
+<!--SR:!2026-11-27,4,270-->
 ![[Atlas 1|700]]B?:: Arcus ant.
 ![[Atlas 1|700]]C?:: Tuberculum ant.
 ![[Atlas 1|700]]D?:: Facies articularis sup.

@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet #flashcards/6/klinik 
 
 - Hvad palperes overordnet efter når man palpere bevægeapparatet?:: Ømhed, temperatur
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-03,10,270-->
 - Hvad er direkte ømhed?:: Ømhed der hvor der trykkes
 <!--SR:!2026-11-22,4,270-->
 - Hvad er indirekte ømhed?:: Ømhed når der trykket på en knogle der er forbudnet til det sted der gør ondt

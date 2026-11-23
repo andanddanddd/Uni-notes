@@ -14,6 +14,7 @@
 <!--SR:!2026-11-20,1,210-->
 #### Insertion
 - Hvor har m. opponens digiti minimi (fod) insertion?:: Skaftet af os metatarsales V
+<!--SR:!2026-11-27,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. opponens digiti minimi (fod)?

@@ -7,6 +7,7 @@
 ![[Armens arterier 1|700]]B?:: A. circumflexa humeri ant.
 <!--SR:!2026-12-04,11,270-->
 ![[Armens arterier 1|700]]C?:: [[A. brachialis]]
+<!--SR:!2026-11-26,3,250-->
 ![[Armens arterier 1|700]]D?:: [[A. radialis]]
 ![[Armens arterier 1|700]]E?:: [[A. ulnaris]]
 ![[Armens arterier 1|700]]F?:: [[A. suprascapularis]]

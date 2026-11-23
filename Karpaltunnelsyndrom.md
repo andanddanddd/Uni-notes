@@ -17,3 +17,4 @@
 - [[Durkans test]]
 
 - Hvad er en paræstesi?:: Unormal sanseoplevelse (prikken, stkken eller snuren)
+<!--SR:!2026-11-27,4,270-->

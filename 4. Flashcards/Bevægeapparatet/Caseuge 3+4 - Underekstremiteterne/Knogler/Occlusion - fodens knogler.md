@@ -6,6 +6,7 @@
 ![[Fodens knogler 1|600]]A?:: [[Os cuneiforme laterale]]
 <!--SR:!2026-11-21,4,270-->
 ![[Fodens knogler 1|600]]B?:: [[Os cuneiforme intermedium]]
+<!--SR:!2026-11-27,4,270-->
 ![[Fodens knogler 1|600]]C?:: [[Os cuneiforme mediale]]
 <!--SR:!2026-12-06,13,250-->
 ![[Fodens knogler 1|600]]D?:: Calcaneus

@@ -19,6 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. rotatores?:: Rotation af rygsøjlen
+<!--SR:!2026-11-27,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rotatores?

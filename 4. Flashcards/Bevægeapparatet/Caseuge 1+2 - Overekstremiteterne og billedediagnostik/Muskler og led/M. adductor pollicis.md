@@ -22,7 +22,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor pollicis?:: Adduction af tommelfingeren
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-29,67,310-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor pollicis?:: [[N. ulnaris]]

@@ -14,4 +14,5 @@
 ![[Ligamenter hofte 1|600]]E?:: [[Lig. sacrotuberale]]
 <!--SR:!2027-01-16,58,310-->
 ![[Ligamenter hofte 1|600]]F?:: Tuber ischiadicum
+<!--SR:!2026-11-27,4,270-->
 

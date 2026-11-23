@@ -5,4 +5,5 @@
 ![[Fodens muskler 2]]A?:: [[M. abductor digiti minimi (fod)]]
 <!--SR:!2026-11-29,12,270-->
 ![[Fodens muskler 2]]B?:: [[M. flexor digitorum brevis]]
+<!--SR:!2026-11-27,4,270-->
 ![[Fodens muskler 2]]C?:: [[M. abductor hallucis]]

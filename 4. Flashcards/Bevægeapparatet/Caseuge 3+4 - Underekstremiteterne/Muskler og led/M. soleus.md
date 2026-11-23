@@ -15,6 +15,7 @@
 - Hvor udspringer m. soleus?:: Linea m. solei (se [[Tibia]])
 #### Insertion
 - Hvor har m. soleus insertion?:: Tuber calcanei (se [[Calcaneus]])
+<!--SR:!2026-11-27,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. soleus?:: Plantarflektion

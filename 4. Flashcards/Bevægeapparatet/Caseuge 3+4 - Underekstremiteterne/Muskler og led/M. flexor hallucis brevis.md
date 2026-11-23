@@ -14,6 +14,7 @@
 <!--SR:!2026-11-19,3,250-->
 #### Insertion
 - Hvor har m. flexor hallucis brevis insertion?:: Basis af phalanx proximale I via storetåens sesamknogler (en på hver side)
+<!--SR:!2026-11-27,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor hallucis brevis?:: Flektion af storetåen

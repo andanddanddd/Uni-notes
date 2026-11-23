@@ -4,3 +4,4 @@
 <!--SR:!2026-11-21,16,290-->
 - Hvad er formålet med vaginae synovialis?:: Mindske friktion
 - På hvilken finger sidder vaginae synovialis ofte sammen ved bursa ulnae ([[Bursa manus]]?:: Lillefingeren
+<!--SR:!2026-11-27,4,270-->

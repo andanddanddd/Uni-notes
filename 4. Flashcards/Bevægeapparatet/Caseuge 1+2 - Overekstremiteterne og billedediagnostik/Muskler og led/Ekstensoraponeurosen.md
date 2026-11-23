@@ -3,6 +3,7 @@
 - Hvad er ekstensoraponeurosen overordnet?:: En forlængelse af ekstensormusklernes sener
 <!--SR:!2026-11-20,4,270-->
 - Hvor er ekstensoraponeurosen overordnet?:: Bagsiden af de 4 ulnare fingre
+<!--SR:!2026-11-27,4,270-->
 - Hvor hæfter ekstensoraponeurosen?:: Basis af alle 3 fingerknogler
 <!--SR:!2027-01-21,63,310-->
 - Hvordan er strukturen overordnet af ekstensoraponeurosen?:: En snip fra basis af phalanx proximalis -> basis af phalanx media samt 2 snipper fra basis af phalanx proximale -> basis af phalanx distale

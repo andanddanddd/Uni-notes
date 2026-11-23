@@ -19,3 +19,4 @@
 <!--SR:!2026-12-06,16,290-->
 ![[Pasted image 20261112113647.png]]10?:: Fossa infraspinata
 ![[Pasted image 20261112113647.png]]11?:: Angulus inferior
+<!--SR:!2026-11-27,4,270-->
