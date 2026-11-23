@@ -4,6 +4,9 @@
 <!--SR:!2026-11-22,4,270-->
 - Hvilke rygmarvssegmenter dannes n. medianus udfra?:: C6-T1
 <!--SR:!2026-11-20,3,250-->
-- Hvilken motorisk funktion har n. medianus?:: Innerversion af armens flexorer (motorisk) 
+- Hvilken motorisk funktion har n. medianus?:: Innerversion af armens flexorer 
 - Hvilken sensorisk funktion n. medianus?:: Palmart og ved neglene på de radiale fingre
 <!--SR:!2026-11-20,4,270-->
+
+- Hvordan præsentere en patient med skade på n. .medianus sig typisk?:: Kan ikke bøje finger 2+3 samt svært ved opponens af tommelfinger
+- 
