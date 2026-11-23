@@ -24,7 +24,7 @@
 <!--SR:!2026-11-15,4,270-->
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
-<!--SR:!2026-11-18,2,170-->
+<!--SR:!2026-11-26,3,170-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor
 <!--SR:!2026-12-30,37,290-->
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
@@ -39,7 +39,7 @@
 	- Hvad er funktionen af linea aspera?:: Forstækning af knoglen og muskeltilhæftning
 <!--SR:!2026-11-20,4,270-->
 	- Hvad kaldes overgangen fra trochanter minor til linea aspera?:: Linea pectinea
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-08,15,290-->
 	- Hvad hedder de 2 dele af skaftet adskilt af linea aspera?:: Labium mediale/laterale
 		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus (oss9s femoris)
 <!--SR:!2026-11-22,3,250-->

@@ -4,6 +4,7 @@
 
 
 ![[Dybe rygmuskler 2]]A?:: [[M. Semispinalis]] (capitis)
+<!--SR:!2026-11-24,1,230-->
 ![[Dybe rygmuskler 2]]B?:: [[M. splenius]] (capitis)
 ![[Dybe rygmuskler 2]]C?:: [[M. serratus posterior supperior]]
 ![[Dybe rygmuskler 2]]D?:: [[M. Spinalis]]

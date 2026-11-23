@@ -6,6 +6,6 @@
 <!--SR:!2026-11-20,3,250-->
 - Hvilken motorisk funktion har n. medianus?:: Innerversion af underarmens flexorer (herunder pronatorer) samt de fleste af musklerne i thenar (tommelfingerbaldens muskelgruppe)
 - Hvilken sensorisk funktion n. medianus?:: Palmart og ved neglene på de radiale fingre
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-05,12,270-->
 
 - Hvordan præsentere en patient med skade på n. .medianus sig typisk?:: Kan ikke bøje finger 2+3 samt svært ved opponens og abduction af tommelfinger

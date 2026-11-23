@@ -2,5 +2,5 @@
 
 - Hvad hedder torntappen på latin?:: Processus spinosus
 - Hvor mange torntappe har hver ryghvirvel?:: 1
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-09,16,290-->
 - Hvilken retning vender torntappen?:: Bagud

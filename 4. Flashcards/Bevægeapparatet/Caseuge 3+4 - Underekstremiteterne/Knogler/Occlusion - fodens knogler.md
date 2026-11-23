@@ -23,7 +23,7 @@
 ![[Fodens knogler 1|600]]K?:: Digitus minimus
 <!--SR:!2026-11-23,7,250-->
 ![[Fodens knogler 1|600]]L?:: Digitus medius
-<!--SR:!2026-11-18,9,250-->
+<!--SR:!2026-12-15,22,250-->
 ![[Fodens knogler 1|600]]M?:: Processus posterior tali
 <!--SR:!2026-11-23,4,230-->
 ![[Fodens knogler 1|600]]N?:: Trochlea tali

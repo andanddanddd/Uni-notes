@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. adductor brevis overordnet?:: Lårets mediale muskelgruppe
-<!--SR:!2026-11-23,12,270-->
+<!--SR:!2027-01-06,44,290-->
 - Hvor dybt ligger m. adductor brevis?
 
 ### Form

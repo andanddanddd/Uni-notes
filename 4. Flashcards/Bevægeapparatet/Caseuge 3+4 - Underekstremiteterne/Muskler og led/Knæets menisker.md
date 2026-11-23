@@ -8,3 +8,4 @@
 - Hvad er knæet meniscus lateralis fastbundet til?:: Kapslen, [[Tibia]] (emenentia intercondylares) og [[Lig. meniscofemorale posterius]]
 <!--SR:!2026-11-19,3,250-->
 - Hvilken funktion har knæets menisker?:: Trykpuder (støddæmpning)
+<!--SR:!2026-11-27,4,270-->

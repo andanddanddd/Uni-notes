@@ -9,7 +9,7 @@
 - Hvilke fordele har et røntgenbillede? (i forhold til CT):: Det er billigt, hurtigt og mindre stråling
 <!--SR:!2027-01-14,56,310-->
 - Ved røntgen af hvilken kropsdel gives den største og laveste dosing stråling?:: Mindst ved ekstremiteter mest ved rygrad
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-22,60,310-->
 - Eksempel på projektioner til røntgen?:: PA (posteriort-anteriort) og profil (fra siden)
 <!--SR:!2026-11-21,16,290-->
 - Hvorfor kan det være et problem at røntgen kun er 2-dimensionnel?:: Det er svært at skeldne overlappende knogler

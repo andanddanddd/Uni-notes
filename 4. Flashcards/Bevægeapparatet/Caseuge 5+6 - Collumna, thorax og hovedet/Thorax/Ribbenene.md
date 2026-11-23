@@ -23,7 +23,9 @@
 - Hvor findes ribbenhovedet?:: Ved ledet med [[Ryghvirvler]]ne
 - Hvor er halsen på ribbenen?:: Efter hovedet, dvs tæt ved ryghvirveler
 - Hvad hedder strukturen der danner grænse mellem hals og skaft af et ribben?:: Tuberculum costae
+<!--SR:!2026-11-27,4,270-->
 	- Hvad articulere tuberculum costae med?:: [[Tværtappe]]
+<!--SR:!2026-11-27,4,270-->
 - Hvor på skafetet af ribbenen findes sulcus costae?:: Indersiden
 - Hvilken funktion har sulcus costae?:: Indeholde kar og nerver
 - Hvad er særligt ved costa XI og XII?

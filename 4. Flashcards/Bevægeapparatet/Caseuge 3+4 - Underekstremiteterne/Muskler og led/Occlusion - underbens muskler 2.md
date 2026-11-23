@@ -8,6 +8,7 @@
 ![[Underbenets muskler 2|550]]C?:: [[M. peroneus brevis]]
 ![[Underbenets muskler 2|550]]D?:: [[M. soleus]]
 ![[Underbenets muskler 2|550]]E?:: Øvre peroneeretinakel
+<!--SR:!2026-11-27,4,270-->
 ![[Underbenets muskler 2|550]]F?:: Nedre peroneretinakel
 ![[Underbenets muskler 2|550]]G?:: [[M. tibialis anterior]]
 ![[Underbenets muskler 2|550]]H?:: [[M. extensor digitorum longus]]

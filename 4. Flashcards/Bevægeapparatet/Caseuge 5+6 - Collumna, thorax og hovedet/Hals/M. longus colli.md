@@ -4,6 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. longus coli?:: Prævertebrale dybe halsmuskler
 - Hvor dybt ligger m. longus coli?:: Dybt
+<!--SR:!2026-11-27,4,270-->
 
 ### Form
 - Hvilken form har m. longus coli?

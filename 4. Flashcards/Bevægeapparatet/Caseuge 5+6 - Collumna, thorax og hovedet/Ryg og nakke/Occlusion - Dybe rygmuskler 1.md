@@ -17,5 +17,6 @@
 ![[Dybe rygmuskler 1|700]]K?:: [[M. multifidus]]
 ![[Dybe rygmuskler 1|700]]L(A)?:: [[M. Erektor spinae]] ([[M. Spinalis]])
 ![[Dybe rygmuskler 1|700]]L(B)?:: [[M. Erektor spinae]] ([[M. Longissimus]])
+<!--SR:!2026-11-26,3,250-->
 ![[Dybe rygmuskler 1|700]]L(C)?:: [[M. Erektor spinae]] ([[M. Iliocostalis]])
 <!--SR:!2026-12-04,11,270-->

@@ -8,6 +8,7 @@
 - Hvordan er strukturen af aponeurosis palmaris overordner?:: Den har længdegående strøg til de 4 ulnare fingre samt tværgående strøg proxiamlt
 <!--SR:!2026-11-21,16,290-->
 	- Hvor mange snipper deler aponeurosis palmaris sig i?:: 4
+<!--SR:!2026-11-27,4,270-->
 - Hvad hedder ligamentet der holder de distale dele af aponeurosis palmaris sammen?:: [[Lig. metacarpale transversum superficiale]]
 <!--SR:!2026-11-18,2,230-->
 - Hvad er formålet med de sagitale septa der afgår fra de tværgående strøg på aponeurosis palmaris?:: Danne kanaler til flexorsenerne

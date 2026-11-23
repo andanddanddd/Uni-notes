@@ -3,6 +3,6 @@
 ![[lårmuskler 2.png]]
 
 ![[Lårmuskler 2]]A?:: [[M. vastus intermedius]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,14,290-->
 ![[Lårmuskler 2]]B?:: [[M. rectus femoris]]
 <!--SR:!2026-11-22,4,270-->
