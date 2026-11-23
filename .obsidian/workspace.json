@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 53.18115590092278,
+        "dimension": 53.181155900922775,
         "children": [
           {
             "id": "993248af6af8b58b",
@@ -76,7 +76,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 46.818844099077225,
+        "dimension": 46.81884409907722,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -277,12 +277,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5aad9866cfc0cf92",
+  "active": "0620d66ef0f3a4b2",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Occlusion - armens vener 1.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Plexus sacralis JEG MANGLER NERVERNE.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Plexus lumbalis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/N. obturatorius.md",
@@ -312,7 +312,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbensmuskler.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostalis internus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostales externus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Occlusion - ribbensmuskler 1.md",
     "Billeder/Bevægeapparatet/Thorax/sternum 1.png",
     "Billeder/Bevægeapparatet/Thorax/diagfragma 2.png",
     "Billeder/Bevægeapparatet/Thorax/diagfragma 1.png",
