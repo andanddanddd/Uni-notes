@@ -30,3 +30,4 @@ Reflekser
 ### Klinik
 - Hvad sker der hvis m. suprasppinatus lammes?:: Skulderledet bliver ustabilt
 <!--SR:!2026-12-12,31,270-->
+- 

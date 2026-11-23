@@ -7,6 +7,10 @@
 - [ ] N. mediaus er i canlis carpalis men n. ulnaris er ikke
 
 
-![[Klinsike problemstillinger i overekstremiteterne]]
+![[Klinsike problemstillinger i skulderen]]
+
+![[Kliniske problemstillinger i albuen]]
+
+![[Kliniske problemstillinger i hånden og håndledet]]
 
 ![[FOOSH]]
