@@ -30,4 +30,6 @@ Reflekser
 ### Klinik
 - Hvad sker der hvis m. suprasppinatus lammes?:: Skulderledet bliver ustabilt
 <!--SR:!2026-12-12,31,270-->
-- 
+- Hvilken skade sker oftest på m. supraspinatus?:: Degeneration af senen
+	- Hvorfor sker degenration af m. supraspinatus sene?:: Der er et stykke mellem ledhule og bursa af skulderled, dermed skal denne del få blod fra siderne hvilket kan skæres fra ved langvarige statiske bevægelser
+- Hvor kan skade på senen fra m. supraspinatus sprede sig hen?:: [[Burititis af bursaer i skudleren]]
