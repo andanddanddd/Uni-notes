@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Karpaltunnelsyndrom.md",
+                "file": "Tinels tegn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Karpaltunnelsyndrom"
+              "title": "Tinels tegn"
             }
           },
           {
@@ -283,8 +283,11 @@
   },
   "active": "993248af6af8b58b",
   "lastOpenFiles": [
-    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
     "Karpaltunnelsyndrom.md",
+    "Tinels tegn.md",
+    "Phalens test.md",
+    "Pasted image 20261123104845.png",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. ulnaris.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Plexus brachialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. radialis.md",
@@ -310,8 +313,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/Plexus lumbalis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/N. obturatorius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Kar og nerver/N. femoralis.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlens båndskiver.md",
-    "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Rygsøjlen.md",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261120_Truncus_Tong Tong.pdf",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf",
@@ -328,7 +329,6 @@
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 3.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 2.png",
-    "Billeder/Bevægeapparatet/Ryg, nakke og hals/nakkemuskler 1.png",
     "Untitled.canvas"
   ]
 }
