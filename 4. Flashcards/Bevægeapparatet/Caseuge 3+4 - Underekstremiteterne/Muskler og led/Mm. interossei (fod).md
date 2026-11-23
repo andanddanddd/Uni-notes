@@ -10,6 +10,7 @@
 
 ### Form
 - Hvilken form har mm. interossei planatris?:: Semipennant
+<!--SR:!2026-11-27,4,270-->
 - Hvilken form har mm. interossei dorsalis (fod)?:: Pennant
 
 ### Forløb

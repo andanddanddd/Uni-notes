@@ -13,6 +13,7 @@
 
 #### Placering og orientering
 - Hvilken del af ribbenen har et ledhoved?:: Den dorsale del
+<!--SR:!2026-11-27,4,270-->
 - Hvilken højt ligger det forste af ribbenen i forhold til det bagerste?:: Ribenenes bagflade er superior for deres forflade
 
 #### Form og størrelse

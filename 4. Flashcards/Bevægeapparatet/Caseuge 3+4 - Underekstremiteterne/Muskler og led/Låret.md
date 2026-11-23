@@ -25,6 +25,7 @@
 - [[M. adductor brevis]]
 - [[M. adductor magnus]]
 - [[M. gracilis]]
+<!--SR:!2026-11-26,3,250-->
 
 - Hvad kaldes lårets bagerste muskelgruppe også?:: Hasemuskler/hamstrings
 - Hvilken funktion har hasemusklerne ved gang/løb?:: Stoppe det framadgående ben og accelerere det bagud

@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. semimembranosus?:: Tuber ischiadicum (se [[Os ischii]])
+<!--SR:!2026-11-27,4,270-->
 #### Insertion
 - Hvor har m. semimembranosus insertion?
 ?

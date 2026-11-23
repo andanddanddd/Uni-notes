@@ -15,7 +15,7 @@
 <!--SR:!2027-01-21,63,310-->
 
 - Hvad menes med at vælge et vindue til CT overordnet?:: Vælge hvilke HU-enheder der skal være lystest og mørkets og dermed vælge hvor meget kontrast der skal være (forskyde gråtonernerne)
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-23,61,310-->
 - Hvorfor kan noget være helt vidt på et CT hvis det ikke er knogle?:: Man har valgt et vindue hvor bløde strukture er tydelige
 <!--SR:!2026-11-20,16,290-->
 

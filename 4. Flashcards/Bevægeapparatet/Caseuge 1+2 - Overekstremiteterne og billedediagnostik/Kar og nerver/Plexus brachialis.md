@@ -4,6 +4,7 @@
 - Hvilken del af nerverne fra rygmarven går til plexus brachialis?:: Rami ventralis nn spinalium
 <!--SR:!2026-11-22,4,270-->
 - Hvilke spinalnerver samles til trunki i plexus brachialis?:: C5+C6 og C8+T1 (C7 fortsætter som sin egen trunki)
+<!--SR:!2026-11-26,3,250-->
 - Had hedder de 3 trunki der danner plexus bracialis?:: Truncus sup. med. og inf.
 - Hvilke grene deler de 3 trunki sig i i plexus brachialis?:: En anterior og en posterior gren
 <!--SR:!2026-12-05,16,290-->
@@ -24,6 +25,7 @@
 
 - Hvordan testes sensorik på håndes så alle 3 nerver testes?:: Mærkes yderst på finger 2+5 samt dorsalt på radiealsiden af håndroden 
 - Hvorfor er det ofte kun et lille område på hånden der mister sensorik ved nervelesion i nogle af håndens nerver?:: Store dele af hånden er innerveret af 2 nerver og den raske vil derfor bare tage over
+<!--SR:!2026-11-27,4,270-->
 
 [[Occlusion - plexus brachialis 1]]
 

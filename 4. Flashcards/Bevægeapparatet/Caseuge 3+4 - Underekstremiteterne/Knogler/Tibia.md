@@ -5,6 +5,7 @@
 
 #### Placering og orientering
 - Hvor i underbenet er tibia?:: Medialt
+<!--SR:!2026-11-27,4,270-->
 #### Form og størrelse
 - Hvad kaldes de 2 store dele af den proximale ekstremitet af tibia?:: Condylus medialis/lateralis
 	- Hvad hedder ledfladerne på condylus medialis/lateralis?:: [[Facies artikularis superior]]

@@ -5,7 +5,7 @@
 - Hvad kaldes smerter der udgår fra led?:: Atralgier
 <!--SR:!2026-11-22,3,250-->
 - Hvad kaldes smerter der udgår fra [[Periost]]?:: Frakture
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,15,290-->
 
 - Hvordan beskriver patienter typisk smerter der kommer fra knogler?:: Borende
 <!--SR:!2026-11-24,15,290-->

@@ -17,6 +17,7 @@
 ### Forløb
 #### Udspring
 - Hvad hedder de 3 dele af diagfragma?:: Pars sternalis, pars costalis og pars lumbalis
+<!--SR:!2026-11-26,3,250-->
 - Hvor udspringer pars sternalis af diagfragma?:: Proccesus xipoideum (se [[Sternum]])
 - Hvor udspringer pars costalis af diagfragma?:: Nederste 6 ribben+ribbensbrusk
 - Hvor udspringer pars lumbalis af diagfragma?:: [[Lig. arcuatum mediale]] og [[Lig. arcuatum laterale]]

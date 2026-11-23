@@ -5,6 +5,7 @@
 ![[Pasted image 20261111102941.png]]1?:: Epicondylus medialis
 ![[Pasted image 20261111102941.png]]2?:: Olecranon
 ![[Pasted image 20261111102941.png]]3?:: Trochlea humeri
+<!--SR:!2026-11-27,4,270-->
 ![[Pasted image 20261111102941.png]]4?:: Processus coronoideus
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111102941.png]]5?:: Ulna
@@ -16,6 +17,6 @@
 ![[Pasted image 20261111102941.png]]9?:: Capitulum humeri
 ![[Pasted image 20261111102941.png]]10?:: Lig?:: anulare radii
 ![[Pasted image 20261111102941.png]]11?:: Tuberositas radii
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-07,14,290-->
 ![[Pasted image 20261111102941.png]]12?:: Radius
 <!--SR:!2026-11-20,4,270-->

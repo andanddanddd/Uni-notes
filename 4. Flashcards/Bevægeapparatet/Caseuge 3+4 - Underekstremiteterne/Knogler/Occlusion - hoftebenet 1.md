@@ -5,9 +5,9 @@
 ![[Hoftebenet 1|600]]A?:: Crista iliaca
 <!--SR:!2027-01-13,55,310-->
 ![[Hoftebenet 1|600]]B?:: Fossa iliaca
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-01,8,250-->
 ![[Hoftebenet 1|600]]C?:: Spina iliaca ant. sup.
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-24,62,310-->
 ![[Hoftebenet 1|600]]D?:: Spina iliaca ant. inf.
 <!--SR:!2026-11-22,16,290-->
 ![[Hoftebenet 1|600]]E?:: Eminentia iliopubica

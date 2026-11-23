@@ -15,6 +15,7 @@
 
 ### Insertion
 - Hvor har m. flexor digiti minimi insertion?:: Basis af phalanx proximale V
+<!--SR:!2026-11-27,4,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor digiti minimi?:: Flektion af lillefingeren

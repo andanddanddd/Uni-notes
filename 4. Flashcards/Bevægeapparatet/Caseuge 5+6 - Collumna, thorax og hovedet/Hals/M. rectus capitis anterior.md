@@ -6,6 +6,7 @@
 - Hvilken muskelgruppe tilhøre m. rectus capitis ant.?:: Prævertebrale dybe halsmuskler
 <!--SR:!2026-11-21,1,230-->
 - Hvor dybt ligger m. rectus capitis ant.?:: Dybt
+<!--SR:!2026-11-26,3,250-->
 
 ### Form
 - Hvilken form har m. rectus capitis ant.?

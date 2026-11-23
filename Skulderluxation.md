@@ -2,6 +2,7 @@
 
 - Hvilket retninger sker skulderluxationer oftest?:: Forudtil
 - Hvilket ligament overrives typisk ved skulderluxation? (forudtil):: [[Ligamenta glenohumeralia]]
+<!--SR:!2026-11-27,4,270-->
 - Hvilken bevægelse giver oftest skulderluxation?:: Forceret udadrotation
 	- Hvordan giver det mening af udadrotation kan give skulderluxation forudtil?:: Det river et ligament og evt ledlæbe løs forudtil så der ikke er meget til at stoppe armen fra at ryge derind
 - Hvad menes med smertebue?:: At der er et stykke bevægelse der gør ondt omgivet at bevægelser der ikke gør ondt, eks smerte ved 60-120 grader men smertefri ved 0-60+120-180

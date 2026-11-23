@@ -4,6 +4,7 @@
 ![[Pasted image 20261112112413.png]]1?:: Spina iliaca posterior superior
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261112112413.png]]2?:: Incisura ischiadica major
+<!--SR:!2026-11-26,3,250-->
 ![[Pasted image 20261112112413.png]]3?:: Lig. sacrotuberale
 <!--SR:!2026-11-20,3,250-->
 ![[Pasted image 20261112112413.png]]4?:: Trochanter major

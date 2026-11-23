@@ -11,7 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m.  flexor digiti minimi brevis?:: Proximalt på os metatarsalis V
-<!--SR:!2026-11-20,2,230-->
+<!--SR:!2026-11-28,5,230-->
 #### Insertion
 - Hvor har m.  flexor digiti minimi brevis insertion?:: Basis af phalanx proxiamle V
 

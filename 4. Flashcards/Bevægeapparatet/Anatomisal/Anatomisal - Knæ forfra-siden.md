@@ -21,6 +21,7 @@
 ![[Pasted image 20261111094249.png]]12?:: Lig transversum genus
 <!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261111094249.png]]13?:: Codylus medialis tibiae
+<!--SR:!2026-11-27,4,270-->
 ![[Pasted image 20261111094249.png]]14?:: [[Lig. patellae]]
 <!--SR:!2026-12-07,14,290-->
 ![[Pasted image 20261111094249.png]]15?:: [[Patella]]
