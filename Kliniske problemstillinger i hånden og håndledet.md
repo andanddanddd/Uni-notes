@@ -7,3 +7,5 @@
 - Hvorfor kan en infektion fra lillefingeren sprede tig til håndroden og tommelfingere?:: Deres seneskeder ligger meget tæt (og infektionen kan sprede sig til seneskeder, se [[Bursa manus]] og [[Vaginae synovialis]])
 
 ![[Dupuytrens kontraktur]]
+
+![[Seneafrivning i hånden]]
