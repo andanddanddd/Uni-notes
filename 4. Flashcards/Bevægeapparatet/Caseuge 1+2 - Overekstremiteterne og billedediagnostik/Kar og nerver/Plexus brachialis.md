@@ -22,6 +22,8 @@
 - [[N. axilaris]]
 - [[N. radialis]]
 
+- Hvordan testes sensorik på håndes så alle 3 nerver testes?:: Mærkes yderst på finger 2+5 samt dorsalt på radiealsiden af håndroden 
+
 [[Occlusion - plexus brachialis 1]]
 
 ![[plexus brachialis kompliceret.png]]
