@@ -1,5 +1,9 @@
-#flashcards/5/Bevægeapparatet 
+#flashcards/5/Bevægeapparatet [[Articulatio humeri]]
 
 - Hvilket retninger sker skulderluxationer oftest?:: Forudtil
 - Hvilket ligament overrives typisk ved skulderluxation? (forudtil):: [[Ligamenta glenohumeralia]]
-- 
+- Hvilken bevægelse giver oftest skulderluxation?:: Forceret udadrotation
+	- Hvordan giver det mening af udadrotation kan give skulderluxation forudtil?:: Det river et ligament og evt ledlæbe løs forudtil så der ikke er meget til at stoppe armen fra at ryge derind
+- Hvad menes med smertebue?:: At der er et stykke bevægelse der gør ondt omgivet at bevægelser der ikke gør ondt, eks smerte ved 60-120 grader men smertefri ved 0-60+120-180
+- Hvad tyder en smertebue ved abduction på 60-120 grader på og hvorfor?:: Skade på bursa eller omkringliggende bindevæv, ved denne bue er tuberculum major inde i den ydre ledskål
+- Hvilken struktur er særligt tydlig ved en skulderluxation?:: Acromion
