@@ -13,3 +13,4 @@
 <!--SR:!2026-11-23,7,250-->
 ![[Knæled 4|600]]F?:: [[Lig. collaterale fibulare]]
 ![[Knæled 4|600]]B?:: [[M. popliteus]]
+<!--SR:!2026-11-28,4,270-->

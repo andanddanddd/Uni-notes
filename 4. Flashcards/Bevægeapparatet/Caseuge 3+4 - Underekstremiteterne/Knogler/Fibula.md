@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvilken funktion har fibula?:: Give stabilitet til ankelledet (det bærer ikke særlig meget vægt)
+<!--SR:!2026-11-28,4,270-->
 
 #### Placering og orientering
 - Hvor i skinnebenet er fibula?:: Lateralt

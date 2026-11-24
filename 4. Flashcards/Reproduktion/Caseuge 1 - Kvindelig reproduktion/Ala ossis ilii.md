@@ -19,7 +19,7 @@
 - Hvor er fossa iliaca overordnet?:: Den skålformede den al ala ossis ilii
 <!--SR:!2027-01-14,56,310-->
 - Hvad hedder ledfladen på ala ossis ilii?:: [[Facies auricularis]]
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-30,67,310-->
 - Hvilken funktion har tuberositas iliaca?:: Fæstne stærke ledbånd
 <!--SR:!2027-01-18,60,310-->
 - Hvilken struktur jar tuberositas iliaca?:: Ujævn

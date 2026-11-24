@@ -8,3 +8,4 @@
 <!--SR:!2026-11-26,3,210-->
 ![[Fodens ligamenter 3|600]]C?:: Pars tibiotalaris post
 ![[Fodens ligamenter 3|600]]D?:: Pars tibiocalcanea
+<!--SR:!2026-11-25,1,230-->

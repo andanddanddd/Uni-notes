@@ -14,6 +14,7 @@
 ![[Pasted image 20261112112938.png]]8?:: Ileum
 <!--SR:!2026-12-04,11,270-->
 ![[Pasted image 20261112112938.png]]9?:: Spina iliaca posterior superior
+<!--SR:!2026-11-27,3,250-->
 ![[Pasted image 20261112112938.png]]10?:: Foramen ischiadicum majus
 <!--SR:!2026-11-28,4,270-->
 ![[Pasted image 20261112112938.png]]11?:: Trochanter major![[Pasted image 20261112112938.png]]12?:: Crista trochanterica

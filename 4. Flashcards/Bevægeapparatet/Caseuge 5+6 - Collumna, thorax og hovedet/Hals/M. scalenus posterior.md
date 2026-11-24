@@ -14,6 +14,7 @@
 - Hvor udspringer m. scalenus post.?:: [[Tværtappe]] på C4-C5 (tuberculi post.)
 #### Insertion
 - Hvor har m. scalenus post. insertion?:: Øvre flade af costa II
+<!--SR:!2026-11-25,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. scalenus post.?

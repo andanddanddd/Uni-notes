@@ -5,6 +5,7 @@
 
 ![[Hofteligamenter 1|700]]A?:: Lig. iliolumbale
 ![[Hofteligamenter 1|700]]B?:: [[Lig. sacroiliaca ventralia]]
+<!--SR:!2026-11-28,4,270-->
 ![[Hofteligamenter 1|700]]C?:: [[Lig. inguinale]]
 <!--SR:!2026-12-01,15,290-->
 ![[Hofteligamenter 1|700]]D?:: [[Lig. pubofemorale]]

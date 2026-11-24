@@ -18,7 +18,7 @@
 ![[Underbensknogler 1|600]]H?:: Facies medialis
 <!--SR:!2026-11-23,12,270-->
 ![[Underbensknogler 1|600]]I?:: Margo anterior
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-08,14,290-->
 ![[Underbensknogler 1|600]]J?:: Margo medialis
 ![[Underbensknogler 1|600]]K?:: Malleolus medialis
 <!--SR:!2026-12-03,16,290-->

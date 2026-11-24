@@ -2,6 +2,7 @@
 
 
 - Hvor mange mm. interossei plantaris har vi?:: 3
+<!--SR:!2026-11-28,4,270-->
 - Hvor mange mm. interossei dorsalis har vi i foden?:: 4
 <!--SR:!2026-12-07,14,290-->
 ### Lokation

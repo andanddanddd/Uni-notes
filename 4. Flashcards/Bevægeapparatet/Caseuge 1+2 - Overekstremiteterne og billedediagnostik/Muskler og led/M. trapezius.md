@@ -18,7 +18,7 @@
 - Protuberantia occipitalis externa
 - [[Ligamentum nuchae]]
 - Processus spinosus C7-T10
-<!--SR:!2026-11-21,11,250-->
+<!--SR:!2026-12-23,29,250-->
 
 - Hvad kaldes linea nuchalis sup. på dansk?:: Øvre nakkelinje
 <!--SR:!2026-12-17,38,290-->

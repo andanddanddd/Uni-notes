@@ -3,6 +3,7 @@
 - Hvilke lag af rygmarven giver nerver til plexus lumbalis?:: T12-L4
 <!--SR:!2026-12-02,9,250-->
 - Hvilken "type" spinalnerver indgår i plexus lumbalis?:: Rami ventralis (T12-L4)
+<!--SR:!2026-11-28,4,270-->
 
 - Hvilke 6 nerver afgår fra plexus lumbalis?
 ?

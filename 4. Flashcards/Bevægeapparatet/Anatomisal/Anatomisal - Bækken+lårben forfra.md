@@ -6,6 +6,7 @@
 ![[Pasted image 20261112112219.png]]2?:: Spina iliaca anterior superior
 <!--SR:!2026-11-27,4,270-->
 ![[Pasted image 20261112112219.png]]3?:: Ligamentum inguinale
+<!--SR:!2026-11-25,1,230-->
 ![[Pasted image 20261112112219.png]]4?:: Caput femoris
 ![[Pasted image 20261112112219.png]]5?:: Trochanter major
 ![[Pasted image 20261112112219.png]]6?:: Tuber ischiadicum

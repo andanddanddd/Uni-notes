@@ -22,6 +22,7 @@
 - Hvor udspringer pars costalis af diagfragma?:: Nederste 6 ribben+ribbensbrusk
 <!--SR:!2026-11-25,1,230-->
 - Hvor udspringer pars lumbalis af diagfragma?:: [[Lig. arcuatum mediale]] og [[Lig. arcuatum laterale]]
+<!--SR:!2026-11-25,1,230-->
 #### Insertion
 - Hvor har diagfragma insertion?:: Centrum tendineum
 

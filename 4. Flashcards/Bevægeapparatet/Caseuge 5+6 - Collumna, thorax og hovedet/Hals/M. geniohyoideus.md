@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. geniohyoideus?:: Spina mentalis (inderisden af corpus mandibulare)
+<!--SR:!2026-11-25,1,230-->
 #### Insertion
 - Hvor har m. geniohyoideus insertion?:: [[Os. hyoideum]]
 <!--SR:!2026-12-02,9,250-->

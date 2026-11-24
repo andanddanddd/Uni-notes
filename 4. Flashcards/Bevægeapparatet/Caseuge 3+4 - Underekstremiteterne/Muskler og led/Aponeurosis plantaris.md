@@ -2,6 +2,7 @@
 
 - Hvad er aponeurosis plantaris?:: Bindevævsblad i fodsålen
 - Hvordan er strukturen overordnet af aponeurosis plantaris?:: Meget ligesom aponeurosis palmaris, dvs der både er længdegående og tværgående trøg, her er dog et dybt og et superficielt lag
+<!--SR:!2026-11-28,4,270-->
 - Hvad sidder fast til det dybe lag af aponeurosis plantaris?:: Sagitale septa så der laves kanaler til sener
 - Hvor dybt ligger aponeurosis plantaris?:: Lige under subcutis
 - Hvornår spændes aponeurosis plantaris?:: Når man løfter tæerne (står på tær)

@@ -11,6 +11,7 @@
 ![[Sener i hånd|650]]D?:: Extensoraponeurosen
 <!--SR:!2027-01-01,43,290-->
 ![[Sener i hånd|650]]E?:: [[M. abductor pollicis longus]]
+<!--SR:!2026-11-27,3,250-->
 ![[Sener i hånd|650]]F?:: [[M. extensor pollicis brevis]]
 <!--SR:!2026-12-14,20,250-->
 ![[Sener i hånd|650]]G?:: [[M. extensor carpi radialis brevis]]

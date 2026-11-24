@@ -30,7 +30,7 @@
 	- Hvad hedder fordybningen i trochanter major?:: Fossa trochanterica
 <!--SR:!2027-01-27,65,310-->
 	- Hvad hedder den store kam der forbinder trochanter minor/major?:: Crista intertrochanterica
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-03,9,250-->
 	- Hvad hedder den lille kam der forbinder trochanter minor/major?:: Linea intertrochanterica
 <!--SR:!2026-12-05,19,250-->
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major

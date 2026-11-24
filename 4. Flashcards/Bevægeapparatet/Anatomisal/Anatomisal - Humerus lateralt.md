@@ -16,6 +16,7 @@
 ![[Pasted image 20261111102941.png]]8?:: Capsula articularis
 ![[Pasted image 20261111102941.png]]9?:: Capitulum humeri
 ![[Pasted image 20261111102941.png]]10?:: Lig?:: anulare radii
+<!--SR:!2026-11-28,4,270-->
 ![[Pasted image 20261111102941.png]]11?:: Tuberositas radii
 <!--SR:!2026-12-07,14,290-->
 ![[Pasted image 20261111102941.png]]12?:: Radius

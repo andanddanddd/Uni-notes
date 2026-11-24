@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder os naviculare på dansk?:: Bådbenet
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-25,1,210-->
 
 #### Placering og orientering
 - Hvor er os naviculare overordnet?:: Fodroden
