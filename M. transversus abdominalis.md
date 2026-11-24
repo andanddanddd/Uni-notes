@@ -10,9 +10,15 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. transversus abdominalis?:: Dybe blad af [[Fascia thoracolumbalis]] og ribbensbrusk på ribben V-
+- Hvor udspringer m. transversus abdominalis?
+?
+- Dybe blad af [[Fascia thoracolumbalis]] 
+- Ribbensbrusk på ribben V-X
+- Crista ilica
+- [[Lig. inguinale]]
 #### Insertion
-- Hvor har m. transversus abdominalis insertion?
+- Hvor har m. transversus abdominalis insertion?:: Aponeurose
+- Hvad kaldes linjen der afgrænser kødede fibre i m. transversus abdominalis?:: linea semilunaris
 
 ### Funktion
 - Hvilke bevægelser udfører m. transversus abdominalis?
