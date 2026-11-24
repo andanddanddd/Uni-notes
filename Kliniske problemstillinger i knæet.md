@@ -4,4 +4,6 @@
 
 - Hvad kaldes tilstanden hvor patella ikke er fuldt forbenet?:: [[Patella bipartita]]
 - Hvad kaldes til der skyldes gentagen træk fra quadricepssenen?:: [[Osgood schlatter disease]]
-- Hvad kalde tilstanden 
+- Hvad kaldes tilstanden hvor knæet har et ekstra sesamknogle der giver smerter?:: [[Fabella-syndrom]]
+
+![[ACL skade]]
