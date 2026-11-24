@@ -4,3 +4,5 @@
 - Hvilken faldsmekanisme leder typisk til forstuvet ankel?:: Flektion + inversion
 
 ![[Akilleseneruptur]]
+
+![[Tarsaltunnelsyndrom]]
