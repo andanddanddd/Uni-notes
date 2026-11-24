@@ -26,6 +26,8 @@
 
 ![[Kliniske problemstillinger i hoften]]
 
+![[Kliniske problemer i låret]]
+
 ![[Kliniske problemstillinger i knæet]]
 
 ![[Kliniske problemer i underbenet]]

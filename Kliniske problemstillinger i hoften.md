@@ -4,3 +4,4 @@
 
 ![[Trendelenburg tegn]]
 
+![[Piriformis-syndrom]]
