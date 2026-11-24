@@ -6,8 +6,7 @@
 ?
 1. Veneafløbet afsnøres hvilket fører til yderligere trykudligning
 2. Nerver og blodtilløb klemmes
-3. Musklerne får ikke når oxygen og der forekommer iskæmi
-
+3. Musklerne får ikke når oxygen og der forekommer iskæmi (meget smeretfulgt og kan give langvarrige men)
 
 - Hvilke etiologier kan logesyndrom have?
 ?
