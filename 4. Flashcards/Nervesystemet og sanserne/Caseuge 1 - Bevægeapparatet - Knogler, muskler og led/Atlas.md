@@ -5,6 +5,7 @@
 <!--SR:!2026-12-09,16,290-->
 - Hvad hedder knuden foreste på atlas?:: Tuberculum ant.
 - Hvad hedder knuden bagerst på atlas?:: Tuberculum post.
+<!--SR:!2026-11-28,4,270-->
 	- Hvilken "funktion" har tuberculum post?:: Agere torntap
 - Hvilken del af atlas bruges til at overføre vægten fra hovedet til resten af rygsøjlen?:: Massa lateralis
 <!--SR:!2026-11-22,4,270-->

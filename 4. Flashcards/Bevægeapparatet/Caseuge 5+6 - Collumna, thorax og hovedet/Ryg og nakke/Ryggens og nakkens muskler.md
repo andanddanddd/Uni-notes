@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er særligt ved fedtet i ryggen?:: Der er meget brunt fedt
+<!--SR:!2026-11-28,4,270-->
 - Hvad hedder fascien der adskiller ryggens dybe og superficielle rygmuskler?:: [[Fascia thoracolumbalis]]
 - Hvad er særligt ved bevægesle af rygraden?:: Det er primært styret af at kontrolere tyngdekraften, dvs styret af excentriske bevægelser
 

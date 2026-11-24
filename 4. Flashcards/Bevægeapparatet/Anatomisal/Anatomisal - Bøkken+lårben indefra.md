@@ -3,6 +3,7 @@
 ![[Pasted image 20261112112533.png]]
 
 ![[Pasted image 20261116101136.png]]1?:: Promontorium
+<!--SR:!2026-11-27,3,250-->
 ![[Pasted image 20261116101136.png]]2?:: Crista iliaca
 ![[Pasted image 20261116101136.png]]3?:: Linea arcuata
 <!--SR:!2026-12-03,9,250-->

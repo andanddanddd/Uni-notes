@@ -15,7 +15,7 @@
 ?
 - [[Lig. sacroiliaca ventralia]]
 - [[Ligamentum sacroiliacum interosseum]]
-<!--SR:!2026-11-24,1,210-->
+<!--SR:!2026-11-26,2,210-->
 
 - Hvad hedder de 2 accesoriske ligamenter til art. sacroiliaca?
 ?

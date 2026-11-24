@@ -20,7 +20,7 @@
 - Hvad betyder radiooak?:: Hvid (absorbsion)
 <!--SR:!2026-11-27,4,270-->
 - Hvad betyder sklerose?:: Knoglefortætning (ekstra hvid knogle)
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-29,66,310-->
 
 
 ERCP bruges ikke længere

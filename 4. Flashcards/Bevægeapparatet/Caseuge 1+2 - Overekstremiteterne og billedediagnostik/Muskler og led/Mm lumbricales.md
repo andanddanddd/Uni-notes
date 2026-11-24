@@ -11,7 +11,7 @@
 - Hvilken form har de 2 radiele mm. lumbricales?:: Semipennant
 <!--SR:!2026-11-27,16,290-->
 - Hvilken form har de 2 ulnare mm. lumbricales?:: Pennant
-<!--SR:!2026-11-15,11,270-->
+<!--SR:!2027-01-03,40,290-->
 
 ### Udspring
 - Hvor udspringer de 2 radiale mm. lumbricales?:: Radialsiden af senerne i 2. og 3. finger (sener fra [[M. flexor digitorum profundus]])
@@ -21,6 +21,7 @@
 
 ### Insertion
 - Hvor har mm. lumbricales insertion?:: Radiale kanter af [[Ekstensoraponeurosen]] af de 4 ulanre fingre
+<!--SR:!2026-11-27,3,250-->
 
 ### Funktion
 - Hvilken funktion har mm. lumbricales?:: Registrere proprioception særligt af de 2 yderste led

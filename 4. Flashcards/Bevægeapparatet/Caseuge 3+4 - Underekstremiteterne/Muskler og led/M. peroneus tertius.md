@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad kaldes m. peroneus tertius også?:: M. fibularis tertius
+<!--SR:!2026-11-28,4,270-->
 ### Lokation
 - Hvor er m. peroneus tertius overordnet?:: Underbenets forste loge
 <!--SR:!2026-12-08,15,290-->

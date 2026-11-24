@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er den hyppigste ankelfraktur?:: [[Malleolus lateralis fraktur]]
+<!--SR:!2026-11-28,4,270-->
 - Hvilken faldsmekanisme leder typisk til forstuvet ankel?:: Flektion + inversion
 - Hvordan behanldes en forstuvet ankel?
 ?

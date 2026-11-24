@@ -12,7 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. flexor digitorum brevis?:: Tuber calcanei (forsiden) og [[Aponeurosis plantaris]] (profund flade)
-<!--SR:!2026-11-21,2,230-->
+<!--SR:!2026-11-29,5,230-->
 #### Insertion
 - Hvor har m. flexor digitorum brevis insertion?:: Phalanx media af de 4 laterale tær (2 snipper så senen fra [[M. flexor digitorum longus]] kan komme igennem)
 - 

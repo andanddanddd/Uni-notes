@@ -27,6 +27,7 @@
 	- Hvad articulere tuberculum costae med?:: [[Tværtappe]]
 <!--SR:!2026-11-27,4,270-->
 - Hvor på skafetet af ribbenen findes sulcus costae?:: Indersiden
+<!--SR:!2026-11-28,4,270-->
 - Hvilken funktion har sulcus costae?:: Indeholde kar og nerver
 - Hvad er særligt ved costa XI og XII?
 ?

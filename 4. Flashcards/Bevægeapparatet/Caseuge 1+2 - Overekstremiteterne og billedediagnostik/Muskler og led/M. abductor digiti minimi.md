@@ -5,7 +5,7 @@
 - Hvor er m. abductor digiti minimi overordnet?:: Hypothenar (lillefingerbaldens muskler)
 <!--SR:!2026-11-25,14,290-->
 - Hvor dybt ligger m. abductor digiti minimi?:: Superficielt
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-04,10,270-->
 
 ### Form
 - Hvilken form har m. abductor digiti minimi?

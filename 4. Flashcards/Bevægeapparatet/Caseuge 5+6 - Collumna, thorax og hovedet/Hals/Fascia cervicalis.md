@@ -4,3 +4,4 @@
 - Hvor er det lamina superficialis af fascia cervicalis overordnet?:: Cylinderformet rundt om halsen
 - Hvor omgives af lamina media af fascia cervicalis overrodnet?:: Omkranser de infrahyoide muskler
 - Hvad omgives af lamina profunda af fascia cervicalis?:: De dybe halsmuskler (begge grupper)
+<!--SR:!2026-11-27,3,250-->

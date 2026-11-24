@@ -20,6 +20,7 @@
 <!--SR:!2026-11-26,3,250-->
 - Hvor udspringer pars sternalis af diagfragma?:: Proccesus xipoideum (se [[Sternum]])
 - Hvor udspringer pars costalis af diagfragma?:: Nederste 6 ribben+ribbensbrusk
+<!--SR:!2026-11-25,1,230-->
 - Hvor udspringer pars lumbalis af diagfragma?:: [[Lig. arcuatum mediale]] og [[Lig. arcuatum laterale]]
 #### Insertion
 - Hvor har diagfragma insertion?:: Centrum tendineum
