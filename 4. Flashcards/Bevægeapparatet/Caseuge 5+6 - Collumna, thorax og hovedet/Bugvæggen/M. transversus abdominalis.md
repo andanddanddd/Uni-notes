@@ -21,7 +21,8 @@
 - Hvad kaldes linjen der afgrænser kødede fibre i m. transversus abdominalis?:: linea semilunaris
 
 ### Funktion
-- Hvilke bevægelser udfører m. transversus abdominalis?
+- Hvilke bevægelser udfører m. transversus abdominalis?:: Exspiration
+- Hvorfor har m. transversus abdominalis stor betydning for stabiliteten af collumna?:: Den påvriker inrtaabdominalt tryk
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. transversus abdominalis?

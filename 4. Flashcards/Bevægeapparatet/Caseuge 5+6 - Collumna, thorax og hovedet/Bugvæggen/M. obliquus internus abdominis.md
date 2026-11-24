@@ -25,7 +25,7 @@
 - Hvad bliver aponeurosen fra m. obliquus int. abdominalis?:: [[Falx inguinalis]]
 
 ### Funktion
-- Hvilke bevægelser udfører m. obliquus int. abdominalis?
+- Hvilke bevægelser udfører m. obliquus int. abdominalis?:: Dreje collumna (lidt lateralfleksion også, og hjælper minimalt til exspiration) 
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. obliquus int. abdominalis?

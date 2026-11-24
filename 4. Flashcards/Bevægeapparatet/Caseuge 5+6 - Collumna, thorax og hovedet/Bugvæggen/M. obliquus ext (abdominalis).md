@@ -19,7 +19,7 @@
 - Hvor har fibrene i m. obliquus ext. abdominalis der udspringer fra det nederste ribben insersion?:: Crista iliaca (se [[Os ilium]])
 
 ### Funktion
-- Hvilke bevægelser udfører m. obliquus ext. abdominalis?
+- Hvilke bevægelser udfører m. obliquus ext. abdominalis?:: Dreje collumna (lidt lateralfleksion også, og hjælper minimalt til exspiration)
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. obliquus ext. abdominalis?

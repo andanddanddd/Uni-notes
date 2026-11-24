@@ -5,7 +5,13 @@
 	- Hvad binder linea alba abdominalis til?:: Processus xipoideus (se [[Sternum]])
 - Hvad hedder den dybe fascie i bugvæggen?:: [[Fascia transversis]]
 - Hvad hedder den superficielle fascie i bugvæggen?:: [[Fascia abdominalis superficialis]]
+- Hvorfor er det smart at have let forøget intraabdominalt tryk?
+?
+- Hjælper med venetilbageløb
+- Stabilitet i collumna
 
 ![[Bugvæggens muskler]]
 
 ![[Rectusskeden]]
+
+![[Canalis inguinalis]]
