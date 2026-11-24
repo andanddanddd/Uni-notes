@@ -17,7 +17,7 @@
 - Hvor har m. rectus insertion?:: RIbbensbrusk af ribben V-VII
 
 ### Funktion
-- Hvilke bevægelser udfører m. rectus?
+- Hvilke bevægelser udfører m. rectus?:: Enten løfter symfysen eller flektere rygsøjlen (afhængig af hvad er)
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus?
