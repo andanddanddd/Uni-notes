@@ -19,11 +19,11 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. opponens digiti minimi?:: Opponation af lillefingeren
-<!--SR:!2026-11-17,4,270-->
+<!--SR:!2026-12-10,16,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. opponens digiti minimi?:: [[N. ulnaris]]
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-21,58,310-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

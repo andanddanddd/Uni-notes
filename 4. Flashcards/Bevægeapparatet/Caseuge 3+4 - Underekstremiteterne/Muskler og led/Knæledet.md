@@ -2,7 +2,7 @@
 
 
 - Hvad hedder knæet på latin?:: Genu
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvad hedder knæledet på latin?:: Articulatio genus
 <!--SR:!2026-12-09,16,290-->
 ### Ledtype
@@ -26,7 +26,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan knæledet lave?:: Flektion-ekstension og rotation dog kun ved flektion
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,14,290-->
 - Hvad hedder de 3 led knæledet dækker over?
 ?
 - [[Pars femoropatellaris]]
@@ -44,7 +44,7 @@
 - Hvem er typisk mest "hjulbenet" (genu varum) og hvorfor?:: Nyfødte grundet deres position i moderen
 - Hvilken næringsmangel kan fære til "hjulben" (genu varum)?:: Mangel på [[D-vitamin]]
 - Hvorfor skal knæet være så kraftigt?:: Det lægger mellem de 2 længste knogler i kroppen (så store krafter fysik yesyes)
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-09,15,290-->
 - Hvad er knæledets normale temperatur?:: 32 grader C
 
 

@@ -10,7 +10,7 @@
 ![[Hånd muskler 1|800]]D?:: [[M. opponens digiti minimi]]
 <!--SR:!2026-12-13,24,250-->
 ![[Hånd muskler 1|800]]E?:: [[M. flexor pollicis brevis]]
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-06,12,270-->
 ![[Hånd muskler 1|800]]F?:: [[M. abductor pollicis brevis]]
 <!--SR:!2027-01-25,63,310-->
 ![[Hånd muskler 1|800]]G?:: [[Mm. interossei (palmaries-dorsalis)]] (palmaris)

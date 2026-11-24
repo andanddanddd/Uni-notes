@@ -8,7 +8,7 @@
 ![[Underbenets muskler 4]]B?:: [[M. tibialis posterior]]
 <!--SR:!2026-12-09,16,290-->
 ![[Underbenets muskler 4]]C?:: [[M. flexor hallucis longus]]
-<!--SR:!2026-11-24,1,210-->
+<!--SR:!2026-11-26,2,210-->
 ![[Underbenets muskler 4]]D?:: [[M. popliteus]]
 ![[Underbenets muskler 4]]E?:: [[Lig. popliteofibulare]]
 <!--SR:!2026-12-05,12,270-->

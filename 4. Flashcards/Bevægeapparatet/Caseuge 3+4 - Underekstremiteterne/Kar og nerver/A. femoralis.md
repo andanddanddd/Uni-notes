@@ -4,7 +4,7 @@
 - Hvad bliver a. femoralis til nedad?:: [[A. poplitea]]
 
 - Hvilken struktur afgrænser a, femoralis opadtil?:: [[Lig. inguinale]]
-<!--SR:!2026-11-24,1,210-->
+<!--SR:!2026-11-27,3,230-->
 - Hvilken struktur afgrænser a. femoralis nedadtil?:: Hiatus adductorius
 <!--SR:!2026-11-22,3,250-->
 

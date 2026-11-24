@@ -3,11 +3,11 @@
 - Hvad er CT overordnet?:: Røntgen der rotere om patienten
 <!--SR:!2026-11-22,16,290-->
 - Hvad er en housefield-enhed (HU)?:: Dæmpning relativt til vand
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-22,59,310-->
 	- Hvad har den laveste HU enhed?:: Luft
 <!--SR:!2027-01-29,67,310-->
 	- Hvad har den højeste HU enhed?:: Kortikal knogle
-<!--SR:!2026-11-24,14,290-->
+<!--SR:!2027-01-21,58,310-->
 
 - Hvad betyder hyperdens?:: Lys
 <!--SR:!2026-11-21,16,290-->
@@ -29,7 +29,7 @@
 - Cancer
 <!--SR:!2026-11-04,15,290-->
 - Hvad bruges CT til i forbindelse med underernæring?:: Det kan måle muskelmasse
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-10,16,290-->
 
 
 Når man ser et CT-billede der ikke er et slice men forfra eller fra siden, så er det den samme data som fra slicesne men rekunstrueret anderledes

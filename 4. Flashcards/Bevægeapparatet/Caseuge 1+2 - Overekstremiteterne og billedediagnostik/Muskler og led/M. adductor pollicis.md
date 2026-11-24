@@ -3,12 +3,12 @@
 
 ### Lokation
 - Hvor er m. adductor pollicis overordnet?:: Thenar (tommelfingerbaldens muskelgruppe)
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-28,65,310-->
 - Hvor dybt ligger m. adductor pollicis?
 
 ### Form
 - Hvilken form har m. adductor pollicis?:: Vifteformet
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-06,12,270-->
 
 ### Udspring
 - Hvor udspringer caput transversum af m. adductor pollicis?:: Palmare del af os metacarpale III

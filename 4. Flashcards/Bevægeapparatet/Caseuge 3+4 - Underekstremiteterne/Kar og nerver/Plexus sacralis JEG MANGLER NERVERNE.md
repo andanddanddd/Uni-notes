@@ -2,7 +2,7 @@
 
 - Hvilke rygmarvsniveuer afgver fibre til plexus sacralis?:: L4-S4
 - Hviklen "type" spinalnerver afgiver fibre til plexus sacralis?:: Rami ventralis
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvad hedder de 5 nerver der afgår fra plexus sacralis?
 ?
 - [[N. gluteus superior]]

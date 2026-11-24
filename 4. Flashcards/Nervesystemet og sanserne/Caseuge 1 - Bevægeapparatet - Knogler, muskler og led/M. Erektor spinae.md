@@ -30,7 +30,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. erektor spinae?:: Ekstension af ryggen
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvad gør m. erektor spinae?:: Holder os oprejst
 <!--SR:!2026-12-07,14,290-->
 

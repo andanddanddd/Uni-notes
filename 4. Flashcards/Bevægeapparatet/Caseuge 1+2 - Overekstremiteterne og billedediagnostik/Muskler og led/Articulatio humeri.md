@@ -21,7 +21,7 @@
 
 - Hvad består den ydre ledskål af art. humeri af?:: Acromion og processus coracoideus (se [[Scapula]]) samt [[Ligamentum coracoacrominale]]
 - Hvilke strukture agere "ydre ledhule"?:: Bursa subacrominalis og bursa subdeltoidea
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2026-12-27,33,270-->
 
 ### Funktion
 - Hvilke 3 frihedsgrader har articulatio humeri?

@@ -1,6 +1,6 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor er lig. arcuatum pubis?:: Under [[Symphysis pubica]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-28,65,310-->
 - Hvilken form har lig. arcuatum pubis?:: Bueformet
 <!--SR:!2026-11-24,14,290-->

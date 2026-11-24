@@ -23,3 +23,7 @@
 	- [ ] Ældre bruger mest hofte og skridtsrategien hvilket øger risikoen for fald
 - [ ] Balance bliver værre under smerte
 	- [ ] Medmindre de har en laser på hovedet? (noget med at nogle sanser tager over for nogle andre, hvilket ældre ikke kan)
+
+![[Hoftefraktur]]
+
+![[Knæluksation]]

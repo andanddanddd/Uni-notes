@@ -12,7 +12,7 @@
 ![[Pasted image 20261116114125.png]]8?:: Margo inf.
 <!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261116114125.png]]9?:: Processus coracoideus
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-27,3,250-->
 ![[Pasted image 20261116114125.png]]10?:: Caput humeri
 <!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261116114125.png]]11?:: Lig.. glenohumeralia

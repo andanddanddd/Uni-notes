@@ -10,7 +10,7 @@
 <!--SR:!2026-12-09,16,290-->
 - Hvor dybt ligger m. iliocostalis?:: Superficielt af de dybe rygmuskler
 - Hvor er m. iliocostalis i forhold til de andre dele af m. erektor spinae?:: Lateralt
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-09,15,290-->
 
 ### Form
 - Hvilken form har m. iliocostalis?

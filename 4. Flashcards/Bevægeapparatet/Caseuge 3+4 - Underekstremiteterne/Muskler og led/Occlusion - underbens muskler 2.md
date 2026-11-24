@@ -13,7 +13,7 @@
 ![[Underbenets muskler 2|550]]G?:: [[M. tibialis anterior]]
 ![[Underbenets muskler 2|550]]H?:: [[M. extensor digitorum longus]]
 ![[Underbenets muskler 2|550]]I?:: Øvre extensorretinakkel
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-10,16,290-->
 ![[Underbenets muskler 2|550]]J?:: Nedre extensorretinakel
 <!--SR:!2026-12-07,14,290-->
 

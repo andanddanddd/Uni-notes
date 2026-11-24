@@ -17,7 +17,7 @@
 - Hvor udspringer m. extensor digitorum brevis?:: Lateralt på [[Calcaneus]] dorsalflade
 #### Insertion
 - Hvor har m. extensor digitorum brevis insertion?:: De 4 mediale tær (phanlanx mediale på 3/4 og phalanx proximale på storetåen)
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-03,9,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum brevis?:: Ekstension af de 4 mediale tær

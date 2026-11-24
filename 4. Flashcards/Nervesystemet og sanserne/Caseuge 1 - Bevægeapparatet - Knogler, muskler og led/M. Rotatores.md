@@ -2,7 +2,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. rotatores?:: [[Mm. Transversospinalis]]
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-05,11,270-->
 - Hvor dybt ligger m. rotatores?:: Dybest
 <!--SR:!2026-12-07,14,290-->
 

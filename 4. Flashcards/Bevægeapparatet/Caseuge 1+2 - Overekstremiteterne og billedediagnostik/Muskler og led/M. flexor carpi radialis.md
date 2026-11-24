@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. flexor carpi radialis?:: Caput commune fexorum (epicondylus medialis)
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-22,59,310-->
 
 ### Insertion
 - Hvor har m. flexor carpi radialis insertion?:: Basis af os metacarple II på siden på håndfladen (på den proximale del af mellemhånsknoglen til pegefingeren)

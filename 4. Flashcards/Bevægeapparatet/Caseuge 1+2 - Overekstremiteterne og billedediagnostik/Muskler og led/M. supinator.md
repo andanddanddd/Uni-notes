@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. supinator overordnet?:: Dorsalt på underarmen
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-29,66,310-->
 - Hvor dybt ligger m. supinator?:: Sybt
 <!--SR:!2026-11-25,6,250-->
 

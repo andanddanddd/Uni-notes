@@ -4,11 +4,11 @@
 ### Lokation
 - Hvor er m. flexor pollicis brevis overordnet?:: Thenar (tommelfingerbaldens muskelgruppe)
 - Hvor dybt ligger m. flexor pollicis brevis?:: Superficielt (men delvist dækket af [[M. abductor pollicis brevis]])
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,14,290-->
 
 ### Form
 - Hvilken form har m. flexor pollicis brevis?:: Kort
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-27,64,310-->
 
 ### Udspring
 - Hvor udspringer m. flexor pollicis brevis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])

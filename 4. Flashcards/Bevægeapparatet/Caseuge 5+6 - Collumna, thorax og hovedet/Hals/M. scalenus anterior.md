@@ -4,7 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. scalenus ant.?:: Scalendergruppen af de dybe halsmuskler
 - Hvor dybt ligger m. scalenus ant:: Dybt (overfladisk nedadtil)
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-08,14,290-->
 
 ### Form
 - Hvilken form har m. scalenus ant.?

@@ -7,7 +7,7 @@
 <!--SR:!2026-11-20,4,270-->
 ![[Lårmuskler 4|600]]B?:: [[M. gracilis]]
 ![[Lårmuskler 4|600]]C?:: [[M. semitendinosus]]
-<!--SR:!2026-11-22,6,230-->
+<!--SR:!2026-12-15,21,250-->
 ![[Lårmuskler 4|600]]D?:: [[M. semimembranosus]]
 ![[Lårmuskler 4|600]]E? (hvilket hoved?):: [[M. gastrocnemius]] caput mediale
 ![[Lårmuskler 4|600]]F?:: [[M. tensor fasciae latae]]

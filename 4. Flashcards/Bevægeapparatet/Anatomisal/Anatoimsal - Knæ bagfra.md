@@ -8,7 +8,7 @@
 <!--SR:!2026-11-30,11,270-->
 ![[Pasted image 20261111095300.png]]4?:: Meniscus medialis
 ![[Pasted image 20261111095300.png]]5?:: Condylus medialis tibiae
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111095300.png]]6?:: [[Tibia]]
 ![[Pasted image 20261111095300.png]]7?:: Facies poplitea femoris
 ![[Pasted image 20261111095300.png]]8?:: Condylus lateralis femoris

@@ -23,7 +23,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor digiti minimi?:: [[N. ulnaris]]
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-08,14,290-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. extensor digitorum insertion?::[[Ekstensoraponeurosen]] på de 4 ulane fingre
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-30,67,310-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum?:: Ekstension af de 4 ulanre fingre samt håndled

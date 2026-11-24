@@ -13,7 +13,7 @@
 ![[Halsmuskler 2|700]]G?:: [[M. mylohyoideus]]
 ![[Halsmuskler 2|700]]H?:: [[Os. hyoideum]]
 ![[Halsmuskler 2|700]]I?:: [[M. thyrohyoideus]]
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-27,3,230-->
 ![[Halsmuskler 2|700]]J?:: Cartilago thyroidea
 ![[Halsmuskler 2|700]]K?:: [[M. sternothyroideus]]
 

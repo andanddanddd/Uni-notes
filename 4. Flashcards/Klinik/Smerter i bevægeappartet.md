@@ -8,6 +8,6 @@
 <!--SR:!2026-12-08,15,290-->
 
 - Hvordan beskriver patienter typisk smerter der kommer fra knogler?:: Borende
-<!--SR:!2026-11-24,15,290-->
+<!--SR:!2027-01-23,60,310-->
 - Hvordan beskriver patienter typisk smerter fra frakture?:: Skarpe og jagende
 - Hvordan beskriver patienter typisk smerter fra muskler?:: Dybe og diffuse

@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. obliquus capitis superior?:: [[Mm. suboccipitales]]
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-11-26,2,250-->
 - Hvor dybt ligger mm. obliquus capitis superior?
 
 ### Form
@@ -14,7 +14,7 @@
 - Hvor udspringer mm. obliquus capitis superior?:: [[Tværtappe]]ne på [[Atlas]] (C1)
 #### Insertion
 - Hvor har mm. obliquus capitis superior insertion?:: Squarma occipitales (lateralt for [[M. rectus capitis posterior major]], se [[Os occipitale]])
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-25,1,210-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. obliquus capitis superior?

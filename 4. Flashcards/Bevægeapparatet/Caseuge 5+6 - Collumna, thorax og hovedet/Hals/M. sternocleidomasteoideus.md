@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. sternocleidomasteoideus når hele 1 m. sternocleidomasteoideus kontrahere?::Hovedet flekteres mod siden der kontrahere, samtidig roteres hovedet den modsatte vej
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-09,15,290-->
 - Hvilken bevægelser sker når begge m. sternocleidomasteoideus kontrahere samtidigt?
 ?
 - Hovedet flyttes fremad (ved oprejst stilling)

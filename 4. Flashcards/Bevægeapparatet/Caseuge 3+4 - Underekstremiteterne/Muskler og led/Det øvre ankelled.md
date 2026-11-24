@@ -18,7 +18,7 @@
 <!--SR:!2026-11-28,9,250-->
 - Hvilke strukture sikre at det øvre ankelled ikke bevæger sig fra side til side?:: Malleoserne og de kollaterale ligamenter 
 - Hvad kaldes det mediale kollaterale ligament i det øvre ankelled?:: [[Lig. deltoideum]]
-<!--SR:!2026-11-19,1,230-->
+<!--SR:!2026-11-27,3,250-->
 - Hvad kaldes de 3 laterale kollaterale ligamenter i det øvre ankelled?
 ?
 - [[Lig. talofibulare anterius]]
@@ -28,7 +28,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan det øvre ankelled lave?:: Fleksion-ekstension (dorsalfelktion-plantarfleksion)
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvordan sikres at ddet øvre ankelled agere hængselsled?:: Føringskam (tibia) og føringsfure (talus)
 
 ### Klinik

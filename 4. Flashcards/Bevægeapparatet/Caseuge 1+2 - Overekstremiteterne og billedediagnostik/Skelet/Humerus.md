@@ -10,7 +10,7 @@
 - Hvad kaldes skaftet af humerus?:: **Corpus humeri**
 <!--SR:!2026-11-27,16,290-->
 	- Hvilken form har den proxiamle del af corpus humeri?:: Cylinderformet
-<!--SR:!2026-11-15,16,290-->
+<!--SR:!2027-01-27,64,310-->
 	- Hvilken form har den distale del af corpus humeri?:: Trekantet (prisme)
 <!--SR:!2027-01-17,65,310-->
 	- Hvad kaldes muskelsporet der findes lateralt på corpus humeri?:: Tuberositas deltoidea

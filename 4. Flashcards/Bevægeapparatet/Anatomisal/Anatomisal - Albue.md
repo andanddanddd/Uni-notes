@@ -6,7 +6,7 @@
 ![[Pasted image 20261111100437.png]]2?:: Ulna
 <!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261111100437.png]]3?:: Humerus
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111100437.png]]4?:: Capitulum humeri
 <!--SR:!2026-11-26,3,250-->
 ![[Pasted image 20261111100437.png]]5?:: Trochlea humeri
@@ -15,8 +15,8 @@
 ![[Pasted image 20261111100437.png]]8?:: Epicondylus medialis
 ![[Pasted image 20261111100437.png]]9?:: Epicondylus lateralis
 ![[Pasted image 20261111100437.png]]10?:: Capsula articularis
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-06,12,270-->
 ![[Pasted image 20261111100437.png]]11?:: Processus coronoideus
 <!--SR:!2026-11-21,5,230-->
 ![[Pasted image 20261111100437.png]]12?:: Crista supracondylaris lateralis
-<!--SR:!2026-11-21,2,230-->
+<!--SR:!2026-11-29,5,230-->

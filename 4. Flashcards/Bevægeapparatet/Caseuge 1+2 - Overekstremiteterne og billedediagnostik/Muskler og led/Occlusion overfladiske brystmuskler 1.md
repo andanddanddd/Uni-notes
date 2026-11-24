@@ -13,7 +13,7 @@
 ![[Overfladiske brystmuskler 1]]D ?:: [[M. biceps brachii]] (Caput longum/breve)
 <!--SR:!2026-12-18,39,290-->
 ![[Overfladiske brystmuskler 1]]E?:: [[M. serratus ant]]
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-25,62,310-->
 ![[Overfladiske brystmuskler 1]]F?:: M. intercostales ext
 <!--SR:!2026-12-18,39,290-->
 ![[Overfladiske brystmuskler 1]]G?:: Trigonum clavipectorale

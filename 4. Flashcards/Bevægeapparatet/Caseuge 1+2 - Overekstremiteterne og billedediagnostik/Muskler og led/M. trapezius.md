@@ -5,7 +5,7 @@
 - Hvor er m. trapezius overordnet?:: Øverste del af ryggen
 <!--SR:!2027-01-22,64,310-->
 - Hvor dybt ligger m. trapezius?:: Superficielt
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-24,61,310-->
 ### Form
 - Hvilken form har m- trapezius?:: Det danner en rombe hvis man kigger på begge sider på en gang
 <!--SR:!2027-01-17,61,310-->

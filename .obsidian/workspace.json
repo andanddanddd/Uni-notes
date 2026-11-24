@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Plexus brachialis.md",
+                "file": "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underekstremiteternes skelet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,49 +29,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plexus brachialis"
+              "title": "Underekstremiteternes skelet"
             }
           },
           {
-            "id": "0a225f53748a0287",
+            "id": "09495eb34a417361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostalis intimus.md",
+                "file": "Knæluksation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M. intercostalis intimus"
-            }
-          },
-          {
-            "id": "2208a933f525b532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOOSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FOOSH"
-            }
-          },
-          {
-            "id": "62923becf17af5e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Articulatio radiocarpalis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Articulatio radiocarpalis"
+              "title": "Knæluksation"
             }
           }
         ],
@@ -95,31 +67,19 @@
             }
           },
           {
-            "id": "02606f6c7c3260ef",
+            "id": "1bbdf9dc827458cf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf"
+                "file": "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Slides - Systematic anatomy__Tong Tong"
-            }
-          },
-          {
-            "id": "dfae30c80249af6d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE __Clinical Problem Teaching_2_Tong Tong.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Slides - 20261103_OE __Clinical Problem Teaching_2_Tong Tong"
+              "title": "Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,40 +265,44 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0620d66ef0f3a4b2",
+  "active": "09495eb34a417361",
   "lastOpenFiles": [
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitet – Kliniske problemstil-linger.md",
+    "Knæluksation.md",
+    "Hoftefraktur.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Underekstremiteternes skelet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Knogler/Fibula.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitetens anatomi.md",
+    "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123104845.png",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Tinels tegn.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Burititis af bursaer i skudleren.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Plexus brachialis.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE __Clinical Problem Teaching_2_Tong Tong.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/M. intercostalis intimus.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/Plexus brachialis.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. medianus.md",
-    "Kliniske problemstillinger i hånden og håndledet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Kliniske problemstillinger i hånden og håndledet.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne/Forelæsning - Overekstremitet - Kliniske problemstillinger.md",
-    "Karpaltunnelsyndrom.md",
-    "Seneafrivning i hånden.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Karpaltunnelsyndrom.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Seneafrivning i hånden.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Bursa manus.md",
-    "Dupuytrens kontraktur.md",
-    "Klinsike problemstillinger i skulderen.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Dupuytrens kontraktur.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Klinsike problemstillinger i skulderen.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. biceps brachii.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. triceps brachii.md",
     "4. Flashcards/Nervesystemet og sanserne/Caseuge 1 - Bevægeapparatet - Knogler, muskler og led/Fibertyper.md",
-    "Skulderluxation.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Skulderluxation.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/M. supraspinatus.md",
-    "Burititis af bursaer i skudleren.md",
-    "Kliniske problemstillinger i albuen.md",
-    "Colles fraktur.md",
-    "FOOSH.md",
-    "Os scaphoideum fraktur.md",
-    "Durkans test.md",
-    "Tinels tegn.md",
-    "Phalens test.md",
-    "Pasted image 20261123104845.png",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. ulnaris.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Kar og nerver/N. radialis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Kliniske problemstillinger i albuen.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/Colles fraktur.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik/FOOSH.md",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - Systematic anatomy__Tong Tong.pdf",
-    "Pasted image 20261123100131.png",
+    "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123100131.png",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - 20261120_Truncus_Tong Tong.pdf",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf",
@@ -350,8 +314,6 @@
     "Billeder/Bevægeapparatet/Thorax/ribben 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax",
     "Excalidraw/Bevægeapparatet/Thorax",
-    "Billeder/Bevægeapparatet/Thorax",
-    "Externe dokumenter/Bevægeapparatet/Slides - Kommunikation_og_klinisk_integration DCA.pdf",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 3.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 2.png",

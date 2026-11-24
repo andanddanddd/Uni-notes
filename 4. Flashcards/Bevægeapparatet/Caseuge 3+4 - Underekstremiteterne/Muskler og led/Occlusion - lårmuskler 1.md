@@ -7,7 +7,7 @@
 ![[Lårmuskler 1|600]]C?:: Spina iliaca ant. sup.
 <!--SR:!2026-11-22,4,270-->
 ![[Lårmuskler 1|600]]D?:: [[M. tensor fasciae latae]]
-<!--SR:!2026-11-21,5,230-->
+<!--SR:!2026-12-11,17,250-->
 ![[Lårmuskler 1|600]]E?:: [[Tractus iliotibialis]]
 ![[Lårmuskler 1|600]]F?:: [[M. rectus femoris]]
 <!--SR:!2026-11-29,12,230-->

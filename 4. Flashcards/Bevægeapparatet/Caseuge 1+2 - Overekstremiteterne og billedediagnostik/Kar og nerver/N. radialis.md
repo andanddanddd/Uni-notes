@@ -6,6 +6,6 @@
 <!--SR:!2026-11-27,8,250-->
 - Hvilken motorisk funktion har n. radialis?:: Innervation af ekstensorene på både over og underarm
 - Hvilken sensorisk funktion har n. radialis?:: Både dele af over og underarm samt hånd
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-27,3,250-->
 
 - Hvordan præsentere en patient med skade på n. radialis sig typisk?:: Pt kan ikke ekstendere håndled og fingre

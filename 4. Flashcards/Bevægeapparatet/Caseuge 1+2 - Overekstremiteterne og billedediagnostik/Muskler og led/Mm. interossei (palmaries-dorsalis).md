@@ -21,7 +21,7 @@
 ### Insertion
 - Hvor har mm. interossei palmaries insertion?:: Væk fra finger 3 (dvs siden mod finger 3)
 - Hvor har mm. interossei dorsalis insertion?:: hen mod finger 3 (dvs siden væk fra finger 3)
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-06,12,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei palmaries?:: Samle de ulnare fingre (samt precisionsgreb)
@@ -29,11 +29,11 @@
 - Hvilke bevægelser udfører mm. interossei dorsalis?:: sprede de ulnare fingre (samt precisionsgreb)
 <!--SR:!2027-01-07,45,290-->
 - Hvilken gruppe af mm. interossei er kraftigst?:: mm. interossei dorsalis
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-09,15,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere mm. interossei palmaries/dorsalis?:: [[N. ulnaris]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-28,65,310-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

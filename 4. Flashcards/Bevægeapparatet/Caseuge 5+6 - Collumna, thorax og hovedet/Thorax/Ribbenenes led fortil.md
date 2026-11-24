@@ -2,10 +2,10 @@
 
 
 - Hvilken ledtype forbinder costa I med sternum?:: Primær [[Synchondroser]]
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-08,14,290-->
 - Hvilket ribben hæfter på den øvertse incisurae costales?:: Costa II
 - Hvilket ribben hæfter på den nederste incisurae costales?:: Costa VI
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-09,15,290-->
 - Hvor på sternum hæfter costa VII?:: Overgangen mellem corpus sterni og processus xipoideus
 - Hviken ledtype er ledet mellem [[Ribbenene]] og [[Sternum]]?:: Ægte led (glideled nok)
 

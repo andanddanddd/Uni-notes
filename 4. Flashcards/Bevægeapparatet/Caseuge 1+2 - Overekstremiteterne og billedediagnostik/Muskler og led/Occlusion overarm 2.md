@@ -12,7 +12,7 @@
 ![[Overarm muskler 2]]D?:: [[M. teres minor]]
 <!--SR:!2026-12-30,44,290-->
 ![[Overarm muskler 2]]E?:: [[M. teres major]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-26,63,310-->
 ![[Overarm muskler 2]]F?:: [[M. triceps brachii]]
 <!--SR:!2027-01-24,66,310-->
 ![[Overarm muskler 2]]G?:: [[M. anconeus]]

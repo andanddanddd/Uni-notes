@@ -6,7 +6,7 @@
 ![[Femoris 1|600]]A?:: trochanter major
 <!--SR:!2026-12-08,15,290-->
 ![[Femoris 1|600]]B?:: Epicondylus medialis
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-30,67,310-->
 ![[Femoris 1|600]]C?:: [[Caput femoralis]]
 <!--SR:!2027-01-17,55,310-->
 ![[Femoris 1|600]]D?:: Collum femoris
@@ -16,7 +16,7 @@
 ![[Femoris 1|600]]F?:: Facies patellaris
 ![[Femoris 1|600]]G?:: Fovea capitis femoris
 ![[Femoris 1|600]]H?:: Trochanter minor
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-27,64,310-->
 ![[Femoris 1|600]]I?:: Linea pectinea
 <!--SR:!2026-11-20,4,270-->
 ![[Femoris 1|600]]J?:: Caput ossis femoris
@@ -29,13 +29,13 @@
 ![[Femoris 1|600]]N?:: Fossa trochanterica
 <!--SR:!2026-12-07,26,270-->
 ![[Femoris 1|600]]O?::Crista intertrochanterica
-<!--SR:!2026-11-16,7,250-->
+<!--SR:!2026-12-12,18,250-->
 ![[Femoris 1|600]]P?:: Tuberosiras glutea
 <!--SR:!2026-11-18,7,250-->
 ![[Femoris 1|600]]Q?:: Labium laterale
 <!--SR:!2026-12-30,43,290-->
 ![[Femoris 1|600]]R?:: Facies poplitea
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-25,1,190-->
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 <!--SR:!2026-11-27,4,270-->
 ![[Femoris 1|600]]T?:: Condylus lateralis

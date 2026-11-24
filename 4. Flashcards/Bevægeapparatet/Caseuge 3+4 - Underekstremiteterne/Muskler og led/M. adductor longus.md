@@ -17,7 +17,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor longus?:: Adduction af hoften
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-08,14,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor longus?

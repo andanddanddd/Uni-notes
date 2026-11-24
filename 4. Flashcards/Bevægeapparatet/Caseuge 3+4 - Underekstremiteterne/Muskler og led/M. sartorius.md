@@ -18,7 +18,7 @@
 <!--SR:!2026-11-20,1,210-->
 #### Insertion
 - Hvor har m. sartorius insertion?:: Foreste øverste del af [[Tibia]]s medialflade
-<!--SR:!2026-11-24,7,250-->
+<!--SR:!2026-11-28,4,230-->
 
 ### Funktion
 - Hvordan kan bevægelserne af m. sartorius huskes?:: Kig under en sko mens man står på et ben

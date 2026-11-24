@@ -44,9 +44,9 @@
 		- Hvad hedder de ru felt i den proximale labium laterale?:: Tuberositas gluteus (oss9s femoris)
 <!--SR:!2026-11-22,3,250-->
 			- Hvad er formålet med tuberositas gluteus?:: Muskelhæftning
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvordan er den distale ekstremitet af femoris overordnet opbygget?:: Af 2 fremspring
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvad hedder de 2 fremspring på den distale ekstremitet af femoris?:: Condylus medialis/lateralis
 	- Hvor er de 2 condylus sammenhængende?:: Fortil
 	- Hvad hedder strukturen der adskiller de 2 condylus bagtil?:: Fossa intercondylaris

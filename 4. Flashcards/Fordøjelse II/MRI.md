@@ -9,7 +9,7 @@ Man måler vist på hvornår spin vender tilabge til uordnet
 <!--SR:!2027-01-22,63,310-->
 
 - Hvilke fordele har MRI?:: Ingen ioniserende stråling og god til bløddele
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-18,55,310-->
 - Hvornår må MRI ikke laves?:: Når pt har implantationer
 <!--SR:!2026-12-31,56,310-->
 - Hvorfår får alle pt ikke MRI?:: Det er dyrt og claustrofobisk (og tager lang tid)

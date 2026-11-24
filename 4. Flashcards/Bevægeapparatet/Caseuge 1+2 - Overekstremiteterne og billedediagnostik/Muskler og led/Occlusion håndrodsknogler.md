@@ -37,7 +37,7 @@
 ![[Hånd(knogle) anatomi 1]]6?:: Os trapezoideum
 <!--SR:!2027-01-05,55,310-->
 ![[Hånd(knogle) anatomi 1]]7?:: Os capitatum
-<!--SR:!2026-11-19,6,250-->
+<!--SR:!2026-12-10,16,250-->
 ![[Hånd(knogle) anatomi 1]]8?:: Os hamatum
 <!--SR:!2026-12-04,16,290-->
 
@@ -47,7 +47,7 @@
 ![[Hånd(knogler) anatomi 2]]A?:: Caput
 <!--SR:!2027-01-15,63,310-->
 ![[Hånd(knogler) anatomi 2]]B?:: Corpus
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-30,67,310-->
 ![[Hånd(knogler) anatomi 2]]C?:: Basis
 <!--SR:!2027-01-19,67,310-->
 ![[Hånd(knogler) anatomi 2]]D?:: Hamulus ossis hamati

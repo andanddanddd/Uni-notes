@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. anconeus overordnet?:: Dorsalt på underarmen
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-30,67,310-->
 - Hvor dybt ligger m. anconeus?:: Superficielt
 <!--SR:!2026-12-19,33,270-->
 

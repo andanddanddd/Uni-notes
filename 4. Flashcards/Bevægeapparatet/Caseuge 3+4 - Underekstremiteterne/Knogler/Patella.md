@@ -8,7 +8,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvilken overordnet form har patella?:: Lille trekant
-<!--SR:!2026-11-20,11,270-->
+<!--SR:!2027-01-04,41,290-->
 - Hvilken form har pattelas ledflade?:: der er en føringskam i midten (langt breds fremspring)
 <!--SR:!2026-11-27,4,270-->
 

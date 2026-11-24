@@ -10,7 +10,7 @@
 
 ### Forløb
 - Hvilken kulisse løber m. tibilias ant. igennem?:: 1. kulisse (se [[Retinaculum musculorum extensorum inferius]])
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 #### Udspring
 - Hvor udspringer m. tibialis ant.?
 ?

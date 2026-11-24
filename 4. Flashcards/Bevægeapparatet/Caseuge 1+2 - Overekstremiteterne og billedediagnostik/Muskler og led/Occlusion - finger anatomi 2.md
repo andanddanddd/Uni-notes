@@ -6,4 +6,4 @@
 ![[Finger - anatomi 2]]B?:: [[Mm. interossei (palmaries-dorsalis)]] (dorsalis)
 <!--SR:!2026-12-08,26,270-->
 ![[Finger - anatomi 2]]C?:: [[M. extensor digitorum]] (sene)
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->

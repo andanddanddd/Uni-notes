@@ -2,7 +2,7 @@
 
 ### Ledtype
 - Hvilken ledtype er art. intercarpales?:: Ægte [[Glideled]]
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-09,15,290-->
 
 ### Ledflader
 Hvilke knogler danner ledflader i art. intercarpales?:: Alle [[Håndroden]]s knogler

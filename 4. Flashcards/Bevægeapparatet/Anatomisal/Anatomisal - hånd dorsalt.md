@@ -9,7 +9,7 @@
 ![[Pasted image 20261111095655.png]]5?:: Phalanx distalis I
 <!--SR:!2026-12-09,16,290-->
 ![[Pasted image 20261111095655.png]]6?:: Membrana interossea antebrachii
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111095655.png]]7?:: Ulna
 ![[Pasted image 20261111095655.png]]8?:: Caput ulna
 <!--SR:!2026-12-07,14,290-->

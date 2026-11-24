@@ -1,4 +1,4 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken funktion har lig. tibiofibulare post:: Holde malleus lateralis ind til tibia og dermed give stabilitet til [[Det øvre ankelled]]
-<!--SR:!2026-11-24,7,250-->
+<!--SR:!2026-12-20,26,270-->

@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. obturatus externus overordnet?
 - Hvor dybt ligger m. obturatus externus?:: Dybt
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 
 ### Form
 - Hvilken form har m. obturatus externus?:: Flad vifteformet

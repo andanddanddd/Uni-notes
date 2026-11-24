@@ -13,7 +13,7 @@
 <!--SR:!2026-12-15,29,270-->
 ![[Hånd anatomi 1]]E?:: [[Mm lumbricales]]
 ![[Hånd anatomi 1]]F?:: [[Retinaculum flexorum]]
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-25,62,310-->
 ![[Hånd anatomi 1]]G?:: [[M. flexor pollicis longus]] (sene)
 <!--SR:!2026-12-21,39,290-->
 ![[Hånd anatomi 1]]H?:: [[M. flexor digitorum profundus]] (sene)

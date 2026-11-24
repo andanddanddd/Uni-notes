@@ -20,7 +20,7 @@
 - Proximale dele af [[Fibula]]
 #### Insertion
 - Hvor har m. extensor digitorum longus insertion?:: "Ekstensoraponeurose" på de 4 laterale tær
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-06,12,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digitorum longus?

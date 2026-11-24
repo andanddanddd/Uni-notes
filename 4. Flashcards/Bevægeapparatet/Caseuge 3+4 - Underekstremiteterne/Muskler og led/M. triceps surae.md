@@ -10,7 +10,7 @@
 
 ### Forløb
 - Hvad hedder de 2 dele af m. triceps surae?:: 2 [[M. gastrocnemius]] og en [[M. soleus]]
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-10,16,290-->
 #### Udspring
 - Hvor udspringer m. triceps surae?
 #### Insertion

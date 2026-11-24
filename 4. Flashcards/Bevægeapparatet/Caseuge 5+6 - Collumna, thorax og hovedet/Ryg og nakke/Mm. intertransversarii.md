@@ -15,7 +15,7 @@
 <!--SR:!2026-11-27,4,270-->
 #### Insertion
 - Hvor har mm. intertransversarii insertion?:: [[Tværtappe]]
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-27,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. intertransversarii?

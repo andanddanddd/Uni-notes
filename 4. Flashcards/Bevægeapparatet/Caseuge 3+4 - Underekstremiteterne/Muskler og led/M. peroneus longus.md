@@ -11,7 +11,7 @@
 
 ### Forløb
 - Hvordan er det overordnede forløb af m. peroneus longus?:: Det går fra lateralsiden af underbenet ned omkring hælen for at hæfte under foden
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-12-11,17,250-->
 #### Udspring
 - Hvor udspringer m. peroneus longus?:: Caput fibulae (se [[Fibula]]), proximale del af fibulas lateralflade samt fascia cruris
 #### Insertion

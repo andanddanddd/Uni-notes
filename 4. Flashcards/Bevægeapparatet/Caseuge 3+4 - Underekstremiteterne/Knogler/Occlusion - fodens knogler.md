@@ -4,7 +4,7 @@
 
 
 ![[Fodens knogler 1|600]]A?:: [[Os cuneiforme laterale]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-10,16,290-->
 ![[Fodens knogler 1|600]]B?:: [[Os cuneiforme intermedium]]
 <!--SR:!2026-11-27,4,270-->
 ![[Fodens knogler 1|600]]C?:: [[Os cuneiforme mediale]]
@@ -22,11 +22,11 @@
 ![[Fodens knogler 1|600]]J?:: Phalanc distalis
 <!--SR:!2026-11-26,15,290-->
 ![[Fodens knogler 1|600]]K?:: Digitus minimus
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-12-20,26,270-->
 ![[Fodens knogler 1|600]]L?:: Digitus medius
 <!--SR:!2026-12-15,22,250-->
 ![[Fodens knogler 1|600]]M?:: Processus posterior tali
-<!--SR:!2026-11-23,4,230-->
+<!--SR:!2026-12-03,9,230-->
 ![[Fodens knogler 1|600]]N?:: Trochlea tali
 <!--SR:!2026-11-29,13,230-->
 ![[Fodens knogler 1|600]]O?:: Caput tali

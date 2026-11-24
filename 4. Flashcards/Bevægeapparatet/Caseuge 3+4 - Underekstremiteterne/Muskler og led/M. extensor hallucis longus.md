@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor hallucis longus?:: Ekstension af storetåen og dorsiflektion af foden
-<!--SR:!2026-11-23,10,270-->
+<!--SR:!2027-01-01,38,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. extensor hallucis longus?

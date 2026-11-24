@@ -1,7 +1,7 @@
 #flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvor mange thoraxhvirvler har vi?:: 12
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvad hedder thoraxhvirvler på latin?:: Vertebrae thoracicae
 
 - Hvordan kan corpus vertebrae indentiviferes på thorakale rygvirler?:: Den er hjerteformen

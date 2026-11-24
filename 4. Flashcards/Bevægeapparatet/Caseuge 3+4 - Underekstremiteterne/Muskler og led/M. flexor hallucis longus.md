@@ -18,7 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor hallucis longus?:: Fleksion af storetåen, plantarflektion og inversion af foden
-<!--SR:!2026-11-19,3,250-->
+<!--SR:!2026-12-06,12,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor hallucis longus?

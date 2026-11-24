@@ -9,12 +9,12 @@
 ![[Pasted image 20261111100250.png]]4?:: Ossa metacarpi [metacarpalia]
 ![[Pasted image 20261111100250.png]]5?:: Retinaculum mm. flexorum
 ![[Pasted image 20261111100250.png]]6?:: Tuberculum os trapezii
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-26,2,210-->
 ![[Pasted image 20261111100250.png]]7?:: Os pisiforme
 <!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261111100250.png]]8?:: Phalanges proximales
 ![[Pasted image 20261111100250.png]]9?:: Phalanges mediae
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-08,14,290-->
 ![[Pasted image 20261111100250.png]]10?:: Phalanges distales
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261111100250.png]]11?:: Os lunatum

@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilke tær er hhv tibiale og fibulære?:: I-III er tibiale mens IV+V er fibuare
-<!--SR:!2026-11-24,15,290-->
+<!--SR:!2027-01-05,42,290-->
 - Hvad hedder de 3 typer af knogler i fodens skelet?
 ?
 - [[Ossa tarsi]]

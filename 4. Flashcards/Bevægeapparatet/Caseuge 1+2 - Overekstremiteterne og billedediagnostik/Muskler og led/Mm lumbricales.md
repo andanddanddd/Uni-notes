@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor maneg mm. lumbricales har vi?:: 4
-<!--SR:!2026-11-17,12,270-->
+<!--SR:!2027-01-09,46,290-->
 ### Lokation
 - Hvor er mm. lumbricales overordnet?:: Mellem fingerne palmart
 <!--SR:!2026-11-20,15,290-->
@@ -15,7 +15,7 @@
 
 ### Udspring
 - Hvor udspringer de 2 radiale mm. lumbricales?:: Radialsiden af senerne i 2. og 3. finger (sener fra [[M. flexor digitorum profundus]])
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-24,61,310-->
 - Hvor udspringer de 2 ulnare mm. lumbricales?:: Randene til senerne på finger 2,3,4
 <!--SR:!2027-01-20,58,310-->
 

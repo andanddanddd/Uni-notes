@@ -10,7 +10,7 @@
 - Hvad kaldes de 2 store dele af den proximale ekstremitet af tibia?:: Condylus medialis/lateralis
 	- Hvad hedder ledfladerne på condylus medialis/lateralis?:: [[Facies artikularis superior]]
 	- Hvilken condyl artykulere med [[Fibula]]?:: Condylus lateralis
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 - Hvilken form har corput tibia?:: Trekantet (prisme)
 <!--SR:!2026-11-22,16,290-->
 	- Hvad hedder de 3 kanter på corpus tibia?:: Margo anterior/lateralis/interosseus

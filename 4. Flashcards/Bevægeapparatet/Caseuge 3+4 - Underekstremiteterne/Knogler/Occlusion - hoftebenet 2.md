@@ -5,7 +5,7 @@
 ![[Hoftebenet 2|700]]A?:: Crista iliaca
 <!--SR:!2027-01-28,66,310-->
 ![[Hoftebenet 2|700]]B?:: Facies glutea
-<!--SR:!2026-11-24,14,290-->
+<!--SR:!2027-01-20,57,310-->
 ![[Hoftebenet 2|700]]C?:: Spina iliaca post. sup
 <!--SR:!2026-12-08,15,290-->
 ![[Hoftebenet 2|700]]D?:: Incisura ischiadica major

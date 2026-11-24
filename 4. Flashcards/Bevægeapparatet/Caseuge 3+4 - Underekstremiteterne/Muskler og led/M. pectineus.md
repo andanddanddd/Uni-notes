@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. pectinus overordnet?:: Lårets mediale muskelgruppe
 - Hvor dybt ligger m. pectinus?:: Superficielt
-<!--SR:!2026-11-24,7,250-->
+<!--SR:!2026-12-13,19,250-->
 
 ### Form
 - Hvilken form har m. pectinus?:: Flad firkantet
