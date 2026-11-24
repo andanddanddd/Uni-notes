@@ -6,7 +6,7 @@
       {
         "id": "15c23a5854216dd3",
         "type": "tabs",
-        "dimension": 37.979601748421565,
+        "dimension": 55.85379782981153,
         "children": [
           {
             "id": "993248af6af8b58b",
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M. obliquus internus abdominis.md",
+                "file": "M. transversus abdominalis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "M. obliquus internus abdominis"
+              "title": "M. transversus abdominalis"
             }
           }
         ],
@@ -62,7 +62,7 @@
       {
         "id": "d6a845a27b882733",
         "type": "tabs",
-        "dimension": 62.020398251578435,
+        "dimension": 44.14620217018847,
         "children": [
           {
             "id": "714fcb5e056f2a6d",
@@ -278,35 +278,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "714fcb5e056f2a6d",
+  "active": "09495eb34a417361",
   "lastOpenFiles": [
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Bugvæggens muskler.md",
+    "M. transversus abdominalis.md",
     "M. obliquus internus abdominis.md",
-    "Bugvæggens muskler.md",
+    "Falx inguinalis.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenene.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Trendelenburg tegn.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Knæluksation.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Hånden.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik",
     "M. obliquus ext (abdominalis).md",
     "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Bugvæggen.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
-    "Kliniske problemer i anklen.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Kliniske problemer i anklen.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Forelæsning - Underekstremitet – Kliniske problemstil-linger.md",
-    "Compartment syndrom.md",
-    "Kliniske problemstillinger i hoften.md",
-    "Collum femoris fraktur.md",
-    "Hoftedysplasi.md",
-    "Kliniske problemstillinger i knæet.md",
-    "Tarsaltunnelsyndrom.md",
-    "Dropfod.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Compartment syndrom.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Kliniske problemstillinger i hoften.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Collum femoris fraktur.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Hoftedysplasi.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Kliniske problemstillinger i knæet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Tarsaltunnelsyndrom.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Dropfod.md",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
-    "Kliniske problemer i underbenet.md",
-    "Knæluksation.md",
-    "Piriformis-syndrom.md",
-    "Akilleseneruptur.md",
-    "Kliniske problemer i låret.md",
-    "Trendelenburg tegn.md",
-    "Kliniske problemer i foden.md",
-    "Pes planus.md",
-    "ACL skade.md",
-    "Fabella-syndrom.md",
-    "Osgood schlatter disease.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Kliniske problemer i underbenet.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Piriformis-syndrom.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Akilleseneruptur.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Kliniske problemer i låret.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Kliniske problemer i foden.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123104845.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE __Clinical Problem Teaching_2_Tong Tong.pdf",
@@ -322,7 +323,6 @@
     "Billeder/Bevægeapparatet/Thorax/ribbensmuskler 1.png",
     "Billeder/Bevægeapparatet/Thorax/ribben 1.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax",
-    "Excalidraw/Bevægeapparatet/Thorax",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 1.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 3.png",
     "Billeder/Bevægeapparatet/Ryg, nakke og hals/halsmuskler 2.png",
