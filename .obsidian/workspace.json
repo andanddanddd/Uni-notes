@@ -38,12 +38,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugvæggens muskler.md",
+                "file": "M. obliquus internus abdominis.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Bugvæggens muskler"
+              "title": "M. obliquus internus abdominis"
             }
           }
         ],
@@ -78,8 +88,7 @@
               "title": "Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,10 +278,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "09495eb34a417361",
+  "active": "714fcb5e056f2a6d",
   "lastOpenFiles": [
-    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Bugvæggen.md",
+    "M. obliquus internus abdominis.md",
     "Bugvæggens muskler.md",
+    "M. obliquus ext (abdominalis).md",
+    "4. Flashcards/Ernæring-Endokrinologi/Caseuge 2 - Det nedre fordøjelsessystem/Bugvæggen.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Truncus anatomi.md",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
     "Kliniske problemer i anklen.md",
@@ -296,8 +307,6 @@
     "ACL skade.md",
     "Fabella-syndrom.md",
     "Osgood schlatter disease.md",
-    "4. Flashcards/Genetik/Sekventeringsmetoder.md",
-    "Malleolus lateralis fraktur.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123104845.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik",
     "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE __Clinical Problem Teaching_2_Tong Tong.pdf",
