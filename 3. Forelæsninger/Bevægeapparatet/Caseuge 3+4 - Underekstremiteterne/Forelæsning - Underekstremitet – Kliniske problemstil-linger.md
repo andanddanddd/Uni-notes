@@ -26,4 +26,5 @@
 
 ![[Hoftefraktur]]
 
-![[Knæluksation]]
+![[Kliniske problemstillinger i knæet]]
+
