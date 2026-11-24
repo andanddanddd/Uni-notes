@@ -20,3 +20,5 @@
 ![[Ribbensmuskler]]
 
 ![[Diagfragma]]
+
+![[Bugvæggen]]
