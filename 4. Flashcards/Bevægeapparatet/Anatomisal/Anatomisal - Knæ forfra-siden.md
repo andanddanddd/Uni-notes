@@ -7,6 +7,7 @@
 <!--SR:!2026-12-02,15,290-->
 ![[Pasted image 20261111094249.png]]3?:: [[Lig. collaterale fibulare]]
 ![[Pasted image 20261111094249.png]]4?:: Meniscus lateralis
+<!--SR:!2026-11-27,3,250-->
 ![[Pasted image 20261111094249.png]]5?:: Condylus lateralis tibiae
 ![[Pasted image 20261111094249.png]]6?:: Caput fibulae
 <!--SR:!2026-11-24,4,270-->

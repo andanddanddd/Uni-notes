@@ -16,3 +16,4 @@
 <!--SR:!2026-11-21,4,270-->
 ![[Axis 1|700]]G?:: Facies articularis ant.
 ![[Axis 1|700]]H?:: Corpus vertebrae
+<!--SR:!2026-11-27,3,250-->

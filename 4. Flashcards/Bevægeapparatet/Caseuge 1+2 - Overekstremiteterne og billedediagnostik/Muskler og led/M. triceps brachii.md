@@ -34,6 +34,7 @@
 - Hvilken funktion har m. tricps brachii?:: Ekstension af albue og skulderled
 <!--SR:!2027-01-21,66,310-->
 - Hvilken fibertype er der særligt mange af i m. triceps brachii?:: Hvide fibre (se [[Fibertyper]])
+<!--SR:!2026-11-28,4,270-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

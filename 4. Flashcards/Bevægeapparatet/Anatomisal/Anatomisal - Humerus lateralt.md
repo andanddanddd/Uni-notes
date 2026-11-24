@@ -14,6 +14,7 @@
 ![[Pasted image 20261111102941.png]]7?:: Humerus
 <!--SR:!2026-11-30,14,290-->
 ![[Pasted image 20261111102941.png]]8?:: Capsula articularis
+<!--SR:!2026-11-27,3,250-->
 ![[Pasted image 20261111102941.png]]9?:: Capitulum humeri
 ![[Pasted image 20261111102941.png]]10?:: Lig?:: anulare radii
 <!--SR:!2026-11-28,4,270-->

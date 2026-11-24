@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. vastus medialis overordnet?:: Foran (og lidt bagpå) låret
+<!--SR:!2026-11-28,4,270-->
 - Hvor dybt ligger m. vastus medialis?:: Dybt
 <!--SR:!2026-11-26,16,290-->
 

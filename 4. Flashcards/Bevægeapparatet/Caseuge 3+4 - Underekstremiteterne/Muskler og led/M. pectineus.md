@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvor er m. pectinus overordnet?:: Lårets mediale muskelgruppe
+<!--SR:!2026-11-28,4,270-->
 - Hvor dybt ligger m. pectinus?:: Superficielt
 <!--SR:!2026-12-13,19,250-->
 

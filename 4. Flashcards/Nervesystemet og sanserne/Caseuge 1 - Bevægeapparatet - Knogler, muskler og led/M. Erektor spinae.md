@@ -3,6 +3,7 @@
 
 
 - Hvad betyder erector?:: Oprejser
+<!--SR:!2026-11-28,4,270-->
 - Hvilken af de 3 dele af erektor spinae er størst?:: Logissimus
 - Hvilke 3 dele består erektor spinae af?
 ?

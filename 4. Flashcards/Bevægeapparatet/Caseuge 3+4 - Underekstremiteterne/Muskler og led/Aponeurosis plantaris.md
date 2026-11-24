@@ -14,3 +14,4 @@
 
 - Hvor mange snipper deler aponeurosis plantaris sig i?:: 5
 - Hvad hedder ligamentet der afgrænser "ruderne" mellem snipperne af aponeurosis plantaris?:: [[Lig. metatarsale transversum superficiele]]
+<!--SR:!2026-11-27,3,250-->

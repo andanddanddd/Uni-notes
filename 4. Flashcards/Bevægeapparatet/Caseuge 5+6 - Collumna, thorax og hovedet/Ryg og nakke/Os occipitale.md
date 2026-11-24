@@ -7,6 +7,7 @@
 #### Placering og orientering
 #### Form og størrelse
 - Hvad hedder det store hul i os occipitale?:: [[Foramen magna]]
+<!--SR:!2026-11-28,4,270-->
 - Hvad hedder ledfladeren lateralt for foramen magnus?:: [[Condyli occipitales]]
 - Hvad hedder der strækker sig vertikalt lige over foramen magna?:: Crista occipitalis externa
 	- Hvor ender crista occipitalis externa opadtil?:: Protuberantia occipitalis externa

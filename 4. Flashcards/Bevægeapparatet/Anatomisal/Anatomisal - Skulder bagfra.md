@@ -9,3 +9,4 @@
 ![[Pasted image 20261112113841.png]]7?:: M. triceps brachii
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261112113841.png]]8?:: M. triceps brachii tendon
+<!--SR:!2026-11-27,3,250-->

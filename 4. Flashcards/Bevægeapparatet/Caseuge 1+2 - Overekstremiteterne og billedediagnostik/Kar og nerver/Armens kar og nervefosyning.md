@@ -14,6 +14,7 @@
 - Hvad hedder den sidste vene der dræner alt blod fra armen?:: [[V. axillaris]]
 
 - Hvor kommer nerverne til armen fra?:: [[Plexus brachialis]]
+<!--SR:!2026-11-28,4,270-->
 
 [[Occlusion - armens arterier 1]]
 [[Occlusion - armens arterier 2]]

@@ -54,6 +54,7 @@
 - [[M. extensor digitorum]]
 - [[M. extensor digiti minimi]]
 - [[M. extensor carpi ulnaris]]
+<!--SR:!2026-11-27,3,250-->
 
 - Hvilke muskler er der i den profunde extensergruppe?
 ?

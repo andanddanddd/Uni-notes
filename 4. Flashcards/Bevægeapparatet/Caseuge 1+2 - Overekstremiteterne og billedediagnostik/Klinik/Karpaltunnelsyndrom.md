@@ -2,6 +2,7 @@
 
 - Hvad er det primære symptom ved karpaltunnelsyndrom?:: Sovende fingre og muskelsvaghed
 - Hvornår er symptomerne i karpaltunnelsyndrom værst?:: Natten
+<!--SR:!2026-11-28,4,270-->
 - Hvordan lindres symptomerne ved karpaltunnelsyndrom?:: Ryster hånden
 - Hvem får oftest karpaltunnelsyndrom?:: Folk der laver gentagende bevægelser herunder madlavning og computerarbejde (kvinder oftere end mænd)
 - Hvilken nerve påvirkes under karpaltunnelsyndrom?:: [[N. medianus]]
@@ -10,6 +11,7 @@
 <!--SR:!2026-11-27,4,270-->
 - Hvordan behandles karpaltunnelsyndrom?:: Natlig skinne og evt opperation
 	- Hvordan opperes for karpaltunnelsyndrom?:: [[Retinaculum flexorum]] deles op
+<!--SR:!2026-11-28,4,270-->
 - Hvilke 3 specialtest kan laves for at diagnosticere karpaltunnelsyndrom?
 ?
 - [[Phalens test]]

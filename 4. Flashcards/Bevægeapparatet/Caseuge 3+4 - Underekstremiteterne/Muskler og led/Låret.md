@@ -19,6 +19,7 @@
 <!--SR:!2026-11-26,7,250-->
 
 - Hvilken form har lårets mediale muskelgruppe sammen?:: Trekant der udfylder hullet mellem femoris og hoften
+<!--SR:!2026-11-28,4,270-->
 - Hvad hedder musklerne i lårests mediale muskelgruppe?
 ?
 - [[M. pectineus]]
