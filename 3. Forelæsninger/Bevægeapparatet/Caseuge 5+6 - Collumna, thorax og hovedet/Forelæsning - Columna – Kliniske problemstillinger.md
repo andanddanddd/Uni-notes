@@ -34,3 +34,5 @@
 ![[Stenose i ryggen]]
 
 ![[Discusprolaps]]
+
+![[Spondylodiskitis]]
