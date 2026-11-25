@@ -32,7 +32,7 @@
 - [[M. flexor digitorum brevis]]
 - [[M. quadratus plantae]]
 - [[Mm. lumbricales (fod)]]
-<!--SR:!2026-11-22,2,230-->
+<!--SR:!2026-11-29,5,230-->
 
 - Hvad hedder musklerne der ligger inde mellem tærene?:: [[Mm. interossei (fod)]]
 <!--SR:!2026-11-27,4,270-->

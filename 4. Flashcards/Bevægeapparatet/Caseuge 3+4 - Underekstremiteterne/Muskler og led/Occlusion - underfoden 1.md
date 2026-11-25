@@ -6,6 +6,7 @@
 ![[Underfoden 1|700]]A?:: [[Mm. interossei plantares]]
 <!--SR:!2026-12-08,15,290-->
 ![[Underfoden 1|700]]B?:: [[Lig. plantare longum]]
+<!--SR:!2026-11-28,4,270-->
 ![[Underfoden 1|700]]C?:: [[M. peroneus longus]]
 <!--SR:!2026-11-27,4,190-->
 ![[Underfoden 1|700]]D?:: [[Lig. plantare breve]]

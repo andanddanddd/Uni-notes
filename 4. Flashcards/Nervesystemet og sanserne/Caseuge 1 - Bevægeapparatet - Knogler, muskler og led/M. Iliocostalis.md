@@ -3,6 +3,7 @@
 - Hvor hæfter den? (niveuer):: Cerviaklvirvler og velvis
 <!--SR:!2026-11-21,1,230-->
 - Hvor på rygvirvlerne hæfter den?:: Processus transversi [[Tværtappe]]
+<!--SR:!2026-11-27,3,250-->
 
 
 ### Lokation

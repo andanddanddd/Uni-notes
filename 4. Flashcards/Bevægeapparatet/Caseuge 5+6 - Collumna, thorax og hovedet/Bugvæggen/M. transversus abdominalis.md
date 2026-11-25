@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. transversus abdominalis?:: Bugvæggens muskler
+<!--SR:!2026-11-28,4,270-->
 - Hvor dybt ligger m. transversus abdominalis?:: Dybest af de 3 laterale bugmuskler
 
 ### Form

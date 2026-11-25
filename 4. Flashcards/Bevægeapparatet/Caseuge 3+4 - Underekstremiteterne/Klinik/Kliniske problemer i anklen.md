@@ -10,6 +10,7 @@
 - Afkøling
 
 - Hvad kaldes en fod der er naturligt inadroteres?:: Pes varus
+<!--SR:!2026-11-28,4,270-->
 - Hvad kaldes en fod der er naturligt udadroteres?:: Pes valgus
 
 ![[Akilleseneruptur]]

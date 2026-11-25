@@ -12,6 +12,7 @@
 ![[Pasted image 20261112112413.png]]5?:: Femur
 <!--SR:!2026-11-20,4,270-->
 ![[Pasted image 20261112112413.png]]6?:: Crista iliaca
+<!--SR:!2026-11-28,4,270-->
 ![[Pasted image 20261112112413.png]]7?:: Spina iliaca anterior superior
 <!--SR:!2026-11-20,3,250-->
 ![[Pasted image 20261112112413.png]]8?:: Spina iliaca anterior inferior

@@ -9,6 +9,7 @@
 ?
 - Hjælper med venetilbageløb
 - Stabilitet i collumna
+<!--SR:!2026-11-28,4,270-->
 
 ![[Bugvæggens muskler]]
 

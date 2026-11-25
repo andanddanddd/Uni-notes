@@ -32,3 +32,4 @@
 ### Inspektion og palpation
 ### Klinik
 - I hvilken kropsstilling bliver der særligt lagt vægt på os ischii?:: Siddestilling
+<!--SR:!2026-11-28,4,270-->

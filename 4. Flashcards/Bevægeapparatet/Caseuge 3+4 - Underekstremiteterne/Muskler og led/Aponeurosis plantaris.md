@@ -5,6 +5,7 @@
 <!--SR:!2026-11-28,4,270-->
 - Hvad sidder fast til det dybe lag af aponeurosis plantaris?:: Sagitale septa så der laves kanaler til sener
 - Hvor dybt ligger aponeurosis plantaris?:: Lige under subcutis
+<!--SR:!2026-11-28,4,270-->
 - Hvornår spændes aponeurosis plantaris?:: Når man løfter tæerne (står på tær)
 - Hvad er funktionen af aponeurosis plantaris?
 ?

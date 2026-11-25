@@ -3,7 +3,7 @@
 ![[anatomisal - knæ forfra.png]]
 
 ![[Pasted image 20261111093203.png]]1?:: [[Femoris]]
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111093203.png]]6?:: [[Lig. patellae]]
 ![[Pasted image 20261111093203.png]]11?:: Lig. cruciatum anterius
 <!--SR:!2026-12-05,12,270-->

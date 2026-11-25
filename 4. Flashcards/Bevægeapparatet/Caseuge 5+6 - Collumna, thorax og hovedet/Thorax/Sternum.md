@@ -27,6 +27,7 @@
 
 - Hvad hedder ledet mellem manubrium sterni og corpus sterni?:: Angulus sterni
 	- Hvilken ledtype er angulus sterni?:: Primær [[Synchondroser]]
+<!--SR:!2026-11-25,1,230-->
 
 
 ### Relationer

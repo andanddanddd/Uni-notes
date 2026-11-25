@@ -20,6 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. rectus capitis ant.?:: Fleksion af halsen (halshvervelsøjlen)
+<!--SR:!2026-11-27,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus capitis ant.?

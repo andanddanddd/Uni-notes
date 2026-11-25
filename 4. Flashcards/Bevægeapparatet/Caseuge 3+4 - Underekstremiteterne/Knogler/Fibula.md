@@ -22,6 +22,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er fibula?:: Rørknogle
+<!--SR:!2026-11-28,4,270-->
 - Er fibula parret eller uparret?:: Parret
 <!--SR:!2026-11-20,4,270-->
 ### Ossifikation og heeling

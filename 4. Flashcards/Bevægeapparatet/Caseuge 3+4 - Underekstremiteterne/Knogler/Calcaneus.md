@@ -11,6 +11,7 @@
 - Hvor er calcaneus overordnet?:: fodroden
 <!--SR:!2026-12-07,14,290-->
 - Hvor i fodroden er calcaneus?:: den proximale række under [[Talus]]
+<!--SR:!2026-11-28,4,270-->
 #### Form og størrelse
 - Hvor stor er calcaneus?:: Den strøst efodrodsknogle
 <!--SR:!2026-11-27,16,290-->

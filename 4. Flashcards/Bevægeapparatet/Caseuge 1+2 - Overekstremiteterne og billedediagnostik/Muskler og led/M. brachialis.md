@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilken funktion har m. brachialis?:: Stabilisering af albueledet
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-01-11,47,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

@@ -17,3 +17,4 @@
 <!--SR:!2026-11-24,4,270-->
 ![[Pasted image 20261116114125.png]]11?:: Lig.. glenohumeralia
 ![[Pasted image 20261116114125.png]]12?:: HUmerus
+<!--SR:!2026-11-28,4,270-->

@@ -11,5 +11,6 @@
 <!--SR:!2026-11-23,7,230-->
 ![[Fodens ligamenter 1|600]]D?:: [[Lig. tibiofibulare anterius]]
 ![[Fodens ligamenter 1|600]]E?:: [[Lig. talofibulare anterius]]
+<!--SR:!2026-11-28,4,270-->
 ![[Fodens ligamenter 1|600]]F?:: [[Lig bifurcatum]]
 <!--SR:!2026-12-04,11,270-->

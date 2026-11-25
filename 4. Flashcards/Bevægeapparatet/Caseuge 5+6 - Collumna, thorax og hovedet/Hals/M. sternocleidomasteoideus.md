@@ -11,6 +11,7 @@
 ### Forløb
 - Hvor kommer de profunde dele af m. sternocleidomasteoideus fra?:: Clavicula
 - Hvordan kan forløbet af m. sternocleidomasteoideus forklare dens bevægelser?:: Den er skrueformer og der sker derfor en rotation
+<!--SR:!2026-11-28,4,270-->
 #### Udspring
 - Hvor udspringer m. sternocleidomasteoideus?
 ?

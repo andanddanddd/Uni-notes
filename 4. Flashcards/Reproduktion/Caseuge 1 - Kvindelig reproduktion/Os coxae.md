@@ -23,7 +23,7 @@
 ?
 - [[Symphysis pubica]]
 - [[Os sacrum]]
-<!--SR:!2026-11-20,16,290--> 
+<!--SR:!2027-01-26,63,310--> 
 
 - Hvad kaldes ledet mellem os sacrum og os coxae?:: [[Articulatio sacroiliaca]]
 <!--SR:!2026-11-22,9,250-->

@@ -5,7 +5,7 @@
 - [[Dorsal muskelgruppe (skulder)]]
 - [[Ventral skuldergruppe (skulder)]]
 - [[Lateral skuldergrupe (skulder)]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-28,65,310-->
 
 - Hvad hedder skulderens 3 ægte led?
 ?

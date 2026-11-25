@@ -9,7 +9,7 @@
 
 ### Form
 - Hvilken form har m. abductor pollicis brevis?:: Kort
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-27,64,310-->
 
 ### Udspring
 - Hvor udspringer m. abductor pollicis brevis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])

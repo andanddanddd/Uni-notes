@@ -30,6 +30,7 @@
 
 ### Funktion
 - Hvilke bevægelser kan hofteledet lave?:: Adduktion-Abduction, Fleksion-ekstension og rotation (indad/udad)
+<!--SR:!2026-11-28,4,270-->
 
 ### Klinik
 - Hvor stor er den ossøse stabilitet af hofteledet og hvorfor?:: Stor grundet dyb ledskål
