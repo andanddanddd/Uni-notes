@@ -25,7 +25,9 @@
 - [ ] Der findes også en modsat laseque
 	- [ ] Tester vist L2-L4 
 	- [ ] Man ligger på maven og ekstendere hoften
+	- [ ] Spurlig er som laseque men til overekstremiteterne
 - [ ] Listase = glide
+- [ ] Fraktur kan komme før fald ved osteoperose
 
 ![[Røde flag til ryglændesmerter]]
 
