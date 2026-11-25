@@ -13,7 +13,7 @@
 <!--SR:!2026-12-02,12,270-->
 ![[Plexus brachialis 1|700]]F?:: [[N. musculocutaneus]]
 ![[Plexus brachialis 1|700]]G?:: [[N. radialis]]
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-11,16,290-->
 ![[Plexus brachialis 1|700]]H?:: fasciulus post.
 ![[Plexus brachialis 1|700]]I?:: Fasciculus med.
 <!--SR:!2026-12-09,16,290-->

@@ -1,6 +1,6 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilken funktnion har lig. anulare radii?:: Holde radius fast under pronation(supination)
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-31,67,310-->
 - Hvor er lig. anulare radii overordnet?:: Sidder fast på [[Ulna]] og ligger rundt om [[Radius]]
 <!--SR:!2027-01-26,64,310-->

@@ -9,7 +9,7 @@
 ![[Pasted image 20261112112938.png]]4?:: Tuber ischiadicum
 ![[Pasted image 20261112112938.png]]5?:: Trochanter minor
 ![[Pasted image 20261112112938.png]]6?:: Linea pectinea
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-11,16,290-->
 ![[Pasted image 20261112112938.png]]7?:: Crista iliaca
 ![[Pasted image 20261112112938.png]]8?:: Ileum
 <!--SR:!2026-12-04,11,270-->

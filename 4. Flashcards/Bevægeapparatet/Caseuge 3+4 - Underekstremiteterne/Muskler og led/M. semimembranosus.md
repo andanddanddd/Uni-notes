@@ -18,7 +18,7 @@
 - Medialt i knæets kapsel
 - Cpndylu smedialis af [[Tibia]]
 - [[Ligamentum popliteum obliquum]]
-<!--SR:!2026-11-18,2,150-->
+<!--SR:!2026-11-26,1,130-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. semimembranosus?

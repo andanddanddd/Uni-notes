@@ -22,7 +22,7 @@
 	- Hvornår er inklinationsvinklen størst?:: Ved fødsel
 <!--SR:!2026-11-30,14,290-->
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes
-<!--SR:!2026-11-15,4,270-->
+<!--SR:!2026-12-11,16,290-->
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
 <!--SR:!2026-11-26,3,170-->
@@ -36,9 +36,9 @@
 <!--SR:!2026-12-05,19,250-->
 - Hvor er fossa trochanterica?:: Medialfladen af trochanter major
 - Hvad hedder kammen på bagsidet af skaftete af femoris?:: Linea aspera
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-05,10,270-->
 	- Hvad er funktionen af linea aspera?:: Forstækning af knoglen og muskeltilhæftning
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-11,16,290-->
 	- Hvad kaldes overgangen fra trochanter minor til linea aspera?:: Linea pectinea
 <!--SR:!2026-12-08,15,290-->
 	- Hvad hedder de 2 dele af skaftet adskilt af linea aspera?:: Labium mediale/laterale

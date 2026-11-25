@@ -18,9 +18,9 @@
 ![[Femoris 1|600]]H?:: Trochanter minor
 <!--SR:!2027-01-27,64,310-->
 ![[Femoris 1|600]]I?:: Linea pectinea
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-11,16,290-->
 ![[Femoris 1|600]]J?:: Caput ossis femoris
-<!--SR:!2026-11-18,9,250-->
+<!--SR:!2026-12-19,24,250-->
 ![[Femoris 1|600]]K?:: Linea aspera
 ![[Femoris 1|600]]L?:: Labium mediale
 <!--SR:!2026-12-02,16,290-->
@@ -35,7 +35,7 @@
 ![[Femoris 1|600]]Q?:: Labium laterale
 <!--SR:!2026-12-30,43,290-->
 ![[Femoris 1|600]]R?:: Facies poplitea
-<!--SR:!2026-11-25,1,190-->
+<!--SR:!2026-11-26,1,170-->
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 <!--SR:!2026-11-27,4,270-->
 ![[Femoris 1|600]]T?:: Condylus lateralis

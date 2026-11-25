@@ -20,7 +20,7 @@
 - Hvad hedder ligamenterne på siderne af knæet?:: [[Lig. collaterale fibulare]] og [[Lig. collaterlae tibiale]]
 <!--SR:!2026-12-03,16,290-->
 - Hvad hedder ligamentet der forstærker knæets kapsel?:: [[Lig. coronaria]]
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-28,3,250-->
 - Hvad hedder knæledets største bursa og hvor er dne?:: Recessus suprapatellaris, den ligger under quadricepssenen
 
 ![[Knæets menisker]]

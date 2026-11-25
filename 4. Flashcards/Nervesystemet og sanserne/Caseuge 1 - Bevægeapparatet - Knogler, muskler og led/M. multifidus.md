@@ -21,7 +21,7 @@
 - [[Tværtappe]]
 #### Insertion
 - Hvor har m. multifidus insertion?:: [[Torntappe]]
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-06,11,270-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. multifidus?

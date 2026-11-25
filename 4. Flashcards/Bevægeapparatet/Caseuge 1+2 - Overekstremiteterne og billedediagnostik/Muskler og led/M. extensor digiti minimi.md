@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor digiti minimi?:: Ekstension af lillefingeren
-<!--SR:!2026-11-24,14,290-->
+<!--SR:!2027-01-19,55,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

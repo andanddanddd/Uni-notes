@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor er hunters karanastomose?:: Bagpå låret
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-11,16,290-->
 - Hvilke 4 kar består hunters karanastomose af?
 ?
 - [[A. glutea inferior]]

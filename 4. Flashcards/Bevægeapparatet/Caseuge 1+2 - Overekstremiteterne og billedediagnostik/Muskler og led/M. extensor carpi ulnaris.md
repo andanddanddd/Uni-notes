@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. extensor carpi ulnaris insertion?:: Basis af os metacarpale V (lillefinger)
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-10,46,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor carpi ulnaris?:: Ekstension og ulnarflektion (adduction) af håndledet, derudover har den en stabiliserende effekt af håndledet i forhold til [[Ulna]]

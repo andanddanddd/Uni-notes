@@ -17,7 +17,7 @@
 - [[Os lunatum]]
 - [[Os triquetrum]]
 - [[Os pisiforme]]
-<!--SR:!2026-11-18,7,250-->
+<!--SR:!2026-12-21,26,270-->
 
 - Hvad hedder de 4 knogler i den distale række af håndroden?
 ?

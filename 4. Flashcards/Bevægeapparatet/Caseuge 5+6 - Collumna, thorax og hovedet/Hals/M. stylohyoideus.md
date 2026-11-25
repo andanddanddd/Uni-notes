@@ -20,7 +20,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. stylohyoideus?:: [[N. facialis]]
-<!--SR:!2026-11-25,2,230-->
+<!--SR:!2026-12-02,7,250-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

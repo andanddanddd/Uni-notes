@@ -9,7 +9,7 @@
 
 ### Ledflader
 - Hvilke ledflader består MCP af?:: Caput af os metacarpale (ledhoved) og basis af [[Phalinx proximalis]] (ledskål)
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-18,54,310-->
 
 ### Ledets strukture
 

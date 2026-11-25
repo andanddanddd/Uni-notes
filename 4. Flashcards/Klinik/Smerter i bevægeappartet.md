@@ -3,7 +3,7 @@
 - Hvad kaldes smerter der udgår fra muskler?:: Myalgier
 <!--SR:!2026-11-28,12,270-->
 - Hvad kaldes smerter der udgår fra led?:: Atralgier
-<!--SR:!2026-11-22,3,250-->
+<!--SR:!2026-11-27,2,230-->
 - Hvad kaldes smerter der udgår fra [[Periost]]?:: Frakture
 <!--SR:!2026-12-08,15,290-->
 

@@ -21,7 +21,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor digitorum superficialis?:: Fleksion i håndled og fingrenes grund og mellemled
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-24,60,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

@@ -8,14 +8,14 @@
 
 ### Form
 - Hvilken form har m. sartorius?:: Lang, remformet
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-11,16,290-->
 
 ### Forløb
 - Hvad er særligt ved forløbet af m. sartorius?:: Den krydser ind over låret
 <!--SR:!2026-11-21,4,270-->
 #### Udspring
 - Hvor udspringer m. sartorius?:: Spina iliaca ant. sup (se [[Os ilium]])
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-26,1,190-->
 #### Insertion
 - Hvor har m. sartorius insertion?:: Foreste øverste del af [[Tibia]]s medialflade
 <!--SR:!2026-11-28,4,230-->

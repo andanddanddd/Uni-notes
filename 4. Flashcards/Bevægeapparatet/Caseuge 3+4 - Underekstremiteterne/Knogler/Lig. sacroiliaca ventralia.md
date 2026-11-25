@@ -1,4 +1,4 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor på [[Os ilium]] hæmer lig. sacroiliaca ventralia?:: Tuberositas iliaca
-<!--SR:!2026-11-20,11,270-->
+<!--SR:!2027-01-04,40,290-->

@@ -8,7 +8,7 @@
 - Hvad kaldes den store "seneplade" på håndfladen?:: [[Aponeurosis palmaris]]
 <!--SR:!2027-01-01,46,290-->
 - Hvad kaldes seneskedehinderne omkring fleksorene i fingerene?:: [[Vaginae synovialis]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-31,67,310-->
 - Hvad kaldes seneskederne omrking fleksorene i fingrene?::[[ Vaginae fibrosae]]
 <!--SR:!2026-12-29,43,290-->
 
@@ -36,10 +36,10 @@
 <!--SR:!2026-12-14,27,270-->
 
 - Hvad hedder de af musklener i spatia interossa?:: [[Mm. interossei (palmaries-dorsalis)]]
-<!--SR:!2026-11-25,14,290-->
+<!--SR:!2027-01-18,54,310-->
 
 - Hvad hedder musklerne i palma manus?:: [[Mm lumbricales]]
-<!--SR:!2026-11-21,12,270-->
+<!--SR:!2026-12-28,33,270-->
 
 ![[Ekstensoraponeurosen]]
 

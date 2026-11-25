@@ -5,7 +5,7 @@
 - Hvor er m. flexor carpi radialis overordnet?:: 1. lag af underarmens foreste loge
 <!--SR:!2027-01-22,60,310-->
 - Hvor dybt ligger m. flexor carpi radialis?:: Superficielt (1. lag)
-<!--SR:!2026-11-16,12,270-->
+<!--SR:!2026-12-28,33,270-->
 
 ### Form
 - Hvilken form har m. flexor carpi radialis?

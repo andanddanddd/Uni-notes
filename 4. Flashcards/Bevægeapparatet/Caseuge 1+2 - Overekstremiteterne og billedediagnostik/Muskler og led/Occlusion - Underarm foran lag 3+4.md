@@ -6,4 +6,4 @@
 ![[Underarm foran 3]]B?:: [[M. flexor digitorum profundus]]
 <!--SR:!2027-01-30,67,310-->
 ![[Underarm foran 3]]C?:: [[M. pronator quadratus]]
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-27,63,310-->

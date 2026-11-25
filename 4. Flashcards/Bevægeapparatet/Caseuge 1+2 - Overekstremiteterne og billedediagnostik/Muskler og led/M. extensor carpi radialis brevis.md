@@ -12,7 +12,7 @@
 
 ### Udspring
 - Hvor udspringer m. extensor carpi radialis brevis?:: Caput commun extensorium (epicondulys laterale)
-<!--SR:!2026-11-22,17,250-->
+<!--SR:!2026-12-05,10,230-->
 
 ### Insertion
 - Hvor har m. extensor carpi radialis brevis insertion?:: Basis af os metacarpale III (langefinger)

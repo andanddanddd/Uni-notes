@@ -23,7 +23,7 @@
 3. Digitus medius
 4. Digitus anularis
 5. Digitus minimus
-<!--SR:!2026-11-25,14,290-->
+<!--SR:!2027-01-22,58,310-->
 
 - Hvor på fingerne ses oftest sesamknogler?:: I ledet mellem os metacarpale I og phalinx proximalis  (tommenfingeren)
 <!--SR:!2026-12-23,43,290-->

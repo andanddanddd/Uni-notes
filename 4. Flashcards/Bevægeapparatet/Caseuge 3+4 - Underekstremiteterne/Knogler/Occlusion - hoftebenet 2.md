@@ -20,16 +20,16 @@
 ![[Hoftebenet 2|700]]I?:: [[Foramen obturatum]]
 <!--SR:!2026-11-25,14,290-->
 ![[Hoftebenet 2|700]]J?:: Incisura acerabuli
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-22,58,310-->
 ![[Hoftebenet 2|700]]K?:: Tuberculum iliacum
 <!--SR:!2026-12-10,28,270-->
 ![[Hoftebenet 2|700]]L?:: Spina iliaca ant. sup 
 ![[Hoftebenet 2|700]]M?:: Spina iliaca ant. inf.
-<!--SR:!2026-11-25,15,290-->
+<!--SR:!2027-01-06,42,290-->
 ![[Hoftebenet 2|700]]N?:: Facies lunata
 <!--SR:!2026-12-07,21,250-->
 ![[Hoftebenet 2|700]]O?:: Ramus sup. ossis pubis
-<!--SR:!2026-11-24,7,250-->
+<!--SR:!2026-12-21,26,270-->
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum
 <!--SR:!2026-11-30,20,250-->
 ![[Hoftebenet 2|700]]Q?:: a= ramus ossis ischii, b= ramus inf. ossis pubis

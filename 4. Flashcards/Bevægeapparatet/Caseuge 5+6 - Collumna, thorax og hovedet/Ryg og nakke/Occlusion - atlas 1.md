@@ -12,7 +12,7 @@
 ![[Atlas 1|700]]F?:: Sulcus arterie vertebralis
 ![[Atlas 1|700]]G?:: Tuberculum post
 ![[Atlas 1|700]]H?:: Arcus post-
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-11,16,290-->
 ![[Atlas 1|700]]I?:: Massa lateralis
 <!--SR:!2026-11-28,4,270-->
 

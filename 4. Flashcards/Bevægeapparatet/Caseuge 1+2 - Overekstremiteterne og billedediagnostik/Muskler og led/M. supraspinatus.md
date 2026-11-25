@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. supraspinatus?:: lille trekant
-<!--SR:!2026-11-25,19,250-->
+<!--SR:!2027-01-11,47,250-->
 
 ### Udspring
 - Hvor udspringer m. supraspinatus?:: Fossa supraspinata (se [[Scapula]])

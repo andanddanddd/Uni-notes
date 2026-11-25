@@ -12,12 +12,12 @@
 
 ### Forløb
 - Hvilken kulisse går m. peroneus igennem?:: 4. kulisse (se [[Retinaculum musculorum extensorum inferius]])
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-11,16,290-->
 #### Udspring
 - Hvor udspringer m. peroneus tertius?:: [[Fibula]] og membrana interossea
 #### Insertion
 - Hvor har m. peroneus tertius insertion?:: Dorsalfalden af corpus af ossis metatarsales V
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-26,1,190-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. peroneus tertius?:: Dorsiflektion og eversion

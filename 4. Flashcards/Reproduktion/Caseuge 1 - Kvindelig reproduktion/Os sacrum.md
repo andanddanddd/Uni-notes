@@ -11,7 +11,7 @@
 #### Form og størrelse
 - Hvad hedder de 4 parrede huller foran på os sacrum?:: Foramina sacrale ant
 	- Hvilke strukture går igennem foramina sacrale ant.?:: Ventrale rami af spinalnervere
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-11,16,290-->
 - Hvad hedder de 4 parrede huller bagpå os sacrum?:: Foramina sacrale post
 <!--SR:!2026-12-05,12,270-->
 	- Hvilke strukture går igennem foremian sacrale post.?:: Dorsale rami af spinalnerverne
@@ -33,7 +33,7 @@
 ### Knogletype
 - Hvilken knogletype er os sacrum?:: Ureggelmæssig knogle
 - Er os sacrum parret eller uparret?:: Uparret
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-05,10,270-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

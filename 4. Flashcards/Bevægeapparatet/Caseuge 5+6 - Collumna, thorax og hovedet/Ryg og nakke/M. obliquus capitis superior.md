@@ -14,7 +14,7 @@
 - Hvor udspringer mm. obliquus capitis superior?:: [[Tværtappe]]ne på [[Atlas]] (C1)
 #### Insertion
 - Hvor har mm. obliquus capitis superior insertion?:: Squarma occipitales (lateralt for [[M. rectus capitis posterior major]], se [[Os occipitale]])
-<!--SR:!2026-11-25,1,210-->
+<!--SR:!2026-11-26,1,190-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. obliquus capitis superior?

@@ -4,7 +4,7 @@
 
 
 ![[Overarm muskler 2]]A?:: [[M. supraspinatus]]
-<!--SR:!2026-11-19,15,290-->
+<!--SR:!2027-01-25,61,310-->
 ![[Overarm muskler 2]]B?:: [[M. deltoideus]]
 <!--SR:!2027-01-12,54,310-->
 ![[Overarm muskler 2]]C?:: [[M. infraspinatus]]

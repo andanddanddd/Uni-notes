@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad hedder skulderbæltet på latin?:: Cingulum membri superioris
-<!--SR:!2026-11-17,13,230-->
+<!--SR:!2026-12-26,31,230-->
 - Hvilken form har skulderbætet overordnet?:: En ring der er åben bagtil
 <!--SR:!2027-01-24,66,310-->
 - Hvad består den foreste del af skulderbæltet af?:: 2 [[Clavicula]]

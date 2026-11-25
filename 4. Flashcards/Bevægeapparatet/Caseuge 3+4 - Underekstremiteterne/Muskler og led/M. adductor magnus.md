@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. adductor magnus?:: Adduction og ekstension af hoften
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-06,11,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. adductor magnus?

@@ -5,7 +5,7 @@
 - Hvor er m. biceps brachii overordnet?:: Foran på overarmen
 <!--SR:!2027-01-17,62,310-->
 - Hvor dybt ligger m. biceps brachii:: Superficielt
-<!--SR:!2026-11-16,14,290-->
+<!--SR:!2027-01-19,55,310-->
 
 ### Form
 - Hvilken form har m. biceps brachii?:: Lang tenformet

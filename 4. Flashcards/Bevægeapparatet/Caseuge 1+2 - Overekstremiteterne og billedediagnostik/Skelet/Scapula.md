@@ -88,7 +88,7 @@
 ![[Scapula Anatomi 1|700]]L?:: Margo medialis
 <!--SR:!2027-01-11,60,310-->
 ![[Scapula Anatomi 1|700]]M?:: Fossa supraspinata
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-04,9,250-->
 ![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
 <!--SR:!2026-11-26,24,270-->
 ![[Scapula Anatomi 1|700]]O?:: Suprascapulae

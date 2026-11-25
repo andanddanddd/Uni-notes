@@ -2,7 +2,7 @@
 
 - Hvilke rygmarvsniveuer giver grene til plexus brachialis?:: C5-T1
 - Hvilken del af nerverne fra rygmarven går til plexus brachialis?:: Rami ventralis nn spinalium
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-11,16,290-->
 - Hvilke spinalnerver samles til trunki i plexus brachialis?:: C5+C6 og C8+T1 (C7 fortsætter som sin egen trunki)
 <!--SR:!2026-11-26,3,250-->
 - Had hedder de 3 trunki der danner plexus bracialis?:: Truncus sup. med. og inf.
@@ -10,7 +10,7 @@
 <!--SR:!2026-12-05,16,290-->
 - Hvad sker med de 6 grene i plexus brachialis i axillen?:: De samler sig til fasciculi
 - Hvad hedder de 3 fasciuli fra plexus brachialis?:: Fasciculus lat. med. og post.
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-11,16,290-->
 - Hvilke trunki/grene kommer fasciculus latralis fra?:: De foreste grene fra truncus sup. og med.
 - Hvilke trunki/grene kommer fasciculus medialis fra?:: Den foreste gren fra truncus inf.
 - Hvilke trunki/grene kommer fasciculus post. fra?:: De bagertse grene fra alle 3 trunki

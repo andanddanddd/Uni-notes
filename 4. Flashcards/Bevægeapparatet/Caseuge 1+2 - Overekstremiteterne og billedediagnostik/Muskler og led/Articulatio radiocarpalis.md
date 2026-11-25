@@ -17,7 +17,7 @@
 
 ### Ledets strukture
 - Hvilken side af hånden/underarmen har de stærkest eligamenter til art. radiocarpalis?:: Palmarsiden
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-31,67,310-->
 - Hvad hedder de 2 ligamenter der giver stabilitet til art. radiocarpales?:: [[Lig. radiocarpalia palmaria]] [[Lig. radiocarpalia dorsalia]]
 
 ### Funktion

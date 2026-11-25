@@ -31,7 +31,7 @@
 ![[Underarmsknogler anatomi 2|600]]B?:: Caput ulnae
 <!--SR:!2026-11-30,26,270-->
 ![[Underarmsknogler anatomi 2|600]]C?:: Processus styloideus ulnae
-<!--SR:!2026-11-19,10,210-->
+<!--SR:!2026-12-25,30,230-->
 ![[Underarmsknogler anatomi 2|600]]D?:: Crista musculi supinatoris
 <!--SR:!2026-11-25,8,190-->
 ![[Underarmsknogler anatomi 2|600]]F?:: Tuberculum dorsale radii

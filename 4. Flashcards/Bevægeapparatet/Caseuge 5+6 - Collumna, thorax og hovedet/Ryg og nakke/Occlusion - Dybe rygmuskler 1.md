@@ -12,7 +12,7 @@
 ![[Dybe rygmuskler 1|700]]F?:: [[M. psoas major]]
 ![[Dybe rygmuskler 1|700]]G?:: [[N. obturatorius]]
 ![[Dybe rygmuskler 1|700]]H?:: [[N. genitofemoralis]]
-<!--SR:!2026-11-25,1,210-->
+<!--SR:!2026-11-26,1,190-->
 ![[Dybe rygmuskler 1|700]]J?:: [[N. iliohypogastricus]]
 ![[Dybe rygmuskler 1|700]]K?:: [[M. multifidus]]
 ![[Dybe rygmuskler 1|700]]L(A)?:: [[M. Erektor spinae]] ([[M. Spinalis]])

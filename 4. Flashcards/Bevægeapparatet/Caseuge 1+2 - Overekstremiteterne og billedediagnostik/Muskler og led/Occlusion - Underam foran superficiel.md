@@ -13,5 +13,5 @@
 ![[Underarm foran 1]]E?:: [[M. palmaris longus]]
 <!--SR:!2027-01-12,54,310-->
 ![[Underarm foran 1]]F?:: [[M. flexor carpi ulnaris]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-06,11,270-->
 

@@ -1,7 +1,7 @@
 #flashcards/5/Fordøjelsessystemet-II #flashcards/5/Bevægeapparatet 
 
 - Hvad er CT overordnet?:: Røntgen der rotere om patienten
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-31,67,310-->
 - Hvad er en housefield-enhed (HU)?:: Dæmpning relativt til vand
 <!--SR:!2027-01-22,59,310-->
 	- Hvad har den laveste HU enhed?:: Luft
@@ -17,7 +17,7 @@
 - Hvad menes med at vælge et vindue til CT overordnet?:: Vælge hvilke HU-enheder der skal være lystest og mørkets og dermed vælge hvor meget kontrast der skal være (forskyde gråtonernerne)
 <!--SR:!2027-01-23,61,310-->
 - Hvorfor kan noget være helt vidt på et CT hvis det ikke er knogle?:: Man har valgt et vindue hvor bløde strukture er tydelige
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-01-31,67,310-->
 
 - Hvornår bruges CT abdomen?:: Når man skal burges et hurtigt overblik af hele abdomen
 <!--SR:!2027-01-01,57,310-->

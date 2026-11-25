@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. levator scapulae overordnet?:: Nakken
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-31,67,310-->
 - Hvor dybt ligger m. levator scapulae?:: Relativt superficielt men under [[M. trapezius]]
 <!--SR:!2027-01-30,67,310-->
 

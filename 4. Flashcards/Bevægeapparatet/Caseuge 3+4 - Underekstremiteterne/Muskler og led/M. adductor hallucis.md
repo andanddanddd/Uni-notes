@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilken ikke-bevægelsesmæssig funktion har m. adductor hallucis?:: Oprethold efodens tværbue
-<!--SR:!2026-11-24,1,210-->
+<!--SR:!2026-11-28,3,230-->
 - Hvilke bevægelser udfører m. adductor hallucis?:: Adduction af storetåen
 
 ### Innerversion og reflekser
