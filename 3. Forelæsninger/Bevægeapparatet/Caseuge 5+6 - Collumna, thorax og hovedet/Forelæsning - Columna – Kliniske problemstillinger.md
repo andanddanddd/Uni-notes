@@ -19,7 +19,15 @@
 	- [ ] Bevægelser kan gøre nu og her smerter værre men sygdommen bedre på lang sigt
 	- [ ] Det øger dødsfald
 - [ ] Lumbago = akut lænderygsmerter
+- [ ] L4 dermatom er den indre del af underbenet (meget forskelligt fra bog til bog men det er hvad Daniel siger)
+- [ ] Ved lasegues tegn er smerterne i ryggen der projitere ned
+	- [ ] Smerterne vil være i knæhasen hvis det skydes manglende smidighed og smerterne har heller ikke samme karakter
+- [ ] Der findes også en modsat laseque
+	- [ ] Tester vist L2-L4 
+	- [ ] Man ligger på maven og ekstendere hoften
 
 ![[Røde flag til ryglændesmerter]]
 
 ![[Radikulær smerte og radikulopati]]
+
+![[Discusprolaps]]
