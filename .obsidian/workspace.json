@@ -17,8 +17,23 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "e3085b340749bfb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelæsning - Hovedet og halsens anatomi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6a845a27b882733",
@@ -38,18 +53,6 @@
             }
           },
           {
-            "id": "e3085b340749bfb9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Studieordning for bacheloruddannelsen i medicin 2024"
-            }
-          },
-          {
             "id": "f68f0aa157be0d2a",
             "type": "leaf",
             "state": {
@@ -59,6 +62,18 @@
               },
               "icon": "lucide-file-text",
               "title": "Slides - Columna_Kliniske_problemstillinger_DCA"
+            }
+          },
+          {
+            "id": "832e8c0eada63162",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Slides - Hovedet og halsen anatomi"
             }
           }
         ],
@@ -252,15 +267,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f68f0aa157be0d2a",
+  "active": "832e8c0eada63162",
   "lastOpenFiles": [
-    "0. De allervigtigste/Eksamensplan 5 sem.md",
+    "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
     "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
+    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Columna_Kliniske_problemstillinger_DCA.pdf",
+    "0. De allervigtigste/Eksamensplan 5 sem.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Stenoser.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columna – Kliniske problemstillinger.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Spondylodiskitis.md",
-    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Columna_Kliniske_problemstillinger_DCA.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Stenose i ryggen.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Discusprolaps.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Radikulær smerte og radikulopati.md",
