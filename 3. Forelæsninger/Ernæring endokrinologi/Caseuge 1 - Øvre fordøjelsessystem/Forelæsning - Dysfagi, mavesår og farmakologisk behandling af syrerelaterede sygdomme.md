@@ -6,4 +6,4 @@
 
 ![[Mavesyre]]
 
-![[Slugning]]
+![[Synkning]]

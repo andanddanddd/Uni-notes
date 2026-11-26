@@ -5,7 +5,7 @@
 - Hvilke funktioner har larynx?:: Luftvej og tonegenerator
 - Hvilke lukkemekanismer har larynx?:: Strubelåget og stemmelæberne
 - Hvad hedder strubelåget på latin?:: Epiglotis
-- - Hvad er larynx skelet bygget af?:: Brusk
+- Hvad er larynx skelet bygget af?:: Brusk
 ## Placering
 - Hvor lang er larynx?:: 4-5 cm
 - Hvor ligger larynx?:: medianplanen foran 4,5,6 halshvirvel
@@ -25,7 +25,6 @@
 - Hvad kaldes skjoldbrusken i daglig tale?:: Adamsæblet
 - Hvilken funktion her skjoldbrusken?:: Beskytter strubehovedet og stemmebåndene.
 - Hvilken type brusk består skjoldbrusken af?:: Hyalin brusk 
-
 #### Ringbrusken
 - Hvad hedder ringbrusken på latin?:: Cartilago cricoidea
 - Hvor sidder ringbrusken?:: Den forbinder larynx med trachea
