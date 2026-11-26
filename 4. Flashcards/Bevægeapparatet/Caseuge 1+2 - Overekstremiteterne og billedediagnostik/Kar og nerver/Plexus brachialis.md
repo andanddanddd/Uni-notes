@@ -12,6 +12,7 @@
 - Hvad hedder de 3 fasciuli fra plexus brachialis?:: Fasciculus lat. med. og post.
 <!--SR:!2026-12-11,16,290-->
 - Hvilke trunki/grene kommer fasciculus latralis fra?:: De foreste grene fra truncus sup. og med.
+<!--SR:!2026-11-29,3,250-->
 - Hvilke trunki/grene kommer fasciculus medialis fra?:: Den foreste gren fra truncus inf.
 - Hvilke trunki/grene kommer fasciculus post. fra?:: De bagertse grene fra alle 3 trunki
 

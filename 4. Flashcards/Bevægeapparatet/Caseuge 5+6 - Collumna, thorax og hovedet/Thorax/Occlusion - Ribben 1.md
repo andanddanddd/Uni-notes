@@ -12,3 +12,4 @@
 ![[Ribben 1|800]]F?:: Tuberculum costae
 ![[Ribben 1|800]]G?:: Fascies articularis
 ![[Ribben 1|800]]H?:: Sulcus costae
+<!--SR:!2026-11-29,3,250-->

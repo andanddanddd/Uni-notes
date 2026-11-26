@@ -16,7 +16,7 @@
 <!--SR:!2026-12-08,15,290-->
 
 - Hvad er corpus ossis pubis?:: Delen der stødeer op mod symfysen
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-29,64,310-->
 - Hvad er ramus inf. ossis pubis?:: Delen under corpus der møder [[Ramus ossis ischii]]
 <!--SR:!2027-01-27,64,310-->
 - Hvad er ramus sup ossis pubis?:: Delen der går ind mod resten af [[Os coxae]] ([[Acetabulum]])

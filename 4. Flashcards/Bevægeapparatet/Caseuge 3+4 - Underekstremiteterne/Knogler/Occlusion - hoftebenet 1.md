@@ -11,7 +11,7 @@
 ![[Hoftebenet 1|600]]D?:: Spina iliaca ant. inf.
 <!--SR:!2027-01-25,62,310-->
 ![[Hoftebenet 1|600]]E?:: Eminentia iliopubica
-<!--SR:!2026-11-21,1,230-->
+<!--SR:!2026-11-28,2,230-->
 ![[Hoftebenet 1|600]]F?:: Pecten ossis pubis
 <!--SR:!2027-01-30,67,310-->
 ![[Hoftebenet 1|600]]G?:: Tuberculum pubicum

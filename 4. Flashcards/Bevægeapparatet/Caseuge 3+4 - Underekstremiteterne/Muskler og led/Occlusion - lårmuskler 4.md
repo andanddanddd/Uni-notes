@@ -11,6 +11,7 @@
 ![[Lårmuskler 4|600]]D?:: [[M. semimembranosus]]
 ![[Lårmuskler 4|600]]E? (hvilket hoved?):: [[M. gastrocnemius]] caput mediale
 ![[Lårmuskler 4|600]]F?:: [[M. tensor fasciae latae]]
+<!--SR:!2026-11-29,3,250-->
 ![[Lårmuskler 4|600]]G?:: [[Tractus iliotibialis]]
 ![[Lårmuskler 4|600]]H?:: [[M. vastus lateralis]]
 ![[Lårmuskler 4|600]]I? (hvilket hoved?):: [[M. biciptis]] caput longum

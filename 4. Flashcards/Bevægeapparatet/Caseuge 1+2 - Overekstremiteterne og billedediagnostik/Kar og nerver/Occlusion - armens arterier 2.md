@@ -12,6 +12,7 @@
 ![[Armens arterier 2|600]]E?:: [[A. ulnaris]]
 ![[Armens arterier 2|600]]F?:: Ramus palmaris profundus
 ![[Armens arterier 2|600]]G?:: [[Arcus palmaris superficialis]]
+<!--SR:!2026-11-29,3,250-->
 ![[Armens arterier 2|600]]H?:: [[Aa. digitales palmares communes]]
 <!--SR:!2026-11-27,3,250-->
 ![[Armens arterier 2|600]]I?:: [[Aa. digitales palmares propriae]]

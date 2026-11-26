@@ -25,6 +25,7 @@
 
 ### Funktion
 - Hvilken funktion har mm. lumbricales?:: Registrere proprioception særligt af de 2 yderste led
+<!--SR:!2026-11-29,3,250-->
 - Hvilke bevægelser udfører mm. lumbricales?
 
 ### Innerversion og reflekser

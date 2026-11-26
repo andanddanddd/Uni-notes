@@ -12,6 +12,7 @@
 - Hvordan er de profunde vener overordnet arrangeret i overarmen?:: En vene per arterie
 <!--SR:!2026-12-03,16,290-->
 - Hvad hedder den sidste vene der dræner alt blod fra armen?:: [[V. axillaris]]
+<!--SR:!2026-11-30,4,270-->
 
 - Hvor kommer nerverne til armen fra?:: [[Plexus brachialis]]
 <!--SR:!2026-11-28,4,270-->
