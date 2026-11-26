@@ -1,4 +1,4 @@
-#flashcards/Hjerte-lunge-nyrer-I 
+#flashcards/Hjerte-lunge-nyrer-I #flashcards/5/Bevægeapparatet 
 
 
 - Hvilke strukture er forbundet via spælget?:: Pharynx med trachea
