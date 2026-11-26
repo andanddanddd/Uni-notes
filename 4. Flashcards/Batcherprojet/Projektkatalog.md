@@ -2,7 +2,7 @@
 
 Registerstudier kan laves 20 gange bedre end vi kan hvis man bruger machine leaning hvilket vi ikke har tid til at finde ud af
 
-7. ==🟡Oral sundhed hos patienter indlagt til gastro-kirurgiske indgreb== 
+7. ==🟢Oral sundhed hos patienter indlagt til gastro-kirurgiske indgreb== 
 	- Klinisk studie lyder sej (+det med at se jounaler og noget som de siger)
 	- Meget håndgribeligt (mange referencer)
 	- Jeg kan ikke gennemskue hvad forskellen på det og det der blev lavet sidste år er
@@ -37,3 +37,15 @@ Registerstudier kan laves 20 gange bedre end vi kan hvis man bruger machine lean
 	- Registerstudie
 21. ==🟠English adaptation and test–retest reliability of the ASTRID scale==
 	- Registerstudie
+22. ==🟡Scratching the surface: exploring placebo and nocebo effects in itch==
+	- Det lyder ret funny men jeg ved ikke helt hvor brugbart det er i den virkelige verden
+	- Meget håndgribeligt
+23. ==🟡Effect of topical delgocitinib on capsaicin-induced pain and pain sensitization in humans==
+	- Lyder meget fornuftig
+24. ==🟢Effekt af Temporal Interference Stimulation på Eksperimental Smerter==
+	- Lyder meget fin
+	- RTC er sejt
+	- Meget teknisk (men det kan jeg jo godt li)
+25. ==🔴Anxiety and depressive symptoms in relation to gender dysphoria and social burden==
+	- Registerstudie og psyk
+
