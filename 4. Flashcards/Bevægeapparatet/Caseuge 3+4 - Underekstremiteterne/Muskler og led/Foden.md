@@ -10,7 +10,7 @@
 - [[Det nedre ankelled]]
 - [[Ledene melle fodrodsknoglerne]]
 - [[Ledene mellem fodrodsknogler og mellemfodsknoglerne]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 [[Occlusion - fodens muskler 1]]
 [[Occlusion - fodens muskler 2]]

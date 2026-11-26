@@ -14,7 +14,7 @@
 <!--SR:!2026-11-28,9,250-->
 #### Insertion
 - Hvor har m. gracilis insertion?:: Pes anserinum (se [[Tibia]])
-<!--SR:!2026-11-25,1,150-->
+<!--SR:!2026-11-28,2,170-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. gracilis?:: Adduction af hoften og inadrotation af underbenet ved flekteret knæ

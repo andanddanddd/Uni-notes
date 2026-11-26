@@ -5,7 +5,7 @@
 - Hvor er m. extensor digiti minimi overordnet?:: Dorsalt på underarmen
 <!--SR:!2027-01-08,46,290-->
 - Hvor dybt ligger m. extensor digiti minimi?:: Superficielt
-<!--SR:!2026-11-21,12,270-->
+<!--SR:!2027-01-10,45,290-->
 
 ### Form
 - Hvilken form har m. extensor digiti minimi?

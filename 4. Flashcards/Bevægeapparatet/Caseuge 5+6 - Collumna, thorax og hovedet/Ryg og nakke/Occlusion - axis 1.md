@@ -13,7 +13,7 @@
 ![[Axis 1|700]]E?:: Facies articularis post.
 <!--SR:!2026-12-06,12,270-->
 ![[Axis 1|700]]F?:: Processus spinosus
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Axis 1|700]]G?:: Facies articularis ant.
 ![[Axis 1|700]]H?:: Corpus vertebrae
 <!--SR:!2026-11-27,3,250-->

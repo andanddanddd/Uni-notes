@@ -12,4 +12,4 @@
 - Hvilke ribben hæfter på sternum?:: Costa I-VII
 - Hvilke ribben hæfter til overliggende ribbensbrusk?:: Costa VIII-X
 - Hvilke ribben ender frit forudtil?:: Costa XI og XII
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->

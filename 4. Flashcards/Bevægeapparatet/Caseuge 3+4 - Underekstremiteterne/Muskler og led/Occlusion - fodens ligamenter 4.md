@@ -6,7 +6,7 @@
 ![[Fodens ligamenter 4|600]]A?:: [[M. peroneus longus]]
 <!--SR:!2026-12-05,12,270-->
 ![[Fodens ligamenter 4|600]]B?:: [[Lig. plantare breve]]
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Fodens ligamenter 4|600]]C?:: [[Lig. plantare longum]]
 <!--SR:!2026-12-10,16,290-->
 ![[Fodens ligamenter 4|600]]D?:: [[M. tibialis anterior]]

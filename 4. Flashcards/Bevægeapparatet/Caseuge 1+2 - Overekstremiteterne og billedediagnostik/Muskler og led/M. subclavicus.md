@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor har m. subclavicus udspring?:: 1. ribben
-<!--SR:!2026-11-23,12,270-->
+<!--SR:!2026-12-29,33,270-->
 ### Insertion
 - Hvor har m. subclavicus insersion?:: [[Clavicula]]
 <!--SR:!2026-12-26,43,290-->

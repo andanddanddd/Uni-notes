@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. extensor indicis insertion?:: Ekstensoraponeurosen for pegefingeren
-<!--SR:!2026-11-26,15,290-->
+<!--SR:!2027-01-28,63,310-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. extensor indicis?:: Ekstension af pegefinegren

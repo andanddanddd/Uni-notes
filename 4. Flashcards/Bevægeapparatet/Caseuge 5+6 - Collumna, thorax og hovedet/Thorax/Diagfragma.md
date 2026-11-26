@@ -22,7 +22,7 @@
 - Hvor udspringer pars costalis af diagfragma?:: Nederste 6 ribben+ribbensbrusk
 <!--SR:!2026-11-25,1,230-->
 - Hvor udspringer pars lumbalis af diagfragma?:: [[Lig. arcuatum mediale]] og [[Lig. arcuatum laterale]]
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-27,1,210-->
 #### Insertion
 - Hvor har diagfragma insertion?:: Centrum tendineum
 
@@ -37,7 +37,7 @@ Reflekser
 - Hvad hedder de 2 "svage" områder på diagfragma hvor brok kan opstp?:: Bockdals trekant og larreys spalte
 - Hvor er brochdals trekant?:: Mellem pars costalis og pars lumbalis
 - Hvor er larreys spalte?:: Mellem pars sternalis og pars costalis
-<!--SR:!2026-11-24,1,210-->
+<!--SR:!2026-11-27,1,190-->
 
 
 

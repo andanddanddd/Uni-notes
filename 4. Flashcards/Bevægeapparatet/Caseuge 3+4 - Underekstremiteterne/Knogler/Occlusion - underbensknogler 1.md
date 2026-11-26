@@ -5,18 +5,18 @@
 ![[Underbensknogler 1|600]]A?:: Condylus lateralis
 <!--SR:!2027-01-03,41,290-->
 ![[Underbensknogler 1|600]]B?:: Caput fibulae
-<!--SR:!2026-11-26,10,270-->
+<!--SR:!2027-01-03,38,290-->
 ![[Underbensknogler 1|600]]C?:: Collum fibulae
 <!--SR:!2027-01-08,45,290-->
 ![[Underbensknogler 1|600]]D?:: Malleolus lateralis
-<!--SR:!2026-11-26,16,290-->
+<!--SR:!2027-02-01,67,310-->
 ![[Underbensknogler 1|600]]E?:: Condylus medialis
 <!--SR:!2026-11-30,14,290-->
 ![[Underbensknogler 1|600]]F?:: Tuberositas tibiae
 <!--SR:!2026-11-30,11,270-->
 ![[Underbensknogler 1|600]]G?:: Linea musculi solei
 ![[Underbensknogler 1|600]]H?:: Facies medialis
-<!--SR:!2026-11-23,12,270-->
+<!--SR:!2026-12-29,33,270-->
 ![[Underbensknogler 1|600]]I?:: Margo anterior
 <!--SR:!2026-12-08,14,290-->
 ![[Underbensknogler 1|600]]J?:: Margo medialis

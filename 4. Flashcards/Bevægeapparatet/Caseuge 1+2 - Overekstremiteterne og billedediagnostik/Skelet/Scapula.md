@@ -21,7 +21,7 @@
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen
 <!--SR:!2027-01-27,65,310-->
 	- Hvad kaldes indhakket i margo superior?:: Inscisura scapula
-<!--SR:!2026-11-21,17,250-->
+<!--SR:!2027-01-28,63,270-->
 - Hvilke 3 hjørner har scapula?:: Superior, inferior og lateral (angulus-)
 <!--SR:!2026-12-25,46,290-->
 	- Hvilken struktur adskiller angulus lateralis fra selve skulderbladslegemet?:: Collum scapulae
@@ -90,7 +90,7 @@
 ![[Scapula Anatomi 1|700]]M?:: Fossa supraspinata
 <!--SR:!2026-12-04,9,250-->
 ![[Scapula Anatomi 1|700]]N?:: Dorsalis scapulae
-<!--SR:!2026-11-26,24,270-->
+<!--SR:!2027-02-02,68,270-->
 ![[Scapula Anatomi 1|700]]O?:: Suprascapulae
 <!--SR:!2026-12-04,11,210-->
 ![[Scapula Anatomi 1|700]]P?:: Infraspinata

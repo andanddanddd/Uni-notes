@@ -9,9 +9,9 @@
 ![[Halsmuskler 2|700]]D?:: [[M. sternohyoideus]]
 <!--SR:!2026-11-25,1,230-->
 ![[Halsmuskler 2|700]]E?:: [[M. omohyoideus]] (venter inf.)
-<!--SR:!2026-11-21,1,230-->
+<!--SR:!2026-11-27,1,210-->
 ![[Halsmuskler 2|700]]F?:: [[M. digastricus]] (venter ant.)
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-27,1,210-->
 ![[Halsmuskler 2|700]]G?:: [[M. mylohyoideus]]
 ![[Halsmuskler 2|700]]H?:: [[Os. hyoideum]]
 ![[Halsmuskler 2|700]]I?:: [[M. thyrohyoideus]]

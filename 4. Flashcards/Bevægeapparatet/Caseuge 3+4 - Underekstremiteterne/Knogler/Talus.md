@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder talus på dansk?:: rullebenet
-<!--SR:!2026-11-26,10,250-->
+<!--SR:!2026-12-21,25,250-->
 
 #### Placering og orientering
 - Hvor er talus overordnet?:: Fodroden

@@ -12,7 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. sternothyroideus?:: Manubrium sterni (se [[Sternum]])
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-06,10,270-->
 #### Insertion
 - Hvor har m. sternothyroideus insertion?:: Lateralsiden af skjoldbrusken (se [[Strubehovedet#Skjoldbrusken]])
 

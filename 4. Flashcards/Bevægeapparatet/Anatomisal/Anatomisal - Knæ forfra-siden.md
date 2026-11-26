@@ -10,7 +10,7 @@
 <!--SR:!2026-11-27,3,250-->
 ![[Pasted image 20261111094249.png]]5?:: Condylus lateralis tibiae
 ![[Pasted image 20261111094249.png]]6?:: Caput fibulae
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Pasted image 20261111094249.png]]7?:: [[Fibula]]
 <!--SR:!2026-12-11,16,290-->
 ![[Pasted image 20261111094249.png]]8?:: Membrana interossea cruris

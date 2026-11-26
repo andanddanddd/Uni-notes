@@ -15,13 +15,13 @@
 ![[Hoftebenet 1|600]]F?:: Pecten ossis pubis
 <!--SR:!2027-01-30,67,310-->
 ![[Hoftebenet 1|600]]G?:: Tuberculum pubicum
-<!--SR:!2026-11-24,8,250-->
+<!--SR:!2026-12-16,20,250-->
 ![[Hoftebenet 1|600]]H?:: Crista bupica
 <!--SR:!2026-12-13,20,250-->
 ![[Hoftebenet 1|600]]I?:: [[Facies symphysialis]]
 <!--SR:!2027-01-04,45,290-->
 ![[Hoftebenet 1|600]]J?:: [[Foramen obturatum]]
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-31,66,310-->
 ![[Hoftebenet 1|600]]K?:: Tuberositas iliaca
 <!--SR:!2027-01-03,47,290-->
 ![[Hoftebenet 1|600]]L?:: Spina iliaca post. sup.

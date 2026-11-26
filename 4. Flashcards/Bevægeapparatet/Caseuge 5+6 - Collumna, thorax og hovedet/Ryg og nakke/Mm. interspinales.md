@@ -15,7 +15,7 @@
 - Hvor udspringer mm. interspinales?:: [[Torntappe]]
 #### Insertion
 - Hvor har mm. interspinales insertion?:: [[Torntappe]]
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interspinales?

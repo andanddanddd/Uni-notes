@@ -5,7 +5,7 @@
 - Hvor er m. felxor carpi ulnaris overordnet?:: 1. lag af underarmens foreste loge
 <!--SR:!2027-01-07,55,310-->
 - Hvor dybt ligger m. felxor carpi ulnaris?:: Superficielt (1. lag)
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Form
 - Hvilken form har m. felxor carpi ulnaris?
@@ -16,7 +16,7 @@
 
 ### Insertion
 - Hvor har m. felxor carpi ulnaris insertion?:: [[Os pisiforme]], [[Os hamatum]] samt basis af os metacaple V
-<!--SR:!2026-11-23,11,230-->
+<!--SR:!2026-12-31,35,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. felxor carpi ulnaris?:: Fleksion og abduction (ulnarfelksion) af håndledet

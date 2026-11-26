@@ -8,11 +8,11 @@
 
 ### Form
 - Hvilken form har m. opponens pollicis?:: Kort og kraftig
-<!--SR:!2026-11-25,15,290-->
+<!--SR:!2027-01-22,57,310-->
 
 ### Udspring
 - Hvor udspringer m. opponens pollicis?:: [[Retinaculum flexorum]] samt radiale mellemhåndsknogler ([[Os trapezium]] samt [[Os scaphodeum]])
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-02-01,67,310-->
 
 ### Insertion
 - Hvor har m. opponens pollicis insertion?:: Radiale kant af skaftet på os metacarpale I (hele kanten)

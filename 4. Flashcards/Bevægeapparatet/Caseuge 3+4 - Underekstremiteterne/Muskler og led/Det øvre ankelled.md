@@ -4,7 +4,7 @@
 - Hvad kaldes det øvre ankelled på latin?:: Art. talocruraris
 ### Ledtype
 - Hvilken ledtype er det øvre ankelled?:: Hængselsled (sammensat)
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Ledflader
 - Hvad danner ledhoved i det øvre ankelled?:: Trocklea tali (se [[Talus]])
@@ -24,7 +24,7 @@
 - [[Lig. talofibulare anterius]]
 - [[Lig. talofibulare posterius]]
 - [[Lig. calcaneofibulare]]
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-29,3,230-->
 
 ### Funktion
 - Hvilke bevægelser kan det øvre ankelled lave?:: Fleksion-ekstension (dorsalfelktion-plantarfleksion)

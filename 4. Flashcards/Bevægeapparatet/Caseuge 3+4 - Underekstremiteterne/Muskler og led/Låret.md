@@ -3,7 +3,7 @@
 - Hvad hedder låret på latin?:: Femur
 <!--SR:!2026-11-26,3,250-->
 - Hvad gør musklerne i låret overordnet?:: bevæger knæledet samt adducere hofteledet
-<!--SR:!2026-11-25,14,290-->
+<!--SR:!2027-01-21,56,310-->
 - Hvad hedder facien i låret?:: *Fascia lata*
 <!--SR:!2026-12-04,11,270-->
 - Hvor i låret binder bindevævssepta der opdeler låret?:: Linea aspera samt dens forlængelser (se [[Femoris]])
@@ -16,7 +16,7 @@
 ?
 - [[M. sartorius]]
 - [[M. quadriceps femoris]]
-<!--SR:!2026-11-26,7,250-->
+<!--SR:!2026-12-21,25,270-->
 
 - Hvilken form har lårets mediale muskelgruppe sammen?:: Trekant der udfylder hullet mellem femoris og hoften
 <!--SR:!2026-11-28,4,270-->
@@ -27,7 +27,7 @@
 - [[M. adductor brevis]]
 - [[M. adductor magnus]]
 - [[M. gracilis]]
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-06,10,270-->
 
 - Hvad kaldes lårets bagerste muskelgruppe også?:: Hasemuskler/hamstrings
 - Hvilken funktion har hasemusklerne ved gang/løb?:: Stoppe det framadgående ben og accelerere det bagud

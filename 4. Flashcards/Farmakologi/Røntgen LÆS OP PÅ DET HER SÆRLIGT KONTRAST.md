@@ -11,7 +11,7 @@
 - Ved røntgen af hvilken kropsdel gives den største og laveste dosing stråling?:: Mindst ved ekstremiteter mest ved rygrad
 <!--SR:!2027-01-22,60,310-->
 - Eksempel på projektioner til røntgen?:: PA (posteriort-anteriort) og profil (fra siden)
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-02-01,67,310-->
 - Hvorfor kan det være et problem at røntgen kun er 2-dimensionnel?:: Det er svært at skeldne overlappende knogler
 <!--SR:!2027-01-24,67,310-->
 

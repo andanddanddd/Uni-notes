@@ -17,11 +17,11 @@
 - Hvor udspringer m. peroneus tertius?:: [[Fibula]] og membrana interossea
 #### Insertion
 - Hvor har m. peroneus tertius insertion?:: Dorsalfalden af corpus af ossis metatarsales V
-<!--SR:!2026-11-26,1,190-->
+<!--SR:!2026-11-27,1,170-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. peroneus tertius?:: Dorsiflektion og eversion
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-04,8,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. peroneus tertius?

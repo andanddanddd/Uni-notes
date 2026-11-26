@@ -16,7 +16,7 @@
 - Hvad kaldes ledfladen på den distale ekstremitet af ulna?:: [[Caput ulna]]
 <!--SR:!2026-12-31,45,290-->
 - Hvad kaldes fremspringet på den distale ekstremitet af ulna?:: Processus styloideus ulna
-<!--SR:!2026-11-25,15,230-->
+<!--SR:!2027-01-13,48,250-->
 
 ### Relationer
 #### Led

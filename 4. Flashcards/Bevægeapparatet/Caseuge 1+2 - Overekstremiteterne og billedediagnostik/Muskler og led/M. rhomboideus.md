@@ -9,7 +9,7 @@
 
 ### Udspring
 - Hvor har m. rhomboideus udspring?:: Processus spinosus af C6-T4 samt ligamentet derimellem ([[Ligamentum supraspinalia]])
-<!--SR:!2026-11-26,17,250-->
+<!--SR:!2027-01-08,43,250-->
 
 ### Insertion
 - Hvor har m. rhomboideus insersion?:: Medialkanten af [[Scapula]]

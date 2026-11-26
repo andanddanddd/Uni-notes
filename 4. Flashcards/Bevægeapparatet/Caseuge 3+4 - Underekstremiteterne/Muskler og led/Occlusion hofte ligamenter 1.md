@@ -20,7 +20,7 @@
 <!--SR:!2026-12-11,16,290-->
 ![[Hofteligamenter 1|700]]K?:: [[Lig. iliofemorale]]
 ![[Hofteligamenter 1|700]]L?:: [[Lig. ischiofemorale]]
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-06,10,270-->
 ![[Hofteligamenter 1|700]]M?:: Zona orbicularis
 <!--SR:!2026-12-06,13,230-->
 

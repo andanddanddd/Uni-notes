@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor er musklerne i skulderes laterale muskelgruppe overordnet?:: Mellem skulderbæltet og humerus
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-02-01,67,310-->
 - Hvad kaldes skulderens laterale muskelgruppe også?:: De egentlige skuldermuskler
 <!--SR:!2027-01-10,58,310-->
 - Hvad er de 2 funktioner af de egentlige skuldermuskler?

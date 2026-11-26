@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. sternohyoideus?:: Tungebenets infrahyoide muskler
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-29,3,250-->
 - Hvor dybt ligger m. sternohyoideus?:: Dybt
 
 ### Form

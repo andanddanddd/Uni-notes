@@ -4,7 +4,7 @@
 
 
 ![[Lårmuskler 4|600]]A?:: [[M. gluteus maximus]]
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Lårmuskler 4|600]]B?:: [[M. gracilis]]
 ![[Lårmuskler 4|600]]C?:: [[M. semitendinosus]]
 <!--SR:!2026-12-15,21,250-->

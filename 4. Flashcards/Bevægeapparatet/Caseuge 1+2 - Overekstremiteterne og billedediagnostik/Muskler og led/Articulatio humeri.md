@@ -13,7 +13,7 @@
 - Hvad kaldes articulatio humeri ledlæbe?:: labrum glenoidale
 <!--SR:!2026-12-29,40,250-->
 	- Hvor store er labrum glenoidale?:: den går rundt langs hele ledskålen
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-02-01,67,310-->
 - Hvad hedder de 2 store stabiliserende ligamenter i art. humeri?
 ?
 - [[Ligamenta glenohumeralia]]

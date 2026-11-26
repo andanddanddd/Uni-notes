@@ -12,7 +12,7 @@
 - Hvad hedder ligamentet der holder de distale dele af aponeurosis palmaris sammen?:: [[Lig. metacarpale transversum superficiale]]
 <!--SR:!2026-11-25,1,210-->
 - Hvad er formålet med de sagitale septa der afgår fra de tværgående strøg på aponeurosis palmaris?:: Danne kanaler til flexorsenerne
-<!--SR:!2026-11-18,14,290-->
+<!--SR:!2027-01-19,54,310-->
 
 
 - Hvorfor er det smart at forankre huden til dybere væv i håndhen?:: Så den ikke forskydes for meget når vi griber fast om ting

@@ -15,7 +15,7 @@
 <!--SR:!2026-12-26,43,290-->
 ![[Fodens knogler 1|600]]F?:: [[Os cuboideum]]
 ![[Fodens knogler 1|600]]G?:: Tuberositas ossis metatarsalis V
-<!--SR:!2026-11-26,10,270-->
+<!--SR:!2026-12-23,27,270-->
 ![[Fodens knogler 1|600]]H?:: Phalanx proximale
 <!--SR:!2026-12-31,43,290-->
 ![[Fodens knogler 1|600]]I?:: Phalanx media

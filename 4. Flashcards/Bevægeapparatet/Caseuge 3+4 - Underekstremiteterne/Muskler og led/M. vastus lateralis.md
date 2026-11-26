@@ -4,7 +4,7 @@
 - Hvor er m. vastus lateralis overordnet?:: Foran (og lidt bagpå) låret
 <!--SR:!2026-12-04,16,290-->
 - Hvor dybt ligger m. vastus lateralis?:: Dybt
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Form
 - Hvilken form har m. vastus lateralis?
@@ -14,7 +14,7 @@
 <!--SR:!2026-12-11,16,290-->
 #### Udspring
 - Hvor udspringer m. vastus lateralis?:: Linea aspara (og dens forlængelser) (se [[Femoris]])
-<!--SR:!2026-11-25,14,290-->
+<!--SR:!2027-01-19,54,310-->
 #### Insertion
 - Hvor har m. vastus lateralis insertion?:: Tuberositas tibia (sammen med resten af [[M. quadriceps femoris]])
 <!--SR:!2026-12-07,14,290-->

@@ -14,7 +14,7 @@
 ![[Pasted image 20261111103321.png]]6?:: Fossa olecrani
 <!--SR:!2026-11-19,3,250-->
 ![[Pasted image 20261111103321.png]]7?:: Epicondylus medialis
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Pasted image 20261111103321.png]]8?:: Capsula articularis
 <!--SR:!2026-12-06,11,270-->
 ![[Pasted image 20261111103321.png]]9?:: Olecranon

@@ -14,7 +14,7 @@
 <!--SR:!2026-11-26,7,250-->
 ![[Hofte anatomi 1|700]]F?:: Tuber ischiadicum
 ![[Hofte anatomi 1|700]]G?:: [[N. pudendus]]
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-07,11,270-->
 ![[Hofte anatomi 1|700]]H?:: [[Lig. sacrotuberale]]
 ![[Hofte anatomi 1|700]]I?:: [[M. gluteus maximus]]
 

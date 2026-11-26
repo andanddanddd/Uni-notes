@@ -26,7 +26,7 @@
 <!--SR:!2027-01-26,63,310--> 
 
 - Hvad kaldes ledet mellem os sacrum og os coxae?:: [[Articulatio sacroiliaca]]
-<!--SR:!2026-11-22,9,250-->
+<!--SR:!2026-12-29,33,270-->
 - Hvilken type led er lettet mellem os sacrum og os coxae?:: Synovialled [[Glideled]]
 #### Muskler
 #### Kar- og nerveforsyning
@@ -38,7 +38,7 @@
 - Type af ossifikation
 - Hvornår vokser de 3 dele af os coxae sammen?:: I slutningen af puberteten
 - Hvad hedder punktet hvor de 3 dele af os coxae vokser sammen?:: [[Acetabulum]]
-<!--SR:!2026-11-26,16,290-->
+<!--SR:!2027-02-01,67,310-->
 ### Inspektion og palpation
 ### Klinik
 

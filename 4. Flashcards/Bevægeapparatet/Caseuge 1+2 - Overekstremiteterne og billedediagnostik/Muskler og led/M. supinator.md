@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. supinator?:: Supination
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-31,66,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

@@ -8,7 +8,7 @@
 <!--SR:!2026-11-26,2,190-->
 ![[Nakkemuskler 1|700]]C?:: [[M. Semispinalis]] (capitis)
 ![[Nakkemuskler 1|700]]D?:: [[M. splenius]]
-<!--SR:!2026-11-25,1,210-->
+<!--SR:!2026-11-27,1,190-->
 ![[Nakkemuskler 1|700]]E?:: [[M. Longissimus]] (capitis)
 ![[Nakkemuskler 1|700]]F?:: Processus mastoideus
 ![[Nakkemuskler 1|700]]G?:: [[M. obliquus capitis superior]]

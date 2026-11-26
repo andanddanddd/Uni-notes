@@ -14,7 +14,7 @@
 ?
 - [[Facies articularis acrominalis]]
 - [[Facies articularis sternalis]]
-<!--SR:!2026-11-20,16,290-->
+<!--SR:!2027-02-01,67,310-->
 
 ### Relationer
 #### Led
@@ -24,7 +24,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er clavicula?:: Lang knogle
-<!--SR:!2026-11-26,15,290-->
+<!--SR:!2027-01-23,58,310-->
 - Er clavicula parret eller uparret?:: Parret
 - Form og størrelse
 ### Ossifikation og heeling

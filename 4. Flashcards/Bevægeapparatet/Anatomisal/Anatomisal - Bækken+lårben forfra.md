@@ -13,7 +13,7 @@
 ![[Pasted image 20261112112219.png]]6?:: Tuber ischiadicum
 <!--SR:!2026-12-19,26,270-->
 ![[Pasted image 20261112112219.png]]7?:: Corpus femoris
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Pasted image 20261112112219.png]]8?:: Os saccrum
 ![[Pasted image 20261112112219.png]]9?:: Os coccygis
 ![[Pasted image 20261112112219.png]]10?:: Linea arcuata

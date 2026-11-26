@@ -7,7 +7,7 @@
 ![[Foden oppefra|700]]B?:: [[M. extensor digitorum longus]]
 <!--SR:!2026-12-07,14,290-->
 ![[Foden oppefra|700]]C?:: [[M. extensor hallucis brevis]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Foden oppefra|700]]D?::[[M. extensor digitorum brevis]]
 <!--SR:!2026-11-24,8,250-->
 ![[Foden oppefra|700]]E?:: [[M. interosseus dorsalis]]

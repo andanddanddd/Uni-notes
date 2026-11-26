@@ -2,4 +2,4 @@
 
 - Hvor kommer A. obturatoria fra?:: Udspringer fra den foreste stamme a [[A. ilica interna]]
 - Hvad giver a. obturatoria blod til?:: Musklerne i lårets mediale muskelgruppe (se [[Låret]])
-<!--SR:!2026-11-25,1,210-->
+<!--SR:!2026-11-29,3,230-->

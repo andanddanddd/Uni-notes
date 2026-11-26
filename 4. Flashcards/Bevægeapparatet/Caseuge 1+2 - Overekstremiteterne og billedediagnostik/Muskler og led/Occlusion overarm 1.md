@@ -10,7 +10,7 @@
 ![[Overarm muskler 1|800]]C?:: [[M. brachialis]]
 <!--SR:!2026-12-19,33,270-->
 ![[Overarm muskler 1|800]]D?:: [[M. biceps brachii]]
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-24,59,310-->
 ![[Overarm muskler 1|800]]F (M. biceps brachii-)?:: Aponeurosis
 <!--SR:!2026-12-05,26,270-->
 ![[Overarm muskler 1|800]]G (M. biceps brachii-)?:: Caput longum

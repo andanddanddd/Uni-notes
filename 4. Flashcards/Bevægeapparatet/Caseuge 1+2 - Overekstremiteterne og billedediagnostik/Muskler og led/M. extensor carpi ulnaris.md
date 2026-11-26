@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. extensor carpi ulnaris overordnet?:: Dorsalt på underarmen
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-02-01,67,310-->
 - Hvor dybt ligger m. extensor carpi ulnaris?:: Superficielt
 <!--SR:!2026-12-18,39,290-->
 

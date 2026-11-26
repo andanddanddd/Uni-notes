@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder sternum på dansk?:: Brystbenet
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 #### Placering og orientering
 - Hvor er sternum overordnet?:: Brystkassens forvæg
@@ -22,12 +22,12 @@
 		- Hvor mange insicura costales er på hver side af corpus sternum?:: 5
 		- Hvor er de 5 incisurae costales?:: Ved hver af de horizontale linjer på corpus sterni samt en ekstra på hhv det øvertse og nederste udsnit
 - Hvad kaldes den nederste del af sternum?:: Processus xipoideus
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-07,11,270-->
 	- Hvilken form har proccesus zipoideus?:: Flad og trekantet
 
 - Hvad hedder ledet mellem manubrium sterni og corpus sterni?:: Angulus sterni
 	- Hvilken ledtype er angulus sterni?:: Primær [[Synchondroser]]
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-28,2,230-->
 
 
 ### Relationer

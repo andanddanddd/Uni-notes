@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. biceps femoris overordnet?:: Lårets bagertse muskelgruppe
 - Hvor dybt ligger m. biceps femoris?:: Superficielt
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Form
 - Hvilken form har m. biceps femoris?
@@ -14,9 +14,9 @@
 <!--SR:!2026-11-28,12,270-->
 #### Udspring
 - Hvor udspringer caput longum af m. biceps femoris?:: Tuber ischiadicum (se [[Os ischii]])
-<!--SR:!2026-11-26,7,250-->
+<!--SR:!2026-12-22,26,270-->
 - Hvor udspringer caput breve af m. biceps femoris?:: Linea asperas laterale kant (se [[Femoris]])
-<!--SR:!2026-11-24,1,230-->
+<!--SR:!2026-11-27,1,210-->
 #### Insertion
 - Hvor har m. biceps femoris insertion?:: Caput fibulae (se [[Fibula]])
 

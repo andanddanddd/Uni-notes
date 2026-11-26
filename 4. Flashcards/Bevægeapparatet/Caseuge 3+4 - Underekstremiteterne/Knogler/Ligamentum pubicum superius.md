@@ -4,4 +4,4 @@
 <!--SR:!2026-11-28,16,290-->
 - Hvor binder lig. pubicum sup?:: Crista pubica
 - Hvilken form har lig. pubicum sup.?:: Relativt lige
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-01-31,66,310-->

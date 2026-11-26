@@ -6,11 +6,11 @@
 ![[Pasted image 20261112112413.png]]2?:: Incisura ischiadica major
 <!--SR:!2026-11-26,3,250-->
 ![[Pasted image 20261112112413.png]]3?:: Lig. sacrotuberale
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-07,11,270-->
 ![[Pasted image 20261112112413.png]]4?:: Trochanter major
 <!--SR:!2026-12-08,15,290-->
 ![[Pasted image 20261112112413.png]]5?:: Femur
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Pasted image 20261112112413.png]]6?:: Crista iliaca
 <!--SR:!2026-11-28,4,270-->
 ![[Pasted image 20261112112413.png]]7?:: Spina iliaca anterior superior

@@ -4,4 +4,4 @@
 - Hvilke rygmarvssegmenter kommer n. musculocutaneus fra?:: C5-C7
 <!--SR:!2026-11-27,2,230-->
 - Hvilken funktioner har n. musculocutaneus?:: Innervere muskler på overarmen (motorisk) og hus på underarmen (motorisk)
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->

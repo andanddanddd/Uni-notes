@@ -9,4 +9,4 @@
 ![[Underarm bagved 1]]C?:: [[M. extensor digiti minimi]]
 <!--SR:!2026-11-29,13,230-->
 ![[Underarm bagved 1]]D?:: [[M. extensor digitorum]]
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-06,10,270-->

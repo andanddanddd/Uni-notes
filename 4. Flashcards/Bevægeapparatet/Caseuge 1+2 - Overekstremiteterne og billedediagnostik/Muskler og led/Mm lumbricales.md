@@ -4,7 +4,7 @@
 <!--SR:!2027-01-09,46,290-->
 ### Lokation
 - Hvor er mm. lumbricales overordnet?:: Mellem fingerne palmart
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-25,60,310-->
 - Hvor dybt ligger mm. lumbricales?
 
 ### Form

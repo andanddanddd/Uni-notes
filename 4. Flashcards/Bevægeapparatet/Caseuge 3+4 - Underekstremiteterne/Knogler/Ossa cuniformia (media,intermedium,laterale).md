@@ -3,7 +3,7 @@
 
 ### Generalt
 - Hvad hedder os cuniformia på dansk?:: Kilebenene
-<!--SR:!2026-11-20,4,190-->
+<!--SR:!2026-12-04,8,190-->
 
 #### Placering og orientering
 - Hvor er ossa connuformia overordnet?:: Fodroden

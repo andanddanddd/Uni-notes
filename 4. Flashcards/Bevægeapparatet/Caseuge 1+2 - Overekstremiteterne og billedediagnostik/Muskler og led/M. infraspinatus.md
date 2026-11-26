@@ -7,7 +7,7 @@
 
 ### Form
 - Hvilken form har m. infraspinatus?:: Tyk (kraftig) og trekantet
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-26,61,310-->
 
 ### Udspring
 - Hvor udspringer m. infraspinatus?:: Fossa infraspinata (se [[Scapula]])

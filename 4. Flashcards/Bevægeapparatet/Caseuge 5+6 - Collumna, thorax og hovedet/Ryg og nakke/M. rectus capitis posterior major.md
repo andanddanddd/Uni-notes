@@ -14,7 +14,7 @@
 - Hvor udspringer mm. rectus capitis posterior major?:: [[Torntappe]]n på C2 ([[Axis]])
 #### Insertion
 - Hvor har mm. rectus capitis posterior major insertion?:: Under linea nuchalis inf. (se [[Os occipitale]])
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-27,1,210-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. rectus capitis posterior major?

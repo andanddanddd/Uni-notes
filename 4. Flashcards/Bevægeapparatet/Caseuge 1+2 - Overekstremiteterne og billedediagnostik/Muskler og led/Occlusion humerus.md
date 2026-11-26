@@ -18,13 +18,13 @@
 ![[Humerus anatomi 1]]G?:: Fossa radialis
 <!--SR:!2026-12-17,38,290-->
 ![[Humerus anatomi 1]]H?:: Capitulum humeri
-<!--SR:!2026-11-25,14,210-->
+<!--SR:!2027-01-07,42,230-->
 ![[Humerus anatomi 1]]I?:: Condylus humeri
 <!--SR:!2027-01-16,58,310-->
 ![[Humerus anatomi 1]]J?::Sulcus intertubercularis
 <!--SR:!2026-12-17,41,290-->
 ![[Humerus anatomi 1]]K?:: Caput humeri
-<!--SR:!2026-11-25,15,290-->
+<!--SR:!2027-01-25,60,310-->
 ![[Humerus anatomi 1]]L?:: Tuberculum minus
 <!--SR:!2026-12-18,42,290-->
 ![[Humerus anatomi 1]]M?:: Collum chiurgicum

@@ -12,7 +12,7 @@
 ![[Pasted image 20261111093203.png]]12?:: [[Lig. transversum genus]]
 <!--SR:!2026-11-28,5,230-->
 ![[Pasted image 20261111093203.png]]3?:: Lig. collaterale fibulare
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-04,8,250-->
 ![[Pasted image 20261111093203.png]]8?:: [[Tibia]]
 <!--SR:!2026-12-09,16,290-->
 ![[Pasted image 20261111093203.png]]13?:: Condylus medialis tibiae

@@ -5,11 +5,11 @@
 - Hvor er m. gluteus minimus overordnet?:: Bagpå  hoften
 <!--SR:!2026-11-25,15,290-->
 - Hvor dybt ligger m. gluteus minimus?:: Dybt
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Form
 - Hvilken form har m. gluteus minimus?:: Flad, vifteformet
-<!--SR:!2026-11-26,16,290-->
+<!--SR:!2027-01-31,66,310-->
 
 ### Udspring
 - Hvor udspringer m. gluteus minimus?:: Mellem linea glutea ant. og linea glutea inf.

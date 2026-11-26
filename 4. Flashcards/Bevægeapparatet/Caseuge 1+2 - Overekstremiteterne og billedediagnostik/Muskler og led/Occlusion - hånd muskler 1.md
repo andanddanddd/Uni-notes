@@ -21,4 +21,4 @@
 ![[Hånd muskler 1|800]]J?:: [[M. opponens pollicis]]
 <!--SR:!2027-01-25,61,310-->
 ![[Hånd muskler 1|800]]K?:: [[Retinaculum flexorum]]
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-07,11,270-->

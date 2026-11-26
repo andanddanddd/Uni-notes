@@ -17,5 +17,5 @@
 ![[Pasted image 20261111095300.png]]10?:: Meniscus lateralis
 ![[Pasted image 20261111095300.png]]11?:: Caput fibulae
 ![[Pasted image 20261111095300.png]]12?:: Collum fibulae
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Pasted image 20261111095300.png]]13?:: [[Fibula]]

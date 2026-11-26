@@ -13,7 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. soleus?:: Linea m. solei (se [[Tibia]])
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-28,2,230-->
 #### Insertion
 - Hvor har m. soleus insertion?:: Tuber calcanei (se [[Calcaneus]])
 <!--SR:!2026-11-27,4,270-->

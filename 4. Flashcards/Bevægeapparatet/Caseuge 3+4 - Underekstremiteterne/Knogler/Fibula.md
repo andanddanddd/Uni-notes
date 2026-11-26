@@ -9,7 +9,7 @@
 - Hvor i skinnebenet er fibula?:: Lateralt
 #### Form og størrelse
 - Hvad hedder ledhovdet på den proxiamle ekstremitet af fibula?:: [[Caput fibulae]]
-<!--SR:!2026-11-26,15,290-->
+<!--SR:!2027-01-28,63,310-->
 - Hvilken form har corpus fibulae?:: Trekantet (prisme)
 <!--SR:!2026-11-25,14,290-->
 - Hvad kaldes den distale ekstremitet af fibula?:: Mallelus lateralis
@@ -24,7 +24,7 @@
 - Hvilken knogletype er fibula?:: Rørknogle
 <!--SR:!2026-11-28,4,270-->
 - Er fibula parret eller uparret?:: Parret
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

@@ -4,7 +4,7 @@
 - Hvilken del af nerverne fra rygmarven går til plexus brachialis?:: Rami ventralis nn spinalium
 <!--SR:!2026-12-11,16,290-->
 - Hvilke spinalnerver samles til trunki i plexus brachialis?:: C5+C6 og C8+T1 (C7 fortsætter som sin egen trunki)
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-06,10,270-->
 - Had hedder de 3 trunki der danner plexus bracialis?:: Truncus sup. med. og inf.
 - Hvilke grene deler de 3 trunki sig i i plexus brachialis?:: En anterior og en posterior gren
 <!--SR:!2026-12-05,16,290-->

@@ -15,4 +15,4 @@
 ![[Armens arterier 2|600]]H?:: [[Aa. digitales palmares communes]]
 <!--SR:!2026-11-27,3,250-->
 ![[Armens arterier 2|600]]I?:: [[Aa. digitales palmares propriae]]
-<!--SR:!2026-11-25,1,190-->
+<!--SR:!2026-11-28,2,190-->

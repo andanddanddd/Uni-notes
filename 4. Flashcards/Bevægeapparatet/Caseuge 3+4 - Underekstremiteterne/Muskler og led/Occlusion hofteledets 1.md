@@ -8,7 +8,7 @@
 ![[Hofteledet 1|600]]B?:: Membrana synovialis
 <!--SR:!2026-11-27,3,250-->
 ![[Hofteledet 1|600]]C?:: Zona orbicularis
-<!--SR:!2026-11-25,2,230-->
+<!--SR:!2026-12-01,5,230-->
 ![[Hofteledet 1|600]]D?:: Epifyseskive
 <!--SR:!2026-12-06,16,290-->
 ![[Hofteledet 1|600]]E?:: Memrbana fibrosa

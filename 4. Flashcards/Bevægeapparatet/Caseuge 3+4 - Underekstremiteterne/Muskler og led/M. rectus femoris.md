@@ -4,7 +4,7 @@
 ### Lokation
 - Hvor er m. rectus femoris overordnet?:: Foran på låret
 - Hvilken del af [[M. quadriceps femoris]] kaldes m. rectus femoris?:: Den foreste muskelportion
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-12,16,290-->
 - Hvor dybt ligger m. rectus femoris?
 
 ### Form
@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. rectus femoris?:: Ekstension af hofteledet og knæledet
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus femoris?

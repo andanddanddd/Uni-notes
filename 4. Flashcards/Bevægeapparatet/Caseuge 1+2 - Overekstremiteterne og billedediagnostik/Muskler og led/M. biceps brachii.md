@@ -9,7 +9,7 @@
 
 ### Form
 - Hvilken form har m. biceps brachii?:: Lang tenformet
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-02-01,67,310-->
 
 ### Udspring
 

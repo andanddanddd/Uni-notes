@@ -10,7 +10,7 @@
 <!--SR:!2026-11-26,2,210-->
 ![[Lårmuskler 5|600]]C?:: [[M. semimembranosus]]
 ![[Lårmuskler 5|600]]D?:: [[M. semitendinosus]]
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Lårmuskler 5|600]]E?:: [[M. gluteus medius]]
 <!--SR:!2026-11-27,16,290-->
 ![[Lårmuskler 5|600]]F?:: [[M. piriformis]]
@@ -19,4 +19,4 @@
 ![[Lårmuskler 5|600]]H? (hvilket hoved?):: [[M. biciptis]] caput longum
 <!--SR:!2026-11-26,3,250-->
 ![[Lårmuskler 5|600]]I? (hvilket hoved?):: [[M. biciptis]] caput breve
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-03,7,250-->
