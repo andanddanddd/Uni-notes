@@ -4,7 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. scalenus post.?:: Scalenergruppen af de dybe halsmuskler
 - Hvor dybt ligger m. scalenus post.?:: Dybt (overfladisk nedadtil)
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-12,16,290-->
 
 ### Form
 - Hvilken form har m. scalenus post.?

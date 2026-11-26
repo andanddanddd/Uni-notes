@@ -12,7 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. adductor magnus?:: Fra sammenvoksningen mellem ramus ossis ischi og ramsu inf ossis pubis til tuber ischiadicum (se [[Os ischii]] og [[Os pubis]])
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-03,7,250-->
 #### Insertion
 - Hvor har m. adductor magnus insertion?:: Mediale længe af linea aspara og tuberculum adductorum (se [[Femoris]])
 <!--SR:!2026-12-06,13,230-->

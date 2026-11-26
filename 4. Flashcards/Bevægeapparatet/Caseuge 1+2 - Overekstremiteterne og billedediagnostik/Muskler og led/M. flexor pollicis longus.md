@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor pollicis longus?:: Flekstion af tommelfingeren (alle led)
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-28,63,310-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

@@ -19,7 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. peroneus longus?:: Eversion og plantarflektion
-<!--SR:!2026-11-23,3,250-->
+<!--SR:!2026-12-07,11,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. peroneus longus?

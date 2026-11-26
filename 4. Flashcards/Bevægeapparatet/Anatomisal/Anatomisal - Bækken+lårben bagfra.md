@@ -5,7 +5,7 @@
 ![[Pasted image 20261112112938.png]]1?:: Ligg. Sacroiliaca posteriora
 ![[Pasted image 20261112112938.png]]2?:: Lig. Sacrospinale
 ![[Pasted image 20261112112938.png]]3?:: Lig. Sacrotuberale
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-12,16,290-->
 ![[Pasted image 20261112112938.png]]4?:: Tuber ischiadicum
 ![[Pasted image 20261112112938.png]]5?:: Trochanter minor
 ![[Pasted image 20261112112938.png]]6?:: Linea pectinea
