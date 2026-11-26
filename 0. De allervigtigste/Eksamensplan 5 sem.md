@@ -8,21 +8,36 @@
 - [ ] **22/12-26** (Vacciner)
 	- [ ] Vaciner slides
 	- [ ] Immonologi kap 17 (s. 353 - 370)
-	- [ ] Børnevaccinationsprogrammet
+	- [ ] Børnevaccinationsprogrammet (listen)
+	- [ ] Vaccinationerne til vokse og andre risikogrupper på listen
 	- [ ] Epidimologi ved vaccinationer
 	- [ ] 150 flashcards
 - [ ] **23/12-26** (Til Skødstrup)
+	- [ ] 400 flashcards
 - [ ] **24/12-26** (Jul)
 	- [ ] 300 flashcards
 - [ ] **25/12-26** (Til Kolding)
 	- [ ] 300 flashcards
 - [ ] **26/12-26** (Juleforkost)
 	- [ ] 300 flashcards
-- [ ] **27/12-26** 
-- [ ] **28/12-26** 
+- [ ] **27/12-26** (Parasitter)
+	- [ ] Parasitter slides
+	- [ ] Malaria
+	- [ ] Protozoer (fra listen)
+	- [ ] Helminter (fra listen)
+- [ ] **28/12-26** (Julefrokost + til Støvring)
+	- [ ] 100 flashcards
 - [ ] **29/12-26** 
-- [ ] **30/12-26** 
+	- [ ] Svampe slides
+	- [ ] Oppertunistiske svampe (fra listen)
+	- [ ] **Bacteroides fragilis**
+	- [ ] 300 flashcards
+- [ ] **30/12-26** (Antibiotika)
+	- [ ] Antibiotika slides x2
+	- [ ] Antibiotika fra listen
 - [ ] **31/12-26** (Nytår)
+	- [ ] Staphylkokker + slides
+	- [ ] Streptokokker + slides
 - [ ] **1/1-27** 
 - [ ] **2/1-27** 
 - [ ] **3/1-27** 
