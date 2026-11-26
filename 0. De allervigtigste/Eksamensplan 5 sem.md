@@ -1,6 +1,6 @@
 #flashcards/5 
 
-
+MANGLER VIRUS
 - [ ] **21/12-26** (Immo)
 	- [ ] Overfør immo flashcards fra remnote
 	- [ ] 100 flashcards
@@ -39,13 +39,28 @@
 	- [ ] Staphylkokker + slides
 	- [ ] Streptokokker + slides
 - [ ] **1/1-27** 
-- [ ] **2/1-27** 
-- [ ] **3/1-27** 
-- [ ] **4/1-27** 
-- [ ] **5/1-27** 
-- [ ] **6/1-27** 
+	- [ ] Clostrium
+- [ ] **2/1-27** (enterobakterier)
+	- [ ] Slides enterobakterie
+	- [ ] **Listeria monocytogenes**
+	- [ ] Baccilus cerius
+	- [ ] **E-coli**
+	- [ ] **Salmonella**
+	- [ ] **Campylobactor**
+- [ ] **3/1-27** (Seksuelt overførte sygdomme)
+	- [ ] Slides seksuelt overførte sygdomme
+	- [ ] _**Chlamydia trachomatis**_
+	- [ ] _**Neisseria gonorrhoeae**_
+- [ ] **4/1-27** (Meningitis og sepsis)
+	- [ ] Bakteirer
+- [ ] **5/1-27** (Urinvejsinfektion og pneumoni)
+- [ ] **6/1-27** (Resten af bakterierne)
+	- [ ] 
 - [ ] **7/1-27** 
+	- [ ] 2 eksamenssæt 500 flashcards
 - [ ] **8/1-27** 
+	- [ ] 2 Eksamenssæt
+	- [ ] 500 flashcards
 - [ ] **9/1-27 EKSAMEN MIKRO**
 - [ ] **10/1-27** 
 - [ ] **11/1-27** 

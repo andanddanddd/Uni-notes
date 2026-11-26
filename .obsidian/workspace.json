@@ -9,27 +9,13 @@
         "dimension": 39.1452161243322,
         "children": [
           {
-            "id": "b6324ab1409c482b",
+            "id": "e6c0b8e9b359bd4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. De allervigtigste/Eksamensplan 5 sem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eksamensplan 5 sem"
+              "title": "New tab"
             }
           }
         ]
@@ -76,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406,
-    "collapsed": true
+    "width": 308.05348205566406
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -267,10 +252,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b6324ab1409c482b",
+  "active": "f68f0aa157be0d2a",
   "lastOpenFiles": [
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "0. De allervigtigste/Eksamensplan 5 sem.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Stenoser.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columna – Kliniske problemstillinger.md",
@@ -305,7 +290,6 @@
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123104845.png",
     "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Klinik",
-    "Externe dokumenter/Bevægeapparatet/Overekstremiteterne/Slides - 20261103_OE __Clinical Problem Teaching_2_Tong Tong.pdf",
     "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123100131.png",
     "Billeder/Bevægeapparatet/Thorax/sternum 1.png",
     "Billeder/Bevægeapparatet/Thorax/diagfragma 2.png",
