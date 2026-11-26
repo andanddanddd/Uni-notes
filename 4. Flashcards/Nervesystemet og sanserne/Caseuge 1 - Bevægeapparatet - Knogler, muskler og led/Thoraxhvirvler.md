@@ -6,6 +6,6 @@
 <!--SR:!2026-11-29,3,250-->
 
 - Hvordan kan corpus vertebrae indentiviferes på thorakale rygvirler?:: Den er hjerteformen
-- Hvilken tap er speciel ved thoraxvirvlerne?:: Processus spinosus er extra lang [[Torntappe]]
+- Hvilken tap er speciel ved thoraxvirvlerne?:: Processus spinosus er extra lang [[Torntappe]] og vender nedad
 
 - Hvad kaldes de 2 ektsra ledflader thoraxhvirvlerne har?:: [[Fovea costalis (sup-inf)]]
