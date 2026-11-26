@@ -5,6 +5,7 @@
 - Hvilken muskelgruppe "tilhører" fascia thoracolumbalis?:: De dybe rygmuskler
 <!--SR:!2026-11-27,4,270-->
 - Hvor på ryghirvlerne hæfter det dorsale blad af fascia thoracolumbalis?:: [[Torntappe]]n
+<!--SR:!2026-11-30,4,270-->
 - Hvor på ryghirvlerne hæfter det ventrale blad af fascia thoracolumbalis?:: [[Tværtappe]]ne
 - Hvor er fascia thoracolumbalis tykkest?:: Lænden (gradvist tyndere opadtil)
 <!--SR:!2026-12-08,15,290-->

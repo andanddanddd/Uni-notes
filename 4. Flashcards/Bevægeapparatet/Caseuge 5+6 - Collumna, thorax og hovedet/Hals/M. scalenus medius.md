@@ -4,6 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. scalenus med.?:: Scalendergruppen af de dybe halsmuskler
 - Hvor dybt ligger m. scalenus med.?:: Dybt (overfladisk nedadtil)
+<!--SR:!2026-11-30,4,270-->
 
 ### Form
 - Hvilken form har m. scalenus med.?

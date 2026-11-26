@@ -22,6 +22,7 @@
 - [[N. ulnaris]]
 - [[N. axilaris]]
 - [[N. radialis]]
+<!--SR:!2026-11-30,4,270-->
 
 - Hvordan testes sensorik på håndes så alle 3 nerver testes?:: Mærkes yderst på finger 2+5 samt dorsalt på radiealsiden af håndroden 
 - Hvorfor er det ofte kun et lille område på hånden der mister sensorik ved nervelesion i nogle af håndens nerver?:: Store dele af hånden er innerveret af 2 nerver og den raske vil derfor bare tage over

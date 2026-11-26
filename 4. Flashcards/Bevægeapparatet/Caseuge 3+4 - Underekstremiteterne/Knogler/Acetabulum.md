@@ -12,5 +12,6 @@
 <!--SR:!2026-12-16,27,270-->
 - Hvad hedder den nedre kant af acetabulum hvor limbus acetabuli mangler?:: Incisura acetabuli
 - Hvor "dyb" er acetabulum?:: Der er plads til en halvkugle
+<!--SR:!2026-11-30,4,270-->
 - Hvad er facies lunata?:: Den bruskbeklædte den af acetabulum
 <!--SR:!2026-11-27,4,270-->

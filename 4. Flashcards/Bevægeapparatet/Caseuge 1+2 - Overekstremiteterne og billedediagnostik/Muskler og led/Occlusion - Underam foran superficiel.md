@@ -4,6 +4,7 @@
 
 
 ![[Underarm foran 1]]A?:: [[M. brachioradialis]]
+<!--SR:!2026-11-30,4,270-->
 ![[Underarm foran 1]]B?:: [[M. pronator teres]]
 <!--SR:!2027-01-11,56,310-->
 ![[Underarm foran 1]]C?:: Caput commune flexorum

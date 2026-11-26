@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. adductor longus overordnet?:: Lårets mediale muskelgruppe
 - Hvor dybt ligger m. adductor longus?:: SUperficielt
+<!--SR:!2026-11-30,4,270-->
 
 ### Form
 - Hvilken form har m. adductor longus?

@@ -22,6 +22,7 @@
 - Hvilke 3 dele består et ribben overodnet af?:: Hoved, hals og skaft
 - Hvor findes ribbenhovedet?:: Ved ledet med [[Ryghvirvler]]ne
 - Hvor er halsen på ribbenen?:: Efter hovedet, dvs tæt ved ryghvirveler
+<!--SR:!2026-11-30,4,270-->
 - Hvad hedder strukturen der danner grænse mellem hals og skaft af et ribben?:: Tuberculum costae
 <!--SR:!2026-11-27,4,270-->
 	- Hvad articulere tuberculum costae med?:: [[Tværtappe]]
@@ -41,6 +42,7 @@
 #### Kar- og nerveforsyning
 ### Knogletype
 - Hvilken knogletype er ribbenene?:: Flad knogle
+<!--SR:!2026-11-29,3,250-->
 - Er ribbenene parret eller uparret?:: Parret
 <!--SR:!2026-12-11,16,290-->
 ### Ossifikation og heeling

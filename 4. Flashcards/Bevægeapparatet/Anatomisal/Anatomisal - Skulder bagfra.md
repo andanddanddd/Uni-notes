@@ -5,6 +5,7 @@
 ![[Pasted image 20261112113841.png]]1?:: M. infraspinatus
 ![[Pasted image 20261112113841.png]]2?:: M. teres minor
 ![[Pasted image 20261112113841.png]]3?:: M. teres major
+<!--SR:!2026-11-30,4,270-->
 ![[Pasted image 20261112113841.png]]4?:: M. latissimus dorsi![[Pasted image 20261112113841.png]]5?:: M. deltoideus, pars acromialis![[Pasted image 20261112113841.png]]6?:: M. deltoideus, pars spinalis
 ![[Pasted image 20261112113841.png]]7?:: M. triceps brachii
 <!--SR:!2026-12-12,16,290-->

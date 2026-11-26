@@ -4,6 +4,7 @@
 ### Lokation
 - Hvor er m. popliteus overordnet?:: Underbenets bagerste loge
 - Hvor dybt ligger m. popliteus?:: Dybt
+<!--SR:!2026-11-29,3,250-->
 
 ### Form
 - Hvilken form har m. popliteus?:: Kort flad
