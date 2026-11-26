@@ -19,6 +19,7 @@
 - Hvor udspringer m. quadriceps femoris?
 #### Insertion
 - Hvor har m. quadriceps femoris insertion?:: Tuberositas tibiae
+<!--SR:!2026-11-30,4,270-->
 - Hvad hedder senen der binder til tuberositas tibia?:: Ligamentum patellae
 <!--SR:!2026-12-12,19,250-->
 

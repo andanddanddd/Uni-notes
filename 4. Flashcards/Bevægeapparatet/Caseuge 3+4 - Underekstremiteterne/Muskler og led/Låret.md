@@ -37,6 +37,7 @@
 - [[M. biceps femoris]]
 - [[M. semitendinosus]]
 - [[M. semimembranosus]]
+<!--SR:!2026-11-29,3,250-->
 
 [[Occlusion - lårmuskler 1]]
 [[Occlusion - lårmuskler 2]]

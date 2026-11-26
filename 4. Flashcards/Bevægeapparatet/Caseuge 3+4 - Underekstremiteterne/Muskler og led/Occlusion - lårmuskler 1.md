@@ -12,6 +12,7 @@
 ![[Lårmuskler 1|600]]F?:: [[M. rectus femoris]]
 <!--SR:!2026-11-29,12,230-->
 ![[Lårmuskler 1|600]]G?:: [[M. vastus lateralis]]
+<!--SR:!2026-11-29,3,250-->
 ![[Lårmuskler 1|600]]H?:: [[Lig. patellae]]
 ![[Lårmuskler 1|600]]I?:: Tuberositas tibiae
 ![[Lårmuskler 1|600]]J?:: [[M. pectineus]]

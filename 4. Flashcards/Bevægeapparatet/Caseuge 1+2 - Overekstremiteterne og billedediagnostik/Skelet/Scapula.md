@@ -5,6 +5,7 @@
 - Hvad hedder scapula på dansk?:: Skulderbladet
 <!--SR:!2027-01-17,65,310-->
 - Hvad er scapulas funktion?:: Agere bevægelig platform for overarmen
+<!--SR:!2026-11-29,3,250-->
 
 #### Placering og orientering
 - Hvordan vender scapula i forhold til frontalplan?:: Drejet 40 grader på en måde hvor de mediale dele er mere posteriort end de laterale

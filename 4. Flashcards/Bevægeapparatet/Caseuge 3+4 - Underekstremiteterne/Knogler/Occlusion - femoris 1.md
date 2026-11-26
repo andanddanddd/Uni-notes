@@ -41,6 +41,7 @@
 ![[Femoris 1|600]]T?:: Condylus lateralis
 <!--SR:!2026-12-26,43,290-->
 ![[Femoris 1|600]]U?:: Fossa inercondylaris
+<!--SR:!2026-11-27,1,230-->
 ![[Femoris 1|600]]V?:: Condylus medialis
 <!--SR:!2026-11-24,15,290-->
 

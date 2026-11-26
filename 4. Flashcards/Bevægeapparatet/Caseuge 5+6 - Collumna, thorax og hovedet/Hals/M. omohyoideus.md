@@ -3,6 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. omohyoideus?:: Tungebenets infrahyoide muskler
+<!--SR:!2026-11-30,4,270-->
 - Hvor dybt ligger m. omohyoideus?:: Superficielt
 
 ### Form
@@ -17,6 +18,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. omohyoideus?:: Trække [[Os. hyoideum]] nedad
+<!--SR:!2026-11-29,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. omohyoideus?

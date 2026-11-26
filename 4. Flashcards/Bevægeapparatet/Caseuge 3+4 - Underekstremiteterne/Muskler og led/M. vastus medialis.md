@@ -21,6 +21,7 @@
 
 ### Funktion
 - Hvilken ikke-bevægelsesmæssig funktion har m. vastus medialis?:: Stabilisering af patella
+<!--SR:!2026-11-29,3,250-->
 - Hvilke bevægelser udfører m. vastus medialis?
 
 ### Innerversion og reflekser

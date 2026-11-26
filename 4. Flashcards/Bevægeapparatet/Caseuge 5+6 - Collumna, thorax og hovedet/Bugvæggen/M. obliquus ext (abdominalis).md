@@ -8,6 +8,7 @@
 ### Form
 - Hvilken form har m. obliquus ext. abdominalis?
 - Hvor stor er m. obliquus ext. abdominalis?:: Den største af bugvægens muskler
+<!--SR:!2026-11-29,3,250-->
 
 ### Forløb
 - Hvilken retning går fibrenen i m. obliquus ext abdominalis?:: Nedad fremad (skråt)

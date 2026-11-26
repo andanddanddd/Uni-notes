@@ -18,6 +18,7 @@
 ![[Hånd muskler 1|800]]H?:: [[M. adductor pollicis]] (caput transversum)
 <!--SR:!2027-01-05,41,290-->
 ![[Hånd muskler 1|800]]I?:: [[M. adductor pollicis]] (caput obliquum)
+<!--SR:!2026-11-29,3,250-->
 ![[Hånd muskler 1|800]]J?:: [[M. opponens pollicis]]
 <!--SR:!2027-01-25,61,310-->
 ![[Hånd muskler 1|800]]K?:: [[Retinaculum flexorum]]

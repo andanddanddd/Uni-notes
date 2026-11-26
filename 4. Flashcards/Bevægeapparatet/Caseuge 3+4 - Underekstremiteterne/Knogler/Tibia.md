@@ -8,6 +8,7 @@
 <!--SR:!2026-11-27,4,270-->
 #### Form og størrelse
 - Hvad kaldes de 2 store dele af den proximale ekstremitet af tibia?:: Condylus medialis/lateralis
+<!--SR:!2026-11-30,4,270-->
 	- Hvad hedder ledfladerne på condylus medialis/lateralis?:: [[Facies artikularis superior]]
 	- Hvilken condyl artykulere med [[Fibula]]?:: Condylus lateralis
 <!--SR:!2026-12-10,16,290-->

@@ -3,6 +3,7 @@
 
 ### Generalt
 - Hvad hedder os sacrum på dansk?:: Kosrbenet
+<!--SR:!2026-11-29,3,250-->
 -  Hvad er os sacrum overordnet?:: En del af rygraden (S1-S5)
 <!--SR:!2027-01-24,62,310-->
 - Hvor mange bækkenhvirvler sækker os sacrum over?:: 5

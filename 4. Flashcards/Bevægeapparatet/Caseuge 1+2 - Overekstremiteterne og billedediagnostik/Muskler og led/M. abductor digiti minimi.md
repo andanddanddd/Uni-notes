@@ -20,6 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor digiti minimi?:: Abduction af lillefingeren
+<!--SR:!2026-11-30,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. abductor digiti minimi?:: [[N. ulnaris]]

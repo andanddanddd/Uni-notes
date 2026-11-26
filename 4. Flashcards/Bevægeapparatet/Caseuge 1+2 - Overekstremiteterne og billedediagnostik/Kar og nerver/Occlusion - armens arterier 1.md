@@ -16,4 +16,5 @@
 <!--SR:!2026-11-27,4,270-->
 ![[Armens arterier 1|700]]H?:: [[Truncus thyrocirvicalis]]
 ![[Armens arterier 1|700]]I?:: [[A. thoracoacromialis]]
+<!--SR:!2026-11-29,3,250-->
 

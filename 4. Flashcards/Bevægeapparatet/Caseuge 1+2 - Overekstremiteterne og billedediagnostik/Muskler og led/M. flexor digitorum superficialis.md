@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. felxor digitorum superficialis insertion?:: Phalanx media på de 4 ulnare fingre
-<!--SR:!2026-11-24,14,290-->
+<!--SR:!2027-01-21,56,310-->
 - Hvorfor deler senerne fra m. flexor digitorum superficialis i to på hver finger?:: For at senerne fra [[M. flexor digitorum profundus]] kan passere
 <!--SR:!2026-12-06,10,270-->
 
