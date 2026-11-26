@@ -17,3 +17,23 @@ Registerstudier kan laves 20 gange bedre end vi kan hvis man bruger machine lean
 	- Registerstuedie
 11. ==🟠Årsager til akut pancreatitis - en journalopgørelse==
 	- Registerstuedie
+12. ==🟠Therapeutic strategy and clinical outcomes in frail elderly patients with lung cancer and mesothelioma.==
+	- Jeg forstår det ikke helt er det egentligt en registerting??
+13. ==🟠Life after Rezūm: Symptom relief, patient experiences and complications after treatment for an enlarged prostate==
+	- Registerstuedie
+14. ==🔴Physical activity interventions and training modalities in children and adolescents who are undergoing or have completed treatment for leukemia or lymphoma – a scoping review==
+	- Scoping review
+15. ==🟠Observationspatienter i akutafdelingen – patientkarakteristika og faktorer forbundet med efterfølgende indlæggelse==
+	- Registerstudie
+16. ==🟠Præhospital transporttid og respiratorisk status hos patienter med KOL – har afstanden til hospitalet betydning?==
+	- Registerstudie
+17. ==🟠Uplanlagt genhenvendelse efter udskrivelse fra akutafdelingen – omfang, årsager og risikofaktorer inden for 96 timer==
+	- Registerstudie
+18. ==🟠Urindyrkninger i akutafdelingen – diagnostisk udbytte og kvaliteten af kliniske indikationer==
+	- Registerstudie
+19. ==🟠Dødsårsager blandt patienter med reumatologiske inflammatoriske sygdomme – et kvalitetsprojekt==
+	- Registerstudie
+20. ==🟠Osteoporose og lavenergi frakturer blandt patienter med psoriasis artrit==
+	- Registerstudie
+21. ==🟠English adaptation and test–retest reliability of the ASTRID scale==
+	- Registerstudie
