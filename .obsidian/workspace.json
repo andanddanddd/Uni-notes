@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "e3085b340749bfb9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Studieordning for bacheloruddannelsen i medicin 2024"
+            }
+          },
+          {
             "id": "f68f0aa157be0d2a",
             "type": "leaf",
             "state": {
@@ -126,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.05348205566406
+    "width": 308.05348205566406,
+    "collapsed": true
   },
   "right": {
     "id": "7b58e3336d696721",
@@ -256,8 +269,9 @@
   },
   "active": "b6324ab1409c482b",
   "lastOpenFiles": [
-    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Stenoser.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "0. De allervigtigste/Eksamensplan 5 sem.md",
+    "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Stenoser.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Columna – Kliniske problemstillinger.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Klinik/Spondylodiskitis.md",
@@ -287,7 +301,6 @@
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Thorax/Ribbenene.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Trendelenburg tegn.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Knæluksation.md",
-    "4. Flashcards/Bevægeapparatet/Caseuge 1+2 - Overekstremiteterne og billedediagnostik/Muskler og led/Hånden.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik",
     "Externe dokumenter/Bevægeapparatet/Underekstremiteterne/Slides - underekstremiteternes bevægeapparat (sys)UE_LE_1_Final.pdf",
     "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123104845.png",

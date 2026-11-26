@@ -1,16 +1,53 @@
 #flashcards/5 
 
 
-- [ ] **21/12-26** 
-- [ ] **22/12-26** 
+- [ ] **21/12-26** (Immo)
+	- [ ] Overfør immo flashcards fra remnote
+	- [ ] 100 flashcards
+	- [ ] Immunologisk hukommelse (dele af kap 9+10 i immobogen)
+- [ ] **22/12-26** (Vacciner)
+	- [ ] Vaciner slides
+	- [ ] Immonologi kap 17 (s. 353 - 370)
+	- [ ] Børnevaccinationsprogrammet
+	- [ ] Epidimologi ved vaccinationer
+	- [ ] 150 flashcards
 - [ ] **23/12-26** (Til Skødstrup)
 - [ ] **24/12-26** (Jul)
-	- [ ] 200 flas
+	- [ ] 300 flashcards
 - [ ] **25/12-26** (Til Kolding)
+	- [ ] 300 flashcards
 - [ ] **26/12-26** (Juleforkost)
+	- [ ] 300 flashcards
 - [ ] **27/12-26** 
 - [ ] **28/12-26** 
-- [ ] **9/1-27** EKSAMEN MIKRO
-- [ ] **14/1-27** EKSAMEN PATO
-- [ ] **21/1-27** EKSAMEN BEVÆGEAPPARATET
-- [ ] **28/1-27** EKSAMEN STATISTIK
+- [ ] **29/12-26** 
+- [ ] **30/12-26** 
+- [ ] **31/12-26** (Nytår)
+- [ ] **1/1-27** 
+- [ ] **2/1-27** 
+- [ ] **3/1-27** 
+- [ ] **4/1-27** 
+- [ ] **5/1-27** 
+- [ ] **6/1-27** 
+- [ ] **7/1-27** 
+- [ ] **8/1-27** 
+- [ ] **9/1-27 EKSAMEN MIKRO**
+- [ ] **10/1-27** 
+- [ ] **11/1-27** 
+- [ ] **12/1-27** 
+- [ ] **13/1-27** 
+- [ ] **14/1-27 EKSAMEN PATO**
+- [ ] **15/1-27** 
+- [ ] **16/1-27** 
+- [ ] **17/1-27** 
+- [ ] **18/1-27** 
+- [ ] **19/1-27** 
+- [ ] **20/1-27** 
+- [ ] **21/1-27 EKSAMEN BEVÆGEAPPARATET**
+- [ ] **22/1-27** 
+- [ ] **23/1-27** 
+- [ ] **24/1-27** 
+- [ ] **25/1-27** 
+- [ ] **26/1-27** 
+- [ ] **27/1-27** 
+- [ ] **28/1-27 EKSAMEN STATISTIK**
