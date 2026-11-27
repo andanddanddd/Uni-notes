@@ -1,12 +1,14 @@
 #flashcards/3/Nervesystemet #flashcards/5/Bevægeapparatet 
 
 - Hvad er en kyfose?:: Foroverbøjning af rygsøjlen
+<!--SR:!2026-12-01,4,270-->
 - Hor ses kyfoser?:: Thoraxområdet
 <!--SR:!2026-12-09,16,290-->
 - Hvad er en lordose?:: Bagudbøjning af ryggen
 - Hvor ses lordoser?:: I lænden og nakken
 
 - Hvilke type af ryggens bøjninger er mest mobil? (lordose eller kyfose):: Lordose
+<!--SR:!2026-12-01,4,270-->
 
 - Hvilken form har rygsøjlen set forfra?:: Lige
 <!--SR:!2026-11-27,4,270-->

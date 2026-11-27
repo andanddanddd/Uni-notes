@@ -12,6 +12,7 @@
 - Hvad er specielt ved halsvirvlernes torntap?:: Den er tvedelt (undtagen C7 og C1-C2) [[Torntappe]]
 - Hvad er specielt ved halsvirvlernes ledtap?:: Det er en flade [[Ledtappe]]
 - Hvad er specielt ved [[Hvirvellegemet]] på halshvirvlerne?:: Det er rektangulært
+<!--SR:!2026-12-01,4,270-->
 - Hvad er specielt ved kanterne af hvirvelleget på halshvirvelerne?:: Siderne (lateralt) på toppen af halshvirvlerne er "trukket op"
 	- Hvad kaldes de laterale kanter på toppen af halsvirvlerne?:: Uncus corporis
 

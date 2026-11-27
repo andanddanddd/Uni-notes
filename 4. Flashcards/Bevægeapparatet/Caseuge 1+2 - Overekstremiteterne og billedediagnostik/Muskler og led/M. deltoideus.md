@@ -18,6 +18,7 @@
 
 ### Funktion
 - Hvor stærk er m. deltoideus?:: Den største og stærkest skuldermuskel
+<!--SR:!2026-12-01,4,270-->
 - Hvilken funktion har den foreste del af m. deltoideus?:: Flektion, adduction og inadrotation (af armen)
 <!--SR:!2027-01-09,57,310-->
 - Hvilken funktion har den bagerste del af m. deltoideus?:: Extension, adduction og udadrotation (af armen)

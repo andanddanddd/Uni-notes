@@ -21,7 +21,7 @@
 
 ### Insertion
 - Hvor har mm. lumbricales insertion?:: Radiale kanter af [[Ekstensoraponeurosen]] af de 4 ulanre fingre
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-05,8,250-->
 
 ### Funktion
 - Hvilken funktion har mm. lumbricales?:: Registrere proprioception særligt af de 2 yderste led

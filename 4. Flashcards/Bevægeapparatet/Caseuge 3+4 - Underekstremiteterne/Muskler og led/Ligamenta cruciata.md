@@ -9,3 +9,4 @@
 - Hvor binder lig. cruciata post.?:: Lateralsiden af den mediale femorkondyl til et område posteriort på area intercondylaris (se [[Femoris]] og [[Tibia]])
 
 - Hvad sker der hvis et korsbånd rives over?:: Knæet kan forskydes frem og tilbage (skuffesymptom)
+<!--SR:!2026-11-30,3,250-->

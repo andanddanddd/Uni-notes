@@ -16,7 +16,7 @@
 <!--SR:!2026-11-28,5,210-->
 #### Insertion
 - Hvor har m. peroneus brevis insertion?:: Bagerst på malleus lateralis (se [[Fibula]])
-<!--SR:!2026-11-20,1,210-->
+<!--SR:!2026-11-28,1,190-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. peroneus brevis?:: Eversion og plantarflektion af foden

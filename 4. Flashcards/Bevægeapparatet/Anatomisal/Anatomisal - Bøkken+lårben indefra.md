@@ -19,4 +19,5 @@
 <!--SR:!2026-12-11,16,290-->
 ![[Pasted image 20261116101136.png]]12?:: Foramen ischiadicum minus
 ![[Pasted image 20261116101136.png]]13?:: Ligamentum sacrotuberale
+<!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261116101136.png]]14?:: Tuber ischiadicum

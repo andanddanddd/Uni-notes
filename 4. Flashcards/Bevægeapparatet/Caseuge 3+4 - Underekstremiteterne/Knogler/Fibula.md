@@ -29,5 +29,6 @@
 - Type af ossifikation
 - Ossifikationstidpunkt
 - I hvilken epifyseskife sker vækst af fibula?:: Den proximale
+<!--SR:!2026-12-01,4,270-->
 ### Inspektion og palpation
 ### Klinik

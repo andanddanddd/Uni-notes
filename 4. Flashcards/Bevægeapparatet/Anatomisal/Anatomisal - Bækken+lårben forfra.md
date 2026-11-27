@@ -9,6 +9,7 @@
 ![[Pasted image 20261112112219.png]]3?:: Ligamentum inguinale
 <!--SR:!2026-11-28,3,250-->
 ![[Pasted image 20261112112219.png]]4?:: Caput femoris
+<!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261112112219.png]]5?:: Trochanter major
 ![[Pasted image 20261112112219.png]]6?:: Tuber ischiadicum
 <!--SR:!2026-12-19,26,270-->

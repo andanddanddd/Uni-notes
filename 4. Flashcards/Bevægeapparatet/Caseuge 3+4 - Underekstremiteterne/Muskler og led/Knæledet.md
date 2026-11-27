@@ -14,7 +14,7 @@
 ### Ledets strukture
 - Hvad hedder bindevævsregionen på bagsiden af knæledet?:: [[Fossa poplitea]]
 - Hvad er de 2 typer af stabiliserende ligamenter i knæet?:: Kolaterale ligamenter og intraarticulære ligamenter
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-12,15,290-->
 - Hvad kaldes de intraarticulære ligamenter i knæet?:: Korsbånd
 - Hvad hedder korsbåndene på latin?:: [[Ligamenta cruciata]]
 - Hvad hedder ligamenterne på siderne af knæet?:: [[Lig. collaterale fibulare]] og [[Lig. collaterlae tibiale]]

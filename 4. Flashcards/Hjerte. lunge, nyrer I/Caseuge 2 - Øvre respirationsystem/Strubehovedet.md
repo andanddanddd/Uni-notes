@@ -40,6 +40,7 @@
 - Hvad hedder tudbrusken på latin?:: Cartilagines arytenoideae
 <!--SR:!2026-11-28,1,230-->
 - Hvilken funktion har tudbrusken?:: Hæfter stemmerlæberne
+<!--SR:!2026-11-28,1,230-->
 - Hvilken type brusk består tudbrusken af?:: Både hyalin og elastisk brusk
 
 ## Histologi af strubehovedet
@@ -67,10 +68,12 @@
 ![[Strubehovedet 2]]A:: Lig. Hyoepiglotticum
 ![[Strubehovedet 2]]B:: Membrana thyrohyoidea
 ![[Strubehovedet 2]]C:: Lig. vocale
+<!--SR:!2026-11-28,1,230-->
 ![[Strubehovedet 2]]D:: Conus elasticus
 ![[Strubehovedet 2]]E:: Membrana thyrohyoidea
 <!--SR:!2026-11-28,1,230-->
 ![[Strubehovedet 2]]F:: Membrana quadrangularis
 ![[Strubehovedet 2]]G:: Lig. vestibulare
+<!--SR:!2026-11-28,1,230-->
 
 

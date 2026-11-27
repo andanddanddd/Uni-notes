@@ -18,6 +18,7 @@
 - Hvad hedder udspringen lateralt på den distale ekstremitet af radius?:: Processus styloideus radii
 <!--SR:!2026-12-01,15,290-->
 - Hvad hedder ledfladen på den disteale del af radius?:: Favies articularis radii
+<!--SR:!2026-11-28,1,230-->
 
 ### Relationer
 #### Led

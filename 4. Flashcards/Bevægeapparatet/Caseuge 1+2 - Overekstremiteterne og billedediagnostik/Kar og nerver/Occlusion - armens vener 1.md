@@ -6,6 +6,7 @@
 ![[Armens vener 1|600]]A?:: [[V. cephalica]]
 <!--SR:!2026-12-02,5,250-->
 ![[Armens vener 1|600]]B?:: [[V. brachialis]]
+<!--SR:!2026-12-01,4,270-->
 ![[Armens vener 1|600]]C?:: [[V. mediane cubiti]]
 ![[Armens vener 1|600]]E?:: [[V. basilica]]
 <!--SR:!2026-12-06,12,270-->

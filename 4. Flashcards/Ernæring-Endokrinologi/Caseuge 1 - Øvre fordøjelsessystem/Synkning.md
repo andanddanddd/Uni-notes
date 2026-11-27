@@ -7,5 +7,6 @@
 - Hvilken nerve registrere at maden er i den bagerste del af munden?::  [[N. glossophanygeus]]
 - Hvilken nerve innervere palatum molle?:: [[N. vagus]]
 - Hvad sker med palatum molle når den trækker sig sammen?:: Bevæger sig opad så maden ikke kommer op i munden [[Den bløde gane]]
+<!--SR:!2026-12-01,4,270-->
 
 ![[Dysfagi]]

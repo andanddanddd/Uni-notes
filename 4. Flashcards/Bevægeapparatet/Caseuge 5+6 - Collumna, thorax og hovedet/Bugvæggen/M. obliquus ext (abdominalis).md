@@ -5,6 +5,7 @@
 - Hvilken muskelgruppe tilhøre m. obliquus ext. abdominalis?:: Bugvæggens muskler
 <!--SR:!2026-11-30,4,270-->
 - Hvor dybt ligger m. obliquus ext. abdominalis?:: Yderst af de 3 laterale bugmuskler
+<!--SR:!2026-12-01,4,270-->
 
 ### Form
 - Hvilken form har m. obliquus ext. abdominalis?

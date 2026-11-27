@@ -9,6 +9,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. suboccipitales?:: Dybe rygmuskler
 - Hvor er mm. suboccipitales overordnet?:: Mellem de 2 øverste halshvirvler og hovedet
+<!--SR:!2026-11-30,3,250-->
 - Hvor dybt ligger mm. suboccipitales?
 
 ### Form

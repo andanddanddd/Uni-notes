@@ -13,6 +13,7 @@
 ![[Pasted image 20261111100250.png]]7?:: Os pisiforme
 <!--SR:!2026-12-13,16,290-->
 ![[Pasted image 20261111100250.png]]8?:: Phalanges proximales
+<!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261111100250.png]]9?:: Phalanges mediae
 <!--SR:!2026-12-08,14,290-->
 ![[Pasted image 20261111100250.png]]10?:: Phalanges distales

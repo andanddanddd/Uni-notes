@@ -9,3 +9,4 @@
 <!--SR:!2026-12-01,4,270-->
 - Hvornår tages røntgen af et subluuxeret albueled?:: Ikke som udgangspunkt, kun ved mistanke om fraktur
 - Hvordan behandles en subluxation af albueledet?:: Supination (eller hyperpronation) af albueledet efterfulgt af fleksion
+<!--SR:!2026-12-01,4,270-->

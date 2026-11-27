@@ -4,6 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. intercostales intimus?:: Ribbenenes muskler
 - Hvor dybt ligger m. intercostales intimus?:: Dybt
+<!--SR:!2026-12-01,4,270-->
 
 ### Form
 - Hvilken form har m. intercostales intimus?

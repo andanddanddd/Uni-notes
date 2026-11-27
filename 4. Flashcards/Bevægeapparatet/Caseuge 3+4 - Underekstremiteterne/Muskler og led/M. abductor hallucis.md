@@ -20,6 +20,7 @@
 
 ### Funktion
 - Hvilket led stabiliseres af m. abductor hallucis?:: 1. tarsometatarsalled
+<!--SR:!2026-11-30,3,250-->
 - Hvilke bevægelser udfører m. abductor hallucis?:: Abduction af storetåen
 <!--SR:!2026-11-30,14,290-->
 

@@ -4,6 +4,7 @@
 - Hvad hedder fascien på underbenet?:: Fascia cruris
 <!--SR:!2026-12-02,16,290-->
 - Hvad hedder membranen/ligamentet der strækker sig mellem de 2 knogler i underbenet?:: Membrana interossea
+<!--SR:!2026-12-01,4,270-->
 - Hvilke 4 muskelloger inddeles udnerbenet i?:: Extensorloge, peroneerlogen, superficiel og profund extensorloge
 <!--SR:!2026-12-08,15,290-->
 

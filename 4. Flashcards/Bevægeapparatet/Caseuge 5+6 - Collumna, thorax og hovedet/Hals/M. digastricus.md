@@ -16,7 +16,8 @@
 <!--SR:!2026-11-28,2,230-->
 
 ### Funktion
-- Hvilke bevægelser udfører m. digastricus ved fikseret kæbe?:: Trækker tungebenet opad 
+- Hvilke bevægelser udfører m. digastricus ved fikseret kæbe?:: Trækker tungebenet opad
+<!--SR:!2026-11-28,1,230-->
 - Hvilke bevægelser udfører m. digastricus ved fikseret tungeben?:: Trækker underkææben nedad-bagud 
 
 ### Innerversion og reflekser

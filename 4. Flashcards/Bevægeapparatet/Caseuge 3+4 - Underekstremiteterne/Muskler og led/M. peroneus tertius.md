@@ -15,6 +15,7 @@
 <!--SR:!2026-12-11,16,290-->
 #### Udspring
 - Hvor udspringer m. peroneus tertius?:: [[Fibula]] og membrana interossea
+<!--SR:!2026-11-30,3,250-->
 #### Insertion
 - Hvor har m. peroneus tertius insertion?:: Dorsalfalden af corpus af ossis metatarsales V
 <!--SR:!2026-11-27,1,170-->

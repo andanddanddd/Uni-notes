@@ -13,6 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. gastrocnemius caput mediale?:: [[Femoris]] bag tuberculum adductorium
+<!--SR:!2026-11-30,3,250-->
 - Hvor udspringer m. gastrocnemius caput laterale?:: Condulys laterale af [[Femoris]]
 #### Insertion
 - Hvor har m. gastrocnemius insertion?:: Tuber calcanei (se [[Calcaneus]])

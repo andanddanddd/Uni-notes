@@ -53,6 +53,7 @@
 	- Hvor er de 2 condylus sammenhængende?:: Fortil
 <!--SR:!2026-11-30,3,250-->
 	- Hvad hedder strukturen der adskiller de 2 condylus bagtil?:: Fossa intercondylaris
+<!--SR:!2026-11-30,3,250-->
 	- Hvad hedder de 2 fremspring på condylus medialis/lateralis?:: Epicondylus medialis/lateralis
 <!--SR:!2026-11-28,16,290-->
 - Hvad kaldes ledfladen på den distale ekstremitet af femoris?:: [[Facies patellaris]]

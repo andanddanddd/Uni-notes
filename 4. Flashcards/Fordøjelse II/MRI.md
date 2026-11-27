@@ -5,6 +5,7 @@ T2 = 180 grader
 
 Man måler vist på hvornår spin vender tilabge til uordnet
 - Hvad viser en T1-MRI?:: Generalt anatomi
+<!--SR:!2026-12-01,4,270-->
 - Hvad viser en T2-MRI?:: Ødemer
 <!--SR:!2027-01-22,63,310-->
 
