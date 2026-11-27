@@ -13,6 +13,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. popliteus?:: Condylus lateralis af [[Femoris]]
+<!--SR:!2026-11-28,1,230-->
 #### Insertion
 - Hvor har m. popliteus insertion?:: [[Tibia]]s bagflade (proximalt for [[M. soleus]] udspring)
 

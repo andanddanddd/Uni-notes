@@ -16,6 +16,7 @@
 - Hvad hedder hullerne i corpus mandibulare?:: [[Foramen mentale]]
 - Hvad hedder den indvendige linje i midtlinje på corpus mandibula?:: Spina mentalis
 - Hvad hedder listen der strækker sig fra spina mentalis?:: Linea mylohyoidea
+<!--SR:!2026-11-28,1,230-->
 - Hvad hedder de 2 strukture der skilles af linea mylohyoidea?:: Fovea sublingualis/submandibularis
 - Hvad hedder delen af corpus mandibulare som tænderne sidder i?:: Pars alveolaris
 
@@ -25,6 +26,7 @@
 	- Hvor er processus condylaris?:: Bagerst øverst på ramus mandibulare
 	- Hvor er processus coronoidus?:: Forste øverst på ramus mandibulare
 	- Hvilken funktion har processus condylaris?:: Danne kæbens primære led
+<!--SR:!2026-12-01,4,270-->
 	- Hvilken funktion har processus coronoidus?:: Muskeltilhæftning for [[M. temporalis]]
 
 ### Relationer

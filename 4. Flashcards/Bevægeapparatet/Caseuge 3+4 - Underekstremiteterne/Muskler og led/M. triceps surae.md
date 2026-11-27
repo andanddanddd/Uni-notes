@@ -21,6 +21,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. triceps surae?:: Plantarflektion (kraftig)
+<!--SR:!2026-12-01,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. triceps surae?

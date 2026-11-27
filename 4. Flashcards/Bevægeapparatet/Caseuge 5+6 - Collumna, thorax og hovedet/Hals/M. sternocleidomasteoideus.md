@@ -26,6 +26,7 @@
 ?
 - Hovedet flyttes fremad (ved oprejst stilling)
 - Løfte hovedet (ved liggende stilling)
+<!--SR:!2026-11-30,3,250-->
 
 - Hvad kaldes det når 1 m. sternocleidomasteoideus trækker sig sammen?:: Torticollis
 

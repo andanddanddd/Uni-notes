@@ -10,6 +10,7 @@
 
 ### Udspring
 - Hvor udspringer m. obturatus externus?:: [[Os ischii]]
+<!--SR:!2026-12-01,4,270-->
 
 ### Insertion
 - Hvor har m. obturatus externus insertion?:: Medialsiden af trochanter major (se [[Femoris]])

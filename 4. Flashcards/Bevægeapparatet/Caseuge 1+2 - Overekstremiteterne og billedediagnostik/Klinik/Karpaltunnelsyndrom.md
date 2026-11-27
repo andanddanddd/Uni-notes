@@ -6,6 +6,7 @@
 <!--SR:!2026-11-28,4,270-->
 - Hvordan lindres symptomerne ved karpaltunnelsyndrom?:: Ryster hånden
 - Hvem får oftest karpaltunnelsyndrom?:: Folk der laver gentagende bevægelser herunder madlavning og computerarbejde (kvinder oftere end mænd)
+<!--SR:!2026-12-01,4,270-->
 - Hvilken nerve påvirkes under karpaltunnelsyndrom?:: [[N. medianus]]
 - Hvorfor påvirker n. ulnaris ikke ved karpaltunnelsyndrom?:: Den er ikke i karpaltunnelen
 - Hvad sker overordnet i karpaltunnelsyndrom?:: [[N. medianus]] klemmes

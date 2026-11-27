@@ -16,7 +16,7 @@
 <!--SR:!2026-12-01,4,270-->
 #### Insertion
 - Hvor har m. rotatores insertion?:: [[Torntappe]]
-<!--SR:!2026-11-22,4,270-->
+<!--SR:!2026-12-13,16,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. rotatores?:: Rotation af rygsøjlen

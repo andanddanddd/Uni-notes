@@ -15,6 +15,7 @@
 <!--SR:!2026-11-29,3,210-->
 ![[Dybe rygmuskler 1|700]]J?:: [[N. iliohypogastricus]]
 ![[Dybe rygmuskler 1|700]]K?:: [[M. multifidus]]
+<!--SR:!2026-11-28,1,230-->
 ![[Dybe rygmuskler 1|700]]L(A)?:: [[M. Erektor spinae]] ([[M. Spinalis]])
 ![[Dybe rygmuskler 1|700]]L(B)?:: [[M. Erektor spinae]] ([[M. Longissimus]])
 <!--SR:!2026-12-07,11,270-->

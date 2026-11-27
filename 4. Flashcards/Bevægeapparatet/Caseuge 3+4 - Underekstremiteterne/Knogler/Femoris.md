@@ -24,6 +24,7 @@
 	- Hvad sker med inklinationsvinklen med alderen?:: Den mindskes
 <!--SR:!2026-12-11,16,290-->
 	- Hvad kaldes tilstanden med for lille inklinationsvinkel?:: Coxa vara
+<!--SR:!2026-11-28,1,230-->
 	- Hvad kaldes tilstanden med en for stor inklinationsvinkel?:: Coxa valga
 <!--SR:!2026-12-01,5,170-->
 - Hvad hedder de 2 knuder på den proximale ekstremitet af femoris?:: Trochanter major/minor

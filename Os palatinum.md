@@ -9,6 +9,7 @@
 #### Form og størrelse
 - Hvad hedder delen af os palatinum der danner den hårde gane?:: Lamina horizontalis
 - Hvad hedder delen af os palatinum der danner bagsiden af næsehulen?:: Lamina perpendicularis
+<!--SR:!2026-11-28,1,230-->
 
 ### Relationer
 #### Led

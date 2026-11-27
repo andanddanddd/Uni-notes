@@ -22,6 +22,7 @@
 - Hvad kaldes åbningen i bundet af os sacrum?:: Hiatus sacralis
 - Hvad hedder strukturen bestående af sammenvoksede [[Tværtappe]]?:: Crista sacralis lateralis
 - Hvilken tap på os sacrum ser nærmest "normal" ud? (i forhold til resten af ryghvirvlerne):: De øverste [[Ledtappe]]
+<!--SR:!2026-12-01,4,270-->
 - Hvad hedder "vingeren" lateralt for basis ossos sacri?:: Ala ossis sacri
 - Hvilken kønsforksel er der i os sacrum?:: Kvinders er kortere bredere og mindre krum
 <!--SR:!2026-12-08,15,290-->

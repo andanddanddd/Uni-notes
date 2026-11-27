@@ -31,6 +31,7 @@
 <!--SR:!2026-12-06,10,270-->
 
 - Hvad kaldes lårets bagerste muskelgruppe også?:: Hasemuskler/hamstrings
+<!--SR:!2026-12-01,4,270-->
 - Hvilken funktion har hasemusklerne ved gang/løb?:: Stoppe det framadgående ben og accelerere det bagud
 <!--SR:!2026-11-30,11,270-->
 - Hvad hedder musklerne i lårets bagertse muskelgruppe?

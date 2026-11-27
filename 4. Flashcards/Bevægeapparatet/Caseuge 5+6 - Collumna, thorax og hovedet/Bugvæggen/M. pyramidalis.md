@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. pyramidalis?:: Crista pubica
+<!--SR:!2026-11-28,1,230-->
 #### Insertion
 - Hvor har m. pyramidalis insertion?:: Linea alba
 

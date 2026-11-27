@@ -23,6 +23,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. transversus abdominalis?:: Exspiration
+<!--SR:!2026-12-01,4,270-->
 - Hvorfor har m. transversus abdominalis stor betydning for stabiliteten af collumna?:: Den påvriker inrtaabdominalt tryk
 
 ### Innerversion og reflekser

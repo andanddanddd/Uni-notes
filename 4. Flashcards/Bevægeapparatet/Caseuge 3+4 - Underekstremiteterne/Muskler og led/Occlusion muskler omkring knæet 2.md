@@ -5,6 +5,7 @@
 ![[Knæets muskler 2|600]]A?:: [[M. semimembranosus]]
 <!--SR:!2026-12-01,12,270-->
 ![[Knæets muskler 2|600]]B?:: [[Lig. collaterlae tibiale]]
+<!--SR:!2026-12-01,4,270-->
 ![[Knæets muskler 2|600]]C?:: [[M. gastrocnemius]] Caput mediale
 ![[Knæets muskler 2|600]]D?:: [[M. gastrocnemius]] Caput laterale
 <!--SR:!2026-12-02,16,290-->

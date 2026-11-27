@@ -29,6 +29,7 @@
 - I hvilke siturationer udfører m. gluteus maximus ekstension?:: Løb og rejse sig op fra sidende
 <!--SR:!2026-11-30,11,270-->
 - Hvilken bevægelse/kropsform er nødvendigt for at m. gluteus maximus kan udfører ekstension?:: Fremadstillet overkrop
+<!--SR:!2026-11-30,3,250-->
 - Udover ekstension hvilke bevægelser udfører m. gluteus maximus?:: Adduktion, abduction samt udadrotation af hofteledet
 <!--SR:!2026-12-30,33,270-->
 

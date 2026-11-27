@@ -11,6 +11,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer mm. rectus capitis posterior minor?:: Tuberculum post. (se [[Atlas]])
+<!--SR:!2026-11-28,1,230-->
 #### Insertion
 - Hvor har mm. rectus capitis posterior minor insertion?:: Under linea nuchalis inf (se [[Os occipitale]])
 - Hvor har m. rectus capitis posterior minor insersion i forhold til [[M. rectus capitis posterior major]]?:: Medialt derfor

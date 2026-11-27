@@ -5,6 +5,7 @@
 - Hvilken muskelgruppe tilhøre m. omohyoideus?:: Tungebenets infrahyoide muskler
 <!--SR:!2026-11-30,4,270-->
 - Hvor dybt ligger m. omohyoideus?:: Superficielt
+<!--SR:!2026-12-01,4,270-->
 
 ### Form
 - Hvilken form har m. omohyoideus?

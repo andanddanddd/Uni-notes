@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. piriformis insertion?:: Fascia lata og [[Tractus iliotibialis]]
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-04,7,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. piriformis?:: Udadrotation

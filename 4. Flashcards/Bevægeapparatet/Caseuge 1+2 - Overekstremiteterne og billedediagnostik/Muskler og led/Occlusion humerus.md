@@ -42,7 +42,7 @@
 ![[Humerus anatomi 1]]S?:: Epicondylus medialis
 <!--SR:!2026-11-30,26,270-->
 ![[Humerus anatomi 1]]T?:: Trochlea humeri
-<!--SR:!2026-11-27,25,270-->
+<!--SR:!2027-03-02,95,290-->
 ![[Humerus anatomi 1]]U?:: Sulcus nervi ulnaris
 <!--SR:!2027-01-26,63,270-->
 ![[Humerus anatomi 1]]V?:: Trochlea humeri

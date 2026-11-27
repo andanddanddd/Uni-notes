@@ -9,6 +9,7 @@
 ![[Ryghvirvler 1|800]]C?:: Processus articularis sup.
 ![[Ryghvirvler 1|800]]D?:: Corpus vertebrae
 ![[Ryghvirvler 1|800]]E?:: Pedunculus arcus vertebrae
+<!--SR:!2026-12-01,4,270-->
 ![[Ryghvirvler 1|800]]F?:: Processus transversus
 ![[Ryghvirvler 1|800]]G?:: Lamina arcus vertebrae
 <!--SR:!2026-12-10,16,290-->

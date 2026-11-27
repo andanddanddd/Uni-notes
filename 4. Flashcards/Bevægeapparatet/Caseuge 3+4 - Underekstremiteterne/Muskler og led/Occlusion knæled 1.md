@@ -8,6 +8,7 @@
 ![[Knæled 1|600]]C?:: Recessus suprapatellaris
 <!--SR:!2026-12-05,8,230-->
 ![[Knæled 1|600]]D?:: Quadricepssene
+<!--SR:!2026-11-30,3,250-->
 ![[Knæled 1|600]]E?:: [[Lig. patellae]]
 <!--SR:!2026-12-11,16,290-->
 

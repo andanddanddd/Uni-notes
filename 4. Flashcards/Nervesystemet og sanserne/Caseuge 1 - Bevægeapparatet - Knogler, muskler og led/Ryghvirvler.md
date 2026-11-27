@@ -11,9 +11,11 @@
 - Hvad hedder den tynde del af ryghvirvlerne? (dansk):: [[Hvirvelbuen]]
 <!--SR:!2026-12-13,16,290-->
 - Hvad hedder hullet i midten af ryghvirvlerne? (dansk):: [[Hvirvelhullet]]
+<!--SR:!2026-12-01,4,270-->
 
 - Hvad sker med dimensionerne af rygvirvelrne i løbet af [[Rygsøjlen]]s forløb?:: Jo længere nede en ryghvirvel er jo større er den i alle dimensioner
 	- Hvorfor er falder størelsen af ryghvirvler ved S1? (de har steget fra S1-L5):: Vægten er overført til hoften
+<!--SR:!2026-12-01,4,270-->
 
 ![[Halshvirvler]]
 

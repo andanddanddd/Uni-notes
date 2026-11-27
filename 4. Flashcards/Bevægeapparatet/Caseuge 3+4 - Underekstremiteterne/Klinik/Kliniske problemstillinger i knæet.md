@@ -8,6 +8,7 @@
 - Hvornår vokser epifyseskiverne i benet sammen?:: 17-års-alderen
 <!--SR:!2026-11-28,4,270-->
 	- Hvem får oftest skader i deres epifyseskiver?:: Fodboldspillere, særligt 14-16 årige da de kan lægge meget tryk på dem (når de bliver ældre end det forsvinder de)
+<!--SR:!2026-12-01,4,270-->
 
 ![[ACL skade]]
 

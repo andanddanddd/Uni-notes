@@ -10,6 +10,7 @@
 ![[Underbenets muskler 4]]C?:: [[M. flexor hallucis longus]]
 <!--SR:!2026-11-30,4,210-->
 ![[Underbenets muskler 4]]D?:: [[M. popliteus]]
+<!--SR:!2026-12-01,4,270-->
 ![[Underbenets muskler 4]]E?:: [[Lig. popliteofibulare]]
 <!--SR:!2026-12-05,12,270-->
 ![[Underbenets muskler 4]]F?:: [[M. peroneus brevis]]

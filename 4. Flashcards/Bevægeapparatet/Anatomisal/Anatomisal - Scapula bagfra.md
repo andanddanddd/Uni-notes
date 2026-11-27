@@ -14,6 +14,7 @@
 ![[Pasted image 20261112113647.png]]6?:: Angulus superior
 <!--SR:!2026-12-09,16,290-->
 ![[Pasted image 20261112113647.png]]7?:: Lig.Transversum scapulae superius
+<!--SR:!2026-11-28,1,230-->
 ![[Pasted image 20261112113647.png]]8?:: Spina scapulae
 <!--SR:!2026-12-09,16,290-->
 ![[Pasted image 20261112113647.png]]9?:: Margo medialis

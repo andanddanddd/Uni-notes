@@ -10,6 +10,7 @@
 ![[Dybe rygmuskler 2]]D?:: [[M. Spinalis]]
 ![[Dybe rygmuskler 2]]E?:: [[M. Longissimus]]
 ![[Dybe rygmuskler 2]]F?:: [[M. Iliocostalis]]
+<!--SR:!2026-11-30,3,250-->
 ![[Dybe rygmuskler 2]]G?:: [[M. serratus posterior inferior]]
 <!--SR:!2026-12-10,16,290-->
 ![[Dybe rygmuskler 2]]H?:: [[M. Erektor spinae]]

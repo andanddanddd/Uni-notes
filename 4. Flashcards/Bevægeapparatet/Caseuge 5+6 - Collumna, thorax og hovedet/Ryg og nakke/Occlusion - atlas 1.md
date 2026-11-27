@@ -11,6 +11,7 @@
 ![[Atlas 1|700]]E?:: Foramen transversarium
 ![[Atlas 1|700]]F?:: Sulcus arterie vertebralis
 ![[Atlas 1|700]]G?:: Tuberculum post
+<!--SR:!2026-12-01,4,270-->
 ![[Atlas 1|700]]H?:: Arcus post-
 <!--SR:!2026-12-11,16,290-->
 ![[Atlas 1|700]]I?:: Massa lateralis

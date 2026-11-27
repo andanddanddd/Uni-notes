@@ -25,6 +25,7 @@
 		- Hvor mange insicura costales er på hver side af corpus sternum?:: 5
 <!--SR:!2026-12-01,4,270-->
 		- Hvor er de 5 incisurae costales?:: Ved hver af de horizontale linjer på corpus sterni samt en ekstra på hhv det øvertse og nederste udsnit
+<!--SR:!2026-12-01,4,270-->
 - Hvad kaldes den nederste del af sternum?:: Processus xipoideus
 <!--SR:!2026-12-07,11,270-->
 	- Hvilken form har proccesus zipoideus?:: Flad og trekantet

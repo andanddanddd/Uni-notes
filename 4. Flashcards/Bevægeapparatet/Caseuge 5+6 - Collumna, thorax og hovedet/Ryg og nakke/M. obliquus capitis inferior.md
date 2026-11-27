@@ -16,6 +16,7 @@
 - [[Tværtappe]]ne på C2 (se [[Atlas]])
 #### Insertion
 - Hvor har mm. obliquus capitis inf. insertion?
+<!--SR:!2026-11-28,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. obliquus capitis inf.?

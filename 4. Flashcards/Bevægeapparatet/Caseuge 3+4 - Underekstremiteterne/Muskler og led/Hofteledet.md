@@ -27,6 +27,7 @@
 - [[Lig. iliofemorale]]
 - [[Lig. ischiofemorale]]
 - [[Lig. pubofemorale]]
+<!--SR:!2026-12-01,4,270-->
 
 ### Funktion
 - Hvilke bevægelser kan hofteledet lave?:: Adduktion-Abduction, Fleksion-ekstension og rotation (indad/udad)

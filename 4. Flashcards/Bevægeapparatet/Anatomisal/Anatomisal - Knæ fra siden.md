@@ -6,6 +6,7 @@
 <!--SR:!2026-12-05,12,270-->
 ![[Pasted image 20261111095106.png]]3?:: Meniscus medialis
 ![[Pasted image 20261111095106.png]]4?:: [[Lig. patellae]]
+<!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261111095106.png]]5?:: [[Patella]]
 <!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261111095106.png]]6?:: Lig. collaterale tibiale
