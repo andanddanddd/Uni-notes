@@ -107,22 +107,28 @@
 - [ ] **12/1-27** 
 	- [ ] Pancreatitis
 	- [ ] Viral og alkoholisk hepatitis
+	- [ ] Icterus
 	- [ ] Patologiske tilstandei peritoneum
 	- [ ] 300 flashcards
 	- [ ] 1 eksamenssæt
 - [ ] **13/1-27** 
 	- [ ] Laboratorieting
 	- [ ] Patientsikkerhed
-	- [ ] 
+	- [ ] Måleusikkerhed (specifikcitet og sensitivitet)
 	- [ ] 500 flashcards
 	- [ ] 1 (2) eksamensæt
 - [ ] **14/1-27 EKSAMEN PATO**
-- [ ] **15/1-27** 
-- [ ] **16/1-27** 
-- [ ] **17/1-27** 
-- [ ] **18/1-27** 
-- [ ] **19/1-27** 
+- [ ] **15/1-27** (Kliniske problemstillinger)
+- [ ] **16/1-27** (Klinisk undersøgelse)
+	- [ ] s. 11-14 i pensumliste
+	- [ ] Neurologi
+	- [ ] Billeddannelse
+	- [ ] Anamnese, kommunikation og jounal
+- [ ] **17/1-27** (Collumna, hoved, hals og truncus)
+- [ ] **18/1-27** (Underekstremitet (inkl regionær))
+- [ ] **19/1-27** (Overekstremitet (inkl regionær))
 - [ ] **20/1-27** 
+	- [ ] Eksamenssæt og alle mulige flashcards
 - [ ] **21/1-27 EKSAMEN BEVÆGEAPPARATET**
 - [ ] **22/1-27** 
 - [ ] **23/1-27** 

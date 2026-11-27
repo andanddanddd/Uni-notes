@@ -65,6 +65,18 @@
             }
           },
           {
+            "id": "a51ea388201d98b1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Externe dokumenter/Bevægeapparatet/Pensumliste 5.3 Bevægeapparatet 2026-27 DCA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Pensumliste 5.3 Bevægeapparatet 2026-27 DCA"
+            }
+          },
+          {
             "id": "832e8c0eada63162",
             "type": "leaf",
             "state": {
@@ -89,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,8 +293,9 @@
   },
   "active": "e3085b340749bfb9",
   "lastOpenFiles": [
-    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
+    "Externe dokumenter/Bevægeapparatet/Pensumliste 5.3 Bevægeapparatet 2026-27 DCA.pdf",
     "0. De allervigtigste/Eksamensplan 5 sem.md",
+    "Externe dokumenter/Studieordning for bacheloruddannelsen i medicin 2024.pdf",
     "4. Flashcards/Batcherprojet/Projektkatalog.md",
     "Externe dokumenter/Batchlorprojekt",
     "4. Flashcards/Bevægeapparatet/Caseuge 3+4 - Underekstremiteterne/Klinik/Bugvæggens muskler.md",
@@ -309,12 +322,10 @@
     "Externe dokumenter/Bevægeapparatet/~$mle eksamensæt BA.docx",
     "Externe dokumenter/Bevægeapparatet/Gamle eksamensæt BA.docx",
     "Externe dokumenter/Gamle eksamensæt BA.docx",
-    "Gamle eksamensæt BA.docx",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. digastricus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. scalenus medius.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. geniohyoideus.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/Platysma.md",
-    "Externe dokumenter/Bevægeapparatet/Columna, hoved, hals og thorax/Slides - Hovedet og halsen anatomi.pdf",
     "3. Forelæsninger/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Forelæsning - Hovedet og halsens anatomi.md",
     "4. Flashcards/Bevægeapparatet/Caseuge 5+6 - Collumna, thorax og hovedet/Hals/M. omohyoideus.md",
     "Billeder/Bevægeapparatet/Overekstremiteterne/Pasted image 20261123104845.png",
