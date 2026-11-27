@@ -18,6 +18,7 @@
 #### Insertion
 - Hvor har m. obliquus ext. abdominalis insertion?:: Aponeurosis m. obliquus externi
 	- Hvilken del af aponeurosis m. obliquua externi er forstærket og hvad hedder det?:: [[Lig. inguinale]]
+<!--SR:!2026-11-30,3,250-->
 - Hvor har fibrene i m. obliquus ext. abdominalis der udspringer fra det nederste ribben insersion?:: Crista iliaca (se [[Os ilium]])
 
 ### Funktion

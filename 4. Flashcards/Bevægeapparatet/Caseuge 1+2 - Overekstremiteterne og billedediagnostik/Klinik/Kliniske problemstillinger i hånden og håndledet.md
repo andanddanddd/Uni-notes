@@ -2,6 +2,7 @@
 
 - Hvilke nerve er skadet hvis pt ikke kan bøje finger 2+3 og ikke kan opponere tommelfingere?:: [[N. medianus]]
 - Hvilken nerve er skadet hvis pt har klohånd og ikke kan sprede fingrene?:: [[N. ulnaris]]
+<!--SR:!2026-12-01,4,270-->
 - Hvilken nerve er skadet hvis p ikke kan ekstendere håndledet og fingrene?:: [[N. radialis]]
 - Hvad kaldes tilstanden der medfører "sovende" fingre særligt om natten?:: [[Karpaltunnelsyndrom]]
 <!--SR:!2026-12-13,16,290-->

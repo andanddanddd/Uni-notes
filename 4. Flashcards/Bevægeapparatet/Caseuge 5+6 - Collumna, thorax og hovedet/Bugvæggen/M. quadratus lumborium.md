@@ -14,6 +14,7 @@
 - Hvor udspringer m. quadratus lumborium?:: Crista iliaca
 #### Insertion
 - Hvor har m. quadratus lumborium insertion?:: Ribben 12 og [[Tværtappe]] af L1-L5
+<!--SR:!2026-11-28,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. quadratus lumborium?

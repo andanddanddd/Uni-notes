@@ -6,5 +6,6 @@
 - Hvordan holdes armen typisk under en subluxation af albueledet?:: Armen holdes tæt mod kroppen med let bøjet albue, underarmen er typisk proneret
 <!--SR:!2026-11-28,4,270-->
 - Hvad ville ses under inspektion af et subluxeret albueled?:: Ingen hævelse, misfarvning eller deformitet (fejlstilling)
+<!--SR:!2026-12-01,4,270-->
 - Hvornår tages røntgen af et subluuxeret albueled?:: Ikke som udgangspunkt, kun ved mistanke om fraktur
 - Hvordan behandles en subluxation af albueledet?:: Supination (eller hyperpronation) af albueledet efterfulgt af fleksion

@@ -3,4 +3,6 @@
 - Hvor kommer aa. digitales palmares communes fra?:: [[Arcus palmaris superficialis]]
 <!--SR:!2026-11-28,4,270-->
 - Hvor deler aa. digitales palmares communes sig til sine endegrene?:: I ruderne dannet af [[Aponeurosis palmaris]]
+<!--SR:!2026-12-01,4,270-->
 - Hvad hedder endegrenene fra aa. digitales palmares communes?:: [[Aa. digitales palmares propriae]]
+<!--SR:!2026-11-30,3,250-->

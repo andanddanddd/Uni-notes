@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor kommer a. brachialis fra?:: Direkte fortsættelse af [[A. axillaris]]
+<!--SR:!2026-12-01,4,270-->
 - Hvad hedder de 2 endegrane af a. brachialis?:: [[A. ulnaris]] og [[A. radialis]]
 <!--SR:!2026-12-12,16,290-->
 

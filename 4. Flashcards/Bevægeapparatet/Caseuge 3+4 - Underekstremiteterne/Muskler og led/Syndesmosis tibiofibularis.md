@@ -9,4 +9,4 @@
 - [[Lig. tibiofibulare anterius]]
 - [[Lig. tibiofibulare interosseus]]
 - [[Lig. tibiofibulare posterius]]
-<!--SR:!2026-11-21,3,250-->
+<!--SR:!2026-12-05,8,250-->

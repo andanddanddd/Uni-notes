@@ -7,6 +7,7 @@
 ![[Pasted image 20261111095300.png]]3?:: Lig. cruciatum posterius
 <!--SR:!2026-11-30,11,270-->
 ![[Pasted image 20261111095300.png]]4?:: Meniscus medialis
+<!--SR:!2026-11-30,3,250-->
 ![[Pasted image 20261111095300.png]]5?:: Condylus medialis tibiae
 <!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111095300.png]]6?:: [[Tibia]]

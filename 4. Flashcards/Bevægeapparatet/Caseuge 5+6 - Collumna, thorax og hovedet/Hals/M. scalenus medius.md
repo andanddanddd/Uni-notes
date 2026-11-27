@@ -14,6 +14,7 @@
 - Hvor udspringer m. scalenus med.?:: [[Tværtappe]]ne på C1-C7
 #### Insertion
 - Hvor har m. scalenus med. insertion?:: Øvre mediale del af costa 1
+<!--SR:!2026-11-28,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. scalenus med.?

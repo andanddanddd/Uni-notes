@@ -14,6 +14,7 @@
 - Hvor udspringer m. spinalis?
 #### Insertion
 - Hvor har m. spinalis insertion?:: [[Torntappe]]n
+<!--SR:!2026-11-30,3,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. spinalis?

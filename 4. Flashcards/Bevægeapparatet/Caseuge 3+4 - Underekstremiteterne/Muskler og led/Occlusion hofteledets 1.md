@@ -6,7 +6,7 @@
 ![[Hofteledet 1|600]]A?:: Labrum acetbuli
 <!--SR:!2026-12-04,11,270-->
 ![[Hofteledet 1|600]]B?:: Membrana synovialis
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-08,11,270-->
 ![[Hofteledet 1|600]]C?:: Zona orbicularis
 <!--SR:!2026-12-01,5,230-->
 ![[Hofteledet 1|600]]D?:: Epifyseskive
