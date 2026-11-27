@@ -13,6 +13,7 @@
 - Hvor maneg ryghvirvler springer m. rotatores over før den har insersion?:: 0-1
 #### Udspring
 - Hvor udspringer m. rotatores?:: [[Tværtappe]]
+<!--SR:!2026-12-01,4,270-->
 #### Insertion
 - Hvor har m. rotatores insertion?:: [[Torntappe]]
 <!--SR:!2026-11-22,4,270-->

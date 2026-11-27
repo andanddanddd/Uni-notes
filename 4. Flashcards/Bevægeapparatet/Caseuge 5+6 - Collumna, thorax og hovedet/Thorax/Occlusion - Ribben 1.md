@@ -9,6 +9,7 @@
 ![[Ribben 1|800]]C?:: Angulus costae
 ![[Ribben 1|800]]D?:: Caput costae
 ![[Ribben 1|800]]E?:: Collum costae
+<!--SR:!2026-11-30,3,250-->
 ![[Ribben 1|800]]F?:: Tuberculum costae
 ![[Ribben 1|800]]G?:: Fascies articularis
 ![[Ribben 1|800]]H?:: Sulcus costae

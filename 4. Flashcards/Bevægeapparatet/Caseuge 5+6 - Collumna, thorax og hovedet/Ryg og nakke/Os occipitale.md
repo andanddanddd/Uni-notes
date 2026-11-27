@@ -10,6 +10,7 @@
 <!--SR:!2026-11-28,4,270-->
 - Hvad hedder ledfladeren lateralt for foramen magnus?:: [[Condyli occipitales]]
 - Hvad hedder der strækker sig vertikalt lige over foramen magna?:: Crista occipitalis externa
+<!--SR:!2026-11-28,1,230-->
 	- Hvor ender crista occipitalis externa opadtil?:: Protuberantia occipitalis externa
 <!--SR:!2026-11-28,4,270-->
 

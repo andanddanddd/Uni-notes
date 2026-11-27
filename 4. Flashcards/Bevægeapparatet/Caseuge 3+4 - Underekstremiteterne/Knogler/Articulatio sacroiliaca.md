@@ -4,6 +4,7 @@
 
 ### Ledtype
 - Hvilken ledtype er art. sacroiliaca?:: Synovialled
+<!--SR:!2026-12-01,4,270-->
 
 ### Ledflader
 - Hvilke 2 knogler binder art. sacroiliaca sammen?:: [[Os ilium]] med [[Os sacrum]]

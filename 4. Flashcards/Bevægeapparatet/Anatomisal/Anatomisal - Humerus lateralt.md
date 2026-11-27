@@ -11,6 +11,7 @@
 ![[Pasted image 20261111102941.png]]5?:: Ulna
 <!--SR:!2026-12-09,16,290-->
 ![[Pasted image 20261111102941.png]]6?:: Membrana interossea
+<!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261111102941.png]]7?:: Humerus
 <!--SR:!2026-11-30,14,290-->
 ![[Pasted image 20261111102941.png]]8?:: Capsula articularis

@@ -1,7 +1,9 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er planta pedis?:: Fodsålen
+<!--SR:!2026-12-01,4,270-->
 - Hvad kaldes det stærke bindevævsblad i fodsålen?:: [[Aponeurosis plantaris]]
+<!--SR:!2026-12-01,4,270-->
 
 - Hvad kendetegner fedtet i fodsålen og hvorfor er det smart?:: Det har en lavere smeltetemperatur (28C) hvilket tillader at det forskydes mere og dermed agere trykpude bedre
 - Hvad kendetegner huden i fodsålen og hvorfor er det smart?:: Det er forankret godt til dybere strukture så det ikke skrider når vi går eller løber og dermed glider vi mindre

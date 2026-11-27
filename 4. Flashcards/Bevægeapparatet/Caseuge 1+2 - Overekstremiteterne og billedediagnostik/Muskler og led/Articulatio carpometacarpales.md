@@ -12,5 +12,6 @@ Hvilke knogler danner ledflader i art. carpometacarpales?:: [[Håndroden]]s dist
 
 ### Funktion
 - Hvilke bevægelser kan art. carpometacarpales lave?:: Kun små forskydninger
+<!--SR:!2026-12-01,4,270-->
 
 ### Klinik

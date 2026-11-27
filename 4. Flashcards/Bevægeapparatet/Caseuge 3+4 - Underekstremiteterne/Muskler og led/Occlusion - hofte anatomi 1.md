@@ -13,6 +13,7 @@
 ![[Hofte anatomi 1|700]]E?:: [[M. obturatorius internus]] og [[Mm gemelli]]
 <!--SR:!2026-12-15,18,250-->
 ![[Hofte anatomi 1|700]]F?:: Tuber ischiadicum
+<!--SR:!2026-12-01,4,270-->
 ![[Hofte anatomi 1|700]]G?:: [[N. pudendus]]
 <!--SR:!2026-12-07,11,270-->
 ![[Hofte anatomi 1|700]]H?:: [[Lig. sacrotuberale]]

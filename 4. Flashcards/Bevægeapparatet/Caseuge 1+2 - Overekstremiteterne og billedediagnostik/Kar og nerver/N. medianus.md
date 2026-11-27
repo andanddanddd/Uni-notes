@@ -9,3 +9,4 @@
 <!--SR:!2026-12-05,12,270-->
 
 - Hvordan præsentere en patient med skade på n. .medianus sig typisk?:: Kan ikke bøje finger 2+3 samt svært ved opponens og abduction af tommelfinger
+<!--SR:!2026-11-30,3,250-->

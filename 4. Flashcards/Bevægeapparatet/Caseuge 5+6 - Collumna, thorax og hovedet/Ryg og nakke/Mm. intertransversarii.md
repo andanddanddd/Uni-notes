@@ -12,7 +12,7 @@
 - Hvordan er det overordnede forløb af ,,. intertransversarii?:: Mellem 2 på hinanden følgende tværtappe
 #### Udspring
 - Hvor udspringer mm. intertransversarii?:: [[Tværtappe]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-12,15,290-->
 #### Insertion
 - Hvor har mm. intertransversarii insertion?:: [[Tværtappe]]
 <!--SR:!2026-12-09,12,270-->

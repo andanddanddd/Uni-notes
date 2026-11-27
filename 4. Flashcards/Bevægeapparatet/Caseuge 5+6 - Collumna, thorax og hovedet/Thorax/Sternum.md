@@ -11,6 +11,7 @@
 - Hvilken ende af sternum er tykkest?:: Den kranielle
 <!--SR:!2026-11-29,3,250-->
 - Hvad kaldes den øverte del af sternum?:: Manubrium
+<!--SR:!2026-12-01,4,270-->
 	- Hvor er manubrium sterni bredest?:: Opadtil
 	- Hvorfor er manubium sterni kraftig?:: Den skal tage imod "stød" fra skulderbæltet og dermed armen
 	- Hvad hedder ledfladen på sternum?:: [[Incisura clavicularis]]

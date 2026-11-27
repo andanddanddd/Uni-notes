@@ -5,6 +5,7 @@
 <!--SR:!2026-12-08,11,270-->
 - Hvor dybt ligger m. spinalis?
 - Hvor er m. spinalis i forhold til de andre dele af erektor spinae?:: Medialt
+<!--SR:!2026-12-01,4,270-->
 
 ### Form
 - Hvilken form har m. spinalis?

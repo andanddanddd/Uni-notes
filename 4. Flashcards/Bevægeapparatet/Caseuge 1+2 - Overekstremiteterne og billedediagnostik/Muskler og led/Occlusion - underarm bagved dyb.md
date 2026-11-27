@@ -12,3 +12,4 @@
 ![[Underarm bagved 2]]D?:: [[M. abductor pollicis longus]]
 <!--SR:!2026-12-24,28,270-->
 ![[Underarm bagved 2]]E?:: [[M. extensor pollicis brevis]]
+<!--SR:!2026-11-30,3,250-->

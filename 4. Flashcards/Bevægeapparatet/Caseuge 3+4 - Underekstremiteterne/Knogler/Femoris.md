@@ -50,6 +50,7 @@
 <!--SR:!2026-12-10,16,290-->
 - Hvad hedder de 2 fremspring på den distale ekstremitet af femoris?:: Condylus medialis/lateralis
 	- Hvor er de 2 condylus sammenhængende?:: Fortil
+<!--SR:!2026-11-30,3,250-->
 	- Hvad hedder strukturen der adskiller de 2 condylus bagtil?:: Fossa intercondylaris
 	- Hvad hedder de 2 fremspring på condylus medialis/lateralis?:: Epicondylus medialis/lateralis
 <!--SR:!2026-11-28,16,290-->

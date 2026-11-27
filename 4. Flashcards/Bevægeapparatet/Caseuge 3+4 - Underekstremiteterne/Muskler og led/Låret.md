@@ -7,6 +7,7 @@
 - Hvad hedder facien i låret?:: *Fascia lata*
 <!--SR:!2026-12-04,11,270-->
 - Hvor i låret binder bindevævssepta der opdeler låret?:: Linea aspera samt dens forlængelser (se [[Femoris]])
+<!--SR:!2026-11-30,3,250-->
 - Hvor i låret er de store kar?:: Mellem extensorgruppen og adductorgruppen
 <!--SR:!2026-12-10,16,290-->
 

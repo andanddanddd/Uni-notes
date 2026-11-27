@@ -5,6 +5,7 @@
 - Hvilke funktioner har larynx?:: Luftvej og tonegenerator
 - Hvilke lukkemekanismer har larynx?:: Strubelåget og stemmelæberne
 - Hvad hedder strubelåget på latin?:: Epiglotis
+<!--SR:!2026-12-01,4,270-->
 - Hvad er larynx skelet bygget af?:: Brusk
 ## Placering
 - Hvor lang er larynx?:: 4-5 cm
@@ -27,6 +28,7 @@
 - Hvilken type brusk består skjoldbrusken af?:: Hyalin brusk 
 #### Ringbrusken
 - Hvad hedder ringbrusken på latin?:: Cartilago cricoidea
+<!--SR:!2026-12-01,4,270-->
 - Hvor sidder ringbrusken?:: Den forbinder larynx med trachea
 - Hvilken type brusk består ringbrusken af?:: Hyalin brusk
 #### Strubelågsbrusken
@@ -35,6 +37,7 @@
 
 #### Tudbrusken
 - Hvad hedder tudbrusken på latin?:: Cartilagines arytenoideae
+<!--SR:!2026-11-28,1,230-->
 - Hvilken funktion har tudbrusken?:: Hæfter stemmerlæberne
 - Hvilken type brusk består tudbrusken af?:: Både hyalin og elastisk brusk
 
@@ -54,6 +57,7 @@
 ![[Strubehovedet 1]]E:: Cartilago corniculata
 ![[Strubehovedet 1]]F:: Cartilago arytenoidea
 ![[Strubehovedet 1]]G:: Cartilago cricothyroidea
+<!--SR:!2026-11-30,3,250-->
 
 ## Strubehovedet 2
 ![[strubehovedet 2.png]]
@@ -63,6 +67,7 @@
 ![[Strubehovedet 2]]C:: Lig. vocale
 ![[Strubehovedet 2]]D:: Conus elasticus
 ![[Strubehovedet 2]]E:: Membrana thyrohyoidea
+<!--SR:!2026-11-28,1,230-->
 ![[Strubehovedet 2]]F:: Membrana quadrangularis
 ![[Strubehovedet 2]]G:: Lig. vestibulare
 

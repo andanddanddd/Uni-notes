@@ -22,5 +22,6 @@
 ![[Lårmuskler 1|600]]L?:: [[M. gracilis]]
 <!--SR:!2027-01-09,43,290-->
 ![[Lårmuskler 1|600]]M?:: [[M. sartorius]]
+<!--SR:!2026-12-01,4,270-->
 ![[Lårmuskler 1|600]]N?:: [[M. vastus medialis]]  
 ![[Lårmuskler 1|600]]O?:: Pes anseinus
