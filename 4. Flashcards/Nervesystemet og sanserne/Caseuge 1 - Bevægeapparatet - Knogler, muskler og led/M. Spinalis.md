@@ -2,7 +2,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. spinalis?:: [[M. Erektor spinae]] (de dybe rygmuskler)
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-08,11,270-->
 - Hvor dybt ligger m. spinalis?
 - Hvor er m. spinalis i forhold til de andre dele af erektor spinae?:: Medialt
 

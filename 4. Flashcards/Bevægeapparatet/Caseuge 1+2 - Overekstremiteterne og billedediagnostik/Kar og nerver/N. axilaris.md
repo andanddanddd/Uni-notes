@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvilke fascikler i [[Plexus brachialis]] kommer n. axilaris fra?:: Fasciculus post
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvilke rygmarvssegmenter innervere n. axilaris?:: C5-C6
 <!--SR:!2026-12-06,12,270-->
 - Hvilken motorik funktion har n. axilaris?:: [[M. deltoideus]] og [[M. teres minor]]

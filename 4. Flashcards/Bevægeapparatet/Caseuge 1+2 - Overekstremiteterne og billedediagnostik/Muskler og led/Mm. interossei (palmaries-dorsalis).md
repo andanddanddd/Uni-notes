@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvor mange mm. interossei palmaries har vi?:: 3
-<!--SR:!2026-11-21,12,270-->
+<!--SR:!2027-01-11,45,290-->
 - Hvor mange mm. interossei dorsalis har vi?:: 4
 <!--SR:!2026-11-30,14,290-->
 ### Lokation

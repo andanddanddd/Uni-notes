@@ -19,7 +19,7 @@
 - Hvor udspringer mm. interossei (fod)?:: Skaftet af ossa metatasales
 #### Insertion
 - Hvor har mm. interossei (fod) insertion?:: Basis af phalanx proximale
-<!--SR:!2026-11-25,2,230-->
+<!--SR:!2026-12-04,7,250-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. interossei plantaris?:: Adduction

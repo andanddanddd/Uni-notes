@@ -19,5 +19,5 @@
 ![[Pasted image 20261112112219.png]]10?:: Linea arcuata
 <!--SR:!2026-11-23,3,250-->
 ![[Pasted image 20261112112219.png]]11?:: Tuberculum pubicum
-<!--SR:!2026-11-26,10,270-->
+<!--SR:!2026-12-25,28,270-->
 ![[Pasted image 20261112112219.png]]12?:: Trochanter minor

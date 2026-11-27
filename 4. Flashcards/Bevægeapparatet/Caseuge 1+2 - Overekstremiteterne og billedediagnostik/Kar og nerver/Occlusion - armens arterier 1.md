@@ -13,7 +13,7 @@
 ![[Armens arterier 1|700]]F?:: [[A. suprascapularis]]
 <!--SR:!2026-12-05,12,270-->
 ![[Armens arterier 1|700]]G?:: [[A. axillaris]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 ![[Armens arterier 1|700]]H?:: [[Truncus thyrocirvicalis]]
 ![[Armens arterier 1|700]]I?:: [[A. thoracoacromialis]]
 <!--SR:!2026-11-29,3,250-->

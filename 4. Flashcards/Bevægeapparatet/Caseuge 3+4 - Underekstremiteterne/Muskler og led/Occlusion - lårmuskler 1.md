@@ -20,7 +20,7 @@
 ![[Lårmuskler 1|600]]K?:: [[M. adductor longus]]
 <!--SR:!2026-12-04,11,190-->
 ![[Lårmuskler 1|600]]L?:: [[M. gracilis]]
-<!--SR:!2026-11-27,11,270-->
+<!--SR:!2027-01-09,43,290-->
 ![[Lårmuskler 1|600]]M?:: [[M. sartorius]]
 ![[Lårmuskler 1|600]]N?:: [[M. vastus medialis]]  
 ![[Lårmuskler 1|600]]O?:: Pes anseinus

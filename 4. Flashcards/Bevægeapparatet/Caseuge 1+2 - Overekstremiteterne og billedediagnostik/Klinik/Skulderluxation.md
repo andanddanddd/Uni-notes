@@ -3,7 +3,7 @@
 - Hvilket retninger sker skulderluxationer oftest?:: Forudtil
 <!--SR:!2026-11-27,4,270-->
 - Hvilket ligament overrives typisk ved skulderluxation? (forudtil):: [[Ligamenta glenohumeralia]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvilken bevægelse giver oftest skulderluxation?:: Forceret udadrotation
 	- Hvordan giver det mening af udadrotation kan give skulderluxation forudtil?:: Det river et ligament og evt ledlæbe løs forudtil så der ikke er meget til at stoppe armen fra at ryge derind
 <!--SR:!2026-11-28,4,270-->

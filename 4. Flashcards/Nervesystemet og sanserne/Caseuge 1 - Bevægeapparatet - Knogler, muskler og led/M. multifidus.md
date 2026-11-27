@@ -6,7 +6,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. multifidus?:: [[Mm. Transversospinalis]] (dybe rygmuskler)
 - Hvor dybt ligger m. multifidus?:: Dybt
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-08,11,270-->
 
 ### Form
 - Hvilken form har m. multifidus?

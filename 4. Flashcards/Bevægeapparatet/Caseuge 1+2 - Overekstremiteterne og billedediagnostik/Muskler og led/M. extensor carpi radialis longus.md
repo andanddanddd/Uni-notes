@@ -5,7 +5,7 @@
 - Hvor er m. extensor carpi radialis longus overordnet?:: Dorsalt (lateralt) på underarmen
 <!--SR:!2027-01-12,54,310-->
 - Hvor dybt ligger m. extensor carpi radialis longus?:: Superficielt
-<!--SR:!2026-11-27,16,290-->
+<!--SR:!2027-02-02,67,310-->
 
 ### Form
 - Hvilken form har m. extensor carpi radialis longus?

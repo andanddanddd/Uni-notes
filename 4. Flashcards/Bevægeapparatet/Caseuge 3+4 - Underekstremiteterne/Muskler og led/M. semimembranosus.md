@@ -11,14 +11,14 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. semimembranosus?:: Tuber ischiadicum (se [[Os ischii]])
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-09,12,270-->
 #### Insertion
 - Hvor har m. semimembranosus insertion?
 ?
 - Medialt i knæets kapsel
 - Cpndylu smedialis af [[Tibia]]
 - [[Ligamentum popliteum obliquum]]
-<!--SR:!2026-11-27,1,130-->
+<!--SR:!2026-11-28,1,130-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. semimembranosus?
