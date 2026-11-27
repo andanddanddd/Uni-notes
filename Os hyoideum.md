@@ -1,11 +1,12 @@
-#flashcards/6/Batchlorprojet 
+#flashcards/5/Bevægeapparatet 
 
 
 ### Generalt
-- Hvad hedder os hyo
+- Hvad hedder os hyoideum på dansk?:: Tungebenet
 
 #### Placering og orientering
 #### Form og størrelse
+- Hvordan inddeles os hyoideum overordnet?:: Corpus + 2 store og 2 små "horn"
 
 ### Relationer
 #### Led
