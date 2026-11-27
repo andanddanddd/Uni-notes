@@ -11,13 +11,13 @@
 
 ### Forløb
 #### Udspring
-- Hvor udspringer m. omohyoideus?:: [[Os. hyoideum]]
+- Hvor udspringer m. omohyoideus?:: [[Os hyoideum]]
 <!--SR:!2026-12-06,12,270-->
 #### Insertion
 - Hvor har m. omohyoideus insertion?:: Margo sup. af [[Scapula]]
 
 ### Funktion
-- Hvilke bevægelser udfører m. omohyoideus?:: Trække [[Os. hyoideum]] nedad
+- Hvilke bevægelser udfører m. omohyoideus?:: Trække [[Os hyoideum]] nedad
 <!--SR:!2026-11-29,3,250-->
 
 ### Innerversion og reflekser

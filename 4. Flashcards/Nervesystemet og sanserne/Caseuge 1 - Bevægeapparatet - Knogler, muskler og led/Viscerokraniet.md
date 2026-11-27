@@ -15,4 +15,4 @@
 ?
 - [[Vomer]]
 - [[Mandibula]]
-- [[Os. hyoideum]]
+- [[Os hyoideum]]

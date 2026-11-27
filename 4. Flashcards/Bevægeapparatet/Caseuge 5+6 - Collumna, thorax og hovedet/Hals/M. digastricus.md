@@ -12,7 +12,7 @@
 - Hvor udspringer m. digastricus, venter post.?:: Medialsiden af processus mastoideus
 - Hvor udspringer m. digastricus, venter ant.?:: Corpus mandibulare
 #### Insertion
-- Hvor har m. digastricus insertion?:: En bindevævsslynge der sidder på [[Os. hyoideum]]
+- Hvor har m. digastricus insertion?:: En bindevævsslynge der sidder på [[Os hyoideum]]
 <!--SR:!2026-11-28,2,230-->
 
 ### Funktion

@@ -12,7 +12,7 @@
 #### Udspring
 - Hvor udspringer m. mylohyoideus?:: Linea mylohyoidea (undersiden af corpus mandibulare)
 #### Insertion
-- Hvor har m. mylohyoideus insertion?:: [[Os. hyoideum]]
+- Hvor har m. mylohyoideus insertion?:: [[Os hyoideum]]
 
 ### Funktion
 - Hvilke bevægelser udfører m. mylohyoideus?:: Løfter mundgulvet og tungen opad

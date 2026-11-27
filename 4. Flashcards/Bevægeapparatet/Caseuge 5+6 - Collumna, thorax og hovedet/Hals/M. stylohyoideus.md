@@ -12,7 +12,7 @@
 #### Udspring
 - Hvor udspringer m. stylohyoideus?:: Proccessus styloideus
 #### Insertion
-- Hvor har m. stylohyoideus insertion?:: Cornu minus (se [[Os. hyoideum]])
+- Hvor har m. stylohyoideus insertion?:: Cornu minus (se [[Os hyoideum]])
 
 ### Funktion
 - Hvilke bevægelser udfører m. stylohyoideus?:: Trække tungebenet opad-bagud

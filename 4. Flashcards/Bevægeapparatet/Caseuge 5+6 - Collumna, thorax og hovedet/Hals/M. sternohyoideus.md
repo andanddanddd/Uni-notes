@@ -13,10 +13,10 @@
 #### Udspring
 - Hvor udspringer m. sternohyoideus?:: Bagfladen af manubrium sterni (se [[Sternum]])
 #### Insertion
-- Hvor har m. sternohyoideus insertion?:: Nederste rand af [[Os. hyoideum]]
+- Hvor har m. sternohyoideus insertion?:: Nederste rand af [[Os hyoideum]]
 
 ### Funktion
-- Hvilke bevægelser udfører m. sternohyoideus?:: Trække [[Os. hyoideum]] nedad
+- Hvilke bevægelser udfører m. sternohyoideus?:: Trække [[Os hyoideum]] nedad
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. sternohyoideus?

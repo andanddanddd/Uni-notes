@@ -14,7 +14,18 @@
 - Hvad hedder den nederste mediale knogle på mandibula?:: Protuberna mentalis
 	- Hvad hedder de laterale flader af protuberna mentalis?:: Tuberculum mentale
 - Hvad hedder hullerne i corpus mandibulare?:: [[Foramen mentale]]
-- 
+- Hvad hedder den indvendige linje i midtlinje på corpus mandibula?:: Spina mentalis
+- Hvad hedder listen der strækker sig fra spina mentalis?:: Linea mylohyoidea
+- Hvad hedder de 2 strukture der skilles af linea mylohyoidea?:: Fovea sublingualis/submandibularis
+- Hvad hedder delen af corpus mandibulare som tænderne sidder i?:: Pars alveolaris
+
+- Hvad hedder hulet i ramus mandibulare?:: Foramen mandibulare (fortsætter i canalis mandibulare)
+- Hvad hedder de 2 fremspring på ramus mandibulare?:: Processus condylaris og processus coronoideus
+	- Hvad hedder indskærringen mellem de 2 fremspring på mandibula?:: Insicura mandibulare
+	- Hvor er processus condylaris?:: Bagerst øverst på ramus mandibulare
+	- Hvor er processus coronoidus?:: Forste øverst på ramus mandibulare
+	- Hvilken funktion har processus condylaris?:: Danne kæbens primære led
+	- Hvilken funktion har processus coronoidus?:: Muskeltilhæftning for [[M. temporalis]]
 
 ### Relationer
 #### Led
@@ -24,7 +35,7 @@
 ### Knogletype
 - Hvad kendetegner strukturen af mandibula?:: Den er en af de mest kompakte knogler i kroppen (derfor overlever den længst i naturen)
 - Hvilken knogletype er mandibula?
-- Er mandibula parret eller uparret?
+- Er mandibula parret eller uparret?:: Uparret
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt
