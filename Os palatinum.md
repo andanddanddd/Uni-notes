@@ -8,7 +8,7 @@
 - Hvilken struktur danner os palatinum?:: Bagerte del af den hårde gane (se [[Ganen]]), (og næsehulens laterale væg)
 #### Form og størrelse
 - Hvad hedder delen af os palatinum der danner den hårde gane?:: Lamina horizontalis
-- Hvad hedder delen af os palatinum der danner
+- Hvad hedder delen af os palatinum der danner bagsiden af næsehulen?:: Lamina perpendicularis
 
 ### Relationer
 #### Led
