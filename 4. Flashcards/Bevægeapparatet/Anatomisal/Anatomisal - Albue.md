@@ -3,6 +3,7 @@
 ![[Pasted image 20261111100420.png]]
 
 ![[Pasted image 20261111100437.png]]1?:: Radius
+<!--SR:!2026-12-01,4,270-->
 ![[Pasted image 20261111100437.png]]2?:: Ulna
 <!--SR:!2026-12-13,16,290-->
 ![[Pasted image 20261111100437.png]]3?:: Humerus

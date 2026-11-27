@@ -28,6 +28,7 @@
 - [[M. abductor digiti minimi (fod)]]
 - [[M. flexor digiti minimi brevis]]
 - [[M. opponens digiti minimi (fod)]]
+<!--SR:!2026-12-01,4,270-->
 
 - Hvilke muskler findes i fodens centrale loge?
 ?

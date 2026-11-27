@@ -19,6 +19,7 @@
 ![[Fodens knogler 1|600]]H?:: Phalanx proximale
 <!--SR:!2026-12-31,43,290-->
 ![[Fodens knogler 1|600]]I?:: Phalanx media
+<!--SR:!2026-12-01,4,270-->
 ![[Fodens knogler 1|600]]J?:: Phalanc distalis
 <!--SR:!2027-01-29,63,310-->
 ![[Fodens knogler 1|600]]K?:: Digitus minimus

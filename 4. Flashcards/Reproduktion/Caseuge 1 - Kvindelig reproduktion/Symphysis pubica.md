@@ -1,6 +1,7 @@
 #flashcards/4/Reproduktion #flashcards/5/Bevægeapparatet 
 
 - Hvilken type led er sympysis pubica?:: [[Symfyser]] (sekundær synkondrose)
+<!--SR:!2026-12-01,4,270-->
 - Hvilke knogler forbindes af symphysis pubica?:: De 2 [[Os pubis]]
 <!--SR:!2026-11-28,4,270-->
 - Hvad hedder de 2 ligamenter der støtter symphysis pubica?

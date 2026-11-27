@@ -19,6 +19,7 @@
 ### Funktion
 - Hvilken funktion har mm. lumbricales i foden?:: Proprioception
 - Hvilke bevægelser udfører Mm. lumbricales (fod)?:: De er for små til at bidrage til bevægelse
+<!--SR:!2026-11-30,3,250-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere Mm. lumbricales (fod)?

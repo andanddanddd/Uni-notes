@@ -11,3 +11,4 @@
 <!--SR:!2026-11-24,8,250-->
 ![[Knæled 3|600]]E?:: [[Lig. collaterlae tibiale]]
 ![[Knæled 3|600]]F?:: Lig. coronarium mediale
+<!--SR:!2026-11-28,1,230-->

@@ -17,6 +17,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører platysma?:: Mimik trækker mundvigen nedad
+<!--SR:!2026-12-01,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere platysma?:: [[N. facialis]]

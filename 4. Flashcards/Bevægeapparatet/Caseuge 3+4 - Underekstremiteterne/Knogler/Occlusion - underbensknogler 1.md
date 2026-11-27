@@ -25,5 +25,6 @@
 ![[Underbensknogler 1|600]]L?:: Eminentia intercondylaris
 <!--SR:!2026-12-10,21,250-->
 ![[Underbensknogler 1|600]]M?:: Apex capitis fibulae
+<!--SR:!2026-11-30,3,250-->
 ![[Underbensknogler 1|600]]N?:: Margo interosseus
 <!--SR:!2026-12-24,38,290-->

@@ -13,6 +13,7 @@
 - Hvilken underbensknogle tilhører talus?:: [[Tibia]]
 #### Form og størrelse
 - Hvor stor er talus?:: Næststørste knogle i fodroden
+<!--SR:!2026-12-01,4,270-->
 - Hvad hedder ledhovedet på talus?:: Caput tali
 <!--SR:!2026-12-27,33,270-->
 

@@ -33,6 +33,7 @@
 - [[M. rectus capitis lateralis]]
 
 - Hvor har scalendergruppen af de dybe halsmuskler fået sit navn fra?:: Scalender betyder skrå
+<!--SR:!2026-11-28,1,230-->
 - Hvad hedder de 3 dybe halsmuskler i scalenergrupen?
 ?
 - [[M. scalenus anterior]]

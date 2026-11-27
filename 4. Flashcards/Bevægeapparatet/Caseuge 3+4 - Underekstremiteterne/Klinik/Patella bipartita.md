@@ -2,3 +2,4 @@
 
 - Hvad er patella bipartita overordnet?:: Ufuldstændig forbening af patella
 - Hvilke symptomer har patella bipartita?:: Typisk ingen (findes ofte som vifund) men det kan giev smerter
+<!--SR:!2026-12-01,4,270-->

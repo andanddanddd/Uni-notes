@@ -19,9 +19,11 @@
 <!--SR:!2026-12-06,11,270-->
 	- Hvorfor er der en ru fordybning på hver side af sternum?:: der hæfter costa I
 - Hvad kaldes den midterste del af sternum?:: Corpus
+<!--SR:!2026-12-01,4,270-->
 	- Hvorfor er der 3 horizontale linjer på sternum og hvad kaldes de?:: Sternebrae, de markere stederne de 4 dele af corpus sternum er sammenvokset
 	- Hvad hedder de glatte udsnit på siderne af corpus sternum?:: Incisurae costales
 		- Hvor mange insicura costales er på hver side af corpus sternum?:: 5
+<!--SR:!2026-12-01,4,270-->
 		- Hvor er de 5 incisurae costales?:: Ved hver af de horizontale linjer på corpus sterni samt en ekstra på hhv det øvertse og nederste udsnit
 - Hvad kaldes den nederste del af sternum?:: Processus xipoideus
 <!--SR:!2026-12-07,11,270-->

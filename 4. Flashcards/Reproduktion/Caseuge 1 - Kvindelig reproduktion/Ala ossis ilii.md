@@ -1,6 +1,7 @@
 #flashcards/4/Reproduktion #flashcards/5/Bevægeapparatet 
 
 - Hvad er alla osis ilii?:: Den øverste hvifteformede del
+<!--SR:!2026-12-01,4,270-->
 - Hvad kaldes den (frie) øvre kant af ala ossis ilii?:: Crista iliaca
 <!--SR:!2027-01-24,62,310-->
 	- Hvilke 2 strukture afgrænser critsa iliaca?:: Spina iliaca ant/post sup.

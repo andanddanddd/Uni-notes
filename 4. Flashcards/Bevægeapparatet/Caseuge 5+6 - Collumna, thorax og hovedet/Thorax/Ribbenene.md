@@ -30,6 +30,7 @@
 - Hvor på skafetet af ribbenen findes sulcus costae?:: Indersiden
 <!--SR:!2026-11-28,4,270-->
 - Hvilken funktion har sulcus costae?:: Indeholde kar og nerver
+<!--SR:!2026-12-01,4,270-->
 - Hvad er særligt ved costa XI og XII?
 ?
 - De articuelre kun med 1 ryghvirvel

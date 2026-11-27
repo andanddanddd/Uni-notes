@@ -16,7 +16,7 @@
 - Hvor tyk er scapula?:: Tynd og pellucid
 <!--SR:!2026-12-30,44,290-->
 - Hvad hedder de 3 fremspring på scapula?:: Spina scapulae, acromion og processus coracoideus
-<!--SR:!2026-11-27,25,270-->
+<!--SR:!2027-02-28,93,290-->
 - Hvilke 3 kanter har scapula?:: Medial, lateral og superior (margo-)
 <!--SR:!2027-01-20,65,310-->
 	- Hvad kendetegner kanterne på scapula?:: De er fortykket i forhold til resten af knoglen

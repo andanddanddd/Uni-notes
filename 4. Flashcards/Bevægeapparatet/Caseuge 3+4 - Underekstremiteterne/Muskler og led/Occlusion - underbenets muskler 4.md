@@ -13,3 +13,4 @@
 ![[Underbenets muskler 4]]E?:: [[Lig. popliteofibulare]]
 <!--SR:!2026-12-05,12,270-->
 ![[Underbenets muskler 4]]F?:: [[M. peroneus brevis]]
+<!--SR:!2026-11-30,3,250-->

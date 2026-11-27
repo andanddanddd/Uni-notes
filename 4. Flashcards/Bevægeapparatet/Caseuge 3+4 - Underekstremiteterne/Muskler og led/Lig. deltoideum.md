@@ -2,6 +2,7 @@
 
 - Hvor er lig. deltoideum?:: Medialsiden af det øvre ankelled
 - Hvor udspringer lig. deltoideum?:: Den mediale malleol (se [[Tibia]])
+<!--SR:!2026-11-30,3,250-->
 - Hvor stærkt er lig. deltoideum?:: Meget stærkt
 - Hvad hedder de 4 dele lig. deltoideum deler sig i?
 ?

@@ -30,6 +30,7 @@
 - Crista iliaca
 #### Insertion
 - Hvor har m. erektor spinae insertion?
+<!--SR:!2026-11-28,1,230-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. erektor spinae?:: Ekstension af ryggen

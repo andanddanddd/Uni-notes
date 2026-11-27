@@ -16,7 +16,8 @@
 <!--SR:!2026-11-27,4,270-->
 - Hvilke 2 strukture danner ledlæber til det øvre ankelled?:: [[Lig. tibiofibulare anterius]] og [[Lig. tibiofibulare posterius]]
 <!--SR:!2026-11-28,9,250-->
-- Hvilke strukture sikre at det øvre ankelled ikke bevæger sig fra side til side?:: Malleoserne og de kollaterale ligamenter 
+- Hvilke strukture sikre at det øvre ankelled ikke bevæger sig fra side til side?:: Malleoserne og de kollaterale ligamenter
+<!--SR:!2026-12-01,4,270-->
 - Hvad kaldes det mediale kollaterale ligament i det øvre ankelled?:: [[Lig. deltoideum]]
 <!--SR:!2026-11-27,3,250-->
 - Hvad kaldes de 3 laterale kollaterale ligamenter i det øvre ankelled?

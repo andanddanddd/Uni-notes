@@ -1,6 +1,7 @@
 #flashcards/5/Bevægeapparatet [[Canalis carpi (carpaltunnelen)]]
 
 - Hvad er det primære symptom ved karpaltunnelsyndrom?:: Sovende fingre og muskelsvaghed
+<!--SR:!2026-12-01,4,270-->
 - Hvornår er symptomerne i karpaltunnelsyndrom værst?:: Natten
 <!--SR:!2026-11-28,4,270-->
 - Hvordan lindres symptomerne ved karpaltunnelsyndrom?:: Ryster hånden

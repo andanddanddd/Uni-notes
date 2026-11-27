@@ -9,6 +9,7 @@
 ![[Armens arterier 1|700]]C?:: [[A. brachialis]]
 <!--SR:!2026-11-26,3,250-->
 ![[Armens arterier 1|700]]D?:: [[A. radialis]]
+<!--SR:!2026-12-01,4,270-->
 ![[Armens arterier 1|700]]E?:: [[A. ulnaris]]
 ![[Armens arterier 1|700]]F?:: [[A. suprascapularis]]
 <!--SR:!2026-12-05,12,270-->

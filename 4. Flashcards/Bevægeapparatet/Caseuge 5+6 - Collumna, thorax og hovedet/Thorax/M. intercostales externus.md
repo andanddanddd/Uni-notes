@@ -4,6 +4,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. intercostales ext.?:: Ribbenenes muskelr
 - Hvor dybt ligger m. intercostales ext.?:: Superficielt
+<!--SR:!2026-12-01,4,270-->
 
 ### Form
 - Hvilken form har m. intercostales ext.?

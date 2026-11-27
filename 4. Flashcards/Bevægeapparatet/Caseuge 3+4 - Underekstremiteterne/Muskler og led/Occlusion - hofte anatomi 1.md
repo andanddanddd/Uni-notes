@@ -8,6 +8,7 @@
 ![[Hofte anatomi 1|700]]B?:: [[M. gluteus minimus]]
 <!--SR:!2027-01-20,56,310-->
 ![[Hofte anatomi 1|700]]C?:: [[M. piriformis]]
+<!--SR:!2026-12-01,4,270-->
 ![[Hofte anatomi 1|700]]D?:: [[Lig. sacrospinale]]
 <!--SR:!2026-12-11,16,290-->
 ![[Hofte anatomi 1|700]]E?:: [[M. obturatorius internus]] og [[Mm gemelli]]

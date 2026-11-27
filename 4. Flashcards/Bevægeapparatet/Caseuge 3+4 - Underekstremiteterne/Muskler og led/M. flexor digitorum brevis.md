@@ -19,6 +19,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. flexor digitorum brevis?:: Flektion af tærene
+<!--SR:!2026-12-01,4,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. flexor digitorum brevis?

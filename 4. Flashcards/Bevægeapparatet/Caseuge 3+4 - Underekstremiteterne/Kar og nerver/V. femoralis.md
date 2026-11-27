@@ -5,6 +5,7 @@
 - Hvad bliver v. femoralis til?:: [[V. ilica externa]]
 <!--SR:!2026-12-09,16,290-->
 - Hvilken struktur afgrænser v. femoralis opadtil?:: [[Lig. inguinale]]
+<!--SR:!2026-12-01,4,270-->
 - Hvilken struktur afgrænser v. femoralis nedadtil?:: Hiatus adductorium
 - Hvilken større vener tømmes ud i v. femoralis?:: [[V. saphena magna]]
 <!--SR:!2026-11-28,2,230-->

@@ -21,6 +21,7 @@
 ?
 - Ribbensbrusk på cosae VIII-X (se [[Ribbenene]])
 - Aponeurose
+<!--SR:!2026-11-28,1,230-->
 
 - Hvad bliver aponeurosen fra m. obliquus int. abdominalis?:: [[Falx inguinalis]]
 

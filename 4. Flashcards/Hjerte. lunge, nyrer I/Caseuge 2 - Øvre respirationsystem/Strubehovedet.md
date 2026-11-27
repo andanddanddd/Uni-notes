@@ -4,6 +4,7 @@
 - Hvilke strukture er forbundet via spælget?:: Pharynx med trachea
 - Hvilke funktioner har larynx?:: Luftvej og tonegenerator
 - Hvilke lukkemekanismer har larynx?:: Strubelåget og stemmelæberne
+<!--SR:!2026-12-01,4,270-->
 - Hvad hedder strubelåget på latin?:: Epiglotis
 <!--SR:!2026-12-01,4,270-->
 - Hvad er larynx skelet bygget af?:: Brusk
@@ -43,6 +44,7 @@
 
 ## Histologi af strubehovedet
 - Hvorfor har nogle områder i larynx flerlaget pladeepitel?:: Fordi de er mekanisk udsatte
+<!--SR:!2026-11-30,3,250-->
 - Hvilke strukture består af flerlaget pladeepitel?:: De falske stemmelæber og epiglottis
 
 ## Stemmelæberne

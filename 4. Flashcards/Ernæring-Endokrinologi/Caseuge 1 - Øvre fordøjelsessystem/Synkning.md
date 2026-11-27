@@ -2,6 +2,7 @@
 
 - Hvad kaldes mad i munden?:: Bolus
 - Hvad er formålet med at tygge?:: Øge overfladeareal og beskytte fordøjelseskanalen mod skarpe ting
+<!--SR:!2026-12-01,4,270-->
 - Hvad gør [[Tungen]] når man sluger?:: Danner et halvrør og bevæger sig opad mod ganen
 - Hvilken nerve registrere at maden er i den bagerste del af munden?::  [[N. glossophanygeus]]
 - Hvilken nerve innervere palatum molle?:: [[N. vagus]]

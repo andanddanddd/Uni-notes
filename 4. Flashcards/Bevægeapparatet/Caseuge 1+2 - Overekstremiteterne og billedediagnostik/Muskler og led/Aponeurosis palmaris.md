@@ -4,6 +4,7 @@
 ?
 - Beskytte underlæggende strukture (kar, nerver og sener)
 - Forankre huden til dybere væv
+<!--SR:!2026-11-30,3,250-->
 
 - Hvordan er strukturen af aponeurosis palmaris overordner?:: Den har længdegående strøg til de 4 ulnare fingre samt tværgående strøg proxiamlt
 <!--SR:!2027-01-31,67,310-->
