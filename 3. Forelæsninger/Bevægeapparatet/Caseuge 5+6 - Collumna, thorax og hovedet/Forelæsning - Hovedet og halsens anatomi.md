@@ -12,3 +12,5 @@
 ![[Halsens fascier og bindevævsrum]]
 
 ![[Plexus cervicalis]]
+
+![[Ansigtsmusklerne]]
