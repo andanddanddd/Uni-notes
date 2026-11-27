@@ -4,10 +4,14 @@
 - Hvad hedder de 6 parrede knogler i vicerokraniet
 ?
 - [[Maxilla]]
-- [[Zygomaticum]]
+- [[Os zygomaticum]]
 - [[Os nasale]]
 - [[Os lacrimale]]
 - [[Os palatinum]]
 - [[Concha nasalis inferior]]
 
-- Hvad h
+- Hvad hedder de 3 uparrede knogler i vicerokraniet?
+?
+- [[Vomer]]
+- [[Mandibula]]
+- [[Os. hyoideum]]
