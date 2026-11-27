@@ -1,6 +1,6 @@
 #flashcards/5 
 
-MANGLER VIRUS
+
 - [ ] **21/12-26** (Immo)
 	- [ ] Overfør immo flashcards fra remnote
 	- [ ] 100 flashcards
@@ -42,8 +42,10 @@ MANGLER VIRUS
 - [ ] **31/12-26** (Nytår)
 	- [ ] Staphylkokker + slides
 	- [ ] Streptokokker + slides
+	- [ ] 200 flashcards
 - [ ] **1/1-27** 
 	- [ ] Clostrium
+	- [ ] 300 flashcards
 - [ ] **2/1-27** (enterobakterier)
 	- [ ] Slides enterobakterie
 	- [ ] **Listeria monocytogenes**
@@ -51,26 +53,69 @@ MANGLER VIRUS
 	- [ ] **E-coli**
 	- [ ] **Salmonella**
 	- [ ] **Campylobactor**
-- [ ] **3/1-27** (Seksuelt overførte sygdomme)
+- [ ] **3/1-27** (Resten af bakterierne og virus)
+	- [ ] Tuberculose
+	- [ ] Proteus miribalis
+	- [ ] Pseudomonas aeruginosa
+	- [ ] **Rubulavirus**  
+	- [ ] **Morbillivirus**  
+	- [ ] **Respiratory sunctial virus (RSV)**
+	- [ ] Adenovirus  
+	- [ ] Rhinovirus
+	- [ ] **Coronaviridae** (COVID.-19)
+	- [ ] **Norovirus**  
+	- [ ] **Rotavirus**  
+	- [ ] HPV  
+	- [ ] **Influenzavirus**
+- [ ] **4/1-27** (Seksuelt overførte sygdomme og flåter)
 	- [ ] Slides seksuelt overførte sygdomme
 	- [ ] _**Chlamydia trachomatis**_
 	- [ ] _**Neisseria gonorrhoeae**_
-- [ ] **4/1-27** (Meningitis og sepsis)
-	- [ ] Bakteirer
-- [ ] **5/1-27** (Urinvejsinfektion og pneumoni)
-- [ ] **6/1-27** (Resten af bakterierne)
-	- [ ] Tuberculose
-	- [ ] Proteus miribalis
+	- [ ] _**Treponema pallidum**_
+	- [ ] HIV
+	- [ ] Arbovirus
+	- [ ] _**Borrelia burgdorferi
+- [ ] **5/1-27** (Meningitis og sepsis)
+	- [ ] **_Haemophilus influenzae_ type B**
+	- [ ] Meningokokker
+	- [ ] 300 flashcards 
+	- [ ] 1 eksamenssæt
+- [ ] **6/1-27** (Urinvejsinfektion og pneumoni)
+	- [ ] Legionella pneumophila
+	- [ ] Chlamydia pneumoniae
+	- [ ] Chlamydia psittaci
+	- [ ] 300 flashcards
+	- [ ] 1 eksamensæt
 - [ ] **7/1-27** 
-	- [ ] 2 eksamenssæt 500 flashcards
+	- [ ] 2 eksamenssæt 
+	- [ ] 400 flashcards
+	- [ ] Lab
 - [ ] **8/1-27** 
 	- [ ] 2 Eksamenssæt
 	- [ ] 500 flashcards
 - [ ] **9/1-27 EKSAMEN MIKRO**
 - [ ] **10/1-27** 
+	- [ ] IBD
+	- [ ] Mave-tarm-blødninger
+	- [ ] Billeddannelse (visualisering)
+	- [ ] 300 flashcards
 - [ ] **11/1-27** 
+	- [ ] Malabsorbsion
+	- [ ] Konsekvenser af fejlernæring
+	- [ ] Farmakologi af medicin mod diarre, kvalme og obstipation
+	- [ ] 300 flashcards
 - [ ] **12/1-27** 
+	- [ ] Pancreatitis
+	- [ ] Viral og alkoholisk hepatitis
+	- [ ] Patologiske tilstandei peritoneum
+	- [ ] 300 flashcards
+	- [ ] 1 eksamenssæt
 - [ ] **13/1-27** 
+	- [ ] Laboratorieting
+	- [ ] Patientsikkerhed
+	- [ ] 
+	- [ ] 500 flashcards
+	- [ ] 1 (2) eksamensæt
 - [ ] **14/1-27 EKSAMEN PATO**
 - [ ] **15/1-27** 
 - [ ] **16/1-27** 
