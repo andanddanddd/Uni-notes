@@ -10,7 +10,7 @@
 ![[Knæled 4|600]]D?:: Lig. cruciatum ant.
 <!--SR:!2026-11-29,10,270-->
 ![[Knæled 4|600]]E?:: [[Lig. meniscofemorale posterius]]
-<!--SR:!2026-11-23,7,250-->
+<!--SR:!2026-12-23,26,270-->
 ![[Knæled 4|600]]F?:: [[Lig. collaterale fibulare]]
 ![[Knæled 4|600]]B?:: [[M. popliteus]]
 <!--SR:!2026-11-28,4,270-->

@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad er funktionen af bursa manus overordnet?:: Nedsætte friktionen mellem senerne
-<!--SR:!2026-11-19,14,290-->
+<!--SR:!2027-01-22,56,310-->
 - Hvad kaldes forbindelserne mellem senerne og bursa manus?:: Senekrøs
 - Hvilken sene ligger i bursa radialis?:: Senen fra [[M. flexor pollicis longus]]
 <!--SR:!2027-01-26,63,310-->

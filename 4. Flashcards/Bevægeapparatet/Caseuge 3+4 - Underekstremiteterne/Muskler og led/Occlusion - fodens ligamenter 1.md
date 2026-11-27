@@ -8,7 +8,7 @@
 ![[Fodens ligamenter 1|600]]B?:: [[Lig. talofibulare posterius]]
 <!--SR:!2026-11-30,7,250-->
 ![[Fodens ligamenter 1|600]]C?:: [[Lig. calcaneofibulare]]
-<!--SR:!2026-11-23,7,230-->
+<!--SR:!2026-12-21,24,250-->
 ![[Fodens ligamenter 1|600]]D?:: [[Lig. tibiofibulare anterius]]
 ![[Fodens ligamenter 1|600]]E?:: [[Lig. talofibulare anterius]]
 <!--SR:!2026-11-28,4,270-->

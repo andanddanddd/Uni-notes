@@ -4,7 +4,7 @@
 
 
 ![[Sternum 1|600]]A?:: Manibirum sterni
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 ![[Sternum 1|600]]B?:: Corpus sterni
 ![[Sternum 1|600]]C?:: Processus xipoideus
 ![[Sternum 1|600]]D?:: Incisura jugularis

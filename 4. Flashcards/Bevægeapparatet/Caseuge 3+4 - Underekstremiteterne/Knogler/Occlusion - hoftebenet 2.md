@@ -15,7 +15,7 @@
 ![[Hoftebenet 2|700]]F?:: Spina ischiadica
 <!--SR:!2027-01-06,44,290-->
 ![[Hoftebenet 2|700]]G?:: Incisura ischiadica minor
-<!--SR:!2026-11-27,16,290-->
+<!--SR:!2027-01-30,64,310-->
 ![[Hoftebenet 2|700]]H?:: Tuber ischiadicum
 ![[Hoftebenet 2|700]]I?:: [[Foramen obturatum]]
 <!--SR:!2027-01-05,40,290-->
@@ -33,5 +33,5 @@
 ![[Hoftebenet 2|700]]P?:: Tuberculum pubicum
 <!--SR:!2026-11-30,20,250-->
 ![[Hoftebenet 2|700]]Q?:: a= ramus ossis ischii, b= ramus inf. ossis pubis
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-09,43,290-->
 

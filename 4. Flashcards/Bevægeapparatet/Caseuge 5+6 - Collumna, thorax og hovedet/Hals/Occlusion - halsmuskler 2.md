@@ -7,15 +7,15 @@
 ![[Halsmuskler 2|700]]B?:: [[M. digastricus]] (venter post.)
 ![[Halsmuskler 2|700]]C?:: [[M. omohyoideus]] (venter sup.)
 ![[Halsmuskler 2|700]]D?:: [[M. sternohyoideus]]
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-29,2,230-->
 ![[Halsmuskler 2|700]]E?:: [[M. omohyoideus]] (venter inf.)
-<!--SR:!2026-11-27,1,210-->
+<!--SR:!2026-11-29,2,210-->
 ![[Halsmuskler 2|700]]F?:: [[M. digastricus]] (venter ant.)
-<!--SR:!2026-11-27,1,210-->
+<!--SR:!2026-11-29,2,210-->
 ![[Halsmuskler 2|700]]G?:: [[M. mylohyoideus]]
 ![[Halsmuskler 2|700]]H?:: [[Os. hyoideum]]
 ![[Halsmuskler 2|700]]I?:: [[M. thyrohyoideus]]
-<!--SR:!2026-11-27,3,230-->
+<!--SR:!2026-12-04,7,230-->
 ![[Halsmuskler 2|700]]J?:: Cartilago thyroidea
 ![[Halsmuskler 2|700]]K?:: [[M. sternothyroideus]]
 

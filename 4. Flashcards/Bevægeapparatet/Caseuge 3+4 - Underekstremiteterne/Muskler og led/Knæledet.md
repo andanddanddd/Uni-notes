@@ -33,7 +33,7 @@
 - [[Pars femoropatellaris]]
 - [[Pars femorotibialis medialis]]
 - [[Pars femorotibialis lateralis]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-12,15,290-->
 
 - Hvorfor kan knæledet kun rotere når det er flekteret?:: Der er ligamenterne og andre bløddele løsere
 - Hvordan foregår rotation af knæledet overordnet?:: Tibia rotere om den mediale kondyl mens dvs at den laterale kondyl kan bevæge sig lidt frem og tilbage ved ekstension

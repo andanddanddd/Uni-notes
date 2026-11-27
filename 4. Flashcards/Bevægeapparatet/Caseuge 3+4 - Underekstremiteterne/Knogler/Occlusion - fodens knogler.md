@@ -6,7 +6,7 @@
 ![[Fodens knogler 1|600]]A?:: [[Os cuneiforme laterale]]
 <!--SR:!2026-12-10,16,290-->
 ![[Fodens knogler 1|600]]B?:: [[Os cuneiforme intermedium]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-09,12,270-->
 ![[Fodens knogler 1|600]]C?:: [[Os cuneiforme mediale]]
 <!--SR:!2026-12-06,13,250-->
 ![[Fodens knogler 1|600]]D?:: Calcaneus
@@ -20,7 +20,7 @@
 <!--SR:!2026-12-31,43,290-->
 ![[Fodens knogler 1|600]]I?:: Phalanx media
 ![[Fodens knogler 1|600]]J?:: Phalanc distalis
-<!--SR:!2026-11-26,15,290-->
+<!--SR:!2027-01-29,63,310-->
 ![[Fodens knogler 1|600]]K?:: Digitus minimus
 <!--SR:!2026-12-20,26,270-->
 ![[Fodens knogler 1|600]]L?:: Digitus medius

@@ -8,7 +8,7 @@
 #### Placering og orientering
 - Hvor er ossa connuformia overordnet?:: Fodroden
 - Hvor i foderoden er ossa cuniformia?:: Distal række
-<!--SR:!2026-11-27,16,290-->
+<!--SR:!2027-01-31,65,310-->
 - Hvilken underbensknogle tilhører ossa cuniformia?:: [[Tibia]]
 <!--SR:!2026-11-30,14,290-->
 #### Form og størrelse

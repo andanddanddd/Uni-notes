@@ -9,7 +9,7 @@
 - Hvor er talus overordnet?:: Fodroden
 <!--SR:!2026-12-02,16,290-->
 - Hvor i fodroden er talus?:: Proximal række over [[Calcaneus]]
-<!--SR:!2026-11-27,16,290-->
+<!--SR:!2027-02-02,67,310-->
 - Hvilken underbensknogle tilhører talus?:: [[Tibia]]
 #### Form og størrelse
 - Hvor stor er talus?:: Næststørste knogle i fodroden

@@ -5,6 +5,8 @@ MANGLER VIRUS
 	- [ ] Overfør immo flashcards fra remnote
 	- [ ] 100 flashcards
 	- [ ] Immunologisk hukommelse (dele af kap 9+10 i immobogen)
+	- [ ] Generel virusstruktur, opbygning og livscyklus
+	- [ ] Overordnet beskrive forløbet ved en zoonotisk event
 - [ ] **22/12-26** (Vacciner)
 	- [ ] Vaciner slides
 	- [ ] Immonologi kap 17 (s. 353 - 370)
@@ -12,6 +14,7 @@ MANGLER VIRUS
 	- [ ] Vaccinationerne til vokse og andre risikogrupper på listen
 	- [ ] Epidimologi ved vaccinationer
 	- [ ] 150 flashcards
+	- [ ] Corynebacterium diphtheriae
 - [ ] **23/12-26** (Til Skødstrup)
 	- [ ] 400 flashcards
 - [ ] **24/12-26** (Jul)
@@ -25,6 +28,7 @@ MANGLER VIRUS
 	- [ ] Malaria
 	- [ ] Protozoer (fra listen)
 	- [ ] Helminter (fra listen)
+	- [ ] Herpesvirus
 - [ ] **28/12-26** (Julefrokost + til Støvring)
 	- [ ] 100 flashcards
 - [ ] **29/12-26** 
@@ -55,7 +59,8 @@ MANGLER VIRUS
 	- [ ] Bakteirer
 - [ ] **5/1-27** (Urinvejsinfektion og pneumoni)
 - [ ] **6/1-27** (Resten af bakterierne)
-	- [ ] 
+	- [ ] Tuberculose
+	- [ ] Proteus miribalis
 - [ ] **7/1-27** 
 	- [ ] 2 eksamenssæt 500 flashcards
 - [ ] **8/1-27** 

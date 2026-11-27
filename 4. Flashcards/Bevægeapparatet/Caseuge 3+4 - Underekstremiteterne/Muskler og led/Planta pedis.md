@@ -12,7 +12,7 @@
 - Lilletåens muskelloge
 - Den centrale loge
 - Den interossøse loge
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-12,15,290-->
 
 - Hvilke muskler findes i storetående muskelloge?
 ?
@@ -35,4 +35,4 @@
 <!--SR:!2026-11-29,5,230-->
 
 - Hvad hedder musklerne der ligger inde mellem tærene?:: [[Mm. interossei (fod)]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->

@@ -40,7 +40,7 @@
 - Hvilken knogletype er sternum?:: Flad knogle
 - Er sternum parret eller uparret?:: Uparret
 - Hvilken struktur har sternum?:: [[Spongiøst knoglevæv]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvilken type knoglemarv findes i sternum?:: [[Rød knoglemarv]] gennem hele livet
 ### Ossifikation og heeling
 - Type af ossifikation

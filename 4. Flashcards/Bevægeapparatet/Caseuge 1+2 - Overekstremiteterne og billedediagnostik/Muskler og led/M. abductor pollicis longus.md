@@ -20,7 +20,7 @@
 
 ### Funktion
 - Hvilke bevægelser udfører m. abductor pollicis longus?:: Abduction af tommenfinger
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 
 ### Innerversion og reflekser
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)

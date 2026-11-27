@@ -1,7 +1,7 @@
 #flashcards/5/Bevægeapparatet 
 
 - Hvad danner ledskål i pars femorotibialis medialis?:: Condylus medialis af [[Tibia]] ([[Facies artikularis superior]].)
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvad danner ledhoved i pars femorotibialis medialis?:: Condylys medialis af [[Femoris]]
 <!--SR:!2026-12-05,16,290-->
 - Hvor stabil er pars femorotibialis medialis?:: Meget stabil

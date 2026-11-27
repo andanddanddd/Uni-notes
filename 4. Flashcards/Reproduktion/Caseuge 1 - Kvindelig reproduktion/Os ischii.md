@@ -10,7 +10,7 @@
 ?
 - Corpus ossis ischii
 - Ramus ossis ischii
-<!--SR:!2026-11-27,16,290-->
+<!--SR:!2027-02-02,67,310-->
 
 - Hvad er corpus ossis ischii?:: Delen der binder til de andre "knogler" af [[Os coxae]] (acetabulum)
 <!--SR:!2026-11-28,16,290-->

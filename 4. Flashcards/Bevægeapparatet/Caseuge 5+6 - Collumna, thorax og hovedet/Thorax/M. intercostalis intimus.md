@@ -10,7 +10,7 @@
 
 ### Forløb
 - Hvilken retning ender m. intercostlaes intimus?:: Skråt-bagud-nedad
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-09,12,270-->
 #### Udspring
 - Hvor udspringer m. intercostales intimus?
 #### Insertion

@@ -10,7 +10,7 @@
 ![[Humerus anatomi 1]]C?::Tuberositas deltoidea
 <!--SR:!2026-12-15,22,210-->
 ![[Humerus anatomi 1]]D?:: Epicondylus lateralis
-<!--SR:!2026-11-20,15,290-->
+<!--SR:!2027-01-29,63,310-->
 ![[Humerus anatomi 1]]E?::Crista tuberculi majoris
 <!--SR:!2026-12-13,30,270-->
 ![[Humerus anatomi 1]]F?:: Margo lateralis

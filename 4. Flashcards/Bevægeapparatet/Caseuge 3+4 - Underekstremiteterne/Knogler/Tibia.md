@@ -27,7 +27,7 @@
 - Hvilken knogletype er tibia?:: Rørknogle
 <!--SR:!2026-12-12,16,290-->
 - Er tubia parret eller uparret?:: Paret
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

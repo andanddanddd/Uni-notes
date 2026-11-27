@@ -7,7 +7,7 @@
 ![[Os sacrum 2|800]]B?:: Crista sacralis mediana
 ![[Os sacrum 2|800]]C?:: Apex ossis sacri
 ![[Os sacrum 2|800]]D?:: Facies auricularis
-<!--SR:!2026-11-26,2,230-->
+<!--SR:!2026-12-04,7,250-->
 ![[Os sacrum 2|800]]E?:: Crista sacralis lateralis
 ![[Os sacrum 2|800]]F?:: Foramen sacrale post.
 ![[Os sacrum 2|800]]G?:: Cornu sacrale

@@ -35,13 +35,13 @@
 ![[Femoris 1|600]]Q?:: Labium laterale
 <!--SR:!2026-12-30,43,290-->
 ![[Femoris 1|600]]R?:: Facies poplitea
-<!--SR:!2026-11-26,1,170-->
+<!--SR:!2026-11-29,2,170-->
 ![[Femoris 1|600]]S?:: Epicondylus lateralis
 <!--SR:!2026-11-27,4,270-->
 ![[Femoris 1|600]]T?:: Condylus lateralis
 <!--SR:!2026-12-26,43,290-->
 ![[Femoris 1|600]]U?:: Fossa inercondylaris
-<!--SR:!2026-11-27,1,230-->
+<!--SR:!2026-11-29,2,230-->
 ![[Femoris 1|600]]V?:: Condylus medialis
-<!--SR:!2026-11-24,15,290-->
+<!--SR:!2027-01-29,63,310-->
 

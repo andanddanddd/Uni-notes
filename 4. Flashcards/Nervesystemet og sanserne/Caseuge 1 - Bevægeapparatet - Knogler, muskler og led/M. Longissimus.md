@@ -3,7 +3,7 @@
 ### Lokation
 - Hvilken muskelgruppe tilhøre m. longissimus?:: [[M. Erektor spinae]]
 - Hvor dybt ligger m. longissimus?:: SUperficielt af de dybe rygmuskler
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvor er m. longissimus i forhold til de andre dele a m. erector spinae?:: Mellem de 2 andre ([[M. Iliocostalis]], [[M. Spinalis]])
 <!--SR:!2026-11-27,4,270-->
 

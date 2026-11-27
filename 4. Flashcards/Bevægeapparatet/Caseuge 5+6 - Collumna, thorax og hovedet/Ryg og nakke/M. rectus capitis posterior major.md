@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvilken muskelgruppe tilhøre mm. rectus capitis posterior major?:: [[Mm. suboccipitales]]
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-08,11,270-->
 - Hvor dybt ligger mm. rectus capitis posterior major?
 
 ### Form
@@ -14,7 +14,7 @@
 - Hvor udspringer mm. rectus capitis posterior major?:: [[Torntappe]]n på C2 ([[Axis]])
 #### Insertion
 - Hvor har mm. rectus capitis posterior major insertion?:: Under linea nuchalis inf. (se [[Os occipitale]])
-<!--SR:!2026-11-27,1,210-->
+<!--SR:!2026-11-28,1,190-->
 
 ### Funktion
 - Hvilke bevægelser udfører mm. rectus capitis posterior major?

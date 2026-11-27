@@ -27,7 +27,7 @@
 
 - Hvordan testes sensorik på håndes så alle 3 nerver testes?:: Mærkes yderst på finger 2+5 samt dorsalt på radiealsiden af håndroden 
 - Hvorfor er det ofte kun et lille område på hånden der mister sensorik ved nervelesion i nogle af håndens nerver?:: Store dele af hånden er innerveret af 2 nerver og den raske vil derfor bare tage over
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 
 [[Occlusion - plexus brachialis 1]]
 

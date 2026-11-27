@@ -13,7 +13,7 @@
 
 ### Insertion
 - Hvor har m. teres major insertion?:: Crista tuberculi minoris (se [[Humerus]])
-<!--SR:!2026-11-27,8,250-->
+<!--SR:!2026-12-18,21,250-->
 
 ### Funktion
 - Hvilke funktioner har m. teres major?:: Adduction, extension samt indadrotation af overoramen

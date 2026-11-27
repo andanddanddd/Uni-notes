@@ -16,7 +16,7 @@
 <!--SR:!2026-11-28,2,230-->
 #### Insertion
 - Hvor har m. soleus insertion?:: Tuber calcanei (se [[Calcaneus]])
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-12,15,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. soleus?:: Plantarflektion

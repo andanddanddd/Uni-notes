@@ -30,7 +30,7 @@
 <!--SR:!2026-11-30,11,270-->
 - Hvilken bevægelse/kropsform er nødvendigt for at m. gluteus maximus kan udfører ekstension?:: Fremadstillet overkrop
 - Udover ekstension hvilke bevægelser udfører m. gluteus maximus?:: Adduktion, abduction samt udadrotation af hofteledet
-<!--SR:!2026-11-18,9,250-->
+<!--SR:!2026-12-30,33,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. gluteus maximus?

@@ -6,4 +6,4 @@
 - Hvilken struktur afgrænser v. poplitea opadtil?:: Hiatus adductorius
 <!--SR:!2026-11-27,3,250-->
 - Hvad bliver v. poplitea til?:: [[V. femoralis]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-11,14,290-->

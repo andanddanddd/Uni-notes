@@ -2,11 +2,11 @@
 
 
 - Hvad hedder den øverste "hovedaretrie" i armen?:: [[A. axillaris]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvordan er armens vener overordnet arrangeret?:: Et superficielt og et profund sæt
 - Hvad hedder de 2 store superficiele vener på armen?:: [[V. cephalica]] og [[V. basilica]]
 - Hvad hedder den superficielle vener der løber imellem [[V. cephalica]] og [[V. basilica]]?:: [[V. mediane cubiti]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-07,10,270-->
 - Hvordan er de profunde vener overordnet arrangeres i underarmen?:: En vene på hver side af en arterie
 <!--SR:!2026-12-11,16,290-->
 - Hvordan er de profunde vener overordnet arrangeret i overarmen?:: En vene per arterie

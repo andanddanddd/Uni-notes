@@ -4,7 +4,7 @@
 
 
 ![[Diagfragma 2|700]]A?:: Bochdaleks trekant
-<!--SR:!2026-11-27,2,230-->
+<!--SR:!2026-12-04,7,250-->
 ![[Diagfragma 2|700]]B?:: [[Lig. arcuatum laterale]]
 ![[Diagfragma 2|700]]C?:: [[Lig. arcuatum mediale]]
 ![[Diagfragma 2|700]]D?:: Crus dextrum/sinistrum

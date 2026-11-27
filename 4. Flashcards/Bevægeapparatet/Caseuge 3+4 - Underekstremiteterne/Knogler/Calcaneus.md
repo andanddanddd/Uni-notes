@@ -24,7 +24,7 @@
 ### Knogletype
 - Hvilken knogletype er calcaneus?
 - Er calcaneus parret eller uparret?:: Parret
-<!--SR:!2026-11-26,16,290-->
+<!--SR:!2027-02-02,67,310-->
 ### Ossifikation og heeling
 - Type af ossifikation
 - Ossifikationstidpunkt

@@ -11,7 +11,7 @@
 
 ### Udspring
 - Hvor udspringer m. levator scapulae fra?:: Sener fra processus transversus på C1-C4
-<!--SR:!2026-11-17,15,290-->
+<!--SR:!2027-01-09,43,290-->
 
 ### Insertion
 - Hvor har m. levator scapulae insetion?:: Angulus superior (se [[Scapula]])

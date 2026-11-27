@@ -43,7 +43,7 @@
 ![[Ulna anatomi 1]]B?:: Incisura trochlearis
 <!--SR:!2027-01-16,64,310-->
 ![[Ulna anatomi 1]]C?:: Processus coronoideus
-<!--SR:!2026-11-26,24,270-->
+<!--SR:!2027-02-25,90,290-->
 ![[Ulna anatomi 1]]D?:: Tuberositas ulnae
 <!--SR:!2026-12-12,25,250-->
 ![[Ulna anatomi 1]]E?:: Circumferentia articularis

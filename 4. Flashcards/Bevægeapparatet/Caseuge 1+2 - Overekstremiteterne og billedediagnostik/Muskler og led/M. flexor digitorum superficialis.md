@@ -8,7 +8,7 @@
 
 ### Form
 - Hvilken form har m. felxor digitorum superficialis?:: Bred (den fylder et helt lag selv)
-<!--SR:!2026-11-18,16,290-->
+<!--SR:!2027-02-02,67,310-->
 
 ### Udspring
 - Hvor udspringer m. felxor digitorum superficialis?:: caput commune flexorum (epicondylus medialis)

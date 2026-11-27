@@ -19,4 +19,4 @@
 <!--SR:!2026-12-09,16,290-->
 ![[Plexus brachialis 1|700]]J?:: [[N. ulnaris]]
 ![[Plexus brachialis 1|700]]K?:: [[N. medianus]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-11,14,290-->

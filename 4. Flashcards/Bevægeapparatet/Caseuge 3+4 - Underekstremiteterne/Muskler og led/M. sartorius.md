@@ -12,10 +12,10 @@
 
 ### Forløb
 - Hvad er særligt ved forløbet af m. sartorius?:: Den krydser ind over låret
-<!--SR:!2026-11-21,4,270-->
+<!--SR:!2026-12-13,16,290-->
 #### Udspring
 - Hvor udspringer m. sartorius?:: Spina iliaca ant. sup (se [[Os ilium]])
-<!--SR:!2026-11-27,1,170-->
+<!--SR:!2026-11-29,2,190-->
 #### Insertion
 - Hvor har m. sartorius insertion?:: Foreste øverste del af [[Tibia]]s medialflade
 <!--SR:!2026-11-28,4,230-->

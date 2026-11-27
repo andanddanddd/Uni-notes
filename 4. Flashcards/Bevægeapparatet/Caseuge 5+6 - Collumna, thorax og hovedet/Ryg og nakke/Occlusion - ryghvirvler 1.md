@@ -5,7 +5,7 @@
 
 ![[Ryghvirvler 1|800]]A?:: Ambitius eminens
 ![[Ryghvirvler 1|800]]B?:: Foramen vertebrale
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 ![[Ryghvirvler 1|800]]C?:: Processus articularis sup.
 ![[Ryghvirvler 1|800]]D?:: Corpus vertebrae
 ![[Ryghvirvler 1|800]]E?:: Pedunculus arcus vertebrae

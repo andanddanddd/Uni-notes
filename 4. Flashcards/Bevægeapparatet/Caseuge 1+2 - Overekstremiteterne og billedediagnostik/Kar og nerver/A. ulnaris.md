@@ -4,6 +4,6 @@
 <!--SR:!2026-12-10,16,290-->
 
 - Hvor ender a. ulnaris?:: I [[Arcus palmaris superficialis]]
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-08,11,270-->
 - Hvad hedder sidegrenen fra a. ulnaris der danner [[Arcus palmaris profundus]]?:: [[Ramus profundus a. ulnaris]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->

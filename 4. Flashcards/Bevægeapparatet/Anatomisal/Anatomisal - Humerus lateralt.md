@@ -5,7 +5,7 @@
 ![[Pasted image 20261111102941.png]]1?:: Epicondylus medialis
 ![[Pasted image 20261111102941.png]]2?:: Olecranon
 ![[Pasted image 20261111102941.png]]3?:: Trochlea humeri
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-07,10,270-->
 ![[Pasted image 20261111102941.png]]4?:: Processus coronoideus
 <!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111102941.png]]5?:: Ulna
@@ -14,7 +14,7 @@
 ![[Pasted image 20261111102941.png]]7?:: Humerus
 <!--SR:!2026-11-30,14,290-->
 ![[Pasted image 20261111102941.png]]8?:: Capsula articularis
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-07,10,270-->
 ![[Pasted image 20261111102941.png]]9?:: Capitulum humeri
 ![[Pasted image 20261111102941.png]]10?:: Lig?:: anulare radii
 <!--SR:!2026-11-28,4,270-->

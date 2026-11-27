@@ -9,7 +9,7 @@
 <!--SR:!2026-12-08,15,290-->
 ![[Underbenets muskler 3|600]]C?:: [[M. flexor digitorum longus]]
 ![[Underbenets muskler 3|600]]D?:: [[M. biceps femoris]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 ![[Underbenets muskler 3|600]]E?:: [[M. plantaris]]
 ![[Underbenets muskler 3|600]]F?:: [[M. gastrocnemius]]
 ![[Underbenets muskler 3|600]]G?:: [[M. soleus]]

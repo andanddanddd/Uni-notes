@@ -12,7 +12,7 @@
 ### Forløb
 #### Udspring
 - Hvor udspringer m. quaratus plantae?:: Tuber calcanei (2 hoveder, et medialt og et lateralt)
-<!--SR:!2026-11-25,1,230-->
+<!--SR:!2026-11-28,1,210-->
 #### Insertion
 - Hvor har m. quaratus plantae insertion?:: Senen fra [[M. flexor digitorum longus]]
 

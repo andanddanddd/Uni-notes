@@ -9,7 +9,7 @@
 
 ### Form
 - Hvilken form har de 2 radiele mm. lumbricales?:: Semipennant
-<!--SR:!2026-11-27,16,290-->
+<!--SR:!2027-02-02,67,310-->
 - Hvilken form har de 2 ulnare mm. lumbricales?:: Pennant
 <!--SR:!2027-01-03,40,290-->
 

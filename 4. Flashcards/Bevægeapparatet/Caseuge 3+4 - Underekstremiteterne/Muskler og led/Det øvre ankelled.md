@@ -8,7 +8,7 @@
 
 ### Ledflader
 - Hvad danner ledhoved i det øvre ankelled?:: Trocklea tali (se [[Talus]])
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-07,10,270-->
 - Hvad danner ledskål i det øvre nakelled?:: [[Fibula]] og [[Tibia]] (herunder de 2 malleuser + en central ledflade fra tibia)
 
 ### Ledets strukture

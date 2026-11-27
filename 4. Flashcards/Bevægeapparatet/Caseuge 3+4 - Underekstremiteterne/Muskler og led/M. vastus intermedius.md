@@ -3,7 +3,7 @@
 
 ### Lokation
 - Hvor er m. vastus intermedius overordnet?:: Låret foretse loge
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvor dybt ligger m. vastus intermedius?:: Meget dybt
 <!--SR:!2026-12-05,16,290-->
 
@@ -16,7 +16,7 @@
 <!--SR:!2026-12-01,5,230-->
 #### Insertion
 - Hvor har m. vastus intermedius insertion?:: Tuberositas tibia (sammen med resten af [[M. quadriceps femoris]])
-<!--SR:!2026-11-20,4,270-->
+<!--SR:!2026-12-13,16,290-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. vastus intermedius?

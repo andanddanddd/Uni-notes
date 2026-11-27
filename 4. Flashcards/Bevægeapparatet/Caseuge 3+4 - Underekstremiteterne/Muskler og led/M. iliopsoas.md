@@ -11,7 +11,7 @@
 
 ### Form
 - Hvilken form har m. iliacus?:: Vifteformet
-<!--SR:!2026-11-26,15,290-->
+<!--SR:!2027-01-28,62,310-->
 - Hvilken form har m. psoas major?:: Aflang
 <!--SR:!2026-12-09,16,290-->
 
@@ -19,7 +19,7 @@
 - Hvor udspringer m. iliacus?:: Fossa iliaca (se [[Os ilium]])
 <!--SR:!2026-11-28,12,270-->
 - Hvor udspringer m. psoas major ventrale del?:: Siderne af ambitius eminentes (se [[Ryghvirvler]]) og siderne af disci intervertabrales (se [[Rygsøjlens båndskiver]]) (fra T-12 til L5)
-<!--SR:!2026-11-18,9,250-->
+<!--SR:!2026-12-20,23,250-->
 - Hvor udspringer m. psoas major dorsale del?:: Forfladen af processus transversus
 <!--SR:!2026-12-10,16,290-->
 

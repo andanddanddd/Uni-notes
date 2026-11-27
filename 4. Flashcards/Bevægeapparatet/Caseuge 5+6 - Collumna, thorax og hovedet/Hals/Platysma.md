@@ -20,7 +20,7 @@
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere platysma?:: [[N. facialis]]
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-09,12,270-->
 Myotomer (hvilket niveu af rygmarven innervere musklen, ikke det præcise men mere den reneralle altså C,T,L,S)
 Reflekser
 ### Klinik

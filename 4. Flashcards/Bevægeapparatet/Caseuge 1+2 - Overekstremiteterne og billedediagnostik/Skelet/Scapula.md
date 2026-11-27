@@ -73,13 +73,13 @@
 ![[Scapula Anatomi 1|700]]D?:: Margo superior
 <!--SR:!2027-01-20,65,310-->
 ![[Scapula Anatomi 1|700]]E?:: Angulus superior
-<!--SR:!2026-11-21,16,290-->
+<!--SR:!2027-01-11,45,290-->
 ![[Scapula Anatomi 1|700]]F?:: Anhulus lateralis
 <!--SR:!2026-12-12,30,270-->
 ![[Scapula Anatomi 1|700]]G?:: Cavitas glenoidalis
 <!--SR:!2027-01-15,63,310-->
 ![[Scapula Anatomi 1|700]]H?:: Collum scapulae
-<!--SR:!2026-11-27,25,270-->
+<!--SR:!2027-03-01,94,290-->
 ![[Scapula Anatomi 1|700]]I?:: Margo lateralis
 <!--SR:!2027-01-16,64,310-->
 ![[Scapula Anatomi 1|700]]J?:: Costalis scapulae

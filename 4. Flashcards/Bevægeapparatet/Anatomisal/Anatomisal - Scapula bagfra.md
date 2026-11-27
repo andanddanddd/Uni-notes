@@ -3,7 +3,7 @@
 ![[Pasted image 20261112113639.png]]
 
 ![[Pasted image 20261112113647.png]]1?:: Incisura scapulae
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-09,12,270-->
 ![[Pasted image 20261112113647.png]]2?:: Acromion
 ![[Pasted image 20261112113647.png]]3?:: Ligg. glenohumeralia
 <!--SR:!2026-12-03,7,250-->
@@ -19,4 +19,4 @@
 <!--SR:!2026-12-06,16,290-->
 ![[Pasted image 20261112113647.png]]10?:: Fossa infraspinata
 ![[Pasted image 20261112113647.png]]11?:: Angulus inferior
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->

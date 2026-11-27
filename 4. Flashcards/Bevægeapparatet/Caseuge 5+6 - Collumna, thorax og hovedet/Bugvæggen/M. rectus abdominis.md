@@ -13,13 +13,13 @@
 - Hvad kaldes senerne der opdeler m. rectus abdominalis?:: INtersectio tendinea
 #### Udspring
 - Hvor udspringer m. rectus?:: KOrt krftig sene omkring [[Symphysis pubica]]
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-09,12,270-->
 #### Insertion
 - Hvor har m. rectus insertion?:: RIbbensbrusk af ribben V-VII
 
 ### Funktion
 - Hvilke bevægelser udfører m. rectus?:: Enten løfter symfysen eller flektere rygsøjlen (afhængig af hvad der er fikseret)
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-07,10,270-->
 
 ### Innerversion og reflekser
 - Hvilken nerve innervere m. rectus?

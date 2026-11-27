@@ -3,7 +3,7 @@
 - Hvor er msukerne i den drosale muskelgruppe af skuldederens msukler overordnet?:: Fra rygsøjle og hoved til skulderbælte og overarm
 <!--SR:!2027-01-10,54,310-->
 - Hvad kaldes skulderes dorsale muskelgruppe også?:: De overfladiske rygmuskler
-<!--SR:!2026-11-22,16,290-->
+<!--SR:!2027-02-02,67,310-->
 
 - Hvad hedder de 4 muskler i den skulderens dorsale muskelgruppe?
 ?

@@ -15,7 +15,7 @@
 
 ### Insertion
 - Hvor har m. quadratus femoris insertion?:: Crista intertrochanterica (se [[Femoris]])
-<!--SR:!2026-11-27,2,190-->
+<!--SR:!2026-12-01,4,190-->
 
 ### Funktion
 - Hvilke bevægelser udfører m. quadratus femoris?

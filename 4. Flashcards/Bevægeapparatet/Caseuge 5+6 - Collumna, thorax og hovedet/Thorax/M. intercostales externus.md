@@ -10,7 +10,7 @@
 
 ### Forløb
 - Hvilken retning går m. intercostales externus?:: Skråt fremad nedad (som hvid du stikker dine fingre i en buskelomme)
-<!--SR:!2026-11-27,3,250-->
+<!--SR:!2026-12-08,11,270-->
 #### Udspring
 - Hvor udspringer m. intercostales ext.?
 #### Insertion

@@ -3,7 +3,7 @@
 ![[hofte anatomi 2.png]]
 
 ![[Hofte anatomi 2||650]]A?:: [[M. obturatorius internus]]
-<!--SR:!2026-11-20,3,250-->
+<!--SR:!2026-12-04,7,250-->
 ![[Hofte anatomi 2||650]]B?:: Canalis obturatorius
 <!--SR:!2027-01-21,57,310-->
 ![[Hofte anatomi 2||650]]C?:: [[Symphysis pubica]]

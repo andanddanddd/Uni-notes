@@ -8,7 +8,7 @@
 - Hvilken nerve påvirkes under karpaltunnelsyndrom?:: [[N. medianus]]
 - Hvorfor påvirker n. ulnaris ikke ved karpaltunnelsyndrom?:: Den er ikke i karpaltunnelen
 - Hvad sker overordnet i karpaltunnelsyndrom?:: [[N. medianus]] klemmes
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-11,14,290-->
 - Hvordan behandles karpaltunnelsyndrom?:: Natlig skinne og evt opperation
 	- Hvordan opperes for karpaltunnelsyndrom?:: [[Retinaculum flexorum]] deles op
 <!--SR:!2026-11-28,4,270-->
@@ -19,4 +19,4 @@
 - [[Durkans test]]
 
 - Hvad er en paræstesi?:: Unormal sanseoplevelse (prikken, stkken eller snuren)
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->

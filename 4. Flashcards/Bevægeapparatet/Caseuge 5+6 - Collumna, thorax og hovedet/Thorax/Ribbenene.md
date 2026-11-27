@@ -13,7 +13,7 @@
 
 #### Placering og orientering
 - Hvilken del af ribbenen har et ledhoved?:: Den dorsale del
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-11,14,290-->
 - Hvilken højt ligger det forste af ribbenen i forhold til det bagerste?:: Ribenenes bagflade er superior for deres forflade
 
 #### Form og størrelse
@@ -24,9 +24,9 @@
 - Hvor er halsen på ribbenen?:: Efter hovedet, dvs tæt ved ryghvirveler
 <!--SR:!2026-11-30,4,270-->
 - Hvad hedder strukturen der danner grænse mellem hals og skaft af et ribben?:: Tuberculum costae
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 	- Hvad articulere tuberculum costae med?:: [[Tværtappe]]
-<!--SR:!2026-11-27,4,270-->
+<!--SR:!2026-12-13,16,290-->
 - Hvor på skafetet af ribbenen findes sulcus costae?:: Indersiden
 <!--SR:!2026-11-28,4,270-->
 - Hvilken funktion har sulcus costae?:: Indeholde kar og nerver

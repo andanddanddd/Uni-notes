@@ -4,11 +4,11 @@
 
 ![[Pasted image 20261111100437.png]]1?:: Radius
 ![[Pasted image 20261111100437.png]]2?:: Ulna
-<!--SR:!2026-11-24,4,270-->
+<!--SR:!2026-12-13,16,290-->
 ![[Pasted image 20261111100437.png]]3?:: Humerus
 <!--SR:!2026-12-10,16,290-->
 ![[Pasted image 20261111100437.png]]4?:: Capitulum humeri
-<!--SR:!2026-11-26,3,250-->
+<!--SR:!2026-12-08,11,270-->
 ![[Pasted image 20261111100437.png]]5?:: Trochlea humeri
 ![[Pasted image 20261111100437.png]]6?:: Lig. collaterale radiale
 ![[Pasted image 20261111100437.png]]7?:: Lig. anulare radii
