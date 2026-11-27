@@ -7,6 +7,11 @@
 
 ### Form
 - Hvilken form har m. orbicularis oculi?:: Rungmuskel
+- Hvad hedder de 3 dele af . orbicularis oculi og hvor er det?
+?
+- Pars orbitalis (tykke yderste del)
+- Pars palpebralis (delen i øjenlågene)
+- Pars lacrimalis (dybe del af musklen der ligger udner tåresækken)
 
 ### Forløb
 #### Udspring
